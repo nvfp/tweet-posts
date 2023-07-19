@@ -40,8 +40,8 @@ def send_tweet_with_image(text, image):
     auth.set_access_token(access_token, access_token_secret)
     api = tweepy.API(auth)
 
-    media = api.media_upload(image)
-    api.update_status(status=text, media_ids=[media.media_id])
+    # media = api.media_upload(image)
+    # api.update_status(status=text, media_ids=[media.media_id])
 
 
 if __name__ == '__main__':
