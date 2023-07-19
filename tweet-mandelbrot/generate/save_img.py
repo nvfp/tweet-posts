@@ -1,6 +1,9 @@
 import os
 import subprocess as sp
 
+from mykit.kit.text import byteFmt
+from mykit.kit.utils import printer
+
 
 def save_img(
     ffmpeg_bin, file_path, ppm_data,
@@ -15,7 +18,7 @@ def save_img(
     edit_vignette,
     edit_temp
 ):
-    print(f'DEBUG: Attempting to save the image to {repr(file_path)}.')
+    printer(f'DEBUG: Attempting to save the image to {repr(file_path)}.')
 
     ## Check
     if os.path.exists(file_path):
@@ -64,4 +67,7 @@ def save_img(
     pipe.wait()
     pipe.terminate()
 
-    print(f'INFO: Image created at {repr(file_path)}.')
+    printer(f'INFO: Image created at {repr(file_path)}.')
+
+    file_size = os.path.getsize(file_path)
+    printer(f'INFO: Image file size: {file_size} ({byteFmt(file_size)}).')

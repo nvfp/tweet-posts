@@ -1,8 +1,11 @@
 # import logging
 import os
+import re
 from datetime import datetime
 
 import tweepy
+
+from mykit.kit.utils import printer
 
 
 # logging.basicConfig(level=logging.DEBUG, format='[%(asctime)s] %(levelname)s: %(message)s', datefmt='%H:%M:%S')
@@ -30,6 +33,7 @@ def send_tweet(tweet_content):
 
 
 def send_tweet_with_image(text, image):
+    printer('INFO: Sending tweet.')
 
     consumer_key = os.environ['TWITTER_API_KEY']
     consumer_secret = os.environ['TWITTER_API_SECRET_KEY']
@@ -56,8 +60,29 @@ def send_tweet_with_image(text, image):
 
 if __name__ == '__main__':
 
-    dt = datetime.now().strftime('%B %d, %Y, %I:%M %p')
+    # dt = datetime.now().strftime('%B %d, %Y, %I:%M %p')
     # send_tweet(f'[{dt}] Test tweet from GitHub Actions!')
-    
-    img = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'foo.jpg')
-    send_tweet_with_image(f'test tweet\n{dt}', img)
+
+    PROJECT_ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
+
+    ## Image path
+    IMG = os.path.join(PROJECT_ROOT_DIR, 'drafts', 'result.png')
+
+    ## Metadata file path
+    METADATA = [f for f in os.path.join(PROJECT_ROOT_DIR, 'drafts') if f.endswith('.txt')][0]
+
+    ## Parse some metadata to post
+    with open(METADATA, 'r') as f:
+        md_text = f.read()
+    md_id = re.search(r'id: (?P<id>.*)', md_text).group('id')
+    md_xmin = re.search(r'xmin: (?P<xmin>.*)', md_text).group('xmin')
+    md_xmax = re.search(r'xmax: (?P<xmax>.*)', md_text).group('xmax')
+    md_ymin = re.search(r'ymin: (?P<ymin>.*)', md_text).group('ymin')
+    md_ymax = re.search(r'ymax: (?P<ymax>.*)', md_text).group('ymax')
+
+    tweet = (
+        'Daily Mandelbrot fractals\n'
+        f'Real: {[md_xmin, md_xmax]}\n'
+        f'Imag: {[md_ymin, md_ymax]}'
+    )
+    send_tweet_with_image(tweet, IMG)

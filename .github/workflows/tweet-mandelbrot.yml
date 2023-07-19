@@ -1,0 +1,45 @@
+name: tweet mandelbrot set
+
+on:
+  workflow_dispatch:
+
+jobs:
+  job:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.9
+
+      - name: Install py dependencies
+        run: pip install numba==0.55.2 numpy==1.22.4 mykit==6.0.0 tweepy
+
+      - name: Install ffmpeg
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+
+      - name: Generate image
+        run: python tweet-mandelbrot/generate
+
+      - name: Tweet!
+        env:
+          TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY }}
+          TWITTER_API_SECRET_KEY: ${{ secrets.TWITTER_API_SECRET_KEY }}
+          TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+          TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
+        run: python tweet-mandelbrot/tweet.py
+
+      - name: Archiving
+        run: |
+          python tweet-mandelbrot/do_archive.py
+
+          echo "::group::Commit"
+          git config user.name "tweet-mandelbrot"
+          git config user.email "${{ vars.GIT_EMAIL }}"
+          git add .
+          git commit -m "Archived — $(date +'%Y %b %e, %l:%M %p')"
+          git push
+          echo "::endgroup::"

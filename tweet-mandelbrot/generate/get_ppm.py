@@ -1,6 +1,8 @@
 import numba as nb
 import numpy as np
 
+from mykit.kit.utils import printer
+
 
 def compute_array_numpy(w, h, xmin, xmax, ymin, ymax, antialiasing_is_on, antialiasing_supsample, n_iter, degree, r_conv):
 
@@ -140,6 +142,7 @@ def get_ppm(
     w, h, ct,
     hue_offset, saturation
 ):
+    printer('DEBUG: Generating the ppm data.')
 
     if not is_grayscale:
         raw = _convert(raw, hue_offset, saturation)
