@@ -36,18 +36,13 @@ def send_tweet_with_image(text, image):
     access_token = os.environ['TWITTER_ACCESS_TOKEN']
     access_token_secret = os.environ['TWITTER_ACCESS_TOKEN_SECRET']
 
-    client = tweepy.Client(
-        consumer_key=consumer_key, consumer_secret=consumer_secret,
-        access_token=access_token, access_token_secret=access_token_secret
+    auth = tweepy.OAuth1UserHandler(
+        consumer_key, consumer_secret, access_token, access_token_secret
     )
 
-    try:
-        with open(image, 'rb') as image_file:
-            media = client.upload_media(media=image_file)
-            client.create_tweet(text=text, media_ids=[media.media_id])
-        print("Tweet sent successfully.")
-    except Exception as e:
-        print(f"An error occurred while sending the tweet: {e}")
+    api = tweepy.API(auth)
+
+    api.update_status(text)
 
 
 if __name__ == '__main__':
