@@ -11,15 +11,14 @@ def send_tweet(tweet_content):
     access_token = os.environ['TWITTER_ACCESS_TOKEN']
     access_token_secret = os.environ['TWITTER_ACCESS_TOKEN_SECRET']
 
-    ## Auth
-    auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
-    auth.set_access_token(access_token, access_token_secret)
+    client = tweepy.Client(
+        consumer_key=consumer_key, consumer_secret=consumer_secret,
+        access_token=access_token, access_token_secret=access_token_secret
+    )
 
-    ## API
-    api = tweepy.API(auth)
-
-    ## Tweet!
-    api.update_status(tweet_content)
+    response = client.create_tweet(text=tweet_content)
+    print(response)
+    print(f"https://twitter.com/user/status/{response.data['id']}")
 
 
 if __name__ == '__main__':
