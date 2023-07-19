@@ -40,14 +40,15 @@ def get_random_range():
 
 def main():
 
-    w, h = 1280, 720
-    antialiasing_is_on = True
-    antialiasing_supsample = 2
+    w, h = 960, 540
 
-    ## Random Mandelbrot set config
+    ## Mandelbrot set config
+    antialiasing_is_on = False
+    antialiasing_supsample = random.randint(2, 3)
+
     # use_fast_renderer = random.choice([True, False])
     use_fast_renderer = True  # Note: Using the fast renderer disables the use of the 'degree' and 'r_conv' options
-    n_iter = 512
+    n_iter = random.randint(64, 256)
     degree = 2
     r_conv = 2
     is_grayscale = random.choice([True, False])
@@ -59,7 +60,7 @@ def main():
     num_attempts = 0
     dur_t0 = time.time()
     std = 0  # standard deviation
-    while std < 50:  # This essentially checks the noise of the image (if 0 -> all uniform, aka a blank image)
+    while std < 100:  # This essentially checks the noise of the image (if 0 -> all uniform, aka a blank image)
         num_attempts += 1
         if (time.time() - dur_t0) > 600: break  # Guard
         if (int(time.time() - dur_t0) % 10) == 0: printer(f'INFO: num_attempts: {num_attempts}')
@@ -88,14 +89,14 @@ def main():
     )
 
     ## Random FFmpeg filters
-    edit_contrast   = random.uniform(0.5, 1.5)
-    edit_brightness = random.uniform(-0.5, 0.5)
+    edit_contrast   = random.uniform(0.6, 1.4)
+    edit_brightness = random.uniform(-0.3, 0.3)
     edit_saturation = random.uniform(0.25, 1.75)
     edit_gamma      = random.uniform(0.7, 1.3)
     edit_gamma_r    = random.uniform(0.7, 1.3)
     edit_gamma_g    = random.uniform(0.7, 1.3)
     edit_gamma_b    = random.uniform(0.7, 1.3)
-    edit_vignette   = random.randint(-40, 40)
+    edit_vignette   = random.randint(-51, 51)
     edit_temp       = random.randint(2000, 8000)
 
     # Export
