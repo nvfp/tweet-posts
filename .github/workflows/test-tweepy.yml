@@ -1,0 +1,11 @@
+name: Test tweepy
+
+on:
+  workflow_dispatch:
+
+jobs:
+  job:
+    runs-on: ubuntu-latest
+    steps:
+      - name: foo
+        run: foo
