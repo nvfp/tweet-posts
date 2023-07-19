@@ -13,7 +13,7 @@ def main():
     printer(f'INFO: Deleting {repr(img)}.')
     os.remove(img)
 
-    metadata_file_path = [f for f in os.path.join(PROJECT_ROOT_DIR, 'drafts') if f.endswith('.txt')][0]
+    metadata_file_path = [f for f in os.listdir(os.path.join(PROJECT_ROOT_DIR, 'drafts')) if f.endswith('.txt')][0]
     metadata_file_name = os.path.basename(metadata_file_path)
     src = metadata_file_path
     dst = os.path.join(PROJECT_ROOT_DIR, 'archive', metadata_file_name)

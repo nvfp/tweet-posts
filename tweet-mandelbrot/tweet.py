@@ -69,7 +69,7 @@ if __name__ == '__main__':
     IMG = os.path.join(PROJECT_ROOT_DIR, 'drafts', 'result.png')
 
     ## Metadata file path
-    METADATA = [f for f in os.path.join(PROJECT_ROOT_DIR, 'drafts') if f.endswith('.txt')][0]
+    METADATA = [f for f in os.listdir(os.path.join(PROJECT_ROOT_DIR, 'drafts')) if f.endswith('.txt')][0]
 
     ## Parse some metadata to post
     with open(METADATA, 'r') as f:
