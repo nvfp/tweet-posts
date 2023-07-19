@@ -21,9 +21,6 @@ jobs:
 
       # - name: Install py dependencies
       #   run: pip install numpy numba tweepy
-
-      - name: test
-        run: ffmpeg
         
       - name: Install ffmpeg
         run: sudo apt-get update && sudo apt-get install -y ffmpeg
