@@ -51,4 +51,5 @@ if __name__ == '__main__':
     dt = datetime.now().strftime('%B %d, %Y, %I:%M %p')
     # send_tweet(f'[{dt}] Test tweet from GitHub Actions!')
     
-    send_tweet_with_image(f'test tweet\n{dt}', 'foo.jpg')
+    img = os.path.join(os.path.dirname(os.path.abspath(__name__)), 'foo.jpg')
+    send_tweet_with_image(f'test tweet\n{dt}', img)
