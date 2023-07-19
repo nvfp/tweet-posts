@@ -1,11 +1,16 @@
 name: tweet mandelbrot set
 
 on:
+  push:
+    branches:
+      - main
   workflow_dispatch:
 
 jobs:
   job:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout
         uses: actions/checkout@v3
