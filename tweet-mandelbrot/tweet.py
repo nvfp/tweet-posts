@@ -36,13 +36,21 @@ def send_tweet_with_image(text, image):
     access_token = os.environ['TWITTER_ACCESS_TOKEN']
     access_token_secret = os.environ['TWITTER_ACCESS_TOKEN_SECRET']
 
-    auth = tweepy.OAuth1UserHandler(
-        consumer_key, consumer_secret, access_token, access_token_secret
+    auth = tweepy.OAuth1UserHandler(consumer_key, consumer_secret)
+    auth.set_access_token(access_token, access_token_secret,)
+    client_v1 = tweepy.API(auth)
+
+    client_v2 = tweepy.Client(
+        consumer_key=consumer_key,
+        consumer_secret=consumer_secret,
+        access_token=access_token,
+        access_token_secret=access_token_secret,
     )
 
-    api = tweepy.API(auth)
+    media = client_v1.media_upload(filename=image)
+    media_id = media.media_id
 
-    api.update_status(text) 
+    client_v2.create_tweet(text=text, media_ids=[media_id])
 
 
 if __name__ == '__main__':
