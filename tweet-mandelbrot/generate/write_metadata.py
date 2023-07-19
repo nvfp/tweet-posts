@@ -6,8 +6,8 @@ from datetime import datetime
 from mykit.kit.utils import printer
 
 
-ARCHIVE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)), 'archive')
-DRAFT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)), 'draft')
+ARCHIVE_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'archive')
+DRAFT_DIR   = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'drafts')
 printer(f'DEBUG: ARCHIVE_DIR: {repr(ARCHIVE_DIR)}.')
 
 
