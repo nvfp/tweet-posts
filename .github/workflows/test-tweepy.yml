@@ -14,8 +14,14 @@ jobs:
       - name: foo
         env:
           FAKE_SECRETS: ${{ secrets.TEST_FAKE_SECRETS }}
+          FAKE_SECRETS_2: foo bar bar-boo
         shell: python
         run: |
-          x = '$FAKE_SECRETS'
+          import os
+          x = os.environ['FAKE_SECRETS']
+          print(x)
+          print(repr(x))
+
+          x = os.environ['FAKE_SECRETS_2']
           print(x)
           print(repr(x))
