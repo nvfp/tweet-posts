@@ -41,7 +41,7 @@ def get_random_range():
 def main():
 
     w, h = 1280, 720
-    antialiasing_is_on = False
+    antialiasing_is_on = True
     antialiasing_supsample = 2
 
     ## Random Mandelbrot set config
@@ -99,7 +99,7 @@ def main():
     edit_temp       = random.randint(2000, 8000)
 
     # Export
-    save_img(
+    file_size = save_img(
         'ffmpeg',
         os.path.join(PROJECT_ROOT_DIR, 'drafts', 'result.png'),
         ppm_data,
@@ -130,6 +130,7 @@ def main():
         saturation,
 
         num_attempts, dur, std,
+        file_size,
 
         xmin, xmax, ymin, ymax, frame_width, frame_height,
 

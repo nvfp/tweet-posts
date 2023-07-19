@@ -71,3 +71,5 @@ def save_img(
 
     file_size = os.path.getsize(file_path)
     printer(f'INFO: Image file size: {file_size} ({byteFmt(file_size)}).')
+
+    return file_size  # metadata purposes

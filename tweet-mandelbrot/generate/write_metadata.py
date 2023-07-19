@@ -3,6 +3,7 @@ import random
 import string
 from datetime import datetime
 
+from mykit.kit.text import byteFmt
 from mykit.kit.utils import printer
 
 
@@ -43,6 +44,7 @@ def get_text(
     saturation,
 
     num_attempts, dur, std,
+    file_size,
 
     xmin, xmax, ymin, ymax, frame_width, frame_height,
 
@@ -77,6 +79,7 @@ saturation: {saturation}
 num_attempts: {num_attempts}
 dur: {dur}
 std: {std}
+size: {file_size} ({byteFmt(file_size)})
 
 xmin: {xmin}
 xmax: {xmax}
@@ -111,6 +114,7 @@ def write_metadata(
     saturation,
 
     num_attempts, dur, std,
+    file_size,
 
     xmin, xmax, ymin, ymax, frame_width, frame_height,
 
@@ -146,6 +150,7 @@ def write_metadata(
         saturation,
 
         num_attempts, dur, std,
+        file_size,
 
         xmin, xmax, ymin, ymax, frame_width, frame_height,
 
