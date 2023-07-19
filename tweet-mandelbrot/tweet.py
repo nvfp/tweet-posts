@@ -81,8 +81,9 @@ if __name__ == '__main__':
     md_ymax = re.search(r'ymax: (?P<ymax>.*)', md_text).group('ymax')
 
     tweet = (
-        'Daily Mandelbrot fractals\n'
-        f'Real: {[md_xmin, md_xmax]}\n'
-        f'Imag: {[md_ymin, md_ymax]}'
+        f'Daily Mandelbrot fractals ({md_id})\n\n'
+        'Coordinate:\n'
+        f'Real:\n{[float(md_xmin), float(md_xmax)]}\n'
+        f'Imag:\n{[float(md_ymin), float(md_ymax)]}'
     )
     send_tweet_with_image(tweet, IMG)
