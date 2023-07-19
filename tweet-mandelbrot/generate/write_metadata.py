@@ -18,7 +18,7 @@ def get_uid():
         return ''.join(random.choice(characters) for _ in range(5))
     
     files = os.listdir(ARCHIVE_DIR)
-    uids = [f[:-4] for f in files]  # Trim the ".txt" endings
+    uids = [f[:-4] for f in files]  # Trim the ".txt" endings  (ignore the .gitkeep; it shouldnt raise any errors)
     printer(f'DEBUG: uids: {uids}')
 
     uid = get_id()
