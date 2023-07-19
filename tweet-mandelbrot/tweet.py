@@ -86,7 +86,7 @@ def send_tweet_with_image_then_reply(text, image, reply):
 
     ## Reply
     tweet_id = posted.data['id']  # Get the ID of the tweet
-    client_v2.create_tweet(text=reply, in_reply_to_status_id=tweet_id)
+    client_v2.create_tweet(text=reply, in_reply_to_tweet_id=tweet_id)
 
 
 if __name__ == '__main__':
