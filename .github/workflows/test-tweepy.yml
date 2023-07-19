@@ -16,6 +16,7 @@ jobs:
           FAKE_SECRETS: ${{ secrets.TEST_FAKE_SECRETS }}
           FAKE_SECRETS_2: >
             line1
+            
             line2 foo
               bar
             baz
