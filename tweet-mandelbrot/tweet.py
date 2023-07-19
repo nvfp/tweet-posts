@@ -42,7 +42,7 @@ def send_tweet_with_image(text, image):
 
     api = tweepy.API(auth)
 
-    api.update_status(text)
+    api.update_status(text) 
 
 
 if __name__ == '__main__':
