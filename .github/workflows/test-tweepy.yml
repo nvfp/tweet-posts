@@ -10,6 +10,8 @@ jobs:
       - name: foo
         env:
           FAKE_SECRETS: ${{ secrets.TEST_FAKE_SECRETS }}
+        shell: python
         run: |
-          echo "foo bar"
-          echo "fake secrets: '$FAKE_SECRETS'"
+          x = '$FAKE_SECRETS'
+          print(x)
+          print(repr(x))
