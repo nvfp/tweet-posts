@@ -42,6 +42,7 @@ def send_tweet_with_image(text, image):
 
     # media = api.media_upload(image)
     # api.update_status(status=text, media_ids=[media.media_id])
+    api.update_status(status=text)
 
 
 if __name__ == '__main__':
