@@ -58,6 +58,36 @@ def send_tweet_with_image(text, image):
     client_v2.create_tweet(text=text, media_ids=[media_id])
 
 
+
+def send_tweet_with_image_then_reply(text, image, reply):
+    printer('INFO: Sending tweet.')
+
+    consumer_key = os.environ['TWITTER_API_KEY']
+    consumer_secret = os.environ['TWITTER_API_SECRET_KEY']
+    access_token = os.environ['TWITTER_ACCESS_TOKEN']
+    access_token_secret = os.environ['TWITTER_ACCESS_TOKEN_SECRET']
+
+    ## ref: https://stackoverflow.com/questions/70891698/how-to-post-a-tweet-with-media-picture-using-twitter-api-v2-and-tweepy-python
+    auth = tweepy.OAuth1UserHandler(consumer_key, consumer_secret)
+    auth.set_access_token(access_token, access_token_secret,)
+    client_v1 = tweepy.API(auth)
+
+    client_v2 = tweepy.Client(
+        consumer_key=consumer_key,
+        consumer_secret=consumer_secret,
+        access_token=access_token,
+        access_token_secret=access_token_secret,
+    )
+
+    media = client_v1.media_upload(filename=image)
+    media_id = media.media_id
+
+    posted = client_v2.create_tweet(text=text, media_ids=[media_id])
+
+    ## Reply
+    client_v2.create_tweet(text=reply, in_reply_to_status_id=posted.id)
+
+
 if __name__ == '__main__':
 
     # dt = datetime.now().strftime('%B %d, %Y, %I:%M %p')
@@ -81,9 +111,11 @@ if __name__ == '__main__':
     md_ymax = re.search(r'ymax: (?P<ymax>.*)', md_text).group('ymax')
 
     tweet = (
-        f'Daily Mandelbrot fractals ({md_id})\n\n'
+        f'Mandelbrot fractals ({md_id})'
+    )
+    reply = (
         'Coordinate:\n'
         f'Real:\n{[float(md_xmin), float(md_xmax)]}\n'
         f'Imag:\n{[float(md_ymin), float(md_ymax)]}'
     )
-    send_tweet_with_image(tweet, IMG)
+    send_tweet_with_image_then_reply(tweet, IMG, reply)
