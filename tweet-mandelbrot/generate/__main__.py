@@ -47,7 +47,7 @@ def main():
     ## Random Mandelbrot set config
     # use_fast_renderer = random.choice([True, False])
     use_fast_renderer = True  # Note: Using the fast renderer disables the use of the 'degree' and 'r_conv' options
-    n_iter = 300
+    n_iter = 512
     degree = 2
     r_conv = 2
     is_grayscale = random.choice([True, False])
@@ -61,7 +61,7 @@ def main():
     std = 0  # standard deviation
     while std < 10:  # This essentially checks the noise of the image (if 0 -> all uniform, aka a blank image)
         num_attempts += 1
-        if num_attempts > 100: break  # Guard
+        if (time.time() - dur_t0) > 600: break  # Guard
         xmin, xmax, ymin, ymax, frame_width, frame_height = get_random_range()
         ## Render
         raw = get_raw_grayscale_image(
