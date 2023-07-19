@@ -72,7 +72,7 @@ if __name__ == '__main__':
     METADATA = [f for f in os.listdir(os.path.join(PROJECT_ROOT_DIR, 'drafts')) if f.endswith('.txt')][0]
 
     ## Parse some metadata to post
-    with open(METADATA, 'r') as f:
+    with open(os.path.join(PROJECT_ROOT_DIR, 'drafts', METADATA), 'r') as f:
         md_text = f.read()
     md_id = re.search(r'id: (?P<id>.*)', md_text).group('id')
     md_xmin = re.search(r'xmin: (?P<xmin>.*)', md_text).group('xmin')

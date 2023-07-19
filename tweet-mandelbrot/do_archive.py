@@ -13,8 +13,8 @@ def main():
     printer(f'INFO: Deleting {repr(img)}.')
     os.remove(img)
 
-    metadata_file_path = [f for f in os.listdir(os.path.join(PROJECT_ROOT_DIR, 'drafts')) if f.endswith('.txt')][0]
-    metadata_file_name = os.path.basename(metadata_file_path)
+    metadata_file_name = [f for f in os.listdir(os.path.join(PROJECT_ROOT_DIR, 'drafts')) if f.endswith('.txt')][0]
+    metadata_file_path = os.path.join(PROJECT_ROOT_DIR, 'drafts', metadata_file_name)
     src = metadata_file_path
     dst = os.path.join(PROJECT_ROOT_DIR, 'archive', metadata_file_name)
     if os.path.exists(dst): raise FileExistsError(f'Already exists: {repr(dst)}.')
