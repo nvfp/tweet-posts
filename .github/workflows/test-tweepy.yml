@@ -20,7 +20,7 @@ jobs:
           python-version: 3.9
 
       - name: Install dependencies
-        run: pip install tweepy
+        run: pip install tweepy requests_oauthlib
 
       - name: Tweet!
         env:
