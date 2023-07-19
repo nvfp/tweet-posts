@@ -1,7 +1,7 @@
 name: Scheduled Workflow
 on:
   schedule:
-    - cron: '*/7 * * * *' # Runs every 5 minutes
+    - cron: '*/7 * * * *'
 jobs:
   my-job:
     runs-on: ubuntu-latest
