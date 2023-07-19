@@ -41,6 +41,10 @@ jobs:
         run: |
           python tweet-mandelbrot/do_archive.py
 
+          echo "::group::Debug"
+          git log -3
+          echo "::endgroup::"
+
           echo "::group::Commit"
           git config user.name "tweet-mandelbrot"
           git config user.email "${{ vars.GIT_EMAIL }}"
