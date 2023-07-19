@@ -36,6 +36,7 @@ def send_tweet_with_image(text, image):
     access_token = os.environ['TWITTER_ACCESS_TOKEN']
     access_token_secret = os.environ['TWITTER_ACCESS_TOKEN_SECRET']
 
+    ## ref: https://stackoverflow.com/questions/70891698/how-to-post-a-tweet-with-media-picture-using-twitter-api-v2-and-tweepy-python
     auth = tweepy.OAuth1UserHandler(consumer_key, consumer_secret)
     auth.set_access_token(access_token, access_token_secret,)
     client_v1 = tweepy.API(auth)
