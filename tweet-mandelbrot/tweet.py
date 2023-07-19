@@ -1,10 +1,16 @@
+import logging
 import os
 from datetime import datetime
 
 import tweepy
 
 
+logging.basicConfig(level=logging.DEBUG, format='[%(asctime)s] %(levelname)s: %(message)s', datefmt='%H:%M:%S')
+logger = logging.getLogger(__name__)
+
+
 def send_tweet(tweet_content):
+    logger.info(f'Tweeting {repr(tweet_content)}.')
 
     consumer_key = os.environ['TWITTER_API_KEY']
     consumer_secret = os.environ['TWITTER_API_SECRET_KEY']
@@ -17,8 +23,10 @@ def send_tweet(tweet_content):
     )
 
     response = client.create_tweet(text=tweet_content)
-    print(response)
-    print(f"https://twitter.com/user/status/{response.data['id']}")
+    logger.debug(response)
+    logger.debug(f"https://twitter.com/user/status/{response.data['id']}")
+
+    logger.debug('Tweeted!')
 
 
 if __name__ == '__main__':
