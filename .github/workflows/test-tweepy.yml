@@ -8,4 +8,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: foo
-        run: foo
+        env:
+          FAKE_SECRETS: ${{ secrets.TEST_FAKE_SECRETS }}
+        run: |
+          echo "foo bar"
+          echo "fake secrets: '$FAKE_SECRETS'"
