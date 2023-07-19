@@ -11,22 +11,21 @@ jobs:
   job:
     runs-on: ubuntu-latest
     steps:
-      - name: foo
-        env:
-          FAKE_SECRETS: ${{ secrets.TEST_FAKE_SECRETS }}
-          FAKE_SECRETS_2: >
-            line1
-            
-            line2 foo
-              bar
-            baz
-        shell: python
-        run: |
-          import os
-          x = os.environ['FAKE_SECRETS']
-          print(x)
-          print(repr(x))
+      - name: Checkout
+        uses: actions/checkout@v2
 
-          x = os.environ['FAKE_SECRETS_2']
-          print(x)
-          print(repr(x))
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.9
+
+      - name: Install dependencies
+        run: pip install tweepy
+
+      - name: Tweet!
+        env:
+          TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY }}
+          TWITTER_API_SECRET_KEY: ${{ secrets.TWITTER_API_SECRET_KEY }}
+          TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+          TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
+        run: python tweet-mandelbrot/tweet.py
