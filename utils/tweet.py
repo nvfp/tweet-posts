@@ -78,4 +78,5 @@ def send_tweet_with_image_then_reply(text, image, reply):
 
     ## Reply
     tweet_id = posted.data['id']  # Get the id of the tweet
+    printer(f'DEBUG: tweet_id: {tweet_id}')
     client_v2.create_tweet(text=reply, in_reply_to_tweet_id=tweet_id)
