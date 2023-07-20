@@ -2,8 +2,14 @@ import numpy as np
 import os
 import random
 import time
+import sys
 
 from mykit.kit.utils import printer
+
+## Make all folders under repo root directory importable
+_REPO_ROOT_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+printer(f'DEBUG: Appending {repr(_REPO_ROOT_DIR)} to `sys.path`.')
+sys.path.append(_REPO_ROOT_DIR)
 
 from tweet_mandelbrot.constants import DRAFT_DIR
 from tweet_mandelbrot.generate.get_ppm import get_raw_grayscale_image, get_ppm

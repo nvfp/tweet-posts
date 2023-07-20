@@ -1,7 +1,15 @@
 import os
 import random
 import re
+import sys
 from datetime import datetime
+
+from mykit.kit.utils import printer
+
+## Make all folders under repo root directory importable
+_REPO_ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+printer(f'DEBUG: Appending {repr(_REPO_ROOT_DIR)} to `sys.path`.')
+sys.path.append(_REPO_ROOT_DIR)
 
 from utils.tweet import send_tweet_with_image_then_reply
 from tweet_mandelbrot.constants import DRAFT_DIR
