@@ -50,11 +50,11 @@ if __name__ == '__main__':
         f'Wishing you a rad {day}!',
     ]
     tweet = (
-        f'{random.choice(random_greet)}\n\n'
-        f'image id: {md_id}'
+        f'{random.choice(random_greet)} — image id: {md_id}'
     )
     reply = (
-        '@nvlts metadata:\n'
+        '@nvfastplease\n'
+        'metadata:\n'
         f'real:\n{[float(md_xmin), float(md_xmax)]}\n'
         f'imag:\n{[float(md_ymin), float(md_ymax)]}\n'
         f'#iteration: {md_n_iter}\n'
