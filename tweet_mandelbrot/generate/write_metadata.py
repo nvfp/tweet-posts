@@ -80,6 +80,7 @@ edit_temp: {edit_temp}
 tweet_id: TWEET_ID
 """
 
+
 def write_metadata(
     file_path,
     w, h,
