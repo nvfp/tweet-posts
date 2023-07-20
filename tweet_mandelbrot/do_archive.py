@@ -3,11 +3,7 @@ import shutil
 
 from mykit.kit.utils import printer
 
-from utils.constants import PROJECT_ROOT_DIR
-
-
-DRAFT_DIR   = os.path.join(PROJECT_ROOT_DIR, 'tweet-mandelbrot', 'drafts')
-ARCHIVE_DIR = os.path.join(PROJECT_ROOT_DIR, 'tweet-mandelbrot', 'archive')
+from tweet_mandelbrot.constants import ARCHIVE_DIR, DRAFT_DIR
 
 
 def main():
