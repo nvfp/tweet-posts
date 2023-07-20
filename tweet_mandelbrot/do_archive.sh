@@ -11,9 +11,7 @@ echo "INFO: Deleting '$img_path'."
 
 # Move the metadata
 src="$(pwd)/tweet_mandelbrot/draft/metadata.txt"
-timestamp="$(date +%s | awk '{printf "%011d\n", $1}')"
-echo "DEBUG: timestamp: '$timestamp'."
-dst="$(pwd)/tweet_mandelbrot/archive/$timestamp-${{ steps.tweet.outputs.tweet_id }}.txt"
+dst="$(pwd)/tweet_mandelbrot/archive/$(date +%s | awk '{printf "%011d\n", $1}')-$TWEET_ID.txt"
 echo "DEBUG: src: '$src'."
 echo "DEBUG: dst: '$dst'."
 
