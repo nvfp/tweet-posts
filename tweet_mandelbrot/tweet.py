@@ -50,7 +50,8 @@ if __name__ == '__main__':
         f'Wishing you a rad {day}!',
     ]
     tweet = (
-        f'{random.choice(random_greet)}        uid-{md_id}'
+        f'{random.choice(random_greet)}\n\n'
+        f'image id: {md_id}'
     )
     reply = (
         '@nvlts metadata:\n'
@@ -58,6 +59,6 @@ if __name__ == '__main__':
         f'imag:\n{[float(md_ymin), float(md_ymax)]}\n'
         f'#iteration: {md_n_iter}\n'
         f'antialiasing: {md_antialiasing_is_on}\n'
-        f'archive: https://github.com/nvfp/tweet-posts/blob/main/tweet-mandelbrot/archive/{md_id}.txt'
+        f'archive: https://github.com/nvfp/tweet-posts/blob/main/tweet_mandelbrot/archive/{md_id}.txt'
     )
     send_tweet_with_image_then_reply(tweet, IMG, reply)
