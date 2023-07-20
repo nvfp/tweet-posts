@@ -43,7 +43,7 @@ def get_random_range():
 
 def main():
 
-    w, h = 1280, 720
+    w, h = 1280, 720  # should 16:9 AR
 
     ## Mandelbrot set config
     antialiasing_is_on = random.choice([True, False])
@@ -94,14 +94,14 @@ def main():
     )
 
     ## Random FFmpeg filters
-    edit_contrast   = random.uniform(0.6, 1.4)
-    edit_brightness = random.uniform(-0.3, 0.3)
+    edit_contrast   = random.uniform(0.7, 1.8)
+    edit_brightness = random.uniform(-0.1, 0.23)
     edit_saturation = random.uniform(0.25, 1.75)
-    edit_gamma      = random.uniform(0.7, 1.3)
-    edit_gamma_r    = random.uniform(0.7, 1.3)
-    edit_gamma_g    = random.uniform(0.7, 1.3)
-    edit_gamma_b    = random.uniform(0.7, 1.3)
-    edit_vignette   = random.randint(-51, 51)
+    edit_gamma      = random.uniform(0.9, 1.1)
+    edit_gamma_r    = random.uniform(0.9, 1.1)
+    edit_gamma_g    = random.uniform(0.9, 1.1)
+    edit_gamma_b    = random.uniform(0.9, 1.1)
+    edit_vignette   = random.randint(-48, 33)
     edit_temp       = random.randint(2000, 8000)
 
     # Export
@@ -122,6 +122,7 @@ def main():
     )
 
     write_metadata(
+        os.path.join(DRAFT_DIR, 'metadata.txt'),
         w, h,
 
         antialiasing_is_on, antialiasing_supsample,
