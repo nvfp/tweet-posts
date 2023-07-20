@@ -34,6 +34,14 @@ jobs:
       # - name: Generate image
       #   run: python tweet_mandelbrot/generate
 
+      - name: foo
+        id: tweet
+        shell: python
+        run: |
+          import os
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
+            print(f'tweet_id=foobar', file=f)
+
       # - name: Tweet!
       #   id: tweet
       #   env:
