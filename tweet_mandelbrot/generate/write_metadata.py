@@ -6,12 +6,7 @@ from datetime import datetime
 from mykit.kit.text import byteFmt
 from mykit.kit.utils import printer
 
-from utils.constants import PROJECT_ROOT_DIR
-
-
-ARCHIVE_DIR = os.path.join(PROJECT_ROOT_DIR, 'tweet-mandelbrot', 'archive')
-DRAFT_DIR   = os.path.join(PROJECT_ROOT_DIR, 'tweet-mandelbrot', 'drafts')
-printer(f'DEBUG: ARCHIVE_DIR: {repr(ARCHIVE_DIR)}.')
+from tweet_mandelbrot.constants import ARCHIVE_DIR, DRAFT_DIR
 
 
 def get_uid():
@@ -19,9 +14,9 @@ def get_uid():
     def get_id():
         characters = string.ascii_lowercase + string.digits
         return ''.join(random.choice(characters) for _ in range(5))
-    
+
     files = os.listdir(ARCHIVE_DIR)
-    uids = [f[:-4] for f in files]  # Trim the ".txt" endings  (ignore the .gitkeep; it shouldnt raise any errors)
+    uids = [f[:-4] for f in files]  # Trim the ".txt" endings
     printer(f'DEBUG: uids: {uids}')
 
     uid = get_id()
