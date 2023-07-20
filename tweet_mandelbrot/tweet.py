@@ -52,6 +52,13 @@ if __name__ == '__main__':
         f'Smile, it\'s {day}!',
         f'Keep shining on {day}!',
         f'Let\'s make it a memorable {day}!',
+        f'Cheers to an incredible {day}!',
+        f'Hope your {day} is awesome!',
+        f'Sending you good vibes on this {day}!',
+        f'Let the magic of {day} fill your heart!',
+        f'You rock, and so does this {day}!',
+        f'Shine bright like the sun on this {day}!',
+        f'Wishing you a productive {day}!',
     ]
     tweet = (
         f'{random.choice(random_greet)} — image id: {md_id}'
