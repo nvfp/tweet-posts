@@ -56,6 +56,7 @@ def save_img(
             '-pix_fmt', 'rgb24',
             '-i', '-',
             '-vf', filter,
+            '-q:v', '1',
             file_path
         ],
         stdin=sp.PIPE
