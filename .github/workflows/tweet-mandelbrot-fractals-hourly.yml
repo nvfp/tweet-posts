@@ -44,7 +44,7 @@ jobs:
 
       - name: Archiving
         run: |
-          # chmod +x tweet_mandelbrot/do_archive.sh
+          chmod +x tweet_mandelbrot/do_archive.sh
           tweet_mandelbrot/do_archive.sh
 
           # echo "::group::Debug"
