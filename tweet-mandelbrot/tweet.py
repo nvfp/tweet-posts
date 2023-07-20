@@ -111,7 +111,7 @@ if __name__ == '__main__':
     md_ymin = re.search(r'ymin: (?P<ymin>.*)', md_text).group('ymin')
     md_ymax = re.search(r'ymax: (?P<ymax>.*)', md_text).group('ymax')
     md_n_iter = re.search(r'n_iter: (?P<n_iter>.*)', md_text).group('n_iter')
-    md_antialiasing_is_on = re.search(r'antialiasing_is_on: (?P<antialiasing_is_on>.*)', md_text).group('antialiasing_is_on')
+    md_antialiasing_is_on = re.search(r'antialiasing_is_on    : (?P<antialiasing_is_on>.*)', md_text).group('antialiasing_is_on')
 
     tweet = (
         f'Happy {datetime.now().strftime("%A")}!    uid-{md_id}'
