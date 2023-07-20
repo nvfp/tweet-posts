@@ -38,7 +38,7 @@ def get_text(
 Image metadata
 ==============
 
-date: {datetime.now().strftime('%B %d, %Y, %I:%M %p')}
+date: {datetime.now().strftime('%B %d, %Y, %A %I:%M %p')}
 timestamp: {time.time()}
 
 resolution: {w}x{h}
