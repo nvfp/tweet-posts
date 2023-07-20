@@ -48,7 +48,14 @@ def send_tweet_with_image(text, image):
     media = client_v1.media_upload(filename=image)
     media_id = media.media_id
 
-    client_v2.create_tweet(text=text, media_ids=[media_id])
+    posted = client_v2.create_tweet(text=text, media_ids=[media_id])
+
+    tweet_id = posted.data['id']  # Get the id of the tweet
+    printer(f'DEBUG: tweet_id: {tweet_id}')
+
+    ## Store the tweet id for future need
+    with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
+        print(f'tweet_id={tweet_id}', file=f)
 
 
 def send_tweet_with_image_then_reply(text, image, reply):
