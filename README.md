@@ -1,1 +1,1 @@
-Automating my Twitter posts powered by GitHub Actions.
+Various code snippets for my twitter posts, powered by GitHub Actions.
