@@ -1,16 +1,12 @@
-import os
-import random
-import string
+import time
 from datetime import datetime
 
 from mykit.kit.text import byteFmt
 from mykit.kit.utils import printer
 
-from tweet_mandelbrot.constants import ARCHIVE_DIR, DRAFT_DIR
-
 
 def get_text(
-    id, w, h,
+    w, h,
 
     antialiasing_is_on, antialiasing_supsample,
 
@@ -43,7 +39,7 @@ Image metadata
 ==============
 
 date: {datetime.now().strftime('%B %d, %Y, %I:%M %p')}
-id: {id}
+timestamp: {time.time()}
 
 resolution: {w}x{h}
 
@@ -80,9 +76,12 @@ edit_gamma_g: {edit_gamma_g}
 edit_gamma_b: {edit_gamma_b}
 edit_vignette: {edit_vignette}
 edit_temp: {edit_temp}
+
+tweet_id: TWEET_ID
 """
 
 def write_metadata(
+    file_path,
     w, h,
 
     antialiasing_is_on, antialiasing_supsample,
@@ -113,13 +112,8 @@ def write_metadata(
 ):
     printer('DEBUG: Writing metadata file.')
 
-    id = get_uid()
-
-    ## Metadata file path
-    file_path = os.path.join(DRAFT_DIR, f'{id}.txt')
-
     text = get_text(
-        id, w, h,
+        w, h,
 
         antialiasing_is_on, antialiasing_supsample,
 
