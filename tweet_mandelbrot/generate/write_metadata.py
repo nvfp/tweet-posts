@@ -9,24 +9,6 @@ from mykit.kit.utils import printer
 from tweet_mandelbrot.constants import ARCHIVE_DIR, DRAFT_DIR
 
 
-def get_uid():
-
-    def get_id():
-        characters = string.ascii_lowercase + string.digits
-        return ''.join(random.choice(characters) for _ in range(5))
-
-    files = os.listdir(ARCHIVE_DIR)
-    uids = [f[:-4] for f in files]  # Trim the ".txt" endings
-    printer(f'DEBUG: uids: {uids}')
-
-    uid = get_id()
-    while uid in uids:
-        uid = get_id()
-
-    printer(f'INFO: uid: {uid}')
-    return uid
-
-
 def get_text(
     id, w, h,
 
