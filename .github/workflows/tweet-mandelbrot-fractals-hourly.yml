@@ -1,4 +1,4 @@
-name: Hourly fractals tweet
+name: tweet_mandelbrot (Hourly fractals)
 
 on:
   schedule:
@@ -45,7 +45,9 @@ jobs:
       - name: Archiving
         run: |
           # chmod +x tweet_mandelbrot/do_archive.sh
-          tweet_mandelbrot/do_archive.sh
+          echo "$(pwd)"
+          ls
+          # tweet_mandelbrot/do_archive.sh
 
           # echo "::group::Debug"
           # git log -3
