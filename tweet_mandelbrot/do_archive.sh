@@ -7,15 +7,13 @@ echo "::group::Archiving"
 # Delete the image
 img_path="$(pwd)/tweet_mandelbrot/draft/result.png"
 echo "INFO: Deleting '$img_path'."
-exit 9
+rm img_path
+
 # 
+file_name="$(date +%s | awk '{printf "%011d\n", $1}')-${{ steps.tweet.outputs.tweet_id }}.txt"
 
 
 echo "::endgroup::"
-
-    # img = os.path.join(DRAFT_DIR, 'result.png')
-    # printer(f'INFO: Deleting {repr(img)}.')
-    # os.remove(img)
 
     # metadata_file_name = [f for f in os.listdir(DRAFT_DIR) if f.endswith('.txt')][0]
     # metadata_file_path = os.path.join(DRAFT_DIR, metadata_file_name)
