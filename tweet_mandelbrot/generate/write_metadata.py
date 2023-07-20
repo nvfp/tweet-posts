@@ -57,6 +57,9 @@ def get_text(
     edit_temp,
 ):
     return f"""
+Image metadata
+==============
+
 date: {datetime.now().strftime('%B %d, %Y, %I:%M %p')}
 id: {id}
 
