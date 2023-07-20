@@ -1,17 +1,14 @@
 import numpy as np
 import os
 import random
-import sys
 import time
 
 from mykit.kit.utils import printer
 
-PROJECT_ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-printer(f'DEBUG: Appending {repr(PROJECT_ROOT_DIR)} to `sys.path`.')
-sys.path.append(PROJECT_ROOT_DIR)
-from generate.get_ppm import get_raw_grayscale_image, get_ppm
-from generate.save_img import save_img
-from generate.write_metadata import write_metadata
+from ..constants import DRAFT_DIR
+from .get_ppm import get_raw_grayscale_image, get_ppm
+from .save_img import save_img
+from .write_metadata import write_metadata
 
 
 def get_random_range():
@@ -104,7 +101,7 @@ def main():
     # Export
     file_size = save_img(
         'ffmpeg',
-        os.path.join(PROJECT_ROOT_DIR, 'drafts', 'result.png'),
+        os.path.join(PROJECT_ROOT_DIR, 'tweet-mandelbrot', 'drafts', 'result.png'),
         ppm_data,
 
         edit_contrast,

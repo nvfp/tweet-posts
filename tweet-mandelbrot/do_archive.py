@@ -3,20 +3,23 @@ import shutil
 
 from mykit.kit.utils import printer
 
+from utils.constants import PROJECT_ROOT_DIR
 
-PROJECT_ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
+
+DRAFT_DIR   = os.path.join(PROJECT_ROOT_DIR, 'tweet-mandelbrot', 'drafts')
+ARCHIVE_DIR = os.path.join(PROJECT_ROOT_DIR, 'tweet-mandelbrot', 'archive')
 
 
 def main():
 
-    img = os.path.join(PROJECT_ROOT_DIR, 'drafts', 'result.png')
+    img = os.path.join(DRAFT_DIR, 'result.png')
     printer(f'INFO: Deleting {repr(img)}.')
     os.remove(img)
 
-    metadata_file_name = [f for f in os.listdir(os.path.join(PROJECT_ROOT_DIR, 'drafts')) if f.endswith('.txt')][0]
-    metadata_file_path = os.path.join(PROJECT_ROOT_DIR, 'drafts', metadata_file_name)
+    metadata_file_name = [f for f in os.listdir(DRAFT_DIR) if f.endswith('.txt')][0]
+    metadata_file_path = os.path.join(DRAFT_DIR, metadata_file_name)
     src = metadata_file_path
-    dst = os.path.join(PROJECT_ROOT_DIR, 'archive', metadata_file_name)
+    dst = os.path.join(ARCHIVE_DIR, metadata_file_name)
     if os.path.exists(dst): raise FileExistsError(f'Already exists: {repr(dst)}.')
     printer(f'INFO: Moving {repr(src)} to {repr(dst)}.')
     shutil.move(src, dst)
