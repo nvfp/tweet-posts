@@ -5,10 +5,10 @@ import time
 
 from mykit.kit.utils import printer
 
-from ..constants import DRAFT_DIR
-from .get_ppm import get_raw_grayscale_image, get_ppm
-from .save_img import save_img
-from .write_metadata import write_metadata
+from tweet_mandelbrot.constants import DRAFT_DIR
+from tweet_mandelbrot.generate.get_ppm import get_raw_grayscale_image, get_ppm
+from tweet_mandelbrot.generate.save_img import save_img
+from tweet_mandelbrot.generate.write_metadata import write_metadata
 
 
 def get_random_range():
@@ -101,7 +101,7 @@ def main():
     # Export
     file_size = save_img(
         'ffmpeg',
-        os.path.join(PROJECT_ROOT_DIR, 'tweet-mandelbrot', 'drafts', 'result.png'),
+        os.path.join(DRAFT_DIR, 'result.png'),
         ppm_data,
 
         edit_contrast,
