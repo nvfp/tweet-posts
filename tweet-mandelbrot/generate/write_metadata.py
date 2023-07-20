@@ -26,6 +26,7 @@ def get_uid():
     while uid in uids:
         uid = get_id()
 
+    printer(f'INFO: uid: {uid}')
     return uid
 
 

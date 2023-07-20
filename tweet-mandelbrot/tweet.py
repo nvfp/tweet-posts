@@ -85,7 +85,7 @@ def send_tweet_with_image_then_reply(text, image, reply):
     posted = client_v2.create_tweet(text=text, media_ids=[media_id])
 
     ## Reply
-    tweet_id = posted.data['id']  # Get the ID of the tweet
+    tweet_id = posted.data['id']  # Get the id of the tweet
     client_v2.create_tweet(text=reply, in_reply_to_tweet_id=tweet_id)
 
 
@@ -110,13 +110,18 @@ if __name__ == '__main__':
     md_xmax = re.search(r'xmax: (?P<xmax>.*)', md_text).group('xmax')
     md_ymin = re.search(r'ymin: (?P<ymin>.*)', md_text).group('ymin')
     md_ymax = re.search(r'ymax: (?P<ymax>.*)', md_text).group('ymax')
+    md_n_iter = re.search(r'n_iter: (?P<n_iter>.*)', md_text).group('n_iter')
+    md_antialiasing_is_on = re.search(r'antialiasing_is_on: (?P<antialiasing_is_on>.*)', md_text).group('antialiasing_is_on')
 
     tweet = (
-        f'Mandelbrot fractals ({md_id})'
+        f'Happy {datetime.now().strftime("%A")}!    uid-{md_id}'
     )
     reply = (
-        'Coordinate:\n'
-        f'Real:\n{[float(md_xmin), float(md_xmax)]}\n'
-        f'Imag:\n{[float(md_ymin), float(md_ymax)]}'
+        '@nvlts metadata:\n'
+        f'real:\n{[float(md_xmin), float(md_xmax)]}\n'
+        f'imag:\n{[float(md_ymin), float(md_ymax)]}\n'
+        f'#iteration: {md_n_iter}\n'
+        f'antialiasing: {md_antialiasing_is_on}\n'
+        f'archive: https://github.com/nvfp/tweet-posts/blob/main/tweet-mandelbrot/archive/{md_id}.txt'
     )
     send_tweet_with_image_then_reply(tweet, IMG, reply)

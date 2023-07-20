@@ -43,15 +43,17 @@ def main():
     w, h = 1280, 720
 
     ## Mandelbrot set config
-    antialiasing_is_on = False
-    antialiasing_supsample = random.randint(2, 3)
+    antialiasing_is_on = random.choice([True, False])
+    # antialiasing_supsample = random.randint(2, 3)
+    antialiasing_supsample = 2
 
     # use_fast_renderer = random.choice([True, False])
     use_fast_renderer = True  # Note: Using the fast renderer disables the use of the 'degree' and 'r_conv' options
     n_iter = random.randint(128, 512)
     degree = 2
     r_conv = 2
-    is_grayscale = random.choice([True, False])
+    # is_grayscale = random.choice([True, False])
+    is_grayscale = False
     ct = random.randint(1, 255)
     hue_offset = random.randint(0, 359)
     saturation = random.uniform(-1, 1)
