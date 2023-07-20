@@ -5,7 +5,7 @@ set -e  # Exit the script immediately if any command exits with a non-zero statu
 echo "::group::Archiving"
 
 # Delete the image
-echo "foo"
+echo "$(pwd)"
 exit 9
 # 
 
