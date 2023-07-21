@@ -21,8 +21,8 @@ from tweet_burning_ship.generate.write_metadata import write_metadata
 def get_random_range():
 
     ## The region where the fractal is visible
-    x_bound_min = -2.75
-    x_bound_max = 2.25
+    x_bound_min = -2.5
+    x_bound_max = 2
     y_bound_min = -2.5
     y_bound_max = 0.5
 
