@@ -6,16 +6,13 @@ from mykit.kit.utils import printer
 
 @nb.jit(nb.int32(nb.complex128, nb.int32))
 def _get_esc_iter(c_frag, n_iter_frag):
-    nreal = 0
-    real = 0
-    imag = 0
-
+    z = c_frag
     for n in range(n_iter_frag):
-        nreal = real*real - imag*imag + c_frag.real
-        imag = 3*real*imag + c_frag.imag
-        real = nreal
-        if real*real + imag*imag > 255*255:
-            return n + 4 - np.log2(np.log2(real*real + imag*imag))
+        f_value = z*z*z - 1    # z^3 - 1
+        f_prime_value = 3*z*z  # 3z^2
+        if abs(f_value) < 1e-6:
+            return n
+        z = z - f_value / f_prime_value
     return 0
 
 @nb.guvectorize([(nb.complex128[:], nb.int32[:], nb.int32[:])], '(n),()->(n)', target='parallel')

@@ -1,8 +1,8 @@
-name: tweet_phoenix (Hourly fractals)
+name: tweet_newton (Hourly fractals)
 
 on:
-  # schedule:
-  #   - cron: '0 */2 * * *'
+  schedule:
+    - cron: '0 */3 * * *'
 
   workflow_dispatch:
 
@@ -38,7 +38,7 @@ jobs:
       - name: Generate image
         run: |
           source $GITHUB_WORKSPACE/$VENV_CACHE_DIR_NAME/bin/activate
-          python tweet_phoenix/generate
+          python tweet_newton/generate
 
       - name: Tweet!
         id: tweet
@@ -49,21 +49,21 @@ jobs:
           TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET_2 }}
         run: |
           source $GITHUB_WORKSPACE/$VENV_CACHE_DIR_NAME/bin/activate
-          python tweet_phoenix/do_tweet.py
+          python tweet_newton/do_tweet.py
 
       - name: Archiving
         env:
           TWEET_ID: ${{ steps.tweet.outputs.tweet_id }}
         run: |
-          chmod +x tweet_phoenix/do_archive.sh
-          tweet_phoenix/do_archive.sh
+          chmod +x tweet_newton/do_archive.sh
+          tweet_newton/do_archive.sh
 
           echo "::group::Debug"
           git log
           echo "::endgroup::"
 
           # Commit
-          git config user.name "tweet_phoenix"
+          git config user.name "tweet_newton"
           git config user.email "${{ vars.GIT_EMAIL }}"
           git add .
           git commit -m "Archived — $(date +'%Y %b %e, %l:%M %p')"

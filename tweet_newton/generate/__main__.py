@@ -12,19 +12,19 @@ printer(f'DEBUG: Appending {repr(_REPO_ROOT_DIR)} to `sys.path`.')
 sys.path.append(_REPO_ROOT_DIR)
 
 from utils.constants import FFMPEG
-from tweet_phoenix.constants import DRAFT_DIR
-from tweet_phoenix.generate.get_ppm import get_raw_grayscale_image, get_ppm
-from tweet_phoenix.generate.save_img import save_img
-from tweet_phoenix.generate.write_metadata import write_metadata
+from tweet_newton.constants import DRAFT_DIR
+from tweet_newton.generate.get_ppm import get_raw_grayscale_image, get_ppm
+from tweet_newton.generate.save_img import save_img
+from tweet_newton.generate.write_metadata import write_metadata
 
 
 def get_random_range():
 
     ## The region where the fractal is visible
-    x_bound_min = -2.75
-    x_bound_max = 1.25
-    y_bound_min = -1.124
-    y_bound_max = 1.13
+    x_bound_min = -3
+    x_bound_max = 3
+    y_bound_min = -2
+    y_bound_max = 2
 
     total_width = x_bound_max - x_bound_min
     total_height = y_bound_max - y_bound_min
@@ -49,7 +49,7 @@ def main():
     antialiasing_is_on = random.choice([True, False])
     antialiasing_supsample = 2
 
-    n_iter = random.randint(128, 1024)
+    n_iter = random.randint(32, 128)
     ct = random.randint(1, 255)
     hue_offset = random.randint(0, 359)
     saturation = random.uniform(-1, 1)

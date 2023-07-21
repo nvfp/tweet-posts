@@ -34,7 +34,7 @@ def get_text(
 Image metadata
 ==============
 
-type: Phoenix
+type: Newton
 date: {datetime.now().strftime('%B %d, %Y, %A %I:%M %p')}
 timestamp: {time.time()}
 

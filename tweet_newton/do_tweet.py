@@ -11,7 +11,7 @@ sys.path.append(_REPO_ROOT_DIR)
 
 from utils.get_random_fractal_greeting import get_random_fractal_greeting
 from utils.tweet import send_tweet_with_image
-from tweet_phoenix.constants import DRAFT_DIR
+from tweet_newton.constants import DRAFT_DIR
 
 
 if __name__ == '__main__':
@@ -20,7 +20,7 @@ if __name__ == '__main__':
     IMG = os.path.join(DRAFT_DIR, 'result.png')
 
     ## Tweeting
-    fractal = 'Phoenix'
+    fractal = 'Newton'
     day = datetime.now().strftime('%A')
     
     tweet = get_random_fractal_greeting(day, fractal)
