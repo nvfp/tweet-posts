@@ -7,9 +7,9 @@ on:
   workflow_dispatch:
 
   # Testing purposes
-  # push:
-  #   branches:
-  #     - main
+  push:
+    branches:
+      - main
 
 env:
   # This one should mirror the one in utils/constants.py
