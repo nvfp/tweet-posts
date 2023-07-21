@@ -11,7 +11,10 @@ def _get_esc_iter(c_frag, n_iter_frag):
     imag = 0
 
     for n in range(n_iter_frag):
-        nreal = ((abs(real) - abs(imag)) * (abs(real) - abs(imag))) / ((abs(real) + abs(imag)) * (abs(real) + abs(imag))) + c_frag.real
+        denom = (abs(real) + abs(imag))
+        if denom == 0:
+            return 0  # Escape condition to avoid division by zero
+        nreal = ((abs(real) - abs(imag)) * (abs(real) - abs(imag))) / (denom*denom) + c_frag.real
         imag = 2*real*imag + c_frag.imag
         real = nreal
         if real*real + imag*imag > 255*255:
