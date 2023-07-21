@@ -24,7 +24,8 @@ def get_random_range():
     x_bound_min = -2.75
     x_bound_max = 1.25
     y_bound_min = -1.124
-    y_bound_max = 1.124
+    # y_bound_max = 1.124
+    y_bound_max = 1.13  # to compensate the aspect ratio ((x_bound_max-x_bound_min)*9/16)
 
     total_width = x_bound_max - x_bound_min
     total_height = y_bound_max - y_bound_min
