@@ -21,10 +21,10 @@ from tweet_phoenix.generate.write_metadata import write_metadata
 def get_random_range():
 
     ## The region where the fractal is visible
-    x_bound_min = -2
-    x_bound_max = 2
-    y_bound_min = -2.5
-    y_bound_max = 2.5
+    x_bound_min = -2.75
+    x_bound_max = 1.25
+    y_bound_min = -1.124
+    y_bound_max = 1.13
 
     total_width = x_bound_max - x_bound_min
     total_height = y_bound_max - y_bound_min
