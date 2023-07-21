@@ -1,0 +1,70 @@
+name: tweet_phoenix (Hourly fractals)
+
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+
+  workflow_dispatch:
+
+  # Testing purposes
+  # push:
+  #   branches:
+  #     - main
+
+env:
+  # This one should mirror the one in utils/constants.py and .gitignore
+  VENV_CACHE_DIR_NAME: THE_VENV_CACHE
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      
+      - name: Try to restore the VENV cache
+        id: restore-cache
+        uses: actions/cache/restore@v3
+        with:
+          path: ${{ env.VENV_CACHE_DIR_NAME }}
+          key: key-${{ env.VENV_CACHE_DIR_NAME }}
+      
+      - name: VENV cache not found
+        if: steps.restore-cache.outputs.cache-hit != 'true'
+        run: exit 1
+
+      - name: Generate image
+        run: |
+          source $GITHUB_WORKSPACE/$VENV_CACHE_DIR_NAME/bin/activate
+          python tweet_phoenix/generate
+
+      - name: Tweet!
+        id: tweet
+        env:
+          TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY_2 }}
+          TWITTER_API_SECRET_KEY: ${{ secrets.TWITTER_API_SECRET_KEY_2 }}
+          TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN_2 }}
+          TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET_2 }}
+        run: |
+          source $GITHUB_WORKSPACE/$VENV_CACHE_DIR_NAME/bin/activate
+          python tweet_phoenix/do_tweet.py
+
+      - name: Archiving
+        env:
+          TWEET_ID: ${{ steps.tweet.outputs.tweet_id }}
+        run: |
+          chmod +x tweet_phoenix/do_archive.sh
+          tweet_phoenix/do_archive.sh
+
+          echo "::group::Debug"
+          git log
+          echo "::endgroup::"
+
+          # Commit
+          git config user.name "tweet_phoenix"
+          git config user.email "${{ vars.GIT_EMAIL }}"
+          git add .
+          git commit -m "Archived — $(date +'%Y %b %e, %l:%M %p')"
+          git push
