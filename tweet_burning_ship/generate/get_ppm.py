@@ -11,8 +11,15 @@ def _get_esc_iter(c_frag, n_iter_frag):
     imag = 0
 
     for n in range(n_iter_frag):
-        nreal = real*real - imag*imag + c_frag.real
-        imag = abs(2*real*imag) + c_frag.imag
+        
+        ## Option I (slight faster, but not sure of its accuracy)
+        # nreal = real*real - imag*imag + c_frag.real
+        # imag = abs(2*real*imag) + c_frag.imag
+        
+        ## Option II
+        nreal = abs(real)*abs(real) - abs(imag)*abs(imag) + c_frag.real
+        imag = 2*abs(real)*abs(imag) + c_frag.imag
+        
         real = nreal
         if real*real + imag*imag > 255*255:
             return n + 4 - np.log2(np.log2(real*real + imag*imag))
