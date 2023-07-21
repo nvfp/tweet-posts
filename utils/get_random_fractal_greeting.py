@@ -39,11 +39,14 @@ def get_random_fractal_greeting(day, fractal):
         f'Have a great day!',
         f'Feeling good today!',
         f'Wishing you the best!',
-        f'Sending positive vibes!',
+        f'Cheers to an incredible {day}! You got this!',
         f'Keep smiling!',
         f'Chin up, better times are coming!',
         f'Tough times don\'t last forever!',
         f'Life is tough, but so are you!',
         f'Chin up, lovely humans!',
+        f'Have an awesome day!',
+        f'Let this {fractal} brighten up your {day}!',
+        f'Cheers to a fantastic {day}!',
     ]
     return random.choice(random_greetings)
