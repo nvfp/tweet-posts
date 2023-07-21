@@ -42,42 +42,45 @@ jobs:
           chmod +x utils/make_venv_cache.sh
           utils/make_venv_cache.sh
 
-      # - name: "VENV cache not found: Save VENV cache"
-      #   if: steps.restore-cache.outputs.cache-hit != 'true'
-      #   uses: actions/cache/save@v3
-      #   with:
-      #     path: ${{ env.VENV_CACHE_DIR_NAME }}
-      #     key: ${{ steps.restore-cache.outputs.cache-primary-key }}
+      - name: "VENV cache not found: Save VENV cache"
+        if: steps.restore-cache.outputs.cache-hit != 'true'
+        uses: actions/cache/save@v3
+        with:
+          path: ${{ env.VENV_CACHE_DIR_NAME }}
+          key: ${{ steps.restore-cache.outputs.cache-primary-key }}
 
       - name: Generate image
         run: |
+          ## Activate the VENV
           source $GITHUB_WORKSPACE/$VENV_CACHE_DIR_NAME/bin/activate
           echo "DEBUG: which python: '$(which python)'"
           python tweet_mandelbrot/generate
 
-      # - name: Tweet!
-      #   id: tweet
-      #   env:
-      #     TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY_2 }}
-      #     TWITTER_API_SECRET_KEY: ${{ secrets.TWITTER_API_SECRET_KEY_2 }}
-      #     TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN_2 }}
-      #     TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET_2 }}
-      #   run: python tweet_mandelbrot/do_tweet.py
+      - name: Tweet!
+        id: tweet
+        env:
+          TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY_2 }}
+          TWITTER_API_SECRET_KEY: ${{ secrets.TWITTER_API_SECRET_KEY_2 }}
+          TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN_2 }}
+          TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET_2 }}
+        run: |
+          source $GITHUB_WORKSPACE/$VENV_CACHE_DIR_NAME/bin/activate
+          python tweet_mandelbrot/do_tweet.py
 
-      # - name: Archiving
-      #   env:
-      #     TWEET_ID: ${{ steps.tweet.outputs.tweet_id }}
-      #   run: |
-      #     chmod +x tweet_mandelbrot/do_archive.sh
-      #     tweet_mandelbrot/do_archive.sh
+      - name: Archiving
+        env:
+          TWEET_ID: ${{ steps.tweet.outputs.tweet_id }}
+        run: |
+          chmod +x tweet_mandelbrot/do_archive.sh
+          tweet_mandelbrot/do_archive.sh
 
-      #     echo "::group::Debug"
-      #     git log
-      #     echo "::endgroup::"
+          echo "::group::Debug"
+          git log
+          echo "::endgroup::"
 
-      #     # Commit
-      #     git config user.name "tweet-mandelbrot"
-      #     git config user.email "${{ vars.GIT_EMAIL }}"
-      #     git add .
-      #     git commit -m "Archived — $(date +'%Y %b %e, %l:%M %p')"
-      #     git push
+          # Commit
+          git config user.name "tweet-mandelbrot"
+          git config user.email "${{ vars.GIT_EMAIL }}"
+          git add .
+          git commit -m "Archived — $(date +'%Y %b %e, %l:%M %p')"
+          git push
