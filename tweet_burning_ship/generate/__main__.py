@@ -21,10 +21,10 @@ from tweet_burning_ship.generate.write_metadata import write_metadata
 def get_random_range():
 
     ## The region where the fractal is visible
-    x_bound_min = -3
-    x_bound_max = 3
-    y_bound_min = 0
-    y_bound_max = 10
+    x_bound_min = -2.75
+    x_bound_max = 1.25
+    y_bound_min = -3
+    y_bound_max = 0
 
     total_width = x_bound_max - x_bound_min
     total_height = y_bound_max - y_bound_min
@@ -73,7 +73,7 @@ def main():
         )
         std = np.std(raw)
     dur = time.time() - dur_t0
-    printer(f'INFO: std: {std}')
+    printer(f'INFO: std: {std}  dur: {dur}  num_attempts: {num_attempts}')
 
     ppm_data = get_ppm(
         raw,
