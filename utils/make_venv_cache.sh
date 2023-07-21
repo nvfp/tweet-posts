@@ -17,8 +17,11 @@ fi
 
 # Create new VENV
 python -m venv $VENV_CACHE_DIR_NAME
-echo "+++"
+echo "++ after creating venv ++"
 ls
+echo "---"
+echo "++ VENV_CACHE_DIR_NAME ++"
+ls $VENV_CACHE_DIR_NAME
 echo "---"
 
 # Activate py venv

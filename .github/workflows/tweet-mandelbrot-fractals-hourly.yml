@@ -49,8 +49,8 @@ jobs:
       #     path: ${{ env.VENV_CACHE_DIR_NAME }}
       #     key: ${{ steps.restore-cache.outputs.cache-primary-key }}
 
-      # - name: Generate image
-      #   run: python tweet_mandelbrot/generate
+      - name: Generate image
+        run: python tweet_mandelbrot/generate
 
       # - name: Tweet!
       #   id: tweet
