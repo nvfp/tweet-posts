@@ -11,6 +11,7 @@ _REPO_ROOT_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath
 printer(f'DEBUG: Appending {repr(_REPO_ROOT_DIR)} to `sys.path`.')
 sys.path.append(_REPO_ROOT_DIR)
 
+from utils.constants import FFMPEG
 from tweet_mandelbrot.constants import DRAFT_DIR
 from tweet_mandelbrot.generate.get_ppm import get_raw_grayscale_image, get_ppm
 from tweet_mandelbrot.generate.save_img import save_img
@@ -52,7 +53,7 @@ def main():
 
     # use_fast_renderer = random.choice([True, False])
     use_fast_renderer = True  # Note: Using the fast renderer disables the use of the 'degree' and 'r_conv' options
-    n_iter = random.randint(128, 512)
+    n_iter = random.randint(128, 1024)
     degree = 2
     r_conv = 2
     # is_grayscale = random.choice([True, False])
@@ -67,7 +68,7 @@ def main():
     std = 0  # standard deviation
     while std < 10:  # This essentially checks the noise of the image (if 0 -> all uniform, aka a blank image)
         num_attempts += 1
-        if (time.time() - dur_t0) > 900: break  # Guard
+        if (time.time() - dur_t0) > 1200: break  # Guard
         # if (int(time.time() - dur_t0) % 10) == 0: printer(f'INFO: num_attempts: {num_attempts}')
         xmin, xmax, ymin, ymax, frame_width, frame_height = get_random_range()
         ## Render
@@ -106,7 +107,7 @@ def main():
 
     # Export
     file_size = save_img(
-        'ffmpeg',
+        FFMPEG,
         os.path.join(DRAFT_DIR, 'result.png'),
         ppm_data,
 
