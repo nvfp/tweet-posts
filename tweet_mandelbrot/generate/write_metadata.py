@@ -38,6 +38,7 @@ def get_text(
 Image metadata
 ==============
 
+type: Mandelbrot set
 date: {datetime.now().strftime('%B %d, %Y, %A %I:%M %p')}
 timestamp: {time.time()}
 
