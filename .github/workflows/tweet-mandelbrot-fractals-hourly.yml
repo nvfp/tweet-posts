@@ -12,7 +12,7 @@ on:
       - main
 
 env:
-  # This one should mirror the one in utils/constants.py
+  # This one should mirror the one in utils/constants.py and .gitignore
   VENV_CACHE_DIR_NAME: THE_VENV_CACHE
 
 jobs:
