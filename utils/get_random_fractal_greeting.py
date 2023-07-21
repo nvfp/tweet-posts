@@ -26,7 +26,7 @@ def get_random_fractal_greeting(day, fractal):
         f'Wishing you a wonderful {day}!',
         f'Let this {fractal} inspire your {day}.',
         f'Happy {day}! Enjoy the beauty of {fractal}.',
-        f'Warm wishes for your {day} filled with {fractal}.',
+        f'Warm wishes for your {day}, and let\'s have a look at this {fractal}.',
         f'{fractal} vibes to brighten your {day}.',
         f'Ever heard of this {fractal}?',
         f'Surprise! It\'s a {fractal}!',
