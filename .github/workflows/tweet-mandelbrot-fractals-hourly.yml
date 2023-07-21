@@ -36,13 +36,13 @@ jobs:
           echo "pwd: '$(pwd)'"
           ls
     
-      - name: "VENV cache is not found: Make VENV cache"
+      - name: "VENV cache not found: Make VENV cache"
         if: steps.restore-cache.outputs.cache-hit != 'true'
         run: |
           chmod +x utils/make_venv_cache.sh
           utils/make_venv_cache.sh
 
-      # - name: "VENV cache is not found: Save VENV cache"
+      # - name: "VENV cache not found: Save VENV cache"
       #   if: steps.restore-cache.outputs.cache-hit != 'true'
       #   uses: actions/cache/save@v3
       #   with:
@@ -50,7 +50,10 @@ jobs:
       #     key: ${{ steps.restore-cache.outputs.cache-primary-key }}
 
       - name: Generate image
-        run: python tweet_mandelbrot/generate
+        run: |
+          source $GITHUB_WORKSPACE/$VENV_CACHE_DIR_NAME/bin/activate
+          echo "DEBUG: which python: '$(which python)'"
+          python tweet_mandelbrot/generate
 
       # - name: Tweet!
       #   id: tweet
