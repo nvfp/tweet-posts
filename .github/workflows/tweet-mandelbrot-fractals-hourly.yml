@@ -1,8 +1,8 @@
 name: tweet_mandelbrot (Hourly fractals)
 
 on:
-  schedule:
-    - cron: '0 */1 * * *'
+  # schedule:
+  #   - cron: '0 */1 * * *'
 
   workflow_dispatch:
 
@@ -10,6 +10,10 @@ on:
   # push:
   #   branches:
   #     - main
+
+env:
+  # This one should mirror the one in utils/constants.py
+  VENV_CACHE_DIR_NAME: THE_VENV_CACHE
 
 jobs:
   run:
@@ -19,45 +23,58 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-
-      - name: Set up Python
-        uses: actions/setup-python@v4
+      
+      - name: Try to restore the VENV cache
+        id: restore-cache
+        uses: actions/cache/restore@v3
         with:
-          python-version: 3.9
-
-      - name: Install py dependencies
-        run: pip install numba==0.55.2 numpy==1.22.4 mykit==6.0.0 tweepy
-
-      - name: Install ffmpeg
-        run: sudo apt-get update && sudo apt-get install -y ffmpeg
-
-      - name: Generate image
-        run: python tweet_mandelbrot/generate
-
-      - name: Tweet!
-        id: tweet
-        env:
-          TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY_2 }}
-          TWITTER_API_SECRET_KEY: ${{ secrets.TWITTER_API_SECRET_KEY_2 }}
-          TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN_2 }}
-          TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET_2 }}
-        run: python tweet_mandelbrot/do_tweet.py
-
-      - name: Archiving
-        env:
-          TWEET_ID: ${{ steps.tweet.outputs.tweet_id }}
+          path: ${{ env.VENV_CACHE_DIR_NAME }}
+          key: key-${{ env.VENV_CACHE_DIR_NAME }}
+      
+      - name: Debugging
         run: |
-          chmod +x tweet_mandelbrot/do_archive.sh
-          tweet_mandelbrot/do_archive.sh
+          echo "pwd: '$(pwd)'"
+          ls
+    
+      - name: "VENV cache is not found: Make VENV cache"
+        if: steps.restore-cache.outputs.cache-hit != 'true'
+        run: |
+          chmod +x utils/make_venv_cache.sh
+          utils/make_venv_cache.sh
 
-          echo "::group::Debug"
-          git log -3
-          echo "::endgroup::"
+      # - name: "VENV cache is not found: Save VENV cache"
+      #   if: steps.restore-cache.outputs.cache-hit != 'true'
+      #   uses: actions/cache/save@v3
+      #   with:
+      #     path: ${{ env.VENV_CACHE_DIR_NAME }}
+      #     key: ${{ steps.restore-cache.outputs.cache-primary-key }}
 
-          echo "::group::Commit"
-          git config user.name "tweet-mandelbrot"
-          git config user.email "${{ vars.GIT_EMAIL }}"
-          git add .
-          git commit -m "Archived — $(date +'%Y %b %e, %l:%M %p')"
-          git push
-          echo "::endgroup::"
+      # - name: Generate image
+      #   run: python tweet_mandelbrot/generate
+
+      # - name: Tweet!
+      #   id: tweet
+      #   env:
+      #     TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY_2 }}
+      #     TWITTER_API_SECRET_KEY: ${{ secrets.TWITTER_API_SECRET_KEY_2 }}
+      #     TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN_2 }}
+      #     TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET_2 }}
+      #   run: python tweet_mandelbrot/do_tweet.py
+
+      # - name: Archiving
+      #   env:
+      #     TWEET_ID: ${{ steps.tweet.outputs.tweet_id }}
+      #   run: |
+      #     chmod +x tweet_mandelbrot/do_archive.sh
+      #     tweet_mandelbrot/do_archive.sh
+
+      #     echo "::group::Debug"
+      #     git log
+      #     echo "::endgroup::"
+
+      #     # Commit
+      #     git config user.name "tweet-mandelbrot"
+      #     git config user.email "${{ vars.GIT_EMAIL }}"
+      #     git add .
+      #     git commit -m "Archived — $(date +'%Y %b %e, %l:%M %p')"
+      #     git push
