@@ -23,8 +23,8 @@ def get_random_range():
     ## The region where the fractal is visible
     x_bound_min = -3
     x_bound_max = 3
-    y_bound_min = -2
-    y_bound_max = 2
+    y_bound_min = 0
+    y_bound_max = 10
 
     total_width = x_bound_max - x_bound_min
     total_height = y_bound_max - y_bound_min
