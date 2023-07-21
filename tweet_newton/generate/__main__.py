@@ -30,7 +30,7 @@ def get_random_range():
     total_height = y_bound_max - y_bound_min
 
     ## The captured one
-    frame_width = total_width/random.randint(1, 1)
+    frame_width = total_width/random.randint(1, 1000)
     frame_height = frame_width*(9/16)  # 16:9 aspect ratio
 
     xmin = random.uniform(x_bound_min, x_bound_max-frame_width)
