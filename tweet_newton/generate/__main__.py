@@ -48,7 +48,7 @@ def main():
     w, h = 1280, 720
 
     # antialiasing_is_on = random.choice([True, False])
-    antialiasing_is_on = True
+    antialiasing_is_on = False
     antialiasing_supsample = 2
 
     n_iter = random.randint(32, 128)
@@ -60,7 +60,7 @@ def main():
     num_attempts = 0
     dur_t0 = time.time()
     std = 0  # standard deviation
-    while std < 5:  # This essentially checks the noise of the image (if 0 -> all uniform, aka a blank image)
+    while std < 3:  # This essentially checks the noise of the image (if 0 -> all uniform, aka a blank image)
         num_attempts += 1
         if (time.time() - dur_t0) > 850: break  # Guard
         xmin, xmax, ymin, ymax, frame_width, frame_height = get_random_range()
