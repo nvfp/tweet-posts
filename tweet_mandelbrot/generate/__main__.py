@@ -69,7 +69,7 @@ def main():
     std = 0  # standard deviation
     while std < 10:  # This essentially checks the noise of the image (if 0 -> all uniform, aka a blank image)
         num_attempts += 1
-        if (time.time() - dur_t0) > 1200: break  # Guard
+        if (time.time() - dur_t0) > 850: break  # Guard
         # if (int(time.time() - dur_t0) % 10) == 0: printer(f'INFO: num_attempts: {num_attempts}')
         xmin, xmax, ymin, ymax, frame_width, frame_height = get_random_range()
         ## Render
