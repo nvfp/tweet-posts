@@ -1,7 +1,8 @@
 import random
 
 
-def get_random_fractal_greeting(day, fractal):
+def _get_list(day, fractal):
+    """Testing purposes"""
     random_greetings = [
         f'Happy {day}!',
         f'How\'s your day?',  # yes, it's "day", not `{day}`
@@ -54,4 +55,9 @@ def get_random_fractal_greeting(day, fractal):
         f'Brighten your {day}!',
         f'Hello {day}! This {fractal} is yours!',
     ]
+    return random_greetings
+
+
+def get_random_fractal_greeting(day, fractal):
+    random_greetings = _get_list(day, fractal)
     return random.choice(random_greetings)
