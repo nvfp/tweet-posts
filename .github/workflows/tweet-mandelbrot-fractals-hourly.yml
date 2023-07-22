@@ -2,7 +2,7 @@ name: tweet_mandelbrot (Hourly fractals)
 
 on:
   schedule:
-    - cron: '0 */2 * * *'
+    - cron: '45 */2 * * *'
 
   workflow_dispatch:
 

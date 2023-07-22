@@ -2,7 +2,7 @@ name: tweet_multibrot3 (Hourly fractals)
 
 on:
   schedule:
-    - cron: '0 */3 * * *'
+    - cron: '15 */3 * * *'
 
   workflow_dispatch:
 
