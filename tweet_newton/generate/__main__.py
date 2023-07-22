@@ -44,9 +44,11 @@ def get_random_range():
 
 def main():
 
-    w, h = 1920, 1080  # should 16:9 AR
+    # w, h = 1920, 1080  # should 16:9 AR. Note: FHD could take so long to be done
+    w, h = 1280, 720
 
-    antialiasing_is_on = random.choice([True, False])
+    # antialiasing_is_on = random.choice([True, False])
+    antialiasing_is_on = False
     antialiasing_supsample = 2
 
     n_iter = random.randint(32, 128)
