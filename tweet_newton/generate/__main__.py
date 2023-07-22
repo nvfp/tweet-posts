@@ -30,7 +30,7 @@ def get_random_range():
     total_height = y_bound_max - y_bound_min
 
     ## The captured one
-    frame_width = total_width/random.randint(1, 100)
+    frame_width = total_width/random.randint(1, 1000)
     frame_height = frame_width*(9/16)  # 16:9 aspect ratio
 
     xmin = random.uniform(x_bound_min, x_bound_max-frame_width)
@@ -44,11 +44,11 @@ def get_random_range():
 
 def main():
 
-    # w, h = 1920, 1080  # should 16:9 AR. Note: FHD could take so long to be done
-    w, h = 1280, 720
+    w, h = 1920, 1080  # should 16:9 AR. Note: FHD could take so long to be done
+    # w, h = 1280, 720
 
     # antialiasing_is_on = random.choice([True, False])
-    antialiasing_is_on = False
+    antialiasing_is_on = True
     antialiasing_supsample = 2
 
     n_iter = random.randint(32, 128)
