@@ -58,7 +58,7 @@ def main():
     num_attempts = 0
     dur_t0 = time.time()
     std = 0  # standard deviation
-    while std < 10:  # This essentially checks the noise of the image (if 0 -> all uniform, aka a blank image)
+    while std < 20:  # This essentially checks the noise of the image (if 0 -> all uniform, aka a blank image)
         num_attempts += 1
         if (time.time() - dur_t0) > 1200: break  # Guard
         xmin, xmax, ymin, ymax, frame_width, frame_height = get_random_range()
