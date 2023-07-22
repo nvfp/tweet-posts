@@ -44,10 +44,11 @@ def get_random_range():
 
 def main():
 
-    w, h = 1920, 1080  # should 16:9 AR. Note: FHD could take so long to be done
-    # w, h = 1280, 720
+    # w, h = 1920, 1080  # should 16:9 AR. Note: FHD could take so long to be done
+    w, h = 1280, 720
 
-    antialiasing_is_on = random.choice([True, False])
+    # antialiasing_is_on = random.choice([True, False])
+    antialiasing_is_on = True
     antialiasing_supsample = 2
 
     n_iter = random.randint(32, 128)
@@ -61,7 +62,7 @@ def main():
     std = 0  # standard deviation
     while std < 5:  # This essentially checks the noise of the image (if 0 -> all uniform, aka a blank image)
         num_attempts += 1
-        if (time.time() - dur_t0) > 1200: break  # Guard
+        if (time.time() - dur_t0) > 850: break  # Guard
         xmin, xmax, ymin, ymax, frame_width, frame_height = get_random_range()
         ## Render
         raw = get_raw_grayscale_image(
