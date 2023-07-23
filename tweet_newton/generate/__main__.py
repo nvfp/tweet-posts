@@ -50,7 +50,7 @@ def main():
     antialiasing_is_on = random.choice([True, False])
     antialiasing_supsample = 2
 
-    n_iter = random.randint(32, 128)
+    n_iter = random.randint(64, 256)
     ct = random.randint(1, 255)
     hue_offset = random.randint(0, 359)
     saturation = random.uniform(-1, 1)
