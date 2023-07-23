@@ -1,23 +1,19 @@
 import numba as nb
 import numpy as np
+import random
 
 from mykit.kit.utils import printer
 
 
-power = None
-const = None
-def change_newton(set_power, set_const):
-    global power, const
-    power = set_power
-    const = set_const
-
+newton_power = random.randint(3, 7)
+newton_const = random.randint(-10, 10)
 
 @nb.jit(nb.int32(nb.complex128, nb.int32))
 def _get_esc_iter(c_frag, n_iter_frag):
     z = c_frag
     for n in range(n_iter_frag):
-        f_value = np.power(z, 5) + 1
-        f_prime_value = 5*np.power(z, 5-1)
+        f_value = np.power(z, newton_power) + newton_const
+        f_prime_value = newton_power*np.power(z, newton_power-1)
         if abs(f_value) < 1e-6:
             return n
         z = z - f_value / f_prime_value

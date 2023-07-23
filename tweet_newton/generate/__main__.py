@@ -13,7 +13,7 @@ sys.path.append(_REPO_ROOT_DIR)
 
 from utils.constants import FFMPEG
 from tweet_newton.constants import DRAFT_DIR
-from tweet_newton.generate.get_ppm import get_raw_grayscale_image, get_ppm, change_newton
+from tweet_newton.generate.get_ppm import get_raw_grayscale_image, get_ppm, newton_power, newton_const
 from tweet_newton.generate.save_img import save_img
 from tweet_newton.generate.write_metadata import write_metadata
 
@@ -46,10 +46,6 @@ def main():
 
     w, h = 1920, 1080  # should 16:9 AR. Note: FHD could take so long to be done
     # w, h = 1280, 720
-
-    newton_power = random.randint(3, 6)
-    newton_const = random.randint(-10, 10)
-    change_newton(newton_power, newton_const)
 
     antialiasing_is_on = random.choice([True, False])
     antialiasing_supsample = 2

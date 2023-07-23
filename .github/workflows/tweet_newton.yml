@@ -38,7 +38,6 @@ jobs:
       - name: Generate image
         run: |
           source $GITHUB_WORKSPACE/$VENV_CACHE_DIR_NAME/bin/activate
-          pip list
           python tweet_newton/generate
 
       - name: Tweet!
