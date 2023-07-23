@@ -7,6 +7,7 @@ from mykit.kit.utils import printer
 
 def get_text(
     w, h,
+    newton_power, newton_const,
 
     antialiasing_is_on, antialiasing_supsample,
 
@@ -39,6 +40,9 @@ date: {datetime.now().strftime('%B %d, %Y, %A %I:%M %p')}
 timestamp: {time.time()}
 
 resolution: {w}x{h}
+
+newton_power: {newton_power}
+newton_const: {newton_const}
 
 antialiasing_is_on    : {antialiasing_is_on}
 antialiasing_supsample: {antialiasing_supsample}
@@ -77,6 +81,7 @@ tweet_id: TWEET_ID
 def write_metadata(
     file_path,
     w, h,
+    newton_power, newton_const,
 
     antialiasing_is_on, antialiasing_supsample,
 
@@ -104,6 +109,7 @@ def write_metadata(
 
     text = get_text(
         w, h,
+        newton_power, newton_const,
 
         antialiasing_is_on, antialiasing_supsample,
 

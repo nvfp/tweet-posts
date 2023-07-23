@@ -4,12 +4,20 @@ import numpy as np
 from mykit.kit.utils import printer
 
 
+power = None
+const = None
+def change_newton(set_power, set_const):
+    global power, const
+    power = set_power
+    const = set_const
+
+
 @nb.jit(nb.int32(nb.complex128, nb.int32))
 def _get_esc_iter(c_frag, n_iter_frag):
     z = c_frag
     for n in range(n_iter_frag):
-        f_value = z*z*z - 1    # z^3 - 1
-        f_prime_value = 3*z*z  # 3z^2
+        f_value = np.power(z, power) + const
+        f_prime_value = power*np.power(z, power-1)
         if abs(f_value) < 1e-6:
             return n
         z = z - f_value / f_prime_value
