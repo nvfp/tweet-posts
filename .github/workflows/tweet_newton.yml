@@ -2,7 +2,7 @@ name: tweet_newton (Hourly fractals)
 
 on:
   schedule:
-    - cron: '30 */3 * * *'
+    - cron: '30 */2 * * *'
 
   workflow_dispatch:
 
