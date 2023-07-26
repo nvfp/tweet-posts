@@ -21,7 +21,7 @@ from tweet_burning_ship.get_raw import get_raw_grayscale_image
 from tweet_burning_ship.write_metadata import write_metadata
 
 
-IMAGE_PTH = os.path.dirname(os.path.abspath(__file__), 'the-result.png')
+IMAGE_PTH = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'the-result.png')
 printer(f'DEBUG: IMAGE_PTH: {repr(IMAGE_PTH)}.')
 
 
