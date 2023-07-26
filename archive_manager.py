@@ -13,13 +13,13 @@ if __name__ == '__main__':
     num_archive_dirs = len(os.listdir(ROOT))
     print(f'DEBUG: num_archive_dirs: {num_archive_dirs}')
 
-    target = os.path.join(ROOT, f'archive-{num_archive_dirs-1}')
+    target = os.path.join(ROOT, f'archive-{num_archive_dirs-2}')  # don't forget the .git folder
     print(f'DEBUG: target: {repr(target)}.')
 
     num_files = len(os.listdir(target))
     print(f'DEBUG: num_files: {num_files}')
     if num_files == 1000:
-        new_target = os.path.join(ROOT, f'archive-{num_archive_dirs}')
+        new_target = os.path.join(ROOT, f'archive-{num_archive_dirs-1}')
         print(f'INFO: Creating new archive dir {repr(new_target)}.')
         if os.path.exists(new_target): raise AssertionError(f'Already exists: {repr(new_target)}.')
         os.mkdir(new_target)
