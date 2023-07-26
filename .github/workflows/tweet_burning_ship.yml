@@ -47,7 +47,7 @@ jobs:
 
       - name: Archiving
         run: |
-          python utils/archive_manager.py
+          python archive_manager.py
 
           git config user.name "$FRACTAL_NAME"
           git config user.email "${{ vars.GIT_EMAIL }}"
