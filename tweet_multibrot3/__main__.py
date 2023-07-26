@@ -14,6 +14,7 @@ sys.path.append(_REPO_ROOT_DIR)
 
 from utils.constants import ARCHIVE_TEMP_DIR
 from utils.get_random_fractal_greeting import get_random_fractal_greeting
+from utils.get_random_hashtag import get_random_hashtag
 from utils.get_ppm import get_ppm
 from utils.save_img import save_img
 from utils.tweet import tweet
@@ -103,7 +104,8 @@ if __name__ == '__main__':
     fractal = 'Multibrot'
     day = datetime.now().strftime('%A')
     greet = get_random_fractal_greeting(day, fractal)
-    text = f'{greet} #nature #math'
+    ht1, ht2 = get_random_hashtag()
+    text = f'{greet} {ht1} {ht2}'
     tweet_id = tweet(text, IMAGE_PTH)
 
     ## Metadata

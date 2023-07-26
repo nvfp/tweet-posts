@@ -18,8 +18,8 @@ from utils.get_random_hashtag import get_random_hashtag
 from utils.get_ppm import get_ppm
 from utils.save_img import save_img
 from utils.tweet import tweet
-from tweet_burning_ship.get_raw import get_raw_grayscale_image
-from tweet_burning_ship.write_metadata import write_metadata
+from tweet_newton.get_raw import get_raw_grayscale_image, newton_power, newton_const
+from tweet_newton.write_metadata import write_metadata
 
 
 IMAGE_PTH = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'the-result.png')
@@ -29,16 +29,16 @@ printer(f'DEBUG: IMAGE_PTH: {repr(IMAGE_PTH)}.')
 def get_random_range():
 
     ## The region where the fractal is visible
-    x_bound_min = -2.5
-    x_bound_max = 2
-    y_bound_min = -2.1
-    y_bound_max = 0.9
+    x_bound_min = -3
+    x_bound_max = 3
+    y_bound_min = -2
+    y_bound_max = 2
 
     total_width = x_bound_max - x_bound_min
     # total_height = y_bound_max - y_bound_min
 
     ## The captured one
-    frame_width = total_width/random.randint(1, 100)
+    frame_width = total_width/random.randint(1, 1000)
     frame_height = frame_width*(9/16)  # 16:9 aspect ratio
 
     xmin = random.uniform(x_bound_min, x_bound_max-frame_width)
@@ -52,7 +52,7 @@ def get_random_range():
 
 if __name__ == '__main__':
 
-    n_iter = random.randint(128, 512)
+    n_iter = random.randint(64, 256)
     ct = random.randint(1, 255)  # PPM color threshold
     hue_offset = random.randint(0, 359)
     saturation = round( random.uniform(-1, 1), 2 )
@@ -61,7 +61,7 @@ if __name__ == '__main__':
     num_attempts = 0
     dur_t0 = time.time()
     std = 0  # standard deviation
-    while std < 20:  # This essentially checks the noise of the image (if 0 -> all uniform, aka a blank image)
+    while std < 2.51:  # This essentially checks the noise of the image (if 0 -> all uniform, aka a blank image)
         num_attempts += 1
         if (time.time() - dur_t0) > 850: break  # Guard
         xmin, xmax, ymin, ymax = get_random_range()
@@ -101,7 +101,7 @@ if __name__ == '__main__':
     )
 
     ## Tweeting
-    fractal = 'Burning Ship'
+    fractal = 'Newton'
     day = datetime.now().strftime('%A')
     greet = get_random_fractal_greeting(day, fractal)
     ht1, ht2 = get_random_hashtag()
@@ -112,8 +112,9 @@ if __name__ == '__main__':
     if os.path.exists(ARCHIVE_TEMP_DIR): raise AssertionError(f'Already exists: {repr(ARCHIVE_TEMP_DIR)}.')
     os.mkdir(ARCHIVE_TEMP_DIR)
     write_metadata(
-        os.path.join(ARCHIVE_TEMP_DIR, f'{datetime.now().strftime("%Y%m%d_%H%M%S")}_Burning_Ship_{tweet_id}.txt'),
+        os.path.join(ARCHIVE_TEMP_DIR, f'{datetime.now().strftime("%Y%m%d_%H%M%S")}_Newton_{tweet_id}.txt'),
         tweet_id,
+        newton_power, newton_const,
 
         n_iter,
         ct,

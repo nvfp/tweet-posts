@@ -1,25 +1,19 @@
-import time
-from datetime import datetime
-
 from mykit.kit.text import byteFmt
 from mykit.kit.utils import printer
 
 
 def get_text(
-    w, h,
+    tweet_id,
     newton_power, newton_const,
-
-    antialiasing_is_on, antialiasing_supsample,
 
     n_iter,
     ct,
     hue_offset,
     saturation,
 
-    num_attempts, dur, std,
-    file_size,
+    num_attempts, dur, std, file_size,
 
-    xmin, xmax, ymin, ymax, frame_width, frame_height,
+    xmin, xmax, ymin, ymax,
 
     edit_contrast,
     edit_brightness,
@@ -31,21 +25,10 @@ def get_text(
     edit_vignette,
     edit_temp,
 ):
-    return f"""
-Image metadata
-==============
-
-type: Newton
-date: {datetime.now().strftime('%B %d, %Y, %A %I:%M %p')}
-timestamp: {time.time()}
-
-resolution: {w}x{h}
+    return f"""tweet_id: {tweet_id}
 
 newton_power: {newton_power}
 newton_const: {newton_const}
-
-antialiasing_is_on    : {antialiasing_is_on}
-antialiasing_supsample: {antialiasing_supsample}
 
 n_iter: {n_iter}
 ct: {ct}
@@ -61,39 +44,30 @@ xmin: {xmin}
 xmax: {xmax}
 ymin: {ymin}
 ymax: {ymax}
-frame_width: {frame_width}
-frame_height: {frame_height}
 
-edit_contrast: {edit_contrast}
-edit_brightness: {edit_brightness}
-edit_saturation: {edit_saturation}
-edit_gamma: {edit_gamma}
-edit_gamma_r: {edit_gamma_r}
-edit_gamma_g: {edit_gamma_g}
-edit_gamma_b: {edit_gamma_b}
-edit_vignette: {edit_vignette}
-edit_temp: {edit_temp}
-
-tweet_id: TWEET_ID
-"""
+contrast: {edit_contrast}
+brightness: {edit_brightness}
+saturation: {edit_saturation}
+gamma: {edit_gamma}
+gamma_r: {edit_gamma_r}
+gamma_g: {edit_gamma_g}
+gamma_b: {edit_gamma_b}
+vignette: {edit_vignette}
+temp: {edit_temp}"""
 
 
 def write_metadata(
-    file_path,
-    w, h,
+    file_path, tweet_id,
     newton_power, newton_const,
-
-    antialiasing_is_on, antialiasing_supsample,
 
     n_iter,
     ct,
     hue_offset,
     saturation,
 
-    num_attempts, dur, std,
-    file_size,
+    num_attempts, dur, std, file_size,
 
-    xmin, xmax, ymin, ymax, frame_width, frame_height,
+    xmin, xmax, ymin, ymax,
 
     edit_contrast,
     edit_brightness,
@@ -108,20 +82,17 @@ def write_metadata(
     printer('DEBUG: Writing metadata file.')
 
     text = get_text(
-        w, h,
+        tweet_id,
         newton_power, newton_const,
-
-        antialiasing_is_on, antialiasing_supsample,
 
         n_iter,
         ct,
         hue_offset,
         saturation,
 
-        num_attempts, dur, std,
-        file_size,
+        num_attempts, dur, std, file_size,
 
-        xmin, xmax, ymin, ymax, frame_width, frame_height,
+        xmin, xmax, ymin, ymax,
 
         edit_contrast,
         edit_brightness,
