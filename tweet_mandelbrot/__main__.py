@@ -14,11 +14,12 @@ sys.path.append(_REPO_ROOT_DIR)
 
 from utils.constants import ARCHIVE_TEMP_DIR
 from utils.get_random_fractal_greeting import get_random_fractal_greeting
+from utils.get_random_hashtag import get_random_hashtag
 from utils.get_ppm import get_ppm
 from utils.save_img import save_img
 from utils.tweet import tweet
-from tweet_multibrot3.get_raw import get_raw_grayscale_image
-from tweet_multibrot3.write_metadata import write_metadata
+from tweet_mandelbrot.get_raw import get_raw_grayscale_image
+from tweet_mandelbrot.write_metadata import write_metadata
 
 
 IMAGE_PTH = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'the-result.png')
@@ -28,16 +29,17 @@ printer(f'DEBUG: IMAGE_PTH: {repr(IMAGE_PTH)}.')
 def get_random_range():
 
     ## The region where the fractal is visible
-    x_bound_min = -2
-    x_bound_max = 2
-    y_bound_min = -1.5
-    y_bound_max = 1.5
+    x_bound_min = -2.75
+    x_bound_max = 1.25
+    y_bound_min = -1.124
+    # y_bound_max = 1.124
+    y_bound_max = 1.13  # to compensate the aspect ratio ((x_bound_max-x_bound_min)*9/16)
 
     total_width = x_bound_max - x_bound_min
     # total_height = y_bound_max - y_bound_min
 
     ## The captured one
-    frame_width = total_width/random.randint(1, 1000)
+    frame_width = total_width/random.randint(1, 10000)
     frame_height = frame_width*(9/16)  # 16:9 aspect ratio
 
     xmin = random.uniform(x_bound_min, x_bound_max-frame_width)
@@ -51,7 +53,7 @@ def get_random_range():
 
 if __name__ == '__main__':
 
-    n_iter = random.randint(128, 512)
+    n_iter = random.randint(128, 1024)
     ct = random.randint(1, 255)  # PPM color threshold
     hue_offset = random.randint(0, 359)
     saturation = round( random.uniform(-1, 1), 2 )
@@ -60,7 +62,7 @@ if __name__ == '__main__':
     num_attempts = 0
     dur_t0 = time.time()
     std = 0  # standard deviation
-    while std < 10:  # This essentially checks the noise of the image (if 0 -> all uniform, aka a blank image)
+    while std < 15:  # This essentially checks the noise of the image (if 0 -> all uniform, aka a blank image)
         num_attempts += 1
         if (time.time() - dur_t0) > 850: break  # Guard
         xmin, xmax, ymin, ymax = get_random_range()
@@ -100,17 +102,18 @@ if __name__ == '__main__':
     )
 
     ## Tweeting
-    fractal = 'Multibrot'
+    fractal = 'Mandelbrot Set'
     day = datetime.now().strftime('%A')
     greet = get_random_fractal_greeting(day, fractal)
-    text = f'{greet} #nature #math'
+    ht1, ht2 = get_random_hashtag()
+    text = f'{greet} {ht1} {ht2}'
     tweet_id = tweet(text, IMAGE_PTH)
 
     ## Metadata
     if os.path.exists(ARCHIVE_TEMP_DIR): raise AssertionError(f'Already exists: {repr(ARCHIVE_TEMP_DIR)}.')
     os.mkdir(ARCHIVE_TEMP_DIR)
     write_metadata(
-        os.path.join(ARCHIVE_TEMP_DIR, f'{datetime.now().strftime("%Y%m%d_%H%M%S")}_Multibrot_{tweet_id}.txt'),
+        os.path.join(ARCHIVE_TEMP_DIR, f'{datetime.now().strftime("%Y%m%d_%H%M%S")}_Mandelbrot_{tweet_id}.txt'),
         tweet_id,
 
         n_iter,

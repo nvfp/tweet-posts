@@ -4,11 +4,16 @@ import numpy as np
 
 @nb.jit(nb.int32(nb.complex128, nb.int32))
 def _get_esc_iter(c_frag, n_iter_frag):
-    z = 0j
+    nreal = 0
+    real = 0
+    imag = 0
+
     for n in range(n_iter_frag):
-        z = z*z*z + c_frag
-        if abs(z) > 2:
-            return n
+        nreal = real*real - imag*imag + c_frag.real
+        imag = 2*real*imag + c_frag.imag
+        real = nreal
+        if real*real + imag*imag > 255*255:
+            return n + 4 - np.log2(np.log2(real*real + imag*imag))
     return 0
 
 
