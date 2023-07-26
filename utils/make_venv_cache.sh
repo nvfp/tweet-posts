@@ -11,8 +11,8 @@ echo "::endgroup::"
 
 # Check
 if [ -d "$GITHUB_WORKSPACE/$VENV_CACHE_DIR_NAME" ]; then
-  echo "ERROR: VENV cache directory '$GITHUB_WORKSPACE/$VENV_CACHE_DIR_NAME' already exists."
-  exit 1
+    echo "ERROR: VENV cache directory '$GITHUB_WORKSPACE/$VENV_CACHE_DIR_NAME' already exists."
+    exit 1
 fi
 
 # Create new VENV
