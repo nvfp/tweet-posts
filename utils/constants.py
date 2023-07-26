@@ -3,6 +3,13 @@ import os
 from mykit.kit.utils import printer
 
 
+TOP_LEVEL_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+printer(f'DEBUG: TOP_LEVEL_DIR: {repr(TOP_LEVEL_DIR)}.')
+
+ARCHIVE_TEMP_DIR = os.path.join(TOP_LEVEL_DIR, '__archive_temp_dir__')
+printer(f'DEBUG: ARCHIVE_TEMP_DIR: {repr(ARCHIVE_TEMP_DIR)}.')
+
+
 REPO_ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 printer(f'DEBUG: REPO_ROOT_DIR: {repr(REPO_ROOT_DIR)}.')
 
