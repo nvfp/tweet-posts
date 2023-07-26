@@ -1,12 +1,12 @@
-name: tweet_multibrot3 (Hourly fractals)
+name: tweet_mandelbrot (Hourly fractals)
 
 on:
   schedule:
-    - cron: '30 */2 * * *'
+    - cron: '15 */2 * * *'
   workflow_dispatch:
 
 env:
-  FRACTAL_NAME: Multibrot3
+  FRACTAL_NAME: Mandelbrot Set
   # This one should mirror the one in utils/constants.py and .gitignore
   VENV_CACHE_DIR_NAME: THE_VENV_CACHE
 
@@ -38,7 +38,7 @@ jobs:
           TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET_2 }}
         run: |
           source $GITHUB_WORKSPACE/$VENV_CACHE_DIR_NAME/bin/activate
-          python tweet_multibrot3
+          python tweet_mandelbrot
 
       - name: Checkout metadata branch
         uses: actions/checkout@v3
