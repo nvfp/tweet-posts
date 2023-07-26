@@ -1,0 +1,26 @@
+tweet_id: 1684241073521012738
+
+n_iter: 354
+ct: 87
+hue_offset: 151
+saturation: 0.84
+
+num_attempts: 16
+dur: 13
+std: 55.53
+size: 1579144 (1.51 MiB)
+
+xmin: 0.42261564363184156
+xmax: 0.4266479016963577
+ymin: -0.6158650296019097
+ymax: -0.6135968844406193
+
+contrast: 1.72
+brightness: -0.07
+saturation: 0.32
+gamma: 0.91
+gamma_r: 0.98
+gamma_g: 0.95
+gamma_b: 1.0
+vignette: -27
+temp: 6996
