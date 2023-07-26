@@ -1,21 +1,28 @@
 import numpy as np
 import os
 import random
-import time
 import sys
+import time
+from datetime import datetime
 
 from mykit.kit.utils import printer
 
 ## Make all folders under repo root directory importable
-_REPO_ROOT_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+_REPO_ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 printer(f'DEBUG: Appending {repr(_REPO_ROOT_DIR)} to `sys.path`.')
 sys.path.append(_REPO_ROOT_DIR)
 
-from utils.constants import FFMPEG
-from tweet_burning_ship.constants import DRAFT_DIR
-from tweet_burning_ship.generate.get_ppm import get_raw_grayscale_image, get_ppm
-from tweet_burning_ship.generate.save_img import save_img
-from tweet_burning_ship.generate.write_metadata import write_metadata
+from utils.constants import ARCHIVE_TEMP_DIR
+from utils.get_random_fractal_greeting import get_random_fractal_greeting
+from utils.get_ppm import get_ppm
+from utils.save_img import save_img
+from utils.tweet import tweet
+from tweet_burning_ship.get_raw import get_raw_grayscale_image
+from tweet_burning_ship.write_metadata import write_metadata
+
+
+IMAGE_PTH = os.path.dirname(os.path.abspath(__file__), 'the-result.png')
+printer(f'DEBUG: IMAGE_PTH: {repr(IMAGE_PTH)}.')
 
 
 def get_random_range():
@@ -27,7 +34,7 @@ def get_random_range():
     y_bound_max = 0.9
 
     total_width = x_bound_max - x_bound_min
-    total_height = y_bound_max - y_bound_min
+    # total_height = y_bound_max - y_bound_min
 
     ## The captured one
     frame_width = total_width/random.randint(1, 100)
@@ -39,20 +46,15 @@ def get_random_range():
     ymin = random.uniform(y_bound_min, y_bound_max-frame_height)
     ymax = ymin + frame_height
 
-    return xmin, xmax, ymin, ymax, frame_width, frame_height
+    return xmin, xmax, ymin, ymax
 
 
-def main():
-
-    w, h = 1920, 1080  # should 16:9 AR
-
-    antialiasing_is_on = random.choice([True, False])
-    antialiasing_supsample = 2
+if __name__ == '__main__':
 
     n_iter = random.randint(128, 512)
-    ct = random.randint(1, 255)
+    ct = random.randint(1, 255)  # PPM color threshold
     hue_offset = random.randint(0, 359)
-    saturation = random.uniform(-1, 1)
+    saturation = round( random.uniform(-1, 1), 2 )
 
     ## Don't capture blank image
     num_attempts = 0
@@ -61,41 +63,29 @@ def main():
     while std < 20:  # This essentially checks the noise of the image (if 0 -> all uniform, aka a blank image)
         num_attempts += 1
         if (time.time() - dur_t0) > 850: break  # Guard
-        xmin, xmax, ymin, ymax, frame_width, frame_height = get_random_range()
+        xmin, xmax, ymin, ymax = get_random_range()
         ## Render
-        raw = get_raw_grayscale_image(
-            w, h,
-            antialiasing_is_on,
-            antialiasing_supsample,
-            n_iter,
-            xmin, xmax,
-            ymin, ymax
-        )
+        raw = get_raw_grayscale_image(1280, 720, True, 2, n_iter, xmin, xmax, ymin, ymax)
         std = np.std(raw)
     dur = time.time() - dur_t0
     printer(f'INFO: std: {std}  dur: {dur}  num_attempts: {num_attempts}')
 
-    ppm_data = get_ppm(
-        raw,
-        w, h, ct,
-        hue_offset, saturation
-    )
+    ppm_data = get_ppm(raw, 1280, 720, ct, hue_offset, saturation)
 
     ## Random FFmpeg filters
-    edit_contrast   = random.uniform(0.7, 1.8)
-    edit_brightness = random.uniform(-0.1, 0.23)
-    edit_saturation = random.uniform(0.25, 1.75)
-    edit_gamma      = random.uniform(0.9, 1.1)
-    edit_gamma_r    = random.uniform(0.9, 1.1)
-    edit_gamma_g    = random.uniform(0.9, 1.1)
-    edit_gamma_b    = random.uniform(0.9, 1.1)
+    edit_contrast   = round( random.uniform(0.7, 1.8)  , 2 )
+    edit_brightness = round( random.uniform(-0.1, 0.23), 2 )
+    edit_saturation = round( random.uniform(0.25, 1.75), 2 )
+    edit_gamma      = round( random.uniform(0.9, 1.1)  , 2 )
+    edit_gamma_r    = round( random.uniform(0.9, 1.1)  , 2 )
+    edit_gamma_g    = round( random.uniform(0.9, 1.1)  , 2 )
+    edit_gamma_b    = round( random.uniform(0.9, 1.1)  , 2 )
     edit_vignette   = random.randint(-48, 33)
     edit_temp       = random.randint(2000, 8000)
 
     # Export
     file_size = save_img(
-        FFMPEG,
-        os.path.join(DRAFT_DIR, 'result.png'),
+        IMAGE_PTH,
         ppm_data,
 
         edit_contrast,
@@ -109,21 +99,26 @@ def main():
         edit_temp
     )
 
-    write_metadata(
-        os.path.join(DRAFT_DIR, 'metadata.txt'),
-        w, h,
+    ## Tweeting
+    fractal = 'Burning Ship'
+    day = datetime.now().strftime('%A')
+    greet = get_random_fractal_greeting(day, fractal)
+    text = f'{greet} #fractals #mathematics'
+    tweet_id = tweet(text, IMAGE_PTH)
 
-        antialiasing_is_on, antialiasing_supsample,
+    ## Metadata
+    write_metadata(
+        os.path.join(ARCHIVE_TEMP_DIR, f'{datetime.now().strftime("%Y%m%d_%H%M%S")}_Burning_Ship_{tweet_id}.txt'),
+        tweet_id,
 
         n_iter,
         ct,
         hue_offset,
         saturation,
 
-        num_attempts, dur, std,
-        file_size,
+        num_attempts, int(dur), round(std, 2), file_size,
 
-        xmin, xmax, ymin, ymax, frame_width, frame_height,
+        xmin, xmax, ymin, ymax,
 
         edit_contrast,
         edit_brightness,
@@ -135,7 +130,3 @@ def main():
         edit_vignette,
         edit_temp,
     )
-
-
-if __name__ == '__main__':
-    main()
