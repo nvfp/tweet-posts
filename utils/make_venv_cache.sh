@@ -29,7 +29,7 @@ source $GITHUB_WORKSPACE/$VENV_CACHE_DIR_NAME/bin/activate
 echo "INFO: which python: '$(which python)'"
 
 echo "::group::Install Python dependencies"
-pip install numba==0.55.2 numpy==1.22.4 mykit==6.0.0 tweepy
+pip install numba==0.55.2 numpy==1.22.4 mykit==6.0.0 tweepy openai
 echo "::endgroup::"
 
 cd $VENV_CACHE_DIR_NAME
