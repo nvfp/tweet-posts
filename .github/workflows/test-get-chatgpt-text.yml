@@ -24,4 +24,5 @@ jobs:
       - env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: |
+          source $GITHUB_WORKSPACE/$VENV_CACHE_DIR_NAME/bin/activate
           python utils/get_chatgpt_text.py
