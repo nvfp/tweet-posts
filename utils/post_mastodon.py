@@ -1,9 +1,11 @@
 import os
 import requests
 
+from mykit.kit.utils import printer
+
 
 def post_mastodon(text, image):
-    print('INFO: Sending to Mastodon.')
+    printer('INFO: Sending to Mastodon.')
     access_token = os.environ['MASTODON_ACCESS_TOKEN']
 
     ## Image
@@ -14,7 +16,7 @@ def post_mastodon(text, image):
             files={'file': file}
         )
         if response.status_code != 200:
-            print(f'WARNING: image response: {response}')
+            printer(f'WARNING: image response: {response}')
             return
     media_id = response.json()['id']
 
@@ -26,9 +28,9 @@ def post_mastodon(text, image):
         data=payload
     )
     if response.status_code != 200:
-        print(f'WARNING: text response: {response}')
+        printer(f'WARNING: text response: {response}')
         return
-    # print(json.dumps(response.json(), indent=4))
+    # printer(json.dumps(response.json(), indent=4))
     post_id = response.json()['id']
-    print(f'INFO: Sent. post_id: {repr(post_id)}')
+    printer(f'INFO: Sent. post_id: {repr(post_id)}')
     return post_id
