@@ -3,7 +3,7 @@ from mykit.kit.utils import printer
 
 
 def get_text(
-    tweet_id,
+    tweet_id, masto_id,
 
     n_iter,
     ct,
@@ -25,6 +25,7 @@ def get_text(
     edit_temp,
 ):
     return f"""tweet_id: {tweet_id}
+masto_id: {masto_id}
 
 n_iter: {n_iter}
 ct: {ct}
@@ -53,7 +54,7 @@ temp: {edit_temp}"""
 
 
 def write_metadata(
-    file_path, tweet_id,
+    file_path, tweet_id, masto_id,
 
     n_iter,
     ct,
@@ -77,7 +78,7 @@ def write_metadata(
     printer('DEBUG: Writing metadata file.')
 
     text = get_text(
-        tweet_id,
+        tweet_id, masto_id,
 
         n_iter,
         ct,

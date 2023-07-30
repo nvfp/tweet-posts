@@ -12,12 +12,13 @@ _REPO_ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 printer(f'DEBUG: Appending {repr(_REPO_ROOT_DIR)} to `sys.path`.')
 sys.path.append(_REPO_ROOT_DIR)
 
-from utils.constants import ARCHIVE_TEMP_DIR
+from utils.constants import __version__, ARCHIVE_TEMP_DIR
 from utils.get_random_fractal_greeting import get_random_fractal_greeting
 from utils.get_random_hashtag import get_random_hashtag
 from utils.get_ppm import get_ppm
 from utils.save_img import save_img
 from utils.tweet import tweet
+from utils.post_mastodon import post_mastodon
 from tweet_burning_ship.get_raw import get_raw_grayscale_image
 from tweet_burning_ship.write_metadata import write_metadata
 
@@ -108,12 +109,15 @@ if __name__ == '__main__':
     text = f'{greet} {ht1} {ht2}'
     tweet_id = tweet(text, IMAGE_PTH)
 
+    ## Mastodon
+    masto_id = post_mastodon(text, IMAGE_PTH)
+
     ## Metadata
     if os.path.exists(ARCHIVE_TEMP_DIR): raise AssertionError(f'Already exists: {repr(ARCHIVE_TEMP_DIR)}.')
     os.mkdir(ARCHIVE_TEMP_DIR)
     write_metadata(
-        os.path.join(ARCHIVE_TEMP_DIR, f'{datetime.now().strftime("%Y%m%d_%H%M%S")}_Burning_Ship_{tweet_id}.txt'),
-        tweet_id,
+        os.path.join(ARCHIVE_TEMP_DIR, f'{datetime.now().strftime("%Y%m%d_%H%M%S")}_Burning_Ship_{tweet_id}_{__version__}.txt'),
+        tweet_id, masto_id,
 
         n_iter,
         ct,
