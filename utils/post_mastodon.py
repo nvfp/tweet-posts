@@ -28,5 +28,7 @@ def post_mastodon(text, image):
     if response.status_code != 200:
         print(f'WARNING: text response: {response}')
         return
-    print('INFO: Sent.')
     # print(json.dumps(response.json(), indent=4))
+    post_id = response.json()['id']
+    print(f'INFO: Sent. post_id: {repr(post_id)}')
+    return post_id
