@@ -63,7 +63,7 @@ if __name__ == '__main__':
     dur_t0 = time.time()
     std = 0  # standard deviation
     xmin, xmax, ymin, ymax, raw, std = 0, 0, 0, 0, 0, 0  # The one with highest `std`
-    while (std < 10) or ((time.time() - dur_t0) < 600):
+    while (std < 10) or ((time.time() - dur_t0) < 600):  # it will search for the highest std for the first 600s (10 mins)
         num_attempts += 1
         if (time.time() - dur_t0) > 850: break  # Guard
         _xmin, _xmax, _ymin, _ymax = get_random_range()
