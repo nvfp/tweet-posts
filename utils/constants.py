@@ -3,6 +3,9 @@ import os
 from mykit.kit.utils import printer
 
 
+__version__ = '2023.07.30'
+
+
 TOP_LEVEL_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 printer(f'DEBUG: TOP_LEVEL_DIR: {repr(TOP_LEVEL_DIR)}.')
 
