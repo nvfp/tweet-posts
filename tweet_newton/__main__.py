@@ -12,12 +12,13 @@ _REPO_ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 printer(f'DEBUG: Appending {repr(_REPO_ROOT_DIR)} to `sys.path`.')
 sys.path.append(_REPO_ROOT_DIR)
 
-from utils.constants import ARCHIVE_TEMP_DIR
+from utils.constants import __version__, ARCHIVE_TEMP_DIR
 from utils.get_random_fractal_greeting import get_random_fractal_greeting
 from utils.get_random_hashtag import get_random_hashtag
 from utils.get_ppm import get_ppm
 from utils.save_img import save_img
 from utils.tweet import tweet
+from utils.post_mastodon import post_mastodon
 from tweet_newton.get_raw import get_raw_grayscale_image, newton_power, newton_const
 from tweet_newton.write_metadata import write_metadata
 
@@ -61,13 +62,16 @@ if __name__ == '__main__':
     num_attempts = 0
     dur_t0 = time.time()
     std = 0  # standard deviation
-    while std < 2.51:  # This essentially checks the noise of the image (if 0 -> all uniform, aka a blank image)
+    xmin, xmax, ymin, ymax, raw, std = 0, 0, 0, 0, 0, 0  # The one with highest `std`
+    while (std < 2.51) or ((time.time() - dur_t0) < 600):  # This essentially checks the noise of the image (if std=0 -> all uniform, aka a blank image)
         num_attempts += 1
         if (time.time() - dur_t0) > 850: break  # Guard
-        xmin, xmax, ymin, ymax = get_random_range()
+        _xmin, _xmax, _ymin, _ymax = get_random_range()
         ## Render
-        raw = get_raw_grayscale_image(1280, 720, True, 2, n_iter, xmin, xmax, ymin, ymax)
-        std = np.std(raw)
+        _raw = get_raw_grayscale_image(1280, 720, True, 2, n_iter, _xmin, _xmax, _ymin, _ymax)
+        _std = np.std(_raw)
+        if _std > std:
+            xmin, xmax, ymin, ymax, raw, std = _xmin, _xmax, _ymin, _ymax, _raw, _std
     dur = time.time() - dur_t0
     printer(f'INFO: std: {std}  dur: {dur}  num_attempts: {num_attempts}')
 
@@ -107,13 +111,16 @@ if __name__ == '__main__':
     ht1, ht2 = get_random_hashtag()
     text = f'{greet} {ht1} {ht2}'
     tweet_id = tweet(text, IMAGE_PTH)
+    
+    ## Mastodon
+    masto_id = post_mastodon(text, IMAGE_PTH)
 
     ## Metadata
     if os.path.exists(ARCHIVE_TEMP_DIR): raise AssertionError(f'Already exists: {repr(ARCHIVE_TEMP_DIR)}.')
     os.mkdir(ARCHIVE_TEMP_DIR)
     write_metadata(
-        os.path.join(ARCHIVE_TEMP_DIR, f'{datetime.now().strftime("%Y%m%d_%H%M%S")}_Newton_{tweet_id}.txt'),
-        tweet_id,
+        os.path.join(ARCHIVE_TEMP_DIR, f'{datetime.now().strftime("%Y%m%d_%H%M%S")}_Newton_{tweet_id}_{__version__}.txt'),
+        tweet_id, masto_id,
         newton_power, newton_const,
 
         n_iter,
