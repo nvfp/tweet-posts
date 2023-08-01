@@ -53,8 +53,9 @@ def get_random_range():
 
 if __name__ == '__main__':
 
-    n_iter = random.randint(128, 512)
-    ct = random.randint(1, 255)  # PPM color threshold
+    n_iter = random.randint(256, 512+128)
+    # ct = random.randint(1, 255)  # PPM color threshold
+    ct = random.choice([1, 255])  # High resolution color
     hue_offset = random.randint(0, 359)
     saturation = round( random.uniform(-1, 1), 2 )
 
