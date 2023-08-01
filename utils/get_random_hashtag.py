@@ -21,8 +21,10 @@ def get_list():
     ]
 
 
-def get_random_hashtag():
-    ht1 = random.choice(get_list())
-    ht2 = random.choice(get_list())
-    while ht2 == ht1: ht2 = random.choice(get_list())
-    return ht1, ht2
+def get_random_hashtag(num):
+    out = []
+    while len(out) < num:
+        h = random.choice(get_list())
+        if h in out: continue
+        out.append(h)
+    return out
