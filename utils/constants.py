@@ -3,7 +3,7 @@ import os
 from mykit.kit.utils import printer
 
 
-__version__ = '2023.07.30'
+__version__ = '2023.08.01'
 
 
 TOP_LEVEL_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
