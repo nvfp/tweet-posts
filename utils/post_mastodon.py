@@ -17,7 +17,7 @@ def post_mastodon(text, image):
         )
         if response.status_code != 200:
             printer(f'WARNING: image response: {response}')
-            return
+            return 'FAIL'
     media_id = response.json()['id']
 
     ## Text
@@ -29,7 +29,7 @@ def post_mastodon(text, image):
     )
     if response.status_code != 200:
         printer(f'WARNING: text response: {response}')
-        return
+        return 'FAIL'
     # printer(json.dumps(response.json(), indent=4))
     post_id = response.json()['id']
     printer(f'INFO: Sent. post_id: {repr(post_id)}')
