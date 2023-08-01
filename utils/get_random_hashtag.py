@@ -3,21 +3,21 @@ import random
 
 def get_list():
     return [
-        '#Physics',
-        '#Fractals',
-        '#Biology',
-        '#Education',
-        '#DataScience',
-        '#Science',
-        '#Astronomy',
+        '#ArtificialIntelligence',
         '#MachineLearning',
-        '#MathEducation',
-        '#Learning',
-        '#Math',
-        '#Teaching',
-        '#EdTech',
-        '#ScienceEducation',
-        '#STEM',
+        '#DeepLearning',
+        '#NeuralNetworks',
+        '#ComputerVision',
+        '#NaturalLanguageProcessing',
+        '#Robotics',
+        '#DataScience',
+        '#AIResearch',
+        '#AutonomousSystems',
+        '#AIProgramming',
+        '#AIEthics',
+        '#AIInnovation',
+        '#AIApplications',
+        '#AIAlgorithms',
     ]
 
 
