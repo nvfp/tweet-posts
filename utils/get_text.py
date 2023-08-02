@@ -4,7 +4,7 @@ from utils.get_random_fractal_greeting import get_random_fractal_greeting
 from utils.get_random_hashtag import get_random_hashtag
 
 
-NUM_HASHTAGS = 3
+NUM_HASHTAGS = 2
 
 
 def get_text(fractal):
