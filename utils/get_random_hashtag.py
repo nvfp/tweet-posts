@@ -3,21 +3,18 @@ import random
 
 def get_list():
     return [
-        '#ArtificialIntelligence',
+        '#AI',
         '#MachineLearning',
         '#DeepLearning',
-        '#NeuralNetworks',
-        '#ComputerVision',
-        '#NaturalLanguageProcessing',
-        '#Robotics',
-        '#DataScience',
-        '#AIResearch',
-        '#AutonomousSystems',
-        '#AIProgramming',
-        '#AIEthics',
-        '#AIInnovation',
-        '#AIApplications',
-        '#AIAlgorithms',
+        '#Mathematics',
+        '#Math',
+        '#Science',
+        '#Nature',
+        '#Fractals',
+        '#Art',
+        '#DigitalArt',
+        '#VisualArt',
+        '#Programming',
     ]
 
 
