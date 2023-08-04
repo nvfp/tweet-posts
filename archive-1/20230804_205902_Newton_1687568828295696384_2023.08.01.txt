@@ -1,0 +1,30 @@
+tweet_id: 1687568828295696384
+masto_id: 110833352217474450
+
+newton_power: 5
+newton_const: -9
+
+n_iter: 207
+ct: 200
+hue_offset: 279
+saturation: 0.18
+
+num_attempts: 107
+dur: 601
+std: 10.71
+size: 871295 (850.87 KiB)
+
+xmin: -2.95039802194499
+xmax: -2.9263016364028216
+ymin: 0.23455988546483786
+ymax: 0.24811410233230774
+
+contrast: 0.72
+brightness: 0.04
+saturation: 1.6
+gamma: 1.07
+gamma_r: 1.04
+gamma_g: 0.94
+gamma_b: 0.97
+vignette: -24
+temp: 4425
