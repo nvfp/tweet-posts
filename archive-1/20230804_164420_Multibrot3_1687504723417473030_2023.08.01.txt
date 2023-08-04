@@ -1,0 +1,27 @@
+tweet_id: 1687504723417473030
+masto_id: 110832350692695838
+
+n_iter: 640
+ct: 1
+hue_offset: 156
+saturation: -0.2
+
+num_attempts: 245
+dur: 602
+std: 83.35
+size: 1097055 (1.05 MiB)
+
+xmin: -0.2145165784773957
+xmax: -0.20503790549161371
+ymin: 0.9908096856705804
+ymax: 0.9961414392250827
+
+contrast: 0.78
+brightness: 0.2
+saturation: 0.28
+gamma: 0.91
+gamma_r: 1.06
+gamma_g: 0.96
+gamma_b: 1.01
+vignette: 33
+temp: 5709
