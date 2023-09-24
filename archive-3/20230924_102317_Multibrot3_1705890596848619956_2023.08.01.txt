@@ -1,0 +1,28 @@
+tweet_id: 1705890596848619956
+masto_id: 111119629768135044
+subre_id: /r/hourly_fractals/comments/16qu9v8/smile_its_sunday_machinelearning_mathematics/
+
+n_iter: 555
+ct: 1
+hue_offset: 311
+saturation: -0.65
+
+num_attempts: 297
+dur: 600
+std: 64.17
+size: 1241357 (1.18 MiB)
+
+xmin: 0.18868398913427953
+xmax: 0.19721277378246715
+ymin: 0.8578312891941562
+ymax: 0.8626287305587618
+
+contrast: 1.14
+brightness: 0.07
+saturation: 0.26
+gamma: 1.01
+gamma_r: 0.9
+gamma_g: 1.08
+gamma_b: 0.92
+vignette: -41
+temp: 7366
