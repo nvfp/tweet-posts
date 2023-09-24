@@ -1,0 +1,28 @@
+tweet_id: 1706007695982002474
+masto_id: 111121459559144074
+subre_id: /r/hourly_fractals/comments/16r4eqt/surprise_its_a_burning_ship_deeplearning_ai/
+
+n_iter: 241
+ct: 139
+hue_offset: 338
+saturation: 0.65
+
+num_attempts: 12
+dur: 10
+std: 20.65
+size: 860459 (840.29 KiB)
+
+xmin: -1.9419534041274826
+xmax: 0.30804659587251737
+ymin: -1.3398026769206886
+ymax: -0.07417767692068855
+
+contrast: 0.79
+brightness: 0.09
+saturation: 1.44
+gamma: 1.05
+gamma_r: 0.92
+gamma_g: 0.95
+gamma_b: 1.1
+vignette: -33
+temp: 2886
