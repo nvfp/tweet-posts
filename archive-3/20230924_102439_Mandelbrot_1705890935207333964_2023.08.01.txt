@@ -1,0 +1,28 @@
+tweet_id: 1705890935207333964
+masto_id: 111119635100971535
+subre_id: /r/hourly_fractals/comments/16quan0/today_is_awesome_math_machinelearning/
+
+n_iter: 624
+ct: 185
+hue_offset: 42
+saturation: -0.87
+
+num_attempts: 82
+dur: 57
+std: 109.89
+size: 885991 (865.23 KiB)
+
+xmin: -0.18120459799435906
+xmax: -0.18058540294791944
+ymin: -0.8202215815903553
+ymax: -0.819873284376733
+
+contrast: 0.78
+brightness: -0.06
+saturation: 0.91
+gamma: 1.08
+gamma_r: 0.96
+gamma_g: 1.05
+gamma_b: 1.08
+vignette: -39
+temp: 3906
