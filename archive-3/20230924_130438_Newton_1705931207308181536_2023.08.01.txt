@@ -1,0 +1,31 @@
+tweet_id: 1705931207308181536
+masto_id: 111120264292013560
+subre_id: /r/hourly_fractals/comments/16qxan4/surprise_newton_deeplearning_visualart/
+
+newton_power: 5
+newton_const: 3
+
+n_iter: 87
+ct: 224
+hue_offset: 211
+saturation: 0.52
+
+num_attempts: 99
+dur: 613
+std: 10.0
+size: 424752 (414.8 KiB)
+
+xmin: 0.504551189032397
+xmax: 0.5192570713853382
+ymin: -0.6101839143034316
+ymax: -0.6019118554799021
+
+contrast: 0.76
+brightness: 0.1
+saturation: 0.82
+gamma: 1.05
+gamma_r: 0.99
+gamma_g: 0.97
+gamma_b: 0.96
+vignette: 2
+temp: 4778
