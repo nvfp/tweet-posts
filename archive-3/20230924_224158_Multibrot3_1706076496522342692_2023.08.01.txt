@@ -1,0 +1,28 @@
+tweet_id: 1706076496522342692
+masto_id: 111122534402094655
+subre_id: /r/hourly_fractals/comments/16rb6cu/keep_smiling_programming_art/
+
+n_iter: 335
+ct: 255
+hue_offset: 251
+saturation: 0.81
+
+num_attempts: 397
+dur: 601
+std: 60.27
+size: 1774306 (1.69 MiB)
+
+xmin: 0.41272738520493846
+xmax: 0.4171966589479552
+ymin: -0.6044535587844944
+ymax: -0.6019395923040475
+
+contrast: 1.16
+brightness: 0.21
+saturation: 0.7
+gamma: 1.06
+gamma_r: 1.06
+gamma_g: 1.06
+gamma_b: 0.98
+vignette: -35
+temp: 5862
