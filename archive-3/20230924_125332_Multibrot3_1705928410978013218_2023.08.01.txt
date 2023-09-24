@@ -1,0 +1,28 @@
+tweet_id: 1705928410978013218
+masto_id: 111120220588584869
+subre_id: /r/hourly_fractals/comments/16qx244/hey_there_its_sunday_programming_math/
+
+n_iter: 393
+ct: 1
+hue_offset: 88
+saturation: 0.93
+
+num_attempts: 405
+dur: 606
+std: 64.6
+size: 1491963 (1.42 MiB)
+
+xmin: -0.4392420851936505
+xmax: -0.4337999083229022
+ymin: 0.5775763077908627
+ymax: 0.5806375322806586
+
+contrast: 0.74
+brightness: -0.07
+saturation: 1.66
+gamma: 0.91
+gamma_r: 0.92
+gamma_g: 0.96
+gamma_b: 0.99
+vignette: -36
+temp: 3920
