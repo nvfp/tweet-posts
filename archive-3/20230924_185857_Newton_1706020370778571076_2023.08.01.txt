@@ -1,0 +1,31 @@
+tweet_id: 1706020370778571076
+masto_id: 111121657485104081
+subre_id: /r/hourly_fractals/comments/16r5n6l/enjoy_your_sunday_deeplearning_mathematics/
+
+newton_power: 4
+newton_const: -7
+
+n_iter: 185
+ct: 26
+hue_offset: 130
+saturation: -0.7
+
+num_attempts: 121
+dur: 604
+std: 7.41
+size: 1032385 (1008.19 KiB)
+
+xmin: 0.655713337941918
+xmax: 0.694674376902957
+ymin: 0.6623053094802112
+ymax: 0.6842208938957955
+
+contrast: 1.33
+brightness: 0.06
+saturation: 0.63
+gamma: 0.93
+gamma_r: 1.05
+gamma_g: 1.07
+gamma_b: 1.08
+vignette: 33
+temp: 3129
