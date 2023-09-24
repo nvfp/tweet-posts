@@ -25,4 +25,14 @@ jobs:
 
           ## Put the scripts below here
 
+          echo "::group::pip list"
           pip list
+          echo "::endgroup::"
+
+          echo "::group::pip install praw"
+          pip install praw
+          echo "::endgroup::"
+
+          echo "::group::pip list"
+          pip list
+          echo "::endgroup::"

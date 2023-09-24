@@ -33,7 +33,7 @@ pip list
 echo "::endgroup::"
 
 echo "::group::Install Python dependencies"
-pip install numba==0.55.2 numpy==1.22.4 mykit==6.0.0 tweepy openai
+pip install numba==0.55.2 numpy==1.22.4 mykit==6.0.0 tweepy==4.14.0 openai==0.27.8 praw==
 echo "::endgroup::"
 
 echo "::group::pip list (after)"
