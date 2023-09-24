@@ -18,6 +18,7 @@ from utils.get_ppm import get_ppm
 from utils.save_img import save_img
 from utils.tweet import tweet
 from utils.post_mastodon import post_mastodon
+from utils.post_subreddit import post_to_subreddit
 from tweet_burning_ship.get_raw import get_raw_grayscale_image
 from tweet_burning_ship.write_metadata import write_metadata
 
@@ -104,6 +105,7 @@ if __name__ == '__main__':
     text = get_text('Burning Ship')
     tweet_id = tweet(text, IMAGE_PTH)
     masto_id = post_mastodon(text, IMAGE_PTH)
+    subre_id = post_to_subreddit(text, IMAGE_PTH)
 
     ## Metadata
     if os.path.exists(ARCHIVE_TEMP_DIR): raise AssertionError(f'Already exists: {repr(ARCHIVE_TEMP_DIR)}.')

@@ -1,0 +1,28 @@
+## This script is for running something that has to be done manually, like checking versions, installing, etc.
+name: Run manual
+
+on: workflow_dispatch
+
+env:
+  # This one should mirror the one in utils/constants.py and .gitignore
+  VENV_CACHE_DIR_NAME: THE_VENV_CACHE
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+
+      ## Try to restore the VENV cache
+      - id: restore-cache
+        uses: actions/cache/restore@v3
+        with:
+          path: ${{ env.VENV_CACHE_DIR_NAME }}
+          key: key-${{ env.VENV_CACHE_DIR_NAME }}
+
+      - run: |
+          ## 🚀🚀
+          source $GITHUB_WORKSPACE/$VENV_CACHE_DIR_NAME/bin/activate
+
+          ## Put the scripts below here
+
+          pip list
