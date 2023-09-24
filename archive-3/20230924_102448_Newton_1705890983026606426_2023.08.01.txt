@@ -1,0 +1,31 @@
+tweet_id: 1705890983026606426
+masto_id: 111119635798519471
+subre_id: /r/hourly_fractals/comments/16quaqb/happy_sunday_enjoy_the_beauty_of_newton_science_ai/
+
+newton_power: 5
+newton_const: 3
+
+n_iter: 231
+ct: 120
+hue_offset: 81
+saturation: 0.98
+
+num_attempts: 99
+dur: 602
+std: 13.32
+size: 579217 (565.64 KiB)
+
+xmin: 1.9952674659296807
+xmax: 2.3110569396138914
+ymin: -0.1468676152336803
+ymax: 0.030763963713688114
+
+contrast: 0.79
+brightness: 0.1
+saturation: 1.69
+gamma: 0.91
+gamma_r: 0.91
+gamma_g: 1.0
+gamma_b: 0.99
+vignette: 4
+temp: 7487
