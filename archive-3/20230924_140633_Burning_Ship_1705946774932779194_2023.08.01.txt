@@ -1,0 +1,28 @@
+tweet_id: 1705946774932779194
+masto_id: 111120507616108158
+subre_id: /r/hourly_fractals/comments/16qyldp/brighten_your_sunday_digitalart_mathematics/
+
+n_iter: 448
+ct: 44
+hue_offset: 115
+saturation: -0.42
+
+num_attempts: 41
+dur: 28
+std: 24.35
+size: 796889 (778.21 KiB)
+
+xmin: -1.1130728152383613
+xmax: 1.1369271847616387
+ymin: -0.9050248614308483
+ymax: 0.36060013856915174
+
+contrast: 0.75
+brightness: -0.01
+saturation: 0.89
+gamma: 1.09
+gamma_r: 0.91
+gamma_g: 1.06
+gamma_b: 0.97
+vignette: 22
+temp: 2926
