@@ -1,0 +1,28 @@
+tweet_id: 1705885709645844809
+masto_id: 111119553348752719
+subre_id: /r/hourly_fractals/comments/16qty3z/keep_smiling_mathematics_digitalart/
+
+n_iter: 390
+ct: 220
+hue_offset: 317
+saturation: -0.55
+
+num_attempts: 16
+dur: 15
+std: 59.88
+size: 954147 (931.78 KiB)
+
+xmin: -0.6440736563511176
+xmax: -0.4484214824380741
+ymin: -0.8031184430622256
+ymax: -0.6930640952361387
+
+contrast: 1.6
+brightness: -0.06
+saturation: 1.44
+gamma: 1.05
+gamma_r: 0.95
+gamma_g: 1.1
+gamma_b: 1.08
+vignette: -25
+temp: 2792
