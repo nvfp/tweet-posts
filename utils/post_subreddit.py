@@ -5,6 +5,7 @@ from mykit.kit.utils import printer
 
 
 def post_to_subreddit(text, image_abs_path):
+    printer('INFO: sending to Reddit...')
 
     r = praw.Reddit(
         client_id=os.environ['REDDIT_ID'],
@@ -26,7 +27,10 @@ def post_to_subreddit(text, image_abs_path):
         ## TODO: can we just set auto-approve rather than doing this?
         submission.mod.approve()
 
-        return submission.permalink
+        the_id = submission.permalink
+        printer(f'INFO: done, sent. subreddit with the_id: {repr(the_id)}.')
+
+        return the_id
     except Exception as err:
         printer(f'ERROR: {err}')
         return 'FAIL'
