@@ -1,0 +1,28 @@
+tweet_id: 1705950729972928961
+masto_id: 111120569419501399
+subre_id: /r/hourly_fractals/comments/16qyxww/hope_youre_having_a_great_sunday_fractals_math/
+
+n_iter: 921
+ct: 36
+hue_offset: 220
+saturation: 0.33
+
+num_attempts: 60
+dur: 62
+std: 18.05
+size: 923308 (901.67 KiB)
+
+xmin: -0.6660529557460344
+xmax: -0.6649038606584159
+ymin: -0.4208429776200865
+ymax: -0.4201966116333011
+
+contrast: 0.83
+brightness: 0.23
+saturation: 1.08
+gamma: 1.07
+gamma_r: 0.96
+gamma_g: 1.1
+gamma_b: 0.92
+vignette: 18
+temp: 7210
