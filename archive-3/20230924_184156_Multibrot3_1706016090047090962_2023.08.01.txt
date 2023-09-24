@@ -1,0 +1,28 @@
+tweet_id: 1706016090047090962
+masto_id: 111121590591191075
+subre_id: /r/hourly_fractals/comments/16r58b1/keep_smiling_machinelearning_art/
+
+n_iter: 356
+ct: 1
+hue_offset: 109
+saturation: 0.45
+
+num_attempts: 358
+dur: 604
+std: 54.93
+size: 732181 (715.02 KiB)
+
+xmin: 0.4010048682117269
+xmax: 0.40971946516161795
+ymin: -0.6283001972999114
+ymax: -0.6233982365155977
+
+contrast: 1.03
+brightness: 0.1
+saturation: 1.67
+gamma: 0.99
+gamma_r: 1.04
+gamma_g: 1.06
+gamma_b: 1.06
+vignette: -16
+temp: 3490
