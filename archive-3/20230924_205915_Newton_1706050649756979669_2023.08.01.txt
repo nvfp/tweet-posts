@@ -1,0 +1,31 @@
+tweet_id: 1706050649756979669
+masto_id: 111122130553388090
+subre_id: /r/hourly_fractals/comments/16r8lzx/wishing_you_a_joyful_day_fractals_math/
+
+newton_power: 7
+newton_const: 1
+
+n_iter: 108
+ct: 229
+hue_offset: 342
+saturation: -0.75
+
+num_attempts: 89
+dur: 614
+std: 17.98
+size: 1376272 (1.31 MiB)
+
+xmin: -0.5985407625352339
+xmax: -0.56593206688306
+ymin: 1.89913473409629
+ymax: 1.917477125400638
+
+contrast: 1.28
+brightness: 0.18
+saturation: 1.03
+gamma: 0.97
+gamma_r: 0.97
+gamma_g: 1.08
+gamma_b: 0.96
+vignette: -46
+temp: 7346
