@@ -27,13 +27,14 @@ echo "---"
 # Activate py venv
 source $GITHUB_WORKSPACE/$VENV_CACHE_DIR_NAME/bin/activate
 echo "INFO: which python: '$(which python)'"
+echo "INFO: python --version: '$(python --version)'"
 
 echo "::group::pip list (before)"
 pip list
 echo "::endgroup::"
 
 echo "::group::Install Python dependencies"
-pip install numba==0.55.2 numpy==1.22.4 mykit==6.0.0 tweepy==4.14.0 openai==0.27.8 praw==
+pip install numba==0.55.2 numpy==1.22.4 mykit==6.0.0 tweepy==4.14.0 openai==0.27.8 praw==7.7.1
 echo "::endgroup::"
 
 echo "::group::pip list (after)"
