@@ -1,0 +1,28 @@
+tweet_id: 1705955721467302339
+masto_id: 111120647284359412
+subre_id: /r/hourly_fractals/comments/16qzdzv/sunday_vibes_fractals_deeplearning/
+
+n_iter: 321
+ct: 255
+hue_offset: 322
+saturation: 0.77
+
+num_attempts: 440
+dur: 606
+std: 43.89
+size: 835074 (815.5 KiB)
+
+xmin: 0.4843264568831973
+xmax: 0.495108128042227
+ymin: 0.060991840554262655
+ymax: 0.06705653058121683
+
+contrast: 0.95
+brightness: -0.07
+saturation: 1.23
+gamma: 0.97
+gamma_r: 0.96
+gamma_g: 1.03
+gamma_b: 0.97
+vignette: -42
+temp: 6319
