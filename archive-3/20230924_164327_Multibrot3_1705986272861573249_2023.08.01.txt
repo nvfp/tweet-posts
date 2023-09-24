@@ -1,0 +1,28 @@
+tweet_id: 1705986272861573249
+masto_id: 111121124591438588
+subre_id: /r/hourly_fractals/comments/16r2bvn/happy_sunday_enjoy_the_beauty_of_multibrot/
+
+n_iter: 565
+ct: 255
+hue_offset: 143
+saturation: -0.84
+
+num_attempts: 285
+dur: 608
+std: 77.92
+size: 575597 (562.11 KiB)
+
+xmin: 0.2994509772770577
+xmax: 0.3214289992550797
+ymin: -0.6881713309810955
+ymax: -0.6758086936184582
+
+contrast: 1.77
+brightness: 0.12
+saturation: 0.45
+gamma: 1.0
+gamma_r: 1.1
+gamma_g: 1.08
+gamma_b: 1.06
+vignette: 1
+temp: 2688
