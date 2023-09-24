@@ -1,0 +1,28 @@
+tweet_id: 1706046330437558575
+masto_id: FAIL
+subre_id: /r/hourly_fractals/comments/16r86hl/feeling_the_multibrot_vibes_today_art_nature/
+
+n_iter: 367
+ct: 1
+hue_offset: 24
+saturation: 0.74
+
+num_attempts: 444
+dur: 604
+std: 64.08
+size: 1180894 (1.13 MiB)
+
+xmin: 0.3004780666001925
+xmax: 0.304811761074732
+ymin: 0.6873697701050303
+ymax: 0.6898074732469588
+
+contrast: 0.87
+brightness: 0.16
+saturation: 0.9
+gamma: 1.06
+gamma_r: 1.07
+gamma_g: 0.92
+gamma_b: 1.0
+vignette: -44
+temp: 2865
