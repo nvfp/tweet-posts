@@ -105,14 +105,14 @@ if __name__ == '__main__':
     text = get_text('Burning Ship')
     tweet_id = tweet(text, IMAGE_PTH)
     masto_id = post_mastodon(text, IMAGE_PTH)
-    subre_id = post_to_subreddit(text, IMAGE_PTH)
+    subre_id = post_to_subreddit(text, IMAGE_PTH)  # post's permalink
 
     ## Metadata
     if os.path.exists(ARCHIVE_TEMP_DIR): raise AssertionError(f'Already exists: {repr(ARCHIVE_TEMP_DIR)}.')
     os.mkdir(ARCHIVE_TEMP_DIR)
     write_metadata(
         os.path.join(ARCHIVE_TEMP_DIR, f'{datetime.now().strftime("%Y%m%d_%H%M%S")}_Burning_Ship_{tweet_id}_{__version__}.txt'),
-        tweet_id, masto_id,
+        tweet_id, masto_id, subre_id,
 
         n_iter,
         ct,

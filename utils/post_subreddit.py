@@ -17,16 +17,16 @@ def post_to_subreddit(text, image_abs_path):
     try:
         submission = r.subreddit('hourly_fractals').submit_image(text, image_abs_path)
 
-        print(f'submission.author: {repr(submission.author)}.')
-        print(f'submission.url: {repr(submission.url)}.')
-        print(f'submission.id: {repr(submission.id)}.')
-        print(f'submission.permalink: {repr(submission.permalink)}.')
+        # print(f'submission.author: {repr(submission.author)}.')
+        # print(f'submission.url: {repr(submission.url)}.')
+        # print(f'submission.id: {repr(submission.id)}.')
+        # print(f'submission.permalink: {repr(submission.permalink)}.')
 
         ## I have no idea why Reddit posts need to be approved so people can see them.
         ## TODO: can we just set auto-approve rather than doing this?
-        # submission.mod.approve()
+        submission.mod.approve()
 
-        return '<BETA>'
+        return submission.permalink
     except Exception as err:
         printer(f'ERROR: {err}')
         return 'FAIL'
