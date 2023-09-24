@@ -1,0 +1,28 @@
+tweet_id: 1705923743652982946
+masto_id: FAIL
+subre_id: /r/hourly_fractals/comments/16qwoxg/smile_ai_deeplearning/
+
+n_iter: 142
+ct: 97
+hue_offset: 5
+saturation: -0.47
+
+num_attempts: 1
+dur: 0
+std: 21.67
+size: 1103975 (1.05 MiB)
+
+xmin: -0.17567329773221196
+xmax: -0.17517867673555065
+ymin: -0.8418384114519617
+ymax: -0.8415601871413397
+
+contrast: 0.73
+brightness: 0.15
+saturation: 0.52
+gamma: 0.99
+gamma_r: 1.0
+gamma_g: 1.07
+gamma_b: 1.0
+vignette: -9
+temp: 2671
