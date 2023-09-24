@@ -1,0 +1,28 @@
+tweet_id: 1706071682635493555
+masto_id: 111122459117006700
+subre_id: /r/hourly_fractals/comments/16rapu1/let_the_magic_of_sunday_fill_your_heart/
+
+n_iter: 456
+ct: 136
+hue_offset: 289
+saturation: 0.15
+
+num_attempts: 61
+dur: 33
+std: 57.59
+size: 1049562 (1.0 MiB)
+
+xmin: -0.6475140980422789
+xmax: -0.6467764989273979
+ymin: -0.42261606932954954
+ymax: -0.42220116982742895
+
+contrast: 1.79
+brightness: 0.07
+saturation: 0.51
+gamma: 1.02
+gamma_r: 0.92
+gamma_g: 0.92
+gamma_b: 1.0
+vignette: -5
+temp: 5010
