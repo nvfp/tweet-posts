@@ -1,0 +1,31 @@
+tweet_id: 1706080801790501065
+masto_id: 111122601751599003
+subre_id: /r/hourly_fractals/comments/16rbl0a/cheers_to_a_fantastic_sunday_visualart/
+
+newton_power: 6
+newton_const: -2
+
+n_iter: 86
+ct: 143
+hue_offset: 77
+saturation: -0.82
+
+num_attempts: 78
+dur: 611
+std: 36.71
+size: 835949 (816.36 KiB)
+
+xmin: 1.5505240974997152
+xmax: 1.5625240974997152
+ymin: -0.9020678660881036
+ymax: -0.8953178660881036
+
+contrast: 0.99
+brightness: 0.08
+saturation: 1.45
+gamma: 0.93
+gamma_r: 1.02
+gamma_g: 0.91
+gamma_b: 1.01
+vignette: -40
+temp: 7557
