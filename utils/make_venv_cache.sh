@@ -27,7 +27,7 @@ echo "---"
 # Activate py venv
 source $GITHUB_WORKSPACE/$VENV_CACHE_DIR_NAME/bin/activate
 echo "INFO: which python: '$(which python)'"
-echo "INFO: python --version: '$(python --version)'"
+echo "INFO: python --version: '$(python --version)'"  # should be `Python 3.10.12`
 
 echo "::group::pip list (before)"
 pip list
