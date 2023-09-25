@@ -1,0 +1,28 @@
+tweet_id: 1706434441223004557
+masto_id: 111128127207861825
+subre_id: /r/hourly_fractals/comments/16s5zap/smile_its_monday_ai_machinelearning/
+
+n_iter: 408
+ct: 93
+hue_offset: 123
+saturation: -0.14
+
+num_attempts: 47
+dur: 47
+std: 34.91
+size: 113699 (111.03 KiB)
+
+xmin: -0.04879243896697938
+xmax: -0.0364467599546337
+ymin: 0.7043814183374395
+ymax: 0.7113258627818839
+
+contrast: 1.49
+brightness: -0.04
+saturation: 0.38
+gamma: 1.09
+gamma_r: 1.0
+gamma_g: 1.09
+gamma_b: 0.93
+vignette: 0
+temp: 4031
