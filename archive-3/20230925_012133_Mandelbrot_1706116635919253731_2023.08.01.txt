@@ -1,0 +1,28 @@
+tweet_id: 1706116635919253731
+masto_id: 111123161597474321
+subre_id: /r/hourly_fractals/comments/16renxt/ever_heard_of_this_mandelbrot_set_programming_art/
+
+n_iter: 839
+ct: 137
+hue_offset: 27
+saturation: 0.4
+
+num_attempts: 1
+dur: 2
+std: 109.54
+size: 1789421 (1.71 MiB)
+
+xmin: -0.17287951448580596
+xmax: -0.16836993162222086
+ymin: 0.8321850215092994
+ymax: 0.834721661870066
+
+contrast: 0.75
+brightness: 0.21
+saturation: 1.05
+gamma: 1.04
+gamma_r: 1.0
+gamma_g: 0.98
+gamma_b: 1.07
+vignette: -32
+temp: 4095
