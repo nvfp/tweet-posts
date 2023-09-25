@@ -1,0 +1,28 @@
+tweet_id: 1706281010416304580
+masto_id: FAIL
+subre_id: /r/hourly_fractals/comments/16rqe1u/have_an_awesome_day_programming_science/
+
+n_iter: 143
+ct: 6
+hue_offset: 41
+saturation: -0.26
+
+num_attempts: 44
+dur: 20
+std: 23.62
+size: 2167613 (2.07 MiB)
+
+xmin: -0.6055993686350645
+xmax: -0.4692357322714281
+ymin: -0.9172024224158162
+ymax: -0.8404978769612708
+
+contrast: 0.81
+brightness: 0.11
+saturation: 0.32
+gamma: 1.05
+gamma_r: 1.03
+gamma_g: 1.01
+gamma_b: 0.98
+vignette: -15
+temp: 6996
