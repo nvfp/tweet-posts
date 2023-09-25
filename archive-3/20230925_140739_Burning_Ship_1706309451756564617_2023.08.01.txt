@@ -1,0 +1,28 @@
+tweet_id: 1706309451756564617
+masto_id: 111126174390527272
+subre_id: /r/hourly_fractals/comments/16rt42r/hope_you_have_an_amazing_monday_deeplearning/
+
+n_iter: 481
+ct: 175
+hue_offset: 175
+saturation: 0.77
+
+num_attempts: 3
+dur: 3
+std: 35.1
+size: 1109220 (1.06 MiB)
+
+xmin: 0.24966301357916354
+xmax: 1.1496630135791635
+ymin: -1.3997644347580536
+ymax: -0.8935144347580536
+
+contrast: 1.16
+brightness: 0.17
+saturation: 1.12
+gamma: 0.95
+gamma_r: 1.08
+gamma_g: 0.98
+gamma_b: 1.0
+vignette: -43
+temp: 6395
