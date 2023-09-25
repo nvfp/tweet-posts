@@ -1,0 +1,28 @@
+tweet_id: 1706197898235400299
+masto_id: FAIL
+subre_id: /r/hourly_fractals/comments/16rkptw/have_an_awesome_day_nature_ai/
+
+n_iter: 372
+ct: 1
+hue_offset: 189
+saturation: -0.77
+
+num_attempts: 406
+dur: 605
+std: 55.36
+size: 819012 (799.82 KiB)
+
+xmin: 0.46905218911842983
+xmax: 0.4750223383721612
+ymin: 0.5635833533464103
+ymax: 0.5669415623016342
+
+contrast: 0.74
+brightness: -0.06
+saturation: 1.21
+gamma: 0.99
+gamma_r: 1.06
+gamma_g: 1.03
+gamma_b: 0.96
+vignette: 2
+temp: 2018
