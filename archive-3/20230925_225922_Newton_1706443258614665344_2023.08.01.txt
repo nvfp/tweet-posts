@@ -1,0 +1,31 @@
+tweet_id: 1706443258614665344
+masto_id: 111128265100868222
+subre_id: /r/hourly_fractals/comments/16s6umx/enjoy_your_monday_programming_digitalart/
+
+newton_power: 6
+newton_const: 10
+
+n_iter: 197
+ct: 206
+hue_offset: 120
+saturation: -0.75
+
+num_attempts: 96
+dur: 600
+std: 13.31
+size: 827306 (807.92 KiB)
+
+xmin: -1.2468304208350816
+xmax: -1.2353361679615182
+ymin: 1.7845919830732329
+ymax: 1.791057500314612
+
+contrast: 1.33
+brightness: -0.09
+saturation: 0.55
+gamma: 1.02
+gamma_r: 0.95
+gamma_g: 0.94
+gamma_b: 0.91
+vignette: -7
+temp: 4510
