@@ -1,0 +1,28 @@
+tweet_id: 1706349569288605940
+masto_id: 111126801161106452
+subre_id: /r/hourly_fractals/comments/16rx88x/cheers_to_an_incredible_monday_digitalart_nature/
+
+n_iter: 292
+ct: 255
+hue_offset: 270
+saturation: 0.18
+
+num_attempts: 556
+dur: 606
+std: 48.0
+size: 915300 (893.85 KiB)
+
+xmin: 0.6039538095858084
+xmax: 0.6083982540302528
+ymin: 0.2757036973720679
+ymax: 0.2782036973720679
+
+contrast: 1.22
+brightness: 0.17
+saturation: 0.51
+gamma: 1.06
+gamma_r: 1.0
+gamma_g: 1.05
+gamma_b: 1.01
+vignette: -14
+temp: 5502
