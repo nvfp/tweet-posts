@@ -1,0 +1,28 @@
+tweet_id: 1706374702808154479
+masto_id: 111127193949323112
+subre_id: /r/hourly_fractals/comments/16rztm8/having_a_blast_on_monday_programming_digitalart/
+
+n_iter: 137
+ct: 166
+hue_offset: 109
+saturation: -0.15
+
+num_attempts: 30
+dur: 10
+std: 17.88
+size: 847071 (827.22 KiB)
+
+xmin: -1.291642350793133
+xmax: -1.1537113163103743
+ymin: -0.23687680711304238
+ymax: -0.15929060021649066
+
+contrast: 1.16
+brightness: 0.08
+saturation: 0.44
+gamma: 0.94
+gamma_r: 0.9
+gamma_g: 0.95
+gamma_b: 0.92
+vignette: -39
+temp: 6004
