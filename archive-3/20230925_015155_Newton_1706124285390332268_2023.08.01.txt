@@ -1,0 +1,31 @@
+tweet_id: 1706124285390332268
+masto_id: 111123281245336878
+subre_id: /r/hourly_fractals/comments/16rfa92/let_this_newton_inspire_your_monday_science_ai/
+
+newton_power: 7
+newton_const: 0
+
+n_iter: 153
+ct: 7
+hue_offset: 325
+saturation: 0.25
+
+num_attempts: 101
+dur: 856
+std: 2.16
+size: 431529 (421.42 KiB)
+
+xmin: -2.1122614969793263
+xmax: -0.6122614969793263
+ymin: -0.4712079866344314
+ymax: 0.3725420133655686
+
+contrast: 1.45
+brightness: 0.05
+saturation: 1.49
+gamma: 1.06
+gamma_r: 1.0
+gamma_g: 0.94
+gamma_b: 1.08
+vignette: -23
+temp: 2042
