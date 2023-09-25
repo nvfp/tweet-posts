@@ -1,0 +1,28 @@
+tweet_id: 1706121626822050262
+masto_id: 111123239653758689
+subre_id: /r/hourly_fractals/comments/16rf2ef/chin_up_lovely_humans_mathematics_art/
+
+n_iter: 357
+ct: 255
+hue_offset: 144
+saturation: -0.93
+
+num_attempts: 407
+dur: 600
+std: 62.99
+size: 1049147 (1.0 MiB)
+
+xmin: 0.361811020848549
+xmax: 0.3691504703898334
+ymin: -0.6605303801011839
+ymax: -0.6564019397342115
+
+contrast: 0.88
+brightness: -0.01
+saturation: 0.92
+gamma: 1.04
+gamma_r: 1.05
+gamma_g: 0.9
+gamma_b: 1.05
+vignette: -21
+temp: 3146
