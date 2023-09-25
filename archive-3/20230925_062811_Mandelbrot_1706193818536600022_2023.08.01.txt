@@ -1,0 +1,28 @@
+tweet_id: 1706193818536600022
+masto_id: 111124367619913913
+subre_id: /r/hourly_fractals/comments/16rkgh5/hope_your_monday_is_awesome_art_nature/
+
+n_iter: 226
+ct: 134
+hue_offset: 108
+saturation: 0.52
+
+num_attempts: 93
+dur: 38
+std: 19.51
+size: 1245935 (1.19 MiB)
+
+xmin: -1.22578132736652
+xmax: -1.2245897873009852
+ymin: -0.18237420833221607
+ymax: -0.1817039670453528
+
+contrast: 1.55
+brightness: 0.17
+saturation: 0.78
+gamma: 1.05
+gamma_r: 1.09
+gamma_g: 1.01
+gamma_b: 1.04
+vignette: -34
+temp: 7443
