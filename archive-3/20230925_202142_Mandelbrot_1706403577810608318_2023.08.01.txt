@@ -1,0 +1,28 @@
+tweet_id: 1706403577810608318
+masto_id: 111127645228059118
+subre_id: /r/hourly_fractals/comments/16s2s5u/hello_monday_this_mandelbrot_set_is_yours/
+
+n_iter: 976
+ct: 248
+hue_offset: 359
+saturation: 0.8
+
+num_attempts: 1
+dur: 0
+std: 29.18
+size: 659282 (643.83 KiB)
+
+xmin: -0.9323600564010008
+xmax: -0.9316283936975072
+ymin: -0.2436247050791427
+ymax: -0.24321314480842748
+
+contrast: 0.97
+brightness: -0.05
+saturation: 0.39
+gamma: 0.92
+gamma_r: 0.93
+gamma_g: 1.0
+gamma_b: 1.09
+vignette: 17
+temp: 3915
