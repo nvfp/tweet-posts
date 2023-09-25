@@ -1,0 +1,31 @@
+tweet_id: 1706322514211725320
+masto_id: 111126378504276353
+subre_id: /r/hourly_fractals/comments/16rufoc/chin_up_lovely_humans_art_fractals/
+
+newton_power: 7
+newton_const: -2
+
+n_iter: 227
+ct: 111
+hue_offset: 82
+saturation: -0.52
+
+num_attempts: 91
+dur: 630
+std: 16.19
+size: 1096277 (1.05 MiB)
+
+xmin: 2.8761545424918866
+xmax: 2.904725971063315
+ymin: -1.4869778173820323
+ymax: -1.4709063888106038
+
+contrast: 1.45
+brightness: -0.09
+saturation: 1.05
+gamma: 1.07
+gamma_r: 0.93
+gamma_g: 1.07
+gamma_b: 0.98
+vignette: -47
+temp: 4296
