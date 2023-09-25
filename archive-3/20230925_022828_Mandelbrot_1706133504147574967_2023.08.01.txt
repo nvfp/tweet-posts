@@ -1,0 +1,28 @@
+tweet_id: 1706133504147574967
+masto_id: 111123425124956108
+subre_id: /r/hourly_fractals/comments/16rg1e4/enjoy_your_monday_nature_science/
+
+n_iter: 775
+ct: 148
+hue_offset: 176
+saturation: 0.2
+
+num_attempts: 26
+dur: 52
+std: 131.32
+size: 2095441 (2.0 MiB)
+
+xmin: 0.33673658259840256
+xmax: 0.3375283482357739
+ymin: 0.3836819763101671
+ymax: 0.38412734448118846
+
+contrast: 1.67
+brightness: 0.11
+saturation: 0.72
+gamma: 1.09
+gamma_r: 0.94
+gamma_g: 1.04
+gamma_b: 1.09
+vignette: -29
+temp: 7669
