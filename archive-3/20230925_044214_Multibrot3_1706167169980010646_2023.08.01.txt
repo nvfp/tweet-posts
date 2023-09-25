@@ -1,0 +1,28 @@
+tweet_id: 1706167169980010646
+masto_id: 111123951125396460
+subre_id: /r/hourly_fractals/comments/16rimz3/let_this_multibrot_inspire_your_monday_art_math/
+
+n_iter: 337
+ct: 255
+hue_offset: 7
+saturation: 0.58
+
+num_attempts: 489
+dur: 605
+std: 62.41
+size: 928084 (906.33 KiB)
+
+xmin: 0.21957067306444555
+xmax: 0.22942288981321401
+ymin: -0.7327602321698237
+ymax: -0.7272183602486414
+
+contrast: 1.67
+brightness: 0.21
+saturation: 0.51
+gamma: 1.04
+gamma_r: 0.94
+gamma_g: 1.07
+gamma_b: 0.99
+vignette: -7
+temp: 3574
