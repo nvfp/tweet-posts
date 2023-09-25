@@ -1,0 +1,28 @@
+tweet_id: 1706163577357271252
+masto_id: 111123895046505860
+subre_id: /r/hourly_fractals/comments/16ridn5/happy_monday_mathematics_visualart/
+
+n_iter: 996
+ct: 166
+hue_offset: 323
+saturation: 0.78
+
+num_attempts: 121
+dur: 190
+std: 159.77
+size: 1051035 (1.0 MiB)
+
+xmin: 0.1900130883668636
+xmax: 0.19146079014029826
+ymin: 0.5508542275686239
+ymax: 0.5516685598161809
+
+contrast: 0.78
+brightness: -0.07
+saturation: 1.67
+gamma: 1.0
+gamma_r: 1.02
+gamma_g: 0.99
+gamma_b: 1.04
+vignette: -48
+temp: 6075
