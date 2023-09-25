@@ -1,0 +1,28 @@
+tweet_id: 1706340166393029019
+masto_id: 111126654269988307
+subre_id: /r/hourly_fractals/comments/16rw9li/hope_you_have_an_amazing_monday_ai_digitalart/
+
+n_iter: 469
+ct: 176
+hue_offset: 65
+saturation: 0.27
+
+num_attempts: 4
+dur: 7
+std: 31.35
+size: 680188 (664.25 KiB)
+
+xmin: -1.4432418890538363
+xmax: 0.8067581109461637
+ymin: -1.0033737070466802
+ymax: 0.26225129295331984
+
+contrast: 0.89
+brightness: -0.03
+saturation: 1.68
+gamma: 1.06
+gamma_r: 1.02
+gamma_g: 1.06
+gamma_b: 1.0
+vignette: -48
+temp: 3680
