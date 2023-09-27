@@ -1,0 +1,28 @@
+tweet_id: 1707074328054145169
+masto_id: 111138125566814390
+subre_id: FAIL
+
+n_iter: 277
+ct: 255
+hue_offset: 166
+saturation: -0.58
+
+num_attempts: 479
+dur: 605
+std: 55.55
+size: 1225879 (1.17 MiB)
+
+xmin: -0.2929009068446682
+xmax: -0.288772939868404
+ymin: 0.7009175153624105
+ymax: 0.7032394967865592
+
+contrast: 1.5
+brightness: 0.08
+saturation: 1.22
+gamma: 0.93
+gamma_r: 1.09
+gamma_g: 1.04
+gamma_b: 1.02
+vignette: 13
+temp: 6544
