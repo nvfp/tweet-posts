@@ -54,6 +54,25 @@ def _get_list(day, fractal):
         f'Have an extraordinary {day}!',
         f'Brighten your {day}!',
         f'Hello {day}! This {fractal} is yours!',
+
+        ## Added on Oct 6, 2023
+        f"Hey wait, look! it's {fractal}!",
+        f"Wow, take a look! There's {fractal}!",
+        f"Look what we have here! it's {fractal}!",
+        f"Wow, guess what? it's {fractal}!",
+        f"Look closely, it's {fractal}!",
+        f"Beautiful {day} with this {fractal}!",
+        f"This {day} is made even better by this {fractal}!",
+        f"Enjoying the {day} with this {fractal}.",
+        f"A great {day} and a beautiful {fractal}.",
+        f"{day} is shining brightly, just like this {fractal}.",
+        f"You are lovely!",
+        f"How was your day?",
+        f"you are awesome.",
+        f"you are cool",
+        f"you are fantastic!",
+        f"you're awesome!",
+        f"you're awesome!",
     ]
     return random_greetings
 
