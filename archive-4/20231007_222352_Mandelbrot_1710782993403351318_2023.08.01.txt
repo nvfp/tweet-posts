@@ -1,0 +1,28 @@
+tweet_id: 1710782993403351318
+masto_id: 111196073645336256
+subre_id: Not uploaded, but here's the text: Brighten your Saturday!  #Math #Nature
+
+n_iter: 402
+ct: 33
+hue_offset: 157
+saturation: 0.56
+
+num_attempts: 80
+dur: 68
+std: 26.56
+size: 1136483 (1.08 MiB)
+
+xmin: -0.9192221781864269
+xmax: -0.9186283539583985
+ymin: -0.262579412042506
+ymax: -0.26224538591423996
+
+contrast: 0.78
+brightness: 0.13
+saturation: 0.53
+gamma: 1.07
+gamma_r: 1.07
+gamma_g: 0.94
+gamma_b: 1.04
+vignette: 20
+temp: 4728
