@@ -1,0 +1,31 @@
+tweet_id: 1710642443488809018
+masto_id: 111193877433183850
+subre_id: Not uploaded, but here's the text: Let this Newton brighten up your Saturday!  #VisualArt #Science
+
+newton_power: 6
+newton_const: 2
+
+n_iter: 69
+ct: 134
+hue_offset: 291
+saturation: -0.73
+
+num_attempts: 78
+dur: 612
+std: 23.26
+size: 728015 (710.95 KiB)
+
+xmin: 1.499693892584884
+xmax: 1.5174453718748249
+ymin: -0.006941168950897358
+ymax: 0.0030440381496943583
+
+contrast: 0.89
+brightness: 0.23
+saturation: 1.34
+gamma: 1.01
+gamma_r: 1.09
+gamma_g: 0.97
+gamma_b: 1.01
+vignette: -17
+temp: 7763
