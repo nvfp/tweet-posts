@@ -1,0 +1,31 @@
+tweet_id: 1710610650232488002
+masto_id: 111193380661743018
+subre_id: Not uploaded, but here's the text: Enjoy your Saturday!  #Fractals #Art
+
+newton_power: 5
+newton_const: -2
+
+n_iter: 141
+ct: 95
+hue_offset: 334
+saturation: 0.47
+
+num_attempts: 92
+dur: 600
+std: 11.88
+size: 1213338 (1.16 MiB)
+
+xmin: -0.02579630119864751
+xmax: 0.5742036988013525
+ymin: 0.007953601065207039
+ymax: 0.345453601065207
+
+contrast: 1.56
+brightness: 0.2
+saturation: 1.42
+gamma: 0.94
+gamma_r: 1.08
+gamma_g: 0.92
+gamma_b: 0.96
+vignette: -45
+temp: 3274
