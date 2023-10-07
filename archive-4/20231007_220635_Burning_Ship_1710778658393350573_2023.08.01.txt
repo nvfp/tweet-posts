@@ -1,0 +1,28 @@
+tweet_id: 1710778658393350573
+masto_id: 111196005701242997
+subre_id: Not uploaded, but here's the text: Have an awesome day!  #Art #DigitalArt
+
+n_iter: 461
+ct: 192
+hue_offset: 334
+saturation: -0.21
+
+num_attempts: 8
+dur: 2
+std: 61.98
+size: 1553469 (1.48 MiB)
+
+xmin: -0.7617140157304667
+xmax: -0.6659693348794029
+ymin: -0.8101185588077096
+ymax: -0.7562621758289861
+
+contrast: 1.73
+brightness: 0.09
+saturation: 0.76
+gamma: 1.04
+gamma_r: 1.0
+gamma_g: 0.95
+gamma_b: 1.1
+vignette: -11
+temp: 2245
