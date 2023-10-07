@@ -1,0 +1,28 @@
+tweet_id: 1710697291923771694
+masto_id: 111194734275237976
+subre_id: Not uploaded, but here's the text: Shine bright like the sun on this Saturday!  #AI #Science
+
+n_iter: 268
+ct: 1
+hue_offset: 287
+saturation: -0.06
+
+num_attempts: 451
+dur: 601
+std: 48.04
+size: 369669 (361.0 KiB)
+
+xmin: 0.34543785288077355
+xmax: 0.35417147733492205
+ymin: -0.658706886729039
+ymax: -0.6537942229735805
+
+contrast: 1.5
+brightness: -0.06
+saturation: 0.34
+gamma: 1.08
+gamma_r: 1.08
+gamma_g: 0.92
+gamma_b: 1.01
+vignette: -3
+temp: 7530
