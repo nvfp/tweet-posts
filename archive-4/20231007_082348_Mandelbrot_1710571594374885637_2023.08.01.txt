@@ -1,0 +1,28 @@
+tweet_id: 1710571594374885637
+masto_id: 111192770397468439
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Saturday! You got this!  #Math #MachineLearning
+
+n_iter: 187
+ct: 187
+hue_offset: 15
+saturation: -0.32
+
+num_attempts: 82
+dur: 45
+std: 19.94
+size: 483710 (472.37 KiB)
+
+xmin: -0.5264704803256302
+xmax: -0.526026627684707
+ymin: 0.5194947427591705
+ymax: 0.5197444098696898
+
+contrast: 1.11
+brightness: 0.09
+saturation: 0.32
+gamma: 1.07
+gamma_r: 1.03
+gamma_g: 1.06
+gamma_b: 0.93
+vignette: 9
+temp: 4101
