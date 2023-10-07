@@ -1,0 +1,31 @@
+tweet_id: 1710701319621591059
+masto_id: 111194797389429847
+subre_id: Not uploaded, but here's the text: Enjoying the Saturday with this Newton.  #Science #DeepLearning
+
+newton_power: 6
+newton_const: 1
+
+n_iter: 253
+ct: 149
+hue_offset: 167
+saturation: 0.89
+
+num_attempts: 84
+dur: 601
+std: 17.14
+size: 926602 (904.88 KiB)
+
+xmin: -2.611216662350734
+xmax: -2.6013644456019653
+ymin: -0.21925104874667523
+ymax: -0.21370917682549295
+
+contrast: 1.12
+brightness: 0.19
+saturation: 0.64
+gamma: 1.06
+gamma_r: 1.01
+gamma_g: 1.07
+gamma_b: 0.91
+vignette: -46
+temp: 2093
