@@ -1,10 +1,14 @@
 import os
-import praw
+# import praw
 
 from mykit.kit.utils import printer
 
 
 def post_to_subreddit(text, image_abs_path):
+
+    ## Disable Reddit posts since Reddit keeps blocking my subreddit
+    return f"Not uploaded, but here's the text: {text}"
+
     printer('INFO: sending to Reddit...')
 
     r = praw.Reddit(
