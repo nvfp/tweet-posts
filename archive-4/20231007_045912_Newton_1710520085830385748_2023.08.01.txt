@@ -1,0 +1,31 @@
+tweet_id: 1710520085830385748
+masto_id: 111191965853352880
+subre_id: Not uploaded, but here's the text: you're awesome!  #Mathematics #Art
+
+newton_power: 4
+newton_const: 4
+
+n_iter: 78
+ct: 97
+hue_offset: 323
+saturation: 0.61
+
+num_attempts: 129
+dur: 604
+std: 8.09
+size: 794312 (775.7 KiB)
+
+xmin: 0.27772191774914123
+xmax: 0.299074230916401
+ymin: -0.5612798668930541
+ymax: -0.5492691907364705
+
+contrast: 0.94
+brightness: 0.18
+saturation: 1.66
+gamma: 1.03
+gamma_r: 1.01
+gamma_g: 1.05
+gamma_b: 1.04
+vignette: -21
+temp: 2888
