@@ -1,0 +1,28 @@
+tweet_id: 1710757297356447841
+masto_id: 111195671866069440
+subre_id: Not uploaded, but here's the text: Hey wait, look! it's Multibrot!  #Fractals #Art
+
+n_iter: 270
+ct: 255
+hue_offset: 309
+saturation: 0.88
+
+num_attempts: 437
+dur: 601
+std: 53.66
+size: 860685 (840.51 KiB)
+
+xmin: -0.17242480576702546
+xmax: -0.1673743007165204
+ymin: 0.8527247722771056
+ymax: 0.8555656813680147
+
+contrast: 1.55
+brightness: 0.15
+saturation: 1.38
+gamma: 1.08
+gamma_r: 0.96
+gamma_g: 1.09
+gamma_b: 1.05
+vignette: -7
+temp: 7585
