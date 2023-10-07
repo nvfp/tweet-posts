@@ -72,7 +72,6 @@ def _get_list(day, fractal):
         f"you are cool",
         f"you are fantastic!",
         f"you're awesome!",
-        f"you're awesome!",
     ]
     return random_greetings
 
