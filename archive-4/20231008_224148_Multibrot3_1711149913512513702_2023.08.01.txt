@@ -1,0 +1,28 @@
+tweet_id: 1711149913512513702
+masto_id: 111201806471533424
+subre_id: Not uploaded, but here's the text: Beautiful Sunday with this Multibrot!  #Nature #VisualArt
+
+n_iter: 468
+ct: 255
+hue_offset: 263
+saturation: 0.41
+
+num_attempts: 333
+dur: 602
+std: 70.24
+size: 471584 (460.53 KiB)
+
+xmin: -0.5059310723813593
+xmax: -0.501333371231934
+ymin: 0.09938352681839024
+ymax: 0.10196973371494197
+
+contrast: 1.47
+brightness: 0.08
+saturation: 0.75
+gamma: 0.94
+gamma_r: 0.92
+gamma_g: 1.03
+gamma_b: 0.93
+vignette: -3
+temp: 6849
