@@ -1,0 +1,28 @@
+tweet_id: 1710900176129536342
+masto_id: 111197904404045643
+subre_id: Not uploaded, but here's the text: Have an awesome Sunday!  #MachineLearning #Programming
+
+n_iter: 325
+ct: 186
+hue_offset: 39
+saturation: -0.41
+
+num_attempts: 5
+dur: 10
+std: 56.12
+size: 1625905 (1.55 MiB)
+
+xmin: -1.0522167525217465
+xmax: -0.9622167525217465
+ymin: -0.5429889304589264
+ymax: -0.4923639304589264
+
+contrast: 1.42
+brightness: -0.04
+saturation: 0.54
+gamma: 1.01
+gamma_r: 0.94
+gamma_g: 0.99
+gamma_b: 0.94
+vignette: -15
+temp: 6027
