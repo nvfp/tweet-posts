@@ -1,0 +1,31 @@
+tweet_id: 1710882436031119695
+masto_id: 111197627428966374
+subre_id: Not uploaded, but here's the text: Warm wishes for your Sunday, and let's have a look at this Newton.  #DigitalArt #Fractals
+
+newton_power: 3
+newton_const: 5
+
+n_iter: 90
+ct: 237
+hue_offset: 255
+saturation: -0.53
+
+num_attempts: 288
+dur: 601
+std: 4.69
+size: 665971 (650.36 KiB)
+
+xmin: -0.589086900384729
+xmax: -0.541086900384729
+ymin: -0.3680056672859491
+ymax: -0.34100566728594905
+
+contrast: 1.22
+brightness: 0.15
+saturation: 0.42
+gamma: 1.05
+gamma_r: 1.0
+gamma_g: 1.04
+gamma_b: 1.09
+vignette: -16
+temp: 7618
