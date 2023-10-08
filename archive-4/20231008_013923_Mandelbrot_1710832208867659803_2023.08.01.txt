@@ -1,0 +1,28 @@
+tweet_id: 1710832208867659803
+masto_id: 111196842409120037
+subre_id: Not uploaded, but here's the text: Keep shining on Sunday!  #DeepLearning #Nature
+
+n_iter: 499
+ct: 252
+hue_offset: 264
+saturation: -0.25
+
+num_attempts: 496
+dur: 504
+std: 108.51
+size: 1015959 (992.15 KiB)
+
+xmin: -0.20420870021468351
+xmax: -0.20318253294941926
+ymin: 0.6837704273028495
+ymax: 0.6843476463895607
+
+contrast: 1.79
+brightness: 0.11
+saturation: 0.59
+gamma: 1.05
+gamma_r: 1.06
+gamma_g: 1.06
+gamma_b: 0.98
+vignette: 21
+temp: 4175
