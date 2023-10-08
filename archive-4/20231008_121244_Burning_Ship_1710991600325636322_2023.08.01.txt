@@ -1,0 +1,28 @@
+tweet_id: 1710991600325636322
+masto_id: 111199332868158338
+subre_id: Not uploaded, but here's the text: Good Sunday! This Burning Ship is for you!  #AI #DeepLearning
+
+n_iter: 202
+ct: 223
+hue_offset: 113
+saturation: -0.69
+
+num_attempts: 55
+dur: 26
+std: 30.63
+size: 212252 (207.28 KiB)
+
+xmin: -0.4337944468064241
+xmax: -0.3837944468064241
+ymin: 0.06137738550984828
+ymax: 0.08950238550984828
+
+contrast: 1.25
+brightness: -0.03
+saturation: 0.98
+gamma: 1.07
+gamma_r: 1.06
+gamma_g: 1.09
+gamma_b: 0.91
+vignette: -9
+temp: 2218
