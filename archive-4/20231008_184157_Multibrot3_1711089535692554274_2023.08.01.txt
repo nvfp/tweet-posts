@@ -1,0 +1,28 @@
+tweet_id: 1711089535692554274
+masto_id: 111200863217131187
+subre_id: Not uploaded, but here's the text: Multibrot vibes to brighten your Sunday.  #Math #Fractals
+
+n_iter: 266
+ct: 255
+hue_offset: 104
+saturation: -0.46
+
+num_attempts: 543
+dur: 600
+std: 41.48
+size: 991705 (968.46 KiB)
+
+xmin: -0.5545003442204122
+xmax: -0.5421546652080664
+ymin: -0.3250988746850918
+ymax: -0.3181544302406474
+
+contrast: 0.94
+brightness: -0.09
+saturation: 0.5
+gamma: 0.93
+gamma_r: 0.93
+gamma_g: 1.1
+gamma_b: 0.95
+vignette: 12
+temp: 4345
