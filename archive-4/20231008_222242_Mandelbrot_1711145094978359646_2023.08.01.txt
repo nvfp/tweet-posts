@@ -1,0 +1,28 @@
+tweet_id: 1711145094978359646
+masto_id: 111201731348114080
+subre_id: Not uploaded, but here's the text: You are lovely!  #Programming #AI
+
+n_iter: 691
+ct: 70
+hue_offset: 278
+saturation: -0.08
+
+num_attempts: 8
+dur: 9
+std: 28.62
+size: 1028113 (1004.02 KiB)
+
+xmin: -0.7391403804679184
+xmax: -0.7385448765227047
+ymin: -0.2352727928610534
+ymax: -0.23493782189187074
+
+contrast: 1.66
+brightness: -0.08
+saturation: 1.49
+gamma: 1.05
+gamma_r: 0.94
+gamma_g: 1.07
+gamma_b: 1.04
+vignette: -25
+temp: 2132
