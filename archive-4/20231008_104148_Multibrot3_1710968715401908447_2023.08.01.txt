@@ -1,0 +1,28 @@
+tweet_id: 1710968715401908447
+masto_id: 111198975288112815
+subre_id: Not uploaded, but here's the text: Hello Sunday! This Multibrot is yours!  #Programming #Fractals
+
+n_iter: 546
+ct: 1
+hue_offset: 265
+saturation: 0.43
+
+num_attempts: 299
+dur: 611
+std: 52.68
+size: 371656 (362.95 KiB)
+
+xmin: 0.16282281878129812
+xmax: 0.1889666096309713
+ymin: -0.7454437309396797
+ymax: -0.7307378485867386
+
+contrast: 1.02
+brightness: -0.03
+saturation: 0.4
+gamma: 0.96
+gamma_r: 0.94
+gamma_g: 0.94
+gamma_b: 1.09
+vignette: 21
+temp: 5810
