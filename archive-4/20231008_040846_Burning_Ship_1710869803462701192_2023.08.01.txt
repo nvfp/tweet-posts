@@ -1,0 +1,28 @@
+tweet_id: 1710869803462701192
+masto_id: 111197429820544052
+subre_id: Not uploaded, but here's the text: Enjoy your Sunday!  #MachineLearning #AI
+
+n_iter: 311
+ct: 3
+hue_offset: 49
+saturation: -0.41
+
+num_attempts: 10
+dur: 8
+std: 47.9
+size: 1048742 (1.0 MiB)
+
+xmin: -1.1896074756812198
+xmax: -0.9939553017681764
+ymin: -0.5341172146072575
+ymax: -0.4240628667811705
+
+contrast: 0.85
+brightness: 0.04
+saturation: 0.26
+gamma: 1.02
+gamma_r: 1.1
+gamma_g: 1.06
+gamma_b: 0.97
+vignette: -2
+temp: 5702
