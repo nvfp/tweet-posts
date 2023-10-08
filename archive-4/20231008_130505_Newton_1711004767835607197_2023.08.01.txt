@@ -1,0 +1,31 @@
+tweet_id: 1711004767835607197
+masto_id: 111199538700687019
+subre_id: Not uploaded, but here's the text: You are lovely!  #Mathematics #VisualArt
+
+newton_power: 4
+newton_const: 6
+
+n_iter: 93
+ct: 249
+hue_offset: 230
+saturation: 0.79
+
+num_attempts: 134
+dur: 603
+std: 7.36
+size: 775775 (757.59 KiB)
+
+xmin: -0.560342637339803
+xmax: 0.6396573626601969
+ymin: -0.18635269838981272
+ymax: 0.4886473016101872
+
+contrast: 0.8
+brightness: 0.17
+saturation: 0.52
+gamma: 1.03
+gamma_r: 0.94
+gamma_g: 1.05
+gamma_b: 1.04
+vignette: 18
+temp: 6323
