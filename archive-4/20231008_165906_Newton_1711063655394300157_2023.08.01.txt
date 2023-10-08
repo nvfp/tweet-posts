@@ -1,0 +1,31 @@
+tweet_id: 1711063655394300157
+masto_id: 111200458884515117
+subre_id: Not uploaded, but here's the text: Chin up, buttercup!  #Math #Fractals
+
+newton_power: 4
+newton_const: 6
+
+n_iter: 69
+ct: 156
+hue_offset: 161
+saturation: -0.4
+
+num_attempts: 125
+dur: 604
+std: 7.76
+size: 638737 (623.77 KiB)
+
+xmin: -2.7715118269093137
+xmax: -2.309973365370852
+ymin: -0.00493472747681456
+ymax: 0.2546806571385701
+
+contrast: 0.81
+brightness: 0.14
+saturation: 0.92
+gamma: 1.05
+gamma_r: 0.9
+gamma_g: 1.05
+gamma_b: 0.95
+vignette: -5
+temp: 5958
