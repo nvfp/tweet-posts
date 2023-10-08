@@ -1,0 +1,28 @@
+tweet_id: 1710816579926040768
+masto_id: 111196598250927660
+subre_id: Not uploaded, but here's the text: Have an extraordinary Sunday!  #Programming #VisualArt
+
+n_iter: 264
+ct: 200
+hue_offset: 171
+saturation: 0.55
+
+num_attempts: 1
+dur: 2
+std: 33.48
+size: 1101347 (1.05 MiB)
+
+xmin: 0.0969634214308388
+xmax: 0.6594634214308388
+ymin: -1.3119264866688112
+ymax: -0.9955202366688112
+
+contrast: 0.92
+brightness: 0.22
+saturation: 0.46
+gamma: 0.93
+gamma_r: 0.94
+gamma_g: 1.03
+gamma_b: 1.06
+vignette: -23
+temp: 6632
