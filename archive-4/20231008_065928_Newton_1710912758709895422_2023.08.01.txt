@@ -1,0 +1,31 @@
+tweet_id: 1710912758709895422
+masto_id: 111198101035930937
+subre_id: Not uploaded, but here's the text: Have a great day!  #Nature #Programming
+
+newton_power: 7
+newton_const: 5
+
+n_iter: 199
+ct: 238
+hue_offset: 258
+saturation: 0.25
+
+num_attempts: 89
+dur: 631
+std: 21.99
+size: 955692 (933.29 KiB)
+
+xmin: -2.2292412948607763
+xmax: -2.207812723432205
+ymin: -1.049922352291826
+ymax: -1.0378687808632545
+
+contrast: 1.02
+brightness: 0.21
+saturation: 1.37
+gamma: 0.91
+gamma_r: 0.97
+gamma_g: 1.1
+gamma_b: 1.03
+vignette: -10
+temp: 6438
