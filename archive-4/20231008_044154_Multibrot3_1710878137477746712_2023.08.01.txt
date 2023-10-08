@@ -1,0 +1,28 @@
+tweet_id: 1710878137477746712
+masto_id: 111197560160495653
+subre_id: Not uploaded, but here's the text: Wishing you a wonderful Sunday!  #Nature #Art
+
+n_iter: 465
+ct: 255
+hue_offset: 176
+saturation: -0.21
+
+num_attempts: 237
+dur: 607
+std: 76.68
+size: 1315428 (1.25 MiB)
+
+xmin: -0.1803687256200157
+xmax: -0.17115213575826457
+ymin: 0.7449768279632423
+ymax: 0.7501611597604773
+
+contrast: 0.88
+brightness: -0.04
+saturation: 0.47
+gamma: 1.07
+gamma_r: 1.05
+gamma_g: 0.95
+gamma_b: 1.05
+vignette: -18
+temp: 5487
