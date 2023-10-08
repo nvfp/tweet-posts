@@ -1,0 +1,28 @@
+tweet_id: 1711050880554791377
+masto_id: FAIL
+subre_id: Not uploaded, but here's the text: Wishing you a rad Sunday!  #Mathematics #Science
+
+n_iter: 199
+ct: 98
+hue_offset: 291
+saturation: 0.84
+
+num_attempts: 2
+dur: 1
+std: 26.4
+size: 1070576 (1.02 MiB)
+
+xmin: 0.350057517736436
+xmax: 0.912557517736436
+ymin: -1.3153584286604403
+ymax: -0.9989521786604403
+
+contrast: 0.75
+brightness: -0.08
+saturation: 0.87
+gamma: 0.98
+gamma_r: 0.93
+gamma_g: 0.96
+gamma_b: 1.02
+vignette: 6
+temp: 6188
