@@ -1,0 +1,28 @@
+tweet_id: 1711382906579386390
+masto_id: 111205447123412407
+subre_id: Not uploaded, but here's the text: Look closely, it's Burning Ship!  #Nature #AI
+
+n_iter: 317
+ct: 102
+hue_offset: 196
+saturation: -0.81
+
+num_attempts: 4
+dur: 3
+std: 30.33
+size: 797778 (779.08 KiB)
+
+xmin: -0.3448207915057524
+xmax: 0.1551792084942476
+ymin: -0.9946856200170273
+ymax: -0.7134356200170273
+
+contrast: 0.85
+brightness: -0.01
+saturation: 1.57
+gamma: 0.95
+gamma_r: 1.03
+gamma_g: 1.01
+gamma_b: 1.07
+vignette: 26
+temp: 5986
