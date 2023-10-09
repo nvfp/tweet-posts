@@ -1,0 +1,28 @@
+tweet_id: 1711332104464703638
+masto_id: FAIL
+subre_id: Not uploaded, but here's the text: Surprise! Multibrot!  #AI #Art
+
+n_iter: 532
+ct: 1
+hue_offset: 179
+saturation: 0.17
+
+num_attempts: 253
+dur: 605
+std: 93.34
+size: 1536316 (1.47 MiB)
+
+xmin: 0.21862308040834177
+xmax: 0.22294273483598756
+ymin: 0.7317173242565875
+ymax: 0.7341471298721383
+
+contrast: 1.09
+brightness: -0.06
+saturation: 1.28
+gamma: 0.94
+gamma_r: 0.99
+gamma_g: 1.03
+gamma_b: 1.07
+vignette: 31
+temp: 5642
