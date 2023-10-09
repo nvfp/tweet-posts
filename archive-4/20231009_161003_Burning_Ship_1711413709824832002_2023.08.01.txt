@@ -1,0 +1,28 @@
+tweet_id: 1711413709824832002
+masto_id: 111205928345365985
+subre_id: Not uploaded, but here's the text: You are lovely!  #DigitalArt #Nature
+
+n_iter: 479
+ct: 137
+hue_offset: 108
+saturation: -0.64
+
+num_attempts: 8
+dur: 13
+std: 81.43
+size: 2056917 (1.96 MiB)
+
+xmin: -0.7222925369030242
+xmax: -0.5899395957265536
+ymin: -0.7722470581298642
+ymax: -0.6977985287180994
+
+contrast: 1.24
+brightness: 0.18
+saturation: 1.43
+gamma: 1.02
+gamma_r: 1.02
+gamma_g: 1.03
+gamma_b: 1.07
+vignette: -11
+temp: 6735
