@@ -1,0 +1,28 @@
+tweet_id: 1711262947668820100
+masto_id: 111203572745981093
+subre_id: Not uploaded, but here's the text: This Monday is made even better by this Burning Ship!  #Math #Science
+
+n_iter: 150
+ct: 181
+hue_offset: 126
+saturation: -0.96
+
+num_attempts: 19
+dur: 10
+std: 21.07
+size: 1209240 (1.15 MiB)
+
+xmin: -0.30059397597291193
+xmax: -0.15543268565033128
+ymin: -0.9799167318111617
+ymax: -0.89826350600471
+
+contrast: 1.02
+brightness: -0.07
+saturation: 0.74
+gamma: 1.0
+gamma_r: 0.95
+gamma_g: 1.0
+gamma_b: 1.08
+vignette: -34
+temp: 3163
