@@ -1,0 +1,28 @@
+tweet_id: 1711448333682958521
+masto_id: 111206469435586706
+subre_id: Not uploaded, but here's the text: Let's make it a memorable Monday!  #DeepLearning #Fractals
+
+n_iter: 419
+ct: 168
+hue_offset: 204
+saturation: 0.1
+
+num_attempts: 49
+dur: 55
+std: 62.07
+size: 1063693 (1.01 MiB)
+
+xmin: 0.39261990470361274
+xmax: 0.40861990470361276
+ymin: -0.23185009324488093
+ymax: -0.22285009324488092
+
+contrast: 0.74
+brightness: 0.13
+saturation: 1.61
+gamma: 0.93
+gamma_r: 1.1
+gamma_g: 0.98
+gamma_b: 0.92
+vignette: 18
+temp: 3001
