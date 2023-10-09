@@ -1,0 +1,28 @@
+tweet_id: 1711503552257114211
+masto_id: 111207332136081627
+subre_id: Not uploaded, but here's the text: Let this Burning Ship inspire your Monday.  #Nature #Programming
+
+n_iter: 504
+ct: 190
+hue_offset: 133
+saturation: -0.89
+
+num_attempts: 6
+dur: 2
+std: 38.96
+size: 1780695 (1.7 MiB)
+
+xmin: -0.9961181229964384
+xmax: -0.9466675735458889
+ymin: -0.6597667416401409
+ymax: -0.6319508075742069
+
+contrast: 0.95
+brightness: -0.01
+saturation: 0.66
+gamma: 0.97
+gamma_r: 1.06
+gamma_g: 1.0
+gamma_b: 1.01
+vignette: 7
+temp: 5287
