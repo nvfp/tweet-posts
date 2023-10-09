@@ -1,0 +1,28 @@
+tweet_id: 1711267185966858620
+masto_id: 111203638906193972
+subre_id: Not uploaded, but here's the text: Monday is shining brightly, just like this Mandelbrot Set.  #Science #VisualArt
+
+n_iter: 388
+ct: 118
+hue_offset: 252
+saturation: 0.94
+
+num_attempts: 9
+dur: 2
+std: 60.2
+size: 1536073 (1.46 MiB)
+
+xmin: -0.7158125818847121
+xmax: -0.7150525590840281
+ymin: -0.2508151384019761
+ymax: -0.25038762557659133
+
+contrast: 1.08
+brightness: -0.06
+saturation: 0.74
+gamma: 1.01
+gamma_r: 0.94
+gamma_g: 1.06
+gamma_b: 1.0
+vignette: 8
+temp: 4957
