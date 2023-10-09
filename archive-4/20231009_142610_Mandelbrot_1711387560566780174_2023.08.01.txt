@@ -1,0 +1,28 @@
+tweet_id: 1711387560566780174
+masto_id: 111205519889729847
+subre_id: Not uploaded, but here's the text: Cheers to a fantastic Monday!  #AI #MachineLearning
+
+n_iter: 255
+ct: 59
+hue_offset: 69
+saturation: 0.43
+
+num_attempts: 26
+dur: 17
+std: 17.86
+size: 1053921 (1.01 MiB)
+
+xmin: -0.5697712382781668
+xmax: -0.5630822750674644
+ymin: -0.49935836979338255
+ymax: -0.49559582798736246
+
+contrast: 1.63
+brightness: 0.01
+saturation: 1.15
+gamma: 1.01
+gamma_r: 0.97
+gamma_g: 1.09
+gamma_b: 0.97
+vignette: -44
+temp: 6229
