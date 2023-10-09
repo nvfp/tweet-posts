@@ -1,0 +1,31 @@
+tweet_id: 1711214606356464023
+masto_id: FAIL
+subre_id: Not uploaded, but here's the text: Enjoying the Monday with this Newton.  #Mathematics #Art
+
+newton_power: 5
+newton_const: 8
+
+n_iter: 224
+ct: 117
+hue_offset: 203
+saturation: 0.92
+
+num_attempts: 103
+dur: 602
+std: 10.32
+size: 418576 (408.77 KiB)
+
+xmin: -1.0496795727189758
+xmax: -1.0422261565699076
+ymin: 1.0735589692798966
+ymax: 1.0777515158637474
+
+contrast: 1.73
+brightness: -0.08
+saturation: 0.72
+gamma: 0.91
+gamma_r: 0.92
+gamma_g: 0.9
+gamma_b: 1.02
+vignette: -6
+temp: 2983
