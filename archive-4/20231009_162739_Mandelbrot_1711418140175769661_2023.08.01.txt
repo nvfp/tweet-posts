@@ -1,0 +1,28 @@
+tweet_id: 1711418140175769661
+masto_id: FAIL
+subre_id: Not uploaded, but here's the text: Let's make it a memorable Monday!  #Science #Mathematics
+
+n_iter: 236
+ct: 195
+hue_offset: 291
+saturation: 0.14
+
+num_attempts: 37
+dur: 18
+std: 27.81
+size: 1210654 (1.15 MiB)
+
+xmin: -0.1395578009988614
+xmax: -0.13902743770000167
+ymin: -0.852814953032998
+ymax: -0.8525166236773895
+
+contrast: 1.38
+brightness: 0.03
+saturation: 1.4
+gamma: 0.97
+gamma_r: 1.1
+gamma_g: 0.98
+gamma_b: 0.95
+vignette: -38
+temp: 7001
