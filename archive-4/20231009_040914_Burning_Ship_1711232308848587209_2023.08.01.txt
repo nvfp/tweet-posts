@@ -1,0 +1,28 @@
+tweet_id: 1711232308848587209
+masto_id: 111203094006084838
+subre_id: Not uploaded, but here's the text: Wishing you a wonderful Monday!  #Fractals #DigitalArt
+
+n_iter: 461
+ct: 132
+hue_offset: 154
+saturation: 0.41
+
+num_attempts: 7
+dur: 3
+std: 24.43
+size: 609992 (595.7 KiB)
+
+xmin: -0.007210041155524927
+xmax: 0.07932842038293661
+ymin: 0.31457460840320683
+ymax: 0.36325249301859147
+
+contrast: 0.98
+brightness: -0.04
+saturation: 0.46
+gamma: 1.05
+gamma_r: 0.94
+gamma_g: 1.1
+gamma_b: 1.0
+vignette: -31
+temp: 7962
