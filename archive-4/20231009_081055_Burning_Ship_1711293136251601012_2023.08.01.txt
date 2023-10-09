@@ -1,0 +1,28 @@
+tweet_id: 1711293136251601012
+masto_id: 111204044346835967
+subre_id: Not uploaded, but here's the text: Hope you have an amazing Monday!  #Programming #Fractals
+
+n_iter: 171
+ct: 243
+hue_offset: 49
+saturation: -0.27
+
+num_attempts: 11
+dur: 4
+std: 28.49
+size: 940229 (918.19 KiB)
+
+xmin: -0.4832540986986005
+xmax: -0.4373357313516617
+ymin: -1.0073344006516338
+ymax: -0.9815053190189807
+
+contrast: 0.79
+brightness: 0.21
+saturation: 0.29
+gamma: 1.02
+gamma_r: 0.94
+gamma_g: 0.9
+gamma_b: 1.04
+vignette: -2
+temp: 2446
