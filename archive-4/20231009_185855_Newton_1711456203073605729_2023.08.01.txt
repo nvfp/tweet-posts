@@ -1,0 +1,31 @@
+tweet_id: 1711456203073605729
+masto_id: 111206592366941103
+subre_id: Not uploaded, but here's the text: Beautiful Monday with this Newton!  #Fractals #Math
+
+newton_power: 3
+newton_const: 2
+
+n_iter: 149
+ct: 41
+hue_offset: 117
+saturation: -0.66
+
+num_attempts: 225
+dur: 600
+std: 4.17
+size: 778813 (760.56 KiB)
+
+xmin: -0.2918461727052457
+xmax: -0.12968401054308354
+ymin: -0.813053854485563
+ymax: -0.7218376382693468
+
+contrast: 1.61
+brightness: 0.21
+saturation: 0.57
+gamma: 0.98
+gamma_r: 0.92
+gamma_g: 0.93
+gamma_b: 1.03
+vignette: -13
+temp: 5821
