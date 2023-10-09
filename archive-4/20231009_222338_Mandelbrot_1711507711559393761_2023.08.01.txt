@@ -1,0 +1,28 @@
+tweet_id: 1711507711559393761
+masto_id: 111207397357990198
+subre_id: Not uploaded, but here's the text: Enjoying the Monday with this Mandelbrot Set.  #Fractals #Nature
+
+n_iter: 247
+ct: 85
+hue_offset: 209
+saturation: 0.4
+
+num_attempts: 24
+dur: 15
+std: 22.95
+size: 1270680 (1.21 MiB)
+
+xmin: -1.155086202489107
+xmax: -1.154270209017055
+ymin: -0.2790354189535007
+ymax: -0.27857642262547133
+
+contrast: 1.25
+brightness: 0.16
+saturation: 0.38
+gamma: 0.91
+gamma_r: 0.94
+gamma_g: 1.05
+gamma_b: 0.98
+vignette: -35
+temp: 3066
