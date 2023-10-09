@@ -1,0 +1,28 @@
+tweet_id: 1711203753687171441
+masto_id: 111202647764981057
+subre_id: Not uploaded, but here's the text: A great Monday and a beautiful Burning Ship.  #MachineLearning #DeepLearning
+
+n_iter: 264
+ct: 138
+hue_offset: 326
+saturation: -0.52
+
+num_attempts: 16
+dur: 9
+std: 42.79
+size: 2081875 (1.99 MiB)
+
+xmin: -0.10873932432588962
+xmax: -0.043521933021541795
+ymin: -1.0308546734953754
+ymax: -0.9941698908866797
+
+contrast: 0.84
+brightness: -0.09
+saturation: 0.84
+gamma: 0.92
+gamma_r: 0.98
+gamma_g: 1.07
+gamma_b: 1.09
+vignette: 16
+temp: 3260
