@@ -1,0 +1,28 @@
+tweet_id: 1711785430071365779
+masto_id: 111211736481114208
+subre_id: Not uploaded, but here's the text: Happy Tuesday!  #VisualArt #DeepLearning
+
+n_iter: 567
+ct: 1
+hue_offset: 11
+saturation: 0.95
+
+num_attempts: 271
+dur: 604
+std: 79.84
+size: 577165 (563.64 KiB)
+
+xmin: -0.20305132525704717
+xmax: -0.19865572086144276
+ymin: 1.051049949607715
+ymax: 1.0535224770802425
+
+contrast: 1.29
+brightness: 0.05
+saturation: 0.95
+gamma: 0.96
+gamma_r: 1.08
+gamma_g: 0.96
+gamma_b: 1.01
+vignette: -14
+temp: 6387
