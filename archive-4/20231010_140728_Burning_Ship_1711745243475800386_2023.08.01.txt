@@ -1,0 +1,28 @@
+tweet_id: 1711745243475800386
+masto_id: 111211108635972273
+subre_id: Not uploaded, but here's the text: Have a great day!  #Programming #Science
+
+n_iter: 487
+ct: 94
+hue_offset: 343
+saturation: -0.57
+
+num_attempts: 6
+dur: 2
+std: 55.0
+size: 1530355 (1.46 MiB)
+
+xmin: -1.203813259706414
+xmax: -0.828813259706414
+ymin: -0.7722631042420074
+ymax: -0.5613256042420074
+
+contrast: 1.6
+brightness: 0.14
+saturation: 1.65
+gamma: 1.03
+gamma_r: 1.08
+gamma_g: 1.0
+gamma_b: 0.98
+vignette: 11
+temp: 6650
