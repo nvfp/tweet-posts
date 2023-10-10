@@ -1,0 +1,28 @@
+tweet_id: 1711572915026559303
+masto_id: 111208415994145817
+subre_id: Not uploaded, but here's the text: Have an extraordinary Tuesday!  #MachineLearning #Mathematics
+
+n_iter: 535
+ct: 1
+hue_offset: 298
+saturation: 0.82
+
+num_attempts: 297
+dur: 613
+std: 71.36
+size: 956777 (934.35 KiB)
+
+xmin: -0.11943132850962135
+xmax: -0.11536628785921485
+ymin: 1.1180881272290586
+ymax: 1.1203747125949122
+
+contrast: 1.53
+brightness: 0.12
+saturation: 1.07
+gamma: 0.95
+gamma_r: 0.94
+gamma_g: 0.91
+gamma_b: 1.06
+vignette: -6
+temp: 2452
