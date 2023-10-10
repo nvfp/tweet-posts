@@ -1,0 +1,28 @@
+tweet_id: 1711838841106215375
+masto_id: 111212571079003417
+subre_id: Not uploaded, but here's the text: Sending you this fractal on this Tuesday!  #Art #Nature
+
+n_iter: 789
+ct: 212
+hue_offset: 70
+saturation: -0.02
+
+num_attempts: 15
+dur: 31
+std: 136.92
+size: 1006445 (982.86 KiB)
+
+xmin: -0.08527678435111863
+xmax: -0.08440437431840325
+ymin: 0.6488024478884062
+ymax: 0.6492931785318087
+
+contrast: 1.11
+brightness: 0.21
+saturation: 0.98
+gamma: 1.04
+gamma_r: 0.95
+gamma_g: 1.05
+gamma_b: 0.97
+vignette: -15
+temp: 3324
