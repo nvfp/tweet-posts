@@ -1,0 +1,31 @@
+tweet_id: 1711667663498613078
+masto_id: 111209896410944896
+subre_id: Not uploaded, but here's the text: This Tuesday is made even better by this Newton!  #VisualArt #Mathematics
+
+newton_power: 6
+newton_const: 2
+
+n_iter: 210
+ct: 84
+hue_offset: 288
+saturation: -0.63
+
+num_attempts: 88
+dur: 602
+std: 22.2
+size: 956507 (934.09 KiB)
+
+xmin: -1.2173339177363909
+xmax: -1.0923339177363909
+ymin: -0.05831510272672591
+ymax: 0.01199739727327409
+
+contrast: 1.69
+brightness: -0.01
+saturation: 1.46
+gamma: 0.99
+gamma_r: 1.01
+gamma_g: 1.0
+gamma_b: 1.03
+vignette: 13
+temp: 2181
