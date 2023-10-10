@@ -1,0 +1,28 @@
+tweet_id: 1711776105823117792
+masto_id: 111211590799823415
+subre_id: Not uploaded, but here's the text: Keep shining on Tuesday!  #VisualArt #Nature
+
+n_iter: 491
+ct: 181
+hue_offset: 6
+saturation: -0.61
+
+num_attempts: 24
+dur: 37
+std: 28.63
+size: 362884 (354.38 KiB)
+
+xmin: -2.37488820419042
+xmax: -0.12488820419042002
+ymin: -0.8892931796651431
+ymax: 0.3763318203348569
+
+contrast: 1.27
+brightness: -0.05
+saturation: 1.25
+gamma: 0.97
+gamma_r: 0.98
+gamma_g: 0.93
+gamma_b: 0.99
+vignette: 4
+temp: 6468
