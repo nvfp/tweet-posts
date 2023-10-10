@@ -1,0 +1,31 @@
+tweet_id: 1711697832069996664
+masto_id: 111210367826674878
+subre_id: Not uploaded, but here's the text: Have an awesome Tuesday!  #DigitalArt #Mathematics
+
+newton_power: 4
+newton_const: 1
+
+n_iter: 247
+ct: 176
+hue_offset: 304
+saturation: -0.15
+
+num_attempts: 128
+dur: 600
+std: 6.93
+size: 606985 (592.76 KiB)
+
+xmin: -2.2045680424275154
+xmax: -2.187993456792156
+ymin: -0.335051172674113
+ymax: -0.3257279682542235
+
+contrast: 1.44
+brightness: -0.06
+saturation: 0.77
+gamma: 1.09
+gamma_r: 1.08
+gamma_g: 1.03
+gamma_b: 0.92
+vignette: -8
+temp: 2336
