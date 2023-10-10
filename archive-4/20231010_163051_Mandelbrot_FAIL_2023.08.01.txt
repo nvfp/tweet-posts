@@ -1,0 +1,28 @@
+tweet_id: FAIL
+masto_id: 111211672415423228
+subre_id: Not uploaded, but here's the text: Wow, guess what? it's Mandelbrot Set!  #Programming #DeepLearning
+
+n_iter: 665
+ct: 159
+hue_offset: 88
+saturation: 0.21
+
+num_attempts: 144
+dur: 138
+std: 45.88
+size: 580770 (567.16 KiB)
+
+xmin: 0.3015380700111958
+xmax: 0.30212777957923354
+ymin: 0.4461737185198975
+ymax: 0.44650543015191874
+
+contrast: 1.37
+brightness: 0.15
+saturation: 0.93
+gamma: 0.95
+gamma_r: 0.92
+gamma_g: 0.95
+gamma_b: 0.91
+vignette: 8
+temp: 3821
