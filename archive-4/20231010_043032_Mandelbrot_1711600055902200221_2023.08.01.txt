@@ -1,0 +1,28 @@
+tweet_id: 1711600055902200221
+masto_id: 111208840061619519
+subre_id: Not uploaded, but here's the text: Tuesday is shining brightly, just like this Mandelbrot Set.  #Science #Math
+
+n_iter: 875
+ct: 147
+hue_offset: 154
+saturation: -0.14
+
+num_attempts: 229
+dur: 365
+std: 132.08
+size: 1286899 (1.23 MiB)
+
+xmin: -0.7496692057854921
+xmax: -0.749144064653813
+ymin: -0.05349755775130438
+ymax: -0.05320216586473486
+
+contrast: 1.71
+brightness: 0.17
+saturation: 0.88
+gamma: 0.93
+gamma_r: 0.93
+gamma_g: 0.92
+gamma_b: 1.02
+vignette: -48
+temp: 4863
