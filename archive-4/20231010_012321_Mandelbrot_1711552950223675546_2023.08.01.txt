@@ -1,0 +1,28 @@
+tweet_id: 1711552950223675546
+masto_id: 111208104049787547
+subre_id: Not uploaded, but here's the text: Wow, guess what? it's Mandelbrot Set!  #Mathematics #DeepLearning
+
+n_iter: 597
+ct: 132
+hue_offset: 196
+saturation: 0.25
+
+num_attempts: 122
+dur: 155
+std: 28.31
+size: 631546 (616.74 KiB)
+
+xmin: -0.3684971632286693
+xmax: -0.366230874276828
+ymin: 0.6621255347410779
+ymax: 0.6634003222764887
+
+contrast: 1.73
+brightness: 0.09
+saturation: 1.67
+gamma: 0.92
+gamma_r: 1.06
+gamma_g: 0.91
+gamma_b: 1.07
+vignette: -5
+temp: 4767
