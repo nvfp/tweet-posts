@@ -1,0 +1,28 @@
+tweet_id: 1711844473582522649
+masto_id: 111212659022628340
+subre_id: Not uploaded, but here's the text: How was your day?  #Programming #MachineLearning
+
+n_iter: 434
+ct: 1
+hue_offset: 241
+saturation: 0.99
+
+num_attempts: 329
+dur: 605
+std: 72.92
+size: 645080 (629.96 KiB)
+
+xmin: 0.13489685098032522
+xmax: 0.13909853165259414
+ymin: 1.104973824057021
+ymax: 1.1073372694351724
+
+contrast: 1.58
+brightness: 0.2
+saturation: 1.45
+gamma: 1.08
+gamma_r: 1.09
+gamma_g: 1.07
+gamma_b: 1.0
+vignette: 15
+temp: 7524
