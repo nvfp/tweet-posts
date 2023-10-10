@@ -1,0 +1,28 @@
+tweet_id: 1711810377313357937
+masto_id: 111212126299688266
+subre_id: Not uploaded, but here's the text: Look what we have here! it's Mandelbrot Set!  #Science #Nature
+
+n_iter: 973
+ct: 169
+hue_offset: 266
+saturation: 0.42
+
+num_attempts: 5
+dur: 10
+std: 15.34
+size: 657077 (641.68 KiB)
+
+xmin: -2.75
+xmax: 1.25
+ymin: -1.1219035595918387
+ymax: 1.1280964404081613
+
+contrast: 1.52
+brightness: 0.17
+saturation: 0.74
+gamma: 0.98
+gamma_r: 0.94
+gamma_g: 0.94
+gamma_b: 0.95
+vignette: -37
+temp: 5618
