@@ -1,0 +1,28 @@
+tweet_id: 1711629618296533356
+masto_id: 111209301969543597
+subre_id: Not uploaded, but here's the text: Hope you have an amazing Tuesday!  #DeepLearning #Nature
+
+n_iter: 874
+ct: 122
+hue_offset: 197
+saturation: -0.7
+
+num_attempts: 13
+dur: 15
+std: 24.13
+size: 829687 (810.24 KiB)
+
+xmin: -0.026867668459752192
+xmax: -0.024456577441066236
+ymin: 0.6948605175122291
+ymax: 0.6962167562102399
+
+contrast: 0.8
+brightness: 0.11
+saturation: 0.8
+gamma: 0.94
+gamma_r: 0.93
+gamma_g: 1.08
+gamma_b: 0.94
+vignette: 4
+temp: 5857
