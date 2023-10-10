@@ -1,0 +1,28 @@
+tweet_id: 1711659342355656718
+masto_id: FAIL
+subre_id: Not uploaded, but here's the text: Beautiful Tuesday with this Mandelbrot Set!  #Math #Programming
+
+n_iter: 773
+ct: 230
+hue_offset: 277
+saturation: 0.09
+
+num_attempts: 17
+dur: 17
+std: 75.81
+size: 1424520 (1.36 MiB)
+
+xmin: -0.22895975631173693
+xmax: -0.22771170638974006
+ymin: 0.6517060899113563
+ymax: 0.6524081179924796
+
+contrast: 1.27
+brightness: 0.22
+saturation: 0.57
+gamma: 1.02
+gamma_r: 1.05
+gamma_g: 1.05
+gamma_b: 1.03
+vignette: -36
+temp: 4804
