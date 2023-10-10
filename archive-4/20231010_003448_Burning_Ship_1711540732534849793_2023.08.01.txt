@@ -1,0 +1,28 @@
+tweet_id: 1711540732534849793
+masto_id: 111207913101029410
+subre_id: Not uploaded, but here's the text: A great Tuesday and a beautiful Burning Ship.  #Nature #MachineLearning
+
+n_iter: 508
+ct: 120
+hue_offset: 176
+saturation: 0.45
+
+num_attempts: 18
+dur: 25
+std: 20.0
+size: 450864 (440.3 KiB)
+
+xmin: -2.5
+xmax: 2.0
+ymin: -1.8591977303053917
+ymax: 0.6720522696946083
+
+contrast: 1.31
+brightness: -0.09
+saturation: 1.26
+gamma: 0.9
+gamma_r: 0.92
+gamma_g: 0.97
+gamma_b: 0.92
+vignette: -20
+temp: 7129
