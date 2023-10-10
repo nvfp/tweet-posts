@@ -1,0 +1,31 @@
+tweet_id: 1711788409771983184
+masto_id: 111211783091121364
+subre_id: Not uploaded, but here's the text: Sending you this fractal on this Tuesday!  #Fractals #MachineLearning
+
+newton_power: 7
+newton_const: 9
+
+n_iter: 240
+ct: 123
+hue_offset: 123
+saturation: -0.37
+
+num_attempts: 73
+dur: 600
+std: 22.23
+size: 1192367 (1.14 MiB)
+
+xmin: -1.7506967977047034
+xmax: -1.7310246665571625
+ymin: 0.855505066518218
+ymax: 0.8665706402887098
+
+contrast: 0.88
+brightness: 0.19
+saturation: 1.35
+gamma: 1.05
+gamma_r: 0.9
+gamma_g: 1.05
+gamma_b: 1.04
+vignette: -13
+temp: 6923
