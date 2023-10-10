@@ -1,0 +1,28 @@
+tweet_id: 1711871060994609559
+masto_id: 111213074562486799
+subre_id: Not uploaded, but here's the text: You rock, and so does this Tuesday!  #Programming #DeepLearning
+
+n_iter: 922
+ct: 222
+hue_offset: 117
+saturation: 0.2
+
+num_attempts: 113
+dur: 221
+std: 35.51
+size: 1326573 (1.27 MiB)
+
+xmin: -0.08375451058402206
+xmax: -0.08301073966546497
+ymin: 0.8388280849266649
+ymax: 0.8392464560683534
+
+contrast: 1.77
+brightness: 0.19
+saturation: 1.32
+gamma: 0.93
+gamma_r: 0.92
+gamma_g: 1.0
+gamma_b: 0.93
+vignette: -32
+temp: 3847
