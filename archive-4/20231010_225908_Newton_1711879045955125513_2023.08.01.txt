@@ -1,0 +1,31 @@
+tweet_id: 1711879045955125513
+masto_id: 111213199260228551
+subre_id: Not uploaded, but here's the text: Tuesday is shining brightly, just like this Newton.  #Programming #Science
+
+newton_power: 6
+newton_const: 1
+
+n_iter: 192
+ct: 95
+hue_offset: 334
+saturation: 0.83
+
+num_attempts: 80
+dur: 604
+std: 14.3
+size: 1334565 (1.27 MiB)
+
+xmin: 1.4799731210412883
+xmax: 1.4995170949826564
+ymin: -0.06158843504497846
+ymax: -0.05059494970295892
+
+contrast: 0.83
+brightness: -0.09
+saturation: 0.86
+gamma: 1.08
+gamma_r: 0.9
+gamma_g: 0.94
+gamma_b: 0.92
+vignette: 29
+temp: 7607
