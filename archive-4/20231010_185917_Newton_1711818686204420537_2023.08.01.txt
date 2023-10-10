@@ -1,0 +1,31 @@
+tweet_id: 1711818686204420537
+masto_id: 111212256146863740
+subre_id: Not uploaded, but here's the text: Tuesday vibes!  #Art #Math
+
+newton_power: 7
+newton_const: 6
+
+n_iter: 231
+ct: 167
+hue_offset: 330
+saturation: -0.06
+
+num_attempts: 72
+dur: 609
+std: 18.99
+size: 892051 (871.14 KiB)
+
+xmin: 0.20968705756848172
+xmax: 0.21677088283412516
+ymin: -0.12413121329804189
+ymax: -0.12014656158611745
+
+contrast: 0.77
+brightness: 0.13
+saturation: 1.46
+gamma: 1.03
+gamma_r: 1.09
+gamma_g: 1.04
+gamma_b: 0.92
+vignette: -13
+temp: 6798
