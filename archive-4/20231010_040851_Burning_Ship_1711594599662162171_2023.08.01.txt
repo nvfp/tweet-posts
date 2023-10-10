@@ -1,0 +1,28 @@
+tweet_id: 1711594599662162171
+masto_id: 111208754818394400
+subre_id: Not uploaded, but here's the text: Have an awesome day!  #VisualArt #DeepLearning
+
+n_iter: 276
+ct: 45
+hue_offset: 137
+saturation: -0.8
+
+num_attempts: 6
+dur: 4
+std: 29.17
+size: 1079575 (1.03 MiB)
+
+xmin: 0.0823587149273095
+xmax: 0.4573587149273095
+ymin: -1.3484887283100293
+ymax: -1.1375512283100293
+
+contrast: 1.67
+brightness: 0.02
+saturation: 0.83
+gamma: 1.0
+gamma_r: 0.96
+gamma_g: 0.98
+gamma_b: 0.92
+vignette: 21
+temp: 7164
