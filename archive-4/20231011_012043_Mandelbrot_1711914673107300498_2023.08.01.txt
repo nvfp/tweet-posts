@@ -1,0 +1,28 @@
+tweet_id: 1711914673107300498
+masto_id: 111213756004961463
+subre_id: Not uploaded, but here's the text: Hope you have an amazing Wednesday!  #Mathematics #Science
+
+n_iter: 150
+ct: 213
+hue_offset: 353
+saturation: 0.76
+
+num_attempts: 16
+dur: 4
+std: 18.34
+size: 940826 (918.78 KiB)
+
+xmin: -1.22598827875112
+xmax: -1.2251702828410995
+ymin: 0.16831373285396745
+ymax: 0.16877385555335395
+
+contrast: 1.12
+brightness: -0.1
+saturation: 0.3
+gamma: 1.09
+gamma_r: 1.0
+gamma_g: 0.93
+gamma_b: 0.98
+vignette: -31
+temp: 2728
