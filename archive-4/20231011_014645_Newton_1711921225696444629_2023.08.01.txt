@@ -1,0 +1,31 @@
+tweet_id: 1711921225696444629
+masto_id: 111213858365764162
+subre_id: Not uploaded, but here's the text: Wishing you the best!  #Science #Art
+
+newton_power: 6
+newton_const: 10
+
+n_iter: 123
+ct: 22
+hue_offset: 167
+saturation: -0.07
+
+num_attempts: 87
+dur: 600
+std: 18.81
+size: 1461262 (1.39 MiB)
+
+xmin: 0.7806236116085961
+xmax: 0.7869527255326467
+ymin: -0.9087356976801872
+ymax: -0.9051755710979088
+
+contrast: 1.22
+brightness: 0.05
+saturation: 0.36
+gamma: 0.91
+gamma_r: 0.92
+gamma_g: 0.97
+gamma_b: 1.0
+vignette: -36
+temp: 3298
