@@ -1,0 +1,28 @@
+tweet_id: 1712085509982355521
+masto_id: 111216425282810120
+subre_id: Not uploaded, but here's the text: Hope your Wednesday is awesome!  #MachineLearning #Programming
+
+n_iter: 920
+ct: 36
+hue_offset: 355
+saturation: 0.09
+
+num_attempts: 1
+dur: 1
+std: 39.34
+size: 1220572 (1.16 MiB)
+
+xmin: -1.154002196091471
+xmax: -1.1533152649563174
+ymin: -0.2097906061428414
+ymax: -0.20940420737931745
+
+contrast: 1.53
+brightness: 0.04
+saturation: 1.48
+gamma: 0.94
+gamma_r: 0.98
+gamma_g: 0.91
+gamma_b: 0.97
+vignette: -41
+temp: 2496
