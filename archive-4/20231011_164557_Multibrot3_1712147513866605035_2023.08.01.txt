@@ -1,0 +1,28 @@
+tweet_id: 1712147513866605035
+masto_id: 111217394140226396
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Wednesday! You got this!  #Math #MachineLearning
+
+n_iter: 264
+ct: 255
+hue_offset: 49
+saturation: 0.57
+
+num_attempts: 447
+dur: 602
+std: 33.54
+size: 741544 (724.16 KiB)
+
+xmin: -0.46847078146919907
+xmax: -0.45774692087938673
+ymin: -0.5301214206417767
+ymax: -0.5240892490600073
+
+contrast: 0.71
+brightness: 0.15
+saturation: 1.36
+gamma: 0.97
+gamma_r: 0.93
+gamma_g: 1.04
+gamma_b: 0.91
+vignette: 14
+temp: 5896
