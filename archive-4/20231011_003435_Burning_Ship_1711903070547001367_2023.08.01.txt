@@ -1,0 +1,28 @@
+tweet_id: 1711903070547001367
+masto_id: 111213574560858972
+subre_id: Not uploaded, but here's the text: Hello Wednesday! This Burning Ship is yours!  #VisualArt #Fractals
+
+n_iter: 135
+ct: 226
+hue_offset: 159
+saturation: 0.73
+
+num_attempts: 33
+dur: 12
+std: 23.86
+size: 376927 (368.09 KiB)
+
+xmin: -0.0011329976674594455
+xmax: 0.058077528648330025
+ymin: 0.2995506118120521
+ymax: 0.3328565328646837
+
+contrast: 1.46
+brightness: 0.12
+saturation: 0.43
+gamma: 1.09
+gamma_r: 1.01
+gamma_g: 1.08
+gamma_b: 1.06
+vignette: -13
+temp: 4996
