@@ -1,0 +1,28 @@
+tweet_id: 1712168686516392257
+masto_id: 111217724886237589
+subre_id: Not uploaded, but here's the text: Ever heard of this Burning Ship?  #AI #VisualArt
+
+n_iter: 451
+ct: 192
+hue_offset: 196
+saturation: 0.99
+
+num_attempts: 2
+dur: 2
+std: 35.37
+size: 691284 (675.08 KiB)
+
+xmin: -1.6430220566706042
+xmax: -1.378316174317663
+ymin: -0.13995008340855875
+ymax: 0.008946975414970665
+
+contrast: 1.62
+brightness: 0.23
+saturation: 0.85
+gamma: 1.09
+gamma_r: 1.08
+gamma_g: 1.05
+gamma_b: 0.9
+vignette: -20
+temp: 3621
