@@ -1,0 +1,28 @@
+tweet_id: 1711992205546488124
+masto_id: FAIL
+subre_id: Not uploaded, but here's the text: Enjoy your Wednesday!  #Science #DeepLearning
+
+n_iter: 624
+ct: 225
+hue_offset: 334
+saturation: -0.51
+
+num_attempts: 21
+dur: 24
+std: 104.35
+size: 1791333 (1.71 MiB)
+
+xmin: 0.039706067405772316
+xmax: 0.04296074600626052
+ymin: 0.6374783018937611
+ymax: 0.6393090586065358
+
+contrast: 0.76
+brightness: 0.07
+saturation: 1.61
+gamma: 1.0
+gamma_r: 0.9
+gamma_g: 1.02
+gamma_b: 1.04
+vignette: -38
+temp: 5263
