@@ -1,0 +1,28 @@
+tweet_id: 1712173136802701476
+masto_id: 111217794429027194
+subre_id: Not uploaded, but here's the text: Smile, it's Wednesday!  #Nature #Math
+
+n_iter: 182
+ct: 178
+hue_offset: 3
+saturation: 0.71
+
+num_attempts: 62
+dur: 32
+std: 23.51
+size: 1388270 (1.32 MiB)
+
+xmin: 0.13892639668708417
+xmax: 0.14143109299265713
+ymin: 0.6402527677106922
+ymax: 0.6416616593825769
+
+contrast: 0.98
+brightness: 0.06
+saturation: 0.62
+gamma: 0.98
+gamma_r: 0.9
+gamma_g: 1.03
+gamma_b: 1.0
+vignette: -14
+temp: 5703
