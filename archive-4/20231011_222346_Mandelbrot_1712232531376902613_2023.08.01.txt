@@ -1,0 +1,28 @@
+tweet_id: 1712232531376902613
+masto_id: 111218722491899036
+subre_id: Not uploaded, but here's the text: Let this Mandelbrot Set inspire your Wednesday.  #AI #DigitalArt
+
+n_iter: 653
+ct: 40
+hue_offset: 262
+saturation: 0.07
+
+num_attempts: 5
+dur: 7
+std: 62.07
+size: 1102638 (1.05 MiB)
+
+xmin: -1.2540287190216912
+xmax: -1.2534340119149412
+ymin: -0.027649680807602328
+ymax: -0.027315158060055494
+
+contrast: 1.51
+brightness: 0.19
+saturation: 1.12
+gamma: 0.91
+gamma_r: 0.94
+gamma_g: 0.95
+gamma_b: 1.09
+vignette: 17
+temp: 7482
