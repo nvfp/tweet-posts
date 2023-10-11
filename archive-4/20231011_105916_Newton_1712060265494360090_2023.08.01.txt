@@ -1,0 +1,31 @@
+tweet_id: 1712060265494360090
+masto_id: 111216030915087545
+subre_id: Not uploaded, but here's the text: Beautiful Wednesday with this Newton!  #Nature #VisualArt
+
+newton_power: 6
+newton_const: 4
+
+n_iter: 73
+ct: 124
+hue_offset: 350
+saturation: -0.91
+
+num_attempts: 89
+dur: 601
+std: 12.1
+size: 966497 (943.84 KiB)
+
+xmin: 0.9476416387712261
+xmax: 0.9544598205894079
+ymin: -1.4575438409158044
+ymax: -1.453708613643077
+
+contrast: 0.75
+brightness: 0.16
+saturation: 0.98
+gamma: 0.97
+gamma_r: 1.08
+gamma_g: 0.9
+gamma_b: 1.07
+vignette: -7
+temp: 3879
