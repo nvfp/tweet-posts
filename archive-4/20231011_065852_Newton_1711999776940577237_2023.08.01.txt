@@ -1,0 +1,31 @@
+tweet_id: 1711999776940577237
+masto_id: 111215085653949638
+subre_id: Not uploaded, but here's the text: Chin up, buttercup!  #VisualArt #MachineLearning
+
+newton_power: 5
+newton_const: -10
+
+n_iter: 66
+ct: 164
+hue_offset: 324
+saturation: -0.25
+
+num_attempts: 102
+dur: 600
+std: 11.51
+size: 1197671 (1.14 MiB)
+
+xmin: 1.580400669710306
+xmax: 1.6060416953513315
+ymin: 0.8090497565238053
+ymax: 0.8234728334468822
+
+contrast: 1.28
+brightness: 0.13
+saturation: 1.6
+gamma: 1.03
+gamma_r: 1.04
+gamma_g: 1.0
+gamma_b: 1.07
+vignette: -29
+temp: 4947
