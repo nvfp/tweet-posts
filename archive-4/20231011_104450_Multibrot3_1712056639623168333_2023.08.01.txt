@@ -1,0 +1,28 @@
+tweet_id: 1712056639623168333
+masto_id: 111215974160675649
+subre_id: Not uploaded, but here's the text: Enjoy your Wednesday!  #Fractals #Math
+
+n_iter: 316
+ct: 1
+hue_offset: 196
+saturation: 0.8
+
+num_attempts: 534
+dur: 604
+std: 53.0
+size: 1226365 (1.17 MiB)
+
+xmin: 0.3656531083070509
+xmax: 0.37420011685405946
+ymin: -0.6464788438435043
+ymax: -0.641671151535812
+
+contrast: 1.75
+brightness: 0.04
+saturation: 0.88
+gamma: 0.98
+gamma_r: 1.0
+gamma_g: 0.92
+gamma_b: 0.95
+vignette: -23
+temp: 4168
