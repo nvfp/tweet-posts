@@ -1,0 +1,28 @@
+tweet_id: 1712144330004045885
+masto_id: 111217344379258773
+subre_id: Not uploaded, but here's the text: Wishing you a fantastic day!  #DeepLearning #Mathematics
+
+n_iter: 758
+ct: 138
+hue_offset: 10
+saturation: 0.29
+
+num_attempts: 224
+dur: 356
+std: 19.9
+size: 1169454 (1.12 MiB)
+
+xmin: 0.4177667928048656
+xmax: 0.4192346827131225
+ymin: -0.3312851653884664
+ymax: -0.3304594773150719
+
+contrast: 0.73
+brightness: 0.01
+saturation: 1.18
+gamma: 1.04
+gamma_r: 0.92
+gamma_g: 1.08
+gamma_b: 1.1
+vignette: -21
+temp: 4510
