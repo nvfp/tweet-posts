@@ -1,0 +1,28 @@
+tweet_id: 1712116854750347388
+masto_id: 111216915117944996
+subre_id: Not uploaded, but here's the text: Happy Wednesday!  #Programming #Nature
+
+n_iter: 527
+ct: 1
+hue_offset: 189
+saturation: -0.98
+
+num_attempts: 259
+dur: 605
+std: 53.17
+size: 630021 (615.25 KiB)
+
+xmin: 0.4496049249411498
+xmax: 0.45435551876537783
+ymin: -0.037570329786564605
+ymax: -0.03489812076043634
+
+contrast: 1.1
+brightness: 0.06
+saturation: 1.61
+gamma: 0.91
+gamma_r: 0.98
+gamma_g: 1.04
+gamma_b: 1.07
+vignette: 16
+temp: 7929
