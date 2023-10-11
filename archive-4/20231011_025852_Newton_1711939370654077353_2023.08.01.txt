@@ -1,0 +1,31 @@
+tweet_id: 1711939370654077353
+masto_id: 111214141916950659
+subre_id: Not uploaded, but here's the text: Warm wishes for your Wednesday, and let's have a look at this Newton.  #Art #Fractals
+
+newton_power: 5
+newton_const: -8
+
+n_iter: 197
+ct: 247
+hue_offset: 234
+saturation: -0.94
+
+num_attempts: 104
+dur: 601
+std: 10.17
+size: 733304 (716.12 KiB)
+
+xmin: 0.05398197949500183
+xmax: 0.10440214756222872
+ymin: 0.816070269176508
+ymax: 0.8444316137143232
+
+contrast: 0.86
+brightness: 0.12
+saturation: 0.34
+gamma: 0.95
+gamma_r: 1.07
+gamma_g: 0.94
+gamma_b: 1.05
+vignette: 13
+temp: 7693
