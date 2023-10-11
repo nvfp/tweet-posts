@@ -1,0 +1,28 @@
+tweet_id: 1712022217607806990
+masto_id: 111215436273511784
+subre_id: Not uploaded, but here's the text: You rock, and so does this Wednesday!  #VisualArt #DigitalArt
+
+n_iter: 637
+ct: 113
+hue_offset: 271
+saturation: 0.54
+
+num_attempts: 75
+dur: 115
+std: 59.05
+size: 1869514 (1.78 MiB)
+
+xmin: -0.2560762262911007
+xmax: -0.255265689310351
+ymin: 0.6565476895919768
+ymax: 0.6570036166436486
+
+contrast: 1.41
+brightness: -0.06
+saturation: 1.54
+gamma: 0.91
+gamma_r: 1.04
+gamma_g: 1.01
+gamma_b: 0.93
+vignette: -35
+temp: 5490
