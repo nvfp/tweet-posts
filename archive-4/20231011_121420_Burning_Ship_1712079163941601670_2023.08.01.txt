@@ -1,0 +1,28 @@
+tweet_id: 1712079163941601670
+masto_id: 111216326120622857
+subre_id: Not uploaded, but here's the text: Burning Ship vibes to brighten your Wednesday.  #Science #VisualArt
+
+n_iter: 284
+ct: 51
+hue_offset: 313
+saturation: 0.22
+
+num_attempts: 1
+dur: 0
+std: 43.51
+size: 1484034 (1.42 MiB)
+
+xmin: 0.23340994731846587
+xmax: 0.28896550287402145
+ymin: -1.1795629263091212
+ymax: -1.1483129263091212
+
+contrast: 1.33
+brightness: 0.02
+saturation: 0.65
+gamma: 0.99
+gamma_r: 1.03
+gamma_g: 1.09
+gamma_b: 1.07
+vignette: -46
+temp: 3816
