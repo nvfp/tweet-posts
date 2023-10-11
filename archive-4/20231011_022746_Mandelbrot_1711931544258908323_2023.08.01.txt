@@ -1,0 +1,28 @@
+tweet_id: 1711931544258908323
+masto_id: 111214019632259884
+subre_id: Not uploaded, but here's the text: Happy Wednesday!  #Fractals #Science
+
+n_iter: 335
+ct: 125
+hue_offset: 157
+saturation: -0.51
+
+num_attempts: 31
+dur: 22
+std: 53.73
+size: 1247092 (1.19 MiB)
+
+xmin: 0.37976405690338666
+xmax: 0.3802391727128652
+ymin: 0.18186584407794681
+ymax: 0.18213309672077851
+
+contrast: 0.9
+brightness: -0.0
+saturation: 0.48
+gamma: 0.99
+gamma_r: 0.91
+gamma_g: 0.91
+gamma_b: 0.96
+vignette: -3
+temp: 2552
