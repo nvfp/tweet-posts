@@ -1,0 +1,28 @@
+tweet_id: 1712358451345539331
+masto_id: 111220689815270046
+subre_id: Not uploaded, but here's the text: Happy Thursday!  #Art #Fractals
+
+n_iter: 621
+ct: 1
+hue_offset: 77
+saturation: -0.86
+
+num_attempts: 291
+dur: 608
+std: 50.14
+size: 144188 (140.81 KiB)
+
+xmin: -0.26884115952360377
+xmax: -0.26147467701899973
+ymin: 0.7160832629504434
+ymax: 0.7202269093592832
+
+contrast: 1.65
+brightness: 0.02
+saturation: 1.63
+gamma: 0.97
+gamma_r: 1.02
+gamma_g: 0.98
+gamma_b: 0.95
+vignette: 5
+temp: 5435
