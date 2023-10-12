@@ -1,0 +1,31 @@
+tweet_id: 1712332023388573773
+masto_id: 111220277093831661
+subre_id: Not uploaded, but here's the text: Hey there, it's Thursday!  #DigitalArt #VisualArt
+
+newton_power: 4
+newton_const: 6
+
+n_iter: 198
+ct: 164
+hue_offset: 27
+saturation: -0.63
+
+num_attempts: 124
+dur: 601
+std: 8.54
+size: 944056 (921.93 KiB)
+
+xmin: 0.22589860378391835
+xmax: 0.32425925952162327
+ymin: 1.019133172089512
+ymax: 1.074461040941971
+
+contrast: 0.94
+brightness: 0.14
+saturation: 0.61
+gamma: 1.06
+gamma_r: 0.95
+gamma_g: 1.06
+gamma_b: 1.0
+vignette: 24
+temp: 7137
