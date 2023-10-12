@@ -1,0 +1,28 @@
+tweet_id: 1712478911416938509
+masto_id: 111222572180959534
+subre_id: Not uploaded, but here's the text: Thursday is shining brightly, just like this Multibrot.  #Programming #VisualArt
+
+n_iter: 363
+ct: 255
+hue_offset: 49
+saturation: -0.22
+
+num_attempts: 395
+dur: 602
+std: 66.2
+size: 722828 (705.89 KiB)
+
+xmin: -0.15886820200454554
+xmax: -0.1534334193958499
+ymin: -0.7552878331519082
+ymax: -0.7522307679345168
+
+contrast: 0.93
+brightness: 0.19
+saturation: 1.48
+gamma: 0.98
+gamma_r: 1.01
+gamma_g: 1.03
+gamma_b: 0.95
+vignette: -8
+temp: 2157
