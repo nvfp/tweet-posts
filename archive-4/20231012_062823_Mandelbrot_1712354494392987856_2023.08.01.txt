@@ -1,0 +1,28 @@
+tweet_id: 1712354494392987856
+masto_id: 111220628095230319
+subre_id: Not uploaded, but here's the text: Wishing you a rad Thursday!  #AI #DeepLearning
+
+n_iter: 196
+ct: 80
+hue_offset: 253
+saturation: -0.73
+
+num_attempts: 153
+dur: 65
+std: 46.84
+size: 1741327 (1.66 MiB)
+
+xmin: -0.2873995107679139
+xmax: -0.2860435785645241
+ymin: -0.6440427706799159
+ymax: -0.6432800588155091
+
+contrast: 1.34
+brightness: -0.08
+saturation: 0.57
+gamma: 1.04
+gamma_r: 1.02
+gamma_g: 1.08
+gamma_b: 1.03
+vignette: 19
+temp: 5961
