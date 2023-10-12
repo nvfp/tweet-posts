@@ -1,0 +1,28 @@
+tweet_id: 1712323442983498038
+masto_id: 111220142968960770
+subre_id: Not uploaded, but here's the text: Look what we have here! it's Mandelbrot Set!  #AI #Art
+
+n_iter: 782
+ct: 110
+hue_offset: 73
+saturation: 0.27
+
+num_attempts: 13
+dur: 34
+std: 119.59
+size: 416402 (406.64 KiB)
+
+xmin: 0.13382587054801132
+xmax: 0.1357943744850192
+ymin: 0.6199834060881413
+ymax: 0.6210906895527082
+
+contrast: 1.64
+brightness: 0.13
+saturation: 1.55
+gamma: 1.07
+gamma_r: 1.03
+gamma_g: 0.95
+gamma_b: 1.06
+vignette: 5
+temp: 3711
