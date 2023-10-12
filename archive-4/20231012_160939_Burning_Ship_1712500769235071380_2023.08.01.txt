@@ -1,0 +1,28 @@
+tweet_id: 1712500769235071380
+masto_id: 111222913710862674
+subre_id: Not uploaded, but here's the text: Let this Burning Ship brighten up your Thursday!  #DeepLearning #VisualArt
+
+n_iter: 460
+ct: 3
+hue_offset: 264
+saturation: 0.79
+
+num_attempts: 21
+dur: 15
+std: 22.56
+size: 862716 (842.5 KiB)
+
+xmin: 0.21796479889122722
+xmax: 0.9679647988912272
+ymin: -1.6036844691320435
+ymax: -1.1818094691320435
+
+contrast: 0.99
+brightness: 0.15
+saturation: 1.58
+gamma: 1.04
+gamma_r: 0.94
+gamma_g: 0.97
+gamma_b: 1.09
+vignette: 22
+temp: 2270
