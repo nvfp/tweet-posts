@@ -1,0 +1,28 @@
+tweet_id: 1712414988894118050
+masto_id: 111221573382459505
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Thursday!  #Programming #Science
+
+n_iter: 705
+ct: 25
+hue_offset: 240
+saturation: -0.61
+
+num_attempts: 110
+dur: 117
+std: 59.06
+size: 1612765 (1.54 MiB)
+
+xmin: -0.5647974558474553
+xmax: -0.5379518182635628
+ymin: -0.6079862205904188
+ymax: -0.5928855494494792
+
+contrast: 1.13
+brightness: 0.21
+saturation: 1.66
+gamma: 0.92
+gamma_r: 1.04
+gamma_g: 0.99
+gamma_b: 1.06
+vignette: -35
+temp: 3697
