@@ -1,0 +1,28 @@
+tweet_id: 1712474442046287893
+masto_id: FAIL
+subre_id: Not uploaded, but here's the text: This Thursday is made even better by this Mandelbrot Set!  #MachineLearning #Mathematics
+
+n_iter: 247
+ct: 124
+hue_offset: 36
+saturation: 0.88
+
+num_attempts: 16
+dur: 4
+std: 31.67
+size: 808507 (789.56 KiB)
+
+xmin: 0.04936538361256915
+xmax: 0.04999145968081144
+ymin: -0.6441980476176006
+ymax: -0.6438458798292143
+
+contrast: 0.78
+brightness: 0.09
+saturation: 0.87
+gamma: 1.05
+gamma_r: 1.08
+gamma_g: 0.96
+gamma_b: 1.07
+vignette: 2
+temp: 5805
