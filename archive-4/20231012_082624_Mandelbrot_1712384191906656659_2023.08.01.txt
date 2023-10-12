@@ -1,0 +1,28 @@
+tweet_id: 1712384191906656659
+masto_id: 111221092129632904
+subre_id: Not uploaded, but here's the text: Feeling the Mandelbrot Set vibes today!  #DigitalArt #Math
+
+n_iter: 516
+ct: 161
+hue_offset: 250
+saturation: 0.6
+
+num_attempts: 26
+dur: 27
+std: 32.31
+size: 386702 (377.64 KiB)
+
+xmin: -0.7548136757809927
+xmax: -0.7474742262397083
+ymin: 0.12286614420303232
+ymax: 0.1269945845700048
+
+contrast: 1.29
+brightness: 0.18
+saturation: 1.36
+gamma: 0.98
+gamma_r: 1.07
+gamma_g: 1.0
+gamma_b: 0.91
+vignette: 2
+temp: 7785
