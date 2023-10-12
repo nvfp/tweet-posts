@@ -1,0 +1,28 @@
+tweet_id: 1712409838431711435
+masto_id: 111221492765562306
+subre_id: Not uploaded, but here's the text: Wow, take a look! There's Burning Ship!  #Math #Science
+
+n_iter: 366
+ct: 192
+hue_offset: 326
+saturation: -0.23
+
+num_attempts: 9
+dur: 4
+std: 22.92
+size: 114862 (112.17 KiB)
+
+xmin: -0.19842663304090324
+xmax: 0.25157336695909677
+ymin: -1.0116023031986525
+ymax: -0.7584773031986525
+
+contrast: 1.37
+brightness: 0.08
+saturation: 0.31
+gamma: 0.95
+gamma_r: 1.07
+gamma_g: 1.05
+gamma_b: 1.05
+vignette: 29
+temp: 7875
