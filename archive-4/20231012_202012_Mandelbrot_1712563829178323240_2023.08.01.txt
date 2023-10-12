@@ -1,0 +1,28 @@
+tweet_id: 1712563829178323240
+masto_id: 111223898928435838
+subre_id: Not uploaded, but here's the text: Beautiful Thursday with this Mandelbrot Set!  #DeepLearning #DigitalArt
+
+n_iter: 1013
+ct: 170
+hue_offset: 264
+saturation: 0.49
+
+num_attempts: 1
+dur: 8
+std: 117.62
+size: 346857 (338.73 KiB)
+
+xmin: 0.3341838042379255
+xmax: 0.33897422339960215
+ymin: 0.3801785606311754
+ymax: 0.3828731714096185
+
+contrast: 1.65
+brightness: -0.09
+saturation: 1.63
+gamma: 1.03
+gamma_r: 0.93
+gamma_g: 1.03
+gamma_b: 0.98
+vignette: -17
+temp: 2066
