@@ -1,0 +1,28 @@
+tweet_id: 1712281609376846129
+masto_id: 111219489210661681
+subre_id: Not uploaded, but here's the text: Hope you're having a great Thursday!  #MachineLearning #Programming
+
+n_iter: 259
+ct: 1
+hue_offset: 105
+saturation: 0.68
+
+num_attempts: 411
+dur: 606
+std: 39.58
+size: 486143 (474.75 KiB)
+
+xmin: 0.48551811046397964
+xmax: 0.49627079863602264
+ymin: -0.08247284377389463
+ymax: -0.07642445667712044
+
+contrast: 1.39
+brightness: 0.04
+saturation: 0.38
+gamma: 1.05
+gamma_r: 1.0
+gamma_g: 1.01
+gamma_b: 0.98
+vignette: 30
+temp: 7503
