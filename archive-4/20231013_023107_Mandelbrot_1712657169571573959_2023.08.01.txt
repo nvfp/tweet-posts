@@ -1,0 +1,28 @@
+tweet_id: 1712657169571573959
+masto_id: 111225357414664710
+subre_id: Not uploaded, but here's the text: You rock, and so does this Friday!  #VisualArt #Mathematics
+
+n_iter: 279
+ct: 148
+hue_offset: 156
+saturation: 0.68
+
+num_attempts: 63
+dur: 50
+std: 43.6
+size: 1386445 (1.32 MiB)
+
+xmin: -0.3847303428074613
+xmax: -0.3842657667331292
+ymin: -0.6001997803187561
+ymax: -0.5999384562769442
+
+contrast: 1.44
+brightness: 0.11
+saturation: 0.35
+gamma: 0.94
+gamma_r: 0.99
+gamma_g: 1.04
+gamma_b: 1.05
+vignette: -9
+temp: 7684
