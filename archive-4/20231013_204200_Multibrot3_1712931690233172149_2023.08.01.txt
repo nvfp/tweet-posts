@@ -1,0 +1,28 @@
+tweet_id: 1712931690233172149
+masto_id: 111229646914473776
+subre_id: Not uploaded, but here's the text: Enjoying the Friday with this Multibrot.  #Science #Art
+
+n_iter: 303
+ct: 1
+hue_offset: 18
+saturation: 0.24
+
+num_attempts: 597
+dur: 604
+std: 45.07
+size: 954429 (932.06 KiB)
+
+xmin: 0.5138337291281241
+xmax: 0.5249448402392352
+ymin: 0.4125623450064051
+ymax: 0.4188123450064051
+
+contrast: 0.96
+brightness: 0.12
+saturation: 1.18
+gamma: 1.02
+gamma_r: 1.04
+gamma_g: 1.07
+gamma_b: 1.06
+vignette: -43
+temp: 5700
