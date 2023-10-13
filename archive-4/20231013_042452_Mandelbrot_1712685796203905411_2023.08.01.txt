@@ -1,0 +1,28 @@
+tweet_id: 1712685796203905411
+masto_id: 111225804720340846
+subre_id: Not uploaded, but here's the text: Let this Mandelbrot Set inspire your Friday.  #Math #MachineLearning
+
+n_iter: 420
+ct: 15
+hue_offset: 271
+saturation: -0.12
+
+num_attempts: 15
+dur: 8
+std: 16.28
+size: 1344059 (1.28 MiB)
+
+xmin: 0.31775790180572683
+xmax: 0.37929636334418837
+ymin: -0.6112935205698654
+ymax: -0.5766781359544808
+
+contrast: 1.49
+brightness: 0.13
+saturation: 0.64
+gamma: 1.08
+gamma_r: 0.94
+gamma_g: 0.92
+gamma_b: 0.95
+vignette: -31
+temp: 6487
