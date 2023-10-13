@@ -1,0 +1,31 @@
+tweet_id: 1712905785003442382
+masto_id: 111229242125587069
+subre_id: Not uploaded, but here's the text: Feeling the Newton vibes today!  #DeepLearning #Science
+
+newton_power: 5
+newton_const: -3
+
+n_iter: 147
+ct: 252
+hue_offset: 149
+saturation: -0.27
+
+num_attempts: 93
+dur: 605
+std: 11.02
+size: 833487 (813.95 KiB)
+
+xmin: -0.46639414515508326
+xmax: -0.4459859818897771
+ymin: 0.2195796196093851
+ymax: 0.2310592114461198
+
+contrast: 1.08
+brightness: 0.06
+saturation: 1.09
+gamma: 0.94
+gamma_r: 1.02
+gamma_g: 1.01
+gamma_b: 1.05
+vignette: 21
+temp: 2119
