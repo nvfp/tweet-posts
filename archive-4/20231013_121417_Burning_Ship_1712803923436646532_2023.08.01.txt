@@ -1,0 +1,28 @@
+tweet_id: 1712803923436646532
+masto_id: 111227650394598907
+subre_id: Not uploaded, but here's the text: Beautiful Friday with this Burning Ship!  #Science #MachineLearning
+
+n_iter: 434
+ct: 125
+hue_offset: 340
+saturation: 0.33
+
+num_attempts: 3
+dur: 7
+std: 69.72
+size: 2330488 (2.22 MiB)
+
+xmin: -0.3010381987069142
+xmax: -0.22726770690363549
+ymin: -0.9449874446941651
+ymax: -0.9034915430548208
+
+contrast: 1.31
+brightness: 0.04
+saturation: 0.98
+gamma: 1.06
+gamma_r: 1.04
+gamma_g: 1.02
+gamma_b: 0.91
+vignette: -20
+temp: 6160
