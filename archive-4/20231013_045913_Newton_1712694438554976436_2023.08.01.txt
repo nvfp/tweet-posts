@@ -1,0 +1,31 @@
+tweet_id: 1712694438554976436
+masto_id: 111225939778640350
+subre_id: Not uploaded, but here's the text: Today is awesome!  #Math #MachineLearning
+
+newton_power: 5
+newton_const: 9
+
+n_iter: 133
+ct: 74
+hue_offset: 305
+saturation: -0.75
+
+num_attempts: 102
+dur: 606
+std: 10.03
+size: 1238723 (1.18 MiB)
+
+xmin: 0.8788377583940652
+xmax: 1.0152013947577014
+ymin: 0.04932179478748955
+ymax: 0.126026340242035
+
+contrast: 1.33
+brightness: -0.08
+saturation: 1.7
+gamma: 1.02
+gamma_r: 0.99
+gamma_g: 1.0
+gamma_b: 1.05
+vignette: -23
+temp: 4887
