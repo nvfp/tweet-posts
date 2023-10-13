@@ -1,0 +1,28 @@
+tweet_id: 1712712384102752311
+masto_id: 111226220129937281
+subre_id: Not uploaded, but here's the text: Friday vibes!  #Art #Math
+
+n_iter: 375
+ct: 125
+hue_offset: 57
+saturation: -1.0
+
+num_attempts: 5
+dur: 4
+std: 30.98
+size: 534661 (522.13 KiB)
+
+xmin: -1.568095764375713
+xmax: -1.331253659112555
+ymin: -0.13297254135415315
+ymax: 0.0002511428563731488
+
+contrast: 1.73
+brightness: 0.08
+saturation: 0.66
+gamma: 1.06
+gamma_r: 1.0
+gamma_g: 0.92
+gamma_b: 0.96
+vignette: -31
+temp: 7608
