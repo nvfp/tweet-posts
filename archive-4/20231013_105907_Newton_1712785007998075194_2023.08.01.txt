@@ -1,0 +1,31 @@
+tweet_id: 1712785007998075194
+masto_id: 111227354939579801
+subre_id: Not uploaded, but here's the text: Hope you have an amazing Friday!  #Art #VisualArt
+
+newton_power: 4
+newton_const: 9
+
+n_iter: 104
+ct: 114
+hue_offset: 152
+saturation: -0.13
+
+num_attempts: 131
+dur: 603
+std: 7.18
+size: 659354 (643.9 KiB)
+
+xmin: -2.6498220328764046
+xmax: -1.983155366209738
+ymin: -0.13745160106126586
+ymax: 0.23754839893873414
+
+contrast: 1.74
+brightness: 0.16
+saturation: 1.3
+gamma: 0.95
+gamma_r: 0.91
+gamma_g: 0.92
+gamma_b: 0.93
+vignette: -12
+temp: 7718
