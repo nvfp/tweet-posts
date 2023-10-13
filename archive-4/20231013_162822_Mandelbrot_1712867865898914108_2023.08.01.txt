@@ -1,0 +1,28 @@
+tweet_id: 1712867865898914108
+masto_id: 111228649624488959
+subre_id: Not uploaded, but here's the text: Happy Friday!  #DigitalArt #Math
+
+n_iter: 768
+ct: 239
+hue_offset: 89
+saturation: 0.07
+
+num_attempts: 65
+dur: 72
+std: 18.68
+size: 875689 (855.17 KiB)
+
+xmin: 0.3910629556886045
+xmax: 0.4093277958712529
+ymin: 0.12344810636180825
+ymax: 0.13372207896454796
+
+contrast: 1.34
+brightness: 0.13
+saturation: 0.72
+gamma: 1.08
+gamma_r: 0.95
+gamma_g: 1.06
+gamma_b: 0.96
+vignette: -22
+temp: 2617
