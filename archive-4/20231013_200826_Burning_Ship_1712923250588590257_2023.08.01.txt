@@ -1,0 +1,28 @@
+tweet_id: 1712923250588590257
+masto_id: 111229514932494911
+subre_id: Not uploaded, but here's the text: Keep shining on Friday!  #AI #Science
+
+n_iter: 340
+ct: 106
+hue_offset: 167
+saturation: 0.51
+
+num_attempts: 7
+dur: 5
+std: 46.36
+size: 2416950 (2.3 MiB)
+
+xmin: 0.5904897692699147
+xmax: 0.6388768660441082
+ymin: -1.2265549169085581
+ymax: -1.1993371749730743
+
+contrast: 0.74
+brightness: 0.06
+saturation: 1.29
+gamma: 0.98
+gamma_r: 0.94
+gamma_g: 1.03
+gamma_b: 0.97
+vignette: -20
+temp: 7633
