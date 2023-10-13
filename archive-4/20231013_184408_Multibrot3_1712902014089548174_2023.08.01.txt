@@ -1,0 +1,28 @@
+tweet_id: 1712902014089548174
+masto_id: 111229183462977032
+subre_id: Not uploaded, but here's the text: Hey wait, look! it's Multibrot!  #DigitalArt #Programming
+
+n_iter: 509
+ct: 255
+hue_offset: 75
+saturation: -0.58
+
+num_attempts: 225
+dur: 608
+std: 77.17
+size: 1346131 (1.28 MiB)
+
+xmin: 0.1245532307689925
+xmax: 0.12914565327186275
+ymin: -0.8071719731643667
+ymax: -0.8045887355065022
+
+contrast: 0.84
+brightness: 0.19
+saturation: 1.65
+gamma: 1.07
+gamma_r: 0.91
+gamma_g: 1.07
+gamma_b: 1.0
+vignette: -45
+temp: 6447
