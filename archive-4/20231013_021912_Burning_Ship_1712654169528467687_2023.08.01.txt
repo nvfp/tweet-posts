@@ -1,0 +1,28 @@
+tweet_id: 1712654169528467687
+masto_id: 111225310531286998
+subre_id: Not uploaded, but here's the text: you are fantastic!  #Programming #Nature
+
+n_iter: 340
+ct: 95
+hue_offset: 218
+saturation: 0.35
+
+num_attempts: 16
+dur: 14
+std: 25.24
+size: 515312 (503.23 KiB)
+
+xmin: -0.22658426603783033
+xmax: 0.8984157339621697
+ymin: -1.7167993475545562
+ymax: -1.0839868475545562
+
+contrast: 1.57
+brightness: 0.17
+saturation: 0.32
+gamma: 0.97
+gamma_r: 1.07
+gamma_g: 1.0
+gamma_b: 0.94
+vignette: -4
+temp: 5519
