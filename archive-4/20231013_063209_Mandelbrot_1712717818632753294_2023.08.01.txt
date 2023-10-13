@@ -1,0 +1,28 @@
+tweet_id: 1712717818632753294
+masto_id: 111226305194999941
+subre_id: Not uploaded, but here's the text: Cheers to a fantastic Friday!  #Programming #Art
+
+n_iter: 446
+ct: 96
+hue_offset: 333
+saturation: 0.72
+
+num_attempts: 229
+dur: 232
+std: 32.72
+size: 706569 (690.01 KiB)
+
+xmin: 0.1921660923015125
+xmax: 0.1949002002987784
+ymin: -0.5624242745239484
+ymax: -0.5608863387754863
+
+contrast: 1.15
+brightness: 0.19
+saturation: 0.65
+gamma: 1.1
+gamma_r: 0.9
+gamma_g: 1.01
+gamma_b: 0.95
+vignette: -7
+temp: 3433
