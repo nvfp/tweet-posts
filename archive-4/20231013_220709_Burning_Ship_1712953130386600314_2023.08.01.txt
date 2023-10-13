@@ -1,0 +1,28 @@
+tweet_id: 1712953130386600314
+masto_id: 111229981805266691
+subre_id: Not uploaded, but here's the text: Sending you this fractal on this Friday!  #MachineLearning #Nature
+
+n_iter: 333
+ct: 209
+hue_offset: 38
+saturation: -0.94
+
+num_attempts: 30
+dur: 11
+std: 50.32
+size: 1992477 (1.9 MiB)
+
+xmin: -0.7680968512590445
+xmax: -0.6918256648183665
+ymin: -0.7577001308911717
+ymax: -0.7147975885182903
+
+contrast: 1.01
+brightness: 0.15
+saturation: 1.27
+gamma: 1.03
+gamma_r: 0.91
+gamma_g: 1.06
+gamma_b: 1.06
+vignette: 25
+temp: 5066
