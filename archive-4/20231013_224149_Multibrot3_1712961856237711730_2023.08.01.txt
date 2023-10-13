@@ -1,0 +1,28 @@
+tweet_id: 1712961856237711730
+masto_id: 111230118076144110
+subre_id: Not uploaded, but here's the text: Hope you have an amazing Friday!  #Mathematics #DeepLearning
+
+n_iter: 271
+ct: 1
+hue_offset: 317
+saturation: 0.39
+
+num_attempts: 580
+dur: 601
+std: 52.1
+size: 936668 (914.71 KiB)
+
+xmin: 0.09923353244011102
+xmax: 0.10361949735239172
+ymin: -0.7691060840078526
+ymax: -0.7666389787446948
+
+contrast: 1.37
+brightness: 0.16
+saturation: 0.45
+gamma: 0.97
+gamma_r: 0.92
+gamma_g: 0.92
+gamma_b: 0.98
+vignette: 33
+temp: 2880
