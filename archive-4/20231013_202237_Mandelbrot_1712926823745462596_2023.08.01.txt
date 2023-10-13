@@ -1,0 +1,28 @@
+tweet_id: 1712926823745462596
+masto_id: 111229570732922032
+subre_id: Not uploaded, but here's the text: Smile on this lovely day!  #VisualArt #Nature
+
+n_iter: 313
+ct: 67
+hue_offset: 269
+saturation: 0.82
+
+num_attempts: 18
+dur: 10
+std: 26.73
+size: 855182 (835.14 KiB)
+
+xmin: -0.6628574215201888
+xmax: -0.6597470016135014
+ymin: -0.4114515850951259
+ymax: -0.40970197389761426
+
+contrast: 1.51
+brightness: -0.1
+saturation: 1.7
+gamma: 0.91
+gamma_r: 0.96
+gamma_g: 1.09
+gamma_b: 1.01
+vignette: 6
+temp: 3480
