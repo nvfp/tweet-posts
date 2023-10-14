@@ -1,0 +1,28 @@
+tweet_id: 1713294051062026578
+masto_id: 111235308782610433
+subre_id: Not uploaded, but here's the text: you're awesome!  #Science #Nature
+
+n_iter: 435
+ct: 255
+hue_offset: 298
+saturation: 0.66
+
+num_attempts: 391
+dur: 600
+std: 69.78
+size: 1194977 (1.14 MiB)
+
+xmin: -0.3857138669625719
+xmax: -0.37865919324123154
+ymin: -0.692672310528853
+ymax: -0.6887040565605991
+
+contrast: 0.97
+brightness: 0.0
+saturation: 1.63
+gamma: 1.1
+gamma_r: 0.99
+gamma_g: 1.06
+gamma_b: 1.03
+vignette: 16
+temp: 6370
