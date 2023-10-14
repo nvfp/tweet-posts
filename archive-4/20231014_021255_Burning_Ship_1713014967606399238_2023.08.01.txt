@@ -1,0 +1,28 @@
+tweet_id: 1713014967606399238
+masto_id: 111230948158558097
+subre_id: Not uploaded, but here's the text: Let's rock this Saturday!  #Mathematics #Programming
+
+n_iter: 204
+ct: 88
+hue_offset: 285
+saturation: 0.59
+
+num_attempts: 8
+dur: 3
+std: 24.59
+size: 1331550 (1.27 MiB)
+
+xmin: -1.5547212089734552
+xmax: -0.6547212089734552
+ymin: -1.0192627155494436
+ymax: -0.5130127155494436
+
+contrast: 1.12
+brightness: 0.08
+saturation: 0.84
+gamma: 0.92
+gamma_r: 1.09
+gamma_g: 1.05
+gamma_b: 1.04
+vignette: -47
+temp: 5661
