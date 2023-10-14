@@ -1,0 +1,28 @@
+tweet_id: 1713229458298302487
+masto_id: 111234299467490377
+subre_id: Not uploaded, but here's the text: Surprise! It's a Mandelbrot Set!  #DeepLearning #VisualArt
+
+n_iter: 238
+ct: 15
+hue_offset: 84
+saturation: -0.9
+
+num_attempts: 3
+dur: 2
+std: 51.16
+size: 1604401 (1.53 MiB)
+
+xmin: -1.2365489514756627
+xmax: -1.2360967696985883
+ymin: -0.110331869620095
+ymax: -0.11007751737049067
+
+contrast: 0.97
+brightness: 0.17
+saturation: 0.99
+gamma: 0.93
+gamma_r: 1.04
+gamma_g: 1.04
+gamma_b: 1.03
+vignette: -48
+temp: 6657
