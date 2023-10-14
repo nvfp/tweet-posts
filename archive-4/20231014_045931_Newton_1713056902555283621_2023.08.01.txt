@@ -1,0 +1,31 @@
+tweet_id: 1713056902555283621
+masto_id: 111231603268566357
+subre_id: Not uploaded, but here's the text: A great Saturday and a beautiful Newton.  #DigitalArt #Fractals
+
+newton_power: 4
+newton_const: 9
+
+n_iter: 185
+ct: 199
+hue_offset: 128
+saturation: 0.52
+
+num_attempts: 131
+dur: 616
+std: 8.15
+size: 838328 (818.68 KiB)
+
+xmin: -2.765307683212762
+xmax: -2.7328752507803293
+ymin: 0.41181983760475704
+ymax: 0.43006308084800027
+
+contrast: 1.39
+brightness: 0.19
+saturation: 0.75
+gamma: 1.03
+gamma_r: 0.97
+gamma_g: 1.09
+gamma_b: 0.97
+vignette: 15
+temp: 7449
