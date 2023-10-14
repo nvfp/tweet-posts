@@ -1,0 +1,28 @@
+tweet_id: 1713194435675107479
+masto_id: 111233752189250235
+subre_id: Not uploaded, but here's the text: Saturday vibes!  #Nature #DeepLearning
+
+n_iter: 448
+ct: 165
+hue_offset: 348
+saturation: -0.05
+
+num_attempts: 16
+dur: 4
+std: 56.95
+size: 1880996 (1.79 MiB)
+
+xmin: -0.40265353938589277
+xmax: -0.3383678251001785
+ymin: -0.9775081353797606
+ymax: -0.9413474210940462
+
+contrast: 1.12
+brightness: -0.07
+saturation: 0.91
+gamma: 1.02
+gamma_r: 0.98
+gamma_g: 0.9
+gamma_b: 0.96
+vignette: 25
+temp: 5025
