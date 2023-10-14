@@ -1,0 +1,31 @@
+tweet_id: 1713147360711196904
+masto_id: 111233016692858108
+subre_id: Not uploaded, but here's the text: Hope you're having a great Saturday!  #Math #VisualArt
+
+newton_power: 7
+newton_const: 7
+
+n_iter: 256
+ct: 219
+hue_offset: 240
+saturation: 0.87
+
+num_attempts: 54
+dur: 602
+std: 29.21
+size: 1032649 (1008.45 KiB)
+
+xmin: 1.3028450036659525
+xmax: 1.4062932795280214
+ymin: -0.028519992589259413
+ymax: 0.02966966258315438
+
+contrast: 1.11
+brightness: -0.09
+saturation: 0.56
+gamma: 0.97
+gamma_r: 0.97
+gamma_g: 0.91
+gamma_b: 0.93
+vignette: -29
+temp: 4606
