@@ -1,0 +1,28 @@
+tweet_id: 1713288583539568829
+masto_id: 111235223302885339
+subre_id: Not uploaded, but here's the text: Hope you have an amazing Saturday!  #Mathematics #Art
+
+n_iter: 632
+ct: 143
+hue_offset: 112
+saturation: -0.86
+
+num_attempts: 12
+dur: 9
+std: 21.63
+size: 999505 (976.08 KiB)
+
+xmin: 0.07605486932942984
+xmax: 0.07648318071180484
+ymin: -0.650069258171267
+ymax: -0.6498283330186811
+
+contrast: 0.83
+brightness: 0.08
+saturation: 1.17
+gamma: 1.04
+gamma_r: 0.96
+gamma_g: 0.93
+gamma_b: 0.95
+vignette: -7
+temp: 3907
