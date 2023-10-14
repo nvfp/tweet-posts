@@ -1,0 +1,31 @@
+tweet_id: 1713268203088986506
+masto_id: 111234904892114949
+subre_id: Not uploaded, but here's the text: Beautiful Saturday with this Newton!  #DeepLearning #Mathematics
+
+newton_power: 4
+newton_const: -4
+
+n_iter: 105
+ct: 29
+hue_offset: 73
+saturation: -0.42
+
+num_attempts: 131
+dur: 606
+std: 7.51
+size: 746033 (728.55 KiB)
+
+xmin: 1.0446425604830631
+xmax: 1.052295621707553
+ymin: 1.018027068445436
+ymax: 1.0223319153842114
+
+contrast: 1.02
+brightness: 0.05
+saturation: 1.62
+gamma: 0.97
+gamma_r: 0.97
+gamma_g: 1.01
+gamma_b: 1.06
+vignette: -13
+temp: 2132
