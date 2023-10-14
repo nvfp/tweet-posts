@@ -1,0 +1,31 @@
+tweet_id: 1713207728208830594
+masto_id: 111233959885673491
+subre_id: Not uploaded, but here's the text: Hope your Saturday is awesome!  #Nature #MachineLearning
+
+newton_power: 6
+newton_const: -9
+
+n_iter: 74
+ct: 223
+hue_offset: 21
+saturation: -0.35
+
+num_attempts: 81
+dur: 601
+std: 31.69
+size: 614842 (600.43 KiB)
+
+xmin: 2.3976465069545876
+xmax: 2.406806812298099
+ymin: -1.3916382135721186
+ymax: -1.3864855418163935
+
+contrast: 1.13
+brightness: -0.05
+saturation: 0.6
+gamma: 0.95
+gamma_r: 1.0
+gamma_g: 1.04
+gamma_b: 1.07
+vignette: -48
+temp: 7250
