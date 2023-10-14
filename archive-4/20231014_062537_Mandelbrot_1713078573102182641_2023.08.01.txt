@@ -1,0 +1,28 @@
+tweet_id: 1713078573102182641
+masto_id: 111231941818901266
+subre_id: Not uploaded, but here's the text: Enjoying the Saturday with this Mandelbrot Set.  #MachineLearning #Fractals
+
+n_iter: 790
+ct: 146
+hue_offset: 9
+saturation: -0.05
+
+num_attempts: 28
+dur: 17
+std: 125.55
+size: 458330 (447.59 KiB)
+
+xmin: -0.6140941892562526
+xmax: -0.6096497448118081
+ymin: 0.40553112977996575
+ymax: 0.40803112977996575
+
+contrast: 1.55
+brightness: 0.08
+saturation: 0.37
+gamma: 1.07
+gamma_r: 0.93
+gamma_g: 1.1
+gamma_b: 1.07
+vignette: -1
+temp: 7342
