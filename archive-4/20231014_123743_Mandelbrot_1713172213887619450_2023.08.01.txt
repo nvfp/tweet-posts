@@ -1,0 +1,28 @@
+tweet_id: 1713172213887619450
+masto_id: 111233404981375227
+subre_id: Not uploaded, but here's the text: Good Saturday! This Mandelbrot Set is for you!  #Science #AI
+
+n_iter: 470
+ct: 33
+hue_offset: 85
+saturation: 0.48
+
+num_attempts: 120
+dur: 136
+std: 66.68
+size: 1396094 (1.33 MiB)
+
+xmin: -0.5490326846713711
+xmax: -0.5404856761243626
+ymin: -0.5821123450863214
+ymax: -0.5773046527786291
+
+contrast: 1.75
+brightness: 0.16
+saturation: 1.75
+gamma: 0.91
+gamma_r: 1.04
+gamma_g: 0.9
+gamma_b: 1.01
+vignette: -15
+temp: 3808
