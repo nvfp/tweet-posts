@@ -1,0 +1,28 @@
+tweet_id: 1713255506796527699
+masto_id: 111234706421858296
+subre_id: Not uploaded, but here's the text: How was your day?  #DeepLearning #Nature
+
+n_iter: 347
+ct: 38
+hue_offset: 37
+saturation: 0.54
+
+num_attempts: 19
+dur: 6
+std: 25.61
+size: 456675 (445.97 KiB)
+
+xmin: -1.6093954627055895
+xmax: -1.3593954627055895
+ymin: -0.11440396829822452
+ymax: 0.026221031701775477
+
+contrast: 1.66
+brightness: -0.09
+saturation: 0.44
+gamma: 1.03
+gamma_r: 0.94
+gamma_g: 1.09
+gamma_b: 1.04
+vignette: -7
+temp: 4957
