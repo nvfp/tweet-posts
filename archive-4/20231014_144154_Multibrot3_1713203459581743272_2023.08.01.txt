@@ -1,0 +1,28 @@
+tweet_id: 1713203459581743272
+masto_id: 111233893234332156
+subre_id: Not uploaded, but here's the text: Smile on this lovely day!  #DeepLearning #Science
+
+n_iter: 461
+ct: 255
+hue_offset: 216
+saturation: 0.45
+
+num_attempts: 290
+dur: 603
+std: 75.4
+size: 906854 (885.6 KiB)
+
+xmin: 0.1884265883959806
+xmax: 0.19509325506264724
+ymin: -0.8969801349670804
+ymax: -0.8932301349670804
+
+contrast: 1.19
+brightness: 0.23
+saturation: 1.67
+gamma: 1.01
+gamma_r: 0.95
+gamma_g: 1.04
+gamma_b: 1.01
+vignette: -14
+temp: 7834
