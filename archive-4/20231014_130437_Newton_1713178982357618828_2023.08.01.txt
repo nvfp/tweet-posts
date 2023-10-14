@@ -1,0 +1,31 @@
+tweet_id: 1713178982357618828
+masto_id: 111233510755406489
+subre_id: Not uploaded, but here's the text: Let the magic of Saturday fill your heart!  #AI #Science
+
+newton_power: 6
+newton_const: -4
+
+n_iter: 142
+ct: 26
+hue_offset: 55
+saturation: -0.93
+
+num_attempts: 84
+dur: 601
+std: 19.28
+size: 1327677 (1.27 MiB)
+
+xmin: 1.199494873169983
+xmax: 1.2217170953922052
+ymin: 0.5223929245273515
+ymax: 0.5348929245273515
+
+contrast: 1.48
+brightness: -0.09
+saturation: 0.91
+gamma: 0.91
+gamma_r: 0.95
+gamma_g: 1.07
+gamma_b: 1.05
+vignette: 32
+temp: 3966
