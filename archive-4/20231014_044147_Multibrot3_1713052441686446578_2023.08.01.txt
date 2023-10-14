@@ -1,0 +1,28 @@
+tweet_id: 1713052441686446578
+masto_id: 111231533546417667
+subre_id: Not uploaded, but here's the text: Warm wishes for your Saturday, and let's have a look at this Multibrot.  #Math #Science
+
+n_iter: 518
+ct: 255
+hue_offset: 311
+saturation: -0.98
+
+num_attempts: 299
+dur: 602
+std: 76.17
+size: 624444 (609.81 KiB)
+
+xmin: 0.16896067145148486
+xmax: 0.1747493834630623
+ymin: 0.8566905679639962
+ymax: 0.8599467184705085
+
+contrast: 1.43
+brightness: 0.16
+saturation: 1.32
+gamma: 1.04
+gamma_r: 1.02
+gamma_g: 0.95
+gamma_b: 1.06
+vignette: 19
+temp: 2690
