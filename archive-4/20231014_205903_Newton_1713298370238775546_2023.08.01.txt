@@ -1,0 +1,31 @@
+tweet_id: 1713298370238775546
+masto_id: 111235376228835834
+subre_id: Not uploaded, but here's the text: Let the magic of Saturday fill your heart!  #MachineLearning #Math
+
+newton_power: 5
+newton_const: 8
+
+n_iter: 221
+ct: 140
+hue_offset: 134
+saturation: -0.5
+
+num_attempts: 89
+dur: 600
+std: 9.62
+size: 956367 (933.95 KiB)
+
+xmin: -0.3091707402528163
+xmax: 0.6908292597471837
+ymin: -1.51513852469479
+ymax: -0.9526385246947899
+
+contrast: 1.61
+brightness: 0.06
+saturation: 1.4
+gamma: 0.91
+gamma_r: 0.97
+gamma_g: 0.91
+gamma_b: 1.04
+vignette: -7
+temp: 5842
