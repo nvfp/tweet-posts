@@ -1,0 +1,31 @@
+tweet_id: 1713026634830266833
+masto_id: 111231130303240533
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Saturday! You got this!  #Fractals #Mathematics
+
+newton_power: 6
+newton_const: 5
+
+n_iter: 89
+ct: 17
+hue_offset: 271
+saturation: 0.52
+
+num_attempts: 69
+dur: 612
+std: 36.69
+size: 600221 (586.15 KiB)
+
+xmin: 0.49938902348130787
+xmax: 0.5105207488987475
+ymin: -0.8593592236237326
+ymax: -0.8530976280764228
+
+contrast: 1.58
+brightness: 0.22
+saturation: 0.4
+gamma: 1.06
+gamma_r: 0.93
+gamma_g: 1.02
+gamma_b: 1.02
+vignette: -14
+temp: 7740
