@@ -1,0 +1,28 @@
+tweet_id: 1713259631949267234
+masto_id: 111234770945694480
+subre_id: Not uploaded, but here's the text: Hello Saturday! This Mandelbrot Set is yours!  #Fractals #VisualArt
+
+n_iter: 430
+ct: 21
+hue_offset: 90
+saturation: -0.84
+
+num_attempts: 33
+dur: 37
+std: 28.4
+size: 946139 (923.96 KiB)
+
+xmin: -0.7040501111186366
+xmax: -0.7027664140711398
+ymin: 0.34350377105108465
+ymax: 0.3442258506403016
+
+contrast: 1.48
+brightness: 0.14
+saturation: 0.35
+gamma: 0.98
+gamma_r: 1.05
+gamma_g: 0.99
+gamma_b: 1.05
+vignette: 28
+temp: 3572
