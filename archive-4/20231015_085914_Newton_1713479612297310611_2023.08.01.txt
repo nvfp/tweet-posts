@@ -1,0 +1,31 @@
+tweet_id: 1713479612297310611
+masto_id: 111238208201481251
+subre_id: Not uploaded, but here's the text: Wishing you a rad Sunday!  #DeepLearning #Programming
+
+newton_power: 5
+newton_const: -5
+
+n_iter: 159
+ct: 194
+hue_offset: 287
+saturation: -0.02
+
+num_attempts: 83
+dur: 600
+std: 10.43
+size: 759186 (741.39 KiB)
+
+xmin: 1.6257493764322124
+xmax: 2.292416043098879
+ymin: 1.443637056535085
+ymax: 1.818637056535085
+
+contrast: 0.78
+brightness: -0.01
+saturation: 0.63
+gamma: 0.98
+gamma_r: 0.91
+gamma_g: 1.03
+gamma_b: 1.04
+vignette: -18
+temp: 3719
