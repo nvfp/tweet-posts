@@ -1,0 +1,28 @@
+tweet_id: 1713368055831478686
+masto_id: 111236465065362355
+subre_id: Not uploaded, but here's the text: Let this Mandelbrot Set inspire your Sunday.  #Mathematics #Art
+
+n_iter: 869
+ct: 162
+hue_offset: 84
+saturation: -0.54
+
+num_attempts: 176
+dur: 287
+std: 17.72
+size: 1270704 (1.21 MiB)
+
+xmin: -1.0049009142696803
+xmax: -1.0035777253844669
+ymin: 0.29831780989559564
+ymax: 0.29906210364352814
+
+contrast: 1.46
+brightness: -0.06
+saturation: 1.16
+gamma: 1.01
+gamma_r: 0.95
+gamma_g: 1.07
+gamma_b: 0.95
+vignette: -21
+temp: 3923
