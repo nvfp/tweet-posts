@@ -1,0 +1,28 @@
+tweet_id: 1713385467310493767
+masto_id: 111236737047852523
+subre_id: Not uploaded, but here's the text: Hope you have an amazing Sunday!  #Programming #Math
+
+n_iter: 435
+ct: 255
+hue_offset: 145
+saturation: -0.85
+
+num_attempts: 297
+dur: 606
+std: 74.16
+size: 1097798 (1.05 MiB)
+
+xmin: 0.40708217793214185
+xmax: 0.41681453802946544
+ymin: 0.600588301127392
+ymax: 0.6060627536821366
+
+contrast: 1.22
+brightness: -0.05
+saturation: 1.17
+gamma: 0.95
+gamma_r: 0.93
+gamma_g: 0.93
+gamma_b: 0.97
+vignette: -11
+temp: 4007
