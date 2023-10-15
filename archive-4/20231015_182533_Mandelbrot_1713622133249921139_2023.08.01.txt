@@ -1,0 +1,28 @@
+tweet_id: 1713622133249921139
+masto_id: 111240435024518804
+subre_id: Not uploaded, but here's the text: you are cool  #VisualArt #Programming
+
+n_iter: 799
+ct: 224
+hue_offset: 66
+saturation: -0.21
+
+num_attempts: 34
+dur: 52
+std: 17.35
+size: 590138 (576.31 KiB)
+
+xmin: -1.7403087535038324
+xmax: -0.9403087535038324
+ymin: -0.5821909003023831
+ymax: -0.13219090030238306
+
+contrast: 1.09
+brightness: -0.03
+saturation: 1.12
+gamma: 0.98
+gamma_r: 0.93
+gamma_g: 1.0
+gamma_b: 0.94
+vignette: -46
+temp: 4493
