@@ -1,0 +1,28 @@
+tweet_id: 1713501379581415483
+masto_id: 111238548263096734
+subre_id: Not uploaded, but here's the text: How's your day?  #DigitalArt #Programming
+
+n_iter: 256
+ct: 76
+hue_offset: 122
+saturation: -0.89
+
+num_attempts: 109
+dur: 69
+std: 35.96
+size: 568199 (554.88 KiB)
+
+xmin: -0.2740780504921356
+xmax: -0.27150239047925734
+ymin: -0.6319041257283189
+ymax: -0.6304553169710748
+
+contrast: 0.79
+brightness: 0.23
+saturation: 1.16
+gamma: 0.95
+gamma_r: 1.09
+gamma_g: 0.98
+gamma_b: 1.02
+vignette: -13
+temp: 7715
