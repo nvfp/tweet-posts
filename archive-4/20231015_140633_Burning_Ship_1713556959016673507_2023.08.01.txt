@@ -1,0 +1,28 @@
+tweet_id: 1713556959016673507
+masto_id: 111239416570240631
+subre_id: Not uploaded, but here's the text: Hey there, it's Sunday!  #Math #DeepLearning
+
+n_iter: 399
+ct: 207
+hue_offset: 147
+saturation: 0.39
+
+num_attempts: 20
+dur: 22
+std: 48.44
+size: 943844 (921.72 KiB)
+
+xmin: -1.2070051879993198
+xmax: -0.7070051879993198
+ymin: -0.6779948503514373
+ymax: -0.39674485035143725
+
+contrast: 1.48
+brightness: 0.01
+saturation: 1.5
+gamma: 1.01
+gamma_r: 1.08
+gamma_g: 1.05
+gamma_b: 1.04
+vignette: -32
+temp: 4142
