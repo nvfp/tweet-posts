@@ -1,0 +1,28 @@
+tweet_id: 1713445114176065550
+masto_id: 111237669000441916
+subre_id: Not uploaded, but here's the text: Hey wait, look! it's Multibrot!  #MachineLearning #VisualArt
+
+n_iter: 299
+ct: 1
+hue_offset: 356
+saturation: -0.48
+
+num_attempts: 422
+dur: 606
+std: 55.15
+size: 977662 (954.75 KiB)
+
+xmin: -0.2147000229570717
+xmax: -0.20826915478986913
+ymin: 0.7434974214850394
+ymax: 0.7471147848290909
+
+contrast: 1.64
+brightness: -0.09
+saturation: 1.33
+gamma: 0.93
+gamma_r: 1.02
+gamma_g: 0.98
+gamma_b: 1.06
+vignette: 17
+temp: 7643
