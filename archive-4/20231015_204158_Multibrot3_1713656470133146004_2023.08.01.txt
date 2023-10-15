@@ -1,0 +1,28 @@
+tweet_id: 1713656470133146004
+masto_id: 111240971422398001
+subre_id: Not uploaded, but here's the text: Ever heard of this Multibrot?  #Math #Nature
+
+n_iter: 412
+ct: 255
+hue_offset: 53
+saturation: -0.22
+
+num_attempts: 420
+dur: 603
+std: 71.37
+size: 1240721 (1.18 MiB)
+
+xmin: 0.4136040101430827
+xmax: 0.42045332521157586
+ymin: 0.603838651486563
+ymax: 0.6076913912125904
+
+contrast: 1.08
+brightness: -0.09
+saturation: 0.69
+gamma: 0.99
+gamma_r: 0.99
+gamma_g: 1.03
+gamma_b: 1.01
+vignette: -25
+temp: 4354
