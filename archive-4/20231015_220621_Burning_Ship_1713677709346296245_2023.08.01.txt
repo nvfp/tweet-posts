@@ -1,0 +1,28 @@
+tweet_id: 1713677709346296245
+masto_id: 111241303273784378
+subre_id: Not uploaded, but here's the text: Beautiful Sunday with this Burning Ship!  #VisualArt #AI
+
+n_iter: 155
+ct: 109
+hue_offset: 201
+saturation: -0.6
+
+num_attempts: 10
+dur: 5
+std: 24.2
+size: 1993023 (1.9 MiB)
+
+xmin: -0.6584416999619624
+xmax: -0.6061161185666136
+ymin: -0.7944526329064752
+ymax: -0.7650194933715915
+
+contrast: 1.52
+brightness: 0.05
+saturation: 1.61
+gamma: 1.05
+gamma_r: 1.04
+gamma_g: 0.95
+gamma_b: 1.05
+vignette: -42
+temp: 2112
