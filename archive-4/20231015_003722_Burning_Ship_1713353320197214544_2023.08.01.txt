@@ -1,0 +1,28 @@
+tweet_id: 1713353320197214544
+masto_id: 111236234754972054
+subre_id: Not uploaded, but here's the text: Another Sunday, another Burning Ship!  #Math #Science
+
+n_iter: 354
+ct: 181
+hue_offset: 12
+saturation: -0.47
+
+num_attempts: 4
+dur: 1
+std: 55.68
+size: 1640119 (1.56 MiB)
+
+xmin: -0.8024606620688481
+xmax: -0.7535476185905873
+ymin: -0.7809077330177727
+ymax: -0.753394146061251
+
+contrast: 1.31
+brightness: -0.07
+saturation: 0.4
+gamma: 1.03
+gamma_r: 1.09
+gamma_g: 1.01
+gamma_b: 0.95
+vignette: 22
+temp: 7195
