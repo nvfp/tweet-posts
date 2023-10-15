@@ -1,0 +1,31 @@
+tweet_id: 1713509774229115248
+masto_id: 111238679358458526
+subre_id: Not uploaded, but here's the text: Guess what? It's Newton!  #DeepLearning #Nature
+
+newton_power: 4
+newton_const: -2
+
+n_iter: 175
+ct: 253
+hue_offset: 265
+saturation: -0.99
+
+num_attempts: 113
+dur: 602
+std: 8.62
+size: 865608 (845.32 KiB)
+
+xmin: 1.203670614424313
+xmax: 1.4763978871515857
+ymin: 1.367098663453418
+ymax: 1.5205077543625087
+
+contrast: 1.16
+brightness: 0.06
+saturation: 1.43
+gamma: 0.97
+gamma_r: 1.03
+gamma_g: 1.0
+gamma_b: 1.01
+vignette: 7
+temp: 6178
