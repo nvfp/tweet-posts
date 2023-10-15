@@ -1,0 +1,28 @@
+tweet_id: 1713415074285801577
+masto_id: 111237199555260264
+subre_id: Not uploaded, but here's the text: Wishing you a wonderful Sunday!  #DeepLearning #Fractals
+
+n_iter: 318
+ct: 255
+hue_offset: 102
+saturation: 0.84
+
+num_attempts: 351
+dur: 606
+std: 35.04
+size: 353560 (345.27 KiB)
+
+xmin: -0.22031494530568607
+xmax: -0.1829317677355926
+ymin: 0.9166105976688348
+ymax: 0.9376386350520124
+
+contrast: 1.73
+brightness: 0.13
+saturation: 0.85
+gamma: 1.01
+gamma_r: 1.08
+gamma_g: 1.01
+gamma_b: 0.91
+vignette: -3
+temp: 5177
