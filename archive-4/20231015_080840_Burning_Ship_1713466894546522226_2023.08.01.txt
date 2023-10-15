@@ -1,0 +1,28 @@
+tweet_id: 1713466894546522226
+masto_id: 111238009362716796
+subre_id: Not uploaded, but here's the text: Hey wait, look! it's Burning Ship!  #DigitalArt #Programming
+
+n_iter: 495
+ct: 116
+hue_offset: 215
+saturation: -0.93
+
+num_attempts: 8
+dur: 4
+std: 73.69
+size: 1818218 (1.73 MiB)
+
+xmin: -0.7163541119345509
+xmax: -0.6413541119345509
+ymin: -0.7612866565671264
+ymax: -0.7190991565671263
+
+contrast: 0.91
+brightness: 0.19
+saturation: 1.54
+gamma: 1.02
+gamma_r: 0.94
+gamma_g: 0.95
+gamma_b: 1.07
+vignette: -1
+temp: 4987
