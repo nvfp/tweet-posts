@@ -1,0 +1,28 @@
+tweet_id: 1713647756810879360
+masto_id: 111240835264602755
+subre_id: Not uploaded, but here's the text: Hello Sunday! This Burning Ship is yours!  #Art #DeepLearning
+
+n_iter: 198
+ct: 218
+hue_offset: 309
+saturation: -0.62
+
+num_attempts: 18
+dur: 8
+std: 29.4
+size: 519278 (507.11 KiB)
+
+xmin: -1.5476758738671708
+xmax: -1.3925034600740673
+ymin: -0.3110158441081827
+ymax: -0.22373136134956204
+
+contrast: 0.81
+brightness: 0.18
+saturation: 1.0
+gamma: 1.0
+gamma_r: 1.07
+gamma_g: 0.96
+gamma_b: 0.91
+vignette: 0
+temp: 7973
