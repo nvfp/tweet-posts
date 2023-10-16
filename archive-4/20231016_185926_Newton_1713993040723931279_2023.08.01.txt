@@ -1,0 +1,31 @@
+tweet_id: 1713993040723931279
+masto_id: 111246230529932438
+subre_id: Not uploaded, but here's the text: Warm wishes for your Monday, and let's have a look at this Newton.  #MachineLearning #DigitalArt
+
+newton_power: 6
+newton_const: -8
+
+n_iter: 154
+ct: 253
+hue_offset: 71
+saturation: -0.09
+
+num_attempts: 71
+dur: 604
+std: 15.47
+size: 1080912 (1.03 MiB)
+
+xmin: -1.4102259107484603
+xmax: 1.5897740892515397
+ymin: -0.7827490092366656
+ymax: 0.9047509907633344
+
+contrast: 1.54
+brightness: 0.05
+saturation: 0.41
+gamma: 1.04
+gamma_r: 1.09
+gamma_g: 1.03
+gamma_b: 0.94
+vignette: -30
+temp: 3566
