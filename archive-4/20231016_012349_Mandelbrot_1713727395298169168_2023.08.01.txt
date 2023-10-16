@@ -1,0 +1,28 @@
+tweet_id: 1713727395298169168
+masto_id: 111242079744718180
+subre_id: Not uploaded, but here's the text: How was your day?  #VisualArt #Nature
+
+n_iter: 233
+ct: 212
+hue_offset: 142
+saturation: 0.67
+
+num_attempts: 101
+dur: 55
+std: 28.81
+size: 1372795 (1.31 MiB)
+
+xmin: 0.1512667313211078
+xmax: 0.1522541418370298
+ymin: -0.61402127700517
+ymax: -0.6134658585899638
+
+contrast: 0.98
+brightness: 0.15
+saturation: 0.76
+gamma: 1.07
+gamma_r: 0.96
+gamma_g: 1.05
+gamma_b: 1.05
+vignette: -44
+temp: 3133
