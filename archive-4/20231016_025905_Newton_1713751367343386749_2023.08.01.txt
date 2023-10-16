@@ -1,0 +1,31 @@
+tweet_id: 1713751367343386749
+masto_id: 111242454295802325
+subre_id: Not uploaded, but here's the text: Wishing you a joyful day!  #Art #DeepLearning
+
+newton_power: 6
+newton_const: -9
+
+n_iter: 65
+ct: 18
+hue_offset: 40
+saturation: 0.78
+
+num_attempts: 87
+dur: 606
+std: 14.67
+size: 1006400 (982.81 KiB)
+
+xmin: 2.889275944818632
+xmax: 2.8972335045003295
+ymin: 1.7509970468256788
+ymax: 1.7554731741466336
+
+contrast: 1.3
+brightness: 0.15
+saturation: 1.62
+gamma: 1.07
+gamma_r: 0.9
+gamma_g: 1.07
+gamma_b: 0.91
+vignette: -45
+temp: 7703
