@@ -1,0 +1,28 @@
+tweet_id: 1713898029319676267
+masto_id: 111244745857921705
+subre_id: Not uploaded, but here's the text: Feeling the Mandelbrot Set vibes today!  #MachineLearning #Fractals
+
+n_iter: 496
+ct: 59
+hue_offset: 129
+saturation: 0.94
+
+num_attempts: 49
+dur: 52
+std: 54.4
+size: 1465149 (1.4 MiB)
+
+xmin: -0.69087250554725
+xmax: -0.6901175036597452
+ymin: -0.3295991939569458
+ymax: -0.3291745053952244
+
+contrast: 0.93
+brightness: 0.17
+saturation: 0.43
+gamma: 1.09
+gamma_r: 1.02
+gamma_g: 0.92
+gamma_b: 0.97
+vignette: -24
+temp: 7314
