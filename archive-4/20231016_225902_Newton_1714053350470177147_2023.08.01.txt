@@ -1,0 +1,31 @@
+tweet_id: 1714053350470177147
+masto_id: 111247172752911444
+subre_id: Not uploaded, but here's the text: Shine bright like the sun on this Monday!  #Science #MachineLearning
+
+newton_power: 3
+newton_const: -1
+
+n_iter: 174
+ct: 234
+hue_offset: 189
+saturation: -0.06
+
+num_attempts: 231
+dur: 600
+std: 4.37
+size: 382147 (373.19 KiB)
+
+xmin: 0.7018808213782557
+xmax: 0.859775558220361
+ymin: 1.2065966947739017
+ymax: 1.295412484247586
+
+contrast: 1.74
+brightness: 0.2
+saturation: 1.14
+gamma: 0.91
+gamma_r: 1.1
+gamma_g: 1.06
+gamma_b: 1.01
+vignette: 5
+temp: 3245
