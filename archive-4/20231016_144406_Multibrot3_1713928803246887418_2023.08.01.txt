@@ -1,0 +1,28 @@
+tweet_id: 1713928803246887418
+masto_id: 111245226594144557
+subre_id: Not uploaded, but here's the text: Having a blast on Monday?  #Art #Fractals
+
+n_iter: 437
+ct: 255
+hue_offset: 298
+saturation: -0.96
+
+num_attempts: 327
+dur: 600
+std: 59.01
+size: 476310 (465.15 KiB)
+
+xmin: -0.1323195024786925
+xmax: -0.12588863431148994
+ymin: 1.1134924659645842
+ymax: 1.1171098293086357
+
+contrast: 1.25
+brightness: -0.01
+saturation: 0.84
+gamma: 0.92
+gamma_r: 1.04
+gamma_g: 1.02
+gamma_b: 1.08
+vignette: 28
+temp: 6716
