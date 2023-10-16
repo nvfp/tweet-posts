@@ -1,0 +1,28 @@
+tweet_id: 1713989515642290680
+masto_id: 111246175435054691
+subre_id: Not uploaded, but here's the text: Have an awesome Monday!  #VisualArt #Art
+
+n_iter: 334
+ct: 1
+hue_offset: 248
+saturation: 0.7
+
+num_attempts: 342
+dur: 603
+std: 52.62
+size: 916782 (895.29 KiB)
+
+xmin: 0.28868915780824134
+xmax: 0.3123577968614958
+ymin: -0.6944251987111599
+ymax: -0.6811115892437043
+
+contrast: 1.42
+brightness: -0.08
+saturation: 0.85
+gamma: 1.05
+gamma_r: 0.98
+gamma_g: 0.96
+gamma_b: 0.93
+vignette: 24
+temp: 5731
