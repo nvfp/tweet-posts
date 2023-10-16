@@ -1,0 +1,31 @@
+tweet_id: 1713872222731796568
+masto_id: 111244342692582638
+subre_id: Not uploaded, but here's the text: How's your day?  #Nature #Fractals
+
+newton_power: 3
+newton_const: 1
+
+n_iter: 233
+ct: 30
+hue_offset: 254
+saturation: -0.22
+
+num_attempts: 207
+dur: 602
+std: 3.88
+size: 491859 (480.33 KiB)
+
+xmin: -0.41195456447211987
+xmax: -0.33695456447211986
+ymin: -1.0160566908072144
+ymax: -0.9738691908072143
+
+contrast: 1.79
+brightness: 0.13
+saturation: 1.68
+gamma: 1.05
+gamma_r: 1.03
+gamma_g: 1.0
+gamma_b: 1.04
+vignette: 4
+temp: 7714
