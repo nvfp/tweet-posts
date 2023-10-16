@@ -1,0 +1,28 @@
+tweet_id: 1714018952676798769
+masto_id: 111246635333495174
+subre_id: Not uploaded, but here's the text: Shine bright like the sun on this Monday!  #VisualArt #Programming
+
+n_iter: 416
+ct: 1
+hue_offset: 80
+saturation: -0.5
+
+num_attempts: 354
+dur: 600
+std: 37.3
+size: 606168 (591.96 KiB)
+
+xmin: -0.6311413431866744
+xmax: -0.6118176716890898
+ymin: 0.516827848891869
+ymax: 0.5276974141092603
+
+contrast: 0.81
+brightness: 0.14
+saturation: 0.3
+gamma: 0.9
+gamma_r: 0.95
+gamma_g: 0.9
+gamma_b: 0.93
+vignette: -6
+temp: 7835
