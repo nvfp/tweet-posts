@@ -1,0 +1,28 @@
+tweet_id: 1713829899373510708
+masto_id: 111243681259924631
+subre_id: Not uploaded, but here's the text: Hope you're having a great Monday!  #DigitalArt #Fractals
+
+n_iter: 410
+ct: 164
+hue_offset: 134
+saturation: -0.2
+
+num_attempts: 33
+dur: 14
+std: 60.0
+size: 2048566 (1.95 MiB)
+
+xmin: -1.091813041126834
+xmax: -1.0468130411268342
+ymin: -0.4963225542759495
+ymax: -0.4710100542759495
+
+contrast: 1.14
+brightness: -0.05
+saturation: 0.55
+gamma: 1.04
+gamma_r: 1.03
+gamma_g: 0.97
+gamma_b: 0.96
+vignette: -42
+temp: 4492
