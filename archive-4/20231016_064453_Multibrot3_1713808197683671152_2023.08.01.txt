@@ -1,0 +1,28 @@
+tweet_id: 1713808197683671152
+masto_id: 111243342206581800
+subre_id: Not uploaded, but here's the text: Wishing you a rad Monday!  #Mathematics #DeepLearning
+
+n_iter: 315
+ct: 255
+hue_offset: 156
+saturation: 0.48
+
+num_attempts: 414
+dur: 600
+std: 42.58
+size: 677446 (661.57 KiB)
+
+xmin: -0.24217084048346016
+xmax: -0.21318533323708336
+ymin: 0.7311902245186266
+ymax: 0.7474945723447135
+
+contrast: 1.36
+brightness: 0.01
+saturation: 0.43
+gamma: 0.94
+gamma_r: 0.92
+gamma_g: 0.91
+gamma_b: 0.98
+vignette: -4
+temp: 4369
