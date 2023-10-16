@@ -1,0 +1,28 @@
+tweet_id: 1713773094483956108
+masto_id: 111242793668700309
+subre_id: Not uploaded, but here's the text: Warm wishes for your Monday, and let's have a look at this Mandelbrot Set.  #DigitalArt #Fractals
+
+n_iter: 217
+ct: 157
+hue_offset: 340
+saturation: -0.72
+
+num_attempts: 28
+dur: 12
+std: 19.04
+size: 346403 (338.28 KiB)
+
+xmin: -1.3440637249284193
+xmax: -0.6773970582617527
+ymin: -0.31583472947246494
+ymax: 0.05916527052753506
+
+contrast: 1.53
+brightness: 0.14
+saturation: 0.29
+gamma: 0.93
+gamma_r: 1.06
+gamma_g: 0.97
+gamma_b: 0.96
+vignette: -8
+temp: 2557
