@@ -1,0 +1,28 @@
+tweet_id: 1714044780181668057
+masto_id: 111247038917496445
+subre_id: Not uploaded, but here's the text: Wow, take a look! There's Mandelbrot Set!  #DeepLearning #Fractals
+
+n_iter: 619
+ct: 163
+hue_offset: 229
+saturation: 0.41
+
+num_attempts: 41
+dur: 45
+std: 33.82
+size: 811956 (792.93 KiB)
+
+xmin: -0.32849409240000504
+xmax: -0.2911109148299116
+ymin: 0.6536545981103001
+ymax: 0.6746826354934777
+
+contrast: 1.07
+brightness: 0.07
+saturation: 0.31
+gamma: 0.96
+gamma_r: 1.01
+gamma_g: 1.06
+gamma_b: 0.98
+vignette: -12
+temp: 5812
