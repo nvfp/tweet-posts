@@ -1,0 +1,28 @@
+tweet_id: 1713902416775590149
+masto_id: 111244814332375480
+subre_id: Not uploaded, but here's the text: Warm wishes for your Monday, and let's have a look at this Multibrot.  #Mathematics #DeepLearning
+
+n_iter: 377
+ct: 255
+hue_offset: 77
+saturation: -0.87
+
+num_attempts: 387
+dur: 607
+std: 52.16
+size: 518927 (506.76 KiB)
+
+xmin: 0.5394536426062455
+xmax: 0.5457528552046707
+ymin: -0.24629327078158925
+ymax: -0.24274996369497506
+
+contrast: 1.55
+brightness: 0.02
+saturation: 1.43
+gamma: 0.95
+gamma_r: 0.91
+gamma_g: 1.09
+gamma_b: 0.99
+vignette: -28
+temp: 5014
