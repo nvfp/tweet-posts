@@ -1,0 +1,28 @@
+tweet_id: 1713769063498035351
+masto_id: 111242730699306237
+subre_id: Not uploaded, but here's the text: You are lovely!  #Programming #Nature
+
+n_iter: 469
+ct: 181
+hue_offset: 308
+saturation: 0.19
+
+num_attempts: 8
+dur: 2
+std: 20.68
+size: 272501 (266.11 KiB)
+
+xmin: -2.3405475747761733
+xmax: -0.8405475747761733
+ymin: -1.295314964977825
+ymax: -0.45156496497782506
+
+contrast: 1.2
+brightness: -0.08
+saturation: 0.76
+gamma: 1.07
+gamma_r: 1.04
+gamma_g: 1.08
+gamma_b: 0.98
+vignette: -46
+temp: 2352
