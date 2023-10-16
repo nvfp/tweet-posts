@@ -1,0 +1,28 @@
+tweet_id: 1713732256173371524
+masto_id: 111242155529615995
+subre_id: Not uploaded, but here's the text: Smile, it's Monday!  #Art #VisualArt
+
+n_iter: 532
+ct: 1
+hue_offset: 359
+saturation: -0.06
+
+num_attempts: 321
+dur: 610
+std: 54.54
+size: 265581 (259.36 KiB)
+
+xmin: 0.5972755468746356
+xmax: 0.6021835223347582
+ymin: -0.25089981347334156
+ymax: -0.24813907727702253
+
+contrast: 1.18
+brightness: -0.06
+saturation: 0.91
+gamma: 1.1
+gamma_r: 1.1
+gamma_g: 0.94
+gamma_b: 0.96
+vignette: 21
+temp: 4403
