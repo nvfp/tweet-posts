@@ -1,0 +1,28 @@
+tweet_id: 1714413242242547724
+masto_id: 111252796076659120
+subre_id: Not uploaded, but here's the text: you're awesome!  #Science #VisualArt
+
+n_iter: 356
+ct: 255
+hue_offset: 183
+saturation: 0.06
+
+num_attempts: 403
+dur: 605
+std: 47.18
+size: 989388 (966.2 KiB)
+
+xmin: 0.5517880521502758
+xmax: 0.55671416052466
+ymin: -0.3887119467707152
+ymax: -0.38594101081012405
+
+contrast: 1.08
+brightness: 0.16
+saturation: 1.35
+gamma: 1.08
+gamma_r: 0.99
+gamma_g: 1.0
+gamma_b: 0.97
+vignette: 8
+temp: 6399
