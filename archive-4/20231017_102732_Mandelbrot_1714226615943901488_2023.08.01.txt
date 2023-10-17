@@ -1,0 +1,28 @@
+tweet_id: 1714226615943901488
+masto_id: 111249880004522859
+subre_id: Not uploaded, but here's the text: Another Tuesday, another Mandelbrot Set!  #Fractals #DeepLearning
+
+n_iter: 702
+ct: 202
+hue_offset: 332
+saturation: -0.09
+
+num_attempts: 1
+dur: 5
+std: 144.85
+size: 1550136 (1.48 MiB)
+
+xmin: 0.13294441051050088
+xmax: 0.13355941666056237
+ymin: -0.5878681740323786
+ymax: -0.587522233072969
+
+contrast: 1.01
+brightness: 0.05
+saturation: 0.49
+gamma: 0.97
+gamma_r: 0.98
+gamma_g: 0.93
+gamma_b: 0.97
+vignette: -23
+temp: 7271
