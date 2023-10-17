@@ -1,0 +1,31 @@
+tweet_id: 1714415754282520596
+masto_id: 111252835527606045
+subre_id: Not uploaded, but here's the text: Having a blast on Tuesday?  #Nature #VisualArt
+
+newton_power: 5
+newton_const: 7
+
+n_iter: 241
+ct: 77
+hue_offset: 75
+saturation: 0.28
+
+num_attempts: 115
+dur: 611
+std: 10.18
+size: 986998 (963.87 KiB)
+
+xmin: 0.4997587688968137
+xmax: 0.5291705336026961
+ymin: 1.178888450875831
+ymax: 1.19543256852289
+
+contrast: 1.18
+brightness: 0.08
+saturation: 0.95
+gamma: 0.96
+gamma_r: 0.92
+gamma_g: 1.0
+gamma_b: 1.02
+vignette: 15
+temp: 2356
