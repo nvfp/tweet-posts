@@ -1,0 +1,28 @@
+tweet_id: 1714290840385069284
+masto_id: 111250883586485227
+subre_id: Not uploaded, but here's the text: Enjoying the Tuesday with this Multibrot.  #AI #VisualArt
+
+n_iter: 307
+ct: 1
+hue_offset: 151
+saturation: -0.33
+
+num_attempts: 386
+dur: 600
+std: 41.75
+size: 917097 (895.6 KiB)
+
+xmin: 0.6139400480780104
+xmax: 0.6182272935228121
+ymin: -0.30226414238649246
+ymax: -0.2998525668237915
+
+contrast: 0.92
+brightness: 0.02
+saturation: 0.82
+gamma: 1.09
+gamma_r: 0.97
+gamma_g: 1.09
+gamma_b: 1.05
+vignette: -8
+temp: 2019
