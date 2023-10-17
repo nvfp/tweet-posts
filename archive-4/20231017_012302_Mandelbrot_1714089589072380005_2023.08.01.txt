@@ -1,0 +1,28 @@
+tweet_id: 1714089589072380005
+masto_id: 111247738977578035
+subre_id: Not uploaded, but here's the text: This Tuesday is made even better by this Mandelbrot Set!  #Math #Art
+
+n_iter: 309
+ct: 3
+hue_offset: 19
+saturation: -0.99
+
+num_attempts: 107
+dur: 68
+std: 81.87
+size: 1657686 (1.58 MiB)
+
+xmin: -0.6069653959146177
+xmax: -0.606466331660095
+ymin: -0.4442599631741475
+ymax: -0.44397923953097845
+
+contrast: 0.99
+brightness: -0.03
+saturation: 0.72
+gamma: 0.94
+gamma_r: 1.09
+gamma_g: 0.93
+gamma_b: 0.95
+vignette: -22
+temp: 3562
