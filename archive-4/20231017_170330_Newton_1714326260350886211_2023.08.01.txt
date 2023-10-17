@@ -1,0 +1,31 @@
+tweet_id: 1714326260350886211
+masto_id: 111251437011983705
+subre_id: Not uploaded, but here's the text: You are lovely!  #AI #Math
+
+newton_power: 7
+newton_const: 0
+
+n_iter: 116
+ct: 63
+hue_offset: 213
+saturation: 0.26
+
+num_attempts: 104
+dur: 858
+std: 2.45
+size: 91869 (89.72 KiB)
+
+xmin: -0.6601792485430229
+xmax: 0.1969636085998342
+ymin: -0.6202460415857092
+ymax: -0.13810318444285208
+
+contrast: 1.35
+brightness: 0.22
+saturation: 0.86
+gamma: 1.01
+gamma_r: 1.09
+gamma_g: 0.92
+gamma_b: 1.06
+vignette: -1
+temp: 7212
