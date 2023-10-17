@@ -1,0 +1,28 @@
+tweet_id: 1714264646079668330
+masto_id: 111250474302618967
+subre_id: Not uploaded, but here's the text: Having a blast on Tuesday?  #Art #AI
+
+n_iter: 468
+ct: 255
+hue_offset: 251
+saturation: 0.18
+
+num_attempts: 277
+dur: 602
+std: 34.19
+size: 861609 (841.42 KiB)
+
+xmin: -0.18817368776192422
+xmax: -0.15181005139828785
+ymin: -1.1157862488153936
+ymax: -1.095331703360848
+
+contrast: 1.22
+brightness: 0.16
+saturation: 1.1
+gamma: 1.08
+gamma_r: 1.07
+gamma_g: 1.02
+gamma_b: 1.05
+vignette: -25
+temp: 4390
