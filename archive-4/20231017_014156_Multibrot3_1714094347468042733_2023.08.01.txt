@@ -1,0 +1,28 @@
+tweet_id: 1714094347468042733
+masto_id: 111247813270418123
+subre_id: Not uploaded, but here's the text: Brighten your Tuesday!  #Science #MachineLearning
+
+n_iter: 379
+ct: 1
+hue_offset: 261
+saturation: 0.46
+
+num_attempts: 429
+dur: 601
+std: 50.88
+size: 691666 (675.46 KiB)
+
+xmin: 0.22623595159725474
+xmax: 0.23042882371465515
+ymin: 1.0502956445470701
+ymax: 1.0526541351131078
+
+contrast: 1.54
+brightness: 0.17
+saturation: 0.64
+gamma: 0.93
+gamma_r: 0.92
+gamma_g: 0.92
+gamma_b: 1.03
+vignette: 0
+temp: 6016
