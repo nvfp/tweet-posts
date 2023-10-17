@@ -1,0 +1,31 @@
+tweet_id: 1714234515646751077
+masto_id: 111250003519491415
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Tuesday!  #AI #Programming
+
+newton_power: 3
+newton_const: -10
+
+n_iter: 155
+ct: 16
+hue_offset: 347
+saturation: 0.55
+
+num_attempts: 284
+dur: 600
+std: 4.48
+size: 644031 (628.94 KiB)
+
+xmin: -1.1491019383706322
+xmax: -1.1402913656834075
+ymin: -0.45724154766953196
+ymax: -0.45228560053296807
+
+contrast: 1.7
+brightness: 0.19
+saturation: 0.9
+gamma: 0.98
+gamma_r: 1.06
+gamma_g: 0.95
+gamma_b: 1.03
+vignette: -9
+temp: 3566
