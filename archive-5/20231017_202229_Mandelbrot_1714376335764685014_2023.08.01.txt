@@ -1,0 +1,28 @@
+tweet_id: 1714376335764685014
+masto_id: 111252219424792202
+subre_id: Not uploaded, but here's the text: Enjoying the Tuesday with this Mandelbrot Set.  #Art #Math
+
+n_iter: 469
+ct: 141
+hue_offset: 345
+saturation: 0.5
+
+num_attempts: 34
+dur: 34
+std: 89.76
+size: 747432 (729.91 KiB)
+
+xmin: 0.34853194421459177
+xmax: 0.3498119442145918
+ymin: -0.3512320188887619
+ymax: -0.3505120188887619
+
+contrast: 0.94
+brightness: -0.06
+saturation: 1.24
+gamma: 0.91
+gamma_r: 1.03
+gamma_g: 1.02
+gamma_b: 0.9
+vignette: -46
+temp: 5465
