@@ -1,0 +1,28 @@
+tweet_id: 1714106220649553969
+masto_id: 111247998988417920
+subre_id: Not uploaded, but here's the text: Have an extraordinary Tuesday!  #DigitalArt #VisualArt
+
+n_iter: 647
+ct: 249
+hue_offset: 222
+saturation: -0.09
+
+num_attempts: 84
+dur: 74
+std: 40.94
+size: 839497 (819.82 KiB)
+
+xmin: -0.9799879387510535
+xmax: -0.9783795752609047
+ymin: 0.26414679968339394
+ymax: 0.2650515041466026
+
+contrast: 1.27
+brightness: 0.02
+saturation: 1.16
+gamma: 0.94
+gamma_r: 1.01
+gamma_g: 1.04
+gamma_b: 1.09
+vignette: 7
+temp: 3350
