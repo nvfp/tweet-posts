@@ -1,0 +1,28 @@
+tweet_id: 1714351700406882685
+masto_id: 111251834379511480
+subre_id: Not uploaded, but here's the text: Have an awesome Tuesday!  #Art #Science
+
+n_iter: 547
+ct: 1
+hue_offset: 224
+saturation: -0.32
+
+num_attempts: 300
+dur: 601
+std: 87.6
+size: 631405 (616.61 KiB)
+
+xmin: -0.3693890438257508
+xmax: -0.36360033181417334
+ymin: 0.6390529817599648
+ymax: 0.6423091322664771
+
+contrast: 1.27
+brightness: 0.01
+saturation: 0.86
+gamma: 0.99
+gamma_r: 1.07
+gamma_g: 0.92
+gamma_b: 1.02
+vignette: 19
+temp: 3496
