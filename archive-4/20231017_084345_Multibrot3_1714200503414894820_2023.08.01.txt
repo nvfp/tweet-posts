@@ -1,0 +1,28 @@
+tweet_id: 1714200503414894820
+masto_id: 111249471926674003
+subre_id: Not uploaded, but here's the text: Let the magic of Tuesday fill your heart!  #VisualArt #AI
+
+n_iter: 506
+ct: 255
+hue_offset: 177
+saturation: 0.85
+
+num_attempts: 403
+dur: 610
+std: 75.4
+size: 967225 (944.56 KiB)
+
+xmin: 0.5523166724503641
+xmax: 0.5565051541257567
+ymin: 0.38441898149325726
+ymax: 0.38677500243566565
+
+contrast: 1.25
+brightness: -0.05
+saturation: 0.98
+gamma: 1.05
+gamma_r: 1.07
+gamma_g: 0.91
+gamma_b: 1.02
+vignette: 19
+temp: 3691
