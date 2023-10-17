@@ -1,0 +1,28 @@
+tweet_id: 1714407312188748087
+masto_id: 111252703285611362
+subre_id: Not uploaded, but here's the text: Ever heard of this Mandelbrot Set?  #DeepLearning #Programming
+
+n_iter: 505
+ct: 69
+hue_offset: 222
+saturation: -0.38
+
+num_attempts: 90
+dur: 90
+std: 127.15
+size: 656341 (640.96 KiB)
+
+xmin: 0.3840687669136549
+xmax: 0.3847167500660929
+ymin: -0.15285847458822854
+ymax: -0.15249398406498216
+
+contrast: 1.14
+brightness: -0.06
+saturation: 1.32
+gamma: 0.9
+gamma_r: 1.03
+gamma_g: 1.02
+gamma_b: 0.92
+vignette: -40
+temp: 2107
