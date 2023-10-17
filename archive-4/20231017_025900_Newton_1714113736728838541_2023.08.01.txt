@@ -1,0 +1,31 @@
+tweet_id: 1714113736728838541
+masto_id: 111248116309744760
+subre_id: Not uploaded, but here's the text: Enjoy your Tuesday!  #Science #Art
+
+newton_power: 6
+newton_const: -2
+
+n_iter: 132
+ct: 60
+hue_offset: 301
+saturation: 0.32
+
+num_attempts: 90
+dur: 604
+std: 13.53
+size: 1253277 (1.2 MiB)
+
+xmin: -2.548258468623794
+xmax: -2.523465080194042
+ymin: 1.4622722981005856
+ymax: 1.476218579092321
+
+contrast: 1.72
+brightness: -0.01
+saturation: 0.8
+gamma: 0.92
+gamma_r: 1.09
+gamma_g: 0.97
+gamma_b: 1.03
+vignette: -21
+temp: 5050
