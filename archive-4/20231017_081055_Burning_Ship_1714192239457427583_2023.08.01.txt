@@ -1,0 +1,28 @@
+tweet_id: 1714192239457427583
+masto_id: 111249342845476329
+subre_id: Not uploaded, but here's the text: Hello Tuesday! This Burning Ship is yours!  #Art #AI
+
+n_iter: 138
+ct: 101
+hue_offset: 329
+saturation: -0.04
+
+num_attempts: 107
+dur: 44
+std: 22.7
+size: 1581693 (1.51 MiB)
+
+xmin: -0.8668033375132598
+xmax: -0.7668033375132598
+ymin: -0.7444901410311975
+ymax: -0.6882401410311975
+
+contrast: 1.37
+brightness: 0.06
+saturation: 1.49
+gamma: 0.92
+gamma_r: 0.98
+gamma_g: 1.02
+gamma_b: 0.98
+vignette: 24
+temp: 5709
