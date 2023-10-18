@@ -1,0 +1,28 @@
+tweet_id: 1714465436182687799
+masto_id: 111253611685498514
+subre_id: Not uploaded, but here's the text: Have an extraordinary Wednesday!  #DigitalArt #Mathematics
+
+n_iter: 500
+ct: 94
+hue_offset: 105
+saturation: -0.92
+
+num_attempts: 11
+dur: 8
+std: 27.21
+size: 791889 (773.33 KiB)
+
+xmin: -0.5447725985225831
+xmax: 1.705227401477417
+ymin: -1.873564512323189
+ymax: -0.607939512323189
+
+contrast: 0.8
+brightness: 0.18
+saturation: 0.71
+gamma: 1.08
+gamma_r: 1.09
+gamma_g: 0.97
+gamma_b: 1.07
+vignette: -12
+temp: 4353
