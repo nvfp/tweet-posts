@@ -1,0 +1,28 @@
+tweet_id: 1714709947806629912
+masto_id: 111257432141949561
+subre_id: Not uploaded, but here's the text: Hope your Wednesday is awesome!  #AI #Science
+
+n_iter: 870
+ct: 153
+hue_offset: 300
+saturation: 0.96
+
+num_attempts: 34
+dur: 43
+std: 15.46
+size: 957105 (934.67 KiB)
+
+xmin: 0.4252400698708554
+xmax: 0.42594778395436567
+ymin: 0.3424880581167338
+ymax: 0.3428861472887083
+
+contrast: 1.63
+brightness: 0.19
+saturation: 1.46
+gamma: 1.09
+gamma_r: 1.0
+gamma_g: 1.0
+gamma_b: 1.05
+vignette: -44
+temp: 2491
