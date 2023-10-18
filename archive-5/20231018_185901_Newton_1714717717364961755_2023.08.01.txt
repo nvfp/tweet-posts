@@ -1,0 +1,31 @@
+tweet_id: 1714717717364961755
+masto_id: 111257553587275894
+subre_id: Not uploaded, but here's the text: You rock, and so does this Wednesday!  #Mathematics #Programming
+
+newton_power: 3
+newton_const: -4
+
+n_iter: 92
+ct: 94
+hue_offset: 234
+saturation: -0.21
+
+num_attempts: 249
+dur: 600
+std: 4.37
+size: 889120 (868.28 KiB)
+
+xmin: -0.07951672067523852
+xmax: -0.06706858789515553
+ymin: 0.03775851309962919
+ymax: 0.04476058778842587
+
+contrast: 0.88
+brightness: -0.08
+saturation: 0.81
+gamma: 0.93
+gamma_r: 1.05
+gamma_g: 0.91
+gamma_b: 0.98
+vignette: -37
+temp: 6842
