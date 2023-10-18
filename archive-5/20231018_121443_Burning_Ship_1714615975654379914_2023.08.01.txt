@@ -1,0 +1,28 @@
+tweet_id: 1714615975654379914
+masto_id: 111255963789844065
+subre_id: Not uploaded, but here's the text: Warm wishes for your Wednesday, and let's have a look at this Burning Ship.  #DigitalArt #VisualArt
+
+n_iter: 289
+ct: 218
+hue_offset: 354
+saturation: -0.11
+
+num_attempts: 40
+dur: 27
+std: 33.33
+size: 1147697 (1.09 MiB)
+
+xmin: -0.13649445361027546
+xmax: -0.08161640482978766
+ymin: -0.9952324045393739
+ymax: -0.9643635021003495
+
+contrast: 1.72
+brightness: 0.12
+saturation: 0.75
+gamma: 0.96
+gamma_r: 0.93
+gamma_g: 1.09
+gamma_b: 0.93
+vignette: -28
+temp: 3042
