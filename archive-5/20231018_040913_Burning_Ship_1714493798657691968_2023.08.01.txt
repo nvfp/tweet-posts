@@ -1,0 +1,28 @@
+tweet_id: 1714493798657691968
+masto_id: 111254054720465735
+subre_id: Not uploaded, but here's the text: Guess what? It's Burning Ship!  #Mathematics #Nature
+
+n_iter: 504
+ct: 155
+hue_offset: 72
+saturation: 0.42
+
+num_attempts: 2
+dur: 5
+std: 64.33
+size: 855836 (835.78 KiB)
+
+xmin: -0.9460262428948265
+xmax: -0.6813203605418854
+ymin: -0.6605014012362254
+ymax: -0.5116043424126959
+
+contrast: 1.03
+brightness: 0.05
+saturation: 1.14
+gamma: 0.96
+gamma_r: 1.0
+gamma_g: 1.06
+gamma_b: 0.98
+vignette: -45
+temp: 2365
