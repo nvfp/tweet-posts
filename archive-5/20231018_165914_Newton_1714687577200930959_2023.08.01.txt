@@ -1,0 +1,31 @@
+tweet_id: 1714687577200930959
+masto_id: 111257082576566083
+subre_id: Not uploaded, but here's the text: you are fantastic!  #DigitalArt #Programming
+
+newton_power: 6
+newton_const: -4
+
+n_iter: 106
+ct: 212
+hue_offset: 221
+saturation: -0.44
+
+num_attempts: 79
+dur: 606
+std: 15.72
+size: 1252839 (1.19 MiB)
+
+xmin: -0.030415426893601882
+xmax: 0.2552988588206838
+ymin: -1.3564317852179046
+ymax: -1.195717499503619
+
+contrast: 1.62
+brightness: 0.23
+saturation: 1.5
+gamma: 0.9
+gamma_r: 0.91
+gamma_g: 0.93
+gamma_b: 1.07
+vignette: 29
+temp: 7429
