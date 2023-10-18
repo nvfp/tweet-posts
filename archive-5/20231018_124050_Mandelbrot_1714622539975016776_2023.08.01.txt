@@ -1,0 +1,28 @@
+tweet_id: 1714622539975016776
+masto_id: 111256066454547355
+subre_id: Not uploaded, but here's the text: Let this Mandelbrot Set inspire your Wednesday.  #AI #Fractals
+
+n_iter: 169
+ct: 203
+hue_offset: 237
+saturation: -0.14
+
+num_attempts: 89
+dur: 47
+std: 32.68
+size: 824276 (804.96 KiB)
+
+xmin: 0.35897198179549283
+xmax: 0.365989525655142
+ymin: 0.3079069597050488
+ymax: 0.3118543281261014
+
+contrast: 1.09
+brightness: 0.1
+saturation: 1.61
+gamma: 1.04
+gamma_r: 1.02
+gamma_g: 1.07
+gamma_b: 1.01
+vignette: -33
+temp: 3518
