@@ -1,0 +1,28 @@
+tweet_id: 1714589459704881535
+masto_id: 111255549761369992
+subre_id: Not uploaded, but here's the text: Wishing you a rad Wednesday!  #Art #AI
+
+n_iter: 710
+ct: 51
+hue_offset: 175
+saturation: -0.24
+
+num_attempts: 114
+dur: 155
+std: 34.32
+size: 1096142 (1.05 MiB)
+
+xmin: 0.40347600106943027
+xmax: 0.40414951512903624
+ymin: 0.23305054123370694
+ymax: 0.23342939289223533
+
+contrast: 1.61
+brightness: 0.03
+saturation: 0.3
+gamma: 0.95
+gamma_r: 1.04
+gamma_g: 1.09
+gamma_b: 0.98
+vignette: 13
+temp: 2668
