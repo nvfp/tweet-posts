@@ -1,0 +1,28 @@
+tweet_id: 1714765001427193870
+masto_id: 111258292225678064
+subre_id: Not uploaded, but here's the text: Wow, guess what? it's Burning Ship!  #VisualArt #Science
+
+n_iter: 340
+ct: 193
+hue_offset: 148
+saturation: -0.21
+
+num_attempts: 7
+dur: 2
+std: 23.75
+size: 1987594 (1.9 MiB)
+
+xmin: -0.641173365912135
+xmax: -0.5888477845167862
+ymin: -1.0120734021030242
+ymax: -0.9826402625681405
+
+contrast: 1.65
+brightness: 0.14
+saturation: 0.87
+gamma: 0.93
+gamma_r: 1.03
+gamma_g: 0.91
+gamma_b: 1.03
+vignette: -35
+temp: 5055
