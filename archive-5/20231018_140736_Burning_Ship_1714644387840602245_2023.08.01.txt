@@ -1,0 +1,28 @@
+tweet_id: 1714644387840602245
+masto_id: 111256407675490552
+subre_id: Not uploaded, but here's the text: Chin up, lovely humans!  #MachineLearning #Programming
+
+n_iter: 270
+ct: 197
+hue_offset: 270
+saturation: 0.38
+
+num_attempts: 16
+dur: 12
+std: 27.51
+size: 967680 (945.0 KiB)
+
+xmin: -0.4675042861734853
+xmax: -0.4163679225371216
+ymin: -0.8335366495259038
+ymax: -0.8047724449804492
+
+contrast: 1.42
+brightness: 0.04
+saturation: 1.07
+gamma: 0.96
+gamma_r: 1.04
+gamma_g: 1.08
+gamma_b: 0.96
+vignette: 13
+temp: 6661
