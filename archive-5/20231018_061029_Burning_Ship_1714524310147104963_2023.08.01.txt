@@ -1,0 +1,28 @@
+tweet_id: 1714524310147104963
+masto_id: 111254531537242801
+subre_id: Not uploaded, but here's the text: Keep shining on Wednesday!  #Science #Programming
+
+n_iter: 182
+ct: 62
+hue_offset: 153
+saturation: 0.78
+
+num_attempts: 2
+dur: 1
+std: 20.48
+size: 885466 (864.71 KiB)
+
+xmin: -1.0108387984162102
+xmax: 0.48916120158378984
+ymin: -1.5379277337482344
+ymax: -0.6941777337482344
+
+contrast: 0.82
+brightness: -0.02
+saturation: 0.67
+gamma: 1.0
+gamma_r: 1.09
+gamma_g: 1.03
+gamma_b: 1.0
+vignette: 14
+temp: 4403
