@@ -1,0 +1,31 @@
+tweet_id: 1714506314108252625
+masto_id: 111254250357486973
+subre_id: Not uploaded, but here's the text: Hope you're having a great Wednesday!  #DeepLearning #Mathematics
+
+newton_power: 4
+newton_const: 8
+
+n_iter: 68
+ct: 248
+hue_offset: 17
+saturation: -0.72
+
+num_attempts: 104
+dur: 603
+std: 6.37
+size: 1055473 (1.01 MiB)
+
+xmin: -1.3448536326839733
+xmax: -1.3380739716670242
+ymin: -0.0003612549003864096
+ymax: 0.0034523044216474884
+
+contrast: 0.73
+brightness: 0.1
+saturation: 1.29
+gamma: 0.91
+gamma_r: 1.02
+gamma_g: 1.04
+gamma_b: 1.0
+vignette: -40
+temp: 5343
