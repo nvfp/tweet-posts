@@ -1,0 +1,31 @@
+tweet_id: 1714458487688761600
+masto_id: 111253503026269554
+subre_id: Not uploaded, but here's the text: How was your day?  #Fractals #MachineLearning
+
+newton_power: 7
+newton_const: 1
+
+n_iter: 205
+ct: 243
+hue_offset: 161
+saturation: 0.34
+
+num_attempts: 70
+dur: 641
+std: 18.52
+size: 1047116 (1022.57 KiB)
+
+xmin: -0.32125839335818096
+xmax: -0.3108777705208107
+ymin: 0.7102432858691374
+ymax: 0.7160823862151582
+
+contrast: 1.59
+brightness: 0.19
+saturation: 0.92
+gamma: 1.09
+gamma_r: 0.96
+gamma_g: 1.02
+gamma_b: 1.05
+vignette: -19
+temp: 7420
