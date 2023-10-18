@@ -1,0 +1,28 @@
+tweet_id: 1714502023423402462
+masto_id: 111254183145240512
+subre_id: Not uploaded, but here's the text: Beautiful Wednesday with this Multibrot!  #MachineLearning #Mathematics
+
+n_iter: 637
+ct: 255
+hue_offset: 241
+saturation: 0.39
+
+num_attempts: 239
+dur: 608
+std: 65.22
+size: 395096 (385.84 KiB)
+
+xmin: 0.18333454537174898
+xmax: 0.1981493601865638
+ymin: 1.0270771389255318
+ymax: 1.035410472258865
+
+contrast: 1.48
+brightness: 0.03
+saturation: 1.71
+gamma: 1.02
+gamma_r: 1.05
+gamma_g: 1.02
+gamma_b: 0.91
+vignette: 30
+temp: 3564
