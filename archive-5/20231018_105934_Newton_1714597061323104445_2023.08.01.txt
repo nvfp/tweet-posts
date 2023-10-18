@@ -1,0 +1,31 @@
+tweet_id: 1714597061323104445
+masto_id: 111255668256632341
+subre_id: Not uploaded, but here's the text: Let this Newton inspire your Wednesday.  #DeepLearning #Programming
+
+newton_power: 6
+newton_const: 3
+
+n_iter: 70
+ct: 223
+hue_offset: 192
+saturation: -0.14
+
+num_attempts: 83
+dur: 616
+std: 14.62
+size: 669568 (653.88 KiB)
+
+xmin: 0.3474253936987486
+xmax: 0.3585778100556259
+ymin: 0.15193806432666968
+ymax: 0.15821129852741317
+
+contrast: 1.05
+brightness: -0.06
+saturation: 0.78
+gamma: 0.97
+gamma_r: 1.05
+gamma_g: 0.94
+gamma_b: 1.01
+vignette: -13
+temp: 3084
