@@ -1,0 +1,28 @@
+tweet_id: 1714593076818087956
+masto_id: 111255605930975359
+subre_id: Not uploaded, but here's the text: Smile on this lovely day!  #MachineLearning #VisualArt
+
+n_iter: 531
+ct: 1
+hue_offset: 31
+saturation: -0.61
+
+num_attempts: 276
+dur: 613
+std: 55.28
+size: 1054664 (1.01 MiB)
+
+xmin: -0.5583723010762871
+xmax: -0.5540102509127102
+ymin: -0.1403504703047358
+ymax: -0.1378968170877238
+
+contrast: 1.47
+brightness: 0.07
+saturation: 0.5
+gamma: 1.1
+gamma_r: 0.93
+gamma_g: 0.92
+gamma_b: 1.06
+vignette: -12
+temp: 7330
