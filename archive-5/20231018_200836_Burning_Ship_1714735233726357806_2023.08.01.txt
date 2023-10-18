@@ -1,0 +1,28 @@
+tweet_id: 1714735233726357806
+masto_id: 111257827142838500
+subre_id: Not uploaded, but here's the text: Feeling the Burning Ship vibes today!  #MachineLearning #Mathematics
+
+n_iter: 387
+ct: 193
+hue_offset: 108
+saturation: 0.72
+
+num_attempts: 42
+dur: 26
+std: 20.72
+size: 289520 (282.73 KiB)
+
+xmin: 0.34976153359492645
+xmax: 0.41593800418316174
+ymin: 0.09038191699896592
+ymax: 0.12760618170484828
+
+contrast: 1.22
+brightness: -0.05
+saturation: 1.55
+gamma: 0.97
+gamma_r: 0.95
+gamma_g: 0.94
+gamma_b: 1.07
+vignette: 28
+temp: 7431
