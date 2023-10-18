@@ -1,0 +1,31 @@
+tweet_id: 1714566698307551715
+masto_id: 111255193847230633
+subre_id: Not uploaded, but here's the text: Look closely, it's Newton!  #Fractals #Programming
+
+newton_power: 6
+newton_const: -5
+
+n_iter: 135
+ct: 165
+hue_offset: 227
+saturation: 0.33
+
+num_attempts: 81
+dur: 605
+std: 12.41
+size: 793114 (774.53 KiB)
+
+xmin: -0.2865541133840699
+xmax: -0.25825222659161706
+ymin: -0.2618203990002814
+ymax: -0.24590058767952672
+
+contrast: 0.75
+brightness: 0.03
+saturation: 0.46
+gamma: 0.92
+gamma_r: 1.09
+gamma_g: 1.07
+gamma_b: 1.09
+vignette: -11
+temp: 3918
