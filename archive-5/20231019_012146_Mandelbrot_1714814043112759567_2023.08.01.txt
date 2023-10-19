@@ -1,0 +1,28 @@
+tweet_id: 1714814043112759567
+masto_id: 111259058565224853
+subre_id: Not uploaded, but here's the text: Wishing you a wonderful Thursday!  #Mathematics #VisualArt
+
+n_iter: 1023
+ct: 146
+hue_offset: 249
+saturation: 0.92
+
+num_attempts: 27
+dur: 33
+std: 91.77
+size: 1749039 (1.67 MiB)
+
+xmin: -0.8918204923983022
+xmax: -0.8907964268581077
+ymin: 0.2352488008375826
+ymax: 0.23582483770394205
+
+contrast: 1.21
+brightness: 0.11
+saturation: 1.12
+gamma: 1.01
+gamma_r: 1.0
+gamma_g: 1.0
+gamma_b: 0.94
+vignette: -4
+temp: 6150
