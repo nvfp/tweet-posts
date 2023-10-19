@@ -1,0 +1,28 @@
+tweet_id: 1714818974586753123
+masto_id: 111259135633802393
+subre_id: Not uploaded, but here's the text: Enjoy your Thursday!  #DigitalArt #DeepLearning
+
+n_iter: 383
+ct: 1
+hue_offset: 96
+saturation: -0.36
+
+num_attempts: 336
+dur: 601
+std: 68.5
+size: 1319529 (1.26 MiB)
+
+xmin: -0.5481674432259958
+xmax: -0.5402623048860749
+ymin: 0.3372122341347856
+ymax: 0.34165887445099113
+
+contrast: 0.8
+brightness: -0.01
+saturation: 1.52
+gamma: 1.08
+gamma_r: 0.9
+gamma_g: 0.9
+gamma_b: 1.09
+vignette: -42
+temp: 2908
