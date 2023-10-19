@@ -1,0 +1,28 @@
+tweet_id: 1714860111859003498
+masto_id: 111259778569546818
+subre_id: Not uploaded, but here's the text: Today is awesome!  #DeepLearning #Fractals
+
+n_iter: 856
+ct: 222
+hue_offset: 78
+saturation: 0.92
+
+num_attempts: 7
+dur: 2
+std: 35.4
+size: 1179504 (1.12 MiB)
+
+xmin: 0.1418468569012128
+xmax: 0.14236796164326596
+ymin: -0.6199729440758812
+ymax: -0.6196798226584763
+
+contrast: 1.55
+brightness: 0.08
+saturation: 0.71
+gamma: 0.98
+gamma_r: 0.98
+gamma_g: 1.03
+gamma_b: 1.08
+vignette: -34
+temp: 3987
