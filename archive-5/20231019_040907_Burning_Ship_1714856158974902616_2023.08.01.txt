@@ -1,0 +1,28 @@
+tweet_id: 1714856158974902616
+masto_id: 111259716636372576
+subre_id: Not uploaded, but here's the text: Hello Thursday! This Burning Ship is yours!  #Programming #MachineLearning
+
+n_iter: 471
+ct: 177
+hue_offset: 229
+saturation: 0.46
+
+num_attempts: 4
+dur: 7
+std: 54.07
+size: 1203696 (1.15 MiB)
+
+xmin: -0.6672549284996845
+xmax: 0.23274507150031554
+ymin: -1.2765876475909845
+ymax: -0.7703376475909846
+
+contrast: 0.86
+brightness: -0.05
+saturation: 1.57
+gamma: 1.02
+gamma_r: 1.01
+gamma_g: 1.08
+gamma_b: 1.04
+vignette: -34
+temp: 7565
