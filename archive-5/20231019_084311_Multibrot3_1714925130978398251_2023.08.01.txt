@@ -1,0 +1,28 @@
+tweet_id: 1714925130978398251
+masto_id: 111260794328073311
+subre_id: Not uploaded, but here's the text: Multibrot vibes to brighten your Thursday.  #AI #Mathematics
+
+n_iter: 264
+ct: 1
+hue_offset: 67
+saturation: 0.9
+
+num_attempts: 515
+dur: 605
+std: 36.76
+size: 875970 (855.44 KiB)
+
+xmin: 0.5516851922644754
+xmax: 0.5568068311889313
+ymin: 0.17138969449172103
+ymax: 0.17427061638672744
+
+contrast: 1.75
+brightness: 0.01
+saturation: 1.33
+gamma: 1.09
+gamma_r: 1.03
+gamma_g: 0.98
+gamma_b: 0.96
+vignette: 9
+temp: 2399
