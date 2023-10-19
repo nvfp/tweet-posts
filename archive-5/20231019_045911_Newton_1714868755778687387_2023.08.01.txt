@@ -1,0 +1,31 @@
+tweet_id: 1714868755778687387
+masto_id: 111259913483527805
+subre_id: Not uploaded, but here's the text: Feeling good today!  #VisualArt #Mathematics
+
+newton_power: 6
+newton_const: -6
+
+n_iter: 98
+ct: 4
+hue_offset: 119
+saturation: 0.83
+
+num_attempts: 75
+dur: 600
+std: 15.84
+size: 997644 (974.26 KiB)
+
+xmin: -2.541431585750931
+xmax: -2.531296450615796
+ymin: 1.767995362091869
+ymax: 1.7736963756053825
+
+contrast: 0.9
+brightness: 0.18
+saturation: 1.13
+gamma: 1.06
+gamma_r: 0.96
+gamma_g: 1.01
+gamma_b: 1.03
+vignette: 23
+temp: 3157
