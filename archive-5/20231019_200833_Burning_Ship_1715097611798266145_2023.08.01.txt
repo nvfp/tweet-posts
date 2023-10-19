@@ -1,0 +1,28 @@
+tweet_id: 1715097611798266145
+masto_id: 111263489272511658
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Thursday! You got this!  #Fractals #Math
+
+n_iter: 206
+ct: 251
+hue_offset: 83
+saturation: -0.28
+
+num_attempts: 21
+dur: 13
+std: 30.21
+size: 761256 (743.41 KiB)
+
+xmin: -1.5704161151266316
+xmax: -1.3204161151266316
+ymin: -0.28870647949946004
+ymax: -0.14808147949946004
+
+contrast: 1.76
+brightness: -0.02
+saturation: 0.95
+gamma: 1.08
+gamma_r: 0.95
+gamma_g: 1.02
+gamma_b: 0.92
+vignette: 18
+temp: 7526
