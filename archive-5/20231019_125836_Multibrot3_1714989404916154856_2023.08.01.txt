@@ -1,0 +1,28 @@
+tweet_id: 1714989404916154856
+masto_id: 111261798628521989
+subre_id: Not uploaded, but here's the text: Brighten your Thursday!  #Math #AI
+
+n_iter: 386
+ct: 255
+hue_offset: 303
+saturation: -0.33
+
+num_attempts: 352
+dur: 603
+std: 51.94
+size: 883109 (862.41 KiB)
+
+xmin: 0.5007687499937585
+xmax: 0.5063475505516386
+ymin: -0.4684375034449899
+ymax: -0.46529942813118236
+
+contrast: 1.44
+brightness: -0.0
+saturation: 0.75
+gamma: 1.04
+gamma_r: 1.05
+gamma_g: 0.97
+gamma_b: 0.98
+vignette: 15
+temp: 5776
