@@ -1,0 +1,28 @@
+tweet_id: 1715127368661291195
+masto_id: 111263954255231021
+subre_id: Not uploaded, but here's the text: Keep shining on Thursday!  #Science #Fractals
+
+n_iter: 142
+ct: 184
+hue_offset: 317
+saturation: -0.66
+
+num_attempts: 5
+dur: 1
+std: 20.95
+size: 704951 (688.43 KiB)
+
+xmin: 0.58303135750934
+xmax: 0.6294231100866596
+ymin: -0.9543744550621007
+ymax: -0.9282790942373584
+
+contrast: 1.78
+brightness: 0.19
+saturation: 0.74
+gamma: 1.06
+gamma_r: 0.92
+gamma_g: 1.08
+gamma_b: 0.94
+vignette: -42
+temp: 7802
