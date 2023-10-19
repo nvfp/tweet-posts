@@ -1,0 +1,28 @@
+tweet_id: 1715015498885161020
+masto_id: 111262206240964038
+subre_id: Not uploaded, but here's the text: Today is awesome!  #Art #DeepLearning
+
+n_iter: 571
+ct: 1
+hue_offset: 209
+saturation: -0.68
+
+num_attempts: 245
+dur: 610
+std: 56.09
+size: 700192 (683.78 KiB)
+
+xmin: -0.5165871084540161
+xmax: -0.48605275730897796
+ymin: -0.46933307183529593
+ymax: -0.45215749931621196
+
+contrast: 1.43
+brightness: 0.18
+saturation: 1.33
+gamma: 1.04
+gamma_r: 1.06
+gamma_g: 1.03
+gamma_b: 1.05
+vignette: -48
+temp: 5232
