@@ -1,0 +1,28 @@
+tweet_id: 1714830615667753094
+masto_id: 111259317530836686
+subre_id: Not uploaded, but here's the text: Smile!  #DeepLearning #Programming
+
+n_iter: 405
+ct: 69
+hue_offset: 213
+saturation: -0.11
+
+num_attempts: 17
+dur: 11
+std: 15.4
+size: 1070701 (1.02 MiB)
+
+xmin: 0.33302761914765133
+xmax: 0.3341125120144807
+ymin: -0.48957566297087796
+ymax: -0.4889654107332864
+
+contrast: 0.81
+brightness: 0.04
+saturation: 1.01
+gamma: 1.07
+gamma_r: 1.04
+gamma_g: 0.91
+gamma_b: 0.93
+vignette: -9
+temp: 6660
