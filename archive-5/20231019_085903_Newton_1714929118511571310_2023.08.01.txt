@@ -1,0 +1,31 @@
+tweet_id: 1714929118511571310
+masto_id: 111260856706644479
+subre_id: Not uploaded, but here's the text: Thursday is shining brightly, just like this Newton.  #Math #MachineLearning
+
+newton_power: 3
+newton_const: 7
+
+n_iter: 189
+ct: 166
+hue_offset: 261
+saturation: 0.0
+
+num_attempts: 232
+dur: 601
+std: 3.64
+size: 730799 (713.67 KiB)
+
+xmin: -0.7504458723204093
+xmax: -0.73851744289695
+ymin: 0.6417757714957877
+ymax: 0.6484855130464835
+
+contrast: 1.11
+brightness: 0.17
+saturation: 0.82
+gamma: 0.96
+gamma_r: 0.96
+gamma_g: 1.03
+gamma_b: 1.08
+vignette: -32
+temp: 3106
