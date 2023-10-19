@@ -1,0 +1,31 @@
+tweet_id: 1715110291187605714
+masto_id: 111263687462037816
+subre_id: Not uploaded, but here's the text: Enjoying the Thursday with this Newton.  #DigitalArt #Science
+
+newton_power: 4
+newton_const: 3
+
+n_iter: 197
+ct: 231
+hue_offset: 116
+saturation: -0.61
+
+num_attempts: 133
+dur: 603
+std: 6.97
+size: 1014994 (991.21 KiB)
+
+xmin: -1.4422044754722048
+xmax: -1.2922044754722048
+ymin: 0.1441993884996715
+ymax: 0.2285743884996715
+
+contrast: 1.47
+brightness: 0.16
+saturation: 1.65
+gamma: 0.93
+gamma_r: 1.09
+gamma_g: 0.96
+gamma_b: 0.95
+vignette: -40
+temp: 7015
