@@ -1,0 +1,31 @@
+tweet_id: 1714898970684575860
+masto_id: 111260385451777973
+subre_id: Not uploaded, but here's the text: A great Thursday and a beautiful Newton.  #DeepLearning #Fractals
+
+newton_power: 3
+newton_const: -7
+
+n_iter: 225
+ct: 93
+hue_offset: 357
+saturation: -0.05
+
+num_attempts: 240
+dur: 602
+std: 4.49
+size: 56594 (55.27 KiB)
+
+xmin: -2.5410812560894005
+xmax: -2.496963609030577
+ymin: -0.430881636981036
+ymax: -0.40606546051044773
+
+contrast: 1.35
+brightness: 0.21
+saturation: 1.19
+gamma: 0.97
+gamma_r: 1.03
+gamma_g: 1.03
+gamma_b: 0.93
+vignette: 30
+temp: 7009
