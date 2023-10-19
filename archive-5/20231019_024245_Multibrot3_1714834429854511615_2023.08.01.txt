@@ -1,0 +1,28 @@
+tweet_id: 1714834429854511615
+masto_id: 111259377039053632
+subre_id: Not uploaded, but here's the text: Let this Multibrot brighten up your Thursday!  #Mathematics #Programming
+
+n_iter: 493
+ct: 1
+hue_offset: 119
+saturation: -0.26
+
+num_attempts: 296
+dur: 602
+std: 40.66
+size: 676218 (660.37 KiB)
+
+xmin: -0.6224894835851562
+xmax: -0.5828855231891166
+ymin: 0.29195875116085146
+ymax: 0.31423597888362376
+
+contrast: 1.74
+brightness: -0.06
+saturation: 0.27
+gamma: 1.07
+gamma_r: 1.05
+gamma_g: 0.98
+gamma_b: 0.94
+vignette: 29
+temp: 7970
