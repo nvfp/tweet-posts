@@ -1,0 +1,28 @@
+tweet_id: 1714916846527455701
+masto_id: 111260664878700268
+subre_id: Not uploaded, but here's the text: Enjoy your Thursday!  #Nature #DeepLearning
+
+n_iter: 413
+ct: 234
+hue_offset: 131
+saturation: -0.07
+
+num_attempts: 10
+dur: 5
+std: 51.36
+size: 657300 (641.89 KiB)
+
+xmin: -1.2202674552737962
+xmax: -0.4702674552737962
+ymin: -0.8223897774342128
+ymax: -0.4005147774342128
+
+contrast: 1.16
+brightness: 0.06
+saturation: 1.27
+gamma: 1.0
+gamma_r: 0.98
+gamma_g: 0.91
+gamma_b: 1.1
+vignette: 2
+temp: 3635
