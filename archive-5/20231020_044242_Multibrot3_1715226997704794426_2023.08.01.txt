@@ -1,0 +1,28 @@
+tweet_id: 1715226997704794426
+masto_id: 111265510995113835
+subre_id: Not uploaded, but here's the text: Feeling good today!  #Programming #Mathematics
+
+n_iter: 517
+ct: 255
+hue_offset: 221
+saturation: 0.92
+
+num_attempts: 308
+dur: 600
+std: 57.38
+size: 1099945 (1.05 MiB)
+
+xmin: 0.5670257538877443
+xmax: 0.5723449028239146
+ymin: -0.6376548418083322
+ymax: -0.6346628205317365
+
+contrast: 1.38
+brightness: 0.06
+saturation: 0.83
+gamma: 0.95
+gamma_r: 1.08
+gamma_g: 0.97
+gamma_b: 1.03
+vignette: -35
+temp: 3571
