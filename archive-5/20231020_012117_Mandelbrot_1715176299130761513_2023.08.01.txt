@@ -1,0 +1,28 @@
+tweet_id: 1715176299130761513
+masto_id: 111264719029336570
+subre_id: Not uploaded, but here's the text: Hope you have an amazing Friday!  #Art #Science
+
+n_iter: 876
+ct: 105
+hue_offset: 237
+saturation: -0.54
+
+num_attempts: 1
+dur: 0
+std: 39.19
+size: 1324022 (1.26 MiB)
+
+xmin: -0.4702925550064516
+xmax: -0.4457526777058381
+ymin: -0.6028795870993727
+ymax: -0.5890759061177776
+
+contrast: 0.73
+brightness: 0.04
+saturation: 0.84
+gamma: 1.01
+gamma_r: 1.07
+gamma_g: 1.06
+gamma_b: 0.98
+vignette: -37
+temp: 2735
