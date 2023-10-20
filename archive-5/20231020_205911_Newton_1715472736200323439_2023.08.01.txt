@@ -1,0 +1,31 @@
+tweet_id: 1715472736200323439
+masto_id: 111269350708294159
+subre_id: Not uploaded, but here's the text: Have an extraordinary Friday!  #DeepLearning #MachineLearning
+
+newton_power: 6
+newton_const: 5
+
+n_iter: 254
+ct: 98
+hue_offset: 320
+saturation: -0.61
+
+num_attempts: 96
+dur: 600
+std: 18.18
+size: 1250973 (1.19 MiB)
+
+xmin: 0.43254917287581796
+xmax: 0.45664555841798665
+ymin: -0.7534490863576233
+ymax: -0.7398948694901535
+
+contrast: 0.91
+brightness: -0.01
+saturation: 1.03
+gamma: 1.08
+gamma_r: 1.07
+gamma_g: 1.01
+gamma_b: 0.94
+vignette: -25
+temp: 3196
