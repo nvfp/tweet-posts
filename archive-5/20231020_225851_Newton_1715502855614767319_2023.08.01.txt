@@ -1,0 +1,31 @@
+tweet_id: 1715502855614767319
+masto_id: 111269821256551877
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Friday! You got this!  #Mathematics #Math
+
+newton_power: 7
+newton_const: -8
+
+n_iter: 156
+ct: 39
+hue_offset: 100
+saturation: -0.62
+
+num_attempts: 81
+dur: 602
+std: 19.44
+size: 1332935 (1.27 MiB)
+
+xmin: 0.22290320424190746
+xmax: 0.3196773977902946
+ymin: -1.0040553422416647
+ymax: -0.949619858370697
+
+contrast: 1.04
+brightness: -0.04
+saturation: 0.44
+gamma: 0.91
+gamma_r: 1.02
+gamma_g: 0.96
+gamma_b: 0.96
+vignette: -22
+temp: 5427
