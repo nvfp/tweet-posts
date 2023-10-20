@@ -1,0 +1,28 @@
+tweet_id: 1715308891255271609
+masto_id: 111266790546497562
+subre_id: Not uploaded, but here's the text: Feeling the Burning Ship vibes today!  #Programming #DeepLearning
+
+n_iter: 327
+ct: 206
+hue_offset: 64
+saturation: 0.81
+
+num_attempts: 10
+dur: 5
+std: 45.85
+size: 833433 (813.9 KiB)
+
+xmin: -1.2034188039120424
+xmax: -1.0817971822904207
+ymin: -0.43851457637875835
+ymax: -0.3701024142165962
+
+contrast: 1.11
+brightness: -0.06
+saturation: 0.82
+gamma: 1.02
+gamma_r: 0.98
+gamma_g: 1.05
+gamma_b: 1.01
+vignette: -9
+temp: 4530
