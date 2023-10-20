@@ -1,0 +1,28 @@
+tweet_id: 1715317795456467032
+masto_id: 111266929712566790
+subre_id: Not uploaded, but here's the text: Hope you have an amazing Friday!  #Mathematics #Math
+
+n_iter: 414
+ct: 255
+hue_offset: 343
+saturation: 0.79
+
+num_attempts: 260
+dur: 605
+std: 48.5
+size: 1546518 (1.47 MiB)
+
+xmin: 0.20996237028913933
+xmax: 0.21677668034024666
+ymin: -0.7544577948522219
+ymax: -0.750624745448474
+
+contrast: 0.76
+brightness: 0.21
+saturation: 0.69
+gamma: 0.91
+gamma_r: 0.97
+gamma_g: 1.1
+gamma_b: 0.92
+vignette: -35
+temp: 7615
