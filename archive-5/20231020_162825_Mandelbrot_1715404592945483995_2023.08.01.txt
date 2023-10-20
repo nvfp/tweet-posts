@@ -1,0 +1,28 @@
+tweet_id: 1715404592945483995
+masto_id: 111268285985167720
+subre_id: Not uploaded, but here's the text: Another Friday, another Mandelbrot Set!  #Art #DigitalArt
+
+n_iter: 328
+ct: 136
+hue_offset: 302
+saturation: 0.93
+
+num_attempts: 48
+dur: 52
+std: 33.4
+size: 1161128 (1.11 MiB)
+
+xmin: 0.3470481055273762
+xmax: 0.35174845805381566
+ymin: -0.4179422304795458
+ymax: -0.41529828218342363
+
+contrast: 1.04
+brightness: 0.02
+saturation: 1.12
+gamma: 0.98
+gamma_r: 0.99
+gamma_g: 0.98
+gamma_b: 1.01
+vignette: -23
+temp: 2459
