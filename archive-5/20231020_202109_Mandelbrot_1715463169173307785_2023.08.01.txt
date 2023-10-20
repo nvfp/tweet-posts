@@ -1,0 +1,28 @@
+tweet_id: 1715463169173307785
+masto_id: 111269201139129212
+subre_id: Not uploaded, but here's the text: A great Friday and a beautiful Mandelbrot Set.  #VisualArt #Programming
+
+n_iter: 903
+ct: 143
+hue_offset: 81
+saturation: -0.4
+
+num_attempts: 10
+dur: 12
+std: 61.71
+size: 1719495 (1.64 MiB)
+
+xmin: -0.6560684259386433
+xmax: -0.6554208623964708
+ymin: -0.36799848088644127
+ymax: -0.3676342263939692
+
+contrast: 1.06
+brightness: 0.03
+saturation: 1.0
+gamma: 0.99
+gamma_r: 0.92
+gamma_g: 0.94
+gamma_b: 0.96
+vignette: -21
+temp: 4515
