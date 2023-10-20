@@ -1,0 +1,28 @@
+tweet_id: 1715498582030057763
+masto_id: 111269754514559818
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Friday! You got this!  #Mathematics #DeepLearning
+
+n_iter: 433
+ct: 255
+hue_offset: 260
+saturation: -0.27
+
+num_attempts: 320
+dur: 608
+std: 56.55
+size: 754255 (736.58 KiB)
+
+xmin: -0.21309217214024723
+xmax: -0.20684217214024722
+ymin: -1.053940664729084
+ymax: -1.0504250397290842
+
+contrast: 1.02
+brightness: 0.11
+saturation: 1.02
+gamma: 1.0
+gamma_r: 0.93
+gamma_g: 0.95
+gamma_b: 0.99
+vignette: -30
+temp: 4875
