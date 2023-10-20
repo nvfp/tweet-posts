@@ -1,0 +1,28 @@
+tweet_id: 1715192928673362009
+masto_id: 111264978701347225
+subre_id: Not uploaded, but here's the text: You rock, and so does this Friday!  #Programming #DigitalArt
+
+n_iter: 235
+ct: 254
+hue_offset: 277
+saturation: -0.61
+
+num_attempts: 42
+dur: 18
+std: 41.16
+size: 1044811 (1020.32 KiB)
+
+xmin: 0.3499843299888825
+xmax: 0.35238817614272866
+ymin: -0.41207024329058584
+ymax: -0.4107180798290474
+
+contrast: 1.4
+brightness: -0.03
+saturation: 0.68
+gamma: 1.05
+gamma_r: 1.1
+gamma_g: 1.0
+gamma_b: 1.01
+vignette: -5
+temp: 5511
