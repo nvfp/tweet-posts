@@ -1,0 +1,28 @@
+tweet_id: 1715459833909125357
+masto_id: 111269149197279617
+subre_id: Not uploaded, but here's the text: A great Friday and a beautiful Burning Ship.  #AI #DeepLearning
+
+n_iter: 498
+ct: 197
+hue_offset: 4
+saturation: -0.11
+
+num_attempts: 28
+dur: 15
+std: 53.6
+size: 1917575 (1.83 MiB)
+
+xmin: -0.5722307376128559
+xmax: -0.4055640709461893
+ymin: -0.9876721899148457
+ymax: -0.8939221899148457
+
+contrast: 0.94
+brightness: 0.07
+saturation: 1.12
+gamma: 0.97
+gamma_r: 1.01
+gamma_g: 0.91
+gamma_b: 1.07
+vignette: 19
+temp: 6198
