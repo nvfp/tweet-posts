@@ -1,0 +1,28 @@
+tweet_id: 1715429863232794963
+masto_id: 111268680919196873
+subre_id: Not uploaded, but here's the text: Hey wait, look! it's Burning Ship!  #MachineLearning #Mathematics
+
+n_iter: 358
+ct: 203
+hue_offset: 25
+saturation: 0.83
+
+num_attempts: 26
+dur: 14
+std: 34.4
+size: 722549 (705.61 KiB)
+
+xmin: -1.8024021705309266
+xmax: -1.3024021705309266
+ymin: -0.44586934527735944
+ymax: -0.16461934527735944
+
+contrast: 1.77
+brightness: 0.16
+saturation: 0.29
+gamma: 1.02
+gamma_r: 1.1
+gamma_g: 1.04
+gamma_b: 1.04
+vignette: -37
+temp: 4113
