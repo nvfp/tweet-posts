@@ -1,0 +1,31 @@
+tweet_id: 1715182865644662876
+masto_id: 111264821489876755
+subre_id: Not uploaded, but here's the text: Hey wait, look! it's Newton!  #Mathematics #Science
+
+newton_power: 4
+newton_const: 5
+
+n_iter: 137
+ct: 1
+hue_offset: 224
+saturation: -0.79
+
+num_attempts: 121
+dur: 601
+std: 7.37
+size: 605682 (591.49 KiB)
+
+xmin: -0.8241660130733979
+xmax: 0.6758339869266021
+ymin: -0.7215128761749585
+ymax: 0.12223712382504148
+
+contrast: 1.41
+brightness: 0.08
+saturation: 1.11
+gamma: 1.0
+gamma_r: 1.07
+gamma_g: 1.08
+gamma_b: 0.95
+vignette: 8
+temp: 2178
