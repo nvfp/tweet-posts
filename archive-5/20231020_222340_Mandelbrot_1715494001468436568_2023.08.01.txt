@@ -1,0 +1,28 @@
+tweet_id: 1715494001468436568
+masto_id: 111269682924010064
+subre_id: Not uploaded, but here's the text: Friday vibes!  #MachineLearning #DigitalArt
+
+n_iter: 536
+ct: 55
+hue_offset: 210
+saturation: 0.18
+
+num_attempts: 3
+dur: 1
+std: 41.5
+size: 1569060 (1.5 MiB)
+
+xmin: 0.4022284670061662
+xmax: 0.4032538451143436
+ymin: -0.3508898545440807
+ymax: -0.3503130793582309
+
+contrast: 1.35
+brightness: -0.05
+saturation: 1.07
+gamma: 1.01
+gamma_r: 0.93
+gamma_g: 1.08
+gamma_b: 1.06
+vignette: 25
+temp: 7538
