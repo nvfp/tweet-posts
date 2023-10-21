@@ -1,0 +1,31 @@
+tweet_id: 1715593507207835966
+masto_id: 111271237718006058
+subre_id: Not uploaded, but here's the text: Let this Newton inspire your Saturday.  #Programming #Art
+
+newton_power: 6
+newton_const: 9
+
+n_iter: 243
+ct: 241
+hue_offset: 221
+saturation: -0.23
+
+num_attempts: 82
+dur: 601
+std: 13.58
+size: 1022006 (998.05 KiB)
+
+xmin: -0.1316007003046753
+xmax: -0.12540235319723728
+ymin: -0.056342565613335394
+ymax: -0.05285599536540151
+
+contrast: 1.14
+brightness: 0.01
+saturation: 1.05
+gamma: 0.92
+gamma_r: 1.03
+gamma_g: 1.04
+gamma_b: 0.91
+vignette: 16
+temp: 7652
