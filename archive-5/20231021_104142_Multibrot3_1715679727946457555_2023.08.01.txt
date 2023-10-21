@@ -1,0 +1,28 @@
+tweet_id: 1715679727946457555
+masto_id: 111272584938055084
+subre_id: Not uploaded, but here's the text: You rock, and so does this Saturday!  #Science #Programming
+
+n_iter: 357
+ct: 1
+hue_offset: 15
+saturation: -0.44
+
+num_attempts: 492
+dur: 602
+std: 59.16
+size: 1045634 (1021.13 KiB)
+
+xmin: 0.31688035519315383
+xmax: 0.3217643600771587
+ymin: 0.6790089976535993
+ymax: 0.6817562504008521
+
+contrast: 1.1
+brightness: 0.21
+saturation: 1.59
+gamma: 1.06
+gamma_r: 0.98
+gamma_g: 0.92
+gamma_b: 1.04
+vignette: 19
+temp: 3331
