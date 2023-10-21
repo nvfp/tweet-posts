@@ -1,0 +1,31 @@
+tweet_id: 1715684126693511222
+masto_id: 111272653647961267
+subre_id: Not uploaded, but here's the text: Ever heard of this Newton?  #VisualArt #Art
+
+newton_power: 7
+newton_const: 9
+
+n_iter: 167
+ct: 211
+hue_offset: 110
+saturation: -0.12
+
+num_attempts: 64
+dur: 622
+std: 23.35
+size: 672376 (656.62 KiB)
+
+xmin: -0.40409085663591027
+xmax: -0.35684676214772126
+ymin: -1.6784013756549265
+ymax: -1.6518265725053203
+
+contrast: 0.74
+brightness: 0.13
+saturation: 1.45
+gamma: 1.06
+gamma_r: 1.01
+gamma_g: 1.06
+gamma_b: 1.09
+vignette: 29
+temp: 4012
