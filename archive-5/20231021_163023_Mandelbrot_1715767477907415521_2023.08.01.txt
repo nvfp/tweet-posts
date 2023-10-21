@@ -1,0 +1,28 @@
+tweet_id: 1715767477907415521
+masto_id: 111273956002827859
+subre_id: Not uploaded, but here's the text: Let this Mandelbrot Set inspire your Saturday.  #Fractals #Science
+
+n_iter: 1006
+ct: 211
+hue_offset: 110
+saturation: -0.06
+
+num_attempts: 202
+dur: 295
+std: 21.03
+size: 646161 (631.02 KiB)
+
+xmin: -0.9099402333691322
+xmax: -0.9093169862516501
+ymin: 0.2719242959446808
+ymax: 0.2722748724482645
+
+contrast: 1.69
+brightness: 0.05
+saturation: 0.64
+gamma: 1.0
+gamma_r: 1.01
+gamma_g: 0.96
+gamma_b: 1.05
+vignette: 9
+temp: 5335
