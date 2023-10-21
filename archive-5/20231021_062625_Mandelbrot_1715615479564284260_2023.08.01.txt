@@ -1,0 +1,28 @@
+tweet_id: 1715615479564284260
+masto_id: 111271581117152859
+subre_id: Not uploaded, but here's the text: Have an extraordinary Saturday!  #Fractals #MachineLearning
+
+n_iter: 984
+ct: 90
+hue_offset: 11
+saturation: -0.03
+
+num_attempts: 74
+dur: 90
+std: 47.71
+size: 804231 (785.38 KiB)
+
+xmin: -0.4610805134466145
+xmax: -0.4606054540641917
+ymin: 0.5579717333880192
+ymax: 0.558238954290632
+
+contrast: 0.76
+brightness: 0.04
+saturation: 1.29
+gamma: 0.95
+gamma_r: 0.96
+gamma_g: 1.03
+gamma_b: 0.92
+vignette: 25
+temp: 2058
