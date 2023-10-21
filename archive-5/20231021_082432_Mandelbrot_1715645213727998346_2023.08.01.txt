@@ -1,0 +1,28 @@
+tweet_id: 1715645213727998346
+masto_id: 111272045606575027
+subre_id: Not uploaded, but here's the text: Look closely, it's Mandelbrot Set!  #AI #Fractals
+
+n_iter: 143
+ct: 80
+hue_offset: 1
+saturation: -0.23
+
+num_attempts: 177
+dur: 80
+std: 46.0
+size: 1048194 (1023.63 KiB)
+
+xmin: -0.9095317513581282
+xmax: -0.9090227159801695
+ymin: -0.2633266252728351
+ymax: -0.26304029287273334
+
+contrast: 1.66
+brightness: 0.16
+saturation: 1.73
+gamma: 0.96
+gamma_r: 1.04
+gamma_g: 1.09
+gamma_b: 0.95
+vignette: -24
+temp: 3375
