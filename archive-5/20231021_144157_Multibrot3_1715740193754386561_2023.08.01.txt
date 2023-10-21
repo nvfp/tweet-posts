@@ -1,0 +1,28 @@
+tweet_id: 1715740193754386561
+masto_id: 111273529684745185
+subre_id: Not uploaded, but here's the text: Cheers to a fantastic Saturday!  #MachineLearning #AI
+
+n_iter: 443
+ct: 1
+hue_offset: 11
+saturation: -0.32
+
+num_attempts: 414
+dur: 608
+std: 64.51
+size: 1498037 (1.43 MiB)
+
+xmin: -0.45525177964520225
+xmax: -0.4453752364353257
+ymin: 0.5621829014306319
+ymax: 0.5677384569861874
+
+contrast: 1.58
+brightness: 0.04
+saturation: 0.95
+gamma: 0.92
+gamma_r: 0.91
+gamma_g: 1.06
+gamma_b: 1.02
+vignette: -47
+temp: 4656
