@@ -1,0 +1,28 @@
+tweet_id: 1715538273605746898
+masto_id: 111270374865656426
+subre_id: Not uploaded, but here's the text: Saturday is shining brightly, just like this Mandelbrot Set.  #Nature #DeepLearning
+
+n_iter: 607
+ct: 109
+hue_offset: 61
+saturation: 0.8
+
+num_attempts: 31
+dur: 31
+std: 28.37
+size: 1112373 (1.06 MiB)
+
+xmin: -0.7101243215698583
+xmax: -0.7092526719729962
+ymin: 0.3469884350805539
+ymax: 0.3474787379787888
+
+contrast: 1.49
+brightness: -0.04
+saturation: 1.46
+gamma: 0.99
+gamma_r: 1.06
+gamma_g: 0.92
+gamma_b: 1.07
+vignette: 11
+temp: 5327
