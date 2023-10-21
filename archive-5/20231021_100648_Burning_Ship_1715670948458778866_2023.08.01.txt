@@ -1,0 +1,28 @@
+tweet_id: 1715670948458778866
+masto_id: 111272447755511992
+subre_id: Not uploaded, but here's the text: This Saturday is made even better by this Burning Ship!  #VisualArt #Mathematics
+
+n_iter: 428
+ct: 250
+hue_offset: 183
+saturation: 0.61
+
+num_attempts: 1
+dur: 0
+std: 21.49
+size: 1049777 (1.0 MiB)
+
+xmin: -1.7614996044602858
+xmax: -1.6677496044602858
+ymin: -0.06069268717013765
+ymax: -0.00795831217013765
+
+contrast: 1.06
+brightness: 0.12
+saturation: 1.54
+gamma: 0.95
+gamma_r: 1.01
+gamma_g: 1.05
+gamma_b: 1.0
+vignette: 17
+temp: 4504
