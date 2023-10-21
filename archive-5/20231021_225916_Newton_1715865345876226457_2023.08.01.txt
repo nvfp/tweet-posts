@@ -1,0 +1,31 @@
+tweet_id: 1715865345876226457
+masto_id: 111275485220827658
+subre_id: Not uploaded, but here's the text: Look what we have here! it's Newton!  #DeepLearning #Science
+
+newton_power: 7
+newton_const: -4
+
+n_iter: 245
+ct: 92
+hue_offset: 174
+saturation: 0.28
+
+num_attempts: 90
+dur: 619
+std: 20.64
+size: 1143667 (1.09 MiB)
+
+xmin: 1.5641722459838636
+xmax: 1.825041811201255
+ymin: -0.8667546312183374
+ymax: -0.7200155007835548
+
+contrast: 1.06
+brightness: 0.11
+saturation: 1.24
+gamma: 1.02
+gamma_r: 1.04
+gamma_g: 1.06
+gamma_b: 0.91
+vignette: -19
+temp: 2356
