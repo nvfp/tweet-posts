@@ -1,0 +1,28 @@
+tweet_id: 1715641250542498246
+masto_id: 111271983699313725
+subre_id: Not uploaded, but here's the text: Let's make it a memorable Saturday!  #Math #Nature
+
+n_iter: 339
+ct: 92
+hue_offset: 334
+saturation: 0.6
+
+num_attempts: 3
+dur: 5
+std: 27.03
+size: 568903 (555.57 KiB)
+
+xmin: -1.8353175258064196
+xmax: 0.4146824741935804
+ymin: -1.2408390583109319
+ymax: 0.024785941689068114
+
+contrast: 1.68
+brightness: -0.04
+saturation: 1.32
+gamma: 0.96
+gamma_r: 0.94
+gamma_g: 1.04
+gamma_b: 1.04
+vignette: -30
+temp: 7357
