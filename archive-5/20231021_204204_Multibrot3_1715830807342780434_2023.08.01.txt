@@ -1,0 +1,28 @@
+tweet_id: 1715830807342780434
+masto_id: 111274945713170072
+subre_id: Not uploaded, but here's the text: Shine bright like the sun on this Saturday!  #DeepLearning #Art
+
+n_iter: 424
+ct: 255
+hue_offset: 269
+saturation: 0.96
+
+num_attempts: 387
+dur: 608
+std: 53.99
+size: 1139240 (1.09 MiB)
+
+xmin: 0.46293401347316676
+xmax: 0.4751291354243863
+ymin: -0.5603844869246897
+ymax: -0.5535247308271287
+
+contrast: 0.88
+brightness: 0.02
+saturation: 0.64
+gamma: 1.1
+gamma_r: 1.04
+gamma_g: 0.91
+gamma_b: 0.99
+vignette: 27
+temp: 7083
