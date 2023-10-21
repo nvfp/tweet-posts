@@ -1,0 +1,28 @@
+tweet_id: 1715702593564086670
+masto_id: 111272942222539635
+subre_id: Not uploaded, but here's the text: Let this Burning Ship brighten up your Saturday!  #DeepLearning #Mathematics
+
+n_iter: 436
+ct: 248
+hue_offset: 163
+saturation: -0.4
+
+num_attempts: 6
+dur: 5
+std: 40.7
+size: 587303 (573.54 KiB)
+
+xmin: -1.0622140297896367
+xmax: -0.8665618558765933
+ymin: -0.5136847159415583
+ymax: -0.4036303681154713
+
+contrast: 1.07
+brightness: 0.07
+saturation: 1.36
+gamma: 1.06
+gamma_r: 0.95
+gamma_g: 0.93
+gamma_b: 1.05
+vignette: -42
+temp: 2144
