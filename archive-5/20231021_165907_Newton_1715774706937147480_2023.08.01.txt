@@ -1,0 +1,31 @@
+tweet_id: 1715774706937147480
+masto_id: 111274069001013775
+subre_id: Not uploaded, but here's the text: A great Saturday and a beautiful Newton.  #Art #Nature
+
+newton_power: 3
+newton_const: -9
+
+n_iter: 211
+ct: 28
+hue_offset: 212
+saturation: 0.59
+
+num_attempts: 280
+dur: 603
+std: 4.67
+size: 782558 (764.22 KiB)
+
+xmin: 0.45480642085772915
+xmax: 0.8833778494291578
+ymin: 1.2854818411521487
+ymax: 1.5265532697235773
+
+contrast: 0.82
+brightness: 0.07
+saturation: 1.23
+gamma: 1.05
+gamma_r: 0.95
+gamma_g: 1.04
+gamma_b: 0.94
+vignette: 31
+temp: 6090
