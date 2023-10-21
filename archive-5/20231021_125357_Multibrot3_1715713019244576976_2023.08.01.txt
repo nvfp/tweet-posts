@@ -1,0 +1,28 @@
+tweet_id: 1715713019244576976
+masto_id: 111273104992354126
+subre_id: Not uploaded, but here's the text: A great Saturday and a beautiful Multibrot.  #Programming #Science
+
+n_iter: 481
+ct: 1
+hue_offset: 54
+saturation: 0.93
+
+num_attempts: 225
+dur: 611
+std: 78.05
+size: 727652 (710.6 KiB)
+
+xmin: 0.31356658783637714
+xmax: 0.31982636874404535
+ymin: -0.6777295972556935
+ymax: -0.6742084704951301
+
+contrast: 1.62
+brightness: 0.12
+saturation: 1.04
+gamma: 0.95
+gamma_r: 0.96
+gamma_g: 0.97
+gamma_b: 1.07
+vignette: 23
+temp: 3533
