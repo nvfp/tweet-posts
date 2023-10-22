@@ -1,0 +1,28 @@
+tweet_id: 1716012061011132645
+masto_id: 111277777487856092
+subre_id: Not uploaded, but here's the text: Hello Sunday! This Multibrot is yours!  #Science #MachineLearning
+
+n_iter: 599
+ct: 255
+hue_offset: 282
+saturation: -0.63
+
+num_attempts: 240
+dur: 613
+std: 71.36
+size: 456452 (445.75 KiB)
+
+xmin: -0.5670779948195268
+xmax: -0.5628630317004542
+ymin: -0.15901857312266832
+ymax: -0.15664765636818992
+
+contrast: 1.24
+brightness: -0.06
+saturation: 1.07
+gamma: 1.07
+gamma_r: 1.07
+gamma_g: 0.94
+gamma_b: 0.96
+vignette: -41
+temp: 2295
