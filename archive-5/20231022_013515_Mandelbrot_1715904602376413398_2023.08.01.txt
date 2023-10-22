@@ -1,0 +1,28 @@
+tweet_id: 1715904602376413398
+masto_id: 111276098567306553
+subre_id: Not uploaded, but here's the text: Enjoy your Sunday!  #Nature #Science
+
+n_iter: 997
+ct: 96
+hue_offset: 348
+saturation: 0.02
+
+num_attempts: 137
+dur: 242
+std: 38.92
+size: 527172 (514.82 KiB)
+
+xmin: -0.7320034821637584
+xmax: -0.7314170578857934
+ymin: -0.2246456134205178
+ymax: -0.22431574976416244
+
+contrast: 1.6
+brightness: 0.02
+saturation: 0.68
+gamma: 1.01
+gamma_r: 0.91
+gamma_g: 1.09
+gamma_b: 0.91
+vignette: 0
+temp: 3078
