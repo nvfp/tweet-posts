@@ -1,0 +1,28 @@
+tweet_id: 1716007320650732023
+masto_id: 111277703607933181
+subre_id: Not uploaded, but here's the text: Let this Mandelbrot Set brighten up your Sunday!  #VisualArt #Nature
+
+n_iter: 188
+ct: 233
+hue_offset: 24
+saturation: -0.8
+
+num_attempts: 27
+dur: 11
+std: 53.01
+size: 832217 (812.71 KiB)
+
+xmin: -0.6941925932351554
+xmax: -0.6899007477415932
+ymin: 0.2861756122574761
+ymax: 0.2885897753476049
+
+contrast: 0.98
+brightness: 0.21
+saturation: 0.35
+gamma: 0.97
+gamma_r: 1.05
+gamma_g: 0.99
+gamma_b: 0.98
+vignette: 30
+temp: 7792
