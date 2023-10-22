@@ -1,0 +1,28 @@
+tweet_id: 1716184543294542050
+masto_id: 111280472771118548
+subre_id: Not uploaded, but here's the text: Have a great day!  #Nature #MachineLearning
+
+n_iter: 355
+ct: 204
+hue_offset: 131
+saturation: -0.53
+
+num_attempts: 45
+dur: 34
+std: 37.47
+size: 797226 (778.54 KiB)
+
+xmin: -1.5566366596676904
+xmax: -0.8066366596676904
+ymin: -0.75464036046723
+ymax: -0.33276536046723004
+
+contrast: 0.89
+brightness: -0.09
+saturation: 0.44
+gamma: 0.95
+gamma_r: 0.91
+gamma_g: 1.05
+gamma_b: 0.95
+vignette: 12
+temp: 6374
