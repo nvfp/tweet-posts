@@ -1,0 +1,28 @@
+tweet_id: 1716097586891739616
+masto_id: 111279113998029736
+subre_id: Not uploaded, but here's the text: Enjoying the Sunday with this Mandelbrot Set.  #Fractals #Art
+
+n_iter: 199
+ct: 119
+hue_offset: 341
+saturation: 0.46
+
+num_attempts: 48
+dur: 18
+std: 22.34
+size: 1035767 (1011.49 KiB)
+
+xmin: -0.8736986650062808
+xmax: -0.8702563242145425
+ymin: -0.24084593152837874
+ymax: -0.2389096148330259
+
+contrast: 1.43
+brightness: 0.16
+saturation: 1.47
+gamma: 0.99
+gamma_r: 0.9
+gamma_g: 1.09
+gamma_b: 0.94
+vignette: -31
+temp: 2731
