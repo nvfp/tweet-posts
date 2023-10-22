@@ -1,0 +1,28 @@
+tweet_id: 1715922173519384905
+masto_id: 111276373101135854
+subre_id: Not uploaded, but here's the text: you're awesome!  #Science #Fractals
+
+n_iter: 604
+ct: 255
+hue_offset: 165
+saturation: 0.35
+
+num_attempts: 224
+dur: 603
+std: 91.53
+size: 835208 (815.63 KiB)
+
+xmin: -0.3638044603691932
+xmax: -0.35888441116870123
+ymin: -0.6586583298987219
+ymax: -0.6558908022234451
+
+contrast: 1.07
+brightness: 0.02
+saturation: 0.67
+gamma: 1.08
+gamma_r: 1.1
+gamma_g: 1.04
+gamma_b: 1.07
+vignette: -44
+temp: 5379
