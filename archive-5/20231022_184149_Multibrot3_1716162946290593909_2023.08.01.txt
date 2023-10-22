@@ -1,0 +1,28 @@
+tweet_id: 1716162946290593909
+masto_id: 111280135197438365
+subre_id: Not uploaded, but here's the text: Multibrot vibes to brighten your Sunday.  #Science #Nature
+
+n_iter: 514
+ct: 255
+hue_offset: 50
+saturation: 0.29
+
+num_attempts: 321
+dur: 600
+std: 84.58
+size: 1496013 (1.43 MiB)
+
+xmin: 0.539828700538818
+xmax: 0.5476564891885245
+ymin: -0.3421818930988607
+ymax: -0.33777876198340084
+
+contrast: 0.73
+brightness: 0.11
+saturation: 1.06
+gamma: 1.09
+gamma_r: 0.97
+gamma_g: 0.95
+gamma_b: 0.93
+vignette: -23
+temp: 5718
