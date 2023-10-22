@@ -1,0 +1,28 @@
+tweet_id: 1716003618997039543
+masto_id: 111277645679478847
+subre_id: Not uploaded, but here's the text: Cheers to a fantastic Sunday!  #VisualArt #Mathematics
+
+n_iter: 489
+ct: 199
+hue_offset: 358
+saturation: -0.45
+
+num_attempts: 6
+dur: 5
+std: 69.92
+size: 1416441 (1.35 MiB)
+
+xmin: 0.14977866135188656
+xmax: 0.21796047953370473
+ymin: -1.1329820951425447
+ymax: -1.094629822415272
+
+contrast: 1.61
+brightness: 0.11
+saturation: 0.4
+gamma: 1.08
+gamma_r: 0.97
+gamma_g: 0.99
+gamma_b: 1.05
+vignette: -30
+temp: 6373
