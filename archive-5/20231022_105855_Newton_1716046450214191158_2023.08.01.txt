@@ -1,0 +1,31 @@
+tweet_id: 1716046450214191158
+masto_id: 111278314958112545
+subre_id: Not uploaded, but here's the text: Hey wait, look! it's Newton!  #VisualArt #Fractals
+
+newton_power: 5
+newton_const: 8
+
+n_iter: 123
+ct: 25
+hue_offset: 156
+saturation: -0.5
+
+num_attempts: 114
+dur: 606
+std: 12.94
+size: 1087153 (1.04 MiB)
+
+xmin: -1.0511574732130464
+xmax: -1.0338664069306256
+ymin: -0.4072744886068267
+ymax: -0.39754826382296504
+
+contrast: 0.93
+brightness: -0.08
+saturation: 0.89
+gamma: 0.95
+gamma_r: 0.95
+gamma_g: 1.02
+gamma_b: 0.94
+vignette: -12
+temp: 5981
