@@ -1,0 +1,28 @@
+tweet_id: 1716064980108472637
+masto_id: 111278604446708891
+subre_id: Not uploaded, but here's the text: Let this Burning Ship inspire your Sunday.  #DeepLearning #Art
+
+n_iter: 148
+ct: 81
+hue_offset: 326
+saturation: 0.56
+
+num_attempts: 35
+dur: 13
+std: 23.41
+size: 1804576 (1.72 MiB)
+
+xmin: 0.5448719995563729
+xmax: 0.6120361786608505
+ymin: -1.195425730999156
+ymax: -1.1576458802528875
+
+contrast: 1.37
+brightness: -0.04
+saturation: 1.15
+gamma: 0.95
+gamma_r: 1.08
+gamma_g: 0.9
+gamma_b: 0.93
+vignette: 4
+temp: 5606
