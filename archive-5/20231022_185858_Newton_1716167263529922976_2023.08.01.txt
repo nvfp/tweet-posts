@@ -1,0 +1,31 @@
+tweet_id: 1716167263529922976
+masto_id: 111280202630364400
+subre_id: Not uploaded, but here's the text: Hope your Sunday is awesome!  #VisualArt #Programming
+
+newton_power: 7
+newton_const: -10
+
+n_iter: 243
+ct: 36
+hue_offset: 292
+saturation: 0.38
+
+num_attempts: 74
+dur: 603
+std: 19.39
+size: 1197989 (1.14 MiB)
+
+xmin: -0.8205803862398038
+xmax: -0.8097500613300564
+ymin: 1.0556923130096862
+ymax: 1.0617843707714192
+
+contrast: 1.46
+brightness: -0.07
+saturation: 1.4
+gamma: 0.91
+gamma_r: 1.07
+gamma_g: 1.07
+gamma_b: 0.99
+vignette: -20
+temp: 2291
