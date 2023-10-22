@@ -1,0 +1,31 @@
+tweet_id: 1716227664128655430
+masto_id: 111281146403663968
+subre_id: Not uploaded, but here's the text: Ever heard of this Newton?  #Fractals #Programming
+
+newton_power: 5
+newton_const: -7
+
+n_iter: 200
+ct: 99
+hue_offset: 326
+saturation: -0.37
+
+num_attempts: 108
+dur: 606
+std: 11.11
+size: 1062473 (1.01 MiB)
+
+xmin: -0.8133278349030073
+xmax: -0.803665999154215
+ymin: -0.0871222343197442
+ymax: -0.08168745171104855
+
+contrast: 1.47
+brightness: 0.03
+saturation: 0.6
+gamma: 1.03
+gamma_r: 0.9
+gamma_g: 0.97
+gamma_b: 1.1
+vignette: -18
+temp: 7108
