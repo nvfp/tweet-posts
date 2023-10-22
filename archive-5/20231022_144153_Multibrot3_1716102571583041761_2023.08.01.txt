@@ -1,0 +1,28 @@
+tweet_id: 1716102571583041761
+masto_id: 111279191726187997
+subre_id: Not uploaded, but here's the text: Cheers to a fantastic Sunday!  #Art #Nature
+
+n_iter: 456
+ct: 1
+hue_offset: 167
+saturation: 0.11
+
+num_attempts: 298
+dur: 600
+std: 35.98
+size: 170803 (166.8 KiB)
+
+xmin: 0.36569634097078696
+xmax: 0.38156935684380283
+ymin: 0.6238649947101043
+ymax: 0.6327935661386757
+
+contrast: 1.5
+brightness: 0.19
+saturation: 0.25
+gamma: 1.05
+gamma_r: 0.96
+gamma_g: 1.07
+gamma_b: 1.06
+vignette: -14
+temp: 7062
