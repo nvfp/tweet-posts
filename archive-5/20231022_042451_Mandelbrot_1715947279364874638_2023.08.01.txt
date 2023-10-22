@@ -1,0 +1,28 @@
+tweet_id: 1715947279364874638
+masto_id: 111276765457376519
+subre_id: Not uploaded, but here's the text: This Sunday is made even better by this Mandelbrot Set!  #Math #Mathematics
+
+n_iter: 495
+ct: 244
+hue_offset: 124
+saturation: -0.59
+
+num_attempts: 62
+dur: 58
+std: 80.06
+size: 1506741 (1.44 MiB)
+
+xmin: -1.2155570154851008
+xmax: -1.212496571720755
+ymin: 0.1350175984265718
+ymax: 0.13673909804401632
+
+contrast: 1.5
+brightness: -0.02
+saturation: 1.61
+gamma: 1.03
+gamma_r: 1.07
+gamma_g: 1.09
+gamma_b: 1.01
+vignette: -23
+temp: 4637
