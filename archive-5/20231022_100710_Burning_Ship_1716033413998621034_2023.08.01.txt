@@ -1,0 +1,28 @@
+tweet_id: 1716033413998621034
+masto_id: 111278111474528374
+subre_id: Not uploaded, but here's the text: Today is awesome!  #Fractals #Math
+
+n_iter: 181
+ct: 39
+hue_offset: 149
+saturation: -0.4
+
+num_attempts: 10
+dur: 5
+std: 21.88
+size: 996729 (973.37 KiB)
+
+xmin: -0.22973446053059599
+xmax: -0.025189005985141427
+ymin: -1.1878777837086631
+ymax: -1.072820965526845
+
+contrast: 1.69
+brightness: 0.21
+saturation: 1.24
+gamma: 1.01
+gamma_r: 1.0
+gamma_g: 0.99
+gamma_b: 0.96
+vignette: 12
+temp: 4666
