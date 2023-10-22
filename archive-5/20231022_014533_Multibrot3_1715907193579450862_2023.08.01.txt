@@ -1,0 +1,28 @@
+tweet_id: 1715907193579450862
+masto_id: 111276139063759132
+subre_id: Not uploaded, but here's the text: Enjoying the Sunday with this Multibrot.  #DigitalArt #Art
+
+n_iter: 386
+ct: 1
+hue_offset: 88
+saturation: -0.97
+
+num_attempts: 329
+dur: 603
+std: 57.69
+size: 994172 (970.87 KiB)
+
+xmin: 0.16997928329695267
+xmax: 0.19595330927097865
+ymin: 0.7428725420426665
+ymax: 0.7574829316530561
+
+contrast: 0.96
+brightness: -0.03
+saturation: 1.7
+gamma: 1.04
+gamma_r: 0.93
+gamma_g: 1.07
+gamma_b: 1.01
+vignette: 12
+temp: 2126
