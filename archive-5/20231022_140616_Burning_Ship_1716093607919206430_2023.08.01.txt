@@ -1,0 +1,28 @@
+tweet_id: 1716093607919206430
+masto_id: 111279051679854442
+subre_id: Not uploaded, but here's the text: Have an awesome Sunday!  #Programming #DigitalArt
+
+n_iter: 405
+ct: 140
+hue_offset: 19
+saturation: -0.35
+
+num_attempts: 7
+dur: 8
+std: 38.83
+size: 395914 (386.63 KiB)
+
+xmin: -0.0328180240501168
+xmax: 0.31333582210372934
+ymin: -1.13218297900637
+ymax: -0.9374714405448316
+
+contrast: 1.79
+brightness: 0.13
+saturation: 1.61
+gamma: 0.93
+gamma_r: 1.09
+gamma_g: 1.03
+gamma_b: 0.91
+vignette: 11
+temp: 2397
