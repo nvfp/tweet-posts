@@ -1,0 +1,28 @@
+tweet_id: 1716193162543210618
+masto_id: 111280607295576249
+subre_id: Not uploaded, but here's the text: Keep smiling!  #Science #VisualArt
+
+n_iter: 457
+ct: 1
+hue_offset: 72
+saturation: -0.56
+
+num_attempts: 300
+dur: 609
+std: 84.55
+size: 1148412 (1.1 MiB)
+
+xmin: 0.4122270242109942
+xmax: 0.41762513487226277
+ymin: -0.5958486324505606
+ymax: -0.5928121952035971
+
+contrast: 1.59
+brightness: -0.08
+saturation: 0.27
+gamma: 0.97
+gamma_r: 1.03
+gamma_g: 1.1
+gamma_b: 1.07
+vignette: -33
+temp: 7639
