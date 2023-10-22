@@ -1,0 +1,28 @@
+tweet_id: 1715973725399753096
+masto_id: 111277178515247189
+subre_id: Not uploaded, but here's the text: Smile, it's Sunday!  #DeepLearning #MachineLearning
+
+n_iter: 443
+ct: 75
+hue_offset: 166
+saturation: -0.06
+
+num_attempts: 37
+dur: 38
+std: 20.54
+size: 200785 (196.08 KiB)
+
+xmin: 0.2585904971412747
+xmax: 0.3543351779923385
+ymin: -0.28261289192739714
+ymax: -0.22875650894867372
+
+contrast: 1.75
+brightness: 0.08
+saturation: 1.68
+gamma: 1.01
+gamma_r: 1.02
+gamma_g: 1.06
+gamma_b: 1.1
+vignette: 21
+temp: 7386
