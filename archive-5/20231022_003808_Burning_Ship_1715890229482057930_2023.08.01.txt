@@ -1,0 +1,28 @@
+tweet_id: 1715890229482057930
+masto_id: 111275873927378409
+subre_id: Not uploaded, but here's the text: Wishing you a rad Sunday!  #Nature #Mathematics
+
+n_iter: 134
+ct: 74
+hue_offset: 81
+saturation: 0.39
+
+num_attempts: 128
+dur: 51
+std: 21.94
+size: 1708291 (1.63 MiB)
+
+xmin: -1.442391084299915
+xmax: -1.3945187438743831
+ymin: -0.23881702131525628
+ymax: -0.21188882982589458
+
+contrast: 0.91
+brightness: 0.19
+saturation: 1.01
+gamma: 1.08
+gamma_r: 0.96
+gamma_g: 0.97
+gamma_b: 1.06
+vignette: 6
+temp: 3059
