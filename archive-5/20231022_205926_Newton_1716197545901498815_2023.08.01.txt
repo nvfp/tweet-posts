@@ -1,0 +1,31 @@
+tweet_id: 1716197545901498815
+masto_id: 111280676323365015
+subre_id: Not uploaded, but here's the text: How's your day?  #Mathematics #Nature
+
+newton_power: 5
+newton_const: 6
+
+n_iter: 126
+ct: 221
+hue_offset: 291
+saturation: 0.16
+
+num_attempts: 85
+dur: 605
+std: 10.09
+size: 840078 (820.39 KiB)
+
+xmin: 0.5444004690828095
+xmax: 0.5512970208069474
+ymin: -1.8613476740486816
+ymax: -1.857468363703854
+
+contrast: 1.53
+brightness: -0.08
+saturation: 1.7
+gamma: 0.94
+gamma_r: 1.05
+gamma_g: 0.95
+gamma_b: 1.02
+vignette: -16
+temp: 2607
