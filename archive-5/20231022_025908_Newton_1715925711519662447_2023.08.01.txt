@@ -1,0 +1,31 @@
+tweet_id: 1715925711519662447
+masto_id: 111276428375740009
+subre_id: Not uploaded, but here's the text: Sending you this fractal on this Sunday!  #Programming #Science
+
+newton_power: 7
+newton_const: -7
+
+n_iter: 155
+ct: 17
+hue_offset: 318
+saturation: -0.89
+
+num_attempts: 67
+dur: 600
+std: 17.42
+size: 1701367 (1.62 MiB)
+
+xmin: 0.37001828650768864
+xmax: 0.3777602219915596
+ymin: 1.267241358879582
+ymax: 1.2715961975892593
+
+contrast: 1.09
+brightness: 0.13
+saturation: 0.98
+gamma: 1.0
+gamma_r: 0.93
+gamma_g: 0.96
+gamma_b: 0.99
+vignette: -44
+temp: 4217
