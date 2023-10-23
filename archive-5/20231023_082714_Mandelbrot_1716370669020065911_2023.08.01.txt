@@ -1,0 +1,28 @@
+tweet_id: 1716370669020065911
+masto_id: 111283380830394956
+subre_id: Not uploaded, but here's the text: Have an awesome Monday!  #VisualArt #Science
+
+n_iter: 1009
+ct: 45
+hue_offset: 8
+saturation: -0.01
+
+num_attempts: 30
+dur: 44
+std: 173.21
+size: 1547156 (1.48 MiB)
+
+xmin: 0.36757548125583694
+xmax: 0.37093965282858715
+ymin: -0.29596614383138276
+ymax: -0.29407379732171074
+
+contrast: 1.0
+brightness: -0.01
+saturation: 1.2
+gamma: 1.06
+gamma_r: 0.99
+gamma_g: 0.97
+gamma_b: 1.08
+vignette: -17
+temp: 5494
