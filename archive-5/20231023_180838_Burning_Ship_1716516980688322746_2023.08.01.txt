@@ -1,0 +1,28 @@
+tweet_id: 1716516980688322746
+masto_id: 111285666985065007
+subre_id: Not uploaded, but here's the text: Smile, it's Monday!  #Nature #MachineLearning
+
+n_iter: 222
+ct: 50
+hue_offset: 151
+saturation: -0.22
+
+num_attempts: 6
+dur: 2
+std: 29.63
+size: 1271013 (1.21 MiB)
+
+xmin: -1.5823592707614083
+xmax: -1.1323592707614083
+ymin: -0.4569298023046413
+ymax: -0.20380480230464132
+
+contrast: 1.74
+brightness: 0.13
+saturation: 0.29
+gamma: 1.0
+gamma_r: 1.07
+gamma_g: 0.98
+gamma_b: 1.1
+vignette: -43
+temp: 6549
