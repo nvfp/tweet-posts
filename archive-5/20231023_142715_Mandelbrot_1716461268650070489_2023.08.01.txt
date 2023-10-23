@@ -1,0 +1,28 @@
+tweet_id: 1716461268650070489
+masto_id: 111284796451097143
+subre_id: Not uploaded, but here's the text: Look what we have here! it's Mandelbrot Set!  #Math #VisualArt
+
+n_iter: 1005
+ct: 13
+hue_offset: 325
+saturation: -0.7
+
+num_attempts: 55
+dur: 128
+std: 146.33
+size: 1635121 (1.56 MiB)
+
+xmin: -0.9125603666688371
+xmax: -0.9101622851340649
+ymin: -0.2572004487774192
+ymax: -0.25585152791410987
+
+contrast: 0.93
+brightness: -0.06
+saturation: 1.11
+gamma: 0.98
+gamma_r: 1.07
+gamma_g: 0.91
+gamma_b: 0.96
+vignette: -24
+temp: 7780
