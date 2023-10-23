@@ -1,0 +1,28 @@
+tweet_id: 1716396138377490904
+masto_id: 111283778802375197
+subre_id: Not uploaded, but here's the text: Keep shining on Monday!  #DeepLearning #DigitalArt
+
+n_iter: 429
+ct: 119
+hue_offset: 146
+saturation: 0.67
+
+num_attempts: 15
+dur: 12
+std: 31.81
+size: 631676 (616.87 KiB)
+
+xmin: -1.9622702748160266
+xmax: 0.28772972518397344
+ymin: -1.267046860189022
+ymax: -0.0014218601890219063
+
+contrast: 1.55
+brightness: 0.1
+saturation: 1.69
+gamma: 1.01
+gamma_r: 0.93
+gamma_g: 0.97
+gamma_b: 1.08
+vignette: -32
+temp: 3737
