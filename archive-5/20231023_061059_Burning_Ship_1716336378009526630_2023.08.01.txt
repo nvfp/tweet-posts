@@ -1,0 +1,28 @@
+tweet_id: 1716336378009526630
+masto_id: 111282845087421879
+subre_id: Not uploaded, but here's the text: Happy Monday!  #AI #Programming
+
+n_iter: 155
+ct: 149
+hue_offset: 178
+saturation: -0.91
+
+num_attempts: 17
+dur: 7
+std: 26.68
+size: 1308736 (1.25 MiB)
+
+xmin: -0.4142748454075962
+xmax: -0.20972939086214162
+ymin: -1.1204987334337728
+ymax: -1.0054419152519547
+
+contrast: 1.09
+brightness: 0.16
+saturation: 0.93
+gamma: 0.91
+gamma_r: 0.91
+gamma_g: 0.97
+gamma_b: 1.08
+vignette: 9
+temp: 3447
