@@ -1,0 +1,28 @@
+tweet_id: 1716268643774857225
+masto_id: 111281786737378720
+subre_id: Not uploaded, but here's the text: Smile, it's Monday!  #AI #Art
+
+n_iter: 379
+ct: 255
+hue_offset: 222
+saturation: 0.91
+
+num_attempts: 363
+dur: 607
+std: 60.49
+size: 830187 (810.73 KiB)
+
+xmin: 0.3698040794726891
+xmax: 0.3787928435176329
+ymin: -0.6640753416308347
+ymax: -0.6590191618555538
+
+contrast: 1.67
+brightness: -0.06
+saturation: 1.74
+gamma: 0.98
+gamma_r: 0.92
+gamma_g: 1.09
+gamma_b: 0.99
+vignette: -10
+temp: 4509
