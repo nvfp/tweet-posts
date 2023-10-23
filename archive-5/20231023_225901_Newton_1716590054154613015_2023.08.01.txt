@@ -1,0 +1,31 @@
+tweet_id: 1716590054154613015
+masto_id: 111286808812309227
+subre_id: Not uploaded, but here's the text: Have an awesome day!  #Math #MachineLearning
+
+newton_power: 3
+newton_const: 7
+
+n_iter: 177
+ct: 47
+hue_offset: 174
+saturation: -0.48
+
+num_attempts: 241
+dur: 601
+std: 4.01
+size: 924414 (902.75 KiB)
+
+xmin: -0.2596452945628207
+xmax: -0.17141000044517363
+ymin: -1.3228072483272673
+ymax: -1.2731748953860909
+
+contrast: 1.17
+brightness: 0.01
+saturation: 0.4
+gamma: 1.08
+gamma_r: 1.03
+gamma_g: 0.9
+gamma_b: 1.09
+vignette: -31
+temp: 3719
