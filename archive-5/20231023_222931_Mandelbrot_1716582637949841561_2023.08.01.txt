@@ -1,0 +1,28 @@
+tweet_id: 1716582637949841561
+masto_id: 111286692812248621
+subre_id: Not uploaded, but here's the text: Let this Mandelbrot Set brighten up your Monday!  #Science #DeepLearning
+
+n_iter: 858
+ct: 182
+hue_offset: 38
+saturation: 0.84
+
+num_attempts: 197
+dur: 345
+std: 168.6
+size: 751672 (734.05 KiB)
+
+xmin: -0.7415274974704933
+xmax: -0.7408135942043859
+ymin: -0.11034349424288692
+ymax: -0.10994192365570148
+
+contrast: 1.78
+brightness: 0.02
+saturation: 1.53
+gamma: 1.02
+gamma_r: 1.0
+gamma_g: 1.08
+gamma_b: 1.08
+vignette: 11
+temp: 3320
