@@ -1,0 +1,31 @@
+tweet_id: 1716318263381012616
+masto_id: 111282562000157583
+subre_id: Not uploaded, but here's the text: Happy Monday!  #Nature #Mathematics
+
+newton_power: 7
+newton_const: -6
+
+n_iter: 182
+ct: 159
+hue_offset: 45
+saturation: 0.01
+
+num_attempts: 75
+dur: 611
+std: 20.96
+size: 723288 (706.34 KiB)
+
+xmin: 0.5309648546598207
+xmax: 0.544417769458027
+ymin: -1.5938089834200184
+ymax: -1.5862417188460274
+
+contrast: 1.74
+brightness: 0.1
+saturation: 1.09
+gamma: 0.92
+gamma_r: 1.04
+gamma_g: 1.07
+gamma_b: 1.0
+vignette: -10
+temp: 7817
