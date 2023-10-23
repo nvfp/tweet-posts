@@ -1,0 +1,28 @@
+tweet_id: 1716521376595738871
+masto_id: 111285735640725762
+subre_id: Not uploaded, but here's the text: Mandelbrot Set vibes to brighten your Monday.  #Nature #DigitalArt
+
+n_iter: 937
+ct: 112
+hue_offset: 26
+saturation: 0.6
+
+num_attempts: 12
+dur: 14
+std: 170.15
+size: 1235042 (1.18 MiB)
+
+xmin: -0.20737070792361578
+xmax: -0.20587370193559182
+ymin: 0.6926710550083841
+ymax: 0.6935131208766476
+
+contrast: 1.34
+brightness: 0.19
+saturation: 1.01
+gamma: 1.06
+gamma_r: 1.09
+gamma_g: 1.1
+gamma_b: 0.94
+vignette: 2
+temp: 7929
