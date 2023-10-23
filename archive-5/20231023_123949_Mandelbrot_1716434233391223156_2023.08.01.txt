@@ -1,0 +1,28 @@
+tweet_id: 1716434233391223156
+masto_id: 111284374053819809
+subre_id: Not uploaded, but here's the text: Feeling the Mandelbrot Set vibes today!  #DeepLearning #Mathematics
+
+n_iter: 188
+ct: 67
+hue_offset: 148
+saturation: -0.85
+
+num_attempts: 3
+dur: 1
+std: 31.02
+size: 1385330 (1.32 MiB)
+
+xmin: -0.6683282363900513
+xmax: -0.6670832939686383
+ymin: -0.3651525792386425
+ymax: -0.3644522991265977
+
+contrast: 0.96
+brightness: -0.04
+saturation: 1.51
+gamma: 1.08
+gamma_r: 1.08
+gamma_g: 0.99
+gamma_b: 1.07
+vignette: 9
+temp: 7559
