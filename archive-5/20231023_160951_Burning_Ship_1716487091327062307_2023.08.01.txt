@@ -1,0 +1,28 @@
+tweet_id: 1716487091327062307
+masto_id: 111285199899175848
+subre_id: Not uploaded, but here's the text: Keep shining on Monday!  #Nature #Programming
+
+n_iter: 288
+ct: 143
+hue_offset: 315
+saturation: 0.65
+
+num_attempts: 24
+dur: 14
+std: 34.03
+size: 1480748 (1.41 MiB)
+
+xmin: -1.123130942581961
+xmax: -0.9274787686689174
+ymin: -0.6921141804211914
+ymax: -0.5820598325951045
+
+contrast: 1.65
+brightness: 0.04
+saturation: 1.46
+gamma: 1.02
+gamma_r: 1.03
+gamma_g: 1.03
+gamma_b: 1.07
+vignette: 3
+temp: 5451
