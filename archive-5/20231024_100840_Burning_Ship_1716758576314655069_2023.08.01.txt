@@ -1,0 +1,28 @@
+tweet_id: 1716758576314655069
+masto_id: 111289441991306260
+subre_id: Not uploaded, but here's the text: A great Tuesday and a beautiful Burning Ship.  #VisualArt #Math
+
+n_iter: 403
+ct: 151
+hue_offset: 280
+saturation: 0.47
+
+num_attempts: 27
+dur: 18
+std: 21.77
+size: 645256 (630.13 KiB)
+
+xmin: -2.219453891551522
+xmax: -1.3194538915515222
+ymin: -0.6193416029579784
+ymax: -0.11309160295797838
+
+contrast: 1.0
+brightness: 0.19
+saturation: 0.62
+gamma: 1.02
+gamma_r: 1.05
+gamma_g: 0.95
+gamma_b: 0.98
+vignette: 12
+temp: 3447
