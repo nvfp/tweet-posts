@@ -1,0 +1,31 @@
+tweet_id: 1716771223437189522
+masto_id: 111289639592283425
+subre_id: Not uploaded, but here's the text: Let this Newton brighten up your Tuesday!  #Science #Programming
+
+newton_power: 3
+newton_const: 10
+
+n_iter: 256
+ct: 45
+hue_offset: 108
+saturation: -0.48
+
+num_attempts: 283
+dur: 601
+std: 3.91
+size: 595287 (581.33 KiB)
+
+xmin: -0.034715030848950335
+xmax: -0.021292212057004024
+ymin: 0.4990790172274777
+ymax: 0.5066293527979475
+
+contrast: 1.68
+brightness: 0.03
+saturation: 1.52
+gamma: 0.91
+gamma_r: 1.08
+gamma_g: 1.0
+gamma_b: 1.1
+vignette: 15
+temp: 6521
