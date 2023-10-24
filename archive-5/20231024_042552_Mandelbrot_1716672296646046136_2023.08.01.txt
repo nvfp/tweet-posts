@@ -1,0 +1,28 @@
+tweet_id: 1716672296646046136
+masto_id: 111288094038213412
+subre_id: Not uploaded, but here's the text: How's your day?  #MachineLearning #AI
+
+n_iter: 390
+ct: 211
+hue_offset: 203
+saturation: -0.08
+
+num_attempts: 155
+dur: 109
+std: 16.54
+size: 761479 (743.63 KiB)
+
+xmin: -0.05379427863482533
+xmax: -0.053246783425408416
+ymin: -0.8402034752293571
+ymax: -0.8398955091740601
+
+contrast: 1.06
+brightness: -0.03
+saturation: 0.29
+gamma: 0.97
+gamma_r: 1.04
+gamma_g: 1.02
+gamma_b: 1.04
+vignette: -35
+temp: 3367
