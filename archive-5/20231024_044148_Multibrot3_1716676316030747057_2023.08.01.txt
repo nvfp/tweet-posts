@@ -1,0 +1,28 @@
+tweet_id: 1716676316030747057
+masto_id: 111288156682861612
+subre_id: Not uploaded, but here's the text: Wishing you a joyful day!  #Nature #Math
+
+n_iter: 447
+ct: 255
+hue_offset: 266
+saturation: -0.82
+
+num_attempts: 335
+dur: 601
+std: 53.27
+size: 1451710 (1.38 MiB)
+
+xmin: -0.270851821888936
+xmax: -0.26597971470257786
+ymin: 0.735795187665715
+ymax: 0.7385357479580413
+
+contrast: 1.02
+brightness: 0.12
+saturation: 1.17
+gamma: 1.1
+gamma_r: 1.01
+gamma_g: 0.98
+gamma_b: 1.05
+vignette: 12
+temp: 6706
