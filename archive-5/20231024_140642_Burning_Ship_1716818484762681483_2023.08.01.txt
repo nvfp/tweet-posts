@@ -1,0 +1,28 @@
+tweet_id: 1716818484762681483
+masto_id: 111290377981512357
+subre_id: Not uploaded, but here's the text: This Tuesday is made even better by this Burning Ship!  #DeepLearning #Programming
+
+n_iter: 145
+ct: 138
+hue_offset: 69
+saturation: -0.65
+
+num_attempts: 96
+dur: 37
+std: 24.09
+size: 1496631 (1.43 MiB)
+
+xmin: -1.1579903704337777
+xmax: -1.0256374292573072
+ymin: -0.579218056726799
+ymax: -0.5047695273150343
+
+contrast: 0.91
+brightness: 0.02
+saturation: 0.72
+gamma: 1.08
+gamma_r: 0.97
+gamma_g: 0.99
+gamma_b: 0.97
+vignette: -6
+temp: 7296
