@@ -1,0 +1,28 @@
+tweet_id: 1716614105472418214
+masto_id: 111287184521045926
+subre_id: Not uploaded, but here's the text: Good Tuesday! This Burning Ship is for you!  #DigitalArt #VisualArt
+
+n_iter: 335
+ct: 30
+hue_offset: 326
+saturation: -0.63
+
+num_attempts: 3
+dur: 3
+std: 27.4
+size: 732619 (715.45 KiB)
+
+xmin: -0.6141098023021885
+xmax: -0.5541098023021884
+ymin: -0.7423109000099422
+ymax: -0.7085609000099422
+
+contrast: 1.53
+brightness: 0.1
+saturation: 1.24
+gamma: 0.9
+gamma_r: 1.04
+gamma_g: 1.04
+gamma_b: 0.95
+vignette: -10
+temp: 4476
