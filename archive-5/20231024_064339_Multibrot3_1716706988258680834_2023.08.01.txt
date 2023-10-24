@@ -1,0 +1,28 @@
+tweet_id: 1716706988258680834
+masto_id: 111288635846645161
+subre_id: Not uploaded, but here's the text: Look closely, it's Multibrot!  #DigitalArt #Math
+
+n_iter: 540
+ct: 1
+hue_offset: 199
+saturation: -0.81
+
+num_attempts: 245
+dur: 601
+std: 95.64
+size: 1104691 (1.05 MiB)
+
+xmin: 0.1809915266462041
+xmax: 0.1857477692145751
+ymin: 0.7412286087589623
+ymax: 0.743903995203671
+
+contrast: 0.88
+brightness: 0.06
+saturation: 1.45
+gamma: 0.98
+gamma_r: 0.97
+gamma_g: 1.0
+gamma_b: 0.96
+vignette: 2
+temp: 2750
