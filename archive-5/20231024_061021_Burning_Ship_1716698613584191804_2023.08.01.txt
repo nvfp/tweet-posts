@@ -1,0 +1,28 @@
+tweet_id: 1716698613584191804
+masto_id: 111288504924010542
+subre_id: Not uploaded, but here's the text: Hello Tuesday! This Burning Ship is yours!  #MachineLearning #DeepLearning
+
+n_iter: 505
+ct: 230
+hue_offset: 17
+saturation: -0.72
+
+num_attempts: 28
+dur: 14
+std: 74.02
+size: 2566561 (2.45 MiB)
+
+xmin: -0.3335190908329144
+xmax: -0.24168235613903688
+ymin: -0.9665965518581168
+ymax: -0.9149383885928106
+
+contrast: 1.8
+brightness: 0.16
+saturation: 1.04
+gamma: 0.94
+gamma_r: 1.02
+gamma_g: 0.92
+gamma_b: 1.01
+vignette: -28
+temp: 7142
