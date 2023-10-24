@@ -1,0 +1,28 @@
+tweet_id: 1716763363995267462
+masto_id: 111289516810469509
+subre_id: Not uploaded, but here's the text: Happy Tuesday! Enjoy the beauty of Mandelbrot Set.  #DigitalArt #Mathematics
+
+n_iter: 888
+ct: 200
+hue_offset: 133
+saturation: 0.25
+
+num_attempts: 10
+dur: 31
+std: 61.59
+size: 877311 (856.75 KiB)
+
+xmin: -1.1774103398256708
+xmax: -1.00349729634741
+ymin: 0.17145272686154578
+ymax: 0.2692788138180675
+
+contrast: 0.7
+brightness: 0.12
+saturation: 0.61
+gamma: 1.02
+gamma_r: 0.96
+gamma_g: 1.02
+gamma_b: 1.05
+vignette: -36
+temp: 2534
