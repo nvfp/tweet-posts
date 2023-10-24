@@ -1,0 +1,28 @@
+tweet_id: 1716939357406523590
+masto_id: 111292266580399044
+subre_id: Not uploaded, but here's the text: You are lovely!  #Science #DeepLearning
+
+n_iter: 286
+ct: 33
+hue_offset: 44
+saturation: 0.93
+
+num_attempts: 2
+dur: 4
+std: 41.81
+size: 2444319 (2.33 MiB)
+
+xmin: 0.41190740855299834
+xmax: 0.485677900356277
+ymin: -1.1849403308160222
+ymax: -1.1434444291766779
+
+contrast: 1.32
+brightness: 0.02
+saturation: 1.51
+gamma: 1.08
+gamma_r: 0.94
+gamma_g: 0.97
+gamma_b: 0.95
+vignette: -27
+temp: 4061
