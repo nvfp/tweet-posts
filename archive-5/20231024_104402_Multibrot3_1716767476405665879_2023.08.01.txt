@@ -1,0 +1,28 @@
+tweet_id: 1716767476405665879
+masto_id: 111289581079146367
+subre_id: Not uploaded, but here's the text: Enjoying the Tuesday with this Multibrot.  #MachineLearning #Math
+
+n_iter: 528
+ct: 1
+hue_offset: 260
+saturation: 0.38
+
+num_attempts: 279
+dur: 608
+std: 59.51
+size: 841486 (821.76 KiB)
+
+xmin: -0.5471274888637079
+xmax: -0.5211534628896819
+ymin: 0.34368979652180043
+ymax: 0.35830018613219006
+
+contrast: 0.85
+brightness: 0.19
+saturation: 0.97
+gamma: 0.96
+gamma_r: 1.07
+gamma_g: 0.91
+gamma_b: 1.01
+vignette: -18
+temp: 2470
