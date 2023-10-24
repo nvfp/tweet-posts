@@ -1,0 +1,31 @@
+tweet_id: 1716892080331424254
+masto_id: 111291527974123809
+subre_id: Not uploaded, but here's the text: you are cool  #DigitalArt #Mathematics
+
+newton_power: 5
+newton_const: 9
+
+n_iter: 178
+ct: 21
+hue_offset: 56
+saturation: -0.48
+
+num_attempts: 77
+dur: 602
+std: 10.48
+size: 820487 (801.26 KiB)
+
+xmin: 0.2324111909239308
+xmax: 0.23966632998076273
+ymin: -1.616566671710665
+ymax: -1.612485655991197
+
+contrast: 1.14
+brightness: 0.1
+saturation: 1.44
+gamma: 0.97
+gamma_r: 0.99
+gamma_g: 1.04
+gamma_b: 1.05
+vignette: 3
+temp: 7479
