@@ -1,0 +1,28 @@
+tweet_id: 1716948115566244043
+masto_id: 111292403379455029
+subre_id: Not uploaded, but here's the text: you are awesome.  #DeepLearning #Math
+
+n_iter: 568
+ct: 1
+hue_offset: 140
+saturation: -0.58
+
+num_attempts: 195
+dur: 606
+std: 48.93
+size: 649087 (633.87 KiB)
+
+xmin: 0.6008731431840277
+xmax: 0.6132570441128203
+ymin: -0.28498566829108274
+ymax: -0.2780197240186369
+
+contrast: 1.45
+brightness: -0.1
+saturation: 0.64
+gamma: 0.9
+gamma_r: 1.07
+gamma_g: 1.06
+gamma_b: 1.07
+vignette: -45
+temp: 7294
