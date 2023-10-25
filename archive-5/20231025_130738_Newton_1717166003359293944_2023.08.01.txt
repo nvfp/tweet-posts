@@ -1,0 +1,31 @@
+tweet_id: 1717166003359293944
+masto_id: 111295808036967733
+subre_id: Not uploaded, but here's the text: How's your day?  #Programming #VisualArt
+
+newton_power: 3
+newton_const: 9
+
+n_iter: 176
+ct: 97
+hue_offset: 163
+saturation: 0.84
+
+num_attempts: 236
+dur: 602
+std: 3.81
+size: 720108 (703.23 KiB)
+
+xmin: -1.4514803935400118
+xmax: -1.4381470602066784
+ymin: -1.8898141257621415
+ymax: -1.8823141257621414
+
+contrast: 0.93
+brightness: 0.13
+saturation: 0.63
+gamma: 1.03
+gamma_r: 1.01
+gamma_g: 1.02
+gamma_b: 0.93
+vignette: 13
+temp: 4786
