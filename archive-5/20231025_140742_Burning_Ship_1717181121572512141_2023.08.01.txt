@@ -1,0 +1,28 @@
+tweet_id: 1717181121572512141
+masto_id: 111296044159160186
+subre_id: Not uploaded, but here's the text: Warm wishes for your Wednesday, and let's have a look at this Burning Ship.  #Programming #Mathematics
+
+n_iter: 210
+ct: 229
+hue_offset: 357
+saturation: -0.62
+
+num_attempts: 54
+dur: 29
+std: 30.94
+size: 1700309 (1.62 MiB)
+
+xmin: 0.40767016943881806
+xmax: 0.47195588372453234
+ymin: -1.1508871496435862
+ymax: -1.1147264353578719
+
+contrast: 0.93
+brightness: -0.06
+saturation: 1.18
+gamma: 0.97
+gamma_r: 1.03
+gamma_g: 1.05
+gamma_b: 1.07
+vignette: -18
+temp: 7680
