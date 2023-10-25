@@ -1,0 +1,31 @@
+tweet_id: 1717224222387319189
+masto_id: 111296717723410071
+subre_id: Not uploaded, but here's the text: Smile!  #Art #Nature
+
+newton_power: 3
+newton_const: -3
+
+n_iter: 223
+ct: 76
+hue_offset: 330
+saturation: -0.07
+
+num_attempts: 245
+dur: 605
+std: 4.05
+size: 718523 (701.68 KiB)
+
+xmin: 0.5669971062901018
+xmax: 0.6153842030642953
+ymin: -1.4654102586382254
+ymax: -1.4381925167027416
+
+contrast: 1.76
+brightness: 0.04
+saturation: 1.4
+gamma: 0.92
+gamma_r: 1.0
+gamma_g: 1.01
+gamma_b: 1.03
+vignette: -30
+temp: 2589
