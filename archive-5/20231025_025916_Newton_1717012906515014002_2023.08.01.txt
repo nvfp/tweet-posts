@@ -1,0 +1,31 @@
+tweet_id: 1717012906515014002
+masto_id: 111293415825367594
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Wednesday! You got this!  #Nature #Science
+
+newton_power: 7
+newton_const: 1
+
+n_iter: 224
+ct: 19
+hue_offset: 218
+saturation: 0.24
+
+num_attempts: 82
+dur: 604
+std: 22.59
+size: 1371212 (1.31 MiB)
+
+xmin: -2.9167400640413805
+xmax: -2.875073397374714
+ymin: 1.3829195802410084
+ymax: 1.4063570802410084
+
+contrast: 1.1
+brightness: 0.04
+saturation: 0.92
+gamma: 0.93
+gamma_r: 1.08
+gamma_g: 1.0
+gamma_b: 0.93
+vignette: 32
+temp: 2668
