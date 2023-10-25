@@ -1,0 +1,28 @@
+tweet_id: 1717035161928282291
+masto_id: 111293763458801813
+subre_id: Not uploaded, but here's the text: Surprise! Mandelbrot Set!  #Art #Mathematics
+
+n_iter: 778
+ct: 63
+hue_offset: 80
+saturation: -0.01
+
+num_attempts: 145
+dur: 191
+std: 22.65
+size: 235903 (230.37 KiB)
+
+xmin: -1.0631091181338121
+xmax: -1.062512459422595
+ymin: -0.26306710568536495
+ymax: -0.2627314851603053
+
+contrast: 1.76
+brightness: -0.09
+saturation: 0.95
+gamma: 1.09
+gamma_r: 0.97
+gamma_g: 1.08
+gamma_b: 0.93
+vignette: 1
+temp: 5893
