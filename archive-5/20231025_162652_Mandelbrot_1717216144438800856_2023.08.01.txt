@@ -1,0 +1,28 @@
+tweet_id: 1717216144438800856
+masto_id: 111296591413694816
+subre_id: Not uploaded, but here's the text: Keep smiling!  #DigitalArt #Math
+
+n_iter: 351
+ct: 176
+hue_offset: 82
+saturation: 0.99
+
+num_attempts: 51
+dur: 38
+std: 67.77
+size: 636338 (621.42 KiB)
+
+xmin: 0.22066951551523006
+xmax: 0.2213516437553392
+ymin: 0.5273029924263941
+ymax: 0.5276866895614555
+
+contrast: 0.92
+brightness: -0.1
+saturation: 0.54
+gamma: 0.96
+gamma_r: 1.01
+gamma_g: 1.09
+gamma_b: 0.91
+vignette: 21
+temp: 2075
