@@ -1,0 +1,28 @@
+tweet_id: 1717310465443819783
+masto_id: 111298065274030030
+subre_id: Not uploaded, but here's the text: Let's rock this Wednesday!  #Science #Math
+
+n_iter: 366
+ct: 1
+hue_offset: 252
+saturation: -0.47
+
+num_attempts: 447
+dur: 600
+std: 68.95
+size: 1404521 (1.34 MiB)
+
+xmin: 0.4552815418995184
+xmax: 0.4594395460575226
+ymin: -0.5458468039509767
+ymax: -0.5435079266120993
+
+contrast: 1.41
+brightness: -0.09
+saturation: 0.52
+gamma: 0.91
+gamma_r: 0.92
+gamma_g: 0.97
+gamma_b: 1.04
+vignette: -37
+temp: 4138
