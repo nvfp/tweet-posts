@@ -1,0 +1,31 @@
+tweet_id: 1716994761268093312
+masto_id: 111293132407719372
+subre_id: Not uploaded, but here's the text: Enjoy your Wednesday!  #DeepLearning #Math
+
+newton_power: 6
+newton_const: 7
+
+n_iter: 103
+ct: 8
+hue_offset: 143
+saturation: 0.09
+
+num_attempts: 70
+dur: 603
+std: 46.54
+size: 612131 (597.78 KiB)
+
+xmin: 0.5250291111740641
+xmax: 0.5358986763914555
+ymin: 0.908772854687955
+ymax: 0.9148869851227376
+
+contrast: 0.78
+brightness: 0.13
+saturation: 0.57
+gamma: 1.04
+gamma_r: 1.04
+gamma_g: 0.9
+gamma_b: 0.99
+vignette: 11
+temp: 6381
