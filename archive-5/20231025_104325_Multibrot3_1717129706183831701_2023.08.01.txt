@@ -1,0 +1,28 @@
+tweet_id: 1717129706183831701
+masto_id: 111295240980484562
+subre_id: Not uploaded, but here's the text: Shine bright like the sun on this Wednesday!  #DeepLearning #Programming
+
+n_iter: 611
+ct: 255
+hue_offset: 67
+saturation: 0.2
+
+num_attempts: 208
+dur: 600
+std: 78.31
+size: 1402149 (1.34 MiB)
+
+xmin: -0.4475166580548531
+xmax: -0.4397041580548531
+ymin: -0.5734982377873878
+ymax: -0.5691037065373878
+
+contrast: 1.2
+brightness: 0.14
+saturation: 1.44
+gamma: 0.95
+gamma_r: 0.98
+gamma_g: 0.95
+gamma_b: 1.06
+vignette: -25
+temp: 2427
