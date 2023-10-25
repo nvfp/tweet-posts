@@ -1,0 +1,28 @@
+tweet_id: 1717163366299406358
+masto_id: 111295766726904197
+subre_id: Not uploaded, but here's the text: Shine bright like the sun on this Wednesday!  #Art #DigitalArt
+
+n_iter: 509
+ct: 1
+hue_offset: 45
+saturation: 0.59
+
+num_attempts: 347
+dur: 602
+std: 76.09
+size: 678783 (662.87 KiB)
+
+xmin: -0.5254781098053045
+xmax: -0.517902352229547
+ymin: -0.41582623189986
+ymax: -0.41156486826349636
+
+contrast: 1.43
+brightness: 0.17
+saturation: 1.19
+gamma: 1.05
+gamma_r: 1.02
+gamma_g: 1.07
+gamma_b: 1.02
+vignette: -23
+temp: 4336
