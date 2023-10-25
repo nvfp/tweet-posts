@@ -1,0 +1,31 @@
+tweet_id: 1717073316031136126
+masto_id: 111294359731132123
+subre_id: Not uploaded, but here's the text: Let's rock this Wednesday!  #Math #Nature
+
+newton_power: 6
+newton_const: -10
+
+n_iter: 133
+ct: 255
+hue_offset: 28
+saturation: 0.01
+
+num_attempts: 70
+dur: 600
+std: 15.11
+size: 941577 (919.51 KiB)
+
+xmin: 0.13075259199095646
+xmax: 0.13928744263107026
+ymin: 0.17941882173427093
+ymax: 0.18421967521933494
+
+contrast: 1.55
+brightness: 0.1
+saturation: 1.14
+gamma: 1.05
+gamma_r: 0.97
+gamma_g: 1.03
+gamma_b: 0.99
+vignette: 30
+temp: 4489
