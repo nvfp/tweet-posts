@@ -1,0 +1,28 @@
+tweet_id: 1717001889227661330
+masto_id: 111293243620777643
+subre_id: Not uploaded, but here's the text: Having a blast on Wednesday?  #Nature #DigitalArt
+
+n_iter: 214
+ct: 162
+hue_offset: 246
+saturation: 0.5
+
+num_attempts: 15
+dur: 11
+std: 21.77
+size: 2113914 (2.02 MiB)
+
+xmin: -0.6967595006747573
+xmax: -0.6342595006747573
+ymin: -0.994986049804865
+ymax: -0.959829799804865
+
+contrast: 1.36
+brightness: 0.08
+saturation: 1.07
+gamma: 1.06
+gamma_r: 0.96
+gamma_g: 1.08
+gamma_b: 0.96
+vignette: -45
+temp: 6970
