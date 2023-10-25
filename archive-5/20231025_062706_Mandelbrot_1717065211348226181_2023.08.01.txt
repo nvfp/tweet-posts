@@ -1,0 +1,28 @@
+tweet_id: 1717065211348226181
+masto_id: 111294233096806314
+subre_id: Not uploaded, but here's the text: Hey there, it's Wednesday!  #Math #MachineLearning
+
+n_iter: 1019
+ct: 100
+hue_offset: 134
+saturation: -0.27
+
+num_attempts: 37
+dur: 20
+std: 22.55
+size: 1176758 (1.12 MiB)
+
+xmin: -1.1150485082335055
+xmax: -1.1143596844002008
+ymin: 0.27883542305650266
+ymax: 0.2792228864627365
+
+contrast: 1.7
+brightness: 0.01
+saturation: 1.58
+gamma: 1.01
+gamma_r: 1.09
+gamma_g: 1.02
+gamma_b: 0.95
+vignette: -45
+temp: 4686
