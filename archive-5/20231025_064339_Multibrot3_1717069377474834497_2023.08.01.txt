@@ -1,0 +1,28 @@
+tweet_id: 1717069377474834497
+masto_id: 111294298157684083
+subre_id: Not uploaded, but here's the text: Have an extraordinary Wednesday!  #Mathematics #Nature
+
+n_iter: 453
+ct: 255
+hue_offset: 113
+saturation: -0.23
+
+num_attempts: 286
+dur: 611
+std: 71.95
+size: 1280699 (1.22 MiB)
+
+xmin: -0.11374542937819587
+xmax: -0.10169723660711154
+ymin: 0.7622601659499919
+ymax: 0.7690372743837268
+
+contrast: 1.18
+brightness: -0.01
+saturation: 1.35
+gamma: 0.97
+gamma_r: 0.9
+gamma_g: 1.06
+gamma_b: 1.07
+vignette: -25
+temp: 5792
