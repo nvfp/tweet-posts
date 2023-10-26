@@ -1,0 +1,28 @@
+tweet_id: 1717350279417364937
+masto_id: 111298687274515694
+subre_id: Not uploaded, but here's the text: Enjoying the Thursday with this Mandelbrot Set.  #Fractals #Science
+
+n_iter: 328
+ct: 87
+hue_offset: 101
+saturation: 0.02
+
+num_attempts: 44
+dur: 23
+std: 26.1
+size: 472938 (461.85 KiB)
+
+xmin: -1.108712030155753
+xmax: -1.1077657325451544
+ymin: -0.2515065187381209
+ymax: -0.2509742263321592
+
+contrast: 1.7
+brightness: 0.15
+saturation: 1.42
+gamma: 1.06
+gamma_r: 0.93
+gamma_g: 1.07
+gamma_b: 1.08
+vignette: 4
+temp: 2198
