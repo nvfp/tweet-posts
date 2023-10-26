@@ -1,0 +1,28 @@
+tweet_id: 1717525652252070188
+masto_id: 111301428415079441
+subre_id: Not uploaded, but here's the text: Happy Thursday! Enjoy the beauty of Multibrot.  #Fractals #MachineLearning
+
+n_iter: 592
+ct: 1
+hue_offset: 247
+saturation: -0.63
+
+num_attempts: 226
+dur: 610
+std: 81.42
+size: 1208657 (1.15 MiB)
+
+xmin: -0.27229317724130486
+xmax: -0.26274663786182995
+ymin: -0.712451180574678
+ymax: -0.7070812521737234
+
+contrast: 1.33
+brightness: 0.2
+saturation: 1.18
+gamma: 0.91
+gamma_r: 1.07
+gamma_g: 1.04
+gamma_b: 1.0
+vignette: 10
+temp: 3675
