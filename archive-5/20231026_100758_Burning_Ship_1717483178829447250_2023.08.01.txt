@@ -1,0 +1,28 @@
+tweet_id: 1717483178829447250
+masto_id: 111300763857864184
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Thursday!  #DigitalArt #VisualArt
+
+n_iter: 405
+ct: 179
+hue_offset: 134
+saturation: -0.27
+
+num_attempts: 2
+dur: 1
+std: 27.51
+size: 656698 (641.31 KiB)
+
+xmin: -0.9140427312343917
+xmax: 0.5859572687656083
+ymin: -1.7869075829543304
+ymax: -0.9431575829543304
+
+contrast: 0.95
+brightness: -0.07
+saturation: 1.42
+gamma: 1.02
+gamma_r: 1.02
+gamma_g: 1.01
+gamma_b: 0.91
+vignette: -16
+temp: 4347
