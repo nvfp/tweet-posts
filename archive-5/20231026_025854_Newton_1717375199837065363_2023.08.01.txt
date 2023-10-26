@@ -1,0 +1,31 @@
+tweet_id: 1717375199837065363
+masto_id: 111299076686843834
+subre_id: Not uploaded, but here's the text: Have an awesome Thursday!  #Fractals #Science
+
+newton_power: 5
+newton_const: -4
+
+n_iter: 186
+ct: 140
+hue_offset: 227
+saturation: -0.34
+
+num_attempts: 92
+dur: 605
+std: 11.98
+size: 1101385 (1.05 MiB)
+
+xmin: -0.13310743913024403
+xmax: -0.12634306483486635
+ymin: 0.64973317265438
+ymax: 0.65353813319553
+
+contrast: 1.3
+brightness: 0.0
+saturation: 0.31
+gamma: 0.91
+gamma_r: 0.92
+gamma_g: 1.08
+gamma_b: 0.97
+vignette: 22
+temp: 6076
