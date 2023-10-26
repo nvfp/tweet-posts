@@ -1,0 +1,28 @@
+tweet_id: 1717367246090125508
+masto_id: 111298952330351143
+subre_id: Not uploaded, but here's the text: Hey there, it's Thursday!  #Fractals #AI
+
+n_iter: 615
+ct: 20
+hue_offset: 150
+saturation: -0.64
+
+num_attempts: 79
+dur: 90
+std: 105.97
+size: 1510359 (1.44 MiB)
+
+xmin: 0.35036778005167557
+xmax: 0.352132226456616
+ymin: 0.3482415882968728
+ymax: 0.3492340893996518
+
+contrast: 1.1
+brightness: -0.03
+saturation: 1.58
+gamma: 0.97
+gamma_r: 1.05
+gamma_g: 0.94
+gamma_b: 0.94
+vignette: -25
+temp: 2042
