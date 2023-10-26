@@ -1,0 +1,28 @@
+tweet_id: 1717457451216240760
+masto_id: 111300361790541331
+subre_id: Not uploaded, but here's the text: you are cool  #DigitalArt #VisualArt
+
+n_iter: 148
+ct: 177
+hue_offset: 104
+saturation: -0.94
+
+num_attempts: 82
+dur: 40
+std: 64.96
+size: 152641 (149.06 KiB)
+
+xmin: -1.2054488016413836
+xmax: -1.204767602731302
+ymin: -0.14367121266086258
+ymax: -0.1432880382739416
+
+contrast: 0.71
+brightness: 0.02
+saturation: 1.53
+gamma: 1.02
+gamma_r: 1.09
+gamma_g: 0.98
+gamma_b: 0.91
+vignette: -2
+temp: 2412
