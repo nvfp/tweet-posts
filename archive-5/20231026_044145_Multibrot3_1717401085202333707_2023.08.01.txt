@@ -1,0 +1,28 @@
+tweet_id: 1717401085202333707
+masto_id: 111299481117148086
+subre_id: Not uploaded, but here's the text: Another Thursday, another Multibrot!  #Programming #Mathematics
+
+n_iter: 271
+ct: 1
+hue_offset: 351
+saturation: -0.89
+
+num_attempts: 479
+dur: 600
+std: 43.68
+size: 1811272 (1.73 MiB)
+
+xmin: -0.3810885770251564
+xmax: -0.37390724847937545
+ymin: -0.645517579182796
+ymax: -0.6414780818757941
+
+contrast: 1.32
+brightness: 0.19
+saturation: 1.29
+gamma: 1.06
+gamma_r: 1.08
+gamma_g: 1.02
+gamma_b: 0.98
+vignette: -48
+temp: 3267
