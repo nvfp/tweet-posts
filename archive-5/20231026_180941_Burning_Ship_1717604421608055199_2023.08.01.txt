@@ -1,0 +1,28 @@
+tweet_id: 1717604421608055199
+masto_id: FAIL
+subre_id: Not uploaded, but here's the text: you are awesome.  #Math #Mathematics
+
+n_iter: 400
+ct: 80
+hue_offset: 173
+saturation: 0.23
+
+num_attempts: 18
+dur: 19
+std: 20.91
+size: 195453 (190.87 KiB)
+
+xmin: -1.2200830182428666
+xmax: 1.0299169817571334
+ymin: -0.8501644236863037
+ymax: 0.41546057631369626
+
+contrast: 1.46
+brightness: -0.07
+saturation: 0.8
+gamma: 0.98
+gamma_r: 1.05
+gamma_g: 0.97
+gamma_b: 1.04
+vignette: -1
+temp: 4948
