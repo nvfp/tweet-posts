@@ -1,0 +1,31 @@
+tweet_id: 1717528238233125334
+masto_id: 111301467872455176
+subre_id: Not uploaded, but here's the text: Shine bright like the sun on this Thursday!  #AI #Mathematics
+
+newton_power: 7
+newton_const: 9
+
+n_iter: 173
+ct: 20
+hue_offset: 159
+saturation: 0.24
+
+num_attempts: 71
+dur: 600
+std: 18.18
+size: 711848 (695.16 KiB)
+
+xmin: -1.9227037431279093
+xmax: -1.9135990390307924
+ymin: -0.7045869739976556
+ymax: -0.6994655779430273
+
+contrast: 1.08
+brightness: -0.03
+saturation: 1.64
+gamma: 0.95
+gamma_r: 0.92
+gamma_g: 0.9
+gamma_b: 0.9
+vignette: 2
+temp: 6428
