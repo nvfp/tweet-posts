@@ -1,0 +1,28 @@
+tweet_id: 1717370886569836583
+masto_id: 111299009154756783
+subre_id: Not uploaded, but here's the text: you are cool  #AI #DeepLearning
+
+n_iter: 558
+ct: 1
+hue_offset: 121
+saturation: -0.66
+
+num_attempts: 331
+dur: 602
+std: 73.14
+size: 389268 (380.14 KiB)
+
+xmin: -0.4917898204447182
+xmax: -0.48541023511776443
+ymin: 0.5852711627162761
+ymax: 0.5888596794626876
+
+contrast: 1.23
+brightness: -0.04
+saturation: 1.18
+gamma: 0.99
+gamma_r: 0.92
+gamma_g: 0.94
+gamma_b: 1.02
+vignette: -4
+temp: 2609
