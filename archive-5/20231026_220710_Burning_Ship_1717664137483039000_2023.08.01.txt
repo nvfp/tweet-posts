@@ -1,0 +1,28 @@
+tweet_id: 1717664137483039000
+masto_id: 111303591634329971
+subre_id: Not uploaded, but here's the text: Have an extraordinary Thursday!  #DeepLearning #Art
+
+n_iter: 317
+ct: 18
+hue_offset: 351
+saturation: 0.92
+
+num_attempts: 40
+dur: 22
+std: 20.6
+size: 1553250 (1.48 MiB)
+
+xmin: 0.15787336967043863
+xmax: 0.21019895106578748
+ymin: -1.2209742166337763
+ymax: -1.1915410770988926
+
+contrast: 1.37
+brightness: -0.06
+saturation: 0.44
+gamma: 1.09
+gamma_r: 1.04
+gamma_g: 1.09
+gamma_b: 1.01
+vignette: -33
+temp: 6176
