@@ -1,0 +1,28 @@
+tweet_id: 1717514704933831151
+masto_id: 111301256384093067
+subre_id: Not uploaded, but here's the text: Ever heard of this Burning Ship?  #Programming #Science
+
+n_iter: 354
+ct: 71
+hue_offset: 310
+saturation: -0.07
+
+num_attempts: 1
+dur: 0
+std: 20.76
+size: 1898069 (1.81 MiB)
+
+xmin: -0.8733867159407707
+xmax: -0.816424690624315
+ymin: -0.9325208048410585
+ymax: -0.9004796656005521
+
+contrast: 0.88
+brightness: -0.04
+saturation: 0.71
+gamma: 1.1
+gamma_r: 0.96
+gamma_g: 1.04
+gamma_b: 0.9
+vignette: -43
+temp: 3502
