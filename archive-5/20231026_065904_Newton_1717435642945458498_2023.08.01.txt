@@ -1,0 +1,31 @@
+tweet_id: 1717435642945458498
+masto_id: 111300021079690366
+subre_id: Not uploaded, but here's the text: Wishing you a rad Thursday!  #MachineLearning #DigitalArt
+
+newton_power: 7
+newton_const: 8
+
+n_iter: 166
+ct: 86
+hue_offset: 243
+saturation: 0.91
+
+num_attempts: 81
+dur: 600
+std: 15.34
+size: 670363 (654.65 KiB)
+
+xmin: -0.5278513193928132
+xmax: -0.5170209944830658
+ymin: 0.9652613080574035
+ymax: 0.9713533658191363
+
+contrast: 1.62
+brightness: -0.1
+saturation: 0.95
+gamma: 0.94
+gamma_r: 1.03
+gamma_g: 0.99
+gamma_b: 1.05
+vignette: -36
+temp: 2635
