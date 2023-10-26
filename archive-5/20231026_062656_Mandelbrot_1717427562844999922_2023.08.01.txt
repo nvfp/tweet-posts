@@ -1,0 +1,28 @@
+tweet_id: 1717427562844999922
+masto_id: 111299894704951568
+subre_id: Not uploaded, but here's the text: Hello Thursday! This Mandelbrot Set is yours!  #Math #Nature
+
+n_iter: 275
+ct: 92
+hue_offset: 142
+saturation: 0.8
+
+num_attempts: 49
+dur: 37
+std: 27.82
+size: 158701 (154.98 KiB)
+
+xmin: 0.333251961307635
+xmax: 0.3439471484734104
+ymin: 0.07650086778492837
+ymax: 0.08251691056567703
+
+contrast: 1.16
+brightness: -0.1
+saturation: 0.7
+gamma: 1.05
+gamma_r: 0.91
+gamma_g: 0.97
+gamma_b: 1.02
+vignette: -1
+temp: 5396
