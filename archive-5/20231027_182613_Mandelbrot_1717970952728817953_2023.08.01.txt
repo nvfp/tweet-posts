@@ -1,0 +1,28 @@
+tweet_id: 1717970952728817953
+masto_id: 111308385386410809
+subre_id: Not uploaded, but here's the text: Let this Mandelbrot Set inspire your Friday.  #Mathematics #DigitalArt
+
+n_iter: 808
+ct: 3
+hue_offset: 332
+saturation: -0.92
+
+num_attempts: 31
+dur: 48
+std: 140.76
+size: 1548871 (1.48 MiB)
+
+xmin: 0.296903664243684
+xmax: 0.29791709216362317
+ymin: 0.4480393231566522
+ymax: 0.44860937636161796
+
+contrast: 0.98
+brightness: -0.01
+saturation: 1.54
+gamma: 1.02
+gamma_r: 1.09
+gamma_g: 0.91
+gamma_b: 0.91
+vignette: 25
+temp: 6588
