@@ -1,0 +1,28 @@
+tweet_id: 1717712939094823061
+masto_id: 111304353981453226
+subre_id: Not uploaded, but here's the text: Wishing you a fantastic day!  #AI #Nature
+
+n_iter: 878
+ct: 215
+hue_offset: 78
+saturation: 0.84
+
+num_attempts: 42
+dur: 58
+std: 156.64
+size: 1543034 (1.47 MiB)
+
+xmin: 0.26393552769347606
+xmax: 0.26445159013703173
+ymin: -0.489648124551157
+ymax: -0.48935783942665695
+
+contrast: 0.8
+brightness: 0.11
+saturation: 1.48
+gamma: 1.03
+gamma_r: 0.93
+gamma_g: 0.97
+gamma_b: 0.91
+vignette: -44
+temp: 2252
