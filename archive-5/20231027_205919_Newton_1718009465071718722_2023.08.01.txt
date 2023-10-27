@@ -1,0 +1,31 @@
+tweet_id: 1718009465071718722
+masto_id: 111308987357661156
+subre_id: Not uploaded, but here's the text: Hope you're having a great Friday!  #Nature #DeepLearning
+
+newton_power: 4
+newton_const: 1
+
+n_iter: 241
+ct: 234
+hue_offset: 18
+saturation: 0.09
+
+num_attempts: 102
+dur: 607
+std: 7.56
+size: 632945 (618.11 KiB)
+
+xmin: 2.132221064579757
+xmax: 2.271755948300687
+ymin: -0.08424502059387518
+ymax: -0.005756648500851919
+
+contrast: 0.85
+brightness: 0.19
+saturation: 0.43
+gamma: 1.01
+gamma_r: 0.98
+gamma_g: 1.0
+gamma_b: 1.04
+vignette: -42
+temp: 3921
