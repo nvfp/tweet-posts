@@ -1,0 +1,28 @@
+tweet_id: 1717941181898764623
+masto_id: 111307920224316559
+subre_id: Not uploaded, but here's the text: Let's rock this Friday!  #Art #VisualArt
+
+n_iter: 861
+ct: 98
+hue_offset: 300
+saturation: -0.79
+
+num_attempts: 34
+dur: 57
+std: 53.81
+size: 1388090 (1.32 MiB)
+
+xmin: 0.20158650546866275
+xmax: 0.20210097492203896
+ymin: -0.5657546029183378
+ymax: -0.5654652138508137
+
+contrast: 1.53
+brightness: -0.02
+saturation: 1.37
+gamma: 0.92
+gamma_r: 0.97
+gamma_g: 0.93
+gamma_b: 0.95
+vignette: -15
+temp: 4394
