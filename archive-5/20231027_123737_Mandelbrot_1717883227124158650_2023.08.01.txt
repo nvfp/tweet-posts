@@ -1,0 +1,28 @@
+tweet_id: 1717883227124158650
+masto_id: 111307014622234827
+subre_id: Not uploaded, but here's the text: Happy Friday! Enjoy the beauty of Mandelbrot Set.  #MachineLearning #Fractals
+
+n_iter: 953
+ct: 3
+hue_offset: 334
+saturation: -0.77
+
+num_attempts: 1
+dur: 3
+std: 32.45
+size: 579805 (566.22 KiB)
+
+xmin: -0.13202204765567638
+xmax: 0.13464461901099029
+ymin: -0.8676526984306263
+ymax: -0.7176526984306263
+
+contrast: 1.3
+brightness: 0.09
+saturation: 0.51
+gamma: 1.07
+gamma_r: 0.94
+gamma_g: 1.08
+gamma_b: 0.99
+vignette: 8
+temp: 6288
