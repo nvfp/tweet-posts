@@ -1,0 +1,31 @@
+tweet_id: 1718039645919883446
+masto_id: 111309458759300338
+subre_id: Not uploaded, but here's the text: You rock, and so does this Friday!  #Math #AI
+
+newton_power: 7
+newton_const: -2
+
+n_iter: 220
+ct: 112
+hue_offset: 336
+saturation: -0.66
+
+num_attempts: 90
+dur: 603
+std: 21.57
+size: 958975 (936.5 KiB)
+
+xmin: 0.15329431203165322
+xmax: 0.1643237237963591
+ymin: -0.5409074771799514
+ymax: -0.5347034330623043
+
+contrast: 0.93
+brightness: 0.18
+saturation: 0.63
+gamma: 0.98
+gamma_r: 1.07
+gamma_g: 1.09
+gamma_b: 0.9
+vignette: -3
+temp: 6216
