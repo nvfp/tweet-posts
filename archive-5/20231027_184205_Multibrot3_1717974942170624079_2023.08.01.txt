@@ -1,0 +1,28 @@
+tweet_id: 1717974942170624079
+masto_id: 111308447771403478
+subre_id: Not uploaded, but here's the text: Having a blast on Friday?  #MachineLearning #Mathematics
+
+n_iter: 406
+ct: 1
+hue_offset: 165
+saturation: 0.24
+
+num_attempts: 311
+dur: 603
+std: 70.74
+size: 1119239 (1.07 MiB)
+
+xmin: 0.06038191638284962
+xmax: 0.06732636082729407
+ymin: 0.776648654554644
+ymax: 0.780554904554644
+
+contrast: 1.22
+brightness: 0.12
+saturation: 1.19
+gamma: 0.95
+gamma_r: 0.91
+gamma_g: 1.07
+gamma_b: 0.98
+vignette: -17
+temp: 6199
