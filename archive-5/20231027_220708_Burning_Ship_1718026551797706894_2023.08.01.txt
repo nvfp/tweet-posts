@@ -1,0 +1,28 @@
+tweet_id: 1718026551797706894
+masto_id: 111309254012477595
+subre_id: Not uploaded, but here's the text: Hope you're having a great Friday!  #DeepLearning #Fractals
+
+n_iter: 305
+ct: 60
+hue_offset: 308
+saturation: -0.88
+
+num_attempts: 2
+dur: 1
+std: 40.03
+size: 1696767 (1.62 MiB)
+
+xmin: -0.6181422432770143
+xmax: -0.565201066806426
+ymin: -0.908820632763754
+ymax: -0.8790412209990481
+
+contrast: 1.1
+brightness: 0.02
+saturation: 1.75
+gamma: 1.05
+gamma_r: 1.02
+gamma_g: 1.08
+gamma_b: 0.95
+vignette: -5
+temp: 7856
