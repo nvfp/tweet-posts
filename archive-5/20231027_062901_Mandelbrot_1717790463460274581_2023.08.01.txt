@@ -1,0 +1,28 @@
+tweet_id: 1717790463460274581
+masto_id: 111305565261166644
+subre_id: Not uploaded, but here's the text: Wow, take a look! There's Mandelbrot Set!  #DeepLearning #DigitalArt
+
+n_iter: 811
+ct: 226
+hue_offset: 224
+saturation: 0.47
+
+num_attempts: 81
+dur: 148
+std: 20.64
+size: 591089 (577.24 KiB)
+
+xmin: -0.3907887539523869
+xmax: -0.39004373625821664
+ymin: -0.6510985700947398
+ymax: -0.650679497641769
+
+contrast: 1.67
+brightness: 0.1
+saturation: 1.16
+gamma: 0.93
+gamma_r: 0.93
+gamma_g: 0.99
+gamma_b: 1.07
+vignette: 3
+temp: 7660
