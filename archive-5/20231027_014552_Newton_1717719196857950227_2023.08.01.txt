@@ -1,0 +1,31 @@
+tweet_id: 1717719196857950227
+masto_id: 111304451853473096
+subre_id: Not uploaded, but here's the text: Today is awesome!  #Science #AI
+
+newton_power: 3
+newton_const: -3
+
+n_iter: 74
+ct: 84
+hue_offset: 259
+saturation: 0.83
+
+num_attempts: 299
+dur: 600
+std: 4.33
+size: 651918 (636.64 KiB)
+
+xmin: 0.7705038910651694
+xmax: 0.7793534485872933
+ymin: 0.7737941717036341
+ymax: 0.7787720478098288
+
+contrast: 0.92
+brightness: 0.2
+saturation: 0.88
+gamma: 1.04
+gamma_r: 0.94
+gamma_g: 0.95
+gamma_b: 0.93
+vignette: 11
+temp: 3848
