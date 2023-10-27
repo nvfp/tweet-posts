@@ -1,0 +1,28 @@
+tweet_id: 1717999974833590399
+masto_id: 111308838873447123
+subre_id: Not uploaded, but here's the text: Hope your Friday is awesome!  #Fractals #Art
+
+n_iter: 724
+ct: 220
+hue_offset: 289
+saturation: 0.17
+
+num_attempts: 50
+dur: 40
+std: 58.7
+size: 650228 (634.99 KiB)
+
+xmin: -0.7486416659852049
+xmax: -0.7481463712848582
+ymin: -0.12515732178300765
+ymax: -0.12487871851406263
+
+contrast: 1.05
+brightness: 0.16
+saturation: 0.85
+gamma: 0.97
+gamma_r: 1.06
+gamma_g: 0.97
+gamma_b: 1.01
+vignette: -2
+temp: 3229
