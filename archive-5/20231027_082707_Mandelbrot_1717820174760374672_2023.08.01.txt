@@ -1,0 +1,28 @@
+tweet_id: 1717820174760374672
+masto_id: 111306029590999158
+subre_id: Not uploaded, but here's the text: Wishing you a wonderful Friday!  #Nature #Art
+
+n_iter: 931
+ct: 126
+hue_offset: 328
+saturation: -0.96
+
+num_attempts: 60
+dur: 138
+std: 23.43
+size: 1058375 (1.01 MiB)
+
+xmin: 0.19620190393179948
+xmax: 0.1966350387450101
+ymin: 0.5819897227777597
+ymax: 0.5822333611101908
+
+contrast: 1.2
+brightness: 0.14
+saturation: 1.23
+gamma: 0.93
+gamma_r: 1.0
+gamma_g: 0.97
+gamma_b: 1.03
+vignette: 14
+temp: 4388
