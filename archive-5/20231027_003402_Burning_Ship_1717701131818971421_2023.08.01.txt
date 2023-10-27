@@ -1,0 +1,28 @@
+tweet_id: 1717701131818971421
+masto_id: 111304169376183007
+subre_id: Not uploaded, but here's the text: This Friday is made even better by this Burning Ship!  #DeepLearning #Mathematics
+
+n_iter: 488
+ct: 229
+hue_offset: 254
+saturation: 0.01
+
+num_attempts: 10
+dur: 13
+std: 79.18
+size: 1454454 (1.39 MiB)
+
+xmin: -0.32267909425370034
+xmax: -0.23777343387634187
+ymin: -0.9380072772108146
+ymax: -0.8902478432485504
+
+contrast: 1.1
+brightness: -0.03
+saturation: 0.37
+gamma: 1.04
+gamma_r: 1.05
+gamma_g: 0.98
+gamma_b: 0.96
+vignette: 13
+temp: 4100
