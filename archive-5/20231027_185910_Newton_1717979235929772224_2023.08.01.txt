@@ -1,0 +1,31 @@
+tweet_id: 1717979235929772224
+masto_id: 111308514900355010
+subre_id: Not uploaded, but here's the text: Wow, take a look! There's Newton!  #Nature #Science
+
+newton_power: 3
+newton_const: 7
+
+n_iter: 152
+ct: 45
+hue_offset: 42
+saturation: -0.08
+
+num_attempts: 244
+dur: 602
+std: 3.66
+size: 545207 (532.43 KiB)
+
+xmin: 2.413323946070382
+xmax: 2.4249518530471263
+ymin: -0.16846175678796094
+ymax: -0.16192105911354232
+
+contrast: 1.23
+brightness: 0.14
+saturation: 0.43
+gamma: 0.93
+gamma_r: 1.09
+gamma_g: 1.09
+gamma_b: 1.06
+vignette: -12
+temp: 6456
