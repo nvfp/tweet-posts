@@ -1,0 +1,31 @@
+tweet_id: 1717858485021602207
+masto_id: 111306628190867571
+subre_id: Not uploaded, but here's the text: Hope you're having a great Friday!  #MachineLearning #DeepLearning
+
+newton_power: 7
+newton_const: 1
+
+n_iter: 241
+ct: 110
+hue_offset: 76
+saturation: -0.53
+
+num_attempts: 64
+dur: 605
+std: 24.1
+size: 1223911 (1.17 MiB)
+
+xmin: -0.9029526229880389
+xmax: -0.8684698643673493
+ymin: -0.557202936652756
+ymax: -0.5378063849286181
+
+contrast: 0.87
+brightness: 0.22
+saturation: 1.63
+gamma: 1.01
+gamma_r: 1.0
+gamma_g: 1.08
+gamma_b: 0.97
+vignette: 21
+temp: 4656
