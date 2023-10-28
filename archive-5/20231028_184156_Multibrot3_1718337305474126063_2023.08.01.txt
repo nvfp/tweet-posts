@@ -1,0 +1,28 @@
+tweet_id: 1718337305474126063
+masto_id: 111314109489943783
+subre_id: Not uploaded, but here's the text: Wishing you a wonderful Saturday!  #Nature #DigitalArt
+
+n_iter: 575
+ct: 1
+hue_offset: 205
+saturation: 0.15
+
+num_attempts: 230
+dur: 607
+std: 90.48
+size: 644497 (629.39 KiB)
+
+xmin: -0.22132223448530364
+xmax: -0.2170072398790469
+ymin: -0.96363023554824
+ymax: -0.9612030510822206
+
+contrast: 1.42
+brightness: 0.17
+saturation: 0.63
+gamma: 0.94
+gamma_r: 0.94
+gamma_g: 0.99
+gamma_b: 1.01
+vignette: -24
+temp: 2307
