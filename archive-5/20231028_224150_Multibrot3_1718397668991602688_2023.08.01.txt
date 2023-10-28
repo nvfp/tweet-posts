@@ -1,0 +1,28 @@
+tweet_id: 1718397668991602688
+masto_id: 111315052816818463
+subre_id: Not uploaded, but here's the text: A great Saturday and a beautiful Multibrot.  #DeepLearning #Mathematics
+
+n_iter: 451
+ct: 1
+hue_offset: 138
+saturation: 0.13
+
+num_attempts: 294
+dur: 609
+std: 68.49
+size: 889047 (868.21 KiB)
+
+xmin: -0.149966328322805
+xmax: -0.14500354916647745
+ymin: 0.7547755576327835
+ymax: 0.7575671209082178
+
+contrast: 1.8
+brightness: 0.07
+saturation: 0.73
+gamma: 1.03
+gamma_r: 1.06
+gamma_g: 0.98
+gamma_b: 1.09
+vignette: 29
+temp: 7286
