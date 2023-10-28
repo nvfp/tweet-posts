@@ -1,0 +1,31 @@
+tweet_id: 1718130193414709624
+masto_id: 111310873544423995
+subre_id: Not uploaded, but here's the text: you are cool  #Programming #Science
+
+newton_power: 7
+newton_const: 8
+
+n_iter: 140
+ct: 66
+hue_offset: 58
+saturation: -0.54
+
+num_attempts: 78
+dur: 601
+std: 18.67
+size: 1345429 (1.28 MiB)
+
+xmin: -0.7067996929790668
+xmax: -0.6877520739314477
+ymin: 0.38520219540241385
+ymax: 0.3959164811166996
+
+contrast: 1.65
+brightness: -0.09
+saturation: 0.77
+gamma: 1.08
+gamma_r: 0.97
+gamma_g: 0.94
+gamma_b: 0.95
+vignette: 20
+temp: 5125
