@@ -1,0 +1,31 @@
+tweet_id: 1718161488530280884
+masto_id: 111311362519158989
+subre_id: Not uploaded, but here's the text: Feeling the Newton vibes today!  #Math #Science
+
+newton_power: 6
+newton_const: 0
+
+n_iter: 87
+ct: 196
+hue_offset: 163
+saturation: 0.23
+
+num_attempts: 90
+dur: 853
+std: 0.49
+size: 572025 (558.62 KiB)
+
+xmin: -0.670360577458847
+xmax: -0.5735863839104599
+ymin: -0.4460214456746394
+ymax: -0.39158596180367167
+
+contrast: 1.41
+brightness: 0.2
+saturation: 1.29
+gamma: 1.04
+gamma_r: 0.93
+gamma_g: 0.96
+gamma_b: 1.08
+vignette: -32
+temp: 2428
