@@ -1,0 +1,28 @@
+tweet_id: 1718117609822949482
+masto_id: 111310676875563757
+subre_id: Not uploaded, but here's the text: you are fantastic!  #DeepLearning #AI
+
+n_iter: 479
+ct: 172
+hue_offset: 251
+saturation: 0.93
+
+num_attempts: 16
+dur: 11
+std: 38.82
+size: 1623089 (1.55 MiB)
+
+xmin: -1.0947067327935391
+xmax: -0.6447067327935392
+ymin: -1.0165777373844047
+ymax: -0.7634527373844047
+
+contrast: 1.5
+brightness: 0.23
+saturation: 1.45
+gamma: 0.93
+gamma_r: 0.96
+gamma_g: 0.93
+gamma_b: 0.97
+vignette: 29
+temp: 2524
