@@ -1,0 +1,31 @@
+tweet_id: 1718281197003100502
+masto_id: 111313233014712206
+subre_id: Not uploaded, but here's the text: Wishing you a wonderful Saturday!  #AI #Art
+
+newton_power: 5
+newton_const: 2
+
+n_iter: 113
+ct: 81
+hue_offset: 58
+saturation: -0.52
+
+num_attempts: 114
+dur: 601
+std: 10.42
+size: 982848 (959.81 KiB)
+
+xmin: -2.993452531603929
+xmax: -2.9704640258568022
+ymin: -1.927173534491582
+ymax: -1.9142425000088232
+
+contrast: 1.31
+brightness: 0.11
+saturation: 1.09
+gamma: 1.08
+gamma_r: 0.98
+gamma_g: 1.07
+gamma_b: 1.01
+vignette: -8
+temp: 4277
