@@ -1,0 +1,28 @@
+tweet_id: 1718207676662899108
+masto_id: 111312084270576700
+subre_id: Not uploaded, but here's the text: you are fantastic!  #Science #Art
+
+n_iter: 175
+ct: 215
+hue_offset: 344
+saturation: 0.83
+
+num_attempts: 12
+dur: 3
+std: 20.27
+size: 1120375 (1.07 MiB)
+
+xmin: -1.7923938543373477
+xmax: -0.29239385433734766
+ymin: -1.1107237918964237
+ymax: -0.2669737918964237
+
+contrast: 1.09
+brightness: 0.12
+saturation: 1.45
+gamma: 1.08
+gamma_r: 0.91
+gamma_g: 1.0
+gamma_b: 0.99
+vignette: -36
+temp: 5509
