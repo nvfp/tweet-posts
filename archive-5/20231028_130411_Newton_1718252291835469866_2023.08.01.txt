@@ -1,0 +1,31 @@
+tweet_id: 1718252291835469866
+masto_id: 111312781416029249
+subre_id: Not uploaded, but here's the text: Happy Saturday!  #MachineLearning #Mathematics
+
+newton_power: 6
+newton_const: -9
+
+n_iter: 101
+ct: 163
+hue_offset: 233
+saturation: 0.77
+
+num_attempts: 68
+dur: 609
+std: 15.66
+size: 1057168 (1.01 MiB)
+
+xmin: 2.2180594633157877
+xmax: 2.2248238376111655
+ymin: 1.2827937446834659
+ymax: 1.2865987052246157
+
+contrast: 1.5
+brightness: 0.09
+saturation: 1.73
+gamma: 1.01
+gamma_r: 1.04
+gamma_g: 1.1
+gamma_b: 0.99
+vignette: 19
+temp: 4348
