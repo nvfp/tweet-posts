@@ -1,0 +1,31 @@
+tweet_id: 1718311362873438276
+masto_id: 111313704296991690
+subre_id: Not uploaded, but here's the text: Saturday is shining brightly, just like this Newton.  #Science #AI
+
+newton_power: 6
+newton_const: -8
+
+n_iter: 90
+ct: 237
+hue_offset: 175
+saturation: -0.08
+
+num_attempts: 90
+dur: 600
+std: 14.07
+size: 571756 (558.36 KiB)
+
+xmin: 2.504391186364206
+xmax: 2.5127129616762724
+ymin: -1.1279020169567606
+ymax: -1.1232210183437232
+
+contrast: 1.48
+brightness: 0.15
+saturation: 1.28
+gamma: 1.09
+gamma_r: 1.02
+gamma_g: 1.08
+gamma_b: 0.95
+vignette: -2
+temp: 2177
