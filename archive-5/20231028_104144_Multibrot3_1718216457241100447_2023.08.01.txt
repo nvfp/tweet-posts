@@ -1,0 +1,28 @@
+tweet_id: 1718216457241100447
+masto_id: 111312221264445599
+subre_id: Not uploaded, but here's the text: Wishing you a rad Saturday!  #Nature #MachineLearning
+
+n_iter: 578
+ct: 1
+hue_offset: 221
+saturation: 0.02
+
+num_attempts: 318
+dur: 602
+std: 93.7
+size: 781344 (763.03 KiB)
+
+xmin: -0.3284803360929849
+xmax: -0.32325157792305026
+ymin: 0.7047321361821139
+ymax: 0.7076733126527022
+
+contrast: 1.78
+brightness: 0.11
+saturation: 0.59
+gamma: 1.06
+gamma_r: 1.01
+gamma_g: 0.95
+gamma_b: 0.9
+vignette: 16
+temp: 5819
