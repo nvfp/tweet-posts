@@ -1,0 +1,28 @@
+tweet_id: 1718063312603390077
+masto_id: 111309828515228133
+subre_id: Not uploaded, but here's the text: Sending you this fractal on this Saturday!  #DeepLearning #Math
+
+n_iter: 159
+ct: 114
+hue_offset: 96
+saturation: 0.78
+
+num_attempts: 20
+dur: 8
+std: 22.43
+size: 967816 (945.13 KiB)
+
+xmin: 0.2003961779693202
+xmax: 0.7003961779693202
+ymin: -1.338163796983173
+ymax: -1.056913796983173
+
+contrast: 1.42
+brightness: 0.01
+saturation: 1.17
+gamma: 0.93
+gamma_r: 1.09
+gamma_g: 1.02
+gamma_b: 0.91
+vignette: 31
+temp: 6079
