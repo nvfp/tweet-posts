@@ -1,0 +1,28 @@
+tweet_id: 1718276922986422615
+masto_id: 111313166420474209
+subre_id: Not uploaded, but here's the text: Let's rock this Saturday!  #Fractals #AI
+
+n_iter: 379
+ct: 1
+hue_offset: 162
+saturation: 0.74
+
+num_attempts: 380
+dur: 608
+std: 28.7
+size: 1156118 (1.1 MiB)
+
+xmin: 0.5540976255605874
+xmax: 0.5594026653483858
+ymin: 0.16773335880416984
+ymax: 0.17071744368480646
+
+contrast: 0.92
+brightness: -0.07
+saturation: 1.0
+gamma: 0.98
+gamma_r: 0.93
+gamma_g: 1.08
+gamma_b: 1.03
+vignette: -23
+temp: 7062
