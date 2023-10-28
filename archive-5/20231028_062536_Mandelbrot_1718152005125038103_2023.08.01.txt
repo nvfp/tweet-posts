@@ -1,0 +1,28 @@
+tweet_id: 1718152005125038103
+masto_id: 111311214104961086
+subre_id: Not uploaded, but here's the text: Let's make it a memorable Saturday!  #Science #Fractals
+
+n_iter: 380
+ct: 231
+hue_offset: 171
+saturation: -0.93
+
+num_attempts: 49
+dur: 52
+std: 26.68
+size: 75363 (73.6 KiB)
+
+xmin: 0.1862158294010099
+xmax: 0.18967006083451593
+ymin: -0.5521593455346804
+ymax: -0.5502163403533332
+
+contrast: 1.41
+brightness: -0.07
+saturation: 1.68
+gamma: 1.02
+gamma_r: 0.91
+gamma_g: 1.0
+gamma_b: 1.07
+vignette: -11
+temp: 6315
