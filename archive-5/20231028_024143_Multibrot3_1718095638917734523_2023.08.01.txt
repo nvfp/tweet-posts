@@ -1,0 +1,28 @@
+tweet_id: 1718095638917734523
+masto_id: 111310333751769730
+subre_id: Not uploaded, but here's the text: Another Saturday, another Multibrot!  #DigitalArt #Math
+
+n_iter: 530
+ct: 255
+hue_offset: 175
+saturation: -0.48
+
+num_attempts: 303
+dur: 601
+std: 64.9
+size: 774327 (756.18 KiB)
+
+xmin: -0.3471889214737687
+xmax: -0.3412453850696082
+ymin: -0.7193526994340433
+ymax: -0.7160094602067031
+
+contrast: 0.79
+brightness: 0.06
+saturation: 1.35
+gamma: 1.08
+gamma_r: 0.9
+gamma_g: 1.09
+gamma_b: 0.99
+vignette: -20
+temp: 2042
