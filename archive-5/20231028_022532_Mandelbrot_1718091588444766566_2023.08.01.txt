@@ -1,0 +1,28 @@
+tweet_id: 1718091588444766566
+masto_id: 111310270146418082
+subre_id: Not uploaded, but here's the text: Another Saturday, another Mandelbrot Set!  #Math #Fractals
+
+n_iter: 979
+ct: 44
+hue_offset: 153
+saturation: 0.28
+
+num_attempts: 35
+dur: 80
+std: 126.49
+size: 94099 (91.89 KiB)
+
+xmin: -1.2506685430093465
+xmax: -1.250175628653216
+ymin: 0.005070601042926004
+ymax: 0.005347865368249479
+
+contrast: 1.65
+brightness: 0.12
+saturation: 0.29
+gamma: 0.97
+gamma_r: 1.09
+gamma_g: 1.03
+gamma_b: 0.94
+vignette: 27
+temp: 2834
