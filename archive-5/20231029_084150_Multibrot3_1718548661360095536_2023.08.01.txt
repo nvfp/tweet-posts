@@ -1,0 +1,28 @@
+tweet_id: 1718548661360095536
+masto_id: 111317412074822328
+subre_id: Not uploaded, but here's the text: Brighten your Sunday!  #Programming #MachineLearning
+
+n_iter: 600
+ct: 255
+hue_offset: 341
+saturation: -0.07
+
+num_attempts: 253
+dur: 600
+std: 68.11
+size: 563321 (550.12 KiB)
+
+xmin: 0.49015651886899514
+xmax: 0.5014241245027979
+ymin: 0.4797101335480798
+ymax: 0.48604816171709386
+
+contrast: 1.27
+brightness: 0.15
+saturation: 0.84
+gamma: 0.95
+gamma_r: 1.03
+gamma_g: 1.05
+gamma_b: 0.92
+vignette: -20
+temp: 6603
