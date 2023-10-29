@@ -1,0 +1,28 @@
+tweet_id: 1718451961270616512
+masto_id: 111315901119150417
+subre_id: Not uploaded, but here's the text: Feeling the Burning Ship vibes today!  #DeepLearning #DigitalArt
+
+n_iter: 385
+ct: 173
+hue_offset: 19
+saturation: 0.83
+
+num_attempts: 9
+dur: 10
+std: 54.93
+size: 909668 (888.35 KiB)
+
+xmin: -0.0188857675089511
+xmax: 0.2061142324910489
+ymin: -1.1541888740896864
+ymax: -1.0276263740896865
+
+contrast: 1.38
+brightness: 0.21
+saturation: 1.43
+gamma: 0.94
+gamma_r: 1.01
+gamma_g: 1.0
+gamma_b: 0.97
+vignette: -3
+temp: 3581
