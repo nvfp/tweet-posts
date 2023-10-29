@@ -1,0 +1,28 @@
+tweet_id: 1718458493248643477
+masto_id: 111316003181116391
+subre_id: Not uploaded, but here's the text: Enjoying the Sunday with this Multibrot.  #DeepLearning #Math
+
+n_iter: 317
+ct: 255
+hue_offset: 147
+saturation: -0.35
+
+num_attempts: 480
+dur: 605
+std: 48.28
+size: 331671 (323.9 KiB)
+
+xmin: 0.5207498332117466
+xmax: 0.5250648278180033
+ymin: -0.4664936937094939
+ymax: -0.4640665092434745
+
+contrast: 0.92
+brightness: 0.09
+saturation: 1.47
+gamma: 0.99
+gamma_r: 0.94
+gamma_g: 1.09
+gamma_b: 0.92
+vignette: -2
+temp: 4648
