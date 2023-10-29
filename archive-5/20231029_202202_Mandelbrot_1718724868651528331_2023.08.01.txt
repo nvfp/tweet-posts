@@ -1,0 +1,28 @@
+tweet_id: 1718724868651528331
+masto_id: 111320165435491452
+subre_id: Not uploaded, but here's the text: Sunday vibes!  #Science #DigitalArt
+
+n_iter: 416
+ct: 94
+hue_offset: 72
+saturation: 0.09
+
+num_attempts: 145
+dur: 109
+std: 36.97
+size: 633845 (618.99 KiB)
+
+xmin: -0.7117528833455751
+xmax: -0.710427502298524
+ymin: -0.2756244136436995
+ymax: -0.27487888680473327
+
+contrast: 0.92
+brightness: 0.17
+saturation: 0.57
+gamma: 0.96
+gamma_r: 1.01
+gamma_g: 1.02
+gamma_b: 0.93
+vignette: 7
+temp: 2424
