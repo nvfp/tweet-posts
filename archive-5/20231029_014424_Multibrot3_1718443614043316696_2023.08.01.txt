@@ -1,0 +1,28 @@
+tweet_id: 1718443614043316696
+masto_id: 111315770679402629
+subre_id: Not uploaded, but here's the text: Wishing you a rad Sunday!  #Science #Fractals
+
+n_iter: 334
+ct: 1
+hue_offset: 232
+saturation: 0.67
+
+num_attempts: 538
+dur: 601
+std: 59.06
+size: 910899 (889.55 KiB)
+
+xmin: 0.5342384372445186
+xmax: 0.542066225894225
+ymin: 0.611071333995068
+ymax: 0.6154744651105278
+
+contrast: 0.77
+brightness: -0.02
+saturation: 1.02
+gamma: 0.94
+gamma_r: 1.01
+gamma_g: 0.93
+gamma_b: 0.97
+vignette: -3
+temp: 4267
