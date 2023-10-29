@@ -1,0 +1,28 @@
+tweet_id: 1718426657294618635
+masto_id: 111315505798879986
+subre_id: Not uploaded, but here's the text: Let this Burning Ship inspire your Sunday.  #Science #Art
+
+n_iter: 289
+ct: 212
+hue_offset: 187
+saturation: -0.04
+
+num_attempts: 2
+dur: 0
+std: 26.59
+size: 1506015 (1.44 MiB)
+
+xmin: -0.6710401285981293
+xmax: -0.5972696367948507
+ymin: -0.9788967933745261
+ymax: -0.9374008917351818
+
+contrast: 1.33
+brightness: 0.17
+saturation: 1.57
+gamma: 0.94
+gamma_r: 0.92
+gamma_g: 1.07
+gamma_b: 1.02
+vignette: 23
+temp: 5290
