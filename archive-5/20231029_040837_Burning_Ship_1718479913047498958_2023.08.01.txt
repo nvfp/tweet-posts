@@ -1,0 +1,28 @@
+tweet_id: 1718479913047498958
+masto_id: 111316337805512843
+subre_id: Not uploaded, but here's the text: Look closely, it's Burning Ship!  #Programming #Mathematics
+
+n_iter: 233
+ct: 103
+hue_offset: 130
+saturation: 0.51
+
+num_attempts: 13
+dur: 6
+std: 28.3
+size: 774406 (756.26 KiB)
+
+xmin: -1.59320943155413
+xmax: -1.03070943155413
+ymin: -0.4457461040278978
+ymax: -0.12933985402789783
+
+contrast: 1.63
+brightness: 0.13
+saturation: 0.95
+gamma: 0.99
+gamma_r: 0.98
+gamma_g: 0.95
+gamma_b: 1.05
+vignette: 32
+temp: 5930
