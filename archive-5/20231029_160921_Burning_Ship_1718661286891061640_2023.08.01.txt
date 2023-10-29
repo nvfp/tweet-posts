@@ -1,0 +1,28 @@
+tweet_id: 1718661286891061640
+masto_id: 111319171801609582
+subre_id: Not uploaded, but here's the text: Enjoy your Sunday!  #Fractals #Science
+
+n_iter: 424
+ct: 141
+hue_offset: 89
+saturation: 0.79
+
+num_attempts: 1
+dur: 1
+std: 26.43
+size: 367783 (359.16 KiB)
+
+xmin: -2.2539380776216786
+xmax: -0.003938077621678637
+ymin: -0.9135994464800228
+ymax: 0.3520255535199772
+
+contrast: 1.23
+brightness: -0.08
+saturation: 1.69
+gamma: 0.95
+gamma_r: 1.03
+gamma_g: 1.06
+gamma_b: 1.1
+vignette: -46
+temp: 6195
