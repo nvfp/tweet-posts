@@ -1,0 +1,28 @@
+tweet_id: 1718483845467803978
+masto_id: 111316399154802533
+subre_id: Not uploaded, but here's the text: Have an extraordinary Sunday!  #AI #Nature
+
+n_iter: 146
+ct: 45
+hue_offset: 354
+saturation: 0.3
+
+num_attempts: 60
+dur: 29
+std: 52.13
+size: 242237 (236.56 KiB)
+
+xmin: -1.2527028834477874
+xmax: -1.250580867532668
+ymin: 0.013589452078959008
+ymax: 0.01478308603121365
+
+contrast: 1.05
+brightness: -0.06
+saturation: 0.68
+gamma: 1.02
+gamma_r: 1.03
+gamma_g: 1.03
+gamma_b: 0.9
+vignette: 6
+temp: 6863
