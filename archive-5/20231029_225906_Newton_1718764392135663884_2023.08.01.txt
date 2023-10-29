@@ -1,0 +1,31 @@
+tweet_id: 1718764392135663884
+masto_id: 111320782987334765
+subre_id: Not uploaded, but here's the text: Wishing you a rad Sunday!  #MachineLearning #VisualArt
+
+newton_power: 4
+newton_const: -4
+
+n_iter: 82
+ct: 126
+hue_offset: 304
+saturation: 0.09
+
+num_attempts: 110
+dur: 602
+std: 6.68
+size: 855713 (835.66 KiB)
+
+xmin: 0.7902774228955947
+xmax: 1.9902774228955946
+ymin: 1.197663965456945
+ymax: 1.8726639654569448
+
+contrast: 0.9
+brightness: -0.05
+saturation: 0.71
+gamma: 1.0
+gamma_r: 1.01
+gamma_g: 0.94
+gamma_b: 0.94
+vignette: -20
+temp: 6424
