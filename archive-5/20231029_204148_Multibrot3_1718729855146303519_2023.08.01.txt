@@ -1,0 +1,28 @@
+tweet_id: 1718729855146303519
+masto_id: 111320243122273353
+subre_id: Not uploaded, but here's the text: Happy Sunday!  #Nature #DigitalArt
+
+n_iter: 291
+ct: 255
+hue_offset: 137
+saturation: 1.0
+
+num_attempts: 420
+dur: 600
+std: 51.59
+size: 475593 (464.45 KiB)
+
+xmin: -0.20733600585244316
+xmax: -0.2030897213513816
+ymin: 0.9626577014739075
+ymax: 0.9650462365057546
+
+contrast: 1.65
+brightness: 0.06
+saturation: 0.9
+gamma: 0.94
+gamma_r: 1.04
+gamma_g: 0.98
+gamma_b: 1.05
+vignette: -25
+temp: 6625
