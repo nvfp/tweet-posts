@@ -1,0 +1,28 @@
+tweet_id: 1718578881215582511
+masto_id: 111317884159147728
+subre_id: Not uploaded, but here's the text: Smile on this lovely day!  #DigitalArt #DeepLearning
+
+n_iter: 370
+ct: 1
+hue_offset: 355
+saturation: -0.08
+
+num_attempts: 412
+dur: 607
+std: 64.16
+size: 689187 (673.03 KiB)
+
+xmin: -0.12792096584151902
+xmax: -0.12284482370953932
+ymin: 0.8017207100779706
+ymax: 0.8045760400272092
+
+contrast: 1.55
+brightness: 0.01
+saturation: 0.69
+gamma: 0.95
+gamma_r: 1.03
+gamma_g: 1.02
+gamma_b: 1.01
+vignette: -32
+temp: 5223
