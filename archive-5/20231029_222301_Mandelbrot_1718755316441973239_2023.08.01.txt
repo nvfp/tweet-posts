@@ -1,0 +1,28 @@
+tweet_id: 1718755316441973239
+masto_id: 111320641132659601
+subre_id: Not uploaded, but here's the text: Hope you have an amazing Sunday!  #MachineLearning #VisualArt
+
+n_iter: 709
+ct: 213
+hue_offset: 190
+saturation: -0.8
+
+num_attempts: 17
+dur: 26
+std: 55.89
+size: 1152277 (1.1 MiB)
+
+xmin: 0.07560125181064103
+xmax: 0.0761893141452485
+ymin: -0.626472931928561
+ymax: -0.6261421468653443
+
+contrast: 0.84
+brightness: 0.08
+saturation: 0.73
+gamma: 1.07
+gamma_r: 1.09
+gamma_g: 1.04
+gamma_b: 1.04
+vignette: 27
+temp: 6697
