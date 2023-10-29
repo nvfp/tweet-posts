@@ -1,0 +1,28 @@
+tweet_id: 1718510195528147072
+masto_id: 111316811093619236
+subre_id: Not uploaded, but here's the text: Let's rock this Sunday!  #AI #Math
+
+n_iter: 512
+ct: 182
+hue_offset: 335
+saturation: 0.36
+
+num_attempts: 21
+dur: 4
+std: 25.88
+size: 465554 (454.64 KiB)
+
+xmin: -1.3040365093229127
+xmax: 0.1959634906770873
+ymin: -1.8000814253627007
+ymax: -0.9563314253627007
+
+contrast: 1.09
+brightness: -0.09
+saturation: 0.81
+gamma: 1.03
+gamma_r: 1.09
+gamma_g: 1.04
+gamma_b: 1.02
+vignette: -11
+temp: 3385
