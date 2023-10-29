@@ -1,0 +1,28 @@
+tweet_id: 1718440116002357506
+masto_id: 111315715924009511
+subre_id: Not uploaded, but here's the text: Good Sunday! This Mandelbrot Set is for you!  #Fractals #Science
+
+n_iter: 389
+ct: 15
+hue_offset: 342
+saturation: 0.29
+
+num_attempts: 19
+dur: 16
+std: 68.24
+size: 654222 (638.89 KiB)
+
+xmin: -1.3400460230883704
+xmax: -1.3285847050367945
+ymin: 0.05032227928771604
+ymax: 0.056769270691727505
+
+contrast: 1.19
+brightness: -0.03
+saturation: 0.43
+gamma: 0.92
+gamma_r: 0.95
+gamma_g: 1.01
+gamma_b: 0.9
+vignette: 12
+temp: 5444
