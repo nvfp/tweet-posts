@@ -1,0 +1,28 @@
+tweet_id: 1718543946786426926
+masto_id: 111317338185897295
+subre_id: Not uploaded, but here's the text: Happy Sunday!  #Nature #DeepLearning
+
+n_iter: 523
+ct: 213
+hue_offset: 172
+saturation: -0.06
+
+num_attempts: 4
+dur: 6
+std: 45.23
+size: 73400 (71.68 KiB)
+
+xmin: 0.33160077593529946
+xmax: 0.34099044729680184
+ymin: -0.3837618812118815
+ymax: -0.3784801910710364
+
+contrast: 1.79
+brightness: 0.14
+saturation: 0.6
+gamma: 0.99
+gamma_r: 0.96
+gamma_g: 0.91
+gamma_b: 0.91
+vignette: -1
+temp: 5887
