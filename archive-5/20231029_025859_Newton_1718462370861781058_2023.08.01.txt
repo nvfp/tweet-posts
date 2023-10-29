@@ -1,0 +1,31 @@
+tweet_id: 1718462370861781058
+masto_id: 111316063943275419
+subre_id: Not uploaded, but here's the text: you are cool  #Science #Nature
+
+newton_power: 3
+newton_const: -1
+
+n_iter: 182
+ct: 246
+hue_offset: 62
+saturation: -0.27
+
+num_attempts: 295
+dur: 601
+std: 3.86
+size: 678133 (662.24 KiB)
+
+xmin: 0.278832294042763
+xmax: 0.28704022837928833
+ymin: 0.6025153888112156
+ymax: 0.6071323518755111
+
+contrast: 1.13
+brightness: -0.06
+saturation: 0.36
+gamma: 1.0
+gamma_r: 1.05
+gamma_g: 0.96
+gamma_b: 1.03
+vignette: -20
+temp: 4654
