@@ -1,0 +1,31 @@
+tweet_id: 1719126794534600861
+masto_id: 111326445501623846
+subre_id: Not uploaded, but here's the text: Have an awesome Monday!  #Fractals #DeepLearning
+
+newton_power: 7
+newton_const: -1
+
+n_iter: 181
+ct: 193
+hue_offset: 297
+saturation: -0.48
+
+num_attempts: 65
+dur: 601
+std: 28.62
+size: 779225 (760.96 KiB)
+
+xmin: -1.3393757486207583
+xmax: -1.317947177192187
+ymin: 1.936727171247961
+ymax: 1.9487807426765325
+
+contrast: 1.46
+brightness: 0.11
+saturation: 1.29
+gamma: 0.96
+gamma_r: 0.91
+gamma_g: 1.09
+gamma_b: 1.02
+vignette: 25
+temp: 4706
