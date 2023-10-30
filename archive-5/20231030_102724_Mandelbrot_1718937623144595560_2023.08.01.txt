@@ -1,0 +1,28 @@
+tweet_id: 1718937623144595560
+masto_id: 111323489527040063
+subre_id: Not uploaded, but here's the text: Surprise! Mandelbrot Set!  #Programming #AI
+
+n_iter: 712
+ct: 136
+hue_offset: 107
+saturation: -0.87
+
+num_attempts: 10
+dur: 12
+std: 115.97
+size: 1725023 (1.65 MiB)
+
+xmin: -0.8843930482338638
+xmax: -0.8838711956572167
+ymin: -0.22414080896847888
+ymax: -0.22384726689411488
+
+contrast: 1.64
+brightness: 0.15
+saturation: 1.32
+gamma: 1.06
+gamma_r: 0.94
+gamma_g: 1.04
+gamma_b: 0.97
+vignette: 4
+temp: 6687
