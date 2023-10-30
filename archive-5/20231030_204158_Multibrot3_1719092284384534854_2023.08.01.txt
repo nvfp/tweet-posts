@@ -1,0 +1,28 @@
+tweet_id: 1719092284384534854
+masto_id: 111325906123205072
+subre_id: Not uploaded, but here's the text: Surprise! Multibrot!  #DigitalArt #Programming
+
+n_iter: 282
+ct: 1
+hue_offset: 7
+saturation: -0.78
+
+num_attempts: 549
+dur: 600
+std: 49.38
+size: 1173074 (1.12 MiB)
+
+xmin: -0.223023589090648
+xmax: -0.21806080993432048
+ymin: 1.0514306562801625
+ymax: 1.0542222195555968
+
+contrast: 1.78
+brightness: 0.18
+saturation: 0.86
+gamma: 0.9
+gamma_r: 1.02
+gamma_g: 1.08
+gamma_b: 1.02
+vignette: 14
+temp: 7185
