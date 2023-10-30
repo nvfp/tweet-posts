@@ -1,0 +1,28 @@
+tweet_id: 1719023759317782860
+masto_id: 111324835566463413
+subre_id: Not uploaded, but here's the text: Hope you're having a great Monday!  #Math #DeepLearning
+
+n_iter: 348
+ct: 181
+hue_offset: 199
+saturation: 0.5
+
+num_attempts: 3
+dur: 1
+std: 22.95
+size: 494212 (482.63 KiB)
+
+xmin: -2.1484959054772124
+xmax: -1.2484959054772125
+ymin: -0.3616795080395536
+ymax: 0.14457049196044636
+
+contrast: 1.45
+brightness: 0.0
+saturation: 1.07
+gamma: 0.98
+gamma_r: 0.91
+gamma_g: 0.96
+gamma_b: 1.06
+vignette: -31
+temp: 4956
