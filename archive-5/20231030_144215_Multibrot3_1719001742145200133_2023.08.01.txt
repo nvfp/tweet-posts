@@ -1,0 +1,28 @@
+tweet_id: 1719001742145200133
+masto_id: 111324491618371874
+subre_id: Not uploaded, but here's the text: Ever heard of this Multibrot?  #MachineLearning #DeepLearning
+
+n_iter: 374
+ct: 255
+hue_offset: 277
+saturation: 0.77
+
+num_attempts: 380
+dur: 607
+std: 62.72
+size: 912891 (891.5 KiB)
+
+xmin: 0.5636355993399085
+xmax: 0.5689056915665225
+ymin: 0.6086841481582375
+ymax: 0.6116485750357078
+
+contrast: 1.39
+brightness: 0.18
+saturation: 0.67
+gamma: 0.93
+gamma_r: 1.05
+gamma_g: 1.01
+gamma_b: 1.05
+vignette: -16
+temp: 3789
