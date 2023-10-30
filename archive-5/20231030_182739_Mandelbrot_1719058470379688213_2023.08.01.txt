@@ -1,0 +1,28 @@
+tweet_id: 1719058470379688213
+masto_id: 111325377940106052
+subre_id: Not uploaded, but here's the text: Wishing you a joyful day!  #Nature #DeepLearning
+
+n_iter: 626
+ct: 241
+hue_offset: 213
+saturation: -0.66
+
+num_attempts: 56
+dur: 65
+std: 77.01
+size: 773215 (755.09 KiB)
+
+xmin: -0.030616457351918314
+xmax: -0.01971727479061041
+ymin: 0.7353882319282621
+ymax: 0.7415190221189978
+
+contrast: 0.95
+brightness: -0.02
+saturation: 1.06
+gamma: 0.99
+gamma_r: 1.03
+gamma_g: 1.08
+gamma_b: 1.07
+vignette: 33
+temp: 7845
