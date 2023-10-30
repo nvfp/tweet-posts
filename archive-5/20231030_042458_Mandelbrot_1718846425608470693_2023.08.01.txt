@@ -1,0 +1,28 @@
+tweet_id: 1718846425608470693
+masto_id: 111322064409627526
+subre_id: Not uploaded, but here's the text: A great Monday and a beautiful Mandelbrot Set.  #MachineLearning #Science
+
+n_iter: 144
+ct: 119
+hue_offset: 63
+saturation: -0.21
+
+num_attempts: 13
+dur: 7
+std: 23.15
+size: 34383 (33.58 KiB)
+
+xmin: -0.7436242350252669
+xmax: -0.7426428807563757
+ymin: -0.09703637354540695
+ymax: -0.09648436176915573
+
+contrast: 1.1
+brightness: -0.1
+saturation: 1.04
+gamma: 1.04
+gamma_r: 0.98
+gamma_g: 0.98
+gamma_b: 0.92
+vignette: 4
+temp: 6791
