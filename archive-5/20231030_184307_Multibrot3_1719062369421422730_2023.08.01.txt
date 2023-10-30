@@ -1,0 +1,28 @@
+tweet_id: 1719062369421422730
+masto_id: 111325438727411243
+subre_id: Not uploaded, but here's the text: Let this Multibrot brighten up your Monday!  #DigitalArt #Programming
+
+n_iter: 439
+ct: 255
+hue_offset: 177
+saturation: 0.39
+
+num_attempts: 350
+dur: 608
+std: 64.7
+size: 1058856 (1.01 MiB)
+
+xmin: -0.11001566184880951
+xmax: -0.09845496820719102
+ymin: 0.79039630996437
+ymax: 0.7968992001377805
+
+contrast: 1.56
+brightness: 0.18
+saturation: 0.87
+gamma: 0.93
+gamma_r: 1.1
+gamma_g: 1.0
+gamma_b: 1.03
+vignette: -23
+temp: 7103
