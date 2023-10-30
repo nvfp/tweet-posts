@@ -1,0 +1,28 @@
+tweet_id: 1718997389640438252
+masto_id: 111324423326412425
+subre_id: Not uploaded, but here's the text: You rock, and so does this Monday!  #VisualArt #Math
+
+n_iter: 270
+ct: 103
+hue_offset: 333
+saturation: -0.37
+
+num_attempts: 38
+dur: 31
+std: 29.28
+size: 456740 (446.04 KiB)
+
+xmin: -0.6255152361283716
+xmax: -0.33980095041408587
+ymin: -0.6103972599243648
+ymax: -0.4496829742100791
+
+contrast: 1.5
+brightness: 0.1
+saturation: 1.62
+gamma: 1.02
+gamma_r: 0.95
+gamma_g: 1.04
+gamma_b: 1.06
+vignette: 20
+temp: 6837
