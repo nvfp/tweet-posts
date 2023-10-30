@@ -1,0 +1,31 @@
+tweet_id: 1719006060848074800
+masto_id: 111324559091358120
+subre_id: Not uploaded, but here's the text: Ever heard of this Newton?  #Nature #Science
+
+newton_power: 7
+newton_const: -8
+
+n_iter: 186
+ct: 182
+hue_offset: 264
+saturation: -0.82
+
+num_attempts: 62
+dur: 604
+std: 15.68
+size: 1051578 (1.0 MiB)
+
+xmin: 0.3294681837925659
+xmax: 0.34517499007528846
+ymin: 1.984463328617362
+ymax: 1.9932984071513935
+
+contrast: 1.23
+brightness: 0.1
+saturation: 1.06
+gamma: 1.02
+gamma_r: 0.92
+gamma_g: 0.91
+gamma_b: 1.0
+vignette: 25
+temp: 2283
