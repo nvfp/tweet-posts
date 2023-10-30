@@ -1,0 +1,28 @@
+tweet_id: 1718842511983350120
+masto_id: 111322003610714040
+subre_id: Not uploaded, but here's the text: Brighten your Monday!  #VisualArt #AI
+
+n_iter: 387
+ct: 147
+hue_offset: 350
+saturation: 0.17
+
+num_attempts: 3
+dur: 5
+std: 21.57
+size: 667419 (651.78 KiB)
+
+xmin: 0.02719782147008587
+xmax: 1.5271978214700859
+ymin: -1.8682124228122594
+ymax: -1.0244624228122594
+
+contrast: 0.77
+brightness: -0.02
+saturation: 1.03
+gamma: 1.1
+gamma_r: 0.91
+gamma_g: 1.09
+gamma_b: 1.05
+vignette: 14
+temp: 7026
