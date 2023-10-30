@@ -1,0 +1,31 @@
+tweet_id: 1719066387841462627
+masto_id: 111325501737374479
+subre_id: Not uploaded, but here's the text: Hey wait, look! it's Newton!  #Programming #Math
+
+newton_power: 6
+newton_const: -9
+
+n_iter: 200
+ct: 161
+hue_offset: 136
+saturation: 0.39
+
+num_attempts: 86
+dur: 601
+std: 16.39
+size: 976476 (953.59 KiB)
+
+xmin: -2.7790535153922593
+xmax: -2.735257894954303
+ymin: -1.720791907626764
+ymax: -1.6961568711304136
+
+contrast: 1.44
+brightness: 0.12
+saturation: 0.8
+gamma: 0.93
+gamma_r: 0.93
+gamma_g: 0.91
+gamma_b: 0.99
+vignette: -13
+temp: 6410
