@@ -1,0 +1,28 @@
+tweet_id: 1718903115670311275
+masto_id: 111322950327385253
+subre_id: Not uploaded, but here's the text: Good Monday! This Burning Ship is for you!  #Science #Nature
+
+n_iter: 406
+ct: 252
+hue_offset: 145
+saturation: -0.48
+
+num_attempts: 6
+dur: 2
+std: 51.61
+size: 2307496 (2.2 MiB)
+
+xmin: -1.0970125744050532
+xmax: -1.0378020480892638
+ymin: -0.5360608210072986
+ymax: -0.502754899954667
+
+contrast: 0.95
+brightness: 0.12
+saturation: 0.8
+gamma: 0.92
+gamma_r: 0.97
+gamma_g: 1.06
+gamma_b: 1.09
+vignette: -27
+temp: 3085
