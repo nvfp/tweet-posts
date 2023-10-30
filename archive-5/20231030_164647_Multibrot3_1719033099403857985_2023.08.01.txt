@@ -1,0 +1,28 @@
+tweet_id: 1719033099403857985
+masto_id: 111324981289855305
+subre_id: Not uploaded, but here's the text: Have an awesome Monday!  #AI #MachineLearning
+
+n_iter: 602
+ct: 255
+hue_offset: 197
+saturation: -0.77
+
+num_attempts: 188
+dur: 608
+std: 62.25
+size: 790604 (772.07 KiB)
+
+xmin: -0.5587089916399286
+xmax: -0.536237081527569
+ymin: -0.4657839351274289
+ymax: -0.45314348568922663
+
+contrast: 1.65
+brightness: -0.0
+saturation: 1.21
+gamma: 1.1
+gamma_r: 1.05
+gamma_g: 1.05
+gamma_b: 1.01
+vignette: 18
+temp: 4517
