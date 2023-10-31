@@ -1,0 +1,28 @@
+tweet_id: 1719304414060818523
+masto_id: 111329220582256715
+subre_id: Not uploaded, but here's the text: Let this Multibrot brighten up your Tuesday!  #DeepLearning #Science
+
+n_iter: 427
+ct: 1
+hue_offset: 196
+saturation: -0.52
+
+num_attempts: 306
+dur: 606
+std: 50.47
+size: 410895 (401.26 KiB)
+
+xmin: 0.43251178674811896
+xmax: 0.44007322342108685
+ymin: -0.023983473261154797
+ymax: -0.019730165132610375
+
+contrast: 1.29
+brightness: -0.04
+saturation: 0.67
+gamma: 0.98
+gamma_r: 0.92
+gamma_g: 0.92
+gamma_b: 0.98
+vignette: 25
+temp: 5600
