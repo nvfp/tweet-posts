@@ -1,0 +1,28 @@
+tweet_id: 1719395671369769280
+masto_id: 111330646525352634
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Tuesday! You got this!  #Science #DeepLearning
+
+n_iter: 445
+ct: 255
+hue_offset: 329
+saturation: -0.32
+
+num_attempts: 317
+dur: 609
+std: 76.95
+size: 1026444 (1002.39 KiB)
+
+xmin: -0.35578726590193166
+xmax: -0.34913169185867043
+ymin: 0.6479681106465058
+ymax: 0.6517118710458403
+
+contrast: 1.13
+brightness: -0.06
+saturation: 1.09
+gamma: 1.07
+gamma_r: 1.0
+gamma_g: 0.93
+gamma_b: 0.93
+vignette: 16
+temp: 6193
