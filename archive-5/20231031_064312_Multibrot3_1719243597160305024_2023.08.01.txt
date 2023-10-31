@@ -1,0 +1,28 @@
+tweet_id: 1719243597160305024
+masto_id: 111328270266243967
+subre_id: Not uploaded, but here's the text: Hey there, it's Tuesday!  #Art #Math
+
+n_iter: 409
+ct: 255
+hue_offset: 97
+saturation: -0.22
+
+num_attempts: 328
+dur: 608
+std: 41.5
+size: 252865 (246.94 KiB)
+
+xmin: -0.5270350437503621
+xmax: -0.49695985578043733
+ymin: 0.4093676188446491
+ymax: 0.42628491207773184
+
+contrast: 1.5
+brightness: 0.04
+saturation: 1.47
+gamma: 1.08
+gamma_r: 0.91
+gamma_g: 1.0
+gamma_b: 0.91
+vignette: -3
+temp: 2284
