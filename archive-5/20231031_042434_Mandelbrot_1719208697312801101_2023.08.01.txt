@@ -1,0 +1,28 @@
+tweet_id: 1719208697312801101
+masto_id: 111327725124258754
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Tuesday!  #DeepLearning #AI
+
+n_iter: 481
+ct: 232
+hue_offset: 79
+saturation: 0.99
+
+num_attempts: 4
+dur: 7
+std: 57.95
+size: 1262957 (1.2 MiB)
+
+xmin: -0.15770220959359227
+xmax: -0.1565836413609301
+ymin: -1.0265063255916644
+ymax: -1.025877130960792
+
+contrast: 1.64
+brightness: 0.14
+saturation: 0.6
+gamma: 0.9
+gamma_r: 1.08
+gamma_g: 0.96
+gamma_b: 1.03
+vignette: -11
+temp: 5556
