@@ -1,0 +1,28 @@
+tweet_id: 1719476057806372920
+masto_id: 111331902751827718
+subre_id: Not uploaded, but here's the text: Hope you're having a great Tuesday!  #Programming #DigitalArt
+
+n_iter: 211
+ct: 187
+hue_offset: 90
+saturation: 0.32
+
+num_attempts: 14
+dur: 9
+std: 20.03
+size: 509522 (497.58 KiB)
+
+xmin: -0.6500912593267789
+xmax: 0.8499087406732211
+ymin: -1.7361562656511669
+ymax: -0.8924062656511669
+
+contrast: 0.79
+brightness: 0.17
+saturation: 0.93
+gamma: 1.01
+gamma_r: 0.94
+gamma_g: 0.94
+gamma_b: 0.93
+vignette: 5
+temp: 2331
