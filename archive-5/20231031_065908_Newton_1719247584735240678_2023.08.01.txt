@@ -1,0 +1,31 @@
+tweet_id: 1719247584735240678
+masto_id: 111328332909397525
+subre_id: Not uploaded, but here's the text: Wishing you a rad Tuesday!  #VisualArt #Nature
+
+newton_power: 3
+newton_const: 1
+
+n_iter: 150
+ct: 32
+hue_offset: 272
+saturation: 0.93
+
+num_attempts: 239
+dur: 600
+std: 4.72
+size: 654918 (639.57 KiB)
+
+xmin: 1.1795587954920403
+xmax: 1.452286068219313
+ymin: -0.12304565879058638
+ymax: 0.030363432118504508
+
+contrast: 0.8
+brightness: 0.19
+saturation: 0.9
+gamma: 1.06
+gamma_r: 0.95
+gamma_g: 1.06
+gamma_b: 1.0
+vignette: 10
+temp: 3537
