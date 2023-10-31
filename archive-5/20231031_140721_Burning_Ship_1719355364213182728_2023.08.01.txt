@@ -1,0 +1,28 @@
+tweet_id: 1719355364213182728
+masto_id: 111330016731946412
+subre_id: Not uploaded, but here's the text: Tuesday is shining brightly, just like this Burning Ship.  #Science #Fractals
+
+n_iter: 226
+ct: 122
+hue_offset: 208
+saturation: -0.3
+
+num_attempts: 7
+dur: 4
+std: 30.26
+size: 784998 (766.6 KiB)
+
+xmin: -0.4251031837874111
+xmax: -0.30668213115583215
+ymin: -0.9034205498657863
+ymax: -0.8368087077605232
+
+contrast: 1.72
+brightness: 0.14
+saturation: 1.64
+gamma: 0.94
+gamma_r: 0.9
+gamma_g: 1.01
+gamma_b: 0.99
+vignette: -3
+temp: 3335
