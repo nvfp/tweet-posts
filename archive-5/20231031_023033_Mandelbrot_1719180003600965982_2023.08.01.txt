@@ -1,0 +1,28 @@
+tweet_id: 1719180003600965982
+masto_id: 111327276808805900
+subre_id: Not uploaded, but here's the text: Wishing you the best!  #Programming #Science
+
+n_iter: 769
+ct: 242
+hue_offset: 319
+saturation: 0.26
+
+num_attempts: 102
+dur: 162
+std: 22.01
+size: 1207569 (1.15 MiB)
+
+xmin: -0.5601869428226784
+xmax: -0.5574340178398842
+ymin: -0.5955935206510402
+ymax: -0.5940450003482185
+
+contrast: 1.54
+brightness: 0.08
+saturation: 0.52
+gamma: 0.96
+gamma_r: 0.9
+gamma_g: 0.97
+gamma_b: 1.07
+vignette: 31
+temp: 5631
