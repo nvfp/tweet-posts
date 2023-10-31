@@ -1,0 +1,31 @@
+tweet_id: 1719307942128767369
+masto_id: 111329275960526930
+subre_id: Not uploaded, but here's the text: Warm wishes for your Tuesday, and let's have a look at this Newton.  #MachineLearning #DeepLearning
+
+newton_power: 5
+newton_const: 3
+
+n_iter: 106
+ct: 100
+hue_offset: 221
+saturation: -0.35
+
+num_attempts: 84
+dur: 600
+std: 12.24
+size: 1056541 (1.01 MiB)
+
+xmin: 0.7094599972474418
+xmax: 0.7310427310603914
+ymin: -1.5951288481668309
+ymax: -1.5829885603970466
+
+contrast: 1.65
+brightness: 0.14
+saturation: 0.3
+gamma: 1.03
+gamma_r: 1.04
+gamma_g: 1.01
+gamma_b: 0.96
+vignette: -46
+temp: 3555
