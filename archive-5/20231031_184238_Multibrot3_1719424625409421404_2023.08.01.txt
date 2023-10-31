@@ -1,0 +1,28 @@
+tweet_id: 1719424625409421404
+masto_id: 111331099117717052
+subre_id: Not uploaded, but here's the text: Look what we have here! it's Multibrot!  #Programming #Art
+
+n_iter: 411
+ct: 255
+hue_offset: 63
+saturation: -0.17
+
+num_attempts: 326
+dur: 601
+std: 57.37
+size: 981572 (958.57 KiB)
+
+xmin: -0.15332318516882837
+xmax: -0.13072431511233118
+ymin: 0.755332580122499
+ymax: 0.7680444445292787
+
+contrast: 0.99
+brightness: 0.23
+saturation: 1.13
+gamma: 0.96
+gamma_r: 0.96
+gamma_g: 1.0
+gamma_b: 0.97
+vignette: 28
+temp: 4027
