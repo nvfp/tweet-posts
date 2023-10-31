@@ -1,0 +1,28 @@
+tweet_id: 1719167752928121187
+masto_id: 111327085343720869
+subre_id: Not uploaded, but here's the text: Enjoying the Tuesday with this Multibrot.  #DigitalArt #DeepLearning
+
+n_iter: 286
+ct: 1
+hue_offset: 197
+saturation: 0.93
+
+num_attempts: 549
+dur: 606
+std: 50.18
+size: 1423802 (1.36 MiB)
+
+xmin: 0.1692983167978066
+xmax: 0.1742183659982986
+ymin: 0.8343074472776806
+ymax: 0.8370749749529574
+
+contrast: 0.92
+brightness: -0.05
+saturation: 1.09
+gamma: 1.01
+gamma_r: 0.95
+gamma_g: 1.02
+gamma_b: 1.03
+vignette: 15
+temp: 6368
