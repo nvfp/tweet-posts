@@ -1,0 +1,28 @@
+tweet_id: 1719390995534487957
+masto_id: 111330573705446007
+subre_id: Not uploaded, but here's the text: Enjoying the Tuesday with this Mandelbrot Set.  #Programming #Science
+
+n_iter: 486
+ct: 70
+hue_offset: 55
+saturation: 0.27
+
+num_attempts: 47
+dur: 35
+std: 41.41
+size: 620152 (605.62 KiB)
+
+xmin: -0.4230676354304084
+xmax: -0.37487486434607104
+ymin: 0.557797666299924
+ymax: 0.5849061000348638
+
+contrast: 1.19
+brightness: 0.21
+saturation: 0.66
+gamma: 0.99
+gamma_r: 1.0
+gamma_g: 1.0
+gamma_b: 0.97
+vignette: -39
+temp: 4790
