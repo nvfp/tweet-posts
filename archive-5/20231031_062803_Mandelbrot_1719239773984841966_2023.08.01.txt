@@ -1,0 +1,28 @@
+tweet_id: 1719239773984841966
+masto_id: 111328210674017324
+subre_id: Not uploaded, but here's the text: You are lovely!  #Fractals #DigitalArt
+
+n_iter: 715
+ct: 209
+hue_offset: 303
+saturation: -0.7
+
+num_attempts: 57
+dur: 100
+std: 47.41
+size: 940356 (918.32 KiB)
+
+xmin: -0.6945130002196427
+xmax: -0.6940865155197813
+ymin: -0.34892656790077115
+ymax: -0.3486866702570991
+
+contrast: 1.09
+brightness: 0.17
+saturation: 1.14
+gamma: 1.08
+gamma_r: 1.07
+gamma_g: 1.04
+gamma_b: 0.96
+vignette: -1
+temp: 4924
