@@ -1,0 +1,28 @@
+tweet_id: 1719360019290861994
+masto_id: 111330089503065613
+subre_id: Not uploaded, but here's the text: Enjoy your Tuesday!  #Art #DeepLearning
+
+n_iter: 383
+ct: 251
+hue_offset: 187
+saturation: -0.6
+
+num_attempts: 126
+dur: 93
+std: 70.61
+size: 1616585 (1.54 MiB)
+
+xmin: -1.168117270103436
+xmax: -1.1676692916064038
+ymin: -0.24683504544033985
+ymax: -0.24658305753575926
+
+contrast: 1.63
+brightness: 0.23
+saturation: 1.48
+gamma: 0.96
+gamma_r: 1.03
+gamma_g: 1.05
+gamma_b: 0.95
+vignette: -6
+temp: 6035
