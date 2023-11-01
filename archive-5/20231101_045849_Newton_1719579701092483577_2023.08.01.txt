@@ -1,0 +1,31 @@
+tweet_id: 1719579701092483577
+masto_id: 111333522111855900
+subre_id: Not uploaded, but here's the text: Hope you have an amazing Wednesday!  #Mathematics #Programming
+
+newton_power: 7
+newton_const: 2
+
+n_iter: 93
+ct: 42
+hue_offset: 99
+saturation: 0.63
+
+num_attempts: 76
+dur: 603
+std: 28.09
+size: 509227 (497.29 KiB)
+
+xmin: 0.11702539598807427
+xmax: 0.135716984773121
+ymin: 0.02129125636093976
+ymax: 0.031805275052528545
+
+contrast: 1.53
+brightness: -0.08
+saturation: 0.92
+gamma: 1.01
+gamma_r: 0.93
+gamma_g: 0.94
+gamma_b: 0.95
+vignette: 6
+temp: 7687
