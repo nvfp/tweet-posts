@@ -1,0 +1,31 @@
+tweet_id: 1719670402983600147
+masto_id: 111334939250701406
+subre_id: Not uploaded, but here's the text: Look closely, it's Newton!  #Science #DeepLearning
+
+newton_power: 4
+newton_const: 10
+
+n_iter: 132
+ct: 101
+hue_offset: 188
+saturation: -0.6
+
+num_attempts: 119
+dur: 601
+std: 8.16
+size: 1287790 (1.23 MiB)
+
+xmin: 1.9994855312774753
+xmax: 2.0060286065228405
+ymin: -0.35867161151467664
+ymax: -0.35499113168915863
+
+contrast: 1.03
+brightness: 0.11
+saturation: 0.79
+gamma: 0.98
+gamma_r: 1.08
+gamma_g: 1.03
+gamma_b: 1.04
+vignette: -41
+temp: 5362
