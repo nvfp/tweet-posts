@@ -1,0 +1,28 @@
+tweet_id: 1719842786906935700
+masto_id: 111337632774888545
+subre_id: Not uploaded, but here's the text: Have a great day!  #DeepLearning #Programming
+
+n_iter: 439
+ct: 94
+hue_offset: 316
+saturation: -0.36
+
+num_attempts: 43
+dur: 14
+std: 24.85
+size: 1102452 (1.05 MiB)
+
+xmin: 0.3255953493775152
+xmax: 0.32612417010728784
+ymin: -0.4949803773579802
+ymax: -0.49468291569748307
+
+contrast: 1.37
+brightness: -0.09
+saturation: 0.5
+gamma: 1.04
+gamma_r: 1.0
+gamma_g: 0.9
+gamma_b: 0.99
+vignette: -18
+temp: 2376
