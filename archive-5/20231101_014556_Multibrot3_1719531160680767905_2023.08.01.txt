@@ -1,0 +1,28 @@
+tweet_id: 1719531160680767905
+masto_id: 111332763653706849
+subre_id: Not uploaded, but here's the text: Let this Multibrot brighten up your Wednesday!  #Fractals #VisualArt
+
+n_iter: 520
+ct: 255
+hue_offset: 18
+saturation: -1.0
+
+num_attempts: 406
+dur: 604
+std: 86.6
+size: 1348685 (1.29 MiB)
+
+xmin: 0.5118696934664277
+xmax: 0.5161523487126805
+ymin: -0.437486166590612
+ymax: -0.43507717301459486
+
+contrast: 1.01
+brightness: 0.06
+saturation: 0.57
+gamma: 1.05
+gamma_r: 1.08
+gamma_g: 1.02
+gamma_b: 1.02
+vignette: 27
+temp: 6978
