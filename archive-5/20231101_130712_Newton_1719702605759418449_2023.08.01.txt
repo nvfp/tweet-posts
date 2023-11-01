@@ -1,0 +1,31 @@
+tweet_id: 1719702605759418449
+masto_id: 111335442535141912
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Wednesday!  #Art #Nature
+
+newton_power: 4
+newton_const: -1
+
+n_iter: 186
+ct: 130
+hue_offset: 130
+saturation: -0.11
+
+num_attempts: 119
+dur: 604
+std: 7.2
+size: 467072 (456.12 KiB)
+
+xmin: -1.113642467934342
+xmax: -1.1058095697620183
+ymin: -0.881961586200646
+ymax: -0.8775555809787139
+
+contrast: 0.9
+brightness: 0.14
+saturation: 0.51
+gamma: 1.09
+gamma_r: 0.96
+gamma_g: 1.07
+gamma_b: 0.95
+vignette: 24
+temp: 7873
