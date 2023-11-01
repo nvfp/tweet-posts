@@ -1,0 +1,28 @@
+tweet_id: 1719778764060844479
+masto_id: 111336632382857330
+subre_id: Not uploaded, but here's the text: Good Wednesday! This Burning Ship is for you!  #AI #Programming
+
+n_iter: 194
+ct: 189
+hue_offset: 87
+saturation: 0.2
+
+num_attempts: 20
+dur: 8
+std: 23.17
+size: 1424557 (1.36 MiB)
+
+xmin: -1.0215422949570252
+xmax: -0.9061576795724098
+ymin: -0.7552835885822151
+ymax: -0.690379742428369
+
+contrast: 1.37
+brightness: 0.17
+saturation: 1.53
+gamma: 0.94
+gamma_r: 0.91
+gamma_g: 1.01
+gamma_b: 0.95
+vignette: 8
+temp: 6743
