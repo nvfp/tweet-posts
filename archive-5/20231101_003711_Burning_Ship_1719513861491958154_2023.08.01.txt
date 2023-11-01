@@ -1,0 +1,28 @@
+tweet_id: 1719513861491958154
+masto_id: 111332493300051831
+subre_id: Not uploaded, but here's the text: Smile, it's Wednesday!  #AI #Art
+
+n_iter: 441
+ct: 161
+hue_offset: 14
+saturation: 0.82
+
+num_attempts: 2
+dur: 1
+std: 37.71
+size: 803893 (785.05 KiB)
+
+xmin: 0.35579686296411595
+xmax: 0.7648877720550251
+ymin: -1.4072959640099794
+ymax: -1.177182327646343
+
+contrast: 1.26
+brightness: -0.05
+saturation: 1.41
+gamma: 1.02
+gamma_r: 1.02
+gamma_g: 1.05
+gamma_b: 0.91
+vignette: -6
+temp: 5466
