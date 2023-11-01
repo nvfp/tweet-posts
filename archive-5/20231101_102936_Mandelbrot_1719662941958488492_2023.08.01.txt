@@ -1,0 +1,28 @@
+tweet_id: 1719662941958488492
+masto_id: 111334822810919454
+subre_id: Not uploaded, but here's the text: Keep shining on Wednesday!  #Art #MachineLearning
+
+n_iter: 605
+ct: 83
+hue_offset: 281
+saturation: 0.61
+
+num_attempts: 194
+dur: 197
+std: 87.98
+size: 1290339 (1.23 MiB)
+
+xmin: 0.04629704751951946
+xmax: 0.07528255476589628
+ymin: 0.6156273130655217
+ymax: 0.6319316608916086
+
+contrast: 0.85
+brightness: 0.11
+saturation: 0.63
+gamma: 0.98
+gamma_r: 0.92
+gamma_g: 1.02
+gamma_b: 0.93
+vignette: -30
+temp: 2988
