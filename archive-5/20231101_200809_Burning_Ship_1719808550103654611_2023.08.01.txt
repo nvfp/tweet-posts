@@ -1,0 +1,28 @@
+tweet_id: 1719808550103654611
+masto_id: 111337097765554291
+subre_id: Not uploaded, but here's the text: Chin up, buttercup!  #Nature #DigitalArt
+
+n_iter: 242
+ct: 120
+hue_offset: 127
+saturation: -0.27
+
+num_attempts: 10
+dur: 5
+std: 32.79
+size: 1934812 (1.85 MiB)
+
+xmin: -1.0431466806355254
+xmax: -0.4002895377783825
+ymin: -1.1125760995096485
+ymax: -0.7509689566525056
+
+contrast: 0.78
+brightness: 0.07
+saturation: 1.62
+gamma: 0.96
+gamma_r: 0.96
+gamma_g: 1.08
+gamma_b: 0.9
+vignette: -39
+temp: 6880
