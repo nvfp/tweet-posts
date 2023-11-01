@@ -1,0 +1,28 @@
+tweet_id: 1719627866122703205
+masto_id: 111334274749926440
+subre_id: Not uploaded, but here's the text: you are awesome.  #VisualArt #Fractals
+
+n_iter: 343
+ct: 129
+hue_offset: 190
+saturation: -0.08
+
+num_attempts: 12
+dur: 2
+std: 20.91
+size: 749549 (731.98 KiB)
+
+xmin: -0.09437351326270882
+xmax: -0.006138219145061755
+ymin: -1.1203224406054562
+ymax: -1.0706900876642798
+
+contrast: 1.05
+brightness: 0.07
+saturation: 1.23
+gamma: 1.08
+gamma_r: 1.08
+gamma_g: 1.06
+gamma_b: 0.95
+vignette: 10
+temp: 3600
