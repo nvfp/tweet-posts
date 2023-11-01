@@ -1,0 +1,31 @@
+tweet_id: 1719640218150568415
+masto_id: 111334467730226829
+subre_id: Not uploaded, but here's the text: Look closely, it's Newton!  #DigitalArt #DeepLearning
+
+newton_power: 5
+newton_const: -7
+
+n_iter: 183
+ct: 229
+hue_offset: 61
+saturation: -0.47
+
+num_attempts: 108
+dur: 611
+std: 11.57
+size: 824319 (805.0 KiB)
+
+xmin: -0.7574680880217466
+xmax: -0.7343911649448235
+ymin: -1.5195531183000732
+ymax: -1.506572349069304
+
+contrast: 0.79
+brightness: 0.02
+saturation: 0.41
+gamma: 0.96
+gamma_r: 0.93
+gamma_g: 1.04
+gamma_b: 0.99
+vignette: 15
+temp: 7986
