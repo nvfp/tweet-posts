@@ -1,0 +1,31 @@
+tweet_id: 1719609968066810365
+masto_id: 111333995052064758
+subre_id: Not uploaded, but here's the text: Wishing you a fantastic day!  #Art #AI
+
+newton_power: 7
+newton_const: 7
+
+n_iter: 188
+ct: 177
+hue_offset: 293
+saturation: -0.36
+
+num_attempts: 65
+dur: 602
+std: 18.84
+size: 1260450 (1.2 MiB)
+
+xmin: 2.484592784017602
+xmax: 2.502449926874745
+ymin: -0.0924726834954035
+ymax: -0.08242804063826065
+
+contrast: 1.25
+brightness: -0.09
+saturation: 1.22
+gamma: 1.04
+gamma_r: 0.99
+gamma_g: 1.03
+gamma_b: 1.04
+vignette: -20
+temp: 3676
