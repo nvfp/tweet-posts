@@ -1,0 +1,28 @@
+tweet_id: 1719597705557918074
+masto_id: 111333803444343443
+subre_id: Not uploaded, but here's the text: Let's rock this Wednesday!  #Math #DigitalArt
+
+n_iter: 285
+ct: 31
+hue_offset: 254
+saturation: -0.2
+
+num_attempts: 13
+dur: 3
+std: 39.21
+size: 1077619 (1.03 MiB)
+
+xmin: -0.03754636787780896
+xmax: 0.22715951447513222
+ymin: -1.184127307268926
+ymax: -1.0352302484453966
+
+contrast: 0.85
+brightness: 0.17
+saturation: 1.06
+gamma: 1.03
+gamma_r: 1.1
+gamma_g: 1.03
+gamma_b: 0.96
+vignette: -10
+temp: 2139
