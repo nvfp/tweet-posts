@@ -1,0 +1,28 @@
+tweet_id: 1719539800250962336
+masto_id: 111332898530752070
+subre_id: Not uploaded, but here's the text: Enjoy your Wednesday!  #Nature #MachineLearning
+
+n_iter: 281
+ct: 172
+hue_offset: 41
+saturation: 0.19
+
+num_attempts: 48
+dur: 29
+std: 34.88
+size: 1186771 (1.13 MiB)
+
+xmin: -0.388072579449775
+xmax: -0.3402002390242431
+ymin: -1.0340375109302338
+ymax: -1.007109319440872
+
+contrast: 1.67
+brightness: 0.15
+saturation: 0.61
+gamma: 0.94
+gamma_r: 0.98
+gamma_g: 1.09
+gamma_b: 1.04
+vignette: 7
+temp: 6622
