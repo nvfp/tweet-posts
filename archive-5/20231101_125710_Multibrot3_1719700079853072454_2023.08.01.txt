@@ -1,0 +1,28 @@
+tweet_id: 1719700079853072454
+masto_id: 111335403047575057
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Wednesday!  #DeepLearning #MachineLearning
+
+n_iter: 620
+ct: 255
+hue_offset: 323
+saturation: 0.67
+
+num_attempts: 219
+dur: 614
+std: 92.68
+size: 1310915 (1.25 MiB)
+
+xmin: 0.537875736829192
+xmax: 0.5466093612833405
+ymin: -0.3524221448941791
+ymax: -0.3475094811387206
+
+contrast: 1.43
+brightness: 0.14
+saturation: 0.41
+gamma: 1.01
+gamma_r: 1.04
+gamma_g: 1.02
+gamma_b: 1.02
+vignette: -22
+temp: 7395
