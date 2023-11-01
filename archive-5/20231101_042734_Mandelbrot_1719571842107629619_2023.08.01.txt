@@ -1,0 +1,28 @@
+tweet_id: 1719571842107629619
+masto_id: 111333399224585788
+subre_id: Not uploaded, but here's the text: Wishing you a wonderful Wednesday!  #Mathematics #Math
+
+n_iter: 576
+ct: 149
+hue_offset: 95
+saturation: -0.27
+
+num_attempts: 209
+dur: 161
+std: 58.94
+size: 921811 (900.21 KiB)
+
+xmin: -0.5601813349053155
+xmax: -0.5477202757152844
+ymin: 0.5613417153101661
+ymax: 0.5683510611045586
+
+contrast: 1.53
+brightness: 0.08
+saturation: 0.7
+gamma: 1.09
+gamma_r: 0.95
+gamma_g: 1.06
+gamma_b: 0.95
+vignette: -3
+temp: 4095
