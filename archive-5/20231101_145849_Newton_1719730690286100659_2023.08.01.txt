@@ -1,0 +1,31 @@
+tweet_id: 1719730690286100659
+masto_id: 111335881394862742
+subre_id: Not uploaded, but here's the text: Hope you have an amazing Wednesday!  #Math #DeepLearning
+
+newton_power: 4
+newton_const: -7
+
+n_iter: 170
+ct: 15
+hue_offset: 48
+saturation: -0.71
+
+num_attempts: 132
+dur: 600
+std: 8.87
+size: 897332 (876.3 KiB)
+
+xmin: -0.6441785419467148
+xmax: -0.6125995945782937
+ymin: 0.6074275833063862
+ymax: 0.6251907412011231
+
+contrast: 1.79
+brightness: 0.06
+saturation: 1.27
+gamma: 0.92
+gamma_r: 1.03
+gamma_g: 1.09
+gamma_b: 0.92
+vignette: 17
+temp: 3088
