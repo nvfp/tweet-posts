@@ -1,0 +1,31 @@
+tweet_id: 1720065014873416093
+masto_id: 111341105072352714
+subre_id: Not uploaded, but here's the text: Keep smiling!  #VisualArt #Programming
+
+newton_power: 3
+newton_const: 8
+
+n_iter: 160
+ct: 48
+hue_offset: 271
+saturation: 0.42
+
+num_attempts: 518
+dur: 600
+std: 4.07
+size: 813798 (794.72 KiB)
+
+xmin: -0.06231302714328546
+xmax: -0.05544803858493306
+ymin: 0.7265265724111858
+ymax: 0.730388128475259
+
+contrast: 1.68
+brightness: -0.03
+saturation: 1.65
+gamma: 0.95
+gamma_r: 0.93
+gamma_g: 1.07
+gamma_b: 1.01
+vignette: -15
+temp: 4755
