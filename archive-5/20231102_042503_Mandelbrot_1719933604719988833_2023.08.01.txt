@@ -1,0 +1,28 @@
+tweet_id: 1719933604719988833
+masto_id: 111339051623048977
+subre_id: Not uploaded, but here's the text: Wow, take a look! There's Mandelbrot Set!  #Programming #Nature
+
+n_iter: 545
+ct: 41
+hue_offset: 312
+saturation: 0.54
+
+num_attempts: 19
+dur: 12
+std: 76.27
+size: 271013 (264.66 KiB)
+
+xmin: -0.3683918981946279
+xmax: -0.3607437146382226
+ymin: -0.6366335049890004
+ymax: -0.6323314017385224
+
+contrast: 1.68
+brightness: 0.07
+saturation: 1.7
+gamma: 1.09
+gamma_r: 0.93
+gamma_g: 1.1
+gamma_b: 0.98
+vignette: 33
+temp: 3498
