@@ -1,0 +1,28 @@
+tweet_id: 1720145325996843408
+masto_id: 111342359795888752
+subre_id: Not uploaded, but here's the text: Hope you're having a great Thursday!  #VisualArt #Math
+
+n_iter: 502
+ct: 188
+hue_offset: 252
+saturation: 0.85
+
+num_attempts: 18
+dur: 4
+std: 90.33
+size: 896884 (875.86 KiB)
+
+xmin: -0.5003336217065075
+xmax: -0.4998845367171733
+ymin: -0.5197745626687258
+ymax: -0.5195219523622253
+
+contrast: 1.02
+brightness: 0.19
+saturation: 0.52
+gamma: 1.03
+gamma_r: 1.05
+gamma_g: 1.01
+gamma_b: 1.03
+vignette: -1
+temp: 4081
