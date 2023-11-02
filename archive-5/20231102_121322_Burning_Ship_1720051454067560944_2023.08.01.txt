@@ -1,0 +1,28 @@
+tweet_id: 1720051454067560944
+masto_id: 111340893120253872
+subre_id: Not uploaded, but here's the text: Hello Thursday! This Burning Ship is yours!  #DeepLearning #Nature
+
+n_iter: 341
+ct: 39
+hue_offset: 236
+saturation: -0.97
+
+num_attempts: 4
+dur: 4
+std: 27.73
+size: 2450844 (2.34 MiB)
+
+xmin: -0.9034431074555997
+xmax: -0.8134431074555998
+ymin: -0.8300538749079363
+ymax: -0.7794288749079362
+
+contrast: 1.14
+brightness: 0.09
+saturation: 0.81
+gamma: 1.0
+gamma_r: 0.98
+gamma_g: 0.93
+gamma_b: 1.04
+vignette: -33
+temp: 2802
