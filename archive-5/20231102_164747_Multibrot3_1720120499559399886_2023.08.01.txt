@@ -1,0 +1,28 @@
+tweet_id: 1720120499559399886
+masto_id: 111341972180631689
+subre_id: Not uploaded, but here's the text: Ever heard of this Multibrot?  #Programming #Math
+
+n_iter: 320
+ct: 255
+hue_offset: 208
+saturation: 0.76
+
+num_attempts: 386
+dur: 600
+std: 53.91
+size: 1325011 (1.26 MiB)
+
+xmin: 0.1397990150902091
+xmax: 0.1439483926835701
+ymin: -0.8140212637756464
+ymax: -0.8116872388793809
+
+contrast: 1.1
+brightness: 0.22
+saturation: 0.99
+gamma: 1.06
+gamma_r: 1.01
+gamma_g: 0.97
+gamma_b: 0.98
+vignette: 31
+temp: 7309
