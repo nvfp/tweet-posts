@@ -1,0 +1,28 @@
+tweet_id: 1719875676751397202
+masto_id: 111338146582518903
+subre_id: Not uploaded, but here's the text: Good Thursday! This Burning Ship is for you!  #Fractals #VisualArt
+
+n_iter: 155
+ct: 94
+hue_offset: 59
+saturation: 0.51
+
+num_attempts: 36
+dur: 13
+std: 23.97
+size: 1904098 (1.82 MiB)
+
+xmin: 0.46555770947013775
+xmax: 0.5327218885746153
+ymin: -1.2079345990203363
+ymax: -1.1701547482740677
+
+contrast: 1.37
+brightness: 0.21
+saturation: 0.82
+gamma: 1.08
+gamma_r: 1.02
+gamma_g: 1.0
+gamma_b: 1.01
+vignette: 30
+temp: 6632
