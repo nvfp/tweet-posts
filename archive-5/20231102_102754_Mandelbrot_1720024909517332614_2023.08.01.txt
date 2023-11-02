@@ -1,0 +1,28 @@
+tweet_id: 1720024909517332614
+masto_id: 111340478437125211
+subre_id: Not uploaded, but here's the text: Let this Mandelbrot Set brighten up your Thursday!  #DigitalArt #Math
+
+n_iter: 135
+ct: 215
+hue_offset: 57
+saturation: -0.39
+
+num_attempts: 151
+dur: 58
+std: 24.19
+size: 1005671 (982.1 KiB)
+
+xmin: -0.05701285615971763
+xmax: -0.05622854243422743
+ymin: -0.6538638729274354
+ymax: -0.6534226964568471
+
+contrast: 1.4
+brightness: 0.18
+saturation: 1.06
+gamma: 1.04
+gamma_r: 1.09
+gamma_g: 0.91
+gamma_b: 1.09
+vignette: -32
+temp: 4095
