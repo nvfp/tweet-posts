@@ -1,0 +1,28 @@
+tweet_id: 1719907839668634037
+masto_id: 111338649158237753
+subre_id: Not uploaded, but here's the text: Surprise! Multibrot!  #Science #Programming
+
+n_iter: 495
+ct: 255
+hue_offset: 37
+saturation: -0.93
+
+num_attempts: 257
+dur: 600
+std: 77.05
+size: 996304 (972.95 KiB)
+
+xmin: -0.5396245007785663
+xmax: -0.5276124887665543
+ymin: 0.377528982949378
+ymax: 0.3842857397061347
+
+contrast: 1.47
+brightness: -0.06
+saturation: 1.69
+gamma: 1.05
+gamma_r: 0.92
+gamma_g: 1.08
+gamma_b: 0.92
+vignette: -42
+temp: 6724
