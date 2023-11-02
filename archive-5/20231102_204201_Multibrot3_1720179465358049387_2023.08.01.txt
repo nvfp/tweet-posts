@@ -1,0 +1,28 @@
+tweet_id: 1720179465358049387
+masto_id: 111342893221092630
+subre_id: Not uploaded, but here's the text: Wishing you the best!  #Programming #DeepLearning
+
+n_iter: 482
+ct: 255
+hue_offset: 152
+saturation: 0.34
+
+num_attempts: 505
+dur: 600
+std: 81.48
+size: 862467 (842.25 KiB)
+
+xmin: 0.4072303398619117
+xmax: 0.41275520174036473
+ymin: -0.5980314451341686
+ymax: -0.5949237103275388
+
+contrast: 1.69
+brightness: -0.01
+saturation: 1.75
+gamma: 1.04
+gamma_r: 0.97
+gamma_g: 1.01
+gamma_b: 1.09
+vignette: -43
+temp: 2704
