@@ -1,0 +1,28 @@
+tweet_id: 1720209575100452893
+masto_id: 111343364096694419
+subre_id: Not uploaded, but here's the text: Another Thursday, another Multibrot!  #Nature #Mathematics
+
+n_iter: 495
+ct: 1
+hue_offset: 343
+saturation: 0.85
+
+num_attempts: 293
+dur: 605
+std: 67.72
+size: 855234 (835.19 KiB)
+
+xmin: 0.44117643971725995
+xmax: 0.44878100245490254
+ymin: 0.02478479171637682
+ymax: 0.029062358256300776
+
+contrast: 0.76
+brightness: 0.15
+saturation: 1.17
+gamma: 1.09
+gamma_r: 1.05
+gamma_g: 0.93
+gamma_b: 0.93
+vignette: 12
+temp: 5447
