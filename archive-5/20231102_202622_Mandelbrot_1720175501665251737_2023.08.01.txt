@@ -1,0 +1,28 @@
+tweet_id: 1720175501665251737
+masto_id: 111342831444560589
+subre_id: Not uploaded, but here's the text: Wishing you a fantastic day!  #Programming #DeepLearning
+
+n_iter: 681
+ct: 72
+hue_offset: 250
+saturation: -0.58
+
+num_attempts: 269
+dur: 290
+std: 99.1
+size: 601329 (587.24 KiB)
+
+xmin: -0.21604970738286333
+xmax: -0.211189440068161
+ymin: -0.7764400616456095
+ymax: -0.7737061612810895
+
+contrast: 1.09
+brightness: 0.12
+saturation: 1.45
+gamma: 1.06
+gamma_r: 1.03
+gamma_g: 0.94
+gamma_b: 0.99
+vignette: -3
+temp: 7141
