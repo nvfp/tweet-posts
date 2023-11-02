@@ -1,0 +1,28 @@
+tweet_id: 1720115806363660348
+masto_id: 111341898564910677
+subre_id: Not uploaded, but here's the text: Have an extraordinary Thursday!  #Programming #Art
+
+n_iter: 274
+ct: 42
+hue_offset: 109
+saturation: 0.02
+
+num_attempts: 13
+dur: 3
+std: 64.68
+size: 549317 (536.44 KiB)
+
+xmin: 0.2662339639524842
+xmax: 0.2671054236474733
+ymin: -0.4841473774970171
+ymax: -0.4836571814185857
+
+contrast: 1.63
+brightness: 0.01
+saturation: 0.31
+gamma: 0.93
+gamma_r: 1.0
+gamma_g: 0.97
+gamma_b: 0.94
+vignette: 12
+temp: 4663
