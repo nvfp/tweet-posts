@@ -1,0 +1,31 @@
+tweet_id: 1719893866675851379
+masto_id: 111338430911274406
+subre_id: Not uploaded, but here's the text: A great Thursday and a beautiful Newton.  #Art #Math
+
+newton_power: 3
+newton_const: 1
+
+n_iter: 77
+ct: 63
+hue_offset: 77
+saturation: 0.42
+
+num_attempts: 283
+dur: 600
+std: 3.82
+size: 777744 (759.52 KiB)
+
+xmin: 1.0394407414463718
+xmax: 1.046321475391326
+ymin: 0.13938853550257013
+ymax: 0.14325894834660682
+
+contrast: 1.62
+brightness: 0.02
+saturation: 1.0
+gamma: 0.93
+gamma_r: 0.99
+gamma_g: 0.94
+gamma_b: 1.01
+vignette: -20
+temp: 3243
