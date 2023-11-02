@@ -1,0 +1,28 @@
+tweet_id: 1720084668077515009
+masto_id: 111341412112401238
+subre_id: Not uploaded, but here's the text: Let this Mandelbrot Set inspire your Thursday.  #Nature #Mathematics
+
+n_iter: 465
+ct: 36
+hue_offset: 306
+saturation: -0.78
+
+num_attempts: 55
+dur: 66
+std: 33.7
+size: 1433966 (1.37 MiB)
+
+xmin: -0.7202626985718403
+xmax: -0.7186977533449233
+ymin: 0.29293773091314734
+ymax: 0.2938180126032882
+
+contrast: 1.54
+brightness: 0.19
+saturation: 0.98
+gamma: 1.09
+gamma_r: 0.97
+gamma_g: 1.09
+gamma_b: 0.94
+vignette: -46
+temp: 4800
