@@ -1,0 +1,31 @@
+tweet_id: 1720123360879722925
+masto_id: 111342016736878261
+subre_id: Not uploaded, but here's the text: Guess what? It's Newton!  #Programming #Math
+
+newton_power: 3
+newton_const: 10
+
+n_iter: 137
+ct: 253
+hue_offset: 40
+saturation: 0.75
+
+num_attempts: 520
+dur: 600
+std: 4.03
+size: 741303 (723.93 KiB)
+
+xmin: 1.3488864934701397
+xmax: 1.363811866604468
+ymin: 0.1777986575820485
+ymax: 0.1861941799701082
+
+contrast: 1.09
+brightness: 0.18
+saturation: 0.54
+gamma: 1.02
+gamma_r: 1.02
+gamma_g: 0.92
+gamma_b: 0.92
+vignette: -28
+temp: 5630
