@@ -1,0 +1,31 @@
+tweet_id: 1719942174601621685
+masto_id: 111339185672232529
+subre_id: Not uploaded, but here's the text: Wishing you a joyful day!  #AI #Mathematics
+
+newton_power: 5
+newton_const: 8
+
+n_iter: 252
+ct: 15
+hue_offset: 203
+saturation: 0.12
+
+num_attempts: 100
+dur: 609
+std: 11.45
+size: 1126867 (1.07 MiB)
+
+xmin: 1.6161820898015922
+xmax: 1.6630570898015922
+ymin: 0.26732640587510836
+ymax: 0.29369359337510836
+
+contrast: 1.11
+brightness: -0.03
+saturation: 1.73
+gamma: 0.94
+gamma_r: 1.0
+gamma_g: 0.9
+gamma_b: 0.98
+vignette: -38
+temp: 3305
