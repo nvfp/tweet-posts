@@ -1,0 +1,28 @@
+tweet_id: 1720292002263150815
+masto_id: 111344651697556277
+subre_id: Not uploaded, but here's the text: Hello Friday! This Burning Ship is yours!  #VisualArt #Programming
+
+n_iter: 299
+ct: 210
+hue_offset: 211
+saturation: 0.14
+
+num_attempts: 2
+dur: 2
+std: 31.81
+size: 520221 (508.03 KiB)
+
+xmin: -0.914232810160889
+xmax: 0.585767189839111
+ymin: -1.3124551363169568
+ymax: -0.46870513631695676
+
+contrast: 1.07
+brightness: 0.0
+saturation: 0.87
+gamma: 0.9
+gamma_r: 0.9
+gamma_g: 1.0
+gamma_b: 1.05
+vignette: 4
+temp: 4942
