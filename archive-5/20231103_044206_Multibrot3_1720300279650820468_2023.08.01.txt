@@ -1,0 +1,28 @@
+tweet_id: 1720300279650820468
+masto_id: 111344780974506958
+subre_id: Not uploaded, but here's the text: Another Friday, another Multibrot!  #Mathematics #MachineLearning
+
+n_iter: 345
+ct: 1
+hue_offset: 78
+saturation: -0.74
+
+num_attempts: 374
+dur: 608
+std: 69.33
+size: 838920 (819.26 KiB)
+
+xmin: 0.4338190543438736
+xmax: 0.43820021535154063
+ymin: -0.5831922091042044
+ymax: -0.5807278060373917
+
+contrast: 0.94
+brightness: -0.09
+saturation: 0.55
+gamma: 0.97
+gamma_r: 1.06
+gamma_g: 1.05
+gamma_b: 0.93
+vignette: -46
+temp: 3394
