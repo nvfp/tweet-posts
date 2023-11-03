@@ -1,0 +1,31 @@
+tweet_id: 1720485692571316466
+masto_id: 111347678195091667
+subre_id: Not uploaded, but here's the text: Hello Friday! This Newton is yours!  #Mathematics #VisualArt
+
+newton_power: 3
+newton_const: -5
+
+n_iter: 233
+ct: 111
+hue_offset: 232
+saturation: -0.92
+
+num_attempts: 310
+dur: 602
+std: 3.97
+size: 503844 (492.04 KiB)
+
+xmin: 0.22811088351149644
+xmax: 0.24109789649850943
+ymin: -1.2152945415283531
+ymax: -1.2079893467231584
+
+contrast: 1.76
+brightness: 0.22
+saturation: 1.44
+gamma: 1.1
+gamma_r: 0.93
+gamma_g: 1.09
+gamma_b: 1.02
+vignette: 10
+temp: 6187
