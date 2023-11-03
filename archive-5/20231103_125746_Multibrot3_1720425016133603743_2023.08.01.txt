@@ -1,0 +1,28 @@
+tweet_id: 1720425016133603743
+masto_id: 111346729998430974
+subre_id: Not uploaded, but here's the text: Brighten your Friday!  #MachineLearning #Art
+
+n_iter: 287
+ct: 1
+hue_offset: 183
+saturation: 0.78
+
+num_attempts: 506
+dur: 604
+std: 48.46
+size: 545353 (532.57 KiB)
+
+xmin: 0.35679897273146244
+xmax: 0.3670553829878727
+ymin: -0.6451667121211456
+ymax: -0.6393974813519149
+
+contrast: 1.77
+brightness: 0.19
+saturation: 0.91
+gamma: 0.95
+gamma_r: 0.93
+gamma_g: 0.92
+gamma_b: 1.03
+vignette: -12
+temp: 7532
