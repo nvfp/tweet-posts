@@ -1,0 +1,28 @@
+tweet_id: 1720263770058993683
+masto_id: 111344210511539042
+subre_id: Not uploaded, but here's the text: Surprise! Burning Ship!  #Nature #Science
+
+n_iter: 320
+ct: 206
+hue_offset: 36
+saturation: -0.71
+
+num_attempts: 2
+dur: 1
+std: 33.01
+size: 1924869 (1.84 MiB)
+
+xmin: -0.6631842486234576
+xmax: -0.5988985343377433
+ymin: -0.9367747397619788
+ymax: -0.9006140254762645
+
+contrast: 1.38
+brightness: -0.0
+saturation: 1.71
+gamma: 1.06
+gamma_r: 0.91
+gamma_g: 1.05
+gamma_b: 0.99
+vignette: -35
+temp: 6426
