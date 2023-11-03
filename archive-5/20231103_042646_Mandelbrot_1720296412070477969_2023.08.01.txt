@@ -1,0 +1,28 @@
+tweet_id: 1720296412070477969
+masto_id: 111344720658598514
+subre_id: Not uploaded, but here's the text: Smile on this lovely day!  #Science #Math
+
+n_iter: 310
+ct: 154
+hue_offset: 324
+saturation: -0.59
+
+num_attempts: 161
+dur: 116
+std: 37.28
+size: 1178900 (1.12 MiB)
+
+xmin: -1.2500322496522136
+xmax: -1.249533931476058
+ymin: 0.08658992094616225
+ymax: 0.0868702249202497
+
+contrast: 1.47
+brightness: -0.06
+saturation: 1.11
+gamma: 1.09
+gamma_r: 0.93
+gamma_g: 0.98
+gamma_b: 0.92
+vignette: 18
+temp: 4817
