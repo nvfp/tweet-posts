@@ -1,0 +1,31 @@
+tweet_id: 1720274393513722219
+masto_id: 111344376752728783
+subre_id: Not uploaded, but here's the text: Smile, it's Friday!  #Mathematics #Science
+
+newton_power: 5
+newton_const: -7
+
+n_iter: 241
+ct: 143
+hue_offset: 192
+saturation: 0.02
+
+num_attempts: 101
+dur: 609
+std: 14.48
+size: 935280 (913.36 KiB)
+
+xmin: 2.5284224503177866
+xmax: 2.5484893399498936
+ymin: 1.931966436745177
+ymax: 1.9432540621632373
+
+contrast: 1.16
+brightness: 0.15
+saturation: 0.28
+gamma: 1.06
+gamma_r: 0.94
+gamma_g: 0.9
+gamma_b: 1.03
+vignette: -24
+temp: 4286
