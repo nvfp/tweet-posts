@@ -1,0 +1,28 @@
+tweet_id: 1720451566228885650
+masto_id: 111347145407020728
+subre_id: Not uploaded, but here's the text: Hey wait, look! it's Multibrot!  #DeepLearning #VisualArt
+
+n_iter: 551
+ct: 1
+hue_offset: 206
+saturation: -0.36
+
+num_attempts: 324
+dur: 611
+std: 66.86
+size: 1097798 (1.05 MiB)
+
+xmin: -0.38315982206772214
+xmax: -0.37823977286723015
+ymin: 0.6922214915332603
+ymax: 0.6949890192085371
+
+contrast: 0.97
+brightness: 0.09
+saturation: 1.08
+gamma: 0.95
+gamma_r: 1.05
+gamma_g: 0.95
+gamma_b: 0.95
+vignette: -6
+temp: 3287
