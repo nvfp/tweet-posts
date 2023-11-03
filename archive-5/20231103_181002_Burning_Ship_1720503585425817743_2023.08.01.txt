@@ -1,0 +1,28 @@
+tweet_id: 1720503585425817743
+masto_id: 111347957871690244
+subre_id: Not uploaded, but here's the text: Hello Friday! This Burning Ship is yours!  #DigitalArt #Art
+
+n_iter: 179
+ct: 205
+hue_offset: 216
+saturation: 0.27
+
+num_attempts: 38
+dur: 13
+std: 27.21
+size: 792704 (774.12 KiB)
+
+xmin: -1.0320934040384613
+xmax: -0.817807689752747
+ymin: -0.6200512935617171
+ymax: -0.49951557927600276
+
+contrast: 1.21
+brightness: 0.08
+saturation: 0.44
+gamma: 0.93
+gamma_r: 1.07
+gamma_g: 0.92
+gamma_b: 0.96
+vignette: -42
+temp: 6254
