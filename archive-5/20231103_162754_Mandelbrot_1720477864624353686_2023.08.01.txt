@@ -1,0 +1,28 @@
+tweet_id: 1720477864624353686
+masto_id: 111347555901257160
+subre_id: Not uploaded, but here's the text: Beautiful Friday with this Mandelbrot Set!  #DigitalArt #Science
+
+n_iter: 526
+ct: 213
+hue_offset: 162
+saturation: -0.39
+
+num_attempts: 27
+dur: 12
+std: 74.15
+size: 1524415 (1.45 MiB)
+
+xmin: 0.10755018525297322
+xmax: 0.11030121688983704
+ymin: -0.6300569370010635
+ymax: -0.6285094817053276
+
+contrast: 1.5
+brightness: 0.23
+saturation: 0.56
+gamma: 1.04
+gamma_r: 1.03
+gamma_g: 0.92
+gamma_b: 1.03
+vignette: -11
+temp: 7861
