@@ -1,0 +1,28 @@
+tweet_id: 1720270540194107765
+masto_id: 111344316463938694
+subre_id: Not uploaded, but here's the text: Wishing you a fantastic day!  #Nature #Math
+
+n_iter: 412
+ct: 255
+hue_offset: 352
+saturation: -0.65
+
+num_attempts: 405
+dur: 600
+std: 63.91
+size: 1523157 (1.45 MiB)
+
+xmin: -0.21398285508480575
+xmax: -0.2045488928206548
+ymin: 0.9803811036126464
+ymax: 0.9856877073862313
+
+contrast: 0.84
+brightness: 0.21
+saturation: 0.99
+gamma: 0.95
+gamma_r: 0.95
+gamma_g: 1.04
+gamma_b: 0.99
+vignette: -25
+temp: 4780
