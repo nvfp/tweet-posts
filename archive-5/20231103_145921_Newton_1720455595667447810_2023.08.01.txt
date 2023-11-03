@@ -1,0 +1,31 @@
+tweet_id: 1720455595667447810
+masto_id: 111347208092260695
+subre_id: Not uploaded, but here's the text: Wishing you a joyful day!  #MachineLearning #Art
+
+newton_power: 6
+newton_const: -3
+
+n_iter: 162
+ct: 180
+hue_offset: 242
+saturation: 0.25
+
+num_attempts: 167
+dur: 617
+std: 16.71
+size: 1097352 (1.05 MiB)
+
+xmin: 1.459805493919541
+xmax: 1.4865912082052553
+ymin: -0.6413794622981217
+ymax: -0.6263124980124074
+
+contrast: 0.7
+brightness: -0.06
+saturation: 1.67
+gamma: 1.06
+gamma_r: 1.07
+gamma_g: 0.97
+gamma_b: 0.94
+vignette: 15
+temp: 7049
