@@ -1,0 +1,28 @@
+tweet_id: 1720250028885741969
+masto_id: 111343995909682075
+subre_id: Not uploaded, but here's the text: Brighten your Friday!  #Math #Nature
+
+n_iter: 806
+ct: 127
+hue_offset: 20
+saturation: 0.07
+
+num_attempts: 38
+dur: 24
+std: 132.58
+size: 1162714 (1.11 MiB)
+
+xmin: -0.9179146357985857
+xmax: -0.9135044924689275
+ymin: 0.23506190153409845
+ymax: 0.23754260715703118
+
+contrast: 0.74
+brightness: -0.07
+saturation: 0.72
+gamma: 1.04
+gamma_r: 0.93
+gamma_g: 1.05
+gamma_b: 1.06
+vignette: -11
+temp: 7143
