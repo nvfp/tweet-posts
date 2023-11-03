@@ -1,0 +1,31 @@
+tweet_id: 1720304494184206481
+masto_id: 111344846900505858
+subre_id: Not uploaded, but here's the text: Enjoying the Friday with this Newton.  #DigitalArt #Math
+
+newton_power: 7
+newton_const: -9
+
+n_iter: 246
+ct: 231
+hue_offset: 52
+saturation: 0.39
+
+num_attempts: 157
+dur: 603
+std: 27.42
+size: 1313444 (1.25 MiB)
+
+xmin: 0.4917123282690734
+xmax: 0.50212899493574
+ymin: -0.5326099215380276
+ymax: -0.5267505465380276
+
+contrast: 1.22
+brightness: 0.16
+saturation: 1.2
+gamma: 1.01
+gamma_r: 0.9
+gamma_g: 0.95
+gamma_b: 0.93
+vignette: -47
+temp: 5211
