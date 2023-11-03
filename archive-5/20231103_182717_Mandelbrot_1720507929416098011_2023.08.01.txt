@@ -1,0 +1,28 @@
+tweet_id: 1720507929416098011
+masto_id: 111348025745929921
+subre_id: Not uploaded, but here's the text: Today is awesome!  #VisualArt #Programming
+
+n_iter: 558
+ct: 93
+hue_offset: 179
+saturation: 0.48
+
+num_attempts: 47
+dur: 16
+std: 45.39
+size: 780489 (762.2 KiB)
+
+xmin: -0.7933205668095664
+xmax: -0.6394744129634126
+ymin: -0.3508386914873002
+ymax: -0.2643002299488386
+
+contrast: 1.44
+brightness: -0.04
+saturation: 1.33
+gamma: 1.0
+gamma_r: 1.04
+gamma_g: 0.97
+gamma_b: 0.92
+vignette: -17
+temp: 7908
