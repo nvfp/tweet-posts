@@ -1,0 +1,28 @@
+tweet_id: 1720238126042403320
+masto_id: 111343809906819252
+subre_id: Not uploaded, but here's the text: Today is awesome!  #Science #Programming
+
+n_iter: 391
+ct: 234
+hue_offset: 234
+saturation: 0.89
+
+num_attempts: 7
+dur: 5
+std: 52.8
+size: 1585112 (1.51 MiB)
+
+xmin: -0.9588161412679166
+xmax: -0.8705808471502695
+ymin: -0.6949476905445082
+ymax: -0.6453153376033317
+
+contrast: 0.73
+brightness: 0.09
+saturation: 1.47
+gamma: 0.91
+gamma_r: 1.05
+gamma_g: 0.96
+gamma_b: 0.93
+vignette: 18
+temp: 2900
