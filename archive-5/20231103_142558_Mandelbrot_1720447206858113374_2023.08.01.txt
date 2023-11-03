@@ -1,0 +1,28 @@
+tweet_id: 1720447206858113374
+masto_id: 111347076819969579
+subre_id: Not uploaded, but here's the text: Keep smiling!  #Art #AI
+
+n_iter: 506
+ct: 132
+hue_offset: 283
+saturation: -0.35
+
+num_attempts: 31
+dur: 40
+std: 69.52
+size: 1465842 (1.4 MiB)
+
+xmin: 0.09991698604723442
+xmax: 0.10078410072315032
+ymin: 0.614993541925666
+ymax: 0.6154812939308687
+
+contrast: 1.23
+brightness: -0.05
+saturation: 1.63
+gamma: 0.98
+gamma_r: 1.02
+gamma_g: 0.91
+gamma_b: 0.94
+vignette: 3
+temp: 7497
