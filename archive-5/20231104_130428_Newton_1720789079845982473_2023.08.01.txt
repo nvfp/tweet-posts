@@ -1,0 +1,31 @@
+tweet_id: 1720789079845982473
+masto_id: 111352418678006369
+subre_id: Not uploaded, but here's the text: Another Saturday, another Newton!  #Mathematics #Nature
+
+newton_power: 7
+newton_const: -9
+
+n_iter: 226
+ct: 56
+hue_offset: 321
+saturation: -0.5
+
+num_attempts: 88
+dur: 602
+std: 15.33
+size: 1113420 (1.06 MiB)
+
+xmin: 1.968632495241807
+xmax: 1.9976180024881838
+ymin: 0.8267462338076417
+ymax: 0.8430505816337286
+
+contrast: 1.44
+brightness: 0.03
+saturation: 1.16
+gamma: 0.99
+gamma_r: 1.1
+gamma_g: 1.01
+gamma_b: 0.96
+vignette: 27
+temp: 6774
