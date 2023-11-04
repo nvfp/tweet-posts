@@ -1,0 +1,28 @@
+tweet_id: 1720612131819704691
+masto_id: 111349653689648922
+subre_id: Not uploaded, but here's the text: Feeling good today!  #DeepLearning #AI
+
+n_iter: 947
+ct: 37
+hue_offset: 306
+saturation: 0.08
+
+num_attempts: 30
+dur: 21
+std: 108.41
+size: 1534768 (1.46 MiB)
+
+xmin: -0.010329219930550249
+xmax: -0.009139451935309321
+ymin: -0.6465656772107362
+ymax: -0.6458964327134132
+
+contrast: 1.24
+brightness: 0.03
+saturation: 0.69
+gamma: 0.91
+gamma_r: 1.08
+gamma_g: 1.03
+gamma_b: 0.96
+vignette: -48
+temp: 7936
