@@ -1,0 +1,28 @@
+tweet_id: 1720753202360959281
+masto_id: 111351858012727169
+subre_id: Not uploaded, but here's the text: Wishing you the best!  #DigitalArt #Nature
+
+n_iter: 471
+ct: 255
+hue_offset: 22
+saturation: 0.44
+
+num_attempts: 292
+dur: 600
+std: 77.19
+size: 1474383 (1.41 MiB)
+
+xmin: -0.22968920398164294
+xmax: -0.22085918190658776
+ymin: -0.734430410136873
+ymax: -0.7294635227196545
+
+contrast: 1.39
+brightness: 0.01
+saturation: 1.55
+gamma: 1.01
+gamma_r: 0.98
+gamma_g: 1.03
+gamma_b: 0.91
+vignette: -17
+temp: 3889
