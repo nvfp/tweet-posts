@@ -1,0 +1,28 @@
+tweet_id: 1720804633306665439
+masto_id: 111352661426828001
+subre_id: Not uploaded, but here's the text: Keep shining on Saturday!  #DeepLearning #DigitalArt
+
+n_iter: 304
+ct: 194
+hue_offset: 135
+saturation: 0.96
+
+num_attempts: 6
+dur: 6
+std: 26.02
+size: 277766 (271.26 KiB)
+
+xmin: -1.484061394891091
+xmax: 0.015938605108908988
+ymin: -0.8200566784478138
+ymax: 0.023693321552186175
+
+contrast: 1.71
+brightness: -0.02
+saturation: 1.59
+gamma: 1.03
+gamma_r: 1.0
+gamma_g: 1.03
+gamma_b: 0.98
+vignette: 26
+temp: 4307
