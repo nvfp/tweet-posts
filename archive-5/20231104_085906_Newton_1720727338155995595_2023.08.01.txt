@@ -1,0 +1,31 @@
+tweet_id: 1720727338155995595
+masto_id: 111351453872530755
+subre_id: Not uploaded, but here's the text: Good Saturday! This Newton is for you!  #Art #Fractals
+
+newton_power: 3
+newton_const: 9
+
+n_iter: 100
+ct: 197
+hue_offset: 190
+saturation: 0.89
+
+num_attempts: 264
+dur: 601
+std: 4.01
+size: 806178 (787.28 KiB)
+
+xmin: -1.0864282748077851
+xmax: 0.11357172519221481
+ymin: -1.8424712384988993
+ymax: -1.1674712384988992
+
+contrast: 1.33
+brightness: 0.23
+saturation: 1.5
+gamma: 0.96
+gamma_r: 1.06
+gamma_g: 1.06
+gamma_b: 0.91
+vignette: 23
+temp: 6886
