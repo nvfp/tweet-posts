@@ -1,0 +1,28 @@
+tweet_id: 1720904264128889043
+masto_id: 111354218431649135
+subre_id: Not uploaded, but here's the text: Wishing you the best!  #Nature #Mathematics
+
+n_iter: 524
+ct: 1
+hue_offset: 155
+saturation: -0.0
+
+num_attempts: 351
+dur: 610
+std: 87.45
+size: 684572 (668.53 KiB)
+
+xmin: -0.09729546906715902
+xmax: -0.08861867947930653
+ymin: -0.7680066375818245
+ymax: -0.7631259434386575
+
+contrast: 0.77
+brightness: 0.0
+saturation: 0.73
+gamma: 1.01
+gamma_r: 0.94
+gamma_g: 0.91
+gamma_b: 0.94
+vignette: -4
+temp: 3850
