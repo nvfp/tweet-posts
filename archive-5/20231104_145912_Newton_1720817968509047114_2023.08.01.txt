@@ -1,0 +1,31 @@
+tweet_id: 1720817968509047114
+masto_id: 111352869844226623
+subre_id: Not uploaded, but here's the text: Happy Saturday!  #Mathematics #VisualArt
+
+newton_power: 6
+newton_const: 2
+
+n_iter: 249
+ct: 37
+hue_offset: 358
+saturation: 0.23
+
+num_attempts: 88
+dur: 615
+std: 15.41
+size: 547595 (534.76 KiB)
+
+xmin: 2.087384077758041
+xmax: 2.487384077758041
+ymin: -0.05661794664278341
+ymax: 0.1683820533572166
+
+contrast: 1.21
+brightness: 0.13
+saturation: 1.51
+gamma: 0.97
+gamma_r: 1.07
+gamma_g: 0.96
+gamma_b: 0.95
+vignette: 1
+temp: 7956
