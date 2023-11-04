@@ -1,0 +1,28 @@
+tweet_id: 1720722944605778403
+masto_id: 111351385098868243
+subre_id: Not uploaded, but here's the text: This Saturday is made even better by this Multibrot!  #Science #Programming
+
+n_iter: 619
+ct: 1
+hue_offset: 260
+saturation: -0.82
+
+num_attempts: 366
+dur: 601
+std: 78.54
+size: 754440 (736.76 KiB)
+
+xmin: 0.6107178742135995
+xmax: 0.6161898304379496
+ymin: -0.5261857991734238
+ymax: -0.5231078237972268
+
+contrast: 1.05
+brightness: -0.01
+saturation: 1.6
+gamma: 0.93
+gamma_r: 1.08
+gamma_g: 0.95
+gamma_b: 1.09
+vignette: -4
+temp: 6085
