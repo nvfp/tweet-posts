@@ -1,0 +1,28 @@
+tweet_id: 1720775963540070417
+masto_id: 111352213569585310
+subre_id: Not uploaded, but here's the text: Happy Saturday!  #AI #MachineLearning
+
+n_iter: 177
+ct: 243
+hue_offset: 97
+saturation: -0.0
+
+num_attempts: 28
+dur: 15
+std: 30.41
+size: 1353635 (1.29 MiB)
+
+xmin: -1.2454172740184453
+xmax: -1.1635990922002635
+ymin: -0.4147362876965628
+ymax: -0.3687135604238355
+
+contrast: 0.73
+brightness: 0.06
+saturation: 0.86
+gamma: 1.01
+gamma_r: 0.96
+gamma_g: 1.01
+gamma_b: 1.02
+vignette: -45
+temp: 4367
