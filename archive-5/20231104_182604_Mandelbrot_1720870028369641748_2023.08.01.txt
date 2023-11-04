@@ -1,0 +1,28 @@
+tweet_id: 1720870028369641748
+masto_id: 111353683293528178
+subre_id: Not uploaded, but here's the text: Let's make it a memorable Saturday!  #DigitalArt #Fractals
+
+n_iter: 503
+ct: 110
+hue_offset: 57
+saturation: 0.94
+
+num_attempts: 106
+dur: 106
+std: 28.06
+size: 356179 (347.83 KiB)
+
+xmin: -0.6724061204199137
+xmax: -0.6709102341072735
+ymin: -0.3611551027119291
+ymax: -0.36031366666106895
+
+contrast: 1.48
+brightness: 0.06
+saturation: 0.83
+gamma: 0.94
+gamma_r: 0.94
+gamma_g: 0.95
+gamma_b: 0.97
+vignette: -2
+temp: 7274
