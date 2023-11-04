@@ -1,0 +1,31 @@
+tweet_id: 1720848115358642506
+masto_id: 111353341095733814
+subre_id: Not uploaded, but here's the text: Another Saturday, another Newton!  #AI #Mathematics
+
+newton_power: 5
+newton_const: -8
+
+n_iter: 234
+ct: 234
+hue_offset: 35
+saturation: -0.09
+
+num_attempts: 89
+dur: 600
+std: 14.03
+size: 656781 (641.39 KiB)
+
+xmin: 1.706375295883932
+xmax: 1.7778038673125034
+ymin: -1.2911558206886373
+ymax: -1.250977249260066
+
+contrast: 0.91
+brightness: 0.14
+saturation: 0.5
+gamma: 1.09
+gamma_r: 1.02
+gamma_g: 1.04
+gamma_b: 1.0
+vignette: 23
+temp: 2584
