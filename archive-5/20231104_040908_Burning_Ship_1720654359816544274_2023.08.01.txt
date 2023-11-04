@@ -1,0 +1,28 @@
+tweet_id: 1720654359816544274
+masto_id: 111350313611208384
+subre_id: Not uploaded, but here's the text: Have an extraordinary Saturday!  #Science #DigitalArt
+
+n_iter: 297
+ct: 72
+hue_offset: 170
+saturation: 0.89
+
+num_attempts: 35
+dur: 28
+std: 35.05
+size: 1065738 (1.02 MiB)
+
+xmin: -1.5088677349671107
+xmax: -1.2720256297039527
+ymin: -0.21825224307703528
+ymax: -0.08502855886650898
+
+contrast: 1.02
+brightness: 0.18
+saturation: 1.03
+gamma: 1.03
+gamma_r: 1.05
+gamma_g: 0.92
+gamma_b: 1.01
+vignette: -34
+temp: 3068
