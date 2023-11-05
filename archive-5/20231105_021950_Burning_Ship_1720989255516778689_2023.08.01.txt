@@ -1,0 +1,28 @@
+tweet_id: 1720989255516778689
+masto_id: 111355546205864200
+subre_id: Not uploaded, but here's the text: Hope you have an amazing Sunday!  #MachineLearning #Fractals
+
+n_iter: 310
+ct: 180
+hue_offset: 313
+saturation: 0.69
+
+num_attempts: 23
+dur: 16
+std: 45.34
+size: 951017 (928.73 KiB)
+
+xmin: -0.817559192506832
+xmax: -0.7386118240857793
+ymin: -0.9013923945065798
+ymax: -0.8569844997697377
+
+contrast: 1.21
+brightness: -0.06
+saturation: 1.05
+gamma: 1.08
+gamma_r: 0.91
+gamma_g: 0.92
+gamma_b: 1.01
+vignette: -5
+temp: 2922
