@@ -1,0 +1,28 @@
+tweet_id: 1721296698906206430
+masto_id: 111360350229746820
+subre_id: Not uploaded, but here's the text: Today is awesome!  #Programming #DeepLearning
+
+n_iter: 497
+ct: 255
+hue_offset: 3
+saturation: 0.73
+
+num_attempts: 367
+dur: 600
+std: 53.15
+size: 1025606 (1001.57 KiB)
+
+xmin: -0.5381491060150008
+xmax: -0.5140527204728321
+ymin: -0.46742003163896273
+ymax: -0.45386581477149285
+
+contrast: 0.96
+brightness: 0.16
+saturation: 0.41
+gamma: 1.07
+gamma_r: 1.08
+gamma_g: 0.97
+gamma_b: 1.09
+vignette: 15
+temp: 6992
