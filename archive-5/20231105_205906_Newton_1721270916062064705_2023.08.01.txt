@@ -1,0 +1,31 @@
+tweet_id: 1721270916062064705
+masto_id: 111359947229400501
+subre_id: Not uploaded, but here's the text: Happy Sunday! Enjoy the beauty of Newton.  #Science #Mathematics
+
+newton_power: 7
+newton_const: -8
+
+n_iter: 160
+ct: 12
+hue_offset: 91
+saturation: -0.35
+
+num_attempts: 142
+dur: 600
+std: 21.67
+size: 1586199 (1.51 MiB)
+
+xmin: -2.650214621247056
+xmax: -2.610214621247056
+ymin: 0.07249239521070061
+ymax: 0.0949923952107006
+
+contrast: 1.17
+brightness: -0.07
+saturation: 0.33
+gamma: 1.04
+gamma_r: 0.98
+gamma_g: 0.93
+gamma_b: 1.03
+vignette: 30
+temp: 4167
