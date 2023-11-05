@@ -1,0 +1,28 @@
+tweet_id: 1721111251567194209
+masto_id: 111357452546414662
+subre_id: Not uploaded, but here's the text: Mandelbrot Set vibes to brighten your Sunday.  #Mathematics #Programming
+
+n_iter: 648
+ct: 105
+hue_offset: 67
+saturation: -0.34
+
+num_attempts: 17
+dur: 8
+std: 40.1
+size: 780244 (761.96 KiB)
+
+xmin: -0.8600468835749859
+xmax: -0.8591850003601615
+ymin: -0.2098963046329374
+ymax: -0.20941149532459868
+
+contrast: 1.72
+brightness: -0.07
+saturation: 1.56
+gamma: 0.96
+gamma_r: 0.99
+gamma_g: 1.09
+gamma_b: 1.09
+vignette: -34
+temp: 6948
