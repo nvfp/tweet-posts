@@ -1,0 +1,28 @@
+tweet_id: 1721261226322493789
+masto_id: 111359795824460245
+subre_id: Not uploaded, but here's the text: Let the magic of Sunday fill your heart!  #DeepLearning #Math
+
+n_iter: 555
+ct: 164
+hue_offset: 328
+saturation: 0.07
+
+num_attempts: 9
+dur: 8
+std: 57.15
+size: 696825 (680.49 KiB)
+
+xmin: -0.4207020949970022
+xmax: -0.4193401610507986
+ymin: 0.5957398851073081
+ymax: 0.5965059729520477
+
+contrast: 1.64
+brightness: 0.0
+saturation: 0.34
+gamma: 1.06
+gamma_r: 1.0
+gamma_g: 0.92
+gamma_b: 0.94
+vignette: 12
+temp: 3446
