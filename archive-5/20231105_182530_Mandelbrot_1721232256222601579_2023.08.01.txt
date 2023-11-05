@@ -1,0 +1,28 @@
+tweet_id: 1721232256222601579
+masto_id: 111359343347375845
+subre_id: Not uploaded, but here's the text: Happy Sunday!  #Math #DeepLearning
+
+n_iter: 866
+ct: 105
+hue_offset: 25
+saturation: -1.0
+
+num_attempts: 50
+dur: 79
+std: 52.53
+size: 1560782 (1.49 MiB)
+
+xmin: -0.6588077927648501
+xmax: -0.6531340338996019
+ymin: -0.3836642003978823
+ymax: -0.3804727110361802
+
+contrast: 1.0
+brightness: 0.12
+saturation: 1.38
+gamma: 1.09
+gamma_r: 0.97
+gamma_g: 0.91
+gamma_b: 0.91
+vignette: -46
+temp: 2551
