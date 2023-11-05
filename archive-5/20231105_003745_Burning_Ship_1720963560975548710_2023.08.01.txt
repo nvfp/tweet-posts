@@ -1,0 +1,28 @@
+tweet_id: 1720963560975548710
+masto_id: 111355144805756588
+subre_id: Not uploaded, but here's the text: Wow, guess what? it's Burning Ship!  #Mathematics #Fractals
+
+n_iter: 170
+ct: 193
+hue_offset: 69
+saturation: -0.48
+
+num_attempts: 19
+dur: 4
+std: 26.07
+size: 1112072 (1.06 MiB)
+
+xmin: 0.656108882793832
+xmax: 0.8168231685081176
+ymin: -1.1703207834820144
+ymax: -1.0799189977677286
+
+contrast: 1.17
+brightness: 0.19
+saturation: 0.71
+gamma: 0.96
+gamma_r: 0.96
+gamma_g: 1.07
+gamma_b: 0.96
+vignette: -15
+temp: 2491
