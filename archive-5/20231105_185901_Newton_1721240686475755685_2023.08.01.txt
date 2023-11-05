@@ -1,0 +1,31 @@
+tweet_id: 1721240686475755685
+masto_id: 111359475148754104
+subre_id: Not uploaded, but here's the text: Hope your Sunday is awesome!  #Math #AI
+
+newton_power: 4
+newton_const: -9
+
+n_iter: 255
+ct: 217
+hue_offset: 11
+saturation: 0.98
+
+num_attempts: 246
+dur: 600
+std: 8.65
+size: 732804 (715.63 KiB)
+
+xmin: -1.2399307454356912
+xmax: -1.2285021740071198
+ymin: 1.6937910512982488
+ymax: 1.7002196227268203
+
+contrast: 0.73
+brightness: -0.05
+saturation: 1.56
+gamma: 1.05
+gamma_r: 1.05
+gamma_g: 0.97
+gamma_b: 1.06
+vignette: 21
+temp: 3822
