@@ -1,0 +1,28 @@
+tweet_id: 1721138408079184315
+masto_id: 111357876781066347
+subre_id: Not uploaded, but here's the text: Feeling the Burning Ship vibes today!  #Art #Programming
+
+n_iter: 305
+ct: 93
+hue_offset: 5
+saturation: -0.44
+
+num_attempts: 8
+dur: 2
+std: 30.97
+size: 1505734 (1.44 MiB)
+
+xmin: -0.6557401368532569
+xmax: -0.6068270933749961
+ymin: -0.9317707079964064
+ymax: -0.9042571210398846
+
+contrast: 0.78
+brightness: -0.08
+saturation: 1.53
+gamma: 1.01
+gamma_r: 0.92
+gamma_g: 0.92
+gamma_b: 0.97
+vignette: -2
+temp: 5540
