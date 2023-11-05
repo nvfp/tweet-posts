@@ -1,0 +1,28 @@
+tweet_id: 1721085379875426686
+masto_id: 111357048182900472
+subre_id: Not uploaded, but here's the text: Brighten your Sunday!  #Math #Programming
+
+n_iter: 331
+ct: 1
+hue_offset: 211
+saturation: 0.94
+
+num_attempts: 461
+dur: 600
+std: 52.4
+size: 855823 (835.76 KiB)
+
+xmin: -0.5554836027106576
+xmax: -0.5381675853946403
+ymin: -0.3412900026129475
+ymax: -0.3315497428726878
+
+contrast: 1.46
+brightness: 0.22
+saturation: 0.73
+gamma: 0.9
+gamma_r: 0.92
+gamma_g: 0.91
+gamma_b: 0.93
+vignette: -16
+temp: 5484
