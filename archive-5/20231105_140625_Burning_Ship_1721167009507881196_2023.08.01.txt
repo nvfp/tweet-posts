@@ -1,0 +1,28 @@
+tweet_id: 1721167009507881196
+masto_id: 111358324041484065
+subre_id: Not uploaded, but here's the text: Keep smiling!  #DeepLearning #Art
+
+n_iter: 255
+ct: 103
+hue_offset: 185
+saturation: -0.69
+
+num_attempts: 6
+dur: 0
+std: 31.75
+size: 2039062 (1.94 MiB)
+
+xmin: -0.554333412218718
+xmax: -0.49268957660227963
+ymin: -0.9836666518414521
+ymax: -0.9489919943072055
+
+contrast: 0.96
+brightness: -0.09
+saturation: 1.06
+gamma: 0.97
+gamma_r: 1.08
+gamma_g: 0.97
+gamma_b: 0.97
+vignette: 16
+temp: 3269
