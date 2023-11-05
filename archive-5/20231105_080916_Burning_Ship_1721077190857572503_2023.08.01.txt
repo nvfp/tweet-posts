@@ -1,0 +1,28 @@
+tweet_id: 1721077190857572503
+masto_id: 111356920205118980
+subre_id: Not uploaded, but here's the text: Another Sunday, another Burning Ship!  #Nature #AI
+
+n_iter: 499
+ct: 238
+hue_offset: 286
+saturation: -0.75
+
+num_attempts: 8
+dur: 3
+std: 29.44
+size: 496535 (484.9 KiB)
+
+xmin: -1.441376843449473
+xmax: 0.8086231565505271
+ymin: -0.9081422938125825
+ymax: 0.3574827061874175
+
+contrast: 1.24
+brightness: 0.02
+saturation: 0.52
+gamma: 0.91
+gamma_r: 1.0
+gamma_g: 0.92
+gamma_b: 1.07
+vignette: -21
+temp: 3789
