@@ -1,0 +1,28 @@
+tweet_id: 1721236417739628800
+masto_id: 111359408097140917
+subre_id: Not uploaded, but here's the text: You rock, and so does this Sunday!  #Nature #DeepLearning
+
+n_iter: 281
+ct: 1
+hue_offset: 334
+saturation: 0.16
+
+num_attempts: 548
+dur: 604
+std: 56.47
+size: 665095 (649.51 KiB)
+
+xmin: -0.1935324313857718
+xmax: -0.18893473023634652
+ymin: 0.8920747874155359
+ymax: 0.8946609943120877
+
+contrast: 1.29
+brightness: 0.02
+saturation: 1.55
+gamma: 0.91
+gamma_r: 1.0
+gamma_g: 0.93
+gamma_b: 1.04
+vignette: -3
+temp: 7655
