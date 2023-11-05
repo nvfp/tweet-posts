@@ -1,0 +1,31 @@
+tweet_id: 1721180323755737244
+masto_id: 111358531789553550
+subre_id: Not uploaded, but here's the text: Sunday is shining brightly, just like this Newton.  #MachineLearning #DigitalArt
+
+newton_power: 5
+newton_const: -7
+
+n_iter: 151
+ct: 219
+hue_offset: 21
+saturation: -0.54
+
+num_attempts: 91
+dur: 602
+std: 13.19
+size: 1079740 (1.03 MiB)
+
+xmin: 1.5620916285430013
+xmax: 1.571960049595633
+ymin: 0.9409811742374554
+ymax: 0.9465321610795607
+
+contrast: 0.87
+brightness: 0.12
+saturation: 1.48
+gamma: 1.04
+gamma_r: 1.05
+gamma_g: 1.06
+gamma_b: 0.98
+vignette: -23
+temp: 7233
