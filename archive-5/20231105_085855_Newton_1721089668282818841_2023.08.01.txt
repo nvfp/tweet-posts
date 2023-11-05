@@ -1,0 +1,31 @@
+tweet_id: 1721089668282818841
+masto_id: 111357115441872478
+subre_id: Not uploaded, but here's the text: Hey there, it's Sunday!  #Fractals #VisualArt
+
+newton_power: 4
+newton_const: -7
+
+n_iter: 128
+ct: 190
+hue_offset: 164
+saturation: 0.03
+
+num_attempts: 248
+dur: 600
+std: 9.07
+size: 771900 (753.81 KiB)
+
+xmin: -2.1080991317408526
+xmax: -2.091245199156583
+ymin: -1.5611663932602406
+ymax: -1.551686056181589
+
+contrast: 0.8
+brightness: 0.06
+saturation: 0.39
+gamma: 0.92
+gamma_r: 1.09
+gamma_g: 0.99
+gamma_b: 1.09
+vignette: -20
+temp: 4339
