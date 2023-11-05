@@ -1,0 +1,28 @@
+tweet_id: 1721266630334812385
+masto_id: 111359880182915341
+subre_id: Not uploaded, but here's the text: Feeling the Multibrot vibes today!  #MachineLearning #DeepLearning
+
+n_iter: 603
+ct: 255
+hue_offset: 287
+saturation: 0.72
+
+num_attempts: 197
+dur: 602
+std: 87.57
+size: 948087 (925.87 KiB)
+
+xmin: -0.5895520676742958
+xmax: -0.5829731203058748
+ymin: 0.469299820153779
+ymax: 0.47300047804851586
+
+contrast: 1.59
+brightness: -0.09
+saturation: 1.08
+gamma: 1.05
+gamma_r: 1.04
+gamma_g: 1.02
+gamma_b: 0.98
+vignette: 11
+temp: 2454
