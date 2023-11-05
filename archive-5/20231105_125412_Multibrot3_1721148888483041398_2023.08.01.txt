@@ -1,0 +1,28 @@
+tweet_id: 1721148888483041398
+masto_id: 111358040638136639
+subre_id: Not uploaded, but here's the text: Enjoy your Sunday!  #AI #DeepLearning
+
+n_iter: 367
+ct: 255
+hue_offset: 295
+saturation: -0.62
+
+num_attempts: 428
+dur: 606
+std: 64.84
+size: 1374499 (1.31 MiB)
+
+xmin: -0.547274632659678
+xmax: -0.5425465002719712
+ymin: -0.31358089923669485
+ymax: -0.31092132476860973
+
+contrast: 0.9
+brightness: 0.11
+saturation: 0.29
+gamma: 0.95
+gamma_r: 1.05
+gamma_g: 1.0
+gamma_b: 1.0
+vignette: 29
+temp: 7446
