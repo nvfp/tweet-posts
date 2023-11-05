@@ -1,0 +1,31 @@
+tweet_id: 1721301146470343088
+masto_id: 111360419477256006
+subre_id: Not uploaded, but here's the text: Let this Newton brighten up your Sunday!  #DeepLearning #Art
+
+newton_power: 7
+newton_const: -4
+
+n_iter: 147
+ct: 164
+hue_offset: 272
+saturation: 0.67
+
+num_attempts: 142
+dur: 602
+std: 63.73
+size: 598788 (584.75 KiB)
+
+xmin: -0.7945123364367981
+xmax: -0.7878159078653695
+ymin: 0.9872359370920325
+ymax: 0.9910026781634611
+
+contrast: 1.25
+brightness: 0.06
+saturation: 0.75
+gamma: 1.04
+gamma_r: 0.95
+gamma_g: 1.0
+gamma_b: 1.09
+vignette: -48
+temp: 3964
