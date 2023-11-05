@@ -1,0 +1,31 @@
+tweet_id: 1721029299686478018
+masto_id: 111356172012831195
+subre_id: Not uploaded, but here's the text: Enjoying the Sunday with this Newton.  #DigitalArt #DeepLearning
+
+newton_power: 4
+newton_const: -8
+
+n_iter: 72
+ct: 6
+hue_offset: 6
+saturation: -0.38
+
+num_attempts: 110
+dur: 600
+std: 7.69
+size: 1204958 (1.15 MiB)
+
+xmin: -1.7939722719697277
+xmax: -1.3939722719697278
+ymin: 1.2361854942013677
+ymax: 1.4611854942013678
+
+contrast: 1.47
+brightness: 0.11
+saturation: 0.98
+gamma: 1.03
+gamma_r: 1.07
+gamma_g: 1.09
+gamma_b: 0.98
+vignette: -39
+temp: 5293
