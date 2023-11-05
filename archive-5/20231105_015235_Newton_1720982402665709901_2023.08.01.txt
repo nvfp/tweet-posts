@@ -1,0 +1,31 @@
+tweet_id: 1720982402665709901
+masto_id: 111355439068898831
+subre_id: Not uploaded, but here's the text: Happy Sunday! Enjoy the beauty of Newton.  #Fractals #DigitalArt
+
+newton_power: 4
+newton_const: 10
+
+n_iter: 91
+ct: 53
+hue_offset: 321
+saturation: -0.22
+
+num_attempts: 135
+dur: 602
+std: 7.06
+size: 244186 (238.46 KiB)
+
+xmin: -0.10383200388986857
+xmax: -0.09547545792886579
+ymin: -0.17538200522910818
+ymax: -0.1706814481260441
+
+contrast: 1.71
+brightness: 0.17
+saturation: 0.59
+gamma: 0.99
+gamma_r: 1.07
+gamma_g: 1.01
+gamma_b: 0.97
+vignette: 0
+temp: 3693
