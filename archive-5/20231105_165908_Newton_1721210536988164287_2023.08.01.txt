@@ -1,0 +1,31 @@
+tweet_id: 1721210536988164287
+masto_id: 111359003776486898
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Sunday!  #AI #Nature
+
+newton_power: 7
+newton_const: -9
+
+n_iter: 149
+ct: 5
+hue_offset: 122
+saturation: 0.36
+
+num_attempts: 65
+dur: 617
+std: 22.16
+size: 1394916 (1.33 MiB)
+
+xmin: 1.4174672584893901
+xmax: 1.5538308948530264
+ymin: -0.74255700390258
+ymax: -0.6658524584480345
+
+contrast: 0.8
+brightness: 0.17
+saturation: 0.66
+gamma: 1.06
+gamma_r: 1.02
+gamma_g: 0.91
+gamma_b: 0.95
+vignette: -21
+temp: 3971
