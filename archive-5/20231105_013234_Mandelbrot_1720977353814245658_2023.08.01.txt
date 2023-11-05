@@ -1,0 +1,28 @@
+tweet_id: 1720977353814245658
+masto_id: 111355360341233578
+subre_id: Not uploaded, but here's the text: Look closely, it's Mandelbrot Set!  #Math #Nature
+
+n_iter: 286
+ct: 119
+hue_offset: 53
+saturation: 0.47
+
+num_attempts: 31
+dur: 18
+std: 72.13
+size: 838855 (819.19 KiB)
+
+xmin: -0.950284571326391
+xmax: -0.9475087212222966
+ymin: 0.2451336894934053
+ymax: 0.2466951051769584
+
+contrast: 1.39
+brightness: -0.08
+saturation: 1.01
+gamma: 1.07
+gamma_r: 1.01
+gamma_g: 0.98
+gamma_b: 1.04
+vignette: -25
+temp: 6879
