@@ -1,0 +1,28 @@
+tweet_id: 1721623907680022594
+masto_id: 111365462711765887
+subre_id: Not uploaded, but here's the text: Wishing you the best!  #AI #Math
+
+n_iter: 458
+ct: 193
+hue_offset: 85
+saturation: -0.65
+
+num_attempts: 5
+dur: 2
+std: 84.82
+size: 1184236 (1.13 MiB)
+
+xmin: -0.7650795646033506
+xmax: -0.764259892472203
+ymin: 0.09590607711730126
+ymax: 0.09636714269107174
+
+contrast: 0.97
+brightness: -0.09
+saturation: 1.7
+gamma: 1.08
+gamma_r: 1.07
+gamma_g: 0.97
+gamma_b: 0.98
+vignette: -17
+temp: 7744
