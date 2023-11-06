@@ -1,0 +1,28 @@
+tweet_id: 1721620473551999105
+masto_id: 111365409008476159
+subre_id: Not uploaded, but here's the text: Smile!  #Math #Programming
+
+n_iter: 271
+ct: 126
+hue_offset: 22
+saturation: 0.97
+
+num_attempts: 10
+dur: 2
+std: 36.54
+size: 1842322 (1.76 MiB)
+
+xmin: -0.9429152411474424
+xmax: -0.3000580982902995
+ymin: -1.1559694977691446
+ymax: -0.7943623549120017
+
+contrast: 1.12
+brightness: 0.11
+saturation: 0.93
+gamma: 1.07
+gamma_r: 1.08
+gamma_g: 0.94
+gamma_b: 1.03
+vignette: -27
+temp: 5265
