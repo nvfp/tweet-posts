@@ -1,0 +1,28 @@
+tweet_id: 1721560757840556256
+masto_id: 111364475870594717
+subre_id: Not uploaded, but here's the text: Surprise! Burning Ship!  #Mathematics #Fractals
+
+n_iter: 310
+ct: 222
+hue_offset: 303
+saturation: -0.19
+
+num_attempts: 66
+dur: 40
+std: 31.36
+size: 473226 (462.13 KiB)
+
+xmin: -1.3313278284510381
+xmax: -0.20632782845103814
+ymin: -0.8173344866405563
+ymax: -0.1845219866405563
+
+contrast: 1.28
+brightness: -0.08
+saturation: 1.55
+gamma: 0.92
+gamma_r: 0.94
+gamma_g: 0.9
+gamma_b: 1.06
+vignette: -16
+temp: 6019
