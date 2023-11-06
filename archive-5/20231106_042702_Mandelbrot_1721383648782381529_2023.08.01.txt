@@ -1,0 +1,28 @@
+tweet_id: 1721383648782381529
+masto_id: 111361708704995601
+subre_id: Not uploaded, but here's the text: Wishing you a rad Monday!  #DeepLearning #MachineLearning
+
+n_iter: 183
+ct: 101
+hue_offset: 290
+saturation: 0.96
+
+num_attempts: 188
+dur: 86
+std: 40.99
+size: 635795 (620.89 KiB)
+
+xmin: -0.7491827685298085
+xmax: -0.7449454803942153
+ymin: -0.05750896630981139
+ymax: -0.055125491733540206
+
+contrast: 0.86
+brightness: 0.07
+saturation: 0.4
+gamma: 0.96
+gamma_r: 1.08
+gamma_g: 1.01
+gamma_b: 0.91
+vignette: -20
+temp: 7902
