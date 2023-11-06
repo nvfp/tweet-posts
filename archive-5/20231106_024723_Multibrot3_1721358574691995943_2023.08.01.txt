@@ -1,0 +1,28 @@
+tweet_id: 1721358574691995943
+masto_id: 111361316830874403
+subre_id: Not uploaded, but here's the text: Have a great day!  #Math #DigitalArt
+
+n_iter: 595
+ct: 255
+hue_offset: 1
+saturation: 0.81
+
+num_attempts: 321
+dur: 613
+std: 88.73
+size: 1626607 (1.55 MiB)
+
+xmin: 0.36091397269615033
+xmax: 0.3664541389011365
+ymin: -0.6577593135346967
+ymax: -0.654642970044392
+
+contrast: 1.23
+brightness: 0.15
+saturation: 0.36
+gamma: 1.01
+gamma_r: 1.02
+gamma_g: 0.97
+gamma_b: 1.02
+vignette: 33
+temp: 6103
