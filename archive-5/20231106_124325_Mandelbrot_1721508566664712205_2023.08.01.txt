@@ -1,0 +1,28 @@
+tweet_id: 1721508566664712205
+masto_id: 111363660545509854
+subre_id: Not uploaded, but here's the text: Having a blast on Monday?  #AI #Science
+
+n_iter: 998
+ct: 97
+hue_offset: 117
+saturation: -0.29
+
+num_attempts: 65
+dur: 148
+std: 19.02
+size: 1184091 (1.13 MiB)
+
+xmin: 0.391412982769312
+xmax: 0.39191982514133433
+ymin: 0.15819993192512838
+ymax: 0.1584850307593909
+
+contrast: 0.81
+brightness: 0.18
+saturation: 1.32
+gamma: 0.97
+gamma_r: 1.02
+gamma_g: 0.99
+gamma_b: 0.92
+vignette: -33
+temp: 4439
