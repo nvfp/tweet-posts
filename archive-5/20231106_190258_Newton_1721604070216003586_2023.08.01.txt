@@ -1,0 +1,31 @@
+tweet_id: 1721604070216003586
+masto_id: 111365152974743461
+subre_id: Not uploaded, but here's the text: Look what we have here! it's Newton!  #Art #Science
+
+newton_power: 4
+newton_const: 0
+
+n_iter: 188
+ct: 50
+hue_offset: 166
+saturation: 0.1
+
+num_attempts: 234
+dur: 850
+std: 0.5
+size: 855732 (835.68 KiB)
+
+xmin: 0.18125693250439312
+xmax: 0.23950935968885914
+ymin: 0.09253075992417559
+ymax: 0.1252977502154377
+
+contrast: 1.65
+brightness: -0.06
+saturation: 0.66
+gamma: 0.9
+gamma_r: 1.09
+gamma_g: 1.07
+gamma_b: 1.05
+vignette: -42
+temp: 5711
