@@ -1,0 +1,31 @@
+tweet_id: 1721452083235184943
+masto_id: 111362777921520798
+subre_id: Not uploaded, but here's the text: Let's make it a memorable Monday!  #AI #Nature
+
+newton_power: 7
+newton_const: -5
+
+n_iter: 173
+ct: 98
+hue_offset: 29
+saturation: 0.28
+
+num_attempts: 62
+dur: 606
+std: 25.06
+size: 1401813 (1.34 MiB)
+
+xmin: -0.9944817619090416
+xmax: -0.9647787916120119
+ymin: 1.2217842482216437
+ymax: 1.238492169013723
+
+contrast: 1.56
+brightness: 0.12
+saturation: 0.61
+gamma: 0.96
+gamma_r: 0.99
+gamma_g: 0.91
+gamma_b: 0.97
+vignette: -39
+temp: 6021
