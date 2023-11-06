@@ -1,0 +1,28 @@
+tweet_id: 1721534417326469412
+masto_id: 111364064456971165
+subre_id: Not uploaded, but here's the text: Wishing you a fantastic day!  #Programming #VisualArt
+
+n_iter: 957
+ct: 21
+hue_offset: 134
+saturation: 0.36
+
+num_attempts: 17
+dur: 8
+std: 55.53
+size: 1088980 (1.04 MiB)
+
+xmin: 0.15153316424492358
+xmax: 0.15196387383897977
+ymin: -0.5914481239522895
+ymax: -0.591205849805633
+
+contrast: 0.9
+brightness: 0.06
+saturation: 0.42
+gamma: 0.96
+gamma_r: 0.94
+gamma_g: 1.0
+gamma_b: 0.92
+vignette: -1
+temp: 5916
