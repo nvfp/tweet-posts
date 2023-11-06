@@ -1,0 +1,28 @@
+tweet_id: 1721325544770617382
+masto_id: 111360800911168117
+subre_id: Not uploaded, but here's the text: Enjoying the Monday with this Burning Ship.  #Programming #Mathematics
+
+n_iter: 463
+ct: 8
+hue_offset: 315
+saturation: 0.74
+
+num_attempts: 27
+dur: 8
+std: 33.85
+size: 1984025 (1.89 MiB)
+
+xmin: -1.0925944379959152
+xmax: -1.0425944379959151
+ymin: -0.5792921818442518
+ymax: -0.5511671818442518
+
+contrast: 1.2
+brightness: 0.08
+saturation: 1.32
+gamma: 1.02
+gamma_r: 1.09
+gamma_g: 0.94
+gamma_b: 1.09
+vignette: 28
+temp: 5691
