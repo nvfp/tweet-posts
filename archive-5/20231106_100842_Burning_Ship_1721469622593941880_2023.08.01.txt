@@ -1,0 +1,28 @@
+tweet_id: 1721469622593941880
+masto_id: 111363052164461373
+subre_id: Not uploaded, but here's the text: Happy Monday! Enjoy the beauty of Burning Ship.  #Nature #DeepLearning
+
+n_iter: 354
+ct: 170
+hue_offset: 173
+saturation: 0.01
+
+num_attempts: 16
+dur: 5
+std: 26.36
+size: 710975 (694.31 KiB)
+
+xmin: -1.6781687938513008
+xmax: -1.4531687938513007
+ymin: -0.09239655473230313
+ymax: 0.03416594526769687
+
+contrast: 0.77
+brightness: 0.01
+saturation: 0.29
+gamma: 1.0
+gamma_r: 1.04
+gamma_g: 1.05
+gamma_b: 0.97
+vignette: 25
+temp: 4101
