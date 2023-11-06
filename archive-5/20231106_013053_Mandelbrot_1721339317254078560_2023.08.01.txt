@@ -1,0 +1,28 @@
+tweet_id: 1721339317254078560
+masto_id: 111361016046163801
+subre_id: Not uploaded, but here's the text: Another Monday, another Mandelbrot Set!  #Nature #Science
+
+n_iter: 468
+ct: 180
+hue_offset: 277
+saturation: 0.25
+
+num_attempts: 56
+dur: 42
+std: 32.59
+size: 833350 (813.82 KiB)
+
+xmin: 0.11188696555755939
+xmax: 0.11240597425095501
+ymin: -0.6371544453715452
+ymax: -0.6368625029815101
+
+contrast: 1.29
+brightness: 0.18
+saturation: 1.3
+gamma: 1.03
+gamma_r: 0.98
+gamma_g: 0.99
+gamma_b: 1.0
+vignette: 15
+temp: 4239
