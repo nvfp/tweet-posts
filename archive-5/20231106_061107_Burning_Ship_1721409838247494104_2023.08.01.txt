@@ -1,0 +1,28 @@
+tweet_id: 1721409838247494104
+masto_id: 111362117944804385
+subre_id: Not uploaded, but here's the text: Wow, take a look! There's Burning Ship!  #Fractals #MachineLearning
+
+n_iter: 472
+ct: 34
+hue_offset: 330
+saturation: -0.65
+
+num_attempts: 25
+dur: 21
+std: 31.83
+size: 610267 (595.96 KiB)
+
+xmin: -0.9201673078762507
+xmax: 0.5798326921237493
+ymin: -0.8845868814747619
+ymax: -0.040836881474761944
+
+contrast: 1.45
+brightness: 0.22
+saturation: 0.95
+gamma: 0.97
+gamma_r: 1.0
+gamma_g: 0.95
+gamma_b: 0.93
+vignette: -27
+temp: 2935
