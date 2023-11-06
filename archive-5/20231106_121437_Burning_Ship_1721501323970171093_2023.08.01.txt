@@ -1,0 +1,28 @@
+tweet_id: 1721501323970171093
+masto_id: 111363547292821271
+subre_id: Not uploaded, but here's the text: Monday is shining brightly, just like this Burning Ship.  #Math #DigitalArt
+
+n_iter: 290
+ct: 254
+hue_offset: 296
+saturation: -0.53
+
+num_attempts: 1
+dur: 2
+std: 44.52
+size: 1657914 (1.58 MiB)
+
+xmin: -0.5202659441410595
+xmax: -0.4708153946905101
+ymin: -0.8415208339622529
+ymax: -0.8137048998963188
+
+contrast: 1.41
+brightness: 0.09
+saturation: 1.27
+gamma: 1.09
+gamma_r: 0.9
+gamma_g: 0.95
+gamma_b: 0.93
+vignette: -4
+temp: 4666
