@@ -1,0 +1,28 @@
+tweet_id: 1721512572795466142
+masto_id: 111363723039630643
+subre_id: Not uploaded, but here's the text: Happy Monday! Enjoy the beauty of Multibrot.  #AI #Programming
+
+n_iter: 416
+ct: 255
+hue_offset: 96
+saturation: -0.42
+
+num_attempts: 369
+dur: 600
+std: 64.15
+size: 1055229 (1.01 MiB)
+
+xmin: 0.11831329377994404
+xmax: 0.1258604635912648
+ymin: 1.1202837568616433
+ymax: 1.1245290398805112
+
+contrast: 1.04
+brightness: -0.03
+saturation: 0.55
+gamma: 1.09
+gamma_r: 1.0
+gamma_g: 0.94
+gamma_b: 1.01
+vignette: -35
+temp: 3576
