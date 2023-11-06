@@ -1,0 +1,28 @@
+tweet_id: 1721474632711127521
+masto_id: 111363130242964833
+subre_id: Not uploaded, but here's the text: Hey wait, look! it's Mandelbrot Set!  #Science #Mathematics
+
+n_iter: 367
+ct: 47
+hue_offset: 188
+saturation: -0.54
+
+num_attempts: 42
+dur: 13
+std: 71.98
+size: 1571038 (1.5 MiB)
+
+xmin: -0.1996290949073023
+xmax: -0.19910277911782862
+ymin: -0.6511547018039339
+ymax: -0.6508586491723549
+
+contrast: 1.36
+brightness: 0.21
+saturation: 0.92
+gamma: 1.08
+gamma_r: 1.0
+gamma_g: 0.91
+gamma_b: 1.07
+vignette: -10
+temp: 6961
