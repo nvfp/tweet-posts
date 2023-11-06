@@ -1,0 +1,28 @@
+tweet_id: 1721414399720575381
+masto_id: 111362189171243467
+subre_id: Not uploaded, but here's the text: Shine bright like the sun on this Monday!  #Math #Mathematics
+
+n_iter: 988
+ct: 80
+hue_offset: 326
+saturation: 0.4
+
+num_attempts: 65
+dur: 105
+std: 62.36
+size: 685301 (669.24 KiB)
+
+xmin: -1.174213106305242
+xmax: -1.1735193844876908
+ymin: -0.18766584572225042
+ymax: -0.1872756271998779
+
+contrast: 0.74
+brightness: 0.01
+saturation: 1.72
+gamma: 0.94
+gamma_r: 0.98
+gamma_g: 1.07
+gamma_b: 0.91
+vignette: -4
+temp: 2195
