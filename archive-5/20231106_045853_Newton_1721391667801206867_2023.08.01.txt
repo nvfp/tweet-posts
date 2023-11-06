@@ -1,0 +1,31 @@
+tweet_id: 1721391667801206867
+masto_id: 111361833943958059
+subre_id: Not uploaded, but here's the text: A great Monday and a beautiful Newton.  #Science #MachineLearning
+
+newton_power: 6
+newton_const: -1
+
+n_iter: 162
+ct: 189
+hue_offset: 125
+saturation: -0.8
+
+num_attempts: 62
+dur: 601
+std: 17.17
+size: 1299078 (1.24 MiB)
+
+xmin: -1.0344066463101353
+xmax: -1.0275416577517829
+ymin: -0.43940977992750985
+ymax: -0.4355482238634366
+
+contrast: 1.6
+brightness: -0.02
+saturation: 0.39
+gamma: 1.08
+gamma_r: 1.0
+gamma_g: 1.1
+gamma_b: 1.03
+vignette: -25
+temp: 6168
