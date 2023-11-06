@@ -1,0 +1,28 @@
+tweet_id: 1721599176713105497
+masto_id: 111365076388013655
+subre_id: Not uploaded, but here's the text: Let this Multibrot brighten up your Monday!  #Science #Nature
+
+n_iter: 508
+ct: 1
+hue_offset: 341
+saturation: -0.22
+
+num_attempts: 284
+dur: 612
+std: 72.3
+size: 1170860 (1.12 MiB)
+
+xmin: -0.5945404007677988
+xmax: -0.5903606724501395
+ymin: 0.5680572766793164
+ymax: 0.5704083738579998
+
+contrast: 1.07
+brightness: 0.08
+saturation: 1.2
+gamma: 0.92
+gamma_r: 0.93
+gamma_g: 1.06
+gamma_b: 1.03
+vignette: -37
+temp: 5541
