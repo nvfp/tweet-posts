@@ -1,0 +1,28 @@
+tweet_id: 1721590691455791549
+masto_id: 111364943718935994
+subre_id: Not uploaded, but here's the text: you are cool  #Programming #DeepLearning
+
+n_iter: 133
+ct: 67
+hue_offset: 84
+saturation: 0.64
+
+num_attempts: 5
+dur: 3
+std: 21.15
+size: 2122775 (2.02 MiB)
+
+xmin: -1.1167879884651393
+xmax: -1.0598259631486835
+ymin: -0.5603861277910764
+ymax: -0.5283449885505701
+
+contrast: 0.91
+brightness: 0.21
+saturation: 0.99
+gamma: 1.02
+gamma_r: 0.9
+gamma_g: 1.03
+gamma_b: 0.97
+vignette: -35
+temp: 2288
