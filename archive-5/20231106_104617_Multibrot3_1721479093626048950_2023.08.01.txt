@@ -1,0 +1,28 @@
+tweet_id: 1721479093626048950
+masto_id: 111363199944926237
+subre_id: Not uploaded, but here's the text: Wow, take a look! There's Multibrot!  #Science #Math
+
+n_iter: 462
+ct: 1
+hue_offset: 126
+saturation: 0.18
+
+num_attempts: 296
+dur: 610
+std: 45.84
+size: 557530 (544.46 KiB)
+
+xmin: 0.47015873933657115
+xmax: 0.49328012661980813
+ymin: -0.08131635012725091
+ymax: -0.06831056978043011
+
+contrast: 0.88
+brightness: -0.07
+saturation: 1.38
+gamma: 1.08
+gamma_r: 0.94
+gamma_g: 0.95
+gamma_b: 1.04
+vignette: -26
+temp: 6369
