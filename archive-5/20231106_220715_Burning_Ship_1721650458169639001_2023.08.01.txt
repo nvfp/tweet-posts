@@ -1,0 +1,28 @@
+tweet_id: 1721650458169639001
+masto_id: 111365877614132628
+subre_id: Not uploaded, but here's the text: Enjoy your Monday!  #Math #Fractals
+
+n_iter: 475
+ct: 242
+hue_offset: 211
+saturation: -0.25
+
+num_attempts: 13
+dur: 10
+std: 75.47
+size: 1439148 (1.37 MiB)
+
+xmin: 0.4493955506446117
+xmax: 0.5042735994250995
+ymin: -1.130232932047585
+ymax: -1.0993640296085607
+
+contrast: 1.39
+brightness: 0.1
+saturation: 1.74
+gamma: 1.03
+gamma_r: 1.01
+gamma_g: 0.93
+gamma_b: 0.95
+vignette: -10
+temp: 7531
