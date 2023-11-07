@@ -1,0 +1,28 @@
+tweet_id: 1721863489537331580
+masto_id: 111369206092320548
+subre_id: Not uploaded, but here's the text: Have an extraordinary Tuesday!  #Nature #Programming
+
+n_iter: 141
+ct: 177
+hue_offset: 83
+saturation: 0.93
+
+num_attempts: 5
+dur: 3
+std: 22.1
+size: 1356302 (1.29 MiB)
+
+xmin: 0.35309430286889043
+xmax: 0.41309430286889043
+ymin: -1.169859230472134
+ymax: -1.136109230472134
+
+contrast: 1.09
+brightness: 0.18
+saturation: 0.39
+gamma: 1.1
+gamma_r: 0.98
+gamma_g: 0.91
+gamma_b: 1.03
+vignette: 12
+temp: 2343
