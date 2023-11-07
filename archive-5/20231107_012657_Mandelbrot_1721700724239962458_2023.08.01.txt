@@ -1,0 +1,28 @@
+tweet_id: 1721700724239962458
+masto_id: 111366662894183824
+subre_id: Not uploaded, but here's the text: Beautiful Tuesday with this Mandelbrot Set!  #AI #DigitalArt
+
+n_iter: 446
+ct: 251
+hue_offset: 40
+saturation: -0.81
+
+num_attempts: 36
+dur: 13
+std: 82.49
+size: 625574 (610.91 KiB)
+
+xmin: 0.07728870178462932
+xmax: 0.08083794756989995
+ymin: 0.6156939113749733
+ymax: 0.617690362129188
+
+contrast: 1.27
+brightness: 0.03
+saturation: 1.59
+gamma: 1.02
+gamma_r: 0.91
+gamma_g: 0.98
+gamma_b: 1.05
+vignette: -39
+temp: 3525
