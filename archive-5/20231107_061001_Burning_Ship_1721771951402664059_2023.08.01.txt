@@ -1,0 +1,28 @@
+tweet_id: 1721771951402664059
+masto_id: 111367775906143694
+subre_id: Not uploaded, but here's the text: Feeling the Burning Ship vibes today!  #AI #Fractals
+
+n_iter: 247
+ct: 106
+hue_offset: 56
+saturation: 0.77
+
+num_attempts: 4
+dur: 1
+std: 33.81
+size: 1558354 (1.49 MiB)
+
+xmin: -1.2464362891065146
+xmax: -0.3464362891065146
+ymin: -1.053991529636173
+ymax: -0.5477415296361731
+
+contrast: 0.95
+brightness: 0.2
+saturation: 1.13
+gamma: 0.94
+gamma_r: 0.98
+gamma_g: 0.9
+gamma_b: 1.03
+vignette: -31
+temp: 2724
