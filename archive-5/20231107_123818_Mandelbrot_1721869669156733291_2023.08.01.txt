@@ -1,0 +1,28 @@
+tweet_id: 1721869669156733291
+masto_id: 111369302755651847
+subre_id: Not uploaded, but here's the text: Enjoy your Tuesday!  #Science #DeepLearning
+
+n_iter: 274
+ct: 68
+hue_offset: 141
+saturation: -0.56
+
+num_attempts: 22
+dur: 6
+std: 21.44
+size: 767176 (749.2 KiB)
+
+xmin: 0.3200662896200144
+xmax: 0.32061961649786747
+ymin: 0.48441628266638603
+ymax: 0.4847275290351784
+
+contrast: 1.21
+brightness: -0.02
+saturation: 0.7
+gamma: 1.06
+gamma_r: 1.07
+gamma_g: 1.02
+gamma_b: 1.06
+vignette: 4
+temp: 3932
