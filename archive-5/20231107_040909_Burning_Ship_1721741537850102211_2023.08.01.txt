@@ -1,0 +1,28 @@
+tweet_id: 1721741537850102211
+masto_id: 111367300658860021
+subre_id: Not uploaded, but here's the text: Happy Tuesday!  #Nature #Art
+
+n_iter: 464
+ct: 110
+hue_offset: 42
+saturation: 0.91
+
+num_attempts: 8
+dur: 2
+std: 50.83
+size: 1207927 (1.15 MiB)
+
+xmin: 0.6632045175458847
+xmax: 0.7848261391675063
+ymin: -1.2089622429153408
+ymax: -1.1405500807531785
+
+contrast: 1.16
+brightness: 0.17
+saturation: 0.7
+gamma: 1.09
+gamma_r: 0.94
+gamma_g: 1.03
+gamma_b: 0.93
+vignette: 4
+temp: 7155
