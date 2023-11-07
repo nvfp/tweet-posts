@@ -1,0 +1,28 @@
+tweet_id: 1721982869189370163
+masto_id: 111371071498084400
+subre_id: Not uploaded, but here's the text: Hope your Tuesday is awesome!  #Science #AI
+
+n_iter: 308
+ct: 170
+hue_offset: 96
+saturation: 0.13
+
+num_attempts: 17
+dur: 7
+std: 28.31
+size: 1440288 (1.37 MiB)
+
+xmin: -0.12625363821309676
+xmax: -0.04134797783573828
+ymin: -1.1219464355265867
+ymax: -1.0741870015643225
+
+contrast: 0.92
+brightness: 0.13
+saturation: 1.25
+gamma: 1.06
+gamma_r: 1.03
+gamma_g: 0.9
+gamma_b: 0.96
+vignette: -39
+temp: 7998
