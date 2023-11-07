@@ -1,0 +1,31 @@
+tweet_id: 1721966519192604819
+masto_id: 111370816399039468
+subre_id: Not uploaded, but here's the text: Tuesday vibes!  #DeepLearning #VisualArt
+
+newton_power: 5
+newton_const: 0
+
+n_iter: 125
+ct: 188
+hue_offset: 1
+saturation: -0.47
+
+num_attempts: 102
+dur: 856
+std: 2.48
+size: 560778 (547.63 KiB)
+
+xmin: -3.0
+xmax: 3.0
+ymin: -1.8414792058148644
+ymax: 1.5335207941851356
+
+contrast: 0.72
+brightness: 0.11
+saturation: 1.38
+gamma: 1.04
+gamma_r: 0.91
+gamma_g: 1.02
+gamma_b: 1.06
+vignette: 24
+temp: 2250
