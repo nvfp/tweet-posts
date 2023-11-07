@@ -1,0 +1,31 @@
+tweet_id: 1721876996672889242
+masto_id: 111369417282869396
+subre_id: Not uploaded, but here's the text: Let this Newton inspire your Tuesday.  #DigitalArt #AI
+
+newton_power: 4
+newton_const: -8
+
+n_iter: 225
+ct: 239
+hue_offset: 258
+saturation: -0.89
+
+num_attempts: 128
+dur: 604
+std: 7.43
+size: 1087988 (1.04 MiB)
+
+xmin: 0.6763331116221365
+xmax: 1.0763331116221364
+ymin: 0.8065111934742588
+ymax: 1.031511193474259
+
+contrast: 0.93
+brightness: 0.17
+saturation: 1.35
+gamma: 0.95
+gamma_r: 0.9
+gamma_g: 1.05
+gamma_b: 1.05
+vignette: -30
+temp: 7366
