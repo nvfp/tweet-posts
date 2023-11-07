@@ -1,0 +1,28 @@
+tweet_id: 1721922916814922135
+masto_id: 111370134796228278
+subre_id: Not uploaded, but here's the text: You rock, and so does this Tuesday!  #Fractals #Math
+
+n_iter: 345
+ct: 151
+hue_offset: 280
+saturation: 0.96
+
+num_attempts: 6
+dur: 2
+std: 63.47
+size: 1327604 (1.27 MiB)
+
+xmin: 0.539082983744597
+xmax: 0.6575040363761759
+ymin: -1.1693637607513634
+ymax: -1.1027519186461003
+
+contrast: 1.36
+brightness: 0.15
+saturation: 1.71
+gamma: 1.04
+gamma_r: 0.99
+gamma_g: 1.07
+gamma_b: 0.9
+vignette: -8
+temp: 4134
