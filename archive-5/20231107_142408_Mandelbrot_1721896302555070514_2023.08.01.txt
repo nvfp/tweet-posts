@@ -1,0 +1,28 @@
+tweet_id: 1721896302555070514
+masto_id: 111369718853217937
+subre_id: Not uploaded, but here's the text: Beautiful Tuesday with this Mandelbrot Set!  #Fractals #VisualArt
+
+n_iter: 445
+ct: 146
+hue_offset: 301
+saturation: -0.7
+
+num_attempts: 13
+dur: 4
+std: 85.11
+size: 1064417 (1.02 MiB)
+
+xmin: -1.2992704409972433
+xmax: -1.2939013134804649
+ymin: 0.058716418404869186
+ymax: 0.06173655263305711
+
+contrast: 1.06
+brightness: -0.03
+saturation: 1.56
+gamma: 1.04
+gamma_r: 1.08
+gamma_g: 0.95
+gamma_b: 0.93
+vignette: -19
+temp: 3624
