@@ -1,0 +1,28 @@
+tweet_id: 1721713703819620719
+masto_id: 111366865847649150
+subre_id: Not uploaded, but here's the text: Surprise! Burning Ship!  #Programming #DeepLearning
+
+n_iter: 350
+ct: 108
+hue_offset: 203
+saturation: -0.45
+
+num_attempts: 17
+dur: 9
+std: 21.49
+size: 499024 (487.33 KiB)
+
+xmin: -0.5050506135033852
+xmax: 0.1378065293537577
+ymin: -1.4113290133245584
+ymax: -1.0497218704674154
+
+contrast: 0.77
+brightness: -0.01
+saturation: 0.36
+gamma: 1.05
+gamma_r: 1.01
+gamma_g: 1.09
+gamma_b: 1.01
+vignette: -12
+temp: 2025
