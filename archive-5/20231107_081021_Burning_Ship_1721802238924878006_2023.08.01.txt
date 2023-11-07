@@ -1,0 +1,28 @@
+tweet_id: 1721802238924878006
+masto_id: 111368249082236349
+subre_id: Not uploaded, but here's the text: Surprise! It's a Burning Ship!  #Science #Fractals
+
+n_iter: 330
+ct: 245
+hue_offset: 54
+saturation: 0.68
+
+num_attempts: 2
+dur: 1
+std: 46.4
+size: 1663682 (1.59 MiB)
+
+xmin: -0.8405409617687227
+xmax: -0.7280409617687227
+ymin: -0.8032547747087646
+ymax: -0.7399735247087647
+
+contrast: 0.86
+brightness: 0.2
+saturation: 1.33
+gamma: 1.01
+gamma_r: 0.92
+gamma_g: 1.03
+gamma_b: 1.1
+vignette: -5
+temp: 6398
