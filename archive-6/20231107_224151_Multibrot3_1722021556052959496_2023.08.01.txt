@@ -1,0 +1,28 @@
+tweet_id: 1722021556052959496
+masto_id: 111371675960725597
+subre_id: Not uploaded, but here's the text: Cheers to a fantastic Tuesday!  #MachineLearning #Nature
+
+n_iter: 437
+ct: 255
+hue_offset: 65
+saturation: -0.34
+
+num_attempts: 326
+dur: 605
+std: 37.3
+size: 659314 (643.86 KiB)
+
+xmin: -0.605297073805094
+xmax: -0.5888361684552997
+ymin: -0.5807075848077351
+ymax: -0.5714483255484758
+
+contrast: 1.0
+brightness: -0.03
+saturation: 0.63
+gamma: 1.01
+gamma_r: 0.95
+gamma_g: 1.07
+gamma_b: 0.96
+vignette: -12
+temp: 6299
