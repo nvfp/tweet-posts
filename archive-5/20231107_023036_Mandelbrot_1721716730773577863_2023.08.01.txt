@@ -1,0 +1,28 @@
+tweet_id: 1721716730773577863
+masto_id: 111366913125801598
+subre_id: Not uploaded, but here's the text: Let's make it a memorable Tuesday!  #Fractals #Math
+
+n_iter: 483
+ct: 211
+hue_offset: 86
+saturation: -0.8
+
+num_attempts: 62
+dur: 58
+std: 35.58
+size: 1164708 (1.11 MiB)
+
+xmin: 0.3672690680530293
+xmax: 0.3677759104250516
+ymin: 0.36386271486845434
+ymax: 0.36414781370271687
+
+contrast: 0.84
+brightness: 0.14
+saturation: 1.47
+gamma: 0.9
+gamma_r: 0.97
+gamma_g: 1.0
+gamma_b: 0.92
+vignette: 21
+temp: 6688
