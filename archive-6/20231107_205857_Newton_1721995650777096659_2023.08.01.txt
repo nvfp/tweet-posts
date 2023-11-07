@@ -1,0 +1,31 @@
+tweet_id: 1721995650777096659
+masto_id: 111371271375643207
+subre_id: Not uploaded, but here's the text: Another Tuesday, another Newton!  #Nature #Programming
+
+newton_power: 6
+newton_const: 8
+
+n_iter: 220
+ct: 181
+hue_offset: 13
+saturation: 0.15
+
+num_attempts: 110
+dur: 601
+std: 11.91
+size: 964308 (941.71 KiB)
+
+xmin: -1.0421263632363083
+xmax: -0.7421263632363082
+ymin: -0.038724016998842536
+ymax: 0.13002598300115745
+
+contrast: 1.55
+brightness: -0.06
+saturation: 0.79
+gamma: 1.04
+gamma_r: 1.05
+gamma_g: 1.02
+gamma_b: 0.95
+vignette: -36
+temp: 5835
