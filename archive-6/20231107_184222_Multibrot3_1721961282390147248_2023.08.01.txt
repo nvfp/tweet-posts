@@ -1,0 +1,28 @@
+tweet_id: 1721961282390147248
+masto_id: 111370734308832933
+subre_id: Not uploaded, but here's the text: Another Tuesday, another Multibrot!  #AI #VisualArt
+
+n_iter: 566
+ct: 1
+hue_offset: 152
+saturation: 0.7
+
+num_attempts: 390
+dur: 602
+std: 50.95
+size: 626124 (611.45 KiB)
+
+xmin: 0.30982280622118097
+xmax: 0.31889310100576146
+ymin: 0.683888058920318
+ymax: 0.6889900997366445
+
+contrast: 1.73
+brightness: 0.17
+saturation: 1.06
+gamma: 1.0
+gamma_r: 1.03
+gamma_g: 1.08
+gamma_b: 0.98
+vignette: 15
+temp: 3432
