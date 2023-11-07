@@ -1,0 +1,31 @@
+tweet_id: 1721784308615335965
+masto_id: 111367969221118499
+subre_id: Not uploaded, but here's the text: Newton vibes to brighten your Tuesday.  #Mathematics #Math
+
+newton_power: 3
+newton_const: 1
+
+n_iter: 160
+ct: 21
+hue_offset: 311
+saturation: -0.92
+
+num_attempts: 289
+dur: 600
+std: 4.23
+size: 911843 (890.47 KiB)
+
+xmin: 1.0761829969584484
+xmax: 1.6216375424129938
+ymin: -0.10114247127985099
+ymax: 0.20567571053833078
+
+contrast: 0.72
+brightness: 0.04
+saturation: 1.56
+gamma: 0.91
+gamma_r: 0.92
+gamma_g: 1.03
+gamma_b: 1.09
+vignette: -19
+temp: 6037
