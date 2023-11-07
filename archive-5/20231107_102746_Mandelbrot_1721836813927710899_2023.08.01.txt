@@ -1,0 +1,28 @@
+tweet_id: 1721836813927710899
+masto_id: 111368789424433699
+subre_id: Not uploaded, but here's the text: Wishing you a joyful day!  #Programming #Mathematics
+
+n_iter: 825
+ct: 40
+hue_offset: 82
+saturation: -0.99
+
+num_attempts: 28
+dur: 49
+std: 20.47
+size: 1410545 (1.35 MiB)
+
+xmin: 0.0526767108876216
+xmax: 0.05338567933852554
+ymin: 0.6671280611511159
+ymax: 0.6675268559047494
+
+contrast: 1.41
+brightness: 0.01
+saturation: 1.46
+gamma: 1.05
+gamma_r: 1.06
+gamma_g: 1.06
+gamma_b: 0.98
+vignette: -37
+temp: 6361
