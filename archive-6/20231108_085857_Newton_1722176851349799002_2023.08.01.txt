@@ -1,0 +1,31 @@
+tweet_id: 1722176851349799002
+masto_id: 111374102508223446
+subre_id: Not uploaded, but here's the text: Smile on this lovely day!  #DeepLearning #Fractals
+
+newton_power: 4
+newton_const: -9
+
+n_iter: 94
+ct: 237
+hue_offset: 310
+saturation: 0.94
+
+num_attempts: 118
+dur: 601
+std: 7.83
+size: 925698 (904.0 KiB)
+
+xmin: 1.1625265617212586
+xmax: 1.1787867243228847
+ymin: -0.5885025885727395
+ymax: -0.5793562471093249
+
+contrast: 1.31
+brightness: 0.18
+saturation: 0.98
+gamma: 1.02
+gamma_r: 0.97
+gamma_g: 1.03
+gamma_b: 0.94
+vignette: -34
+temp: 5853
