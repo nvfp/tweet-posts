@@ -1,0 +1,28 @@
+tweet_id: 1722199469519974779
+masto_id: 111374455816903031
+subre_id: Not uploaded, but here's the text: Wishing you a fantastic day!  #Art #DeepLearning
+
+n_iter: 915
+ct: 227
+hue_offset: 11
+saturation: -0.48
+
+num_attempts: 178
+dur: 109
+std: 46.95
+size: 1356906 (1.29 MiB)
+
+xmin: -0.9284799806219846
+xmax: -0.9279569680696833
+ymin: -0.26052366165935137
+ymax: -0.2602294670986819
+
+contrast: 1.2
+brightness: 0.13
+saturation: 0.28
+gamma: 0.91
+gamma_r: 0.92
+gamma_g: 1.01
+gamma_b: 0.92
+vignette: 29
+temp: 2710
