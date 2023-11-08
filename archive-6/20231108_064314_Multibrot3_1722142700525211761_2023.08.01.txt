@@ -1,0 +1,28 @@
+tweet_id: 1722142700525211761
+masto_id: 111373568735927542
+subre_id: Not uploaded, but here's the text: You rock, and so does this Wednesday!  #Art #Math
+
+n_iter: 518
+ct: 255
+hue_offset: 256
+saturation: -0.97
+
+num_attempts: 473
+dur: 600
+std: 60.54
+size: 288666 (281.9 KiB)
+
+xmin: 0.07562866276655233
+xmax: 0.08316161945205139
+ymin: 0.7838192596158873
+ymax: 0.7880565477514805
+
+contrast: 1.56
+brightness: -0.0
+saturation: 1.51
+gamma: 1.07
+gamma_r: 0.95
+gamma_g: 1.02
+gamma_b: 1.02
+vignette: 12
+temp: 5070
