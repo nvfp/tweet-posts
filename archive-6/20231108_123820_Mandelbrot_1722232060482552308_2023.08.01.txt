@@ -1,0 +1,28 @@
+tweet_id: 1722232060482552308
+masto_id: 111374965184938418
+subre_id: Not uploaded, but here's the text: Hello Wednesday! This Mandelbrot Set is yours!  #Mathematics #Programming
+
+n_iter: 875
+ct: 230
+hue_offset: 331
+saturation: -0.67
+
+num_attempts: 6
+dur: 12
+std: 20.93
+size: 592207 (578.33 KiB)
+
+xmin: -2.0316489416186796
+xmax: -0.031648941618679594
+ymin: -0.25054599617084905
+ymax: 0.874454003829151
+
+contrast: 1.37
+brightness: 0.14
+saturation: 0.81
+gamma: 1.03
+gamma_r: 1.0
+gamma_g: 1.0
+gamma_b: 1.02
+vignette: -26
+temp: 6832
