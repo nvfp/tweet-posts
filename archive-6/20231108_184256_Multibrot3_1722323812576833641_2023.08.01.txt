@@ -1,0 +1,28 @@
+tweet_id: 1722323812576833641
+masto_id: 111376398852549178
+subre_id: Not uploaded, but here's the text: Wow, take a look! There's Multibrot!  #VisualArt #Mathematics
+
+n_iter: 490
+ct: 255
+hue_offset: 155
+saturation: -0.63
+
+num_attempts: 407
+dur: 606
+std: 65.98
+size: 761683 (743.83 KiB)
+
+xmin: -0.45410627732466136
+xmax: -0.4496219723919259
+ymin: 0.02924250990027666
+ymax: 0.031764931424940336
+
+contrast: 0.83
+brightness: 0.14
+saturation: 1.27
+gamma: 1.03
+gamma_r: 0.9
+gamma_g: 0.98
+gamma_b: 1.03
+vignette: -2
+temp: 5472
