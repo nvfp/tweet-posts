@@ -1,0 +1,31 @@
+tweet_id: 1722116484917252224
+masto_id: 111373159340853943
+subre_id: Not uploaded, but here's the text: Feeling the Newton vibes today!  #AI #DigitalArt
+
+newton_power: 7
+newton_const: 8
+
+n_iter: 124
+ct: 206
+hue_offset: 196
+saturation: -0.26
+
+num_attempts: 63
+dur: 607
+std: 26.58
+size: 1305154 (1.24 MiB)
+
+xmin: 0.6998438964830487
+xmax: 0.7073438964830486
+ymin: -1.156975159158574
+ymax: -1.152756409158574
+
+contrast: 1.24
+brightness: 0.16
+saturation: 1.47
+gamma: 1.03
+gamma_r: 0.94
+gamma_g: 0.98
+gamma_b: 0.94
+vignette: -44
+temp: 5932
