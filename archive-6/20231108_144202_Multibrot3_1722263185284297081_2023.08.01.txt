@@ -1,0 +1,28 @@
+tweet_id: 1722263185284297081
+masto_id: 111375451555139976
+subre_id: Not uploaded, but here's the text: A great Wednesday and a beautiful Multibrot.  #Mathematics #VisualArt
+
+n_iter: 311
+ct: 255
+hue_offset: 107
+saturation: -0.41
+
+num_attempts: 487
+dur: 606
+std: 49.64
+size: 1297777 (1.24 MiB)
+
+xmin: -0.18773276846457887
+xmax: -0.18153121807698197
+ymin: 0.8603913041663063
+ymax: 0.8638796762593295
+
+contrast: 1.45
+brightness: -0.06
+saturation: 1.27
+gamma: 0.93
+gamma_r: 1.03
+gamma_g: 0.95
+gamma_b: 0.99
+vignette: -45
+temp: 5054
