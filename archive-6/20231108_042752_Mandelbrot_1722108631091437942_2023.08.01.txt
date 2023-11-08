@@ -1,0 +1,28 @@
+tweet_id: 1722108631091437942
+masto_id: 111373036553580591
+subre_id: Not uploaded, but here's the text: This Wednesday is made even better by this Mandelbrot Set!  #AI #MachineLearning
+
+n_iter: 828
+ct: 241
+hue_offset: 331
+saturation: 0.34
+
+num_attempts: 146
+dur: 177
+std: 57.7
+size: 687003 (670.9 KiB)
+
+xmin: 0.15671229332292125
+xmax: 0.1571992667828677
+ymin: -0.582628928185125
+ymax: -0.5823550056139052
+
+contrast: 1.13
+brightness: 0.03
+saturation: 0.55
+gamma: 0.97
+gamma_r: 1.07
+gamma_g: 1.04
+gamma_b: 0.91
+vignette: -6
+temp: 3349
