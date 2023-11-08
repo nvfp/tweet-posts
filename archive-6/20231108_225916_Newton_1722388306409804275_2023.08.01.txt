@@ -1,0 +1,31 @@
+tweet_id: 1722388306409804275
+masto_id: 111377406565297594
+subre_id: Not uploaded, but here's the text: A great Wednesday and a beautiful Newton.  #Programming #VisualArt
+
+newton_power: 3
+newton_const: -8
+
+n_iter: 180
+ct: 54
+hue_offset: 13
+saturation: 0.82
+
+num_attempts: 534
+dur: 600
+std: 4.57
+size: 343366 (335.32 KiB)
+
+xmin: -0.17508123082881744
+xmax: -0.15527925063079764
+ymin: -0.10149720679616259
+ymax: -0.09035859293477645
+
+contrast: 1.47
+brightness: -0.04
+saturation: 0.7
+gamma: 1.08
+gamma_r: 1.01
+gamma_g: 1.06
+gamma_b: 0.91
+vignette: -2
+temp: 6253
