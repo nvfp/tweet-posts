@@ -1,0 +1,28 @@
+tweet_id: 1722203267302932623
+masto_id: 111374515109108981
+subre_id: Not uploaded, but here's the text: Ever heard of this Multibrot?  #Math #Fractals
+
+n_iter: 513
+ct: 1
+hue_offset: 328
+saturation: -0.75
+
+num_attempts: 483
+dur: 606
+std: 71.96
+size: 565088 (551.84 KiB)
+
+xmin: -0.15644491322063203
+xmax: -0.1495483614964941
+ymin: 0.8355136223649295
+ymax: 0.8393929327097571
+
+contrast: 1.63
+brightness: 0.13
+saturation: 1.73
+gamma: 0.99
+gamma_r: 1.05
+gamma_g: 0.94
+gamma_b: 1.1
+vignette: -40
+temp: 4518
