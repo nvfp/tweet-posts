@@ -1,0 +1,31 @@
+tweet_id: 1722239382655242401
+masto_id: 111375079677020603
+subre_id: Not uploaded, but here's the text: Hello Wednesday! This Newton is yours!  #DigitalArt #Math
+
+newton_power: 4
+newton_const: -7
+
+n_iter: 216
+ct: 78
+hue_offset: 156
+saturation: 0.82
+
+num_attempts: 270
+dur: 600
+std: 7.15
+size: 622986 (608.38 KiB)
+
+xmin: -1.2145849352413538
+xmax: -1.2040029246593433
+ymin: 1.4679986221695
+ymax: 1.473951003121881
+
+contrast: 1.3
+brightness: 0.03
+saturation: 1.57
+gamma: 0.92
+gamma_r: 0.9
+gamma_g: 1.04
+gamma_b: 1.01
+vignette: -39
+temp: 2370
