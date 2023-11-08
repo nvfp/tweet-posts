@@ -1,0 +1,28 @@
+tweet_id: 1722112207721242930
+masto_id: 111373092374894013
+subre_id: Not uploaded, but here's the text: Let's rock this Wednesday!  #MachineLearning #Science
+
+n_iter: 430
+ct: 255
+hue_offset: 104
+saturation: 0.87
+
+num_attempts: 585
+dur: 605
+std: 66.46
+size: 1218372 (1.16 MiB)
+
+xmin: 0.15177349232463389
+xmax: 0.1583094400370522
+ymin: 1.091348246752744
+ymax: 1.0950247173409793
+
+contrast: 0.95
+brightness: 0.02
+saturation: 1.19
+gamma: 1.06
+gamma_r: 1.05
+gamma_g: 0.94
+gamma_b: 1.09
+vignette: 11
+temp: 7884
