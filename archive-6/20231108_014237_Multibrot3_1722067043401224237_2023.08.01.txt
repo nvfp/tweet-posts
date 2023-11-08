@@ -1,0 +1,28 @@
+tweet_id: 1722067043401224237
+masto_id: 111372386799911579
+subre_id: Not uploaded, but here's the text: Surprise! Multibrot!  #Math #Fractals
+
+n_iter: 574
+ct: 1
+hue_offset: 199
+saturation: -0.87
+
+num_attempts: 235
+dur: 613
+std: 79.04
+size: 987570 (964.42 KiB)
+
+xmin: -0.22086096899710572
+xmax: -0.21419430233043907
+ymin: -0.9254235944446485
+ymax: -0.9216735944446485
+
+contrast: 0.94
+brightness: 0.21
+saturation: 1.09
+gamma: 1.05
+gamma_r: 0.98
+gamma_g: 0.91
+gamma_b: 0.96
+vignette: -16
+temp: 2330
