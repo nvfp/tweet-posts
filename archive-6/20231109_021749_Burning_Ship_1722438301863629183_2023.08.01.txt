@@ -1,0 +1,28 @@
+tweet_id: 1722438301863629183
+masto_id: 111378187517573034
+subre_id: Not uploaded, but here's the text: Ever heard of this Burning Ship?  #Fractals #Math
+
+n_iter: 284
+ct: 5
+hue_offset: 58
+saturation: 0.77
+
+num_attempts: 18
+dur: 8
+std: 38.97
+size: 996231 (972.88 KiB)
+
+xmin: -0.8297578651174269
+xmax: -0.7226150079745698
+ymin: -0.9276766794021687
+ymax: -0.8674088222593116
+
+contrast: 0.94
+brightness: -0.07
+saturation: 1.31
+gamma: 1.06
+gamma_r: 0.99
+gamma_g: 1.04
+gamma_b: 0.97
+vignette: -4
+temp: 5088
