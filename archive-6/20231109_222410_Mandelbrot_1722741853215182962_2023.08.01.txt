@@ -1,0 +1,28 @@
+tweet_id: 1722741853215182962
+masto_id: 111382930758807262
+subre_id: Not uploaded, but here's the text: Have an awesome day!  #Programming #Science
+
+n_iter: 929
+ct: 92
+hue_offset: 338
+saturation: -0.14
+
+num_attempts: 1
+dur: 1
+std: 142.7
+size: 852396 (832.42 KiB)
+
+xmin: -0.7515096059380304
+xmax: -0.7489585855298672
+ymin: 0.025134296401637446
+ymax: 0.026569245381229283
+
+contrast: 1.22
+brightness: 0.13
+saturation: 0.38
+gamma: 1.0
+gamma_r: 0.9
+gamma_g: 0.94
+gamma_b: 1.0
+vignette: 13
+temp: 2616
