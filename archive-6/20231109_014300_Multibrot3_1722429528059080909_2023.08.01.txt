@@ -1,0 +1,28 @@
+tweet_id: 1722429528059080909
+masto_id: 111378050576177116
+subre_id: Not uploaded, but here's the text: Good Thursday! This Multibrot is for you!  #MachineLearning #Art
+
+n_iter: 427
+ct: 1
+hue_offset: 93
+saturation: 0.46
+
+num_attempts: 548
+dur: 600
+std: 65.26
+size: 1070666 (1.02 MiB)
+
+xmin: -0.5297844371390661
+xmax: -0.5232909306455596
+ymin: 0.14066747726285844
+ymax: 0.14432007466545585
+
+contrast: 0.71
+brightness: 0.04
+saturation: 0.55
+gamma: 1.06
+gamma_r: 0.96
+gamma_g: 0.93
+gamma_b: 1.01
+vignette: -23
+temp: 4889
