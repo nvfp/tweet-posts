@@ -1,0 +1,31 @@
+tweet_id: 1722431171974619149
+masto_id: 111378076460093895
+subre_id: Not uploaded, but here's the text: Let's rock this Thursday!  #Nature #Mathematics
+
+newton_power: 4
+newton_const: 1
+
+n_iter: 176
+ct: 227
+hue_offset: 46
+saturation: 0.67
+
+num_attempts: 117
+dur: 602
+std: 5.85
+size: 807717 (788.79 KiB)
+
+xmin: -0.015700142502938608
+xmax: 0.05171558783414004
+ymin: -0.3780845059448188
+ymax: -0.34016315763021204
+
+contrast: 1.4
+brightness: 0.18
+saturation: 0.75
+gamma: 0.91
+gamma_r: 1.03
+gamma_g: 0.98
+gamma_b: 0.95
+vignette: -29
+temp: 3958
