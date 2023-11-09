@@ -1,0 +1,28 @@
+tweet_id: 1722424821449924650
+masto_id: 111377977118955678
+subre_id: Not uploaded, but here's the text: A great Thursday and a beautiful Mandelbrot Set.  #DigitalArt #MachineLearning
+
+n_iter: 547
+ct: 164
+hue_offset: 69
+saturation: 0.24
+
+num_attempts: 82
+dur: 42
+std: 35.35
+size: 1000471 (977.02 KiB)
+
+xmin: -1.3635670226812882
+xmax: -1.361989735615042
+ymin: 0.03816741433277149
+ymax: 0.039054638307534896
+
+contrast: 1.19
+brightness: 0.09
+saturation: 0.33
+gamma: 1.07
+gamma_r: 1.02
+gamma_g: 0.94
+gamma_b: 1.09
+vignette: -19
+temp: 6892
