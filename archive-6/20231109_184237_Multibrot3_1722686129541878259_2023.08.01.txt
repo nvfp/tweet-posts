@@ -1,0 +1,28 @@
+tweet_id: 1722686129541878259
+masto_id: 111382059921625865
+subre_id: Not uploaded, but here's the text: Guess what? It's Multibrot!  #AI #Mathematics
+
+n_iter: 308
+ct: 255
+hue_offset: 338
+saturation: -0.47
+
+num_attempts: 411
+dur: 603
+std: 39.79
+size: 725962 (708.95 KiB)
+
+xmin: -0.2828121058906563
+xmax: -0.24975425465098688
+ymin: -0.7436714243239655
+ymax: -0.7250763830016514
+
+contrast: 1.04
+brightness: -0.06
+saturation: 0.38
+gamma: 1.03
+gamma_r: 1.01
+gamma_g: 1.09
+gamma_b: 0.98
+vignette: 13
+temp: 4701
