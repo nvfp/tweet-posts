@@ -1,0 +1,28 @@
+tweet_id: 1722588269278302239
+masto_id: 111380530841579007
+subre_id: Not uploaded, but here's the text: Warm wishes for your Thursday, and let's have a look at this Burning Ship.  #Mathematics #Fractals
+
+n_iter: 372
+ct: 166
+hue_offset: 206
+saturation: 0.56
+
+num_attempts: 8
+dur: 3
+std: 34.95
+size: 259902 (253.81 KiB)
+
+xmin: -1.2111158840892535
+xmax: -0.9464100017363124
+ymin: -0.45533488001265354
+ymax: -0.3064378211891241
+
+contrast: 1.01
+brightness: -0.02
+saturation: 0.41
+gamma: 1.05
+gamma_r: 1.0
+gamma_g: 1.04
+gamma_b: 0.96
+vignette: 0
+temp: 7985
