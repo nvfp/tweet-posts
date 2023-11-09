@@ -1,0 +1,31 @@
+tweet_id: 1722750698738319834
+masto_id: 111383069000980562
+subre_id: Not uploaded, but here's the text: Enjoy your Thursday!  #VisualArt #Art
+
+newton_power: 3
+newton_const: -10
+
+n_iter: 171
+ct: 119
+hue_offset: 10
+saturation: 0.13
+
+num_attempts: 274
+dur: 601
+std: 4.43
+size: 607705 (593.46 KiB)
+
+xmin: -1.7295581838634682
+xmax: -1.536009796766694
+ymin: -0.01822545326793934
+ymax: 0.09064551447399614
+
+contrast: 0.7
+brightness: 0.14
+saturation: 0.92
+gamma: 1.04
+gamma_r: 0.92
+gamma_g: 1.01
+gamma_b: 0.98
+vignette: 14
+temp: 7903
