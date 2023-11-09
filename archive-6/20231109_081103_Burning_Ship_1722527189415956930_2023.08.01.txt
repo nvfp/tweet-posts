@@ -1,0 +1,28 @@
+tweet_id: 1722527189415956930
+masto_id: 111379576483374556
+subre_id: Not uploaded, but here's the text: Enjoying the Thursday with this Burning Ship.  #Math #Fractals
+
+n_iter: 464
+ct: 14
+hue_offset: 245
+saturation: -0.2
+
+num_attempts: 20
+dur: 4
+std: 73.21
+size: 1804806 (1.72 MiB)
+
+xmin: -0.7783303736113942
+xmax: -0.47833037361139424
+ymin: -0.8658491844738776
+ymax: -0.6970991844738776
+
+contrast: 1.31
+brightness: 0.16
+saturation: 1.25
+gamma: 0.92
+gamma_r: 1.07
+gamma_g: 1.01
+gamma_b: 1.06
+vignette: -7
+temp: 2583
