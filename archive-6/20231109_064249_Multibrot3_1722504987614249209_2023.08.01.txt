@@ -1,0 +1,28 @@
+tweet_id: 1722504987614249209
+masto_id: 111379229546716477
+subre_id: Not uploaded, but here's the text: Chin up, buttercup!  #Science #AI
+
+n_iter: 429
+ct: 1
+hue_offset: 100
+saturation: 0.45
+
+num_attempts: 524
+dur: 605
+std: 68.48
+size: 1141414 (1.09 MiB)
+
+xmin: 0.06580103794587311
+xmax: 0.07187084067728433
+ymin: -1.1314447276835202
+ymax: -1.1280304636471015
+
+contrast: 1.71
+brightness: -0.09
+saturation: 1.72
+gamma: 1.08
+gamma_r: 1.07
+gamma_g: 1.05
+gamma_b: 1.04
+vignette: -5
+temp: 4024
