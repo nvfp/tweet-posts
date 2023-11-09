@@ -1,0 +1,28 @@
+tweet_id: 1722496761632071803
+masto_id: 111379101346564684
+subre_id: Not uploaded, but here's the text: Cheers to a fantastic Thursday!  #DigitalArt #Science
+
+n_iter: 470
+ct: 111
+hue_offset: 200
+saturation: 0.28
+
+num_attempts: 1
+dur: 4
+std: 32.7
+size: 670229 (654.52 KiB)
+
+xmin: -1.2317293885015395
+xmax: -0.8855755423476933
+ymin: -0.4095782496257605
+ymax: -0.21486671116422204
+
+contrast: 1.05
+brightness: 0.11
+saturation: 0.45
+gamma: 0.95
+gamma_r: 0.93
+gamma_g: 0.9
+gamma_b: 0.95
+vignette: 28
+temp: 2899
