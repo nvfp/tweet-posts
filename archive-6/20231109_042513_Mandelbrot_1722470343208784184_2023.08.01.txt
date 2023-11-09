@@ -1,0 +1,28 @@
+tweet_id: 1722470343208784184
+masto_id: 111378688461700344
+subre_id: Not uploaded, but here's the text: Shine bright like the sun on this Thursday!  #Math #Programming
+
+n_iter: 518
+ct: 141
+hue_offset: 16
+saturation: 0.05
+
+num_attempts: 11
+dur: 7
+std: 15.39
+size: 1103048 (1.05 MiB)
+
+xmin: -0.7030618208522963
+xmax: -0.6971182844481358
+ymin: 0.3805415772681746
+ymax: 0.38388481649551487
+
+contrast: 0.77
+brightness: -0.07
+saturation: 0.77
+gamma: 1.02
+gamma_r: 1.09
+gamma_g: 0.97
+gamma_b: 0.92
+vignette: 25
+temp: 4250
