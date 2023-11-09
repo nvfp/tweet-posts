@@ -1,0 +1,28 @@
+tweet_id: 1722616844157346043
+masto_id: 111380977352758723
+subre_id: Not uploaded, but here's the text: Surprise! Burning Ship!  #DeepLearning #AI
+
+n_iter: 199
+ct: 95
+hue_offset: 194
+saturation: 0.63
+
+num_attempts: 21
+dur: 12
+std: 33.07
+size: 1402978 (1.34 MiB)
+
+xmin: 0.5098508096346053
+xmax: 0.8098508096346053
+ymin: -1.2206721679711947
+ymax: -1.0519221679711948
+
+contrast: 1.39
+brightness: 0.15
+saturation: 0.96
+gamma: 1.04
+gamma_r: 0.95
+gamma_g: 1.05
+gamma_b: 1.08
+vignette: 32
+temp: 3437
