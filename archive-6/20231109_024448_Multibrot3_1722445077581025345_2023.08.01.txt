@@ -1,0 +1,28 @@
+tweet_id: 1722445077581025345
+masto_id: 111378293584855961
+subre_id: Not uploaded, but here's the text: Guess what? It's Multibrot!  #Science #Math
+
+n_iter: 461
+ct: 1
+hue_offset: 81
+saturation: -0.38
+
+num_attempts: 525
+dur: 605
+std: 82.58
+size: 1251388 (1.19 MiB)
+
+xmin: 0.18675577869357074
+xmax: 0.19104302413837246
+ymin: 0.8881925147603869
+ymax: 0.8906040903230878
+
+contrast: 0.94
+brightness: 0.19
+saturation: 0.35
+gamma: 1.05
+gamma_r: 1.07
+gamma_g: 0.94
+gamma_b: 1.09
+vignette: 21
+temp: 6021
