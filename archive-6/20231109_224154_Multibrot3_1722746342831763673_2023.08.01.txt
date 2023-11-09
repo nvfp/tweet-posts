@@ -1,0 +1,28 @@
+tweet_id: 1722746342831763673
+masto_id: 111383000803962621
+subre_id: Not uploaded, but here's the text: Wishing you a joyful day!  #VisualArt #Math
+
+n_iter: 533
+ct: 255
+hue_offset: 39
+saturation: -0.64
+
+num_attempts: 268
+dur: 607
+std: 86.52
+size: 1429452 (1.36 MiB)
+
+xmin: -0.10748044778390153
+xmax: -0.09722403752749127
+ymin: -0.7672560305366165
+ymax: -0.7614867997673858
+
+contrast: 1.14
+brightness: 0.19
+saturation: 0.37
+gamma: 1.02
+gamma_r: 1.08
+gamma_g: 1.03
+gamma_b: 0.94
+vignette: -35
+temp: 2700
