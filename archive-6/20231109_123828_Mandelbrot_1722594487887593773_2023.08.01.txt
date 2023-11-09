@@ -1,0 +1,28 @@
+tweet_id: 1722594487887593773
+masto_id: 111380627998445885
+subre_id: Not uploaded, but here's the text: Good Thursday! This Mandelbrot Set is for you!  #DeepLearning #Mathematics
+
+n_iter: 225
+ct: 150
+hue_offset: 126
+saturation: -0.08
+
+num_attempts: 110
+dur: 28
+std: 35.67
+size: 794293 (775.68 KiB)
+
+xmin: -1.2218590309540196
+xmax: -1.2202823656012407
+ymin: 0.14258558888061512
+ymax: 0.14347246314155324
+
+contrast: 1.35
+brightness: 0.15
+saturation: 1.61
+gamma: 0.94
+gamma_r: 0.95
+gamma_g: 0.96
+gamma_b: 0.97
+vignette: -2
+temp: 2681
