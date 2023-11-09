@@ -1,0 +1,28 @@
+tweet_id: 1722556603000357038
+masto_id: 111380036076408889
+subre_id: Not uploaded, but here's the text: Warm wishes for your Thursday, and let's have a look at this Burning Ship.  #Fractals #DigitalArt
+
+n_iter: 174
+ct: 5
+hue_offset: 182
+saturation: -0.7
+
+num_attempts: 7
+dur: 3
+std: 21.82
+size: 1303950 (1.24 MiB)
+
+xmin: -0.5556736648861984
+xmax: -0.49723210644463994
+ymin: -0.8028001752355722
+ymax: -0.7699267986121956
+
+contrast: 1.72
+brightness: 0.22
+saturation: 0.68
+gamma: 1.03
+gamma_r: 0.93
+gamma_g: 0.93
+gamma_b: 0.96
+vignette: -9
+temp: 3223
