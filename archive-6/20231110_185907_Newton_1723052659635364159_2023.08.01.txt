@@ -1,0 +1,31 @@
+tweet_id: 1723052659635364159
+masto_id: 111387787096650062
+subre_id: Not uploaded, but here's the text: Shine bright like the sun on this Friday!  #DigitalArt #Art
+
+newton_power: 5
+newton_const: 9
+
+n_iter: 99
+ct: 42
+hue_offset: 0
+saturation: -0.5
+
+num_attempts: 193
+dur: 600
+std: 12.9
+size: 1285361 (1.23 MiB)
+
+xmin: 0.024683829417703418
+xmax: 0.04707188911919595
+ymin: -1.2399201042114494
+ymax: -1.22732682062936
+
+contrast: 1.0
+brightness: -0.02
+saturation: 0.32
+gamma: 1.06
+gamma_r: 0.91
+gamma_g: 0.95
+gamma_b: 1.01
+vignette: -45
+temp: 6887
