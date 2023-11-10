@@ -1,0 +1,28 @@
+tweet_id: 1722889246149599285
+masto_id: 111385233566197657
+subre_id: Not uploaded, but here's the text: You are lovely!  #Science #VisualArt
+
+n_iter: 416
+ct: 248
+hue_offset: 199
+saturation: -0.1
+
+num_attempts: 1
+dur: 4
+std: 48.2
+size: 308540 (301.31 KiB)
+
+xmin: -0.8562463720917157
+xmax: -0.3562463720917157
+ymin: -0.7605766752643668
+ymax: -0.4793266752643668
+
+contrast: 1.41
+brightness: 0.13
+saturation: 1.72
+gamma: 1.0
+gamma_r: 1.08
+gamma_g: 0.97
+gamma_b: 1.0
+vignette: 19
+temp: 5311
