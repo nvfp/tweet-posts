@@ -1,0 +1,28 @@
+tweet_id: 1723099916816290034
+masto_id: 111388525391668712
+subre_id: Not uploaded, but here's the text: Have an awesome Friday!  #VisualArt #Art
+
+n_iter: 321
+ct: 58
+hue_offset: 70
+saturation: -0.85
+
+num_attempts: 9
+dur: 3
+std: 36.78
+size: 789306 (770.81 KiB)
+
+xmin: -1.6748217523967939
+xmax: -1.1748217523967939
+ymin: -0.3726616762260402
+ymax: -0.09141167622604018
+
+contrast: 1.32
+brightness: -0.02
+saturation: 1.01
+gamma: 1.07
+gamma_r: 1.03
+gamma_g: 1.03
+gamma_b: 0.92
+vignette: -6
+temp: 3162
