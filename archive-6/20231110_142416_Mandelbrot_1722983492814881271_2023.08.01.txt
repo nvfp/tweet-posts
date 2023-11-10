@@ -1,0 +1,28 @@
+tweet_id: 1722983492814881271
+masto_id: 111386706365964344
+subre_id: Not uploaded, but here's the text: you're awesome!  #VisualArt #Programming
+
+n_iter: 955
+ct: 120
+hue_offset: 129
+saturation: 0.76
+
+num_attempts: 37
+dur: 28
+std: 16.31
+size: 1073269 (1.02 MiB)
+
+xmin: -0.36342847625148744
+xmax: -0.3630283962354842
+ymin: 0.6654696827829565
+ymax: 0.6656947277919583
+
+contrast: 1.38
+brightness: 0.09
+saturation: 0.77
+gamma: 1.05
+gamma_r: 1.04
+gamma_g: 0.97
+gamma_b: 0.99
+vignette: -27
+temp: 6319
