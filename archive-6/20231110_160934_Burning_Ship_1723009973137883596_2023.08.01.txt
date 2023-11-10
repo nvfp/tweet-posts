@@ -1,0 +1,28 @@
+tweet_id: 1723009973137883596
+masto_id: 111387120089058252
+subre_id: Not uploaded, but here's the text: Have an awesome Friday!  #Nature #Math
+
+n_iter: 186
+ct: 20
+hue_offset: 286
+saturation: -0.89
+
+num_attempts: 11
+dur: 2
+std: 32.98
+size: 1214020 (1.16 MiB)
+
+xmin: -0.5749560012337216
+xmax: -0.3249560012337216
+ymin: -0.9461568602625394
+ymax: -0.8055318602625394
+
+contrast: 1.79
+brightness: 0.12
+saturation: 0.32
+gamma: 0.9
+gamma_r: 1.1
+gamma_g: 0.93
+gamma_b: 0.9
+vignette: 0
+temp: 4578
