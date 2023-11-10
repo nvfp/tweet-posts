@@ -1,0 +1,31 @@
+tweet_id: 1722871429291450739
+masto_id: 111384955328065841
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Friday! You got this!  #VisualArt #Fractals
+
+newton_power: 3
+newton_const: -1
+
+n_iter: 240
+ct: 92
+hue_offset: 8
+saturation: -0.61
+
+num_attempts: 229
+dur: 603
+std: 3.85
+size: 947693 (925.48 KiB)
+
+xmin: -1.3719507905187738
+xmax: -1.349891966989362
+ymin: -0.20569167330512772
+ymax: -0.1932835850698336
+
+contrast: 1.76
+brightness: 0.19
+saturation: 1.63
+gamma: 0.98
+gamma_r: 0.94
+gamma_g: 1.03
+gamma_b: 1.05
+vignette: -39
+temp: 3826
