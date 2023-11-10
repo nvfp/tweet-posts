@@ -1,0 +1,28 @@
+tweet_id: 1722774887012643209
+masto_id: 111383446931995533
+subre_id: Not uploaded, but here's the text: Wishing you the best!  #Mathematics #Science
+
+n_iter: 481
+ct: 253
+hue_offset: 87
+saturation: -0.84
+
+num_attempts: 40
+dur: 13
+std: 20.08
+size: 659913 (644.45 KiB)
+
+xmin: -2.276474931438486
+xmax: -1.3764749314384859
+ymin: -0.26065741789703134
+ymax: 0.24559258210296864
+
+contrast: 0.99
+brightness: 0.15
+saturation: 0.5
+gamma: 1.01
+gamma_r: 0.96
+gamma_g: 0.91
+gamma_b: 1.06
+vignette: -17
+temp: 2782
