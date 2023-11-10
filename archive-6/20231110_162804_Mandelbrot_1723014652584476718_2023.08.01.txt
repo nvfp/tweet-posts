@@ -1,0 +1,28 @@
+tweet_id: 1723014652584476718
+masto_id: 111387193160589640
+subre_id: Not uploaded, but here's the text: Hope you have an amazing Friday!  #MachineLearning #VisualArt
+
+n_iter: 138
+ct: 50
+hue_offset: 192
+saturation: 0.52
+
+num_attempts: 55
+dur: 24
+std: 30.52
+size: 885531 (864.78 KiB)
+
+xmin: -0.7126044535301084
+xmax: -0.712178966879752
+ymin: 0.2813975388937482
+ymax: 0.28163687513457364
+
+contrast: 1.47
+brightness: 0.15
+saturation: 0.78
+gamma: 0.95
+gamma_r: 1.04
+gamma_g: 1.0
+gamma_b: 1.02
+vignette: -32
+temp: 3229
