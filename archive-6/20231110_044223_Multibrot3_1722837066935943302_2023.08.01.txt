@@ -1,0 +1,28 @@
+tweet_id: 1722837066935943302
+masto_id: 111384418275911495
+subre_id: Not uploaded, but here's the text: Shine bright like the sun on this Friday!  #Nature #AI
+
+n_iter: 354
+ct: 255
+hue_offset: 117
+saturation: -0.39
+
+num_attempts: 394
+dur: 607
+std: 53.8
+size: 544901 (532.13 KiB)
+
+xmin: -0.15473307417426163
+xmax: -0.1469660838829995
+ymin: 1.0908500693335368
+ymax: 1.0952190013723717
+
+contrast: 1.55
+brightness: -0.07
+saturation: 1.01
+gamma: 0.93
+gamma_r: 0.92
+gamma_g: 0.93
+gamma_b: 1.01
+vignette: -43
+temp: 6333
