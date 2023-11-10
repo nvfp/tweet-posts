@@ -1,0 +1,28 @@
+tweet_id: 1722897430411157634
+masto_id: 111385361451059386
+subre_id: Not uploaded, but here's the text: Friday vibes!  #Fractals #VisualArt
+
+n_iter: 571
+ct: 255
+hue_offset: 91
+saturation: -0.45
+
+num_attempts: 324
+dur: 606
+std: 59.51
+size: 383664 (374.67 KiB)
+
+xmin: -0.5935351552860189
+xmax: -0.5883805161107611
+ymin: -0.567584462874636
+ymax: -0.5646849783385536
+
+contrast: 1.06
+brightness: -0.03
+saturation: 0.55
+gamma: 1.06
+gamma_r: 1.07
+gamma_g: 1.02
+gamma_b: 1.1
+vignette: -30
+temp: 2155
