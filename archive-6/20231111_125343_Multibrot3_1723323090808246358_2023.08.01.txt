@@ -1,0 +1,28 @@
+tweet_id: 1723323090808246358
+masto_id: 111392012512384801
+subre_id: Not uploaded, but here's the text: Surprise! It's a Multibrot!  #DigitalArt #DeepLearning
+
+n_iter: 327
+ct: 1
+hue_offset: 198
+saturation: -0.39
+
+num_attempts: 621
+dur: 603
+std: 54.81
+size: 1139791 (1.09 MiB)
+
+xmin: -0.13755828229631462
+xmax: -0.1296374902171067
+ymin: -0.767585957400219
+ymax: -0.7631305118556645
+
+contrast: 1.39
+brightness: -0.1
+saturation: 1.7
+gamma: 0.96
+gamma_r: 1.01
+gamma_g: 1.03
+gamma_b: 0.98
+vignette: -10
+temp: 3879
