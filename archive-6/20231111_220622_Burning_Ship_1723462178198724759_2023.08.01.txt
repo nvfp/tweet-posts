@@ -1,0 +1,28 @@
+tweet_id: 1723462178198724759
+masto_id: 111394185683938675
+subre_id: Not uploaded, but here's the text: You rock, and so does this Saturday!  #Math #AI
+
+n_iter: 299
+ct: 7
+hue_offset: 173
+saturation: 0.23
+
+num_attempts: 9
+dur: 4
+std: 44.06
+size: 1287121 (1.23 MiB)
+
+xmin: 0.05644663177292619
+xmax: 0.10283838435024578
+ymin: -1.0849379654580895
+ymax: -1.0588426046333472
+
+contrast: 1.57
+brightness: 0.21
+saturation: 1.55
+gamma: 1.05
+gamma_r: 0.94
+gamma_g: 1.02
+gamma_b: 0.96
+vignette: 3
+temp: 3305
