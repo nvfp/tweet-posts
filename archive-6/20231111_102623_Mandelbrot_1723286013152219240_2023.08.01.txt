@@ -1,0 +1,28 @@
+tweet_id: 1723286013152219240
+masto_id: 111391433086435523
+subre_id: Not uploaded, but here's the text: you are fantastic!  #MachineLearning #VisualArt
+
+n_iter: 272
+ct: 18
+hue_offset: 353
+saturation: 0.14
+
+num_attempts: 188
+dur: 99
+std: 46.26
+size: 1928642 (1.84 MiB)
+
+xmin: -0.2169239240924652
+xmax: -0.2144578328470891
+ymin: -0.6554022397796582
+ymax: -0.6540150634541341
+
+contrast: 1.0
+brightness: 0.07
+saturation: 1.2
+gamma: 1.03
+gamma_r: 1.04
+gamma_g: 1.07
+gamma_b: 1.03
+vignette: -37
+temp: 6876
