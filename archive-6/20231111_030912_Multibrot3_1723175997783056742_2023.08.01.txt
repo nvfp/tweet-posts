@@ -1,0 +1,28 @@
+tweet_id: 1723175997783056742
+masto_id: 111389714125043443
+subre_id: Not uploaded, but here's the text: Good Saturday! This Multibrot is for you!  #Programming #Math
+
+n_iter: 276
+ct: 255
+hue_offset: 329
+saturation: -0.96
+
+num_attempts: 735
+dur: 600
+std: 52.65
+size: 944019 (921.89 KiB)
+
+xmin: 0.12224869943509686
+xmax: 0.12627689681676857
+ymin: -0.8036294973814283
+ymax: -0.801363636354238
+
+contrast: 1.33
+brightness: -0.08
+saturation: 1.45
+gamma: 1.06
+gamma_r: 1.04
+gamma_g: 0.94
+gamma_b: 1.0
+vignette: -15
+temp: 6664
