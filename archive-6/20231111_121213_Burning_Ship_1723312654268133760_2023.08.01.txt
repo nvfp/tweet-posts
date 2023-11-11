@@ -1,0 +1,28 @@
+tweet_id: 1723312654268133760
+masto_id: 111391849404227772
+subre_id: Not uploaded, but here's the text: Hey there, it's Saturday!  #Mathematics #DeepLearning
+
+n_iter: 316
+ct: 139
+hue_offset: 215
+saturation: 0.88
+
+num_attempts: 3
+dur: 0
+std: 38.04
+size: 1340032 (1.28 MiB)
+
+xmin: 0.6935615580904773
+xmax: 0.7430121075410268
+ymin: -1.1619466759545882
+ymax: -1.1341307418886541
+
+contrast: 0.88
+brightness: 0.17
+saturation: 1.58
+gamma: 1.07
+gamma_r: 1.08
+gamma_g: 1.07
+gamma_b: 0.97
+vignette: 4
+temp: 5647
