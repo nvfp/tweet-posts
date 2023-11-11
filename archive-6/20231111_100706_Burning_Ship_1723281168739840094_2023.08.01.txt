@@ -1,0 +1,28 @@
+tweet_id: 1723281168739840094
+masto_id: 111391357429021557
+subre_id: Not uploaded, but here's the text: Look what we have here! it's Burning Ship!  #VisualArt #Nature
+
+n_iter: 396
+ct: 112
+hue_offset: 177
+saturation: -0.45
+
+num_attempts: 28
+dur: 9
+std: 50.66
+size: 2049380 (1.95 MiB)
+
+xmin: -0.828902157890429
+xmax: -0.688277157890429
+ymin: -0.8289885882829129
+ymax: -0.7498870257829129
+
+contrast: 1.12
+brightness: 0.21
+saturation: 1.5
+gamma: 0.93
+gamma_r: 0.96
+gamma_g: 1.0
+gamma_b: 1.0
+vignette: 22
+temp: 3156
