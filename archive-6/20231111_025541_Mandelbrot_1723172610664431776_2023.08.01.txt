@@ -1,0 +1,28 @@
+tweet_id: 1723172610664431776
+masto_id: 111389661053856229
+subre_id: Not uploaded, but here's the text: Warm wishes for your Saturday, and let's have a look at this Mandelbrot Set.  #AI #Mathematics
+
+n_iter: 423
+ct: 208
+hue_offset: 104
+saturation: -0.02
+
+num_attempts: 23
+dur: 10
+std: 42.25
+size: 177442 (173.28 KiB)
+
+xmin: -0.9416612518119802
+xmax: -0.906878643116328
+ymin: 0.22313635541450627
+ymax: 0.24270157280581062
+
+contrast: 1.74
+brightness: -0.02
+saturation: 0.44
+gamma: 1.08
+gamma_r: 0.93
+gamma_g: 0.99
+gamma_b: 1.04
+vignette: -19
+temp: 7397
