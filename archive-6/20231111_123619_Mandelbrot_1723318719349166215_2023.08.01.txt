@@ -1,0 +1,28 @@
+tweet_id: 1723318719349166215
+masto_id: 111391944141992362
+subre_id: Not uploaded, but here's the text: Enjoy your Saturday!  #Science #VisualArt
+
+n_iter: 718
+ct: 58
+hue_offset: 227
+saturation: 0.86
+
+num_attempts: 31
+dur: 47
+std: 109.82
+size: 1121730 (1.07 MiB)
+
+xmin: -1.1415180951001453
+xmax: -1.1355921691742195
+ymin: 0.20782105518210292
+ymax: 0.21115438851543625
+
+contrast: 1.48
+brightness: -0.06
+saturation: 1.36
+gamma: 0.95
+gamma_r: 0.98
+gamma_g: 0.9
+gamma_b: 0.99
+vignette: 33
+temp: 6730
