@@ -1,0 +1,28 @@
+tweet_id: 1723229480137720278
+masto_id: 111390549777258513
+subre_id: Not uploaded, but here's the text: How was your day?  #Math #AI
+
+n_iter: 448
+ct: 255
+hue_offset: 235
+saturation: -0.68
+
+num_attempts: 282
+dur: 604
+std: 72.71
+size: 1225986 (1.17 MiB)
+
+xmin: 0.5411212457432835
+xmax: 0.5481634992644102
+ymin: -0.3862325025280078
+ymax: -0.38227123492237397
+
+contrast: 0.92
+brightness: 0.06
+saturation: 1.63
+gamma: 1.06
+gamma_r: 1.09
+gamma_g: 0.93
+gamma_b: 1.07
+vignette: -14
+temp: 6266
