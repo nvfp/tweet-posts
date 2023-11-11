@@ -1,0 +1,31 @@
+tweet_id: 1723354618942607534
+masto_id: 111392505095324930
+subre_id: Not uploaded, but here's the text: This Saturday is made even better by this Newton!  #Mathematics #VisualArt
+
+newton_power: 7
+newton_const: -3
+
+n_iter: 89
+ct: 7
+hue_offset: 275
+saturation: 0.09
+
+num_attempts: 149
+dur: 600
+std: 41.23
+size: 358000 (349.61 KiB)
+
+xmin: 0.32318039825337186
+xmax: 0.3322989392868065
+ymin: 1.4157240065136594
+ymax: 1.4208531858449664
+
+contrast: 1.59
+brightness: -0.06
+saturation: 0.35
+gamma: 1.03
+gamma_r: 1.04
+gamma_g: 0.93
+gamma_b: 0.94
+vignette: 25
+temp: 6680
