@@ -1,0 +1,28 @@
+tweet_id: 1723190992474407258
+masto_id: 111389948393291717
+subre_id: Not uploaded, but here's the text: Good Saturday! This Burning Ship is for you!  #Math #Art
+
+n_iter: 192
+ct: 66
+hue_offset: 344
+saturation: 0.62
+
+num_attempts: 1
+dur: 0
+std: 29.3
+size: 2142645 (2.04 MiB)
+
+xmin: -0.37350013247134806
+xmax: -0.3275817651244093
+ymin: -1.0033672680592616
+ymax: -0.9775381864266085
+
+contrast: 1.29
+brightness: 0.06
+saturation: 1.39
+gamma: 1.09
+gamma_r: 1.05
+gamma_g: 1.01
+gamma_b: 1.06
+vignette: -11
+temp: 6161
