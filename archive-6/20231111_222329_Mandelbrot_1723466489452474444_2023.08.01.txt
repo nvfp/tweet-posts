@@ -1,0 +1,28 @@
+tweet_id: 1723466489452474444
+masto_id: 111394253019553871
+subre_id: Not uploaded, but here's the text: Let's rock this Saturday!  #DeepLearning #Art
+
+n_iter: 1020
+ct: 202
+hue_offset: 184
+saturation: -0.26
+
+num_attempts: 46
+dur: 28
+std: 51.03
+size: 762851 (744.97 KiB)
+
+xmin: 0.37715384063912305
+xmax: 0.37771905188682686
+ymin: 0.13274179574324285
+ymax: 0.13305972707007627
+
+contrast: 1.53
+brightness: 0.2
+saturation: 1.01
+gamma: 1.09
+gamma_r: 0.97
+gamma_g: 0.94
+gamma_b: 0.96
+vignette: -2
+temp: 3134
