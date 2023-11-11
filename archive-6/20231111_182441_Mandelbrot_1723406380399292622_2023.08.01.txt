@@ -1,0 +1,28 @@
+tweet_id: 1723406380399292622
+masto_id: 111393313982088565
+subre_id: Not uploaded, but here's the text: Ever heard of this Mandelbrot Set?  #MachineLearning #Fractals
+
+n_iter: 266
+ct: 186
+hue_offset: 29
+saturation: -0.1
+
+num_attempts: 59
+dur: 39
+std: 36.0
+size: 1174082 (1.12 MiB)
+
+xmin: -0.566562033560114
+xmax: -0.5655444807745633
+ymin: -0.4936634296762402
+ymax: -0.49309105623436794
+
+contrast: 0.85
+brightness: 0.0
+saturation: 0.54
+gamma: 0.95
+gamma_r: 0.9
+gamma_g: 0.92
+gamma_b: 0.98
+vignette: -16
+temp: 7685
