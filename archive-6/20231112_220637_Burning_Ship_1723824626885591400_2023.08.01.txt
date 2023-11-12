@@ -1,0 +1,28 @@
+tweet_id: 1723824626885591400
+masto_id: 111399848998314845
+subre_id: Not uploaded, but here's the text: Smile!  #DigitalArt #Art
+
+n_iter: 201
+ct: 133
+hue_offset: 345
+saturation: 0.35
+
+num_attempts: 10
+dur: 3
+std: 24.51
+size: 1081956 (1.03 MiB)
+
+xmin: -0.8866728310546297
+xmax: -0.8116728310546297
+ymin: -0.8622464876411775
+ymax: -0.8200589876411775
+
+contrast: 1.59
+brightness: 0.11
+saturation: 1.38
+gamma: 0.93
+gamma_r: 0.97
+gamma_g: 0.99
+gamma_b: 1.0
+vignette: 26
+temp: 3628
