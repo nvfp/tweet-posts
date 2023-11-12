@@ -1,0 +1,28 @@
+tweet_id: 1723532842385240179
+masto_id: 111395289717542428
+subre_id: Not uploaded, but here's the text: Surprise! It's a Multibrot!  #AI #Nature
+
+n_iter: 374
+ct: 1
+hue_offset: 105
+saturation: -0.28
+
+num_attempts: 593
+dur: 604
+std: 58.84
+size: 473717 (462.61 KiB)
+
+xmin: 0.20182193662655168
+xmax: 0.20755259565233963
+ymin: 0.9637099772029885
+ymax: 0.9669334729049942
+
+contrast: 1.52
+brightness: -0.03
+saturation: 1.22
+gamma: 0.96
+gamma_r: 1.02
+gamma_g: 1.03
+gamma_b: 0.91
+vignette: -36
+temp: 7639
