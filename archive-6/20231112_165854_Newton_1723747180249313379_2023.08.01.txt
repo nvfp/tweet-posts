@@ -1,0 +1,31 @@
+tweet_id: 1723747180249313379
+masto_id: 111398638985069338
+subre_id: Not uploaded, but here's the text: Hello Sunday! This Newton is yours!  #MachineLearning #DigitalArt
+
+newton_power: 7
+newton_const: 7
+
+n_iter: 229
+ct: 54
+hue_offset: 266
+saturation: -0.89
+
+num_attempts: 164
+dur: 600
+std: 26.53
+size: 1295265 (1.24 MiB)
+
+xmin: -0.39363264969942113
+xmax: -0.38611385270693993
+ymin: -0.3117699991281715
+ymax: -0.3075406758199008
+
+contrast: 1.29
+brightness: 0.17
+saturation: 0.47
+gamma: 0.94
+gamma_r: 0.99
+gamma_g: 0.95
+gamma_b: 0.94
+vignette: 33
+temp: 3266
