@@ -1,0 +1,28 @@
+tweet_id: 1723685666335207524
+masto_id: 111397677644727031
+subre_id: Not uploaded, but here's the text: Sunday is shining brightly, just like this Multibrot.  #Math #VisualArt
+
+n_iter: 396
+ct: 255
+hue_offset: 346
+saturation: -0.96
+
+num_attempts: 340
+dur: 605
+std: 51.07
+size: 887172 (866.38 KiB)
+
+xmin: 0.15002869796127483
+xmax: 0.16462723810726024
+ymin: 1.0888215091769324
+ymax: 1.0970331880090491
+
+contrast: 1.69
+brightness: 0.21
+saturation: 1.37
+gamma: 1.04
+gamma_r: 0.92
+gamma_g: 0.97
+gamma_b: 1.07
+vignette: -6
+temp: 4560
