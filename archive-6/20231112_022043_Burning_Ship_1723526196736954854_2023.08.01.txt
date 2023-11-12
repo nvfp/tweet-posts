@@ -1,0 +1,28 @@
+tweet_id: 1723526196736954854
+masto_id: 111395185833217019
+subre_id: Not uploaded, but here's the text: Chin up, lovely humans!  #AI #Science
+
+n_iter: 350
+ct: 57
+hue_offset: 352
+saturation: 0.75
+
+num_attempts: 26
+dur: 6
+std: 20.84
+size: 246992 (241.2 KiB)
+
+xmin: 0.42946444312381127
+xmax: 0.5127977764571446
+ymin: -0.798065425604199
+ymax: -0.751190425604199
+
+contrast: 1.18
+brightness: 0.06
+saturation: 0.43
+gamma: 0.92
+gamma_r: 0.97
+gamma_g: 1.03
+gamma_b: 1.03
+vignette: 18
+temp: 4383
