@@ -1,0 +1,28 @@
+tweet_id: 1723517757184962850
+masto_id: 111395054106046165
+subre_id: Not uploaded, but here's the text: Let the magic of Sunday fill your heart!  #DeepLearning #VisualArt
+
+n_iter: 506
+ct: 1
+hue_offset: 328
+saturation: 0.79
+
+num_attempts: 490
+dur: 607
+std: 64.43
+size: 1301126 (1.24 MiB)
+
+xmin: 0.1439980411424524
+xmax: 0.1480221860116677
+ymin: 0.8215550026333167
+ymax: 0.8238185841222503
+
+contrast: 1.47
+brightness: 0.1
+saturation: 0.86
+gamma: 1.01
+gamma_r: 0.91
+gamma_g: 0.96
+gamma_b: 0.91
+vignette: -14
+temp: 7381
