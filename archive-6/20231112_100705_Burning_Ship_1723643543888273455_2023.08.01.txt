@@ -1,0 +1,28 @@
+tweet_id: 1723643543888273455
+masto_id: 111397019550327824
+subre_id: Not uploaded, but here's the text: Hey there, it's Sunday!  #Mathematics #Nature
+
+n_iter: 436
+ct: 246
+hue_offset: 191
+saturation: 0.26
+
+num_attempts: 1
+dur: 1
+std: 45.97
+size: 1823522 (1.74 MiB)
+
+xmin: 0.15067328949621395
+xmax: 0.20424471806764252
+ymin: -1.184413118538623
+ymax: -1.1542791899671945
+
+contrast: 0.88
+brightness: -0.03
+saturation: 0.6
+gamma: 1.05
+gamma_r: 0.94
+gamma_g: 0.98
+gamma_b: 0.99
+vignette: 20
+temp: 5303
