@@ -1,0 +1,31 @@
+tweet_id: 1723807600066621852
+masto_id: 111399582950639516
+subre_id: Not uploaded, but here's the text: Newton vibes to brighten your Sunday.  #Math #DigitalArt
+
+newton_power: 5
+newton_const: 9
+
+n_iter: 177
+ct: 99
+hue_offset: 284
+saturation: 0.36
+
+num_attempts: 103
+dur: 603
+std: 11.7
+size: 1002678 (979.18 KiB)
+
+xmin: 0.6215020212508837
+xmax: 0.6498039080433365
+ymin: 1.297986228052706
+ymax: 1.3139060393734607
+
+contrast: 1.33
+brightness: 0.1
+saturation: 1.47
+gamma: 0.92
+gamma_r: 1.07
+gamma_g: 0.91
+gamma_b: 1.01
+vignette: 10
+temp: 5003
