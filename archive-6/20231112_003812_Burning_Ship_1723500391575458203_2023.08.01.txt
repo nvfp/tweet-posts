@@ -1,0 +1,28 @@
+tweet_id: 1723500391575458203
+masto_id: 111394782700802292
+subre_id: Not uploaded, but here's the text: Warm wishes for your Sunday, and let's have a look at this Burning Ship.  #Programming #Nature
+
+n_iter: 276
+ct: 18
+hue_offset: 71
+saturation: 0.48
+
+num_attempts: 2
+dur: 2
+std: 26.97
+size: 402497 (393.06 KiB)
+
+xmin: -0.6401983222600622
+xmax: -0.2940444761062161
+ymin: -0.8133616741896712
+ymax: -0.6186501357281328
+
+contrast: 1.26
+brightness: 0.09
+saturation: 0.49
+gamma: 1.02
+gamma_r: 0.94
+gamma_g: 1.07
+gamma_b: 0.94
+vignette: -4
+temp: 2147
