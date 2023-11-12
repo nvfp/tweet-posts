@@ -1,0 +1,28 @@
+tweet_id: 1723588376001941979
+masto_id: 111396157673144515
+subre_id: Not uploaded, but here's the text: Mandelbrot Set vibes to brighten your Sunday.  #Nature #MachineLearning
+
+n_iter: 981
+ct: 139
+hue_offset: 342
+saturation: -0.25
+
+num_attempts: 107
+dur: 158
+std: 34.88
+size: 807425 (788.5 KiB)
+
+xmin: -0.583837821132744
+xmax: -0.5829958931175893
+ymin: -0.4936763882523737
+ymax: -0.49320280374384917
+
+contrast: 1.61
+brightness: 0.03
+saturation: 1.67
+gamma: 0.97
+gamma_r: 0.94
+gamma_g: 1.09
+gamma_b: 0.95
+vignette: 9
+temp: 7178
