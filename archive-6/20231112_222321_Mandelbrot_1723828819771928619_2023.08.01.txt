@@ -1,0 +1,28 @@
+tweet_id: 1723828819771928619
+masto_id: 111399914488983949
+subre_id: Not uploaded, but here's the text: Have an awesome day!  #VisualArt #Mathematics
+
+n_iter: 668
+ct: 234
+hue_offset: 13
+saturation: 0.92
+
+num_attempts: 72
+dur: 23
+std: 32.57
+size: 1509540 (1.44 MiB)
+
+xmin: -0.655725203223585
+xmax: -0.6546921453723453
+ymin: -0.44993756863488443
+ymax: -0.4493564735935621
+
+contrast: 0.7
+brightness: 0.09
+saturation: 0.9
+gamma: 0.96
+gamma_r: 1.04
+gamma_g: 0.94
+gamma_b: 0.96
+vignette: -36
+temp: 7197
