@@ -1,0 +1,28 @@
+tweet_id: 1723652362106220750
+masto_id: 111397157335797516
+subre_id: Not uploaded, but here's the text: Wow, take a look! There's Multibrot!  #Nature #Fractals
+
+n_iter: 289
+ct: 255
+hue_offset: 65
+saturation: 0.41
+
+num_attempts: 525
+dur: 605
+std: 48.65
+size: 1436048 (1.37 MiB)
+
+xmin: -0.5415297268185404
+xmax: -0.5363684364959598
+ymin: 0.61302992137042
+ymax: 0.6159331471768716
+
+contrast: 1.1
+brightness: 0.01
+saturation: 1.56
+gamma: 1.02
+gamma_r: 1.09
+gamma_g: 0.96
+gamma_b: 1.07
+vignette: 29
+temp: 3229
