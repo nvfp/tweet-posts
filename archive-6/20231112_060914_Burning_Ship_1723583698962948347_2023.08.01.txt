@@ -1,0 +1,28 @@
+tweet_id: 1723583698962948347
+masto_id: 111396084374253156
+subre_id: Not uploaded, but here's the text: This Sunday is made even better by this Burning Ship!  #Programming #Science
+
+n_iter: 402
+ct: 74
+hue_offset: 80
+saturation: -0.19
+
+num_attempts: 7
+dur: 2
+std: 35.73
+size: 438759 (428.48 KiB)
+
+xmin: -1.843607836433593
+xmax: -0.718607836433593
+ymin: -0.901035131487355
+ymax: -0.26822263148735503
+
+contrast: 1.5
+brightness: 0.17
+saturation: 1.53
+gamma: 0.9
+gamma_r: 1.07
+gamma_g: 1.05
+gamma_b: 0.98
+vignette: -1
+temp: 3076
