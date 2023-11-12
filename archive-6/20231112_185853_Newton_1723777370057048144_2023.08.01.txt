@@ -1,0 +1,31 @@
+tweet_id: 1723777370057048144
+masto_id: 111399110785849845
+subre_id: Not uploaded, but here's the text: Look closely, it's Newton!  #Fractals #MachineLearning
+
+newton_power: 6
+newton_const: -6
+
+n_iter: 103
+ct: 103
+hue_offset: 126
+saturation: 0.56
+
+num_attempts: 180
+dur: 601
+std: 17.64
+size: 945373 (923.22 KiB)
+
+xmin: 0.01868017540602329
+xmax: 1.0186801754060233
+ymin: -0.3319400466506084
+ymax: 0.2305599533493916
+
+contrast: 1.73
+brightness: 0.18
+saturation: 0.45
+gamma: 0.98
+gamma_r: 0.93
+gamma_g: 1.01
+gamma_b: 0.98
+vignette: -15
+temp: 7416
