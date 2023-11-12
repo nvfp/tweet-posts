@@ -1,0 +1,28 @@
+tweet_id: 1723803310627439068
+masto_id: 111399515976186781
+subre_id: Not uploaded, but here's the text: Brighten your Sunday!  #AI #Fractals
+
+n_iter: 590
+ct: 255
+hue_offset: 171
+saturation: -0.78
+
+num_attempts: 396
+dur: 606
+std: 87.15
+size: 1090950 (1.04 MiB)
+
+xmin: 0.19441803933536006
+xmax: 0.20078746608695242
+ymin: -0.9159309817028353
+ymax: -0.9123481791550646
+
+contrast: 0.93
+brightness: 0.12
+saturation: 0.38
+gamma: 0.97
+gamma_r: 1.03
+gamma_g: 1.09
+gamma_b: 0.9
+vignette: 21
+temp: 3452
