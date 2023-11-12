@@ -1,0 +1,28 @@
+tweet_id: 1723681205663760495
+masto_id: 111397607992106432
+subre_id: Not uploaded, but here's the text: Shine bright like the sun on this Sunday!  #AI #Mathematics
+
+n_iter: 960
+ct: 220
+hue_offset: 262
+saturation: 0.12
+
+num_attempts: 97
+dur: 52
+std: 148.93
+size: 681665 (665.69 KiB)
+
+xmin: -0.3619286648551623
+xmax: -0.35738321030970777
+ymin: 0.6002720718320889
+ymax: 0.602828890013907
+
+contrast: 1.59
+brightness: 0.22
+saturation: 1.47
+gamma: 0.93
+gamma_r: 1.02
+gamma_g: 1.02
+gamma_b: 0.98
+vignette: -21
+temp: 2945
