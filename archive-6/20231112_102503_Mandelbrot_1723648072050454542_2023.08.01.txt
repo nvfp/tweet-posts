@@ -1,0 +1,28 @@
+tweet_id: 1723648072050454542
+masto_id: 111397090308728180
+subre_id: Not uploaded, but here's the text: Surprise! Mandelbrot Set!  #DeepLearning #MachineLearning
+
+n_iter: 665
+ct: 215
+hue_offset: 342
+saturation: -0.95
+
+num_attempts: 29
+dur: 20
+std: 68.53
+size: 999316 (975.89 KiB)
+
+xmin: 0.2698934000548916
+xmax: 0.27059184601263564
+ymin: 0.00470189431163659
+ymax: 0.005094770162867601
+
+contrast: 1.54
+brightness: 0.17
+saturation: 1.16
+gamma: 1.02
+gamma_r: 1.0
+gamma_g: 0.94
+gamma_b: 0.94
+vignette: 27
+temp: 6865
