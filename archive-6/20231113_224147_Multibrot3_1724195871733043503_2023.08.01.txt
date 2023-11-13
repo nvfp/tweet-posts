@@ -1,0 +1,28 @@
+tweet_id: 1724195871733043503
+masto_id: 111405649597574899
+subre_id: Not uploaded, but here's the text: Let this Multibrot inspire your Monday.  #AI #Programming
+
+n_iter: 359
+ct: 1
+hue_offset: 348
+saturation: 0.47
+
+num_attempts: 655
+dur: 601
+std: 61.55
+size: 701297 (684.86 KiB)
+
+xmin: 0.1433289297042437
+xmax: 0.14948277585808986
+ymin: -0.753743159486905
+ymax: -0.7502816210253664
+
+contrast: 1.45
+brightness: 0.09
+saturation: 0.5
+gamma: 0.98
+gamma_r: 1.0
+gamma_g: 0.94
+gamma_b: 1.1
+vignette: 6
+temp: 6035
