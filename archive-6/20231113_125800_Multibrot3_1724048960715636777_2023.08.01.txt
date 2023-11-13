@@ -1,0 +1,28 @@
+tweet_id: 1724048960715636777
+masto_id: 111403354038179695
+subre_id: Not uploaded, but here's the text: Wishing you the best!  #AI #Nature
+
+n_iter: 516
+ct: 255
+hue_offset: 104
+saturation: -0.47
+
+num_attempts: 557
+dur: 601
+std: 43.42
+size: 395169 (385.91 KiB)
+
+xmin: -0.5786139714896092
+xmax: -0.5292312554402265
+ymin: -0.2614725112355889
+ymax: -0.2336947334578111
+
+contrast: 1.56
+brightness: -0.02
+saturation: 0.96
+gamma: 1.1
+gamma_r: 1.02
+gamma_g: 1.0
+gamma_b: 0.94
+vignette: 30
+temp: 4484
