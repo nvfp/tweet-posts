@@ -1,0 +1,28 @@
+tweet_id: 1723976656380199095
+masto_id: 111402224949470926
+subre_id: Not uploaded, but here's the text: you're awesome!  #Programming #Art
+
+n_iter: 298
+ct: 249
+hue_offset: 288
+saturation: 0.56
+
+num_attempts: 18
+dur: 5
+std: 48.11
+size: 2116037 (2.02 MiB)
+
+xmin: -0.38798558696912133
+xmax: -0.29798558696912136
+ymin: -0.942756194750185
+ymax: -0.892131194750185
+
+contrast: 1.38
+brightness: -0.02
+saturation: 1.65
+gamma: 0.96
+gamma_r: 1.07
+gamma_g: 0.95
+gamma_b: 1.04
+vignette: -17
+temp: 3968
