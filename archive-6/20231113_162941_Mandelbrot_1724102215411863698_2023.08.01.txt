@@ -1,0 +1,28 @@
+tweet_id: 1724102215411863698
+masto_id: 111404186396178729
+subre_id: Not uploaded, but here's the text: Having a blast on Monday?  #Fractals #MachineLearning
+
+n_iter: 829
+ct: 228
+hue_offset: 32
+saturation: 0.74
+
+num_attempts: 27
+dur: 41
+std: 46.99
+size: 884102 (863.38 KiB)
+
+xmin: -1.3239001043298184
+xmax: -1.1810429614726756
+ymin: -0.19622865350568008
+ymax: -0.11587151064853723
+
+contrast: 0.79
+brightness: 0.21
+saturation: 0.99
+gamma: 1.01
+gamma_r: 0.95
+gamma_g: 0.94
+gamma_b: 0.95
+vignette: 15
+temp: 3326
