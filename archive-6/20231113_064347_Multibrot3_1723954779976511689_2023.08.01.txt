@@ -1,0 +1,28 @@
+tweet_id: 1723954779976511689
+masto_id: 111401882540678440
+subre_id: Not uploaded, but here's the text: Hope your Monday is awesome!  #Math #Programming
+
+n_iter: 358
+ct: 1
+hue_offset: 120
+saturation: -0.73
+
+num_attempts: 534
+dur: 600
+std: 66.08
+size: 899304 (878.23 KiB)
+
+xmin: 0.20962872919017617
+xmax: 0.21551108213135264
+ymin: 0.9581861967574357
+ymax: 0.9614950202868474
+
+contrast: 1.7
+brightness: -0.09
+saturation: 0.62
+gamma: 0.96
+gamma_r: 1.03
+gamma_g: 1.09
+gamma_b: 0.98
+vignette: 21
+temp: 6740
