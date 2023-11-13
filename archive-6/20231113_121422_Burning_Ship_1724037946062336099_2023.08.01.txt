@@ -1,0 +1,28 @@
+tweet_id: 1724037946062336099
+masto_id: 111403182268735986
+subre_id: Not uploaded, but here's the text: Hope you have an amazing Monday!  #MachineLearning #Programming
+
+n_iter: 434
+ct: 62
+hue_offset: 272
+saturation: 0.92
+
+num_attempts: 33
+dur: 10
+std: 37.52
+size: 1266970 (1.21 MiB)
+
+xmin: 0.16660090518350668
+xmax: 0.23478272336532485
+ymin: -1.201410253765252
+ymax: -1.1630579810379793
+
+contrast: 1.42
+brightness: -0.01
+saturation: 0.35
+gamma: 0.98
+gamma_r: 1.0
+gamma_g: 0.9
+gamma_b: 0.99
+vignette: -24
+temp: 2700
