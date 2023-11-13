@@ -1,0 +1,28 @@
+tweet_id: 1723924385436975300
+masto_id: 111401407687867948
+subre_id: Not uploaded, but here's the text: You rock, and so does this Monday!  #Mathematics #Programming
+
+n_iter: 327
+ct: 255
+hue_offset: 98
+saturation: 0.63
+
+num_attempts: 445
+dur: 602
+std: 42.18
+size: 994718 (971.4 KiB)
+
+xmin: -0.38083978494266346
+xmax: -0.3661339025897223
+ymin: 0.6973838488545949
+ymax: 0.7056559076781244
+
+contrast: 0.79
+brightness: -0.06
+saturation: 1.62
+gamma: 1.0
+gamma_r: 0.95
+gamma_g: 0.96
+gamma_b: 0.99
+vignette: -47
+temp: 3149
