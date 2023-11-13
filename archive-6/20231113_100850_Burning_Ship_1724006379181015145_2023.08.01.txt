@@ -1,0 +1,28 @@
+tweet_id: 1724006379181015145
+masto_id: 111402688889021637
+subre_id: Not uploaded, but here's the text: This Monday is made even better by this Burning Ship!  #Nature #DeepLearning
+
+n_iter: 230
+ct: 8
+hue_offset: 46
+saturation: 0.32
+
+num_attempts: 17
+dur: 10
+std: 27.37
+size: 1482094 (1.41 MiB)
+
+xmin: 0.7242604879287073
+xmax: 0.7876407696188482
+ymin: -1.2058011308699732
+ymax: -1.170149722419269
+
+contrast: 1.16
+brightness: 0.1
+saturation: 1.69
+gamma: 1.0
+gamma_r: 0.93
+gamma_g: 1.07
+gamma_b: 1.1
+vignette: 26
+temp: 3021
