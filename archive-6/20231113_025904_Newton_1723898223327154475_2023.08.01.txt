@@ -1,0 +1,31 @@
+tweet_id: 1723898223327154475
+masto_id: 111400998955446452
+subre_id: Not uploaded, but here's the text: Have a great day!  #DigitalArt #Programming
+
+newton_power: 3
+newton_const: 2
+
+n_iter: 183
+ct: 175
+hue_offset: 302
+saturation: -0.99
+
+num_attempts: 284
+dur: 602
+std: 4.51
+size: 353592 (345.3 KiB)
+
+xmin: -0.5111420730600931
+xmax: -0.4967880060744471
+ymin: -0.5879979737001209
+ymax: -0.579923811020695
+
+contrast: 1.72
+brightness: 0.08
+saturation: 1.26
+gamma: 0.95
+gamma_r: 0.95
+gamma_g: 0.92
+gamma_b: 1.08
+vignette: -2
+temp: 6365
