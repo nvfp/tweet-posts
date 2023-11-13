@@ -1,0 +1,28 @@
+tweet_id: 1724165709813727340
+masto_id: 111405178527018971
+subre_id: Not uploaded, but here's the text: Look what we have here! it's Multibrot!  #VisualArt #Fractals
+
+n_iter: 529
+ct: 255
+hue_offset: 349
+saturation: -0.41
+
+num_attempts: 217
+dur: 600
+std: 75.44
+size: 1381473 (1.32 MiB)
+
+xmin: 0.36033568598983523
+xmax: 0.3659222781686062
+ymin: 0.64561055320282
+ymax: 0.6487530113033787
+
+contrast: 1.25
+brightness: 0.17
+saturation: 1.53
+gamma: 0.98
+gamma_r: 0.95
+gamma_g: 0.98
+gamma_b: 0.91
+vignette: -29
+temp: 6114
