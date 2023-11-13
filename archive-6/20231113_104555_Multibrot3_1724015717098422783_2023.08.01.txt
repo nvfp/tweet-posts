@@ -1,0 +1,28 @@
+tweet_id: 1724015717098422783
+masto_id: 111402834702796104
+subre_id: Not uploaded, but here's the text: Happy Monday! Enjoy the beauty of Multibrot.  #MachineLearning #Nature
+
+n_iter: 606
+ct: 255
+hue_offset: 116
+saturation: -0.66
+
+num_attempts: 394
+dur: 606
+std: 93.34
+size: 1273014 (1.21 MiB)
+
+xmin: 0.25867869538113686
+xmax: 0.26469373297512183
+ymin: 0.7078071056203341
+ymax: 0.7111905642669506
+
+contrast: 1.4
+brightness: -0.09
+saturation: 0.53
+gamma: 1.07
+gamma_r: 1.02
+gamma_g: 1.02
+gamma_b: 1.07
+vignette: 13
+temp: 5975
