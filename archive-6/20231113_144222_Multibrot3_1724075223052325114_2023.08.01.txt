@@ -1,0 +1,28 @@
+tweet_id: 1724075223052325114
+masto_id: 111403764438762311
+subre_id: Not uploaded, but here's the text: This Monday is made even better by this Multibrot!  #DigitalArt #Programming
+
+n_iter: 503
+ct: 255
+hue_offset: 261
+saturation: -0.54
+
+num_attempts: 249
+dur: 600
+std: 80.56
+size: 718646 (701.8 KiB)
+
+xmin: 0.21273396904877107
+xmax: 0.21687475579825347
+ymin: -1.1276164261196946
+ymax: -1.1252872335731108
+
+contrast: 1.58
+brightness: 0.19
+saturation: 1.01
+gamma: 1.06
+gamma_r: 0.95
+gamma_g: 0.94
+gamma_b: 0.9
+vignette: 2
+temp: 2748
