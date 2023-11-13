@@ -1,0 +1,28 @@
+tweet_id: 1724156740558573771
+masto_id: 111405038210069930
+subre_id: Not uploaded, but here's the text: Cheers to a fantastic Monday!  #Math #Mathematics
+
+n_iter: 472
+ct: 185
+hue_offset: 65
+saturation: -0.71
+
+num_attempts: 3
+dur: 1
+std: 65.47
+size: 1266739 (1.21 MiB)
+
+xmin: -1.2678297010911177
+xmax: -1.0535439868054035
+ymin: -0.47229643045590675
+ymax: -0.35176071617019244
+
+contrast: 1.33
+brightness: 0.22
+saturation: 1.64
+gamma: 0.94
+gamma_r: 1.08
+gamma_g: 1.0
+gamma_b: 0.99
+vignette: -18
+temp: 6764
