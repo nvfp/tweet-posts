@@ -1,0 +1,31 @@
+tweet_id: 1723988801582747799
+masto_id: 111402414201384286
+subre_id: Not uploaded, but here's the text: Wow, guess what? it's Newton!  #Programming #Fractals
+
+newton_power: 7
+newton_const: -7
+
+n_iter: 94
+ct: 128
+hue_offset: 182
+saturation: 0.85
+
+num_attempts: 67
+dur: 601
+std: 22.46
+size: 980526 (957.54 KiB)
+
+xmin: 0.032193708675706034
+xmax: 0.041189210924581596
+ymin: -0.23031054180071941
+ymax: -0.2252505717857269
+
+contrast: 1.46
+brightness: 0.06
+saturation: 0.71
+gamma: 0.96
+gamma_r: 0.95
+gamma_g: 1.1
+gamma_b: 0.93
+vignette: 25
+temp: 4446
