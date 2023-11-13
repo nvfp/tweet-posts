@@ -1,0 +1,31 @@
+tweet_id: 1724200221373075484
+masto_id: 111405717618222314
+subre_id: Not uploaded, but here's the text: Let the magic of Monday fill your heart!  #VisualArt #Mathematics
+
+newton_power: 5
+newton_const: -3
+
+n_iter: 184
+ct: 214
+hue_offset: 111
+saturation: 0.66
+
+num_attempts: 229
+dur: 603
+std: 12.8
+size: 589949 (576.12 KiB)
+
+xmin: -2.045082765088594
+xmax: -2.0374003067019104
+ymin: 0.22858845113332205
+ymax: 0.23290983397583165
+
+contrast: 0.9
+brightness: 0.11
+saturation: 0.34
+gamma: 1.09
+gamma_r: 0.98
+gamma_g: 1.0
+gamma_b: 1.02
+vignette: -5
+temp: 3718
