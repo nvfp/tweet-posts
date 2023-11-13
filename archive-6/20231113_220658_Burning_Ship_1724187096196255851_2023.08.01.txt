@@ -1,0 +1,28 @@
+tweet_id: 1724187096196255851
+masto_id: 111405512538412189
+subre_id: Not uploaded, but here's the text: you are cool  #DigitalArt #MachineLearning
+
+n_iter: 474
+ct: 173
+hue_offset: 33
+saturation: -0.18
+
+num_attempts: 2
+dur: 0
+std: 46.23
+size: 1516279 (1.45 MiB)
+
+xmin: -0.3562302975023477
+xmax: -0.30201343003246817
+ymin: -1.0367088652345293
+ymax: -1.006211877282722
+
+contrast: 1.54
+brightness: 0.04
+saturation: 1.48
+gamma: 1.05
+gamma_r: 1.05
+gamma_g: 1.0
+gamma_b: 0.99
+vignette: 22
+temp: 6782
