@@ -1,0 +1,28 @@
+tweet_id: 1724070892685152599
+masto_id: 111403696959372947
+subre_id: Not uploaded, but here's the text: Happy Monday! Enjoy the beauty of Mandelbrot Set.  #Fractals #DeepLearning
+
+n_iter: 564
+ct: 74
+hue_offset: 67
+saturation: 0.76
+
+num_attempts: 31
+dur: 21
+std: 33.87
+size: 618964 (604.46 KiB)
+
+xmin: -1.094208438829714
+xmax: -0.6497639943852695
+ymin: -0.27643609395026547
+ymax: -0.02643609395026547
+
+contrast: 0.75
+brightness: 0.14
+saturation: 1.27
+gamma: 1.0
+gamma_r: 1.08
+gamma_g: 1.08
+gamma_b: 1.06
+vignette: -34
+temp: 5539
