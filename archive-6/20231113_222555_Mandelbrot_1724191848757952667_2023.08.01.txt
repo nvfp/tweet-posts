@@ -1,0 +1,28 @@
+tweet_id: 1724191848757952667
+masto_id: 111405587200720293
+subre_id: Not uploaded, but here's the text: Mandelbrot Set vibes to brighten your Monday.  #Art #AI
+
+n_iter: 369
+ct: 79
+hue_offset: 77
+saturation: -0.85
+
+num_attempts: 88
+dur: 74
+std: 18.06
+size: 904133 (882.94 KiB)
+
+xmin: -0.5704979849962117
+xmax: -0.5698177128873682
+ymin: 0.5461647983442433
+ymax: 0.5465474514054678
+
+contrast: 1.55
+brightness: 0.22
+saturation: 0.82
+gamma: 1.07
+gamma_r: 1.1
+gamma_g: 0.98
+gamma_b: 0.94
+vignette: -5
+temp: 7461
