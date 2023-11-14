@@ -1,0 +1,28 @@
+tweet_id: 1724411145350775071
+masto_id: 111409013333347921
+subre_id: Not uploaded, but here's the text: Have an awesome day!  #Mathematics #DeepLearning
+
+n_iter: 273
+ct: 255
+hue_offset: 199
+saturation: 0.89
+
+num_attempts: 789
+dur: 602
+std: 55.07
+size: 853890 (833.88 KiB)
+
+xmin: 0.38054658899297467
+xmax: 0.38513901149584495
+ymin: -0.6323827556734964
+ymax: -0.6297995180156319
+
+contrast: 1.78
+brightness: 0.23
+saturation: 0.86
+gamma: 1.01
+gamma_r: 1.05
+gamma_g: 0.92
+gamma_b: 0.91
+vignette: -25
+temp: 3749
