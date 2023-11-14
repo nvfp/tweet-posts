@@ -1,0 +1,28 @@
+tweet_id: 1724406765230465478
+masto_id: 111408944790048088
+subre_id: Not uploaded, but here's the text: Hey there, it's Tuesday!  #Nature #Math
+
+n_iter: 964
+ct: 43
+hue_offset: 213
+saturation: 0.68
+
+num_attempts: 178
+dur: 86
+std: 180.2
+size: 1077655 (1.03 MiB)
+
+xmin: -1.2685219164191162
+xmax: -1.266532856250046
+ymin: 0.04322334401833783
+ymax: 0.04434219036343977
+
+contrast: 0.92
+brightness: -0.09
+saturation: 1.5
+gamma: 1.07
+gamma_r: 0.95
+gamma_g: 1.07
+gamma_b: 0.96
+vignette: -14
+temp: 3418
