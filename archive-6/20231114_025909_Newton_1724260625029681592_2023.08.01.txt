@@ -1,0 +1,31 @@
+tweet_id: 1724260625029681592
+masto_id: 111406661541928345
+subre_id: Not uploaded, but here's the text: A great Tuesday and a beautiful Newton.  #VisualArt #Mathematics
+
+newton_power: 7
+newton_const: 7
+
+n_iter: 107
+ct: 153
+hue_offset: 309
+saturation: 0.37
+
+num_attempts: 140
+dur: 602
+std: 21.17
+size: 817075 (797.92 KiB)
+
+xmin: 0.83547658697651
+xmax: 0.9508612023611254
+ymin: 1.050037049891725
+ymax: 1.1149408960455713
+
+contrast: 1.69
+brightness: -0.03
+saturation: 1.26
+gamma: 0.94
+gamma_r: 1.01
+gamma_g: 0.93
+gamma_b: 0.99
+vignette: -4
+temp: 7513
