@@ -1,0 +1,28 @@
+tweet_id: 1724347043731136730
+masto_id: 111408011722005566
+subre_id: Not uploaded, but here's the text: Hey wait, look! it's Multibrot!  #Nature #Art
+
+n_iter: 484
+ct: 255
+hue_offset: 141
+saturation: -0.42
+
+num_attempts: 559
+dur: 600
+std: 54.32
+size: 1257328 (1.2 MiB)
+
+xmin: -0.5215446817361358
+xmax: -0.5157559697245584
+ymin: -0.11502183825134216
+ymax: -0.11176568774482985
+
+contrast: 0.94
+brightness: -0.02
+saturation: 0.76
+gamma: 1.08
+gamma_r: 0.91
+gamma_g: 0.91
+gamma_b: 1.08
+vignette: 5
+temp: 3257
