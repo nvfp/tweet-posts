@@ -1,0 +1,28 @@
+tweet_id: 1724428789516501073
+masto_id: 111409289083180361
+subre_id: Not uploaded, but here's the text: Enjoy your Tuesday!  #MachineLearning #AI
+
+n_iter: 418
+ct: 152
+hue_offset: 316
+saturation: 0.62
+
+num_attempts: 7
+dur: 8
+std: 30.69
+size: 885480 (864.73 KiB)
+
+xmin: -1.9408892410712943
+xmax: -0.8158892410712943
+ymin: -0.6039909596216844
+ymax: 0.028821540378315635
+
+contrast: 0.95
+brightness: 0.21
+saturation: 0.51
+gamma: 0.92
+gamma_r: 1.05
+gamma_g: 1.03
+gamma_b: 1.1
+vignette: -24
+temp: 5164
