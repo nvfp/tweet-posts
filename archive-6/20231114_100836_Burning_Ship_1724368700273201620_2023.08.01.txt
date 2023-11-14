@@ -1,0 +1,28 @@
+tweet_id: 1724368700273201620
+masto_id: 111408350257308782
+subre_id: Not uploaded, but here's the text: Burning Ship vibes to brighten your Tuesday.  #Fractals #MachineLearning
+
+n_iter: 280
+ct: 7
+hue_offset: 187
+saturation: -0.57
+
+num_attempts: 1
+dur: 1
+std: 28.61
+size: 1241030 (1.18 MiB)
+
+xmin: -1.1661108419582256
+xmax: 0.33388915804177444
+ymin: -1.4810621667307524
+ymax: -0.6373121667307524
+
+contrast: 1.18
+brightness: 0.1
+saturation: 1.28
+gamma: 1.09
+gamma_r: 1.08
+gamma_g: 1.05
+gamma_b: 0.97
+vignette: -32
+temp: 5904
