@@ -1,0 +1,28 @@
+tweet_id: 1724278333188292624
+masto_id: 111406938142538909
+subre_id: Not uploaded, but here's the text: Let's rock this Tuesday!  #AI #Programming
+
+n_iter: 153
+ct: 102
+hue_offset: 129
+saturation: 0.51
+
+num_attempts: 16
+dur: 7
+std: 28.98
+size: 1570769 (1.5 MiB)
+
+xmin: -0.8114124247235559
+xmax: -0.631412424723556
+ymin: -0.9281324182562138
+ymax: -0.8268824182562139
+
+contrast: 1.06
+brightness: 0.18
+saturation: 0.9
+gamma: 0.98
+gamma_r: 1.0
+gamma_g: 1.06
+gamma_b: 0.99
+vignette: -10
+temp: 5681
