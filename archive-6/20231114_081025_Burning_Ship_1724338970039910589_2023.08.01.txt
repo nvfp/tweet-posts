@@ -1,0 +1,28 @@
+tweet_id: 1724338970039910589
+masto_id: 111407885529399984
+subre_id: Not uploaded, but here's the text: Hope your Tuesday is awesome!  #VisualArt #Programming
+
+n_iter: 452
+ct: 38
+hue_offset: 149
+saturation: 0.49
+
+num_attempts: 14
+dur: 13
+std: 41.78
+size: 2414647 (2.3 MiB)
+
+xmin: -0.27510447420262274
+xmax: -0.21081875991690846
+ymin: -1.065572084347828
+ymax: -1.0294113700621137
+
+contrast: 1.53
+brightness: 0.13
+saturation: 1.14
+gamma: 1.07
+gamma_r: 1.04
+gamma_g: 0.95
+gamma_b: 1.08
+vignette: -25
+temp: 3743
