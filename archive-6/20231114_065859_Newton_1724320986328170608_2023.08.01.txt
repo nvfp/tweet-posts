@@ -1,0 +1,31 @@
+tweet_id: 1724320986328170608
+masto_id: 111407604636206727
+subre_id: Not uploaded, but here's the text: Beautiful Tuesday with this Newton!  #DeepLearning #Science
+
+newton_power: 4
+newton_const: 5
+
+n_iter: 202
+ct: 138
+hue_offset: 62
+saturation: 0.55
+
+num_attempts: 136
+dur: 601
+std: 7.51
+size: 803068 (784.25 KiB)
+
+xmin: -0.3290066250060435
+xmax: 1.6709933749939565
+ymin: -0.22516681545538386
+ymax: 0.8998331845446161
+
+contrast: 0.72
+brightness: -0.06
+saturation: 1.48
+gamma: 1.0
+gamma_r: 1.05
+gamma_g: 1.06
+gamma_b: 0.99
+vignette: -11
+temp: 4564
