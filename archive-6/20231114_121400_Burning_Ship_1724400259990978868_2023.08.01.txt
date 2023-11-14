@@ -1,0 +1,28 @@
+tweet_id: 1724400259990978868
+masto_id: 111408843345328373
+subre_id: Not uploaded, but here's the text: Hey there, it's Tuesday!  #Programming #AI
+
+n_iter: 250
+ct: 35
+hue_offset: 24
+saturation: 0.09
+
+num_attempts: 7
+dur: 1
+std: 22.98
+size: 877546 (856.98 KiB)
+
+xmin: -1.9329878887159517
+xmax: -1.290130745858809
+ymin: -0.40559609465739976
+ymax: -0.04398895180025686
+
+contrast: 0.8
+brightness: -0.04
+saturation: 0.51
+gamma: 1.02
+gamma_r: 1.03
+gamma_g: 0.98
+gamma_b: 1.05
+vignette: 29
+temp: 6214
