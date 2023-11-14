@@ -1,0 +1,31 @@
+tweet_id: 1724381454375821447
+masto_id: 111408549485074224
+subre_id: Not uploaded, but here's the text: Good Tuesday! This Newton is for you!  #Nature #DeepLearning
+
+newton_power: 4
+newton_const: 7
+
+n_iter: 181
+ct: 246
+hue_offset: 229
+saturation: -0.32
+
+num_attempts: 275
+dur: 606
+std: 7.09
+size: 805997 (787.11 KiB)
+
+xmin: 0.18888792728695947
+xmax: 0.19563708364241503
+ymin: 1.7572694593565013
+ymax: 1.761065859806445
+
+contrast: 1.13
+brightness: 0.07
+saturation: 0.85
+gamma: 0.98
+gamma_r: 1.02
+gamma_g: 0.96
+gamma_b: 1.06
+vignette: 23
+temp: 2704
