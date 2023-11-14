@@ -1,0 +1,28 @@
+tweet_id: 1724437605255729505
+masto_id: 111409426940080606
+subre_id: Not uploaded, but here's the text: you are awesome.  #AI #DeepLearning
+
+n_iter: 390
+ct: 255
+hue_offset: 212
+saturation: 0.26
+
+num_attempts: 543
+dur: 605
+std: 67.1
+size: 1180440 (1.13 MiB)
+
+xmin: -0.1925224119130604
+xmax: -0.18831188559727094
+ymin: -0.8943605438345675
+ymax: -0.891992122781936
+
+contrast: 0.74
+brightness: 0.05
+saturation: 1.07
+gamma: 1.01
+gamma_r: 1.03
+gamma_g: 0.92
+gamma_b: 1.01
+vignette: -30
+temp: 3243
