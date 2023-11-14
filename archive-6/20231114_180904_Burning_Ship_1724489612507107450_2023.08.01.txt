@@ -1,0 +1,28 @@
+tweet_id: 1724489612507107450
+masto_id: 111410239495144612
+subre_id: Not uploaded, but here's the text: Let this Burning Ship brighten up your Tuesday!  #VisualArt #Mathematics
+
+n_iter: 210
+ct: 151
+hue_offset: 103
+saturation: 0.39
+
+num_attempts: 1
+dur: 1
+std: 29.57
+size: 1194921 (1.14 MiB)
+
+xmin: -0.29255829188037996
+xmax: 0.15744170811962005
+ymin: -1.2400017261559215
+ymax: -0.9868767261559215
+
+contrast: 1.56
+brightness: 0.09
+saturation: 0.91
+gamma: 0.96
+gamma_r: 0.97
+gamma_g: 1.04
+gamma_b: 0.95
+vignette: -24
+temp: 3665
