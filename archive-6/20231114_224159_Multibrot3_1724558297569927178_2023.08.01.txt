@@ -1,0 +1,28 @@
+tweet_id: 1724558297569927178
+masto_id: 111411312657249098
+subre_id: Not uploaded, but here's the text: Happy Tuesday!  #Fractals #Science
+
+n_iter: 439
+ct: 255
+hue_offset: 187
+saturation: 0.37
+
+num_attempts: 501
+dur: 602
+std: 64.98
+size: 1225788 (1.17 MiB)
+
+xmin: -0.2046719024877086
+xmax: -0.1984219024877086
+ymin: 1.0138586254287456
+ymax: 1.0173742504287455
+
+contrast: 0.77
+brightness: 0.17
+saturation: 0.42
+gamma: 0.95
+gamma_r: 0.95
+gamma_g: 0.96
+gamma_b: 1.02
+vignette: -18
+temp: 7176
