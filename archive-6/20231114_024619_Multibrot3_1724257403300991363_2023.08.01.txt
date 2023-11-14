@@ -1,0 +1,28 @@
+tweet_id: 1724257403300991363
+masto_id: 111406611140358757
+subre_id: Not uploaded, but here's the text: Let this Multibrot brighten up your Tuesday!  #Programming #AI
+
+n_iter: 442
+ct: 255
+hue_offset: 108
+saturation: -0.21
+
+num_attempts: 569
+dur: 604
+std: 71.73
+size: 1475110 (1.41 MiB)
+
+xmin: 0.5356462047497565
+xmax: 0.5417344848106393
+ymin: 0.6122484884852168
+ymax: 0.6156731460194634
+
+contrast: 1.69
+brightness: 0.07
+saturation: 1.43
+gamma: 1.05
+gamma_r: 0.91
+gamma_g: 0.93
+gamma_b: 1.06
+vignette: -33
+temp: 6412
