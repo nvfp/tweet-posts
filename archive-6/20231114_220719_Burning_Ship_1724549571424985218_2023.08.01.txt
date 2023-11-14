@@ -1,0 +1,28 @@
+tweet_id: 1724549571424985218
+masto_id: 111411176347963410
+subre_id: Not uploaded, but here's the text: Have an extraordinary Tuesday!  #Nature #AI
+
+n_iter: 496
+ct: 96
+hue_offset: 103
+saturation: -0.37
+
+num_attempts: 5
+dur: 7
+std: 27.1
+size: 588389 (574.6 KiB)
+
+xmin: 0.4872113928772346
+xmax: 0.5345798139298662
+ymin: -0.8047683542588069
+ymax: -0.7781236174167017
+
+contrast: 1.66
+brightness: -0.02
+saturation: 1.11
+gamma: 1.02
+gamma_r: 1.01
+gamma_g: 1.06
+gamma_b: 1.04
+vignette: -28
+temp: 6741
