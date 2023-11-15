@@ -1,0 +1,28 @@
+tweet_id: 1724762722527760423
+masto_id: 111414506664937817
+subre_id: Not uploaded, but here's the text: Enjoy your Wednesday!  #AI #DeepLearning
+
+n_iter: 187
+ct: 61
+hue_offset: 46
+saturation: 0.63
+
+num_attempts: 8
+dur: 2
+std: 25.29
+size: 1894724 (1.81 MiB)
+
+xmin: -0.782664081557398
+xmax: -0.7037167131363453
+ymin: -0.9826309359767693
+ymax: -0.9382230412399272
+
+contrast: 0.74
+brightness: 0.08
+saturation: 1.17
+gamma: 0.95
+gamma_r: 0.91
+gamma_g: 1.01
+gamma_b: 0.91
+vignette: -9
+temp: 5264
