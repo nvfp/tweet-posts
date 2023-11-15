@@ -1,0 +1,28 @@
+tweet_id: 1724860381632577874
+masto_id: 111416032617012313
+subre_id: Not uploaded, but here's the text: You rock, and so does this Wednesday!  #Nature #Fractals
+
+n_iter: 392
+ct: 1
+hue_offset: 155
+saturation: -0.38
+
+num_attempts: 598
+dur: 602
+std: 70.1
+size: 1591856 (1.52 MiB)
+
+xmin: 0.22887455536210632
+xmax: 0.23469697166487197
+ymin: 0.7242916797124135
+ymax: 0.7275667888827192
+
+contrast: 0.85
+brightness: 0.11
+saturation: 1.12
+gamma: 1.04
+gamma_r: 1.07
+gamma_g: 0.92
+gamma_b: 0.91
+vignette: -31
+temp: 7721
