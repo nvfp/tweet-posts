@@ -1,0 +1,31 @@
+tweet_id: 1724743848050467091
+masto_id: 111414211834213311
+subre_id: Not uploaded, but here's the text: you are cool  #DeepLearning #Science
+
+newton_power: 6
+newton_const: 10
+
+n_iter: 227
+ct: 4
+hue_offset: 202
+saturation: 0.4
+
+num_attempts: 85
+dur: 611
+std: 15.02
+size: 1259815 (1.2 MiB)
+
+xmin: 1.3816295716501106
+xmax: 1.4137151331474367
+ymin: 0.18545362075652294
+ymax: 0.20350174909876895
+
+contrast: 0.75
+brightness: 0.04
+saturation: 0.77
+gamma: 0.94
+gamma_r: 1.08
+gamma_g: 0.93
+gamma_b: 1.0
+vignette: -16
+temp: 7310
