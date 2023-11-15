@@ -1,0 +1,28 @@
+tweet_id: 1724705326031946150
+masto_id: 111413610084695946
+subre_id: Not uploaded, but here's the text: Hope you have an amazing Wednesday!  #Mathematics #DigitalArt
+
+n_iter: 441
+ct: 178
+hue_offset: 78
+saturation: 0.55
+
+num_attempts: 4
+dur: 0
+std: 43.85
+size: 1072240 (1.02 MiB)
+
+xmin: -0.6191045067409218
+xmax: -0.5865841815376698
+ymin: -0.4688598383256385
+ymax: -0.4505671553988092
+
+contrast: 0.76
+brightness: -0.05
+saturation: 0.82
+gamma: 0.92
+gamma_r: 1.0
+gamma_g: 0.98
+gamma_b: 0.91
+vignette: 27
+temp: 2224
