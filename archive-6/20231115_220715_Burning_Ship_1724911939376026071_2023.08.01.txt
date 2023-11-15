@@ -1,0 +1,28 @@
+tweet_id: 1724911939376026071
+masto_id: 111416838178602625
+subre_id: Not uploaded, but here's the text: Good Wednesday! This Burning Ship is for you!  #Science #Mathematics
+
+n_iter: 299
+ct: 47
+hue_offset: 208
+saturation: 0.41
+
+num_attempts: 2
+dur: 2
+std: 48.02
+size: 1937913 (1.85 MiB)
+
+xmin: -1.0269191645611244
+xmax: -0.9763573668083154
+ymin: -0.5369217419026895
+ymax: -0.5084807306667344
+
+contrast: 0.91
+brightness: 0.12
+saturation: 0.57
+gamma: 1.01
+gamma_r: 0.93
+gamma_g: 0.93
+gamma_b: 0.95
+vignette: -8
+temp: 4748
