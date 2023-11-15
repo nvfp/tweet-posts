@@ -1,0 +1,28 @@
+tweet_id: 1724827350817296608
+masto_id: 111415516665466071
+subre_id: Not uploaded, but here's the text: Beautiful Wednesday with this Mandelbrot Set!  #Nature #DeepLearning
+
+n_iter: 786
+ct: 118
+hue_offset: 321
+saturation: -0.06
+
+num_attempts: 146
+dur: 80
+std: 66.35
+size: 1036516 (1012.22 KiB)
+
+xmin: -0.6919377634377013
+xmax: -0.6914704191217765
+ymin: -0.29236577947022224
+ymax: -0.29210289829251457
+
+contrast: 0.95
+brightness: 0.18
+saturation: 0.93
+gamma: 0.92
+gamma_r: 0.92
+gamma_g: 1.07
+gamma_b: 1.09
+vignette: -25
+temp: 4127
