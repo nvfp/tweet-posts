@@ -1,0 +1,31 @@
+tweet_id: 1724653221996593233
+masto_id: 111412795729302906
+subre_id: Not uploaded, but here's the text: Keep shining on Wednesday!  #AI #Nature
+
+newton_power: 3
+newton_const: -5
+
+n_iter: 114
+ct: 15
+hue_offset: 53
+saturation: 0.29
+
+num_attempts: 522
+dur: 601
+std: 4.13
+size: 598532 (584.5 KiB)
+
+xmin: 0.15073923018269308
+xmax: 0.21595662148704092
+ymin: 0.9858544946425165
+ymax: 1.022539277251212
+
+contrast: 1.37
+brightness: 0.16
+saturation: 0.42
+gamma: 1.09
+gamma_r: 1.03
+gamma_g: 0.95
+gamma_b: 0.92
+vignette: 25
+temp: 3370
