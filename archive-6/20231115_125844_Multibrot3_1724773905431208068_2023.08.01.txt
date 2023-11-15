@@ -1,0 +1,28 @@
+tweet_id: 1724773905431208068
+masto_id: 111414681478354311
+subre_id: Not uploaded, but here's the text: Good Wednesday! This Multibrot is for you!  #DeepLearning #Science
+
+n_iter: 285
+ct: 255
+hue_offset: 204
+saturation: 0.36
+
+num_attempts: 823
+dur: 600
+std: 48.72
+size: 1048720 (1.0 MiB)
+
+xmin: 0.3891256478680214
+xmax: 0.39427365301602657
+ymin: 0.6203168400273658
+ymax: 0.6232125929231187
+
+contrast: 1.66
+brightness: -0.03
+saturation: 0.39
+gamma: 1.1
+gamma_r: 1.02
+gamma_g: 0.93
+gamma_b: 1.01
+vignette: -30
+temp: 2339
