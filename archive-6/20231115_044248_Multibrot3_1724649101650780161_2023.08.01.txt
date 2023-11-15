@@ -1,0 +1,28 @@
+tweet_id: 1724649101650780161
+masto_id: 111412731468819764
+subre_id: Not uploaded, but here's the text: Warm wishes for your Wednesday, and let's have a look at this Multibrot.  #Mathematics #AI
+
+n_iter: 305
+ct: 255
+hue_offset: 103
+saturation: -0.96
+
+num_attempts: 659
+dur: 601
+std: 61.5
+size: 1226983 (1.17 MiB)
+
+xmin: -0.22050546910855062
+xmax: -0.21648940485152252
+ymin: 0.9622706053534156
+ymax: 0.9645296414979939
+
+contrast: 0.85
+brightness: -0.01
+saturation: 1.53
+gamma: 1.05
+gamma_r: 0.91
+gamma_g: 1.06
+gamma_b: 1.0
+vignette: 28
+temp: 4102
