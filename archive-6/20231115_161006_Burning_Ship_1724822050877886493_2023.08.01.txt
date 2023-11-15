@@ -1,0 +1,28 @@
+tweet_id: 1724822050877886493
+masto_id: 111415433674751926
+subre_id: Not uploaded, but here's the text: Let this Burning Ship brighten up your Wednesday!  #Science #Art
+
+n_iter: 249
+ct: 251
+hue_offset: 269
+saturation: 0.9
+
+num_attempts: 26
+dur: 5
+std: 39.38
+size: 2187333 (2.09 MiB)
+
+xmin: -1.0354160686149387
+xmax: -0.9805380198344509
+ymin: -0.5696817741259799
+ymax: -0.5388128716869555
+
+contrast: 1.03
+brightness: 0.17
+saturation: 0.51
+gamma: 0.91
+gamma_r: 1.0
+gamma_g: 1.03
+gamma_b: 1.06
+vignette: -24
+temp: 6892
