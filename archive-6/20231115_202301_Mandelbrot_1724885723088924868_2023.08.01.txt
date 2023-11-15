@@ -1,0 +1,28 @@
+tweet_id: 1724885723088924868
+masto_id: 111416428570263994
+subre_id: Not uploaded, but here's the text: Happy Wednesday! Enjoy the beauty of Mandelbrot Set.  #Programming #Science
+
+n_iter: 183
+ct: 4
+hue_offset: 155
+saturation: 0.28
+
+num_attempts: 95
+dur: 21
+std: 64.99
+size: 968759 (946.05 KiB)
+
+xmin: 0.30943414284146975
+xmax: 0.3102776687798924
+ymin: 0.4338326717469263
+ymax: 0.434307155087289
+
+contrast: 0.78
+brightness: 0.19
+saturation: 0.25
+gamma: 1.04
+gamma_r: 0.98
+gamma_g: 0.95
+gamma_b: 0.98
+vignette: -41
+temp: 4505
