@@ -1,0 +1,28 @@
+tweet_id: 1724800224890397054
+masto_id: 111415092734938317
+subre_id: Not uploaded, but here's the text: How's your day?  #DeepLearning #AI
+
+n_iter: 462
+ct: 255
+hue_offset: 87
+saturation: -0.85
+
+num_attempts: 508
+dur: 602
+std: 67.47
+size: 856927 (836.84 KiB)
+
+xmin: -0.262093242628884
+xmax: -0.2531044785839402
+ymin: -0.7148047319046252
+ymax: -0.7097485521293443
+
+contrast: 0.96
+brightness: 0.03
+saturation: 1.03
+gamma: 0.93
+gamma_r: 1.02
+gamma_g: 1.02
+gamma_b: 0.98
+vignette: -28
+temp: 4789
