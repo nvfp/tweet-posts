@@ -1,0 +1,28 @@
+tweet_id: 1724616264876982684
+masto_id: 111412218315900664
+subre_id: Not uploaded, but here's the text: Another Wednesday, another Mandelbrot Set!  #AI #VisualArt
+
+n_iter: 185
+ct: 137
+hue_offset: 77
+saturation: 0.48
+
+num_attempts: 21
+dur: 4
+std: 21.27
+size: 1392301 (1.33 MiB)
+
+xmin: 0.15383416044165177
+xmax: 0.1550357224722916
+ymin: -0.6352250663648071
+ymax: -0.6345491877225722
+
+contrast: 0.99
+brightness: 0.17
+saturation: 0.89
+gamma: 1.06
+gamma_r: 0.94
+gamma_g: 0.94
+gamma_b: 1.02
+vignette: -34
+temp: 7759
