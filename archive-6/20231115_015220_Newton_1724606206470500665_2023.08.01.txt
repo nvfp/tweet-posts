@@ -1,0 +1,31 @@
+tweet_id: 1724606206470500665
+masto_id: 111412061149727550
+subre_id: Not uploaded, but here's the text: Have a great day!  #Fractals #Nature
+
+newton_power: 5
+newton_const: 7
+
+n_iter: 244
+ct: 58
+hue_offset: 240
+saturation: -0.65
+
+num_attempts: 200
+dur: 603
+std: 11.44
+size: 1301407 (1.24 MiB)
+
+xmin: -1.8855554017509675
+xmax: -1.8686539933002633
+ymin: 1.6602810625830218
+ymax: 1.6697881048365428
+
+contrast: 0.8
+brightness: 0.16
+saturation: 1.37
+gamma: 1.04
+gamma_r: 1.09
+gamma_g: 0.96
+gamma_b: 1.04
+vignette: -33
+temp: 5688
