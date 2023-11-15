@@ -1,0 +1,31 @@
+tweet_id: 1724834406055977328
+masto_id: 111415626807098787
+subre_id: Not uploaded, but here's the text: Happy Wednesday! Enjoy the beauty of Newton.  #DigitalArt #MachineLearning
+
+newton_power: 5
+newton_const: 10
+
+n_iter: 250
+ct: 163
+hue_offset: 281
+saturation: -0.05
+
+num_attempts: 188
+dur: 600
+std: 11.65
+size: 1024455 (1000.44 KiB)
+
+xmin: -1.274955177234619
+xmax: -1.2684121019892538
+ymin: 1.2693418057327834
+ymax: 1.2730222855583013
+
+contrast: 0.89
+brightness: 0.07
+saturation: 0.68
+gamma: 1.04
+gamma_r: 0.94
+gamma_g: 1.07
+gamma_b: 1.0
+vignette: -45
+temp: 7173
