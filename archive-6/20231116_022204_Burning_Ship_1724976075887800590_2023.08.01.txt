@@ -1,0 +1,28 @@
+tweet_id: 1724976075887800590
+masto_id: 111417840363212559
+subre_id: Not uploaded, but here's the text: You rock, and so does this Thursday!  #Art #Nature
+
+n_iter: 383
+ct: 148
+hue_offset: 141
+saturation: 0.84
+
+num_attempts: 10
+dur: 3
+std: 23.72
+size: 481419 (470.14 KiB)
+
+xmin: -0.6994689759390527
+xmax: -0.641776668246745
+ymin: -0.6898310946278674
+ymax: -0.6573791715509443
+
+contrast: 1.55
+brightness: 0.2
+saturation: 0.8
+gamma: 0.96
+gamma_r: 0.92
+gamma_g: 0.94
+gamma_b: 0.92
+vignette: -32
+temp: 5365
