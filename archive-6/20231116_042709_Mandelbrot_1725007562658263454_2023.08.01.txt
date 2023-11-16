@@ -1,0 +1,28 @@
+tweet_id: 1725007562658263454
+masto_id: 111418332260949188
+subre_id: Not uploaded, but here's the text: Having a blast on Thursday?  #Mathematics #Programming
+
+n_iter: 973
+ct: 121
+hue_offset: 263
+saturation: 0.81
+
+num_attempts: 56
+dur: 42
+std: 179.86
+size: 1675067 (1.6 MiB)
+
+xmin: -1.083558375563629
+xmax: -1.0819176864742115
+ymin: 0.23612056189708297
+ymax: 0.23704344950988035
+
+contrast: 1.35
+brightness: 0.16
+saturation: 1.4
+gamma: 0.97
+gamma_r: 0.95
+gamma_g: 0.94
+gamma_b: 0.91
+vignette: -18
+temp: 4474
