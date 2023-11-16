@@ -1,0 +1,31 @@
+tweet_id: 1725106211631345772
+masto_id: 111419873884350480
+subre_id: Not uploaded, but here's the text: Surprise! It's a Newton!  #Art #MachineLearning
+
+newton_power: 4
+newton_const: 7
+
+n_iter: 72
+ct: 92
+hue_offset: 64
+saturation: 0.2
+
+num_attempts: 257
+dur: 604
+std: 8.56
+size: 420047 (410.2 KiB)
+
+xmin: 0.9091042103505527
+xmax: 0.9294431934014001
+ymin: -0.38282927921619025
+ymax: -0.37138860125008855
+
+contrast: 1.32
+brightness: 0.22
+saturation: 1.09
+gamma: 0.93
+gamma_r: 1.03
+gamma_g: 1.02
+gamma_b: 0.92
+vignette: -2
+temp: 7250
