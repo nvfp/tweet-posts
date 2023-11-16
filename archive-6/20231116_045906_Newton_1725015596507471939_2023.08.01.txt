@@ -1,0 +1,31 @@
+tweet_id: 1725015596507471939
+masto_id: 111418457896783183
+subre_id: Not uploaded, but here's the text: Wow, guess what? it's Newton!  #AI #Programming
+
+newton_power: 3
+newton_const: -4
+
+n_iter: 131
+ct: 65
+hue_offset: 327
+saturation: -0.58
+
+num_attempts: 563
+dur: 600
+std: 3.98
+size: 1012856 (989.12 KiB)
+
+xmin: -0.6215300140470936
+xmax: -0.5446069371240168
+ymin: 0.24311230582585397
+ymax: 0.28638153659508475
+
+contrast: 1.15
+brightness: 0.1
+saturation: 0.77
+gamma: 1.05
+gamma_r: 1.09
+gamma_g: 0.9
+gamma_b: 0.93
+vignette: -33
+temp: 4386
