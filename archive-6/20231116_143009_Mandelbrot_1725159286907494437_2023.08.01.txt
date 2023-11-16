@@ -1,0 +1,28 @@
+tweet_id: 1725159286907494437
+masto_id: 111420703098013406
+subre_id: Not uploaded, but here's the text: Look closely, it's Mandelbrot Set!  #Programming #AI
+
+n_iter: 939
+ct: 227
+hue_offset: 257
+saturation: -0.3
+
+num_attempts: 406
+dur: 271
+std: 64.71
+size: 1228277 (1.17 MiB)
+
+xmin: 0.10271791978921385
+xmax: 0.10368950103769575
+ymin: 0.6203734606353812
+ymax: 0.6209199750876523
+
+contrast: 1.2
+brightness: 0.16
+saturation: 1.39
+gamma: 0.97
+gamma_r: 0.95
+gamma_g: 0.92
+gamma_b: 1.09
+vignette: -24
+temp: 6953
