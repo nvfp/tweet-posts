@@ -1,0 +1,28 @@
+tweet_id: 1725162636696838302
+masto_id: 111420755446792757
+subre_id: Not uploaded, but here's the text: Wishing you a wonderful Thursday!  #Fractals #VisualArt
+
+n_iter: 451
+ct: 1
+hue_offset: 191
+saturation: -0.32
+
+num_attempts: 449
+dur: 604
+std: 73.86
+size: 1288499 (1.23 MiB)
+
+xmin: 0.16402391301221453
+xmax: 0.1689560955029667
+ymin: -0.8504162833879946
+ymax: -0.8476419307369465
+
+contrast: 1.56
+brightness: 0.06
+saturation: 1.48
+gamma: 1.04
+gamma_r: 0.93
+gamma_g: 1.08
+gamma_b: 0.93
+vignette: 20
+temp: 6526
