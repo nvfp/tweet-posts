@@ -1,0 +1,28 @@
+tweet_id: 1725153666603114890
+masto_id: 111420615257610851
+subre_id: Not uploaded, but here's the text: Hope you're having a great Thursday!  #Fractals #Nature
+
+n_iter: 486
+ct: 240
+hue_offset: 80
+saturation: -0.22
+
+num_attempts: 1
+dur: 1
+std: 54.85
+size: 930811 (909.0 KiB)
+
+xmin: -0.14807142761733472
+xmax: -0.09251587206177916
+ymin: -0.9828174527416906
+ymax: -0.9515674527416906
+
+contrast: 1.54
+brightness: 0.22
+saturation: 0.31
+gamma: 0.98
+gamma_r: 1.06
+gamma_g: 1.08
+gamma_b: 1.02
+vignette: -21
+temp: 3083
