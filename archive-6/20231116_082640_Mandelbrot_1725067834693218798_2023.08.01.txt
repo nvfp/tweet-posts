@@ -1,0 +1,28 @@
+tweet_id: 1725067834693218798
+masto_id: 111419274061513812
+subre_id: Not uploaded, but here's the text: Let the magic of Thursday fill your heart!  #Art #Programming
+
+n_iter: 649
+ct: 234
+hue_offset: 268
+saturation: 0.76
+
+num_attempts: 41
+dur: 20
+std: 23.24
+size: 326074 (318.43 KiB)
+
+xmin: -1.2430137303345343
+xmax: 0.09031960299879893
+ymin: -0.6976116508784683
+ymax: 0.052388349121531674
+
+contrast: 1.15
+brightness: 0.04
+saturation: 1.2
+gamma: 0.94
+gamma_r: 1.01
+gamma_g: 1.08
+gamma_b: 1.06
+vignette: 8
+temp: 3252
