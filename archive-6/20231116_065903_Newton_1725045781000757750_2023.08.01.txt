@@ -1,0 +1,31 @@
+tweet_id: 1725045781000757750
+masto_id: 111418929541633333
+subre_id: Not uploaded, but here's the text: Shine bright like the sun on this Thursday!  #Fractals #Nature
+
+newton_power: 5
+newton_const: -7
+
+n_iter: 143
+ct: 198
+hue_offset: 112
+saturation: 0.46
+
+num_attempts: 204
+dur: 603
+std: 12.39
+size: 1085281 (1.04 MiB)
+
+xmin: -1.429818583581877
+xmax: -1.4210209296229328
+ymin: 0.21655625402143652
+ymax: 0.22150493437334268
+
+contrast: 1.02
+brightness: 0.1
+saturation: 0.91
+gamma: 0.98
+gamma_r: 0.96
+gamma_g: 0.94
+gamma_b: 1.09
+vignette: -41
+temp: 7132
