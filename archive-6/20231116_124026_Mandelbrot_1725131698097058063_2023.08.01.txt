@@ -1,0 +1,28 @@
+tweet_id: 1725131698097058063
+masto_id: 111420271891599858
+subre_id: Not uploaded, but here's the text: you're awesome!  #DigitalArt #AI
+
+n_iter: 1023
+ct: 28
+hue_offset: 52
+saturation: -0.25
+
+num_attempts: 11
+dur: 8
+std: 153.83
+size: 1828976 (1.74 MiB)
+
+xmin: -0.050370652004004146
+xmax: -0.04980979950821054
+ymin: -0.8092719834226787
+ymax: -0.8089565038937948
+
+contrast: 1.66
+brightness: -0.01
+saturation: 1.21
+gamma: 1.02
+gamma_r: 1.0
+gamma_g: 0.96
+gamma_b: 0.9
+vignette: -15
+temp: 3414
