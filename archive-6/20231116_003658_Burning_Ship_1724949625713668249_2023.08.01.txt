@@ -1,0 +1,28 @@
+tweet_id: 1724949625713668249
+masto_id: 111417427154385386
+subre_id: Not uploaded, but here's the text: Let this Burning Ship brighten up your Thursday!  #VisualArt #Programming
+
+n_iter: 327
+ct: 168
+hue_offset: 71
+saturation: 0.99
+
+num_attempts: 10
+dur: 5
+std: 20.36
+size: 393546 (384.32 KiB)
+
+xmin: -0.5766121057699085
+xmax: 1.6733878942300915
+ymin: -1.506429386316633
+ymax: -0.24080438631663292
+
+contrast: 1.52
+brightness: 0.01
+saturation: 1.05
+gamma: 1.06
+gamma_r: 0.94
+gamma_g: 1.05
+gamma_b: 1.01
+vignette: 33
+temp: 2313
