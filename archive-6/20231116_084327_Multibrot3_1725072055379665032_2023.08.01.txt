@@ -1,0 +1,28 @@
+tweet_id: 1725072055379665032
+masto_id: 111419340008390820
+subre_id: Not uploaded, but here's the text: This Thursday is made even better by this Multibrot!  #Math #DeepLearning
+
+n_iter: 338
+ct: 1
+hue_offset: 177
+saturation: 0.19
+
+num_attempts: 790
+dur: 602
+std: 57.86
+size: 1188172 (1.13 MiB)
+
+xmin: 0.6207202587438712
+xmax: 0.6255570181150925
+ymin: 0.5040694126674978
+ymax: 0.5067900898138098
+
+contrast: 1.01
+brightness: 0.2
+saturation: 0.65
+gamma: 0.98
+gamma_r: 1.07
+gamma_g: 0.95
+gamma_b: 0.98
+vignette: -14
+temp: 5740
