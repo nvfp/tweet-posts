@@ -1,0 +1,28 @@
+tweet_id: 1725011798313582808
+masto_id: 111418398404308185
+subre_id: Not uploaded, but here's the text: Happy Thursday! Enjoy the beauty of Multibrot.  #Mathematics #Programming
+
+n_iter: 346
+ct: 1
+hue_offset: 338
+saturation: 0.93
+
+num_attempts: 646
+dur: 600
+std: 57.53
+size: 453959 (443.32 KiB)
+
+xmin: -0.3277786743816826
+xmax: -0.32311666971967795
+ymin: -0.7062485851026988
+ymax: -0.7036262074803212
+
+contrast: 1.76
+brightness: -0.05
+saturation: 1.62
+gamma: 0.91
+gamma_r: 1.07
+gamma_g: 1.05
+gamma_b: 1.04
+vignette: 32
+temp: 5523
