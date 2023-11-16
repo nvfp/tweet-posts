@@ -1,0 +1,28 @@
+tweet_id: 1725136308824150494
+masto_id: 111420344185381825
+subre_id: Not uploaded, but here's the text: you're awesome!  #Math #VisualArt
+
+n_iter: 364
+ct: 1
+hue_offset: 29
+saturation: 0.36
+
+num_attempts: 548
+dur: 600
+std: 60.45
+size: 1001755 (978.28 KiB)
+
+xmin: -0.22497689889531713
+xmax: -0.2164298903483086
+ymin: -0.9646332613311619
+ymax: -0.9598255690234696
+
+contrast: 0.71
+brightness: 0.16
+saturation: 1.44
+gamma: 0.93
+gamma_r: 1.01
+gamma_g: 1.03
+gamma_b: 0.9
+vignette: 23
+temp: 3344
