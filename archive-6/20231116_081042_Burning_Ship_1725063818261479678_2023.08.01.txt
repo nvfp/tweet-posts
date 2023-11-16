@@ -1,0 +1,28 @@
+tweet_id: 1725063818261479678
+masto_id: 111419211285037309
+subre_id: Not uploaded, but here's the text: Let this Burning Ship inspire your Thursday.  #DeepLearning #Mathematics
+
+n_iter: 315
+ct: 25
+hue_offset: 216
+saturation: 0.36
+
+num_attempts: 18
+dur: 5
+std: 48.66
+size: 2017069 (1.92 MiB)
+
+xmin: -0.07988679660574904
+xmax: -0.033011796605749044
+ymin: -1.024519346491096
+ymax: -0.998152158991096
+
+contrast: 1.14
+brightness: -0.0
+saturation: 0.75
+gamma: 1.09
+gamma_r: 0.95
+gamma_g: 1.03
+gamma_b: 0.95
+vignette: 8
+temp: 4882
