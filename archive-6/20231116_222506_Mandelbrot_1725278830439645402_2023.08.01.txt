@@ -1,0 +1,28 @@
+tweet_id: 1725278830439645402
+masto_id: 111422570926619230
+subre_id: Not uploaded, but here's the text: Happy Thursday!  #Fractals #Programming
+
+n_iter: 447
+ct: 25
+hue_offset: 315
+saturation: 0.04
+
+num_attempts: 3
+dur: 1
+std: 25.32
+size: 1151558 (1.1 MiB)
+
+xmin: -0.01099764865948094
+xmax: -0.009255488380735297
+ymin: 0.6581036901737438
+ymax: 0.6590836553305383
+
+contrast: 0.93
+brightness: -0.05
+saturation: 1.17
+gamma: 1.0
+gamma_r: 0.91
+gamma_g: 1.06
+gamma_b: 1.09
+vignette: -36
+temp: 6143
