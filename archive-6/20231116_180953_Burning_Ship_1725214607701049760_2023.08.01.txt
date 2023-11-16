@@ -1,0 +1,28 @@
+tweet_id: 1725214607701049760
+masto_id: 111421567345808475
+subre_id: Not uploaded, but here's the text: A great Thursday and a beautiful Burning Ship.  #Math #MachineLearning
+
+n_iter: 278
+ct: 104
+hue_offset: 134
+saturation: -0.18
+
+num_attempts: 17
+dur: 5
+std: 30.95
+size: 1694580 (1.62 MiB)
+
+xmin: -0.5957831828733711
+xmax: -0.5286190037688935
+ymin: -0.9575915699708268
+ymax: -0.9198117192245582
+
+contrast: 1.6
+brightness: 0.23
+saturation: 0.5
+gamma: 0.9
+gamma_r: 0.93
+gamma_g: 0.93
+gamma_b: 1.02
+vignette: 27
+temp: 7093
