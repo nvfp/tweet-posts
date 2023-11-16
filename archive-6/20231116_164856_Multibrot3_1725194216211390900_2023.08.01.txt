@@ -1,0 +1,28 @@
+tweet_id: 1725194216211390900
+masto_id: 111421248815448554
+subre_id: Not uploaded, but here's the text: Let's make it a memorable Thursday!  #Art #Nature
+
+n_iter: 626
+ct: 255
+hue_offset: 103
+saturation: -0.96
+
+num_attempts: 336
+dur: 605
+std: 70.87
+size: 1183957 (1.13 MiB)
+
+xmin: 0.5464939502888662
+xmax: 0.5508943903328706
+ymin: 0.2933915383650223
+ymax: 0.2958667858897748
+
+contrast: 1.31
+brightness: 0.02
+saturation: 0.92
+gamma: 0.97
+gamma_r: 0.96
+gamma_g: 1.02
+gamma_b: 1.09
+vignette: 27
+temp: 4593
