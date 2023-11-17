@@ -1,0 +1,28 @@
+tweet_id: 1725636808589840618
+masto_id: 111428164312926037
+subre_id: Not uploaded, but here's the text: Hey there, it's Friday!  #AI #Math
+
+n_iter: 492
+ct: 32
+hue_offset: 164
+saturation: -0.74
+
+num_attempts: 25
+dur: 15
+std: 75.55
+size: 1914045 (1.83 MiB)
+
+xmin: -0.6932017416991829
+xmax: -0.6463267416991829
+ymin: -0.714692122646867
+ymax: -0.688324935146867
+
+contrast: 1.79
+brightness: 0.05
+saturation: 1.55
+gamma: 1.01
+gamma_r: 0.97
+gamma_g: 1.04
+gamma_b: 0.98
+vignette: -38
+temp: 5566
