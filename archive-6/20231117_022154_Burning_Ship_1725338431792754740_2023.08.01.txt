@@ -1,0 +1,28 @@
+tweet_id: 1725338431792754740
+masto_id: 111423502055281907
+subre_id: Not uploaded, but here's the text: Friday is shining brightly, just like this Burning Ship.  #DeepLearning #Nature
+
+n_iter: 186
+ct: 172
+hue_offset: 322
+saturation: -0.7
+
+num_attempts: 75
+dur: 15
+std: 28.92
+size: 1589881 (1.52 MiB)
+
+xmin: -0.25360492743140917
+xmax: -0.19022464574126832
+ymin: -1.0372920128131726
+ymax: -1.0016406043624684
+
+contrast: 0.99
+brightness: 0.19
+saturation: 1.7
+gamma: 1.09
+gamma_r: 1.07
+gamma_g: 1.08
+gamma_b: 0.92
+vignette: 12
+temp: 5404
