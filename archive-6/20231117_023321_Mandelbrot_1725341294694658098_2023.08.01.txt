@@ -1,0 +1,28 @@
+tweet_id: 1725341294694658098
+masto_id: 111423547004476403
+subre_id: Not uploaded, but here's the text: Let this Mandelbrot Set inspire your Friday.  #Art #Science
+
+n_iter: 691
+ct: 110
+hue_offset: 351
+saturation: -0.02
+
+num_attempts: 116
+dur: 52
+std: 25.24
+size: 724787 (707.8 KiB)
+
+xmin: -0.9890275737827974
+xmax: -0.9883320425708343
+ymin: -0.2795254130537931
+ymax: -0.2791341767470638
+
+contrast: 1.1
+brightness: 0.05
+saturation: 0.68
+gamma: 0.93
+gamma_r: 0.9
+gamma_g: 0.92
+gamma_b: 0.96
+vignette: -26
+temp: 7733
