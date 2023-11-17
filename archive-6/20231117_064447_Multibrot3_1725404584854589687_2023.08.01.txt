@@ -1,0 +1,28 @@
+tweet_id: 1725404584854589687
+masto_id: 111424535740219042
+subre_id: Not uploaded, but here's the text: Wishing you a wonderful Friday!  #DeepLearning #VisualArt
+
+n_iter: 605
+ct: 255
+hue_offset: 169
+saturation: 0.19
+
+num_attempts: 412
+dur: 602
+std: 69.23
+size: 1278176 (1.22 MiB)
+
+xmin: 0.604999061397443
+xmax: 0.6106091595741611
+ymin: 0.2918560003172128
+ymax: 0.29501168054161675
+
+contrast: 1.66
+brightness: -0.09
+saturation: 0.94
+gamma: 0.92
+gamma_r: 0.96
+gamma_g: 1.05
+gamma_b: 1.04
+vignette: -28
+temp: 7072
