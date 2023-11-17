@@ -1,0 +1,28 @@
+tweet_id: 1725426140263674046
+masto_id: 111424872646246820
+subre_id: Not uploaded, but here's the text: Keep shining on Friday!  #Mathematics #Fractals
+
+n_iter: 394
+ct: 174
+hue_offset: 257
+saturation: 0.77
+
+num_attempts: 17
+dur: 5
+std: 25.46
+size: 471510 (460.46 KiB)
+
+xmin: -1.0297066741325203
+xmax: -0.960475904901751
+ymin: 0.038002604106795346
+ymax: 0.07694491179910304
+
+contrast: 0.77
+brightness: 0.02
+saturation: 0.72
+gamma: 0.97
+gamma_r: 0.92
+gamma_g: 1.04
+gamma_b: 1.01
+vignette: -9
+temp: 2266
