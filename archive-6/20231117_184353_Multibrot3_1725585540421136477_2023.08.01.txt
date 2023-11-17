@@ -1,0 +1,28 @@
+tweet_id: 1725585540421136477
+masto_id: 111427363368707323
+subre_id: Not uploaded, but here's the text: Good Friday! This Multibrot is for you!  #Nature #DeepLearning
+
+n_iter: 420
+ct: 255
+hue_offset: 333
+saturation: -0.93
+
+num_attempts: 584
+dur: 602
+std: 66.82
+size: 1219622 (1.16 MiB)
+
+xmin: -0.3982084624588125
+xmax: -0.39245306677535924
+ymin: 0.6233495288809072
+ymax: 0.6265869389528497
+
+contrast: 1.38
+brightness: 0.17
+saturation: 0.29
+gamma: 0.95
+gamma_r: 0.9
+gamma_g: 1.05
+gamma_b: 1.0
+vignette: 25
+temp: 2535
