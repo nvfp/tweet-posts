@@ -1,0 +1,28 @@
+tweet_id: 1725615216908460273
+masto_id: 111427826879667117
+subre_id: Not uploaded, but here's the text: You rock, and so does this Friday!  #MachineLearning #VisualArt
+
+n_iter: 459
+ct: 255
+hue_offset: 173
+saturation: 0.7
+
+num_attempts: 485
+dur: 600
+std: 80.65
+size: 1072004 (1.02 MiB)
+
+xmin: -0.20959296810577732
+xmax: -0.20434362427375632
+ymin: -1.0080831197722244
+ymax: -1.0051303638667126
+
+contrast: 1.11
+brightness: 0.06
+saturation: 1.67
+gamma: 0.94
+gamma_r: 1.0
+gamma_g: 0.96
+gamma_b: 1.05
+vignette: 16
+temp: 6814
