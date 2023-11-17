@@ -1,0 +1,31 @@
+tweet_id: 1725347803507929415
+masto_id: 111423648621507464
+subre_id: Not uploaded, but here's the text: Brighten your Friday!  #Programming #AI
+
+newton_power: 3
+newton_const: 1
+
+n_iter: 156
+ct: 187
+hue_offset: 244
+saturation: 0.05
+
+num_attempts: 491
+dur: 601
+std: 4.37
+size: 832621 (813.11 KiB)
+
+xmin: -0.060379732391855345
+xmax: -0.04701670343862595
+ymin: -0.4719285471078458
+ymax: -0.4644118433216543
+
+contrast: 1.04
+brightness: -0.02
+saturation: 0.57
+gamma: 1.04
+gamma_r: 0.97
+gamma_g: 1.05
+gamma_b: 1.1
+vignette: 32
+temp: 5190
