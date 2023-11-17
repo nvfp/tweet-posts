@@ -1,0 +1,31 @@
+tweet_id: 1725589309355377077
+masto_id: 111427422134160930
+subre_id: Not uploaded, but here's the text: You are lovely!  #DigitalArt #MachineLearning
+
+newton_power: 5
+newton_const: 2
+
+n_iter: 147
+ct: 139
+hue_offset: 152
+saturation: 0.25
+
+num_attempts: 191
+dur: 601
+std: 10.88
+size: 1172611 (1.12 MiB)
+
+xmin: 1.9383797951074389
+xmax: 2.0688145777161346
+ymin: 0.15598567520937623
+ymax: 0.22935524042676753
+
+contrast: 1.59
+brightness: 0.04
+saturation: 0.88
+gamma: 0.96
+gamma_r: 1.0
+gamma_g: 1.06
+gamma_b: 0.96
+vignette: -36
+temp: 3345
