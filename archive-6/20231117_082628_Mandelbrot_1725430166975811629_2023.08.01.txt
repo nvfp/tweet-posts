@@ -1,0 +1,28 @@
+tweet_id: 1725430166975811629
+masto_id: 111424935594873469
+subre_id: Not uploaded, but here's the text: Ever heard of this Mandelbrot Set?  #MachineLearning #Math
+
+n_iter: 942
+ct: 23
+hue_offset: 277
+saturation: -0.41
+
+num_attempts: 30
+dur: 12
+std: 39.49
+size: 635906 (621.0 KiB)
+
+xmin: -0.17896432549747132
+xmax: -0.17765798976918915
+ymin: 0.6514067184803913
+ymax: 0.65214153232755
+
+contrast: 1.64
+brightness: 0.22
+saturation: 1.4
+gamma: 1.09
+gamma_r: 0.98
+gamma_g: 1.08
+gamma_b: 1.0
+vignette: 14
+temp: 3108
