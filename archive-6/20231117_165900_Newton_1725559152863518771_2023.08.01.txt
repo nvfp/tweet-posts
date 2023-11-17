@@ -1,0 +1,31 @@
+tweet_id: 1725559152863518771
+masto_id: 111426950939951035
+subre_id: Not uploaded, but here's the text: Another Friday, another Newton!  #Art #VisualArt
+
+newton_power: 7
+newton_const: 2
+
+n_iter: 139
+ct: 9
+hue_offset: 325
+saturation: 0.37
+
+num_attempts: 159
+dur: 601
+std: 19.9
+size: 1013389 (989.64 KiB)
+
+xmin: 2.8322367119965817
+xmax: 2.8404558900787733
+ymin: -0.028958949219376917
+ymax: -0.024335661548144042
+
+contrast: 0.89
+brightness: 0.03
+saturation: 1.52
+gamma: 0.99
+gamma_r: 0.99
+gamma_g: 0.97
+gamma_b: 1.07
+vignette: -6
+temp: 3434
