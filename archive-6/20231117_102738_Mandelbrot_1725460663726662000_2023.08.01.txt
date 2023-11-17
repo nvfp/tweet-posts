@@ -1,0 +1,28 @@
+tweet_id: 1725460663726662000
+masto_id: 111425412023429948
+subre_id: Not uploaded, but here's the text: you are cool  #Fractals #Math
+
+n_iter: 945
+ct: 22
+hue_offset: 186
+saturation: 0.58
+
+num_attempts: 6
+dur: 0
+std: 21.88
+size: 1426916 (1.36 MiB)
+
+xmin: 0.4174024320841303
+xmax: 0.4187966460959811
+ymin: -0.3462915573209221
+ymax: -0.345507311939256
+
+contrast: 1.03
+brightness: -0.02
+saturation: 0.31
+gamma: 0.94
+gamma_r: 0.94
+gamma_g: 1.02
+gamma_b: 0.92
+vignette: -48
+temp: 6172
