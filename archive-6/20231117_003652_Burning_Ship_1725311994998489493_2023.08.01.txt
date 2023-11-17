@@ -1,0 +1,28 @@
+tweet_id: 1725311994998489493
+masto_id: 111423089026454605
+subre_id: Not uploaded, but here's the text: Let's make it a memorable Friday!  #Science #Math
+
+n_iter: 198
+ct: 105
+hue_offset: 348
+saturation: 0.88
+
+num_attempts: 47
+dur: 11
+std: 31.63
+size: 1218176 (1.16 MiB)
+
+xmin: 0.4539467488929474
+xmax: 0.5517728358494691
+ymin: -1.1644512277355865
+ymax: -1.109424053822543
+
+contrast: 1.35
+brightness: 0.03
+saturation: 0.3
+gamma: 1.08
+gamma_r: 1.07
+gamma_g: 1.05
+gamma_b: 1.07
+vignette: 0
+temp: 5499
