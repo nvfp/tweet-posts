@@ -1,0 +1,31 @@
+tweet_id: 1725438333676122248
+masto_id: 111425063204187921
+subre_id: Not uploaded, but here's the text: Wishing you a wonderful Friday!  #Science #Math
+
+newton_power: 4
+newton_const: 5
+
+n_iter: 235
+ct: 194
+hue_offset: 72
+saturation: 0.27
+
+num_attempts: 262
+dur: 601
+std: 7.13
+size: 892452 (871.54 KiB)
+
+xmin: 1.9153119118970583
+xmax: 1.9235086332085336
+ymin: -0.0002449973145828288
+ymax: 0.004365658423122089
+
+contrast: 0.84
+brightness: 0.07
+saturation: 1.62
+gamma: 1.03
+gamma_r: 1.05
+gamma_g: 1.04
+gamma_b: 1.01
+vignette: 18
+temp: 4194
