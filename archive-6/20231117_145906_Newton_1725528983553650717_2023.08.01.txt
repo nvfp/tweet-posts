@@ -1,0 +1,31 @@
+tweet_id: 1725528983553650717
+masto_id: 111426479498805162
+subre_id: Not uploaded, but here's the text: Hey wait, look! it's Newton!  #DigitalArt #Programming
+
+newton_power: 5
+newton_const: 5
+
+n_iter: 233
+ct: 160
+hue_offset: 182
+saturation: 0.88
+
+num_attempts: 207
+dur: 602
+std: 14.42
+size: 362168 (353.68 KiB)
+
+xmin: -2.638531610950702
+xmax: -2.238531610950702
+ymin: -1.919077795396141
+ymax: -1.694077795396141
+
+contrast: 1.76
+brightness: 0.0
+saturation: 0.38
+gamma: 1.05
+gamma_r: 1.01
+gamma_g: 1.06
+gamma_b: 1.04
+vignette: -48
+temp: 5112
