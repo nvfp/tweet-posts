@@ -1,0 +1,31 @@
+tweet_id: 1725377973358903344
+masto_id: 111424119937592709
+subre_id: Not uploaded, but here's the text: Enjoying the Friday with this Newton.  #Programming #Math
+
+newton_power: 7
+newton_const: -1
+
+n_iter: 209
+ct: 8
+hue_offset: 98
+saturation: 0.05
+
+num_attempts: 165
+dur: 607
+std: 26.66
+size: 643766 (628.68 KiB)
+
+xmin: 2.275871430596064
+xmax: 2.2867017555058116
+ymin: 1.3800455082528753
+ymax: 1.3861375660146082
+
+contrast: 1.43
+brightness: 0.14
+saturation: 1.13
+gamma: 1.06
+gamma_r: 0.97
+gamma_g: 0.92
+gamma_b: 0.92
+vignette: 0
+temp: 6533
