@@ -1,0 +1,28 @@
+tweet_id: 1725552222883262635
+masto_id: 111426842674923521
+subre_id: Not uploaded, but here's the text: Ever heard of this Mandelbrot Set?  #Nature #Fractals
+
+n_iter: 479
+ct: 235
+hue_offset: 3
+saturation: 0.19
+
+num_attempts: 20
+dur: 4
+std: 16.5
+size: 702107 (685.65 KiB)
+
+xmin: -2.1662586351501307
+xmax: -0.16625863515013073
+ymin: -0.40547021916537795
+ymax: 0.719529780834622
+
+contrast: 0.85
+brightness: 0.09
+saturation: 0.95
+gamma: 1.03
+gamma_r: 0.95
+gamma_g: 1.02
+gamma_b: 0.96
+vignette: 20
+temp: 5868
