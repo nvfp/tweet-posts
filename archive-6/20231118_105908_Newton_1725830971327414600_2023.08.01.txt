@@ -1,0 +1,31 @@
+tweet_id: 1725830971327414600
+masto_id: 111431198227466073
+subre_id: Not uploaded, but here's the text: Surprise! It's a Newton!  #Math #Art
+
+newton_power: 7
+newton_const: 5
+
+n_iter: 132
+ct: 230
+hue_offset: 276
+saturation: 1.0
+
+num_attempts: 162
+dur: 602
+std: 23.83
+size: 1351647 (1.29 MiB)
+
+xmin: -0.8184974604018889
+xmax: -0.7931810047056863
+ymin: -0.6139064407331265
+ymax: -0.5996659344040126
+
+contrast: 0.8
+brightness: 0.19
+saturation: 1.54
+gamma: 0.93
+gamma_r: 1.04
+gamma_g: 0.95
+gamma_b: 1.03
+vignette: -30
+temp: 6097
