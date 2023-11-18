@@ -1,0 +1,28 @@
+tweet_id: 1725939053990686901
+masto_id: 111432886800459986
+subre_id: Not uploaded, but here's the text: Ever heard of this Burning Ship?  #Mathematics #Nature
+
+n_iter: 164
+ct: 139
+hue_offset: 171
+saturation: -0.59
+
+num_attempts: 19
+dur: 3
+std: 24.28
+size: 935937 (914.0 KiB)
+
+xmin: -1.1004042776134406
+xmax: -0.5379042776134406
+ymin: -0.7487378869215757
+ymax: -0.4323316369215757
+
+contrast: 1.64
+brightness: 0.16
+saturation: 0.45
+gamma: 0.9
+gamma_r: 0.93
+gamma_g: 0.96
+gamma_b: 1.1
+vignette: -35
+temp: 3905
