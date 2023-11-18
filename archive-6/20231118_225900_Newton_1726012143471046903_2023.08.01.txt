@@ -1,0 +1,31 @@
+tweet_id: 1726012143471046903
+masto_id: 111434028829470863
+subre_id: Not uploaded, but here's the text: Hope you have an amazing Saturday!  #Science #Nature
+
+newton_power: 5
+newton_const: 1
+
+n_iter: 232
+ct: 73
+hue_offset: 22
+saturation: -0.51
+
+num_attempts: 198
+dur: 603
+std: 13.36
+size: 446574 (436.11 KiB)
+
+xmin: 0.07425908504539036
+xmax: 0.08195139273769805
+ymin: 0.44583531345324356
+ymax: 0.4501622365301666
+
+contrast: 0.8
+brightness: 0.13
+saturation: 0.9
+gamma: 1.07
+gamma_r: 0.95
+gamma_g: 1.05
+gamma_b: 1.07
+vignette: 0
+temp: 3585
