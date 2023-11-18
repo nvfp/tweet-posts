@@ -1,0 +1,31 @@
+tweet_id: 1725710162164433026
+masto_id: 111429310596982806
+subre_id: Not uploaded, but here's the text: Let's rock this Saturday!  #Math #DigitalArt
+
+newton_power: 7
+newton_const: 1
+
+n_iter: 114
+ct: 68
+hue_offset: 249
+saturation: 0.92
+
+num_attempts: 158
+dur: 603
+std: 16.23
+size: 869866 (849.48 KiB)
+
+xmin: 1.615673656345991
+xmax: 1.621846495852164
+ymin: -1.8026083342968071
+ymax: -1.7991361120745848
+
+contrast: 1.01
+brightness: 0.16
+saturation: 1.69
+gamma: 1.08
+gamma_r: 0.99
+gamma_g: 1.1
+gamma_b: 1.08
+vignette: 6
+temp: 4623
