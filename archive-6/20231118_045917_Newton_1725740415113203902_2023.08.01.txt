@@ -1,0 +1,31 @@
+tweet_id: 1725740415113203902
+masto_id: 111429783156776098
+subre_id: Not uploaded, but here's the text: Happy Saturday! Enjoy the beauty of Newton.  #DeepLearning #Fractals
+
+newton_power: 5
+newton_const: 6
+
+n_iter: 215
+ct: 245
+hue_offset: 215
+saturation: 0.63
+
+num_attempts: 205
+dur: 606
+std: 12.96
+size: 654525 (639.18 KiB)
+
+xmin: -0.10186794110777964
+xmax: -0.08213109900251647
+ymin: 0.585393538653431
+ymax: 0.5964955123376415
+
+contrast: 1.1
+brightness: -0.03
+saturation: 0.36
+gamma: 0.97
+gamma_r: 0.92
+gamma_g: 0.93
+gamma_b: 0.98
+vignette: 8
+temp: 4440
