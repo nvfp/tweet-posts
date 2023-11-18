@@ -1,0 +1,28 @@
+tweet_id: 1725732028128383166
+masto_id: 111429652068338799
+subre_id: Not uploaded, but here's the text: Let's make it a memorable Saturday!  #Science #DigitalArt
+
+n_iter: 870
+ct: 86
+hue_offset: 195
+saturation: 0.29
+
+num_attempts: 68
+dur: 38
+std: 146.4
+size: 1500657 (1.43 MiB)
+
+xmin: -0.0792613441074117
+xmax: -0.0785516208994628
+ymin: 0.6484109614507911
+ymax: 0.6488101807552624
+
+contrast: 1.44
+brightness: 0.01
+saturation: 1.38
+gamma: 1.08
+gamma_r: 1.08
+gamma_g: 0.99
+gamma_b: 1.03
+vignette: 32
+temp: 4340
