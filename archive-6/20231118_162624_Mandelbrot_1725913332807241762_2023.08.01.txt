@@ -1,0 +1,28 @@
+tweet_id: 1725913332807241762
+masto_id: 111432484959981272
+subre_id: Not uploaded, but here's the text: Have an extraordinary Saturday!  #Mathematics #Math
+
+n_iter: 588
+ct: 176
+hue_offset: 27
+saturation: 0.57
+
+num_attempts: 6
+dur: 4
+std: 106.2
+size: 1202868 (1.15 MiB)
+
+xmin: -1.024112167209291
+xmax: -1.019856848060355
+ymin: -0.25101159328746436
+ymax: -0.24861797626618776
+
+contrast: 0.84
+brightness: 0.03
+saturation: 1.42
+gamma: 1.02
+gamma_r: 1.0
+gamma_g: 0.96
+gamma_b: 1.03
+vignette: -16
+temp: 3536
