@@ -1,0 +1,28 @@
+tweet_id: 1725822656807866584
+masto_id: 111431068284648896
+subre_id: Not uploaded, but here's the text: Wishing you a wonderful Saturday!  #VisualArt #MachineLearning
+
+n_iter: 809
+ct: 17
+hue_offset: 138
+saturation: 0.72
+
+num_attempts: 156
+dur: 61
+std: 34.87
+size: 1100849 (1.05 MiB)
+
+xmin: -1.1443773324414324
+xmax: -1.1429965937462305
+ymin: 0.26980927807477606
+ymax: 0.27058594359082716
+
+contrast: 1.31
+brightness: -0.02
+saturation: 0.5
+gamma: 0.93
+gamma_r: 1.07
+gamma_g: 0.96
+gamma_b: 1.03
+vignette: 21
+temp: 5170
