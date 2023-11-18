@@ -1,0 +1,28 @@
+tweet_id: 1725736463177048479
+masto_id: 111429721416431013
+subre_id: Not uploaded, but here's the text: Good Saturday! This Multibrot is for you!  #Nature #DigitalArt
+
+n_iter: 347
+ct: 1
+hue_offset: 5
+saturation: 0.35
+
+num_attempts: 621
+dur: 600
+std: 42.72
+size: 844173 (824.39 KiB)
+
+xmin: 0.5985539816345464
+xmax: 0.6041957305767185
+ymin: -0.26822716711083916
+ymax: -0.2650536833308674
+
+contrast: 1.32
+brightness: 0.21
+saturation: 0.7
+gamma: 0.96
+gamma_r: 1.05
+gamma_g: 0.93
+gamma_b: 1.04
+vignette: 16
+temp: 4930
