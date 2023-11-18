@@ -1,0 +1,28 @@
+tweet_id: 1725687968059261293
+masto_id: 111428963650018509
+subre_id: Not uploaded, but here's the text: you are fantastic!  #DeepLearning #Nature
+
+n_iter: 576
+ct: 190
+hue_offset: 64
+saturation: -0.25
+
+num_attempts: 155
+dur: 81
+std: 54.24
+size: 804759 (785.9 KiB)
+
+xmin: -0.5803561838963751
+xmax: -0.5798759918195444
+ymin: -0.48124146775776777
+ymax: -0.48097135971455046
+
+contrast: 1.72
+brightness: -0.09
+saturation: 0.64
+gamma: 1.0
+gamma_r: 1.06
+gamma_g: 1.05
+gamma_b: 1.07
+vignette: -26
+temp: 7483
