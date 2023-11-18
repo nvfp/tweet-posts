@@ -1,0 +1,28 @@
+tweet_id: 1725878039689437640
+masto_id: 111431933431972617
+subre_id: Not uploaded, but here's the text: Saturday vibes!  #DigitalArt #Mathematics
+
+n_iter: 429
+ct: 167
+hue_offset: 176
+saturation: 0.09
+
+num_attempts: 2
+dur: 1
+std: 60.81
+size: 1756662 (1.68 MiB)
+
+xmin: -1.063905676008576
+xmax: -0.7639056760085761
+ymin: -0.7431144867646466
+ymax: -0.5743644867646467
+
+contrast: 0.93
+brightness: -0.04
+saturation: 1.44
+gamma: 0.93
+gamma_r: 1.06
+gamma_g: 1.06
+gamma_b: 0.92
+vignette: 17
+temp: 3167
