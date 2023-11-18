@@ -1,0 +1,31 @@
+tweet_id: 1725692896874000673
+masto_id: 111429040751925634
+subre_id: Not uploaded, but here's the text: Sending you this fractal on this Saturday!  #Art #Science
+
+newton_power: 3
+newton_const: -6
+
+n_iter: 247
+ct: 24
+hue_offset: 3
+saturation: -0.68
+
+num_attempts: 526
+dur: 600
+std: 4.05
+size: 409273 (399.68 KiB)
+
+xmin: 1.4915706176994918
+xmax: 1.5223398484687225
+ymin: -1.7127130699585857
+ymax: -1.6954053776508935
+
+contrast: 0.9
+brightness: -0.04
+saturation: 0.35
+gamma: 1.05
+gamma_r: 1.07
+gamma_g: 1.06
+gamma_b: 0.97
+vignette: 3
+temp: 3089
