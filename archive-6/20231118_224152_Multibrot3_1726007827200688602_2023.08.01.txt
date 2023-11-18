@@ -1,0 +1,28 @@
+tweet_id: 1726007827200688602
+masto_id: 111433961461597567
+subre_id: Not uploaded, but here's the text: Multibrot vibes to brighten your Saturday.  #Art #Programming
+
+n_iter: 415
+ct: 255
+hue_offset: 3
+saturation: -0.55
+
+num_attempts: 559
+dur: 604
+std: 63.39
+size: 1370340 (1.31 MiB)
+
+xmin: -0.5501244048335454
+xmax: -0.5457623546699685
+ymin: -0.21292925862631873
+ymax: -0.21047560540930674
+
+contrast: 1.7
+brightness: 0.07
+saturation: 0.96
+gamma: 1.07
+gamma_r: 0.93
+gamma_g: 1.02
+gamma_b: 1.1
+vignette: 9
+temp: 2991
