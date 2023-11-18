@@ -1,0 +1,31 @@
+tweet_id: 1725951740581687461
+masto_id: 111433085225603854
+subre_id: Not uploaded, but here's the text: Surprise! Newton!  #Programming #DigitalArt
+
+newton_power: 6
+newton_const: 2
+
+n_iter: 104
+ct: 79
+hue_offset: 265
+saturation: 0.45
+
+num_attempts: 188
+dur: 606
+std: 16.49
+size: 585541 (571.82 KiB)
+
+xmin: 0.41298014532208516
+xmax: 0.42106639869135737
+ymin: -0.9226344053405855
+ymax: -0.9180858878203698
+
+contrast: 0.94
+brightness: 0.12
+saturation: 1.26
+gamma: 0.99
+gamma_r: 1.1
+gamma_g: 1.09
+gamma_b: 0.91
+vignette: 1
+temp: 4281
