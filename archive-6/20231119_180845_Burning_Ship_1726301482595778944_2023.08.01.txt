@@ -1,0 +1,28 @@
+tweet_id: 1726301482595778944
+masto_id: 111438549808948623
+subre_id: Not uploaded, but here's the text: This Sunday is made even better by this Burning Ship!  #Fractals #Science
+
+n_iter: 233
+ct: 166
+hue_offset: 43
+saturation: -0.23
+
+num_attempts: 3
+dur: 1
+std: 22.0
+size: 403367 (393.91 KiB)
+
+xmin: 0.5252102267600942
+xmax: 0.5933920449419123
+ymin: -0.9249592291697126
+ymax: -0.8866069564424399
+
+contrast: 1.59
+brightness: 0.11
+saturation: 0.6
+gamma: 1.06
+gamma_r: 1.03
+gamma_g: 0.94
+gamma_b: 0.96
+vignette: -35
+temp: 5875
