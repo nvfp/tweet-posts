@@ -1,0 +1,28 @@
+tweet_id: 1726280292212625888
+masto_id: 111438218761046215
+subre_id: Not uploaded, but here's the text: Enjoy your Sunday!  #Math #DigitalArt
+
+n_iter: 372
+ct: 1
+hue_offset: 190
+saturation: 0.35
+
+num_attempts: 593
+dur: 603
+std: 55.12
+size: 935790 (913.86 KiB)
+
+xmin: 0.5059953846342746
+xmax: 0.517725589912867
+ymin: 0.10984572501709744
+ymax: 0.11644396548630565
+
+contrast: 1.11
+brightness: 0.15
+saturation: 1.12
+gamma: 0.97
+gamma_r: 1.06
+gamma_g: 1.1
+gamma_b: 1.06
+vignette: 13
+temp: 5699
