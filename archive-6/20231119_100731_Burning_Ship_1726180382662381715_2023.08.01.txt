@@ -1,0 +1,28 @@
+tweet_id: 1726180382662381715
+masto_id: 111436657564144369
+subre_id: Not uploaded, but here's the text: Guess what? It's Burning Ship!  #DeepLearning #DigitalArt
+
+n_iter: 281
+ct: 54
+hue_offset: 255
+saturation: 0.02
+
+num_attempts: 22
+dur: 5
+std: 27.3
+size: 477177 (465.99 KiB)
+
+xmin: -1.6595877218040482
+xmax: -1.0970877218040482
+ymin: -0.61116597210218
+ymax: -0.29475972210218004
+
+contrast: 1.12
+brightness: 0.09
+saturation: 0.34
+gamma: 0.98
+gamma_r: 1.01
+gamma_g: 0.91
+gamma_b: 0.9
+vignette: 2
+temp: 5423
