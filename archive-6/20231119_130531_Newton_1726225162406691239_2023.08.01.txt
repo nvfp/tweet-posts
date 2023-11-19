@@ -1,0 +1,31 @@
+tweet_id: 1726225162406691239
+masto_id: 111437357476403291
+subre_id: Not uploaded, but here's the text: Hey there, it's Sunday!  #Art #Science
+
+newton_power: 5
+newton_const: -3
+
+n_iter: 189
+ct: 69
+hue_offset: 121
+saturation: -0.35
+
+num_attempts: 204
+dur: 600
+std: 12.43
+size: 1033328 (1009.11 KiB)
+
+xmin: 0.3941782838274408
+xmax: 0.42373493407374624
+ymin: 0.6685539005585448
+ymax: 0.6851795163220916
+
+contrast: 1.67
+brightness: -0.1
+saturation: 0.68
+gamma: 0.92
+gamma_r: 0.97
+gamma_g: 0.99
+gamma_b: 0.95
+vignette: -32
+temp: 4017
