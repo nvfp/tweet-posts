@@ -1,0 +1,28 @@
+tweet_id: 1726098513317044620
+masto_id: 111435378572658265
+subre_id: Not uploaded, but here's the text: Wishing you a rad Sunday!  #Fractals #DeepLearning
+
+n_iter: 412
+ct: 1
+hue_offset: 169
+saturation: -0.8
+
+num_attempts: 563
+dur: 601
+std: 60.02
+size: 997313 (973.94 KiB)
+
+xmin: -0.616299160039409
+xmax: -0.6107819186600987
+ymin: 0.5370622182168523
+ymax: 0.5401656664927144
+
+contrast: 1.14
+brightness: 0.21
+saturation: 0.41
+gamma: 0.92
+gamma_r: 0.9
+gamma_g: 1.09
+gamma_b: 1.1
+vignette: 32
+temp: 4704
