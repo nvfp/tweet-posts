@@ -1,0 +1,31 @@
+tweet_id: 1726056688816382040
+masto_id: 111434724911914876
+subre_id: Not uploaded, but here's the text: Have an extraordinary Sunday!  #Nature #Mathematics
+
+newton_power: 6
+newton_const: -2
+
+n_iter: 79
+ct: 119
+hue_offset: 153
+saturation: -0.93
+
+num_attempts: 170
+dur: 600
+std: 18.98
+size: 1216385 (1.16 MiB)
+
+xmin: -0.2514792699622488
+xmax: -0.24540024260662568
+ymin: 0.024457713578825757
+ymax: 0.02787716646636375
+
+contrast: 0.77
+brightness: -0.01
+saturation: 0.66
+gamma: 0.99
+gamma_r: 1.09
+gamma_g: 1.03
+gamma_b: 1.04
+vignette: -27
+temp: 5345
