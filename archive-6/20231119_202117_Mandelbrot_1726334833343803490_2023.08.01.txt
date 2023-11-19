@@ -1,0 +1,28 @@
+tweet_id: 1726334833343803490
+masto_id: 111439070962826211
+subre_id: Not uploaded, but here's the text: Let the magic of Sunday fill your heart!  #Programming #Art
+
+n_iter: 233
+ct: 120
+hue_offset: 255
+saturation: -0.32
+
+num_attempts: 50
+dur: 11
+std: 17.11
+size: 849371 (829.46 KiB)
+
+xmin: -1.2192973262988531
+xmax: -1.2186189002472927
+ymin: 0.13962509576776472
+ymax: 0.14000671042176743
+
+contrast: 0.93
+brightness: 0.08
+saturation: 0.34
+gamma: 1.01
+gamma_r: 0.97
+gamma_g: 0.91
+gamma_b: 0.99
+vignette: -23
+temp: 7846
