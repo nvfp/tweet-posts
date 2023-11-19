@@ -1,0 +1,28 @@
+tweet_id: 1726189121863831995
+masto_id: 111436794257328224
+subre_id: Not uploaded, but here's the text: Shine bright like the sun on this Sunday!  #DeepLearning #VisualArt
+
+n_iter: 420
+ct: 1
+hue_offset: 218
+saturation: 0.19
+
+num_attempts: 595
+dur: 602
+std: 66.75
+size: 843508 (823.74 KiB)
+
+xmin: 0.17128541071730918
+xmax: 0.181113420545319
+ymin: 0.7459967837188453
+ymax: 0.7515250392471008
+
+contrast: 1.68
+brightness: -0.09
+saturation: 1.18
+gamma: 1.05
+gamma_r: 0.93
+gamma_g: 0.96
+gamma_b: 0.94
+vignette: 5
+temp: 6771
