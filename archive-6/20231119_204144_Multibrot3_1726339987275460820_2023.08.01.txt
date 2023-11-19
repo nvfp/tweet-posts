@@ -1,0 +1,28 @@
+tweet_id: 1726339987275460820
+masto_id: 111439151384745014
+subre_id: Not uploaded, but here's the text: Have an awesome Sunday!  #Mathematics #Science
+
+n_iter: 429
+ct: 255
+hue_offset: 205
+saturation: -0.88
+
+num_attempts: 579
+dur: 600
+std: 59.95
+size: 525457 (513.14 KiB)
+
+xmin: -0.5915278541456681
+xmax: -0.5874545343900673
+ymin: -0.5805841672739502
+ymax: -0.5782929249114248
+
+contrast: 1.71
+brightness: 0.17
+saturation: 0.55
+gamma: 0.93
+gamma_r: 0.94
+gamma_g: 0.92
+gamma_b: 1.03
+vignette: -10
+temp: 4914
