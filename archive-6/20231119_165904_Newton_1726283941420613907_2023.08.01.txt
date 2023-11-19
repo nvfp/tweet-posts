@@ -1,0 +1,31 @@
+tweet_id: 1726283941420613907
+masto_id: 111438275797680588
+subre_id: Not uploaded, but here's the text: Wow, take a look! There's Newton!  #Math #Programming
+
+newton_power: 4
+newton_const: 4
+
+n_iter: 255
+ct: 73
+hue_offset: 237
+saturation: 0.02
+
+num_attempts: 270
+dur: 601
+std: 7.17
+size: 778707 (760.46 KiB)
+
+xmin: 1.8006956709182917
+xmax: 1.8104044087823694
+ymin: -0.07964210093464441
+ymax: -0.07418093588610072
+
+contrast: 1.1
+brightness: -0.05
+saturation: 0.79
+gamma: 0.91
+gamma_r: 0.92
+gamma_g: 0.93
+gamma_b: 1.05
+vignette: -39
+temp: 5645
