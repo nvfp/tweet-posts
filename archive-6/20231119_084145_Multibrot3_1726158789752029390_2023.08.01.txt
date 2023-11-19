@@ -1,0 +1,28 @@
+tweet_id: 1726158789752029390
+masto_id: 111436320289554897
+subre_id: Not uploaded, but here's the text: You are lovely!  #Programming #DigitalArt
+
+n_iter: 617
+ct: 1
+hue_offset: 5
+saturation: 0.07
+
+num_attempts: 361
+dur: 607
+std: 72.85
+size: 1145190 (1.09 MiB)
+
+xmin: 0.29922096105807316
+xmax: 0.32156732977315694
+ymin: 0.6844135848682269
+ymax: 0.6969834172704615
+
+contrast: 1.34
+brightness: 0.04
+saturation: 1.7
+gamma: 0.91
+gamma_r: 1.05
+gamma_g: 0.95
+gamma_b: 1.06
+vignette: -24
+temp: 4710
