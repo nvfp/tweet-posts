@@ -1,0 +1,28 @@
+tweet_id: 1726249377834926591
+masto_id: 111437735568190521
+subre_id: Not uploaded, but here's the text: Good Sunday! This Multibrot is for you!  #Math #DigitalArt
+
+n_iter: 365
+ct: 255
+hue_offset: 182
+saturation: -0.33
+
+num_attempts: 540
+dur: 604
+std: 47.4
+size: 449390 (438.86 KiB)
+
+xmin: -0.19060316315863202
+xmax: -0.18018649649196536
+ymin: -0.890637840192275
+ymax: -0.884778465192275
+
+contrast: 1.12
+brightness: -0.05
+saturation: 1.33
+gamma: 0.9
+gamma_r: 1.0
+gamma_g: 1.08
+gamma_b: 1.02
+vignette: -19
+temp: 4886
