@@ -1,0 +1,28 @@
+tweet_id: 1726240467694522527
+masto_id: 111437596480241351
+subre_id: Not uploaded, but here's the text: Smile, it's Sunday!  #AI #Math
+
+n_iter: 468
+ct: 76
+hue_offset: 80
+saturation: -0.64
+
+num_attempts: 20
+dur: 12
+std: 76.22
+size: 2116632 (2.02 MiB)
+
+xmin: -0.4561474937619918
+xmax: -0.36960903222353025
+ymin: -0.887264276378742
+ymax: -0.8385863917633574
+
+contrast: 1.69
+brightness: 0.02
+saturation: 1.2
+gamma: 1.08
+gamma_r: 1.1
+gamma_g: 1.07
+gamma_b: 1.07
+vignette: -18
+temp: 7263
