@@ -1,0 +1,28 @@
+tweet_id: 1726244593077751829
+masto_id: 111437660928931774
+subre_id: Not uploaded, but here's the text: Have an extraordinary Sunday!  #DeepLearning #DigitalArt
+
+n_iter: 398
+ct: 233
+hue_offset: 336
+saturation: 0.78
+
+num_attempts: 51
+dur: 13
+std: 59.24
+size: 1114919 (1.06 MiB)
+
+xmin: 0.3111229899100656
+xmax: 0.3164210031550987
+ymin: 0.4295807382426857
+ymax: 0.43256087069301685
+
+contrast: 0.98
+brightness: 0.07
+saturation: 0.68
+gamma: 0.99
+gamma_r: 1.05
+gamma_g: 0.97
+gamma_b: 1.02
+vignette: -10
+temp: 5126
