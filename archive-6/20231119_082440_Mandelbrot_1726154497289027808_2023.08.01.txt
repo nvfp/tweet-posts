@@ -1,0 +1,28 @@
+tweet_id: 1726154497289027808
+masto_id: 111436253119838620
+subre_id: Not uploaded, but here's the text: Enjoy your Sunday!  #VisualArt #Art
+
+n_iter: 702
+ct: 79
+hue_offset: 128
+saturation: -0.72
+
+num_attempts: 30
+dur: 19
+std: 111.6
+size: 2151473 (2.05 MiB)
+
+xmin: 0.3105063687242988
+xmax: 0.31160496801020926
+ymin: 0.4353560154072016
+ymax: 0.43597397750552624
+
+contrast: 0.85
+brightness: 0.23
+saturation: 1.5
+gamma: 1.09
+gamma_r: 1.01
+gamma_g: 1.04
+gamma_b: 1.08
+vignette: -30
+temp: 2446
