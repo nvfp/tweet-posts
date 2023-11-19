@@ -1,0 +1,28 @@
+tweet_id: 1726184980643008576
+masto_id: 111436729327388270
+subre_id: Not uploaded, but here's the text: Shine bright like the sun on this Sunday!  #Nature #Science
+
+n_iter: 494
+ct: 193
+hue_offset: 276
+saturation: -0.37
+
+num_attempts: 16
+dur: 6
+std: 51.46
+size: 214936 (209.9 KiB)
+
+xmin: -1.2250039784801725
+xmax: -1.2147475682237623
+ymin: 0.10960032027109623
+ymax: 0.115369551040327
+
+contrast: 1.42
+brightness: 0.05
+saturation: 0.26
+gamma: 0.91
+gamma_r: 1.08
+gamma_g: 1.01
+gamma_b: 1.08
+vignette: -23
+temp: 2397
