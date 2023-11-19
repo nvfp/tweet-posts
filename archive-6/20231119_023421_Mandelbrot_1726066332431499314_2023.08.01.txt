@@ -1,0 +1,28 @@
+tweet_id: 1726066332431499314
+masto_id: 111434875633243823
+subre_id: Not uploaded, but here's the text: Another Sunday, another Mandelbrot Set!  #VisualArt #Science
+
+n_iter: 985
+ct: 62
+hue_offset: 341
+saturation: -0.03
+
+num_attempts: 59
+dur: 38
+std: 47.47
+size: 1302176 (1.24 MiB)
+
+xmin: -0.6942368141457398
+xmax: -0.6937658934958693
+ymin: -0.3281694931522905
+ymax: -0.32790460028673835
+
+contrast: 1.72
+brightness: -0.07
+saturation: 1.16
+gamma: 1.02
+gamma_r: 1.08
+gamma_g: 1.07
+gamma_b: 1.06
+vignette: -47
+temp: 3905
