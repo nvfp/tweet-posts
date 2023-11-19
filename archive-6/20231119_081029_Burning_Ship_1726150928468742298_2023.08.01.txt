@@ -1,0 +1,28 @@
+tweet_id: 1726150928468742298
+masto_id: 111436197350729076
+subre_id: Not uploaded, but here's the text: This Sunday is made even better by this Burning Ship!  #DeepLearning #VisualArt
+
+n_iter: 166
+ct: 214
+hue_offset: 20
+saturation: -0.27
+
+num_attempts: 37
+dur: 7
+std: 24.94
+size: 2052696 (1.96 MiB)
+
+xmin: -0.8275849592924402
+xmax: -0.6668706735781545
+ymin: -0.8705910346460664
+ymax: -0.7801892489317807
+
+contrast: 1.68
+brightness: 0.04
+saturation: 0.47
+gamma: 1.02
+gamma_r: 0.95
+gamma_g: 0.93
+gamma_b: 1.03
+vignette: -38
+temp: 6216
