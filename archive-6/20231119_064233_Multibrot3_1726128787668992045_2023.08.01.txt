@@ -1,0 +1,28 @@
+tweet_id: 1726128787668992045
+masto_id: 111435851616442195
+subre_id: Not uploaded, but here's the text: Another Sunday, another Multibrot!  #VisualArt #Fractals
+
+n_iter: 443
+ct: 255
+hue_offset: 141
+saturation: 0.98
+
+num_attempts: 625
+dur: 605
+std: 56.65
+size: 961249 (938.72 KiB)
+
+xmin: -0.6016425960701888
+xmax: -0.5970501735673185
+ymin: 0.23119672196231744
+ymax: 0.23377995962018197
+
+contrast: 0.72
+brightness: 0.08
+saturation: 0.51
+gamma: 0.99
+gamma_r: 0.94
+gamma_g: 0.97
+gamma_b: 1.03
+vignette: -24
+temp: 2303
