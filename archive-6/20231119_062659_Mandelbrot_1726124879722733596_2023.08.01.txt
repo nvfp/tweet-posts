@@ -1,0 +1,28 @@
+tweet_id: 1726124879722733596
+masto_id: 111435790369260694
+subre_id: Not uploaded, but here's the text: Shine bright like the sun on this Sunday!  #Nature #Programming
+
+n_iter: 453
+ct: 171
+hue_offset: 188
+saturation: -0.3
+
+num_attempts: 183
+dur: 78
+std: 113.74
+size: 846938 (827.09 KiB)
+
+xmin: -0.9610233281624048
+xmax: -0.9604633393621808
+ymin: -0.24795773634288443
+ymax: -0.24764274264275843
+
+contrast: 1.74
+brightness: 0.0
+saturation: 1.59
+gamma: 1.02
+gamma_r: 1.08
+gamma_g: 1.1
+gamma_b: 0.93
+vignette: -24
+temp: 4398
