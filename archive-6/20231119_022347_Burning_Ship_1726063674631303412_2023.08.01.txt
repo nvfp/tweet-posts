@@ -1,0 +1,28 @@
+tweet_id: 1726063674631303412
+masto_id: 111434834069776376
+subre_id: Not uploaded, but here's the text: Let this Burning Ship inspire your Sunday.  #Programming #Mathematics
+
+n_iter: 412
+ct: 220
+hue_offset: 338
+saturation: 0.48
+
+num_attempts: 43
+dur: 11
+std: 31.87
+size: 849457 (829.55 KiB)
+
+xmin: -0.9928452708703461
+xmax: 0.5071547291296539
+ymin: -1.6947517574188284
+ymax: -0.8510017574188284
+
+contrast: 1.38
+brightness: 0.11
+saturation: 1.6
+gamma: 1.04
+gamma_r: 0.98
+gamma_g: 1.0
+gamma_b: 1.03
+vignette: -36
+temp: 7781
