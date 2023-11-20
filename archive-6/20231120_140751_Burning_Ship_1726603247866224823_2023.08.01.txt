@@ -1,0 +1,28 @@
+tweet_id: 1726603247866224823
+masto_id: 111443264865383677
+subre_id: Not uploaded, but here's the text: Wishing you a wonderful Monday!  #AI #Nature
+
+n_iter: 269
+ct: 59
+hue_offset: 16
+saturation: -0.18
+
+num_attempts: 39
+dur: 11
+std: 20.47
+size: 1341288 (1.28 MiB)
+
+xmin: 0.7287231449624652
+xmax: 0.8787231449624652
+ymin: -1.2286345689680434
+ymax: -1.1442595689680433
+
+contrast: 0.81
+brightness: 0.16
+saturation: 0.85
+gamma: 1.07
+gamma_r: 0.91
+gamma_g: 1.05
+gamma_b: 0.93
+vignette: 11
+temp: 7048
