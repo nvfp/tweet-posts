@@ -1,0 +1,31 @@
+tweet_id: 1726418391454667064
+masto_id: 111440376715952874
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Monday! You got this!  #Science #DeepLearning
+
+newton_power: 4
+newton_const: 1
+
+n_iter: 205
+ct: 134
+hue_offset: 266
+saturation: -0.58
+
+num_attempts: 258
+dur: 601
+std: 8.63
+size: 823976 (804.66 KiB)
+
+xmin: -2.895029366510893
+xmax: -2.7950293665108927
+ymin: -0.35311230991495846
+ymax: -0.29686230991495843
+
+contrast: 1.42
+brightness: -0.09
+saturation: 0.51
+gamma: 1.02
+gamma_r: 0.92
+gamma_g: 0.92
+gamma_b: 1.02
+vignette: -28
+temp: 2157
