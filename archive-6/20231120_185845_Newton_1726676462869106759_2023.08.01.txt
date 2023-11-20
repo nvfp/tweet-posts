@@ -1,0 +1,31 @@
+tweet_id: 1726676462869106759
+masto_id: 111444408757671105
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Monday! You got this!  #Math #Art
+
+newton_power: 5
+newton_const: -6
+
+n_iter: 226
+ct: 138
+hue_offset: 344
+saturation: 0.42
+
+num_attempts: 189
+dur: 602
+std: 14.26
+size: 349355 (341.17 KiB)
+
+xmin: -0.7268555475445906
+xmax: -0.7091564325003428
+ymin: -0.09964460373721895
+ymax: -0.08968885152482957
+
+contrast: 0.8
+brightness: 0.22
+saturation: 0.85
+gamma: 0.9
+gamma_r: 1.07
+gamma_g: 1.06
+gamma_b: 0.98
+vignette: 0
+temp: 3335
