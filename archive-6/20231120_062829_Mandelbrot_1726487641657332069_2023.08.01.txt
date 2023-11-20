@@ -1,0 +1,28 @@
+tweet_id: 1726487641657332069
+masto_id: 111441458562706226
+subre_id: Not uploaded, but here's the text: Happy Monday!  #Fractals #Nature
+
+n_iter: 694
+ct: 111
+hue_offset: 331
+saturation: 0.94
+
+num_attempts: 63
+dur: 24
+std: 22.71
+size: 1048239 (1023.67 KiB)
+
+xmin: -1.0436893617075533
+xmax: -1.0415662194570225
+ymin: 0.3362733038156238
+ymax: 0.33746757133154737
+
+contrast: 1.4
+brightness: -0.09
+saturation: 0.5
+gamma: 0.95
+gamma_r: 0.99
+gamma_g: 0.99
+gamma_b: 1.01
+vignette: 26
+temp: 5994
