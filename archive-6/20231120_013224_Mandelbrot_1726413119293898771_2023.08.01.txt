@@ -1,0 +1,28 @@
+tweet_id: 1726413119293898771
+masto_id: 111440294290841939
+subre_id: Not uploaded, but here's the text: Let this Mandelbrot Set brighten up your Monday!  #MachineLearning #Math
+
+n_iter: 143
+ct: 64
+hue_offset: 165
+saturation: 0.27
+
+num_attempts: 125
+dur: 22
+std: 19.63
+size: 1113453 (1.06 MiB)
+
+xmin: -0.9788302871921739
+xmax: -0.9762311968737853
+ymin: -0.2573157199753553
+ymax: -0.25585373167126174
+
+contrast: 0.74
+brightness: 0.12
+saturation: 1.17
+gamma: 1.07
+gamma_r: 1.04
+gamma_g: 1.1
+gamma_b: 1.03
+vignette: -28
+temp: 6605
