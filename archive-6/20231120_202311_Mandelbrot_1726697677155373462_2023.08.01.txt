@@ -1,0 +1,28 @@
+tweet_id: 1726697677155373462
+masto_id: 111444740467751697
+subre_id: Not uploaded, but here's the text: Let this Mandelbrot Set inspire your Monday.  #DeepLearning #Math
+
+n_iter: 639
+ct: 143
+hue_offset: 87
+saturation: -0.59
+
+num_attempts: 148
+dur: 61
+std: 22.8
+size: 469519 (458.51 KiB)
+
+xmin: -0.7143744937567944
+xmax: -0.7129464323501539
+ymin: -0.2686836333746828
+ymax: -0.2678803488334475
+
+contrast: 1.38
+brightness: 0.08
+saturation: 0.89
+gamma: 0.93
+gamma_r: 0.95
+gamma_g: 1.03
+gamma_b: 0.91
+vignette: 16
+temp: 2011
