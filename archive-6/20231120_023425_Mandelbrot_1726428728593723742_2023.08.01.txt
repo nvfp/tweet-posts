@@ -1,0 +1,28 @@
+tweet_id: 1726428728593723742
+masto_id: 111440538210194076
+subre_id: Not uploaded, but here's the text: Shine bright like the sun on this Monday!  #Fractals #Programming
+
+n_iter: 832
+ct: 36
+hue_offset: 196
+saturation: 0.64
+
+num_attempts: 98
+dur: 55
+std: 23.39
+size: 1004042 (980.51 KiB)
+
+xmin: -0.7060238031181898
+xmax: -0.7052655092793272
+ymin: -0.36059747903352335
+ymax: -0.36017093874916317
+
+contrast: 1.34
+brightness: 0.02
+saturation: 0.72
+gamma: 0.98
+gamma_r: 1.09
+gamma_g: 0.95
+gamma_b: 1.02
+vignette: 14
+temp: 2768
