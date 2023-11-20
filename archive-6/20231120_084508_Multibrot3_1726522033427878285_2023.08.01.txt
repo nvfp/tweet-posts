@@ -1,0 +1,28 @@
+tweet_id: 1726522033427878285
+masto_id: 111441995892663828
+subre_id: Not uploaded, but here's the text: Hey wait, look! it's Multibrot!  #Mathematics #AI
+
+n_iter: 428
+ct: 1
+hue_offset: 336
+saturation: 0.04
+
+num_attempts: 569
+dur: 604
+std: 74.66
+size: 1253793 (1.2 MiB)
+
+xmin: 0.5455356151552171
+xmax: 0.5503782301673237
+ymin: -0.3281404309605005
+ymax: -0.32541646001619057
+
+contrast: 1.31
+brightness: 0.13
+saturation: 1.04
+gamma: 1.06
+gamma_r: 0.93
+gamma_g: 1.04
+gamma_b: 0.96
+vignette: 12
+temp: 5880
