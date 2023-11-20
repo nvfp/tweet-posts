@@ -1,0 +1,28 @@
+tweet_id: 1726491961379770412
+masto_id: 111441525939033965
+subre_id: Not uploaded, but here's the text: Wishing you a fantastic day!  #Fractals #AI
+
+n_iter: 408
+ct: 1
+hue_offset: 137
+saturation: -0.66
+
+num_attempts: 577
+dur: 603
+std: 69.54
+size: 586155 (572.42 KiB)
+
+xmin: 0.168116242337347
+xmax: 0.1725905152679958
+ymin: 0.7537920650710035
+ymax: 0.7563088435944935
+
+contrast: 1.43
+brightness: 0.12
+saturation: 1.38
+gamma: 0.91
+gamma_r: 0.9
+gamma_g: 1.07
+gamma_b: 0.98
+vignette: -29
+temp: 2776
