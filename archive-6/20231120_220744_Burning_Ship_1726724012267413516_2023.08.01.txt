@@ -1,0 +1,28 @@
+tweet_id: 1726724012267413516
+masto_id: 111445151898667654
+subre_id: Not uploaded, but here's the text: Hey wait, look! it's Burning Ship!  #Nature #Fractals
+
+n_iter: 381
+ct: 82
+hue_offset: 211
+saturation: 0.28
+
+num_attempts: 27
+dur: 7
+std: 36.67
+size: 654853 (639.5 KiB)
+
+xmin: -0.7828404115710628
+xmax: 0.34215958842893723
+ymin: -1.4772496636197743
+ymax: -0.8444371636197743
+
+contrast: 1.32
+brightness: 0.08
+saturation: 0.44
+gamma: 0.95
+gamma_r: 0.92
+gamma_g: 0.97
+gamma_b: 1.1
+vignette: 5
+temp: 2911
