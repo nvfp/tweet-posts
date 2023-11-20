@@ -1,0 +1,28 @@
+tweet_id: 1726664278109770172
+masto_id: 111444218486123221
+subre_id: Not uploaded, but here's the text: A great Monday and a beautiful Burning Ship.  #DigitalArt #Math
+
+n_iter: 264
+ct: 12
+hue_offset: 299
+saturation: -0.1
+
+num_attempts: 5
+dur: 1
+std: 22.07
+size: 737939 (720.64 KiB)
+
+xmin: -1.0525454823336593
+xmax: 1.1974545176663407
+ymin: -1.244215268507507
+ymax: 0.021409731492493034
+
+contrast: 0.72
+brightness: 0.19
+saturation: 1.65
+gamma: 1.07
+gamma_r: 0.93
+gamma_g: 0.98
+gamma_b: 0.91
+vignette: 11
+temp: 7831
