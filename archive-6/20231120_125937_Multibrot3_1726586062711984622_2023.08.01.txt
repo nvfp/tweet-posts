@@ -1,0 +1,28 @@
+tweet_id: 1726586062711984622
+masto_id: 111442996516539077
+subre_id: Not uploaded, but here's the text: Let this Multibrot inspire your Monday.  #DeepLearning #Nature
+
+n_iter: 294
+ct: 255
+hue_offset: 321
+saturation: -0.22
+
+num_attempts: 800
+dur: 603
+std: 55.98
+size: 746649 (729.15 KiB)
+
+xmin: 0.5944289719624924
+xmax: 0.5988783601716137
+ymin: -0.4810460125433724
+ymax: -0.4785432316757417
+
+contrast: 1.2
+brightness: 0.2
+saturation: 0.96
+gamma: 0.9
+gamma_r: 0.92
+gamma_g: 0.98
+gamma_b: 0.97
+vignette: -9
+temp: 5419
