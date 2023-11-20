@@ -1,0 +1,28 @@
+tweet_id: 1726702397861298496
+masto_id: 111444814013467105
+subre_id: Not uploaded, but here's the text: Let's rock this Monday!  #AI #DigitalArt
+
+n_iter: 366
+ct: 255
+hue_offset: 239
+saturation: -0.09
+
+num_attempts: 559
+dur: 600
+std: 58.09
+size: 716475 (699.68 KiB)
+
+xmin: 0.5421900097413017
+xmax: 0.546514334065626
+ymin: -0.2950483927511107
+ymax: -0.2926159603186783
+
+contrast: 1.19
+brightness: -0.08
+saturation: 1.2
+gamma: 1.05
+gamma_r: 0.94
+gamma_g: 0.97
+gamma_b: 1.09
+vignette: 32
+temp: 7412
