@@ -1,0 +1,28 @@
+tweet_id: 1727026718198698186
+masto_id: 111449881579544800
+subre_id: Not uploaded, but here's the text: Let the magic of Tuesday fill your heart!  #Science #Fractals
+
+n_iter: 154
+ct: 29
+hue_offset: 117
+saturation: 0.02
+
+num_attempts: 21
+dur: 5
+std: 20.53
+size: 175108 (171.0 KiB)
+
+xmin: -0.051146969311380186
+xmax: 0.058609128249595424
+ymin: 0.2655077455399022
+ymax: 0.327245550417951
+
+contrast: 1.48
+brightness: 0.16
+saturation: 1.53
+gamma: 1.07
+gamma_r: 0.98
+gamma_g: 0.97
+gamma_b: 1.05
+vignette: 3
+temp: 5822
