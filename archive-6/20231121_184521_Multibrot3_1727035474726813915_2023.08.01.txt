@@ -1,0 +1,28 @@
+tweet_id: 1727035474726813915
+masto_id: 111450018400762228
+subre_id: Not uploaded, but here's the text: Hello Tuesday! This Multibrot is yours!  #DigitalArt #Fractals
+
+n_iter: 411
+ct: 1
+hue_offset: 105
+saturation: 0.43
+
+num_attempts: 520
+dur: 600
+std: 71.8
+size: 1311829 (1.25 MiB)
+
+xmin: -0.38865250593166123
+xmax: -0.3810334583126136
+ymin: -0.6275678887634991
+ymax: -0.6232821744777848
+
+contrast: 1.63
+brightness: 0.11
+saturation: 1.59
+gamma: 0.98
+gamma_r: 0.93
+gamma_g: 0.91
+gamma_b: 0.95
+vignette: 24
+temp: 3454
