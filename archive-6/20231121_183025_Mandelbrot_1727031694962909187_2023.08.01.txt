@@ -1,0 +1,28 @@
+tweet_id: 1727031694962909187
+masto_id: 111449959622853272
+subre_id: Not uploaded, but here's the text: How was your day?  #DigitalArt #AI
+
+n_iter: 960
+ct: 162
+hue_offset: 348
+saturation: -0.74
+
+num_attempts: 166
+dur: 132
+std: 150.18
+size: 614438 (600.04 KiB)
+
+xmin: -0.7317983990346266
+xmax: -0.7312359693383387
+ymin: -0.18227861809415968
+ymax: -0.1819622513899977
+
+contrast: 0.79
+brightness: -0.08
+saturation: 0.55
+gamma: 1.02
+gamma_r: 0.99
+gamma_g: 0.92
+gamma_b: 1.09
+vignette: 7
+temp: 3167
