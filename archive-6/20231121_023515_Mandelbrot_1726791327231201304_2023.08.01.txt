@@ -1,0 +1,28 @@
+tweet_id: 1726791327231201304
+masto_id: 111446203772727551
+subre_id: Not uploaded, but here's the text: Smile on this lovely day!  #Programming #DigitalArt
+
+n_iter: 283
+ct: 88
+hue_offset: 135
+saturation: 0.66
+
+num_attempts: 3
+dur: 0
+std: 19.82
+size: 1051862 (1.0 MiB)
+
+xmin: 0.41308274730373196
+xmax: 0.41353544083021454
+ymin: -0.20542125583330006
+ymax: -0.2051666157246536
+
+contrast: 1.47
+brightness: -0.06
+saturation: 0.4
+gamma: 0.93
+gamma_r: 1.05
+gamma_g: 1.07
+gamma_b: 1.05
+vignette: -14
+temp: 7375
