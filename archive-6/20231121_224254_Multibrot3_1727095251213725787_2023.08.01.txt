@@ -1,0 +1,28 @@
+tweet_id: 1727095251213725787
+masto_id: 111450952461821711
+subre_id: Not uploaded, but here's the text: Wishing you a joyful day!  #MachineLearning #Nature
+
+n_iter: 569
+ct: 1
+hue_offset: 84
+saturation: -0.74
+
+num_attempts: 381
+dur: 606
+std: 74.34
+size: 843843 (824.07 KiB)
+
+xmin: 0.5602642684334023
+xmax: 0.565340410565382
+ymin: -0.15813572155330125
+ymax: -0.15528039160406268
+
+contrast: 1.77
+brightness: -0.02
+saturation: 1.43
+gamma: 1.02
+gamma_r: 1.09
+gamma_g: 1.08
+gamma_b: 0.97
+vignette: 8
+temp: 5068
