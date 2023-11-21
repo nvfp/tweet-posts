@@ -1,0 +1,28 @@
+tweet_id: 1726849862115701023
+masto_id: 111447118215175542
+subre_id: Not uploaded, but here's the text: Feeling the Mandelbrot Set vibes today!  #DeepLearning #AI
+
+n_iter: 978
+ct: 100
+hue_offset: 248
+saturation: 0.84
+
+num_attempts: 15
+dur: 6
+std: 162.2
+size: 2188091 (2.09 MiB)
+
+xmin: -0.45602604112737
+xmax: -0.45235967999079807
+ymin: -0.556117647981081
+ymax: -0.5540553198417593
+
+contrast: 1.56
+brightness: 0.12
+saturation: 0.76
+gamma: 1.03
+gamma_r: 0.95
+gamma_g: 0.97
+gamma_b: 1.06
+vignette: 27
+temp: 2649
