@@ -1,0 +1,28 @@
+tweet_id: 1726815122998563147
+masto_id: 111446575380628411
+subre_id: Not uploaded, but here's the text: Beautiful Tuesday with this Burning Ship!  #DigitalArt #Nature
+
+n_iter: 183
+ct: 62
+hue_offset: 333
+saturation: 0.82
+
+num_attempts: 5
+dur: 1
+std: 27.78
+size: 2388949 (2.28 MiB)
+
+xmin: -0.18896260531577624
+xmax: -0.14257085273845665
+ymin: -1.0045961990610224
+ymax: -0.9785008382362801
+
+contrast: 1.1
+brightness: 0.21
+saturation: 0.84
+gamma: 0.92
+gamma_r: 0.93
+gamma_g: 0.9
+gamma_b: 0.99
+vignette: -33
+temp: 7219
