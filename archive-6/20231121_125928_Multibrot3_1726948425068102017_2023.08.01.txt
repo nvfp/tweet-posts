@@ -1,0 +1,28 @@
+tweet_id: 1726948425068102017
+masto_id: 111448658297077266
+subre_id: Not uploaded, but here's the text: Sending you this fractal on this Tuesday!  #MachineLearning #DeepLearning
+
+n_iter: 340
+ct: 1
+hue_offset: 153
+saturation: -0.6
+
+num_attempts: 692
+dur: 605
+std: 52.49
+size: 543774 (531.03 KiB)
+
+xmin: -0.5066073531928619
+xmax: -0.5016322288147524
+ymin: 0.6150660254811768
+ymax: 0.6178645329438635
+
+contrast: 1.32
+brightness: 0.13
+saturation: 0.41
+gamma: 0.97
+gamma_r: 1.01
+gamma_g: 1.04
+gamma_b: 1.08
+vignette: 17
+temp: 3969
