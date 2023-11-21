@@ -1,0 +1,31 @@
+tweet_id: 1727069138982760768
+masto_id: 111450544837462045
+subre_id: Not uploaded, but here's the text: Wishing you a wonderful Tuesday!  #AI #MachineLearning
+
+newton_power: 4
+newton_const: 6
+
+n_iter: 107
+ct: 186
+hue_offset: 107
+saturation: 0.61
+
+num_attempts: 264
+dur: 602
+std: 8.38
+size: 656493 (641.11 KiB)
+
+xmin: 0.36492835778810884
+xmax: 0.3730916230942313
+ymin: -0.8802148824081732
+ymax: -0.8756230456734794
+
+contrast: 1.41
+brightness: -0.09
+saturation: 0.52
+gamma: 0.97
+gamma_r: 0.96
+gamma_g: 0.97
+gamma_b: 1.0
+vignette: -30
+temp: 2085
