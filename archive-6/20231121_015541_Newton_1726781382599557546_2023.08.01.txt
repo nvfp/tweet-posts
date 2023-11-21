@@ -1,0 +1,31 @@
+tweet_id: 1726781382599557546
+masto_id: 111446048225395601
+subre_id: Not uploaded, but here's the text: Keep shining on Tuesday!  #Science #Mathematics
+
+newton_power: 4
+newton_const: -7
+
+n_iter: 137
+ct: 172
+hue_offset: 158
+saturation: 0.24
+
+num_attempts: 240
+dur: 601
+std: 7.11
+size: 373099 (364.35 KiB)
+
+xmin: -0.8917300419836951
+xmax: -0.8808407497876879
+ymin: 0.6490227436924654
+ymax: 0.6551479705527194
+
+contrast: 1.27
+brightness: 0.17
+saturation: 1.04
+gamma: 1.02
+gamma_r: 0.96
+gamma_g: 0.98
+gamma_b: 0.9
+vignette: -2
+temp: 2998
