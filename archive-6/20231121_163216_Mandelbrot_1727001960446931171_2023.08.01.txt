@@ -1,0 +1,28 @@
+tweet_id: 1727001960446931171
+masto_id: 111449495038763882
+subre_id: Not uploaded, but here's the text: Guess what? It's Mandelbrot Set!  #VisualArt #Mathematics
+
+n_iter: 902
+ct: 227
+hue_offset: 343
+saturation: -0.89
+
+num_attempts: 193
+dur: 95
+std: 32.63
+size: 1302377 (1.24 MiB)
+
+xmin: -0.21973100337678142
+xmax: -0.21910473126154736
+ymin: -0.8160512460187532
+ymax: -0.815698967953934
+
+contrast: 0.91
+brightness: 0.16
+saturation: 1.71
+gamma: 0.92
+gamma_r: 0.95
+gamma_g: 0.94
+gamma_b: 1.01
+vignette: -46
+temp: 6856
