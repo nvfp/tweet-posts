@@ -1,0 +1,28 @@
+tweet_id: 1726788848108359801
+masto_id: 111446164963361082
+subre_id: Not uploaded, but here's the text: Beautiful Tuesday with this Burning Ship!  #MachineLearning #DigitalArt
+
+n_iter: 465
+ct: 126
+hue_offset: 230
+saturation: 0.87
+
+num_attempts: 39
+dur: 11
+std: 26.78
+size: 869971 (849.58 KiB)
+
+xmin: -0.11322868642452066
+xmax: 0.05984823665240241
+ymin: -1.1646920439737183
+ymax: -1.0673362747429491
+
+contrast: 1.08
+brightness: 0.01
+saturation: 0.96
+gamma: 1.01
+gamma_r: 0.97
+gamma_g: 1.02
+gamma_b: 1.01
+vignette: 21
+temp: 7341
