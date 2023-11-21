@@ -1,0 +1,28 @@
+tweet_id: 1726761664890974279
+masto_id: 111445740160031073
+subre_id: Not uploaded, but here's the text: Enjoying the Tuesday with this Burning Ship.  #Art #Mathematics
+
+n_iter: 310
+ct: 117
+hue_offset: 107
+saturation: 0.62
+
+num_attempts: 31
+dur: 6
+std: 34.07
+size: 1002546 (979.05 KiB)
+
+xmin: -1.478356108157564
+xmax: -1.3965379263393822
+ymin: -0.32233991944272544
+ymax: -0.27631719216999817
+
+contrast: 0.88
+brightness: -0.08
+saturation: 1.67
+gamma: 0.91
+gamma_r: 0.96
+gamma_g: 1.0
+gamma_b: 1.02
+vignette: 32
+temp: 4099
