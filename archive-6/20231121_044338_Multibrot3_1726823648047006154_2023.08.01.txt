@@ -1,0 +1,28 @@
+tweet_id: 1726823648047006154
+masto_id: 111446708593274635
+subre_id: Not uploaded, but here's the text: Wishing you a rad Tuesday!  #Nature #Fractals
+
+n_iter: 470
+ct: 1
+hue_offset: 182
+saturation: -0.72
+
+num_attempts: 531
+dur: 604
+std: 65.11
+size: 945654 (923.49 KiB)
+
+xmin: 0.14225875661168663
+xmax: 0.14688303406833403
+ymin: 1.1008299742939234
+ymax: 1.1034311303632875
+
+contrast: 0.8
+brightness: -0.01
+saturation: 1.53
+gamma: 1.01
+gamma_r: 0.99
+gamma_g: 0.93
+gamma_b: 0.97
+vignette: -3
+temp: 5069
