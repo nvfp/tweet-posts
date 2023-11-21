@@ -1,0 +1,28 @@
+tweet_id: 1726974908159434955
+masto_id: 111449072169368143
+subre_id: Not uploaded, but here's the text: How was your day?  #Programming #Science
+
+n_iter: 533
+ct: 255
+hue_offset: 21
+saturation: -0.0
+
+num_attempts: 529
+dur: 604
+std: 90.48
+size: 664440 (648.87 KiB)
+
+xmin: 0.05601246905300039
+xmax: 0.06155263525798654
+ymin: 0.7668458935219795
+ymax: 0.7699622370122843
+
+contrast: 1.62
+brightness: 0.2
+saturation: 1.0
+gamma: 1.02
+gamma_r: 1.04
+gamma_g: 0.91
+gamma_b: 0.94
+vignette: 22
+temp: 5837
