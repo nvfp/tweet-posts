@@ -1,0 +1,28 @@
+tweet_id: 1726884152744833347
+masto_id: 111447654070365290
+subre_id: Not uploaded, but here's the text: Hope your Tuesday is awesome!  #Fractals #DigitalArt
+
+n_iter: 445
+ct: 255
+hue_offset: 340
+saturation: 0.23
+
+num_attempts: 606
+dur: 604
+std: 79.92
+size: 1498851 (1.43 MiB)
+
+xmin: -0.41740143507407357
+xmax: -0.4133569456908582
+ymin: 0.5956912269171672
+ymax: 0.5979662521952259
+
+contrast: 1.35
+brightness: 0.01
+saturation: 1.01
+gamma: 1.03
+gamma_r: 0.9
+gamma_g: 1.06
+gamma_b: 0.98
+vignette: 10
+temp: 7844
