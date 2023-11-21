@@ -1,0 +1,28 @@
+tweet_id: 1727091157040025963
+masto_id: 111450888480914949
+subre_id: Not uploaded, but here's the text: Another Tuesday, another Mandelbrot Set!  #AI #MachineLearning
+
+n_iter: 756
+ct: 51
+hue_offset: 345
+saturation: 0.9
+
+num_attempts: 126
+dur: 66
+std: 158.27
+size: 983101 (960.06 KiB)
+
+xmin: -1.220803901681017
+xmax: -1.220276961883889
+ymin: -0.15422780358835453
+ymax: -0.15393139995246993
+
+contrast: 1.29
+brightness: 0.13
+saturation: 1.57
+gamma: 1.1
+gamma_r: 0.92
+gamma_g: 1.01
+gamma_b: 1.0
+vignette: 26
+temp: 2658
