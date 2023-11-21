@@ -1,0 +1,31 @@
+tweet_id: 1727099320179331146
+masto_id: 111451016088572682
+subre_id: Not uploaded, but here's the text: Ever heard of this Newton?  #Math #Mathematics
+
+newton_power: 3
+newton_const: -4
+
+n_iter: 117
+ct: 77
+hue_offset: 80
+saturation: -0.45
+
+num_attempts: 522
+dur: 600
+std: 4.31
+size: 1060673 (1.01 MiB)
+
+xmin: 0.6031235247694178
+xmax: 0.6153684227286015
+ymin: -0.846196968774038
+ymax: -0.8393092136719973
+
+contrast: 0.84
+brightness: 0.22
+saturation: 1.15
+gamma: 0.94
+gamma_r: 1.04
+gamma_g: 0.94
+gamma_b: 0.92
+vignette: -42
+temp: 7820
