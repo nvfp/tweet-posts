@@ -1,0 +1,28 @@
+tweet_id: 1726795555290902705
+masto_id: 111446269596248811
+subre_id: Not uploaded, but here's the text: Feeling the Multibrot vibes today!  #Fractals #Nature
+
+n_iter: 430
+ct: 1
+hue_offset: 154
+saturation: 0.66
+
+num_attempts: 490
+dur: 603
+std: 59.35
+size: 579093 (565.52 KiB)
+
+xmin: 0.5294723930632799
+xmax: 0.5461390597299466
+ymin: -0.34725233552997525
+ymax: -0.33787733552997523
+
+contrast: 1.75
+brightness: -0.04
+saturation: 1.22
+gamma: 0.99
+gamma_r: 0.94
+gamma_g: 0.97
+gamma_b: 1.03
+vignette: 19
+temp: 3692
