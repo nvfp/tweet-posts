@@ -1,0 +1,28 @@
+tweet_id: 1727448375602143463
+masto_id: 111456469963785459
+subre_id: Not uploaded, but here's the text: Enjoying the Wednesday with this Burning Ship.  #Programming #DeepLearning
+
+n_iter: 381
+ct: 86
+hue_offset: 120
+saturation: -0.45
+
+num_attempts: 1
+dur: 0
+std: 39.86
+size: 2226933 (2.12 MiB)
+
+xmin: -0.7107546835782097
+xmax: -0.6455372922738619
+ymin: -0.8680262534710812
+ymax: -0.8313414708623855
+
+contrast: 0.89
+brightness: 0.19
+saturation: 0.27
+gamma: 1.03
+gamma_r: 0.95
+gamma_g: 0.99
+gamma_b: 1.05
+vignette: -23
+temp: 3479
