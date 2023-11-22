@@ -1,0 +1,28 @@
+tweet_id: 1727216645519892501
+masto_id: 111452849139583566
+subre_id: Not uploaded, but here's the text: Enjoying the Wednesday with this Multibrot.  #Math #Art
+
+n_iter: 355
+ct: 1
+hue_offset: 255
+saturation: 0.26
+
+num_attempts: 555
+dur: 604
+std: 47.85
+size: 703844 (687.35 KiB)
+
+xmin: 0.6035788628072294
+xmax: 0.6093425515680363
+ymin: 0.5464107273159984
+ymax: 0.5496528022439523
+
+contrast: 1.24
+brightness: 0.06
+saturation: 0.39
+gamma: 0.93
+gamma_r: 0.92
+gamma_g: 1.02
+gamma_b: 0.94
+vignette: -29
+temp: 2533
