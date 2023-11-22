@@ -1,0 +1,28 @@
+tweet_id: 1727242205822369893
+masto_id: 111453248703098387
+subre_id: Not uploaded, but here's the text: Surprise! Mandelbrot Set!  #Art #DigitalArt
+
+n_iter: 377
+ct: 191
+hue_offset: 211
+saturation: 0.2
+
+num_attempts: 78
+dur: 19
+std: 46.98
+size: 1016323 (992.5 KiB)
+
+xmin: -0.2537838508691057
+xmax: -0.23156162864688348
+ymin: -0.6643244142983524
+ymax: -0.6518244142983525
+
+contrast: 0.85
+brightness: 0.17
+saturation: 1.11
+gamma: 1.1
+gamma_r: 0.94
+gamma_g: 1.04
+gamma_b: 0.98
+vignette: -41
+temp: 2171
