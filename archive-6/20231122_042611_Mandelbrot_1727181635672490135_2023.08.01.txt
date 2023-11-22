@@ -1,0 +1,28 @@
+tweet_id: 1727181635672490135
+masto_id: 111452302304487359
+subre_id: Not uploaded, but here's the text: Smile, it's Wednesday!  #Art #DeepLearning
+
+n_iter: 167
+ct: 123
+hue_offset: 80
+saturation: 0.3
+
+num_attempts: 40
+dur: 9
+std: 20.87
+size: 907081 (885.82 KiB)
+
+xmin: -0.3884025878469939
+xmax: -0.38798726233562436
+ymin: -0.6425280905290096
+ymax: -0.6422944699288643
+
+contrast: 0.91
+brightness: 0.06
+saturation: 0.91
+gamma: 1.07
+gamma_r: 1.1
+gamma_g: 1.07
+gamma_b: 1.08
+vignette: 7
+temp: 5954
