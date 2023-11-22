@@ -1,0 +1,28 @@
+tweet_id: 1727457438431908239
+masto_id: 111456611795610772
+subre_id: Not uploaded, but here's the text: Guess what? It's Multibrot!  #DigitalArt #Math
+
+n_iter: 477
+ct: 1
+hue_offset: 244
+saturation: -0.84
+
+num_attempts: 517
+dur: 604
+std: 77.3
+size: 1369949 (1.31 MiB)
+
+xmin: -0.23805498777970335
+xmax: -0.22421415732987637
+ymin: -0.7285086741474418
+ymax: -0.7207232070194142
+
+contrast: 1.15
+brightness: 0.08
+saturation: 1.0
+gamma: 1.02
+gamma_r: 0.93
+gamma_g: 0.98
+gamma_b: 1.08
+vignette: -45
+temp: 4247
