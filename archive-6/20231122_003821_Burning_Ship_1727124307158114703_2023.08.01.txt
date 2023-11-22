@@ -1,0 +1,28 @@
+tweet_id: 1727124307158114703
+masto_id: 111451406410936640
+subre_id: Not uploaded, but here's the text: Wednesday is shining brightly, just like this Burning Ship.  #Math #DigitalArt
+
+n_iter: 510
+ct: 231
+hue_offset: 290
+saturation: -0.19
+
+num_attempts: 10
+dur: 3
+std: 77.56
+size: 1695972 (1.62 MiB)
+
+xmin: 0.33431461685662267
+xmax: 0.5009812835232893
+ymin: -1.2144306768767161
+ymax: -1.1206806768767161
+
+contrast: 1.42
+brightness: -0.05
+saturation: 1.15
+gamma: 1.09
+gamma_r: 1.08
+gamma_g: 1.02
+gamma_b: 1.01
+vignette: -30
+temp: 7756
