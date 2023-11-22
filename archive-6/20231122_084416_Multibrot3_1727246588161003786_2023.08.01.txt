@@ -1,0 +1,28 @@
+tweet_id: 1727246588161003786
+masto_id: 111453317105870527
+subre_id: Not uploaded, but here's the text: Wednesday vibes!  #Science #Fractals
+
+n_iter: 377
+ct: 1
+hue_offset: 349
+saturation: -0.97
+
+num_attempts: 571
+dur: 601
+std: 60.92
+size: 1443191 (1.38 MiB)
+
+xmin: 0.5420934198691709
+xmax: 0.5472150587936268
+ymin: 0.21704291506084905
+ymax: 0.21992383695585546
+
+contrast: 1.04
+brightness: 0.17
+saturation: 1.19
+gamma: 1.09
+gamma_r: 0.92
+gamma_g: 1.06
+gamma_b: 0.96
+vignette: 23
+temp: 4373
