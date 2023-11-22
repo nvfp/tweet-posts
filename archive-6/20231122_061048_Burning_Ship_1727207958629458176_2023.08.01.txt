@@ -1,0 +1,28 @@
+tweet_id: 1727207958629458176
+masto_id: 111452713627920937
+subre_id: Not uploaded, but here's the text: Let's make it a memorable Wednesday!  #Nature #Science
+
+n_iter: 509
+ct: 228
+hue_offset: 79
+saturation: 0.94
+
+num_attempts: 3
+dur: 2
+std: 24.18
+size: 1082505 (1.03 MiB)
+
+xmin: -1.3441862430017633
+xmax: -1.2738737430017633
+ymin: -0.4488701094705676
+ymax: -0.4093193282205676
+
+contrast: 1.05
+brightness: -0.03
+saturation: 0.87
+gamma: 1.03
+gamma_r: 1.03
+gamma_g: 0.95
+gamma_b: 1.05
+vignette: -38
+temp: 4364
