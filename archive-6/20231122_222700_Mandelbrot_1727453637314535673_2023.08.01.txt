@@ -1,0 +1,28 @@
+tweet_id: 1727453637314535673
+masto_id: 111456552219187377
+subre_id: Not uploaded, but here's the text: Wednesday vibes!  #DigitalArt #Math
+
+n_iter: 577
+ct: 131
+hue_offset: 2
+saturation: 0.05
+
+num_attempts: 370
+dur: 165
+std: 85.49
+size: 1273701 (1.21 MiB)
+
+xmin: 0.32666794809845
+xmax: 0.3271898006750971
+ymin: 0.5247506082676248
+ymax: 0.5250441503419887
+
+contrast: 1.67
+brightness: 0.2
+saturation: 0.75
+gamma: 1.04
+gamma_r: 1.02
+gamma_g: 1.05
+gamma_b: 1.04
+vignette: 13
+temp: 4417
