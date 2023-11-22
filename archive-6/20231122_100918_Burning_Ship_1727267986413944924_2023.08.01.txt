@@ -1,0 +1,28 @@
+tweet_id: 1727267986413944924
+masto_id: 111453651475779898
+subre_id: Not uploaded, but here's the text: This Wednesday is made even better by this Burning Ship!  #Mathematics #Fractals
+
+n_iter: 279
+ct: 33
+hue_offset: 298
+saturation: -0.48
+
+num_attempts: 41
+dur: 10
+std: 23.02
+size: 820345 (801.12 KiB)
+
+xmin: -0.19089805770721258
+xmax: -0.07247700507563364
+ymin: 0.17020652780583845
+ymax: 0.2368183699111016
+
+contrast: 0.73
+brightness: -0.03
+saturation: 1.4
+gamma: 1.05
+gamma_r: 1.06
+gamma_g: 1.05
+gamma_b: 1.0
+vignette: -39
+temp: 7903
