@@ -1,0 +1,28 @@
+tweet_id: 1727328101795836366
+masto_id: 111454590650997494
+subre_id: Not uploaded, but here's the text: Keep smiling!  #Nature #Mathematics
+
+n_iter: 150
+ct: 55
+hue_offset: 236
+saturation: 0.36
+
+num_attempts: 58
+dur: 10
+std: 24.07
+size: 1357556 (1.29 MiB)
+
+xmin: -0.3270830525989372
+xmax: -0.22243188980823952
+ymin: -0.9904671623085786
+ymax: -0.9316008832388111
+
+contrast: 1.04
+brightness: -0.09
+saturation: 0.47
+gamma: 1.05
+gamma_r: 1.05
+gamma_g: 0.96
+gamma_b: 1.02
+vignette: -1
+temp: 3172
