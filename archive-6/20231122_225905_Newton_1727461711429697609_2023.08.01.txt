@@ -1,0 +1,31 @@
+tweet_id: 1727461711429697609
+masto_id: 111456678410063631
+subre_id: Not uploaded, but here's the text: Have an extraordinary Wednesday!  #Art #DeepLearning
+
+newton_power: 5
+newton_const: -7
+
+n_iter: 233
+ct: 77
+hue_offset: 37
+saturation: -0.55
+
+num_attempts: 205
+dur: 602
+std: 12.08
+size: 961636 (939.1 KiB)
+
+xmin: -0.5665801809166076
+xmax: -0.47427248860891524
+ymin: -1.5943378072120673
+ymax: -1.5424147302889903
+
+contrast: 1.62
+brightness: -0.06
+saturation: 1.62
+gamma: 1.06
+gamma_r: 0.96
+gamma_g: 1.01
+gamma_b: 0.97
+vignette: -45
+temp: 2015
