@@ -1,0 +1,28 @@
+tweet_id: 1727273310348788090
+masto_id: 111453734585430888
+subre_id: Not uploaded, but here's the text: you are fantastic!  #AI #Mathematics
+
+n_iter: 975
+ct: 8
+hue_offset: 329
+saturation: 0.43
+
+num_attempts: 59
+dur: 45
+std: 73.46
+size: 1618891 (1.54 MiB)
+
+xmin: -0.6747114977921216
+xmax: -0.6741814156293864
+ymin: -0.43723556475978465
+ymax: -0.43693739354324607
+
+contrast: 0.97
+brightness: 0.21
+saturation: 1.31
+gamma: 0.94
+gamma_r: 0.97
+gamma_g: 1.0
+gamma_b: 0.95
+vignette: -22
+temp: 5179
