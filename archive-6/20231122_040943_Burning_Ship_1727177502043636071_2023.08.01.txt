@@ -1,0 +1,28 @@
+tweet_id: 1727177502043636071
+masto_id: 111452237555083112
+subre_id: Not uploaded, but here's the text: Happy Wednesday! Enjoy the beauty of Burning Ship.  #DigitalArt #Math
+
+n_iter: 393
+ct: 250
+hue_offset: 352
+saturation: -0.33
+
+num_attempts: 5
+dur: 2
+std: 45.49
+size: 1888620 (1.8 MiB)
+
+xmin: -0.7558508715032757
+xmax: -0.6942070358868373
+ymin: -0.8828430397507196
+ymax: -0.8481683822164731
+
+contrast: 0.81
+brightness: 0.1
+saturation: 1.39
+gamma: 1.09
+gamma_r: 1.01
+gamma_g: 0.99
+gamma_b: 0.97
+vignette: -25
+temp: 7845
