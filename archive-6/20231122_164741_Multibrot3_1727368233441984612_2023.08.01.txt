@@ -1,0 +1,28 @@
+tweet_id: 1727368233441984612
+masto_id: 111455217969477434
+subre_id: Not uploaded, but here's the text: Brighten your Wednesday!  #Programming #Science
+
+n_iter: 519
+ct: 1
+hue_offset: 316
+saturation: 0.69
+
+num_attempts: 419
+dur: 607
+std: 59.33
+size: 916616 (895.13 KiB)
+
+xmin: -0.06467106906108921
+xmax: -0.05023063584809283
+ymin: 1.1219293987130081
+ymax: 1.1300521423953185
+
+contrast: 0.83
+brightness: -0.03
+saturation: 0.65
+gamma: 1.05
+gamma_r: 1.02
+gamma_g: 0.96
+gamma_b: 1.0
+vignette: -24
+temp: 5893
