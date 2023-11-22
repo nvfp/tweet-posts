@@ -1,0 +1,31 @@
+tweet_id: 1727159654646534422
+masto_id: 111451958784797733
+subre_id: Not uploaded, but here's the text: Look what we have here! it's Newton!  #AI #Fractals
+
+newton_power: 4
+newton_const: 3
+
+n_iter: 171
+ct: 80
+hue_offset: 236
+saturation: 0.71
+
+num_attempts: 263
+dur: 603
+std: 7.89
+size: 905034 (883.82 KiB)
+
+xmin: -0.22276399105502653
+xmax: -0.18526399105502653
+ymin: 1.2728038484113582
+ymax: 1.293897598411358
+
+contrast: 1.5
+brightness: 0.08
+saturation: 1.64
+gamma: 0.97
+gamma_r: 0.97
+gamma_g: 0.94
+gamma_b: 1.01
+vignette: 28
+temp: 5252
