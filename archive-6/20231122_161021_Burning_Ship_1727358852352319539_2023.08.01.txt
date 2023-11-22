@@ -1,0 +1,28 @@
+tweet_id: 1727358852352319539
+masto_id: 111455071201159069
+subre_id: Not uploaded, but here's the text: Let this Burning Ship inspire your Wednesday.  #VisualArt #DigitalArt
+
+n_iter: 383
+ct: 182
+hue_offset: 247
+saturation: 0.7
+
+num_attempts: 32
+dur: 8
+std: 63.35
+size: 2004767 (1.91 MiB)
+
+xmin: -0.10830269936444559
+xmax: -0.03572205420315526
+ymin: -1.0305264332479371
+ymax: -0.9896998203447114
+
+contrast: 0.95
+brightness: -0.07
+saturation: 1.12
+gamma: 0.98
+gamma_r: 1.02
+gamma_g: 0.91
+gamma_b: 0.9
+vignette: -21
+temp: 3293
