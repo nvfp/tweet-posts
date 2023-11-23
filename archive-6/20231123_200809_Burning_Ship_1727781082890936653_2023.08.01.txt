@@ -1,0 +1,28 @@
+tweet_id: 1727781082890936653
+masto_id: 111461668556690611
+subre_id: Not uploaded, but here's the text: Ever heard of this Burning Ship?  #VisualArt #DigitalArt
+
+n_iter: 139
+ct: 138
+hue_offset: 120
+saturation: -0.53
+
+num_attempts: 38
+dur: 8
+std: 22.17
+size: 2004712 (1.91 MiB)
+
+xmin: -0.297108807102894
+xmax: -0.250233807102894
+ymin: -1.0028762925693666
+ymax: -0.9765091050693666
+
+contrast: 1.58
+brightness: -0.05
+saturation: 0.42
+gamma: 1.1
+gamma_r: 0.93
+gamma_g: 1.05
+gamma_b: 0.94
+vignette: -23
+temp: 2273
