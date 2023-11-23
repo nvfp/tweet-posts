@@ -1,0 +1,28 @@
+tweet_id: 1727600467746939197
+masto_id: 111458846566633581
+subre_id: Not uploaded, but here's the text: Thursday vibes!  #Mathematics #VisualArt
+
+n_iter: 329
+ct: 105
+hue_offset: 242
+saturation: 0.48
+
+num_attempts: 2
+dur: 2
+std: 22.67
+size: 702504 (686.04 KiB)
+
+xmin: -1.0192298268651503
+xmax: -0.8828661905015139
+ymin: -0.5283149051472542
+ymax: -0.4516103596927088
+
+contrast: 1.35
+brightness: 0.23
+saturation: 1.59
+gamma: 1.03
+gamma_r: 0.95
+gamma_g: 0.9
+gamma_b: 0.93
+vignette: -44
+temp: 3697
