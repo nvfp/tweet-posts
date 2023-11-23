@@ -1,0 +1,28 @@
+tweet_id: 1727730390159302834
+masto_id: 111460876569143774
+subre_id: Not uploaded, but here's the text: How's your day?  #Mathematics #Art
+
+n_iter: 321
+ct: 1
+hue_offset: 166
+saturation: 0.57
+
+num_attempts: 703
+dur: 604
+std: 59.68
+size: 1500855 (1.43 MiB)
+
+xmin: 0.17130991786303307
+xmax: 0.17901704695744539
+ymin: 0.743389880468293
+ymax: 0.7477251405838999
+
+contrast: 0.86
+brightness: -0.03
+saturation: 1.24
+gamma: 1.09
+gamma_r: 1.01
+gamma_g: 0.94
+gamma_b: 1.01
+vignette: 25
+temp: 4162
