@@ -1,0 +1,31 @@
+tweet_id: 1727505237634953383
+masto_id: 111457358590184385
+subre_id: Not uploaded, but here's the text: Wishing you a wonderful Thursday!  #Programming #Science
+
+newton_power: 7
+newton_const: -5
+
+n_iter: 117
+ct: 168
+hue_offset: 111
+saturation: 0.01
+
+num_attempts: 162
+dur: 615
+std: 21.97
+size: 1065851 (1.02 MiB)
+
+xmin: -0.9816875970375061
+xmax: 0.21831240296249388
+ymin: 7.54249839451937e-05
+ymax: 0.6750754249839451
+
+contrast: 1.03
+brightness: -0.03
+saturation: 0.94
+gamma: 0.95
+gamma_r: 0.96
+gamma_g: 1.09
+gamma_b: 1.03
+vignette: 15
+temp: 4700
