@@ -1,0 +1,28 @@
+tweet_id: 1727539834313449930
+masto_id: 111457899015771793
+subre_id: Not uploaded, but here's the text: Beautiful Thursday with this Burning Ship!  #Fractals #VisualArt
+
+n_iter: 263
+ct: 188
+hue_offset: 4
+saturation: -0.75
+
+num_attempts: 9
+dur: 1
+std: 38.96
+size: 2236174 (2.13 MiB)
+
+xmin: -0.5695071327884438
+xmax: -0.4957366409851651
+ymin: -0.8868947275990438
+ymax: -0.8453988259596995
+
+contrast: 1.38
+brightness: 0.06
+saturation: 0.89
+gamma: 1.01
+gamma_r: 1.03
+gamma_g: 0.94
+gamma_b: 1.04
+vignette: -9
+temp: 6096
