@@ -1,0 +1,28 @@
+tweet_id: 1727574549833589017
+masto_id: 111458441549416056
+subre_id: Not uploaded, but here's the text: Hey there, it's Thursday!  #Nature #Programming
+
+n_iter: 902
+ct: 200
+hue_offset: 158
+saturation: -0.82
+
+num_attempts: 20
+dur: 16
+std: 22.41
+size: 316132 (308.72 KiB)
+
+xmin: -0.6484073829556216
+xmax: -0.6478219885461383
+ymin: 0.4278793408187891
+ymax: 0.4282086251741235
+
+contrast: 1.05
+brightness: -0.0
+saturation: 0.26
+gamma: 1.08
+gamma_r: 1.0
+gamma_g: 0.98
+gamma_b: 0.92
+vignette: 2
+temp: 4141
