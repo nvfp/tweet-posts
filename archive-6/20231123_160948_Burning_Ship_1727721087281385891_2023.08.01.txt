@@ -1,0 +1,28 @@
+tweet_id: 1727721087281385891
+masto_id: 111460731325855695
+subre_id: Not uploaded, but here's the text: Let's make it a memorable Thursday!  #Programming #DigitalArt
+
+n_iter: 345
+ct: 156
+hue_offset: 263
+saturation: 0.58
+
+num_attempts: 7
+dur: 2
+std: 35.08
+size: 1081025 (1.03 MiB)
+
+xmin: 0.022182605972213665
+xmax: 0.11401934066609122
+ymin: -1.1768224186266738
+ymax: -1.1251642553613677
+
+contrast: 0.98
+brightness: 0.13
+saturation: 1.14
+gamma: 1.03
+gamma_r: 1.02
+gamma_g: 1.08
+gamma_b: 0.96
+vignette: -7
+temp: 5824
