@@ -1,0 +1,28 @@
+tweet_id: 1727570303658635534
+masto_id: 111458375094953846
+subre_id: Not uploaded, but here's the text: Wow, guess what? it's Burning Ship!  #DeepLearning #Fractals
+
+n_iter: 359
+ct: 156
+hue_offset: 109
+saturation: -0.97
+
+num_attempts: 15
+dur: 4
+std: 53.95
+size: 2264010 (2.16 MiB)
+
+xmin: -0.5073270750237033
+xmax: -0.33425015194678026
+ymin: -0.9623957630707485
+ymax: -0.8650399938399792
+
+contrast: 0.82
+brightness: 0.22
+saturation: 0.26
+gamma: 1.03
+gamma_r: 1.04
+gamma_g: 1.02
+gamma_b: 1.09
+vignette: -24
+temp: 6805
