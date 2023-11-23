@@ -1,0 +1,31 @@
+tweet_id: 1727582524203827525
+masto_id: 111458566131227293
+subre_id: Not uploaded, but here's the text: Hope your Thursday is awesome!  #VisualArt #Science
+
+newton_power: 3
+newton_const: 8
+
+n_iter: 88
+ct: 137
+hue_offset: 328
+saturation: -0.55
+
+num_attempts: 525
+dur: 600
+std: 3.97
+size: 626432 (611.75 KiB)
+
+xmin: 0.8064475004752367
+xmax: 0.8161719737329353
+ymin: 0.3418799898013254
+ymax: 0.3473500060087808
+
+contrast: 1.33
+brightness: 0.09
+saturation: 1.39
+gamma: 0.99
+gamma_r: 0.94
+gamma_g: 0.92
+gamma_b: 1.05
+vignette: 27
+temp: 6457
