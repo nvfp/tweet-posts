@@ -1,0 +1,28 @@
+tweet_id: 1727486303694917773
+masto_id: 111457062622509960
+subre_id: Not uploaded, but here's the text: This Thursday is made even better by this Burning Ship!  #MachineLearning #Art
+
+n_iter: 152
+ct: 214
+hue_offset: 294
+saturation: 0.4
+
+num_attempts: 94
+dur: 18
+std: 26.05
+size: 1382950 (1.32 MiB)
+
+xmin: -1.1569859910212257
+xmax: -1.1064241932684167
+ymin: -0.463140695065386
+ymax: -0.43469968382943097
+
+contrast: 0.97
+brightness: 0.1
+saturation: 0.58
+gamma: 1.0
+gamma_r: 0.98
+gamma_g: 0.9
+gamma_b: 0.95
+vignette: -35
+temp: 5116
