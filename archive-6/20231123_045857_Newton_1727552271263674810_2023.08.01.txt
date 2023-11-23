@@ -1,0 +1,31 @@
+tweet_id: 1727552271263674810
+masto_id: 111458093486414939
+subre_id: Not uploaded, but here's the text: Having a blast on Thursday?  #Science #Fractals
+
+newton_power: 7
+newton_const: -7
+
+n_iter: 125
+ct: 119
+hue_offset: 319
+saturation: -0.98
+
+num_attempts: 168
+dur: 601
+std: 39.32
+size: 979945 (956.98 KiB)
+
+xmin: -0.033853550163415846
+xmax: 0.13757502126515558
+ymin: -0.10213901467850794
+ymax: -0.0057104432499365115
+
+contrast: 1.11
+brightness: -0.06
+saturation: 0.87
+gamma: 1.07
+gamma_r: 0.95
+gamma_g: 1.08
+gamma_b: 0.96
+vignette: -39
+temp: 2829
