@@ -1,0 +1,28 @@
+tweet_id: 1727578704606273696
+masto_id: 111458506353524626
+subre_id: Not uploaded, but here's the text: Cheers to a fantastic Thursday!  #Science #Nature
+
+n_iter: 592
+ct: 255
+hue_offset: 23
+saturation: -0.78
+
+num_attempts: 374
+dur: 601
+std: 89.6
+size: 1364947 (1.3 MiB)
+
+xmin: 0.20371588399316298
+xmax: 0.21158989974119446
+ymin: 0.9802550729759276
+ymax: 0.9846842068341953
+
+contrast: 0.78
+brightness: -0.06
+saturation: 1.44
+gamma: 0.99
+gamma_r: 1.05
+gamma_g: 1.0
+gamma_b: 1.0
+vignette: -42
+temp: 6029
