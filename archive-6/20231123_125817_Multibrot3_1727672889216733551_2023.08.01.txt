@@ -1,0 +1,28 @@
+tweet_id: 1727672889216733551
+masto_id: 111459978017311514
+subre_id: Not uploaded, but here's the text: Happy Thursday! Enjoy the beauty of Multibrot.  #Art #DeepLearning
+
+n_iter: 440
+ct: 255
+hue_offset: 197
+saturation: -0.9
+
+num_attempts: 623
+dur: 602
+std: 62.92
+size: 589012 (575.21 KiB)
+
+xmin: -0.1992962576116426
+xmax: -0.1928446447084168
+ymin: -1.1296521369460564
+ymax: -1.1260231046879918
+
+contrast: 1.17
+brightness: -0.04
+saturation: 1.71
+gamma: 1.01
+gamma_r: 0.95
+gamma_g: 1.06
+gamma_b: 0.91
+vignette: -27
+temp: 3187
