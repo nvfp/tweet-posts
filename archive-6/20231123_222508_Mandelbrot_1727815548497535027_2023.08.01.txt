@@ -1,0 +1,28 @@
+tweet_id: 1727815548497535027
+masto_id: 111462207227553113
+subre_id: Not uploaded, but here's the text: Happy Thursday! Enjoy the beauty of Mandelbrot Set.  #Programming #MachineLearning
+
+n_iter: 856
+ct: 97
+hue_offset: 266
+saturation: -0.72
+
+num_attempts: 58
+dur: 17
+std: 26.66
+size: 1211808 (1.16 MiB)
+
+xmin: -0.551037941483997
+xmax: -0.5505795938272994
+ymin: -0.6053683834196506
+ymax: -0.6051105628627582
+
+contrast: 1.58
+brightness: -0.09
+saturation: 0.57
+gamma: 0.93
+gamma_r: 1.09
+gamma_g: 0.93
+gamma_b: 0.99
+vignette: 18
+temp: 3739
