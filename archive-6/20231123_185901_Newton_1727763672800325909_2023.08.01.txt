@@ -1,0 +1,31 @@
+tweet_id: 1727763672800325909
+masto_id: 111461396703551702
+subre_id: Not uploaded, but here's the text: Have a great day!  #Nature #DeepLearning
+
+newton_power: 3
+newton_const: 8
+
+n_iter: 226
+ct: 15
+hue_offset: 273
+saturation: -0.84
+
+num_attempts: 505
+dur: 600
+std: 4.3
+size: 804572 (785.71 KiB)
+
+xmin: -0.15022415865906114
+xmax: -0.07615008458498707
+ymin: 0.9263832429435306
+ymax: 0.9680499096101972
+
+contrast: 0.73
+brightness: -0.02
+saturation: 1.2
+gamma: 1.1
+gamma_r: 1.05
+gamma_g: 1.09
+gamma_b: 1.1
+vignette: -11
+temp: 4175
