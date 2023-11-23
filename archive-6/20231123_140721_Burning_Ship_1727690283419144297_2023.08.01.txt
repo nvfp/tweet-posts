@@ -1,0 +1,28 @@
+tweet_id: 1727690283419144297
+masto_id: 111460249842427285
+subre_id: Not uploaded, but here's the text: Having a blast on Thursday?  #AI #Mathematics
+
+n_iter: 244
+ct: 13
+hue_offset: 283
+saturation: -0.59
+
+num_attempts: 6
+dur: 1
+std: 33.27
+size: 1577733 (1.5 MiB)
+
+xmin: -0.7548029225325636
+xmax: -0.6844904225325636
+ymin: -0.8469661046428663
+ymax: -0.8074153233928663
+
+contrast: 1.04
+brightness: -0.04
+saturation: 1.69
+gamma: 0.96
+gamma_r: 1.05
+gamma_g: 0.91
+gamma_b: 0.96
+vignette: 2
+temp: 3264
