@@ -1,0 +1,31 @@
+tweet_id: 1727793884829282576
+masto_id: 111461868805234077
+subre_id: Not uploaded, but here's the text: Have an awesome Thursday!  #Art #Math
+
+newton_power: 6
+newton_const: 9
+
+n_iter: 65
+ct: 223
+hue_offset: 356
+saturation: 0.31
+
+num_attempts: 186
+dur: 601
+std: 14.36
+size: 639101 (624.12 KiB)
+
+xmin: -1.6295172243973368
+xmax: -1.356789951670064
+ymin: -0.11600807803572644
+ymax: 0.03740101287336445
+
+contrast: 0.93
+brightness: 0.1
+saturation: 1.31
+gamma: 1.07
+gamma_r: 1.03
+gamma_g: 0.94
+gamma_b: 1.08
+vignette: -5
+temp: 2072
