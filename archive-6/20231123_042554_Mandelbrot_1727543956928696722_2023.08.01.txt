@@ -1,0 +1,28 @@
+tweet_id: 1727543956928696722
+masto_id: 111457963510976266
+subre_id: Not uploaded, but here's the text: Surprise! It's a Mandelbrot Set!  #Science #Nature
+
+n_iter: 493
+ct: 5
+hue_offset: 136
+saturation: 0.86
+
+num_attempts: 11
+dur: 1
+std: 28.11
+size: 1375981 (1.31 MiB)
+
+xmin: 0.24760313492013797
+xmax: 0.248022686000482
+ymin: 0.5805346216419343
+ymax: 0.5807706191246278
+
+contrast: 1.75
+brightness: -0.06
+saturation: 1.27
+gamma: 1.07
+gamma_r: 0.98
+gamma_g: 0.95
+gamma_b: 1.02
+vignette: 33
+temp: 6989
