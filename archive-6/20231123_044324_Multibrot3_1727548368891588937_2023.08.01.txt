@@ -1,0 +1,28 @@
+tweet_id: 1727548368891588937
+masto_id: 111458032304452762
+subre_id: Not uploaded, but here's the text: Brighten your Thursday!  #Science #Mathematics
+
+n_iter: 345
+ct: 1
+hue_offset: 22
+saturation: 0.26
+
+num_attempts: 633
+dur: 604
+std: 63.47
+size: 619143 (604.63 KiB)
+
+xmin: -0.3917185551811848
+xmax: -0.38384453943315333
+ymin: -0.6260289138040858
+ymax: -0.621599779945818
+
+contrast: 1.73
+brightness: -0.03
+saturation: 0.47
+gamma: 1.09
+gamma_r: 1.03
+gamma_g: 1.09
+gamma_b: 1.08
+vignette: 0
+temp: 3098
