@@ -1,0 +1,31 @@
+tweet_id: 1728156213035122920
+masto_id: 111467529899507339
+subre_id: Not uploaded, but here's the text: Smile on this lovely day!  #Science #AI
+
+newton_power: 5
+newton_const: 7
+
+n_iter: 70
+ct: 139
+hue_offset: 286
+saturation: -0.23
+
+num_attempts: 202
+dur: 601
+std: 33.41
+size: 58994 (57.61 KiB)
+
+xmin: -0.009374082819661123
+xmax: -0.0003515264286836784
+ymin: 0.026567456401579204
+ymax: 0.03164264437150402
+
+contrast: 1.61
+brightness: 0.22
+saturation: 1.29
+gamma: 0.96
+gamma_r: 0.96
+gamma_g: 0.94
+gamma_b: 1.06
+vignette: 1
+temp: 2697
