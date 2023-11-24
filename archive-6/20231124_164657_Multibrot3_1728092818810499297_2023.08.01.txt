@@ -1,0 +1,28 @@
+tweet_id: 1728092818810499297
+masto_id: 111466539470575358
+subre_id: Not uploaded, but here's the text: Hope you have an amazing Friday!  #Programming #DigitalArt
+
+n_iter: 506
+ct: 1
+hue_offset: 12
+saturation: -0.32
+
+num_attempts: 545
+dur: 602
+std: 81.67
+size: 866710 (846.4 KiB)
+
+xmin: -0.3519926342108701
+xmax: -0.3440086022747424
+ymin: 0.6532062679789767
+ymax: 0.6576972859430485
+
+contrast: 1.68
+brightness: 0.19
+saturation: 1.65
+gamma: 0.93
+gamma_r: 0.91
+gamma_g: 1.02
+gamma_b: 1.06
+vignette: 19
+temp: 6512
