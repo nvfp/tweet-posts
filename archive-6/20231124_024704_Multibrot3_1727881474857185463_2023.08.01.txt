@@ -1,0 +1,28 @@
+tweet_id: 1727881474857185463
+masto_id: 111463237202930807
+subre_id: Not uploaded, but here's the text: You rock, and so does this Friday!  #Art #DeepLearning
+
+n_iter: 459
+ct: 255
+hue_offset: 73
+saturation: 0.17
+
+num_attempts: 560
+dur: 602
+std: 72.89
+size: 1245098 (1.19 MiB)
+
+xmin: 0.5091641191818495
+xmax: 0.5138152819725471
+ymin: -0.4496147199323144
+ymax: -0.4469984408625469
+
+contrast: 1.19
+brightness: -0.04
+saturation: 0.29
+gamma: 1.01
+gamma_r: 0.93
+gamma_g: 0.95
+gamma_b: 0.94
+vignette: 24
+temp: 3741
