@@ -1,0 +1,28 @@
+tweet_id: 1728083411430941010
+masto_id: 111466392866934471
+subre_id: Not uploaded, but here's the text: Hey there, it's Friday!  #MachineLearning #AI
+
+n_iter: 232
+ct: 81
+hue_offset: 215
+saturation: -0.99
+
+num_attempts: 5
+dur: 0
+std: 21.74
+size: 934406 (912.51 KiB)
+
+xmin: -1.0403526614753993
+xmax: 0.08464733852460071
+ymin: -1.5492293315814665
+ymax: -0.9164168315814665
+
+contrast: 1.04
+brightness: -0.02
+saturation: 0.44
+gamma: 0.95
+gamma_r: 0.98
+gamma_g: 1.08
+gamma_b: 1.03
+vignette: -22
+temp: 2348
