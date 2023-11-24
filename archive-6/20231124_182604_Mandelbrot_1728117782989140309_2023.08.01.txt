@@ -1,0 +1,28 @@
+tweet_id: 1728117782989140309
+masto_id: 111466929476679948
+subre_id: Not uploaded, but here's the text: you are fantastic!  #Programming #Mathematics
+
+n_iter: 938
+ct: 1
+hue_offset: 123
+saturation: 0.63
+
+num_attempts: 21
+dur: 8
+std: 156.03
+size: 753097 (735.45 KiB)
+
+xmin: -0.4121182265299508
+xmax: -0.41168612109622493
+ymin: 0.5759534832592428
+ymax: 0.5761965425657135
+
+contrast: 1.72
+brightness: 0.07
+saturation: 0.99
+gamma: 0.94
+gamma_r: 0.94
+gamma_g: 0.93
+gamma_b: 0.97
+vignette: 3
+temp: 5031
