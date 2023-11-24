@@ -1,0 +1,28 @@
+tweet_id: 1728088069356609954
+masto_id: 111466465198553389
+subre_id: Not uploaded, but here's the text: Warm wishes for your Friday, and let's have a look at this Mandelbrot Set.  #Fractals #DeepLearning
+
+n_iter: 996
+ct: 194
+hue_offset: 286
+saturation: 0.5
+
+num_attempts: 9
+dur: 8
+std: 172.08
+size: 1553221 (1.48 MiB)
+
+xmin: -0.15485063123913223
+xmax: -0.15442721639844206
+ymin: 0.6536256714543949
+ymax: 0.6538638423022831
+
+contrast: 1.34
+brightness: -0.04
+saturation: 0.73
+gamma: 1.07
+gamma_r: 1.08
+gamma_g: 1.06
+gamma_b: 0.96
+vignette: -29
+temp: 5527
