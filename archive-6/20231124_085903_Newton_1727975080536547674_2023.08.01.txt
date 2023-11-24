@@ -1,0 +1,31 @@
+tweet_id: 1727975080536547674
+masto_id: 111464699883897672
+subre_id: Not uploaded, but here's the text: Another Friday, another Newton!  #Mathematics #Art
+
+newton_power: 4
+newton_const: 6
+
+n_iter: 158
+ct: 106
+hue_offset: 327
+saturation: -0.56
+
+num_attempts: 260
+dur: 601
+std: 8.6
+size: 1006483 (982.89 KiB)
+
+xmin: 1.0744483646250655
+xmax: 1.0858552087315294
+ymin: 0.4039150472726143
+ymax: 0.4103313970825002
+
+contrast: 1.19
+brightness: 0.13
+saturation: 0.36
+gamma: 1.06
+gamma_r: 1.05
+gamma_g: 0.91
+gamma_b: 0.99
+vignette: -48
+temp: 2465
