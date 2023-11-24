@@ -1,0 +1,28 @@
+tweet_id: 1728024157017800712
+masto_id: 111465466597243256
+subre_id: Not uploaded, but here's the text: Happy Friday! Enjoy the beauty of Burning Ship.  #Art #DeepLearning
+
+n_iter: 371
+ct: 42
+hue_offset: 143
+saturation: 0.55
+
+num_attempts: 14
+dur: 5
+std: 41.59
+size: 1338587 (1.28 MiB)
+
+xmin: -0.028914050957328907
+xmax: 0.29251452047124255
+ymin: -1.2710761114425257
+ymax: -1.0902725400139543
+
+contrast: 0.74
+brightness: -0.06
+saturation: 0.88
+gamma: 0.93
+gamma_r: 0.93
+gamma_g: 1.02
+gamma_b: 1.01
+vignette: -45
+temp: 7471
