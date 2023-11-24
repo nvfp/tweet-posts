@@ -1,0 +1,31 @@
+tweet_id: 1727914695515115919
+masto_id: 111463756373550397
+subre_id: Not uploaded, but here's the text: Wishing you a fantastic day!  #Science #DigitalArt
+
+newton_power: 5
+newton_const: -7
+
+n_iter: 139
+ct: 69
+hue_offset: 291
+saturation: 0.32
+
+num_attempts: 208
+dur: 601
+std: 12.03
+size: 715542 (698.77 KiB)
+
+xmin: 1.837482472396215
+xmax: 1.8715733814871243
+ymin: -1.6801280337874172
+ymax: -1.6609518974237807
+
+contrast: 1.26
+brightness: -0.09
+saturation: 1.57
+gamma: 0.92
+gamma_r: 1.05
+gamma_g: 0.95
+gamma_b: 1.02
+vignette: -7
+temp: 5030
