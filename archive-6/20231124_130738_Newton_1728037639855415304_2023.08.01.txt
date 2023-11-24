@@ -1,0 +1,31 @@
+tweet_id: 1728037639855415304
+masto_id: 111465677343519614
+subre_id: Not uploaded, but here's the text: Sending you this fractal on this Friday!  #Art #AI
+
+newton_power: 4
+newton_const: 9
+
+n_iter: 73
+ct: 141
+hue_offset: 18
+saturation: -0.45
+
+num_attempts: 277
+dur: 602
+std: 7.65
+size: 844988 (825.18 KiB)
+
+xmin: 0.18666947038073545
+xmax: 0.20485128856255364
+ymin: -1.5866040771292487
+ymax: -1.576376804401976
+
+contrast: 1.69
+brightness: -0.05
+saturation: 1.46
+gamma: 0.97
+gamma_r: 1.09
+gamma_g: 1.01
+gamma_b: 0.94
+vignette: 29
+temp: 7927
