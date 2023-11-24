@@ -1,0 +1,31 @@
+tweet_id: 1728065632762200089
+masto_id: 111466114646296977
+subre_id: Not uploaded, but here's the text: Look closely, it's Newton!  #Programming #DigitalArt
+
+newton_power: 7
+newton_const: 10
+
+n_iter: 237
+ct: 181
+hue_offset: 59
+saturation: 0.46
+
+num_attempts: 146
+dur: 600
+std: 25.05
+size: 1317880 (1.26 MiB)
+
+xmin: -0.28813904227437703
+xmax: -0.27700731685693736
+ymin: 1.8897813035237738
+ymax: 1.8960428990710836
+
+contrast: 0.86
+brightness: 0.18
+saturation: 1.11
+gamma: 1.06
+gamma_r: 1.07
+gamma_g: 1.08
+gamma_b: 1.02
+vignette: -25
+temp: 6689
