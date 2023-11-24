@@ -1,0 +1,28 @@
+tweet_id: 1728113554543263949
+masto_id: 111466863460755047
+subre_id: Not uploaded, but here's the text: Beautiful Friday with this Burning Ship!  #Nature #Mathematics
+
+n_iter: 361
+ct: 122
+hue_offset: 321
+saturation: 0.4
+
+num_attempts: 7
+dur: 1
+std: 44.42
+size: 1663927 (1.59 MiB)
+
+xmin: 0.46555791383022394
+xmax: 0.8117117599840701
+ymin: -1.3385810642925184
+ymax: -1.14386952583098
+
+contrast: 1.47
+brightness: 0.01
+saturation: 1.65
+gamma: 1.08
+gamma_r: 0.97
+gamma_g: 0.96
+gamma_b: 1.09
+vignette: -36
+temp: 2830
