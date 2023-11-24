@@ -1,0 +1,28 @@
+tweet_id: 1727848421003018706
+masto_id: 111462720613084343
+subre_id: Not uploaded, but here's the text: Let this Burning Ship brighten up your Friday!  #Fractals #Math
+
+n_iter: 147
+ct: 11
+hue_offset: 40
+saturation: 0.01
+
+num_attempts: 31
+dur: 6
+std: 29.25
+size: 1256674 (1.2 MiB)
+
+xmin: 0.6508649765418659
+xmax: 0.7312221193990088
+ymin: -1.163109151844917
+ymax: -1.1179082589877742
+
+contrast: 1.41
+brightness: 0.0
+saturation: 0.81
+gamma: 1.07
+gamma_r: 0.93
+gamma_g: 0.91
+gamma_b: 0.91
+vignette: 19
+temp: 6879
