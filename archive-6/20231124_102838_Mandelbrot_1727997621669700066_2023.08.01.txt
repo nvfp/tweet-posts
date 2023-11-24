@@ -1,0 +1,28 @@
+tweet_id: 1727997621669700066
+masto_id: 111465052159203764
+subre_id: Not uploaded, but here's the text: Have a great day!  #VisualArt #Nature
+
+n_iter: 789
+ct: 14
+hue_offset: 84
+saturation: -0.48
+
+num_attempts: 73
+dur: 43
+std: 55.75
+size: 895527 (874.54 KiB)
+
+xmin: 0.2859512171125136
+xmax: 0.3465572777185742
+ymin: 0.4471985878766793
+ymax: 0.4812894969675884
+
+contrast: 1.39
+brightness: -0.04
+saturation: 1.24
+gamma: 1.0
+gamma_r: 0.97
+gamma_g: 1.07
+gamma_b: 1.06
+vignette: -26
+temp: 2544
