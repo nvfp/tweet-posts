@@ -1,0 +1,28 @@
+tweet_id: 1728121883202146529
+masto_id: 111466993509598263
+subre_id: Not uploaded, but here's the text: This Friday is made even better by this Multibrot!  #Fractals #Nature
+
+n_iter: 577
+ct: 255
+hue_offset: 175
+saturation: 0.23
+
+num_attempts: 427
+dur: 607
+std: 72.06
+size: 632749 (617.92 KiB)
+
+xmin: 0.3845982312132641
+xmax: 0.39362757658572456
+ymin: 0.6883298903639159
+ymax: 0.6934088971359249
+
+contrast: 1.79
+brightness: -0.08
+saturation: 0.7
+gamma: 0.97
+gamma_r: 1.0
+gamma_g: 0.91
+gamma_b: 1.08
+vignette: -4
+temp: 7432
