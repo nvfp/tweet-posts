@@ -1,0 +1,31 @@
+tweet_id: 1728337502245646382
+masto_id: 111470362794420867
+subre_id: Not uploaded, but here's the text: Enjoy your Saturday!  #DeepLearning #AI
+
+newton_power: 3
+newton_const: 9
+
+n_iter: 110
+ct: 198
+hue_offset: 220
+saturation: 0.24
+
+num_attempts: 518
+dur: 600
+std: 4.13
+size: 448394 (437.88 KiB)
+
+xmin: -0.9917305275419261
+xmax: -0.8917305275419262
+ymin: 0.7822481013123785
+ymax: 0.8384981013123786
+
+contrast: 0.91
+brightness: 0.13
+saturation: 1.31
+gamma: 1.06
+gamma_r: 1.03
+gamma_g: 1.01
+gamma_b: 1.04
+vignette: -6
+temp: 4766
