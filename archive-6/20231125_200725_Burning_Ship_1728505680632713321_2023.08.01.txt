@@ -1,0 +1,28 @@
+tweet_id: 1728505680632713321
+masto_id: 111472990319439545
+subre_id: Not uploaded, but here's the text: you are cool  #Nature #VisualArt
+
+n_iter: 452
+ct: 255
+hue_offset: 87
+saturation: -0.06
+
+num_attempts: 1
+dur: 0
+std: 34.9
+size: 345839 (337.73 KiB)
+
+xmin: -1.7734435252754572
+xmax: -1.3234435252754573
+ymin: -0.48940678361891465
+ymax: -0.23628178361891466
+
+contrast: 1.53
+brightness: -0.05
+saturation: 1.02
+gamma: 1.02
+gamma_r: 1.04
+gamma_g: 0.98
+gamma_b: 1.01
+vignette: -21
+temp: 6017
