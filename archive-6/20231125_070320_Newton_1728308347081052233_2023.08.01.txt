@@ -1,0 +1,31 @@
+tweet_id: 1728308347081052233
+masto_id: 111469907144589076
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Saturday! You got this!  #DeepLearning #VisualArt
+
+newton_power: 4
+newton_const: 0
+
+n_iter: 148
+ct: 43
+hue_offset: 134
+saturation: -0.48
+
+num_attempts: 239
+dur: 850
+std: 1.08
+size: 656127 (640.75 KiB)
+
+xmin: -0.5754986100483386
+xmax: -0.17549861004833855
+ymin: -0.20685318860675395
+ymax: 0.01814681139324606
+
+contrast: 0.71
+brightness: 0.18
+saturation: 0.41
+gamma: 1.07
+gamma_r: 1.01
+gamma_g: 0.97
+gamma_b: 1.08
+vignette: 22
+temp: 7469
