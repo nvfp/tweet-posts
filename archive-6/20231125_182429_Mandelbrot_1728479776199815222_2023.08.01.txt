@@ -1,0 +1,28 @@
+tweet_id: 1728479776199815222
+masto_id: 111472585557364490
+subre_id: Not uploaded, but here's the text: Hope you're having a great Saturday!  #DeepLearning #Nature
+
+n_iter: 171
+ct: 103
+hue_offset: 94
+saturation: 0.63
+
+num_attempts: 12
+dur: 3
+std: 65.42
+size: 246465 (240.69 KiB)
+
+xmin: -1.2382824735394176
+xmax: -1.237607709706759
+ymin: 0.0782437199971906
+ymax: 0.07862327465306104
+
+contrast: 0.94
+brightness: -0.08
+saturation: 0.42
+gamma: 0.94
+gamma_r: 0.96
+gamma_g: 1.02
+gamma_b: 0.98
+vignette: 4
+temp: 7737
