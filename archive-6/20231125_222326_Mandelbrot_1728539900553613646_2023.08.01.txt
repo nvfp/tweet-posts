@@ -1,0 +1,28 @@
+tweet_id: 1728539900553613646
+masto_id: 111473525156993769
+subre_id: Not uploaded, but here's the text: Keep smiling!  #Programming #Math
+
+n_iter: 980
+ct: 77
+hue_offset: 288
+saturation: -0.27
+
+num_attempts: 6
+dur: 4
+std: 86.81
+size: 1640243 (1.56 MiB)
+
+xmin: -0.6825379420646196
+xmax: -0.6820019645756741
+ymin: 0.32382485067579747
+ymax: 0.3241263380133293
+
+contrast: 1.66
+brightness: -0.05
+saturation: 0.46
+gamma: 0.98
+gamma_r: 0.99
+gamma_g: 1.06
+gamma_b: 0.93
+vignette: -48
+temp: 7398
