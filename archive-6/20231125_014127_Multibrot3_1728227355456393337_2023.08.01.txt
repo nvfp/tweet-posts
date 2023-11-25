@@ -1,0 +1,28 @@
+tweet_id: 1728227355456393337
+masto_id: 111468641462804366
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Saturday! You got this!  #Nature #Science
+
+n_iter: 615
+ct: 1
+hue_offset: 308
+saturation: 0.37
+
+num_attempts: 327
+dur: 603
+std: 82.67
+size: 822958 (803.67 KiB)
+
+xmin: 0.173825012596172
+xmax: 0.19721682546166908
+ymin: 0.7367728550097823
+ymax: 0.7499307497466244
+
+contrast: 1.33
+brightness: 0.05
+saturation: 1.14
+gamma: 0.97
+gamma_r: 0.94
+gamma_g: 0.96
+gamma_b: 1.06
+vignette: 18
+temp: 5942
