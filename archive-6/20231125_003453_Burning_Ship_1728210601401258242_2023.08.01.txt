@@ -1,0 +1,28 @@
+tweet_id: 1728210601401258242
+masto_id: 111468379700268603
+subre_id: Not uploaded, but here's the text: Have an awesome Saturday!  #Programming #DeepLearning
+
+n_iter: 189
+ct: 243
+hue_offset: 151
+saturation: 0.8
+
+num_attempts: 1
+dur: 0
+std: 30.2
+size: 481181 (469.9 KiB)
+
+xmin: -1.3289537956707993
+xmax: -1.1333016217577558
+ymin: -0.38364957289640955
+ymax: -0.2735952250703226
+
+contrast: 1.46
+brightness: -0.08
+saturation: 0.33
+gamma: 1.03
+gamma_r: 1.02
+gamma_g: 1.02
+gamma_b: 1.08
+vignette: 1
+temp: 4180
