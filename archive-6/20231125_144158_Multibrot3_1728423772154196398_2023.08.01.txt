@@ -1,0 +1,28 @@
+tweet_id: 1728423772154196398
+masto_id: 111471710618512035
+subre_id: Not uploaded, but here's the text: Keep shining on Saturday!  #Programming #MachineLearning
+
+n_iter: 400
+ct: 255
+hue_offset: 348
+saturation: 0.28
+
+num_attempts: 662
+dur: 603
+std: 58.69
+size: 1002285 (978.79 KiB)
+
+xmin: 0.35737200566281047
+xmax: 0.3680958662526228
+ymin: -0.6514539741107387
+ymax: -0.6454218025289693
+
+contrast: 1.29
+brightness: -0.1
+saturation: 0.94
+gamma: 0.95
+gamma_r: 1.02
+gamma_g: 0.97
+gamma_b: 1.08
+vignette: -24
+temp: 4330
