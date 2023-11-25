@@ -1,0 +1,28 @@
+tweet_id: 1728328674729136504
+masto_id: 111470224692120231
+subre_id: Not uploaded, but here's the text: Hope you're having a great Saturday!  #Nature #Math
+
+n_iter: 275
+ct: 229
+hue_offset: 50
+saturation: -0.83
+
+num_attempts: 75
+dur: 18
+std: 89.68
+size: 1365872 (1.3 MiB)
+
+xmin: -0.5335569966381049
+xmax: -0.5329245855709112
+ymin: 0.6135720309347796
+ymax: 0.613927762160076
+
+contrast: 0.78
+brightness: -0.07
+saturation: 0.49
+gamma: 0.92
+gamma_r: 0.96
+gamma_g: 0.93
+gamma_b: 1.09
+vignette: -45
+temp: 6387
