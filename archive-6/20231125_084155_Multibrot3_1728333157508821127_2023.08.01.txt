@@ -1,0 +1,28 @@
+tweet_id: 1728333157508821127
+masto_id: 111470294805829971
+subre_id: Not uploaded, but here's the text: Another Saturday, another Multibrot!  #DeepLearning #Fractals
+
+n_iter: 609
+ct: 1
+hue_offset: 9
+saturation: 0.27
+
+num_attempts: 332
+dur: 608
+std: 104.9
+size: 1235952 (1.18 MiB)
+
+xmin: 0.4333108544120563
+xmax: 0.438386996544036
+ymin: 0.5687752271823863
+ymax: 0.5716305571316248
+
+contrast: 1.64
+brightness: 0.13
+saturation: 0.42
+gamma: 1.06
+gamma_r: 1.02
+gamma_g: 0.99
+gamma_b: 1.05
+vignette: -19
+temp: 2594
