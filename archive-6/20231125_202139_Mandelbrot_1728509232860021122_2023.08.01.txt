@@ -1,0 +1,28 @@
+tweet_id: 1728509232860021122
+masto_id: 111473046266801490
+subre_id: Not uploaded, but here's the text: Sending you this fractal on this Saturday!  #MachineLearning #AI
+
+n_iter: 649
+ct: 155
+hue_offset: 129
+saturation: 0.98
+
+num_attempts: 98
+dur: 47
+std: 30.14
+size: 710092 (693.45 KiB)
+
+xmin: -0.7122676742115686
+xmax: -0.7118591774795424
+ymin: 0.2675569695533213
+ymax: 0.26778674896508603
+
+contrast: 1.47
+brightness: 0.03
+saturation: 0.59
+gamma: 0.93
+gamma_r: 0.98
+gamma_g: 0.96
+gamma_b: 0.99
+vignette: -13
+temp: 3526
