@@ -1,0 +1,28 @@
+tweet_id: 1728414801355780200
+masto_id: 111471570512481597
+subre_id: Not uploaded, but here's the text: Have a great day!  #Art #Nature
+
+n_iter: 490
+ct: 202
+hue_offset: 330
+saturation: 0.09
+
+num_attempts: 33
+dur: 11
+std: 40.77
+size: 866318 (846.01 KiB)
+
+xmin: 0.6695582618918858
+xmax: 0.9064003671550437
+ymin: -1.1680841916676645
+ymax: -1.0348605074571382
+
+contrast: 0.88
+brightness: 0.19
+saturation: 0.61
+gamma: 1.08
+gamma_r: 1.05
+gamma_g: 0.91
+gamma_b: 0.94
+vignette: -16
+temp: 7931
