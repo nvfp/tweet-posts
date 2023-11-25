@@ -1,0 +1,28 @@
+tweet_id: 1728475792936505665
+masto_id: 111472523510933692
+subre_id: Not uploaded, but here's the text: Another Saturday, another Burning Ship!  #Programming #VisualArt
+
+n_iter: 449
+ct: 163
+hue_offset: 131
+saturation: -0.78
+
+num_attempts: 6
+dur: 4
+std: 37.39
+size: 991168 (967.94 KiB)
+
+xmin: -1.7783900704371218
+xmax: -0.27839007043712183
+ymin: -0.8594569004398693
+ymax: -0.01570690043986933
+
+contrast: 1.08
+brightness: 0.14
+saturation: 0.26
+gamma: 0.98
+gamma_r: 0.98
+gamma_g: 1.08
+gamma_b: 1.04
+vignette: 30
+temp: 5536
