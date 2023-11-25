@@ -1,0 +1,28 @@
+tweet_id: 1728222534745620842
+masto_id: 111468566293353475
+subre_id: Not uploaded, but here's the text: Cheers to a fantastic Saturday!  #VisualArt #Art
+
+n_iter: 781
+ct: 66
+hue_offset: 50
+saturation: 0.34
+
+num_attempts: 35
+dur: 23
+std: 84.67
+size: 920160 (898.59 KiB)
+
+xmin: -0.9647366214582931
+xmax: -0.914103710065888
+ymin: -0.26541828922936805
+ymax: -0.23693727657114022
+
+contrast: 1.75
+brightness: 0.14
+saturation: 1.71
+gamma: 1.03
+gamma_r: 0.95
+gamma_g: 0.94
+gamma_b: 0.93
+vignette: -19
+temp: 7341
