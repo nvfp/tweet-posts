@@ -1,0 +1,28 @@
+tweet_id: 1728786105154027561
+masto_id: 111477372055447272
+subre_id: Not uploaded, but here's the text: Good Sunday! This Multibrot is for you!  #Nature #DeepLearning
+
+n_iter: 406
+ct: 255
+hue_offset: 124
+saturation: -0.35
+
+num_attempts: 633
+dur: 604
+std: 66.72
+size: 1143966 (1.09 MiB)
+
+xmin: 0.2050931850947113
+xmax: 0.20951307459747373
+ymin: -0.9583748383434203
+ymax: -0.9558886504981164
+
+contrast: 1.72
+brightness: 0.02
+saturation: 0.25
+gamma: 1.07
+gamma_r: 0.94
+gamma_g: 0.9
+gamma_b: 1.0
+vignette: -44
+temp: 2687
