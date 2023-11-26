@@ -1,0 +1,28 @@
+tweet_id: 1728635201730089090
+masto_id: 111475014192354048
+subre_id: Not uploaded, but here's the text: Sending you this fractal on this Sunday!  #Programming #VisualArt
+
+n_iter: 265
+ct: 255
+hue_offset: 82
+saturation: -0.39
+
+num_attempts: 801
+dur: 603
+std: 48.49
+size: 1539739 (1.47 MiB)
+
+xmin: 0.38374482460973836
+xmax: 0.38885991412380483
+ymin: -0.6273770038416658
+ymax: -0.6244997659900035
+
+contrast: 1.1
+brightness: 0.01
+saturation: 0.95
+gamma: 0.91
+gamma_r: 1.07
+gamma_g: 1.0
+gamma_b: 0.99
+vignette: -45
+temp: 3125
