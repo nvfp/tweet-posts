@@ -1,0 +1,31 @@
+tweet_id: 1728669695652601931
+masto_id: 111475553147385558
+subre_id: Not uploaded, but here's the text: Let's rock this Sunday!  #Programming #DigitalArt
+
+newton_power: 4
+newton_const: 8
+
+n_iter: 127
+ct: 129
+hue_offset: 174
+saturation: -0.92
+
+num_attempts: 256
+dur: 601
+std: 6.58
+size: 781850 (763.53 KiB)
+
+xmin: -0.23898225797592554
+xmax: -0.19518663753796933
+ymin: -0.1349967295278296
+ymax: -0.11036169303147923
+
+contrast: 1.06
+brightness: 0.21
+saturation: 1.29
+gamma: 0.91
+gamma_r: 1.06
+gamma_g: 1.03
+gamma_b: 1.0
+vignette: 32
+temp: 2221
