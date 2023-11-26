@@ -1,0 +1,28 @@
+tweet_id: 1728777178349711666
+masto_id: 111477232597682576
+subre_id: Not uploaded, but here's the text: Good Sunday! This Burning Ship is for you!  #Fractals #DeepLearning
+
+n_iter: 316
+ct: 142
+hue_offset: 9
+saturation: -0.17
+
+num_attempts: 4
+dur: 0
+std: 37.17
+size: 1871598 (1.78 MiB)
+
+xmin: -0.5407798959781827
+xmax: -0.4407798959781827
+ymin: -1.0090442284177783
+ymax: -0.9527942284177783
+
+contrast: 1.62
+brightness: 0.15
+saturation: 0.48
+gamma: 1.08
+gamma_r: 0.95
+gamma_g: 1.0
+gamma_b: 1.06
+vignette: -40
+temp: 2271
