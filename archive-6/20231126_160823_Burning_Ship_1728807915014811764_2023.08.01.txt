@@ -1,0 +1,28 @@
+tweet_id: 1728807915014811764
+masto_id: 111477712725385272
+subre_id: Not uploaded, but here's the text: Burning Ship vibes to brighten your Sunday.  #Fractals #DigitalArt
+
+n_iter: 200
+ct: 23
+hue_offset: 311
+saturation: -0.31
+
+num_attempts: 1
+dur: 0
+std: 22.39
+size: 2084841 (1.99 MiB)
+
+xmin: -0.6274079455168715
+xmax: -0.5738365169454429
+ymin: -1.0047237363401347
+ymax: -0.9745898077687061
+
+contrast: 0.76
+brightness: 0.02
+saturation: 1.42
+gamma: 1.1
+gamma_r: 0.95
+gamma_g: 1.03
+gamma_b: 0.97
+vignette: 27
+temp: 3772
