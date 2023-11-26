@@ -1,0 +1,28 @@
+tweet_id: 1728725909811663358
+masto_id: 111476431484733078
+subre_id: Not uploaded, but here's the text: Wishing you a rad Sunday!  #AI #DigitalArt
+
+n_iter: 581
+ct: 1
+hue_offset: 356
+saturation: -0.42
+
+num_attempts: 522
+dur: 605
+std: 76.07
+size: 1023781 (999.79 KiB)
+
+xmin: -0.5333033537679639
+xmax: -0.5277784918895109
+ymin: -0.13772987916888058
+ymax: -0.13462214436225073
+
+contrast: 1.21
+brightness: 0.07
+saturation: 1.49
+gamma: 1.06
+gamma_r: 1.01
+gamma_g: 1.08
+gamma_b: 0.97
+vignette: 8
+temp: 5628
