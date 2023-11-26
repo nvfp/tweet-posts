@@ -1,0 +1,31 @@
+tweet_id: 1728911232546029900
+masto_id: 111479327214249118
+subre_id: Not uploaded, but here's the text: Happy Sunday!  #MachineLearning #Art
+
+newton_power: 6
+newton_const: 6
+
+n_iter: 199
+ct: 190
+hue_offset: 58
+saturation: 0.29
+
+num_attempts: 198
+dur: 600
+std: 20.98
+size: 820334 (801.11 KiB)
+
+xmin: -0.23593046422864594
+xmax: -0.2200153448652507
+ymin: -0.9831914841706773
+ymax: -0.9742392295287674
+
+contrast: 1.06
+brightness: 0.17
+saturation: 0.81
+gamma: 1.09
+gamma_r: 1.05
+gamma_g: 0.98
+gamma_b: 1.06
+vignette: 9
+temp: 3921
