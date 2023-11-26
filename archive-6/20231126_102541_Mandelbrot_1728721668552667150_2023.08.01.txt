@@ -1,0 +1,28 @@
+tweet_id: 1728721668552667150
+masto_id: 111476365119834690
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Sunday!  #DigitalArt #Programming
+
+n_iter: 800
+ct: 252
+hue_offset: 249
+saturation: 0.98
+
+num_attempts: 3
+dur: 0
+std: 56.15
+size: 410366 (400.75 KiB)
+
+xmin: 0.2849588364729865
+xmax: 0.290529867113655
+ymin: 0.009667286404565045
+ymax: 0.01280099113994109
+
+contrast: 1.33
+brightness: -0.1
+saturation: 0.47
+gamma: 1.08
+gamma_r: 1.03
+gamma_g: 1.09
+gamma_b: 1.05
+vignette: -3
+temp: 5239
