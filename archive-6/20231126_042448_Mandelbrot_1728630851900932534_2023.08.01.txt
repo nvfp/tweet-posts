@@ -1,0 +1,28 @@
+tweet_id: 1728630851900932534
+masto_id: 111474946111845755
+subre_id: Not uploaded, but here's the text: you are awesome.  #Programming #DeepLearning
+
+n_iter: 529
+ct: 119
+hue_offset: 294
+saturation: -0.05
+
+num_attempts: 4
+dur: 1
+std: 103.72
+size: 857352 (837.26 KiB)
+
+xmin: -0.035260950196471796
+xmax: -0.03177966211988346
+ymin: 0.770077282147438
+ymax: 0.7720355066905189
+
+contrast: 1.29
+brightness: 0.02
+saturation: 0.5
+gamma: 1.05
+gamma_r: 0.97
+gamma_g: 1.05
+gamma_b: 1.0
+vignette: 20
+temp: 5578
