@@ -1,0 +1,28 @@
+tweet_id: 1728626923109011549
+masto_id: 111474884792505433
+subre_id: Not uploaded, but here's the text: Hope you're having a great Sunday!  #DigitalArt #AI
+
+n_iter: 181
+ct: 195
+hue_offset: 254
+saturation: 0.82
+
+num_attempts: 51
+dur: 10
+std: 23.74
+size: 1988642 (1.9 MiB)
+
+xmin: -1.3128932122479542
+xmax: -1.2665014596706345
+ymin: -0.4221286760605183
+ymax: -0.396033315235776
+
+contrast: 1.7
+brightness: 0.19
+saturation: 0.38
+gamma: 1.03
+gamma_r: 0.97
+gamma_g: 0.9
+gamma_b: 0.93
+vignette: 26
+temp: 4398
