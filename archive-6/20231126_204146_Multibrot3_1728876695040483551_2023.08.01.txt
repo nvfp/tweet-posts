@@ -1,0 +1,28 @@
+tweet_id: 1728876695040483551
+masto_id: 111478787622589390
+subre_id: Not uploaded, but here's the text: Having a blast on Sunday?  #Math #VisualArt
+
+n_iter: 407
+ct: 255
+hue_offset: 253
+saturation: -0.65
+
+num_attempts: 491
+dur: 600
+std: 68.64
+size: 1313764 (1.25 MiB)
+
+xmin: 0.22444722964895725
+xmax: 0.22846329390598535
+ymin: -0.7294489748145944
+ymax: -0.727189938670016
+
+contrast: 1.25
+brightness: 0.06
+saturation: 0.48
+gamma: 1.1
+gamma_r: 1.0
+gamma_g: 0.92
+gamma_b: 0.91
+vignette: 28
+temp: 7532
