@@ -1,0 +1,31 @@
+tweet_id: 1728593045313225148
+masto_id: 111474355606123978
+subre_id: Not uploaded, but here's the text: Enjoy your Sunday!  #Science #DeepLearning
+
+newton_power: 4
+newton_const: 9
+
+n_iter: 202
+ct: 214
+hue_offset: 310
+saturation: 0.11
+
+num_attempts: 257
+dur: 602
+std: 7.8
+size: 377463 (368.62 KiB)
+
+xmin: 1.304508458007092
+xmax: 1.3162043644398405
+ymin: -0.42022386005458556
+ymax: -0.4136449126861645
+
+contrast: 0.96
+brightness: 0.09
+saturation: 0.41
+gamma: 1.05
+gamma_r: 1.07
+gamma_g: 1.03
+gamma_b: 1.02
+vignette: 3
+temp: 4422
