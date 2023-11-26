@@ -1,0 +1,28 @@
+tweet_id: 1728842320370335990
+masto_id: 111478250375669943
+subre_id: Not uploaded, but here's the text: Wishing you a fantastic day!  #Programming #AI
+
+n_iter: 711
+ct: 46
+hue_offset: 133
+saturation: 0.59
+
+num_attempts: 62
+dur: 40
+std: 107.93
+size: 2017042 (1.92 MiB)
+
+xmin: -0.37957009125542385
+xmax: -0.3789698511593854
+ymin: -0.5998696090334055
+ymax: -0.5995319739793838
+
+contrast: 1.28
+brightness: 0.04
+saturation: 0.46
+gamma: 1.03
+gamma_r: 0.98
+gamma_g: 0.91
+gamma_b: 0.91
+vignette: -8
+temp: 7199
