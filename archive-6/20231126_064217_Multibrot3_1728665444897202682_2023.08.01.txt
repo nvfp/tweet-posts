@@ -1,0 +1,28 @@
+tweet_id: 1728665444897202682
+masto_id: 111475486738084058
+subre_id: Not uploaded, but here's the text: Let's make it a memorable Sunday!  #AI #Nature
+
+n_iter: 452
+ct: 255
+hue_offset: 29
+saturation: 0.59
+
+num_attempts: 541
+dur: 604
+std: 71.72
+size: 967925 (945.24 KiB)
+
+xmin: -0.5491505604780815
+xmax: -0.5438874025833447
+ymin: 0.2334093193318303
+ymax: 0.23636984564761976
+
+contrast: 1.56
+brightness: 0.11
+saturation: 1.26
+gamma: 0.97
+gamma_r: 1.02
+gamma_g: 0.95
+gamma_b: 0.99
+vignette: -48
+temp: 2446
