@@ -1,0 +1,28 @@
+tweet_id: 1728754765259997216
+masto_id: 111476882660920590
+subre_id: Not uploaded, but here's the text: Let's make it a memorable Sunday!  #MachineLearning #Mathematics
+
+n_iter: 1001
+ct: 150
+hue_offset: 14
+saturation: -0.89
+
+num_attempts: 55
+dur: 41
+std: 27.53
+size: 885950 (865.19 KiB)
+
+xmin: -0.20147923824873137
+xmax: -0.20085937152007804
+ymin: 0.6813264619650055
+ymax: 0.6816751369998729
+
+contrast: 0.96
+brightness: -0.04
+saturation: 1.41
+gamma: 0.96
+gamma_r: 0.91
+gamma_g: 0.98
+gamma_b: 1.02
+vignette: -35
+temp: 4143
