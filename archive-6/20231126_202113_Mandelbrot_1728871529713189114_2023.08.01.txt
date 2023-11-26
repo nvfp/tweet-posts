@@ -1,0 +1,28 @@
+tweet_id: 1728871529713189114
+masto_id: 111478706911350321
+subre_id: Not uploaded, but here's the text: Have an awesome day!  #DeepLearning #AI
+
+n_iter: 775
+ct: 235
+hue_offset: 202
+saturation: 0.99
+
+num_attempts: 39
+dur: 17
+std: 27.35
+size: 1262969 (1.2 MiB)
+
+xmin: -0.6646628203851339
+xmax: -0.6629327165789055
+ymin: -0.4486650714186423
+ymax: -0.4476918880276389
+
+contrast: 1.35
+brightness: 0.08
+saturation: 0.97
+gamma: 1.02
+gamma_r: 1.05
+gamma_g: 1.06
+gamma_b: 1.06
+vignette: -8
+temp: 5704
