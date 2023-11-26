@@ -1,0 +1,28 @@
+tweet_id: 1728868184495976524
+masto_id: 111478654650159450
+subre_id: Not uploaded, but here's the text: Hope you're having a great Sunday!  #VisualArt #DeepLearning
+
+n_iter: 391
+ct: 157
+hue_offset: 73
+saturation: -0.37
+
+num_attempts: 33
+dur: 6
+std: 22.19
+size: 538518 (525.9 KiB)
+
+xmin: -0.017268868082719546
+xmax: 1.4827311319172805
+ymin: -1.4370131534070496
+ymax: -0.5932631534070496
+
+contrast: 1.71
+brightness: -0.09
+saturation: 1.06
+gamma: 1.1
+gamma_r: 0.94
+gamma_g: 0.94
+gamma_b: 1.09
+vignette: -16
+temp: 5932
