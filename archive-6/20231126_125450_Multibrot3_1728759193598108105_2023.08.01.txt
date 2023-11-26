@@ -1,0 +1,28 @@
+tweet_id: 1728759193598108105
+masto_id: 111476951616880366
+subre_id: Not uploaded, but here's the text: Smile on this lovely day!  #Fractals #Programming
+
+n_iter: 623
+ct: 1
+hue_offset: 298
+saturation: -0.47
+
+num_attempts: 376
+dur: 602
+std: 65.09
+size: 1115406 (1.06 MiB)
+
+xmin: 0.16669192078727813
+xmax: 0.19036055984053257
+ymin: 0.8514420139049164
+ymax: 0.864755623372372
+
+contrast: 1.43
+brightness: 0.15
+saturation: 1.49
+gamma: 0.96
+gamma_r: 0.95
+gamma_g: 0.93
+gamma_b: 0.97
+vignette: -26
+temp: 3915
