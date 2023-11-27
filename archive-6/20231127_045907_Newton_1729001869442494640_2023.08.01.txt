@@ -1,0 +1,31 @@
+tweet_id: 1729001869442494640
+masto_id: 111480743340625197
+subre_id: Not uploaded, but here's the text: Monday is shining brightly, just like this Newton.  #AI #MachineLearning
+
+newton_power: 3
+newton_const: 5
+
+n_iter: 246
+ct: 80
+hue_offset: 148
+saturation: -0.09
+
+num_attempts: 519
+dur: 600
+std: 4.06
+size: 427835 (417.81 KiB)
+
+xmin: -0.7528664405975665
+xmax: -0.7368236598489034
+ymin: 1.8860813071575664
+ymax: 1.8951053713286894
+
+contrast: 1.39
+brightness: 0.21
+saturation: 0.64
+gamma: 1.06
+gamma_r: 1.01
+gamma_g: 1.02
+gamma_b: 1.02
+vignette: -8
+temp: 3573
