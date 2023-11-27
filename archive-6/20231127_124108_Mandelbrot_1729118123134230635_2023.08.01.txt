@@ -1,0 +1,28 @@
+tweet_id: 1729118123134230635
+masto_id: 111482559782700172
+subre_id: Not uploaded, but here's the text: Hope your Monday is awesome!  #Science #Fractals
+
+n_iter: 892
+ct: 132
+hue_offset: 280
+saturation: -0.42
+
+num_attempts: 19
+dur: 18
+std: 141.44
+size: 350643 (342.42 KiB)
+
+xmin: -0.10924612241062492
+xmax: -0.10803766319612342
+ymin: -0.8831086732430434
+ymax: -0.8824289149348863
+
+contrast: 1.5
+brightness: 0.0
+saturation: 0.73
+gamma: 0.93
+gamma_r: 0.91
+gamma_g: 0.98
+gamma_b: 1.06
+vignette: 3
+temp: 5013
