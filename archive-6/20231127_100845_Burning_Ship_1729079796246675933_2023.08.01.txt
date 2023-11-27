@@ -1,0 +1,28 @@
+tweet_id: 1729079796246675933
+masto_id: 111481960903828708
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Monday! You got this!  #Art #Science
+
+n_iter: 507
+ct: 77
+hue_offset: 243
+saturation: 0.86
+
+num_attempts: 3
+dur: 1
+std: 77.0
+size: 2057247 (1.96 MiB)
+
+xmin: -0.5843412565145298
+xmax: -0.5388867110599844
+ymin: -0.7989796950416543
+ymax: -0.7734115132234726
+
+contrast: 1.16
+brightness: -0.09
+saturation: 0.4
+gamma: 1.07
+gamma_r: 1.05
+gamma_g: 0.98
+gamma_b: 0.92
+vignette: -11
+temp: 2041
