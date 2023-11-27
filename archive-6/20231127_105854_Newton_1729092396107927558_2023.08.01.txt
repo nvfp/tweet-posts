@@ -1,0 +1,31 @@
+tweet_id: 1729092396107927558
+masto_id: 111482158033202017
+subre_id: Not uploaded, but here's the text: Let the magic of Monday fill your heart!  #DeepLearning #AI
+
+newton_power: 6
+newton_const: 6
+
+n_iter: 202
+ct: 85
+hue_offset: 271
+saturation: -0.57
+
+num_attempts: 191
+dur: 601
+std: 16.05
+size: 1264416 (1.21 MiB)
+
+xmin: 0.8132075054648671
+xmax: 0.8208508175667779
+ymin: -1.6835862133994164
+ymax: -1.6792868503420915
+
+contrast: 1.59
+brightness: 0.01
+saturation: 1.6
+gamma: 1.03
+gamma_r: 1.02
+gamma_g: 1.06
+gamma_b: 0.94
+vignette: -45
+temp: 3359
