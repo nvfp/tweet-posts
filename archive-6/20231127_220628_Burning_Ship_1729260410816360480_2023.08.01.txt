@@ -1,0 +1,28 @@
+tweet_id: 1729260410816360480
+masto_id: 111484783035044868
+subre_id: Not uploaded, but here's the text: Have a great day!  #Mathematics #Fractals
+
+n_iter: 399
+ct: 250
+hue_offset: 348
+saturation: 0.87
+
+num_attempts: 2
+dur: 2
+std: 58.42
+size: 1872186 (1.79 MiB)
+
+xmin: 0.5545048478981061
+xmax: 0.672925900529685
+ymin: -1.2311403809558208
+ymax: -1.1645285388505577
+
+contrast: 1.8
+brightness: 0.02
+saturation: 0.94
+gamma: 1.07
+gamma_r: 0.95
+gamma_g: 1.01
+gamma_b: 1.03
+vignette: -20
+temp: 6182
