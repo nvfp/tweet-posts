@@ -1,0 +1,28 @@
+tweet_id: 1729170759740707326
+masto_id: 111483382215736291
+subre_id: Not uploaded, but here's the text: Brighten your Monday!  #MachineLearning #AI
+
+n_iter: 418
+ct: 255
+hue_offset: 344
+saturation: -0.05
+
+num_attempts: 14
+dur: 6
+std: 62.7
+size: 1369768 (1.31 MiB)
+
+xmin: -0.07343894004881202
+xmax: -0.015746632356504323
+ymin: -1.0209105032282064
+ymax: -0.9884585801512833
+
+contrast: 1.43
+brightness: -0.03
+saturation: 0.93
+gamma: 0.95
+gamma_r: 0.93
+gamma_g: 0.96
+gamma_b: 0.94
+vignette: -39
+temp: 6294
