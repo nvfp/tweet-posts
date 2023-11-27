@@ -1,0 +1,28 @@
+tweet_id: 1729019997609943304
+masto_id: 111481026644825118
+subre_id: Not uploaded, but here's the text: Have an extraordinary Monday!  #Mathematics #Art
+
+n_iter: 419
+ct: 24
+hue_offset: 314
+saturation: -0.34
+
+num_attempts: 13
+dur: 4
+std: 24.19
+size: 917303 (895.8 KiB)
+
+xmin: 0.42811349879852667
+xmax: 1.5531134987985267
+ymin: -1.7203235092336675
+ymax: -1.0875110092336675
+
+contrast: 0.78
+brightness: -0.05
+saturation: 0.55
+gamma: 0.98
+gamma_r: 1.03
+gamma_g: 0.94
+gamma_b: 1.05
+vignette: 12
+temp: 7222
