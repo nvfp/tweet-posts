@@ -1,0 +1,28 @@
+tweet_id: 1729230627214344295
+masto_id: 111484317650422244
+subre_id: Not uploaded, but here's the text: you are cool  #AI #Science
+
+n_iter: 409
+ct: 18
+hue_offset: 248
+saturation: -0.65
+
+num_attempts: 22
+dur: 8
+std: 58.33
+size: 1273041 (1.21 MiB)
+
+xmin: -0.4566584304841559
+xmax: -0.11050458433030974
+ymin: -1.1293758452364777
+ymax: -0.9346643067749393
+
+contrast: 0.9
+brightness: 0.09
+saturation: 1.43
+gamma: 1.03
+gamma_r: 1.02
+gamma_g: 0.9
+gamma_b: 1.02
+vignette: 0
+temp: 6225
