@@ -1,0 +1,31 @@
+tweet_id: 1729213201546457511
+masto_id: 111484045525463359
+subre_id: Not uploaded, but here's the text: Let this Newton brighten up your Monday!  #Fractals #DeepLearning
+
+newton_power: 5
+newton_const: -10
+
+n_iter: 168
+ct: 8
+hue_offset: 56
+saturation: 0.7
+
+num_attempts: 215
+dur: 600
+std: 12.32
+size: 1210867 (1.15 MiB)
+
+xmin: -0.7923110294149716
+xmax: -0.782277584598918
+ymin: 0.10666864348636285
+ymax: 0.11231245619539294
+
+contrast: 1.07
+brightness: 0.09
+saturation: 1.72
+gamma: 1.09
+gamma_r: 0.99
+gamma_g: 0.96
+gamma_b: 1.04
+vignette: -28
+temp: 7243
