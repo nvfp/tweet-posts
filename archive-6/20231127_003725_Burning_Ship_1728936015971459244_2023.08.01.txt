@@ -1,0 +1,28 @@
+tweet_id: 1728936015971459244
+masto_id: 111479714334561319
+subre_id: Not uploaded, but here's the text: Surprise! Burning Ship!  #Mathematics #DeepLearning
+
+n_iter: 452
+ct: 21
+hue_offset: 262
+saturation: -0.16
+
+num_attempts: 42
+dur: 21
+std: 56.33
+size: 2158236 (2.06 MiB)
+
+xmin: -1.3262766951199148
+xmax: -1.2720598276500352
+ymin: -0.3767787416712789
+ymax: -0.3462817537194717
+
+contrast: 0.9
+brightness: -0.08
+saturation: 0.65
+gamma: 1.02
+gamma_r: 1.02
+gamma_g: 0.94
+gamma_b: 1.09
+vignette: -8
+temp: 7659
