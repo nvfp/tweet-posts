@@ -1,0 +1,28 @@
+tweet_id: 1728962264190128339
+masto_id: 111480124589865646
+subre_id: Not uploaded, but here's the text: Let the magic of Monday fill your heart!  #VisualArt #DigitalArt
+
+n_iter: 388
+ct: 173
+hue_offset: 241
+saturation: -0.8
+
+num_attempts: 7
+dur: 1
+std: 41.28
+size: 542929 (530.2 KiB)
+
+xmin: -1.7177536557799438
+xmax: -1.3427536557799438
+ymin: -0.30918428751986027
+ymax: -0.09824678751986027
+
+contrast: 0.7
+brightness: 0.2
+saturation: 1.37
+gamma: 1.07
+gamma_r: 1.0
+gamma_g: 0.93
+gamma_b: 1.0
+vignette: 3
+temp: 2053
