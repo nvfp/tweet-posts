@@ -1,0 +1,28 @@
+tweet_id: 1729239171548799036
+masto_id: 111484451261684321
+subre_id: Not uploaded, but here's the text: Let's rock this Monday!  #Science #AI
+
+n_iter: 376
+ct: 1
+hue_offset: 100
+saturation: -0.03
+
+num_attempts: 698
+dur: 602
+std: 65.6
+size: 1197404 (1.14 MiB)
+
+xmin: -0.3568739517576083
+xmax: -0.351596906902727
+ymin: 0.6485948379525532
+ymax: 0.6515631756834239
+
+contrast: 1.01
+brightness: 0.2
+saturation: 0.68
+gamma: 0.92
+gamma_r: 1.1
+gamma_g: 1.05
+gamma_b: 0.99
+vignette: -39
+temp: 2328
