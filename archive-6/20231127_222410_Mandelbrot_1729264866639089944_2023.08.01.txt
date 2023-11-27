@@ -1,0 +1,28 @@
+tweet_id: 1729264866639089944
+masto_id: 111484852634906169
+subre_id: Not uploaded, but here's the text: Let's rock this Monday!  #Nature #DeepLearning
+
+n_iter: 130
+ct: 138
+hue_offset: 0
+saturation: 0.12
+
+num_attempts: 13
+dur: 2
+std: 34.95
+size: 172822 (168.77 KiB)
+
+xmin: 0.2695857703295146
+xmax: 0.27356586983200215
+ymin: -0.4792899438560939
+ymax: -0.47705113788594466
+
+contrast: 1.71
+brightness: 0.0
+saturation: 0.63
+gamma: 1.09
+gamma_r: 1.01
+gamma_g: 0.96
+gamma_b: 1.04
+vignette: 15
+temp: 3907
