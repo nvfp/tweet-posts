@@ -1,0 +1,28 @@
+tweet_id: 1728989463832039829
+masto_id: 111480549498323773
+subre_id: Not uploaded, but here's the text: Another Monday, another Burning Ship!  #Art #Programming
+
+n_iter: 128
+ct: 219
+hue_offset: 271
+saturation: 0.36
+
+num_attempts: 67
+dur: 11
+std: 22.94
+size: 1477268 (1.41 MiB)
+
+xmin: -0.672483877219658
+xmax: -0.39123387721965797
+ymin: -0.9423779275218287
+ymax: -0.7841748025218287
+
+contrast: 1.69
+brightness: 0.01
+saturation: 1.36
+gamma: 0.99
+gamma_r: 0.99
+gamma_g: 1.0
+gamma_b: 1.04
+vignette: -42
+temp: 2609
