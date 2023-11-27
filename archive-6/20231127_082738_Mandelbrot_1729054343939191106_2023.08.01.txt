@@ -1,0 +1,28 @@
+tweet_id: 1729054343939191106
+masto_id: 111481563245140223
+subre_id: Not uploaded, but here's the text: Happy Monday!  #Math #Mathematics
+
+n_iter: 353
+ct: 81
+hue_offset: 340
+saturation: -0.16
+
+num_attempts: 26
+dur: 9
+std: 49.16
+size: 1237088 (1.18 MiB)
+
+xmin: -1.1237979335004618
+xmax: -1.1226972180354096
+ymin: 0.26881356124097655
+ymax: 0.26943271369006844
+
+contrast: 1.76
+brightness: 0.23
+saturation: 1.19
+gamma: 0.96
+gamma_r: 1.07
+gamma_g: 1.02
+gamma_b: 0.91
+vignette: -14
+temp: 3342
