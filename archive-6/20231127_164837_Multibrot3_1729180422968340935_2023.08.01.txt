@@ -1,0 +1,28 @@
+tweet_id: 1729180422968340935
+masto_id: 111483533239626887
+subre_id: Not uploaded, but here's the text: Surprise! Multibrot!  #VisualArt #Art
+
+n_iter: 279
+ct: 1
+hue_offset: 242
+saturation: 0.14
+
+num_attempts: 739
+dur: 603
+std: 49.89
+size: 1354020 (1.29 MiB)
+
+xmin: -0.5448290703725363
+xmax: -0.5370165703725363
+ymin: 0.19254966436847853
+ymax: 0.19694419561847853
+
+contrast: 0.71
+brightness: -0.06
+saturation: 1.53
+gamma: 1.01
+gamma_r: 1.07
+gamma_g: 1.08
+gamma_b: 1.05
+vignette: 28
+temp: 4392
