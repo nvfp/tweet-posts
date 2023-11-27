@@ -1,0 +1,28 @@
+tweet_id: 1729084786407354802
+masto_id: 111482039070105076
+subre_id: Not uploaded, but here's the text: Keep shining on Monday!  #Programming #Mathematics
+
+n_iter: 818
+ct: 185
+hue_offset: 196
+saturation: 0.51
+
+num_attempts: 36
+dur: 22
+std: 121.85
+size: 546430 (533.62 KiB)
+
+xmin: -1.3482691394088835
+xmax: -1.3445620031716268
+ymin: -0.05078262936140354
+ymax: -0.04869736522794664
+
+contrast: 0.83
+brightness: 0.1
+saturation: 0.89
+gamma: 1.0
+gamma_r: 1.08
+gamma_g: 1.04
+gamma_b: 0.98
+vignette: 4
+temp: 3918
