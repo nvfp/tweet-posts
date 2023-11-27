@@ -1,0 +1,28 @@
+tweet_id: 1729209194241257896
+masto_id: 111483982817570473
+subre_id: Not uploaded, but here's the text: A great Monday and a beautiful Multibrot.  #Fractals #Science
+
+n_iter: 453
+ct: 255
+hue_offset: 47
+saturation: -0.07
+
+num_attempts: 529
+dur: 600
+std: 77.62
+size: 704791 (688.27 KiB)
+
+xmin: 0.5310109342541618
+xmax: 0.535546081646452
+ymin: 0.37552418248725017
+ymax: 0.3780752028954134
+
+contrast: 1.32
+brightness: 0.06
+saturation: 1.12
+gamma: 0.9
+gamma_r: 1.05
+gamma_g: 0.92
+gamma_b: 1.06
+vignette: 17
+temp: 2779
