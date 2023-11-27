@@ -1,0 +1,31 @@
+tweet_id: 1729273586647531741
+masto_id: 111484989131844048
+subre_id: Not uploaded, but here's the text: Warm wishes for your Monday, and let's have a look at this Newton.  #AI #VisualArt
+
+newton_power: 3
+newton_const: -10
+
+n_iter: 251
+ct: 22
+hue_offset: 84
+saturation: 0.96
+
+num_attempts: 523
+dur: 601
+std: 4.5
+size: 790843 (772.31 KiB)
+
+xmin: 0.26037224180767593
+xmax: 0.29545996110592154
+ymin: 1.2301080095774863
+ymax: 1.2498448516827494
+
+contrast: 1.51
+brightness: -0.07
+saturation: 0.97
+gamma: 1.06
+gamma_r: 1.01
+gamma_g: 0.95
+gamma_b: 0.95
+vignette: -37
+temp: 6184
