@@ -1,0 +1,28 @@
+tweet_id: 1729269301293760842
+masto_id: 111484921907508016
+subre_id: Not uploaded, but here's the text: This Monday is made even better by this Multibrot!  #DigitalArt #Nature
+
+n_iter: 570
+ct: 1
+hue_offset: 331
+saturation: 0.4
+
+num_attempts: 445
+dur: 604
+std: 82.04
+size: 510931 (498.96 KiB)
+
+xmin: -0.5400377621904782
+xmax: -0.5350377621904782
+ymin: 0.19798358036715125
+ymax: 0.20079608036715124
+
+contrast: 1.54
+brightness: 0.04
+saturation: 0.45
+gamma: 0.97
+gamma_r: 0.94
+gamma_g: 0.92
+gamma_b: 1.0
+vignette: 6
+temp: 5262
