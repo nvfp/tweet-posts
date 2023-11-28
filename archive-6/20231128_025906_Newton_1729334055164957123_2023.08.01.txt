@@ -1,0 +1,31 @@
+tweet_id: 1729334055164957123
+masto_id: 111485933711768760
+subre_id: Not uploaded, but here's the text: You are lovely!  #Programming #Fractals
+
+newton_power: 4
+newton_const: -10
+
+n_iter: 189
+ct: 219
+hue_offset: 10
+saturation: -0.46
+
+num_attempts: 243
+dur: 605
+std: 7.25
+size: 346791 (338.66 KiB)
+
+xmin: 1.3201867868530082
+xmax: 1.3572238238900451
+ymin: 0.9913671147738152
+ymax: 1.0122004481071485
+
+contrast: 1.55
+brightness: -0.08
+saturation: 0.42
+gamma: 0.92
+gamma_r: 1.07
+gamma_g: 0.97
+gamma_b: 0.95
+vignette: -3
+temp: 4218
