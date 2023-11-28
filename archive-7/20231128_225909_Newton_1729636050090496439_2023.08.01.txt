@@ -1,0 +1,31 @@
+tweet_id: 1729636050090496439
+masto_id: 111490652516435315
+subre_id: Not uploaded, but here's the text: Feeling good today!  #Mathematics #DeepLearning
+
+newton_power: 7
+newton_const: 4
+
+n_iter: 64
+ct: 191
+hue_offset: 144
+saturation: -0.13
+
+num_attempts: 148
+dur: 602
+std: 21.93
+size: 850767 (830.83 KiB)
+
+xmin: 0.049014717595743384
+xmax: 0.05963418662229206
+ymin: 0.34778956539231265
+ymax: 0.3537630167197463
+
+contrast: 1.17
+brightness: -0.06
+saturation: 1.48
+gamma: 0.93
+gamma_r: 0.93
+gamma_g: 0.98
+gamma_b: 1.07
+vignette: -41
+temp: 7079
