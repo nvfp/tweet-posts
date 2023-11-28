@@ -1,0 +1,28 @@
+tweet_id: 1729420760475689386
+masto_id: 111487288438832328
+subre_id: Not uploaded, but here's the text: Beautiful Tuesday with this Multibrot!  #Nature #Fractals
+
+n_iter: 410
+ct: 255
+hue_offset: 210
+saturation: 0.4
+
+num_attempts: 595
+dur: 600
+std: 62.63
+size: 656439 (641.05 KiB)
+
+xmin: -0.0913124154777889
+xmax: -0.08209582561603775
+ymin: 0.7617119701956772
+ymax: 0.7668963019929121
+
+contrast: 1.43
+brightness: 0.08
+saturation: 1.58
+gamma: 1.07
+gamma_r: 1.0
+gamma_g: 0.91
+gamma_b: 1.09
+vignette: -6
+temp: 5171
