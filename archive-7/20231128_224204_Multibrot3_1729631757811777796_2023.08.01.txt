@@ -1,0 +1,28 @@
+tweet_id: 1729631757811777796
+masto_id: 111490585362393417
+subre_id: Not uploaded, but here's the text: Wishing you a wonderful Tuesday!  #Programming #DeepLearning
+
+n_iter: 547
+ct: 255
+hue_offset: 237
+saturation: 0.55
+
+num_attempts: 386
+dur: 600
+std: 72.67
+size: 1003175 (979.66 KiB)
+
+xmin: -0.09255881095080665
+xmax: -0.08441217143960501
+ymin: 0.782947086711288
+ymax: 0.787529571436339
+
+contrast: 0.96
+brightness: -0.08
+saturation: 0.98
+gamma: 1.01
+gamma_r: 0.92
+gamma_g: 0.98
+gamma_b: 1.04
+vignette: -35
+temp: 2023
