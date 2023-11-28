@@ -1,0 +1,28 @@
+tweet_id: 1729390822427181525
+masto_id: 111486820691513950
+subre_id: Not uploaded, but here's the text: Let's rock this Tuesday!  #DigitalArt #Programming
+
+n_iter: 415
+ct: 255
+hue_offset: 348
+saturation: -0.55
+
+num_attempts: 538
+dur: 602
+std: 70.53
+size: 1316722 (1.26 MiB)
+
+xmin: 0.10815742073520118
+xmax: 0.11741667999446044
+ymin: -0.7642209124561707
+ymax: -0.7590125791228374
+
+contrast: 1.64
+brightness: -0.05
+saturation: 1.17
+gamma: 1.09
+gamma_r: 1.02
+gamma_g: 0.93
+gamma_b: 1.09
+vignette: -42
+temp: 6629
