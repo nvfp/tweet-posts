@@ -1,0 +1,28 @@
+tweet_id: 1729451409727168692
+masto_id: 111487767435318844
+subre_id: Not uploaded, but here's the text: Have an extraordinary Tuesday!  #Fractals #Programming
+
+n_iter: 299
+ct: 1
+hue_offset: 318
+saturation: -0.58
+
+num_attempts: 868
+dur: 601
+std: 54.0
+size: 1269925 (1.21 MiB)
+
+xmin: -0.3776574744260104
+xmax: -0.3663898687922076
+ymin: -0.6405146507321418
+ymax: -0.6341766225631277
+
+contrast: 0.85
+brightness: 0.13
+saturation: 0.6
+gamma: 1.05
+gamma_r: 1.05
+gamma_g: 0.95
+gamma_b: 1.09
+vignette: 16
+temp: 4281
