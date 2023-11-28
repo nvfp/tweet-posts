@@ -1,0 +1,28 @@
+tweet_id: 1729315817630691548
+masto_id: 111485648832617705
+subre_id: Not uploaded, but here's the text: Have an extraordinary Tuesday!  #Math #VisualArt
+
+n_iter: 273
+ct: 1
+hue_offset: 15
+saturation: -0.29
+
+num_attempts: 904
+dur: 600
+std: 48.04
+size: 859942 (839.79 KiB)
+
+xmin: 0.19271086865720743
+xmax: 0.20102687697321575
+ymin: 1.0323075189619382
+ymax: 1.036985273639693
+
+contrast: 1.62
+brightness: 0.05
+saturation: 0.26
+gamma: 0.92
+gamma_r: 0.95
+gamma_g: 1.01
+gamma_b: 0.97
+vignette: 11
+temp: 4138
