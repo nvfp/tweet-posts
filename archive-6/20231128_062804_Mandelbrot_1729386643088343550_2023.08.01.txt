@@ -1,0 +1,28 @@
+tweet_id: 1729386643088343550
+masto_id: 111486755457531569
+subre_id: Not uploaded, but here's the text: Feeling the Mandelbrot Set vibes today!  #Programming #Art
+
+n_iter: 345
+ct: 181
+hue_offset: 192
+saturation: 0.77
+
+num_attempts: 105
+dur: 32
+std: 69.42
+size: 961247 (938.72 KiB)
+
+xmin: 0.3673213790588763
+xmax: 0.36843002650898715
+ymin: -0.2912516157783195
+ymax: -0.29062800158763213
+
+contrast: 0.76
+brightness: -0.01
+saturation: 0.33
+gamma: 0.93
+gamma_r: 1.04
+gamma_g: 0.91
+gamma_b: 1.05
+vignette: 32
+temp: 7525
