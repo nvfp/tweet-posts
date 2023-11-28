@@ -1,0 +1,28 @@
+tweet_id: 1729327696453194120
+masto_id: 111485834438324292
+subre_id: Not uploaded, but here's the text: Cheers to a fantastic Tuesday!  #Math #Science
+
+n_iter: 212
+ct: 74
+hue_offset: 303
+saturation: -0.14
+
+num_attempts: 100
+dur: 24
+std: 21.06
+size: 683939 (667.91 KiB)
+
+xmin: -1.2180257184207497
+xmax: -1.2169750223345925
+ymin: -0.1403448830192111
+ymax: -0.13975386647074775
+
+contrast: 1.74
+brightness: -0.04
+saturation: 0.51
+gamma: 1.06
+gamma_r: 0.92
+gamma_g: 1.04
+gamma_b: 0.94
+vignette: 11
+temp: 3095
