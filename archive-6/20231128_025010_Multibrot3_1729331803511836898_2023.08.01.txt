@@ -1,0 +1,28 @@
+tweet_id: 1729331803511836898
+masto_id: 111485898615675972
+subre_id: Not uploaded, but here's the text: Having a blast on Tuesday?  #DigitalArt #Mathematics
+
+n_iter: 331
+ct: 255
+hue_offset: 183
+saturation: 0.03
+
+num_attempts: 657
+dur: 602
+std: 58.92
+size: 904714 (883.51 KiB)
+
+xmin: -0.28634265773541645
+xmax: -0.27095804235080106
+ymin: 0.6998623064931935
+ymax: 0.7085161526470396
+
+contrast: 0.95
+brightness: -0.06
+saturation: 1.66
+gamma: 1.01
+gamma_r: 1.06
+gamma_g: 1.05
+gamma_b: 1.09
+vignette: -12
+temp: 4884
