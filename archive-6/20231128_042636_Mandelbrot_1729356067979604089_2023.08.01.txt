@@ -1,0 +1,28 @@
+tweet_id: 1729356067979604089
+masto_id: 111486277783254296
+subre_id: Not uploaded, but here's the text: Have an extraordinary Tuesday!  #Nature #MachineLearning
+
+n_iter: 533
+ct: 39
+hue_offset: 97
+saturation: -0.6
+
+num_attempts: 103
+dur: 33
+std: 57.29
+size: 1502920 (1.43 MiB)
+
+xmin: -0.4682133436726863
+xmax: -0.4182133436726863
+ymin: -0.6022656721292148
+ymax: -0.5741406721292148
+
+contrast: 0.82
+brightness: 0.15
+saturation: 0.63
+gamma: 1.09
+gamma_r: 1.03
+gamma_g: 0.91
+gamma_b: 1.04
+vignette: -42
+temp: 5165
