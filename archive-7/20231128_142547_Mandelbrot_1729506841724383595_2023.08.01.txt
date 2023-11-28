@@ -1,0 +1,28 @@
+tweet_id: 1729506841724383595
+masto_id: 111488633618024442
+subre_id: Not uploaded, but here's the text: Brighten your Tuesday!  #Science #Programming
+
+n_iter: 918
+ct: 196
+hue_offset: 111
+saturation: 0.83
+
+num_attempts: 1
+dur: 0
+std: 29.67
+size: 1545179 (1.47 MiB)
+
+xmin: -0.37816294360530245
+xmax: -0.35642381317051985
+ymin: 0.6528385027308363
+ymax: 0.6650667636004015
+
+contrast: 1.48
+brightness: 0.19
+saturation: 1.53
+gamma: 0.99
+gamma_r: 1.05
+gamma_g: 1.02
+gamma_b: 0.98
+vignette: -42
+temp: 4269
