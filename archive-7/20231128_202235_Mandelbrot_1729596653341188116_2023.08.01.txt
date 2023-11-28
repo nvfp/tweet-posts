@@ -1,0 +1,28 @@
+tweet_id: 1729596653341188116
+masto_id: 111490036868717332
+subre_id: Not uploaded, but here's the text: A great Tuesday and a beautiful Mandelbrot Set.  #Programming #Fractals
+
+n_iter: 400
+ct: 25
+hue_offset: 158
+saturation: -0.92
+
+num_attempts: 10
+dur: 1
+std: 31.75
+size: 1459934 (1.39 MiB)
+
+xmin: -0.21348291637839623
+xmax: -0.21247510584677617
+ymin: -0.8219812782738736
+ymax: -0.8214143848498373
+
+contrast: 1.66
+brightness: 0.1
+saturation: 1.64
+gamma: 0.95
+gamma_r: 1.06
+gamma_g: 0.91
+gamma_b: 0.99
+vignette: -46
+temp: 4695
