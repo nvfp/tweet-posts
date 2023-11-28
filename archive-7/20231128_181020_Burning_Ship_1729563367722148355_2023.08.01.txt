@@ -1,0 +1,28 @@
+tweet_id: 1729563367722148355
+masto_id: 111489516860533167
+subre_id: Not uploaded, but here's the text: Enjoying the Tuesday with this Burning Ship.  #Fractals #Nature
+
+n_iter: 250
+ct: 16
+hue_offset: 349
+saturation: 0.13
+
+num_attempts: 14
+dur: 3
+std: 38.44
+size: 1267307 (1.21 MiB)
+
+xmin: -0.6957300678838954
+xmax: -0.3495762217300492
+ymin: -0.8517098452011818
+ymax: -0.6569983067396433
+
+contrast: 1.15
+brightness: 0.19
+saturation: 0.31
+gamma: 0.97
+gamma_r: 0.99
+gamma_g: 1.07
+gamma_b: 1.03
+vignette: 32
+temp: 6126
