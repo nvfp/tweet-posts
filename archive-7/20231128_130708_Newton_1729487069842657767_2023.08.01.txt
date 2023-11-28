@@ -1,0 +1,31 @@
+tweet_id: 1729487069842657767
+masto_id: 111488324618146900
+subre_id: Not uploaded, but here's the text: Shine bright like the sun on this Tuesday!  #Art #DigitalArt
+
+newton_power: 7
+newton_const: 7
+
+n_iter: 213
+ct: 155
+hue_offset: 56
+saturation: -0.62
+
+num_attempts: 130
+dur: 601
+std: 22.01
+size: 1128660 (1.08 MiB)
+
+xmin: 0.6902473536672749
+xmax: 0.9629746263945476
+ymin: 0.9985219746058216
+ymax: 1.1519310655149124
+
+contrast: 1.2
+brightness: 0.21
+saturation: 1.24
+gamma: 1.02
+gamma_r: 0.94
+gamma_g: 1.05
+gamma_b: 1.05
+vignette: 28
+temp: 4891
