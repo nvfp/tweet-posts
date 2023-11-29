@@ -1,0 +1,31 @@
+tweet_id: 1729679728338932042
+masto_id: 111491334929118225
+subre_id: Not uploaded, but here's the text: Warm wishes for your Wednesday, and let's have a look at this Newton.  #Programming #Nature
+
+newton_power: 5
+newton_const: -7
+
+n_iter: 242
+ct: 239
+hue_offset: 24
+saturation: 0.22
+
+num_attempts: 205
+dur: 600
+std: 11.46
+size: 520224 (508.03 KiB)
+
+xmin: 1.0032977616358796
+xmax: 1.0093706361298067
+ymin: -0.773166445242006
+ymax: -0.7697504533391719
+
+contrast: 0.77
+brightness: 0.17
+saturation: 0.37
+gamma: 0.92
+gamma_r: 1.08
+gamma_g: 1.05
+gamma_b: 0.97
+vignette: -7
+temp: 5803
