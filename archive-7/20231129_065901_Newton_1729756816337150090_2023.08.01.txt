@@ -1,0 +1,31 @@
+tweet_id: 1729756816337150090
+masto_id: 111492539390801007
+subre_id: Not uploaded, but here's the text: Let the magic of Wednesday fill your heart!  #Mathematics #Science
+
+newton_power: 7
+newton_const: 10
+
+n_iter: 255
+ct: 71
+hue_offset: 210
+saturation: -0.77
+
+num_attempts: 147
+dur: 601
+std: 24.85
+size: 1222374 (1.17 MiB)
+
+xmin: -0.5535494233655229
+xmax: -0.5472667008524339
+ymin: -0.3183390065211691
+ymax: -0.3148049751075565
+
+contrast: 0.89
+brightness: 0.12
+saturation: 1.18
+gamma: 0.98
+gamma_r: 1.01
+gamma_g: 1.05
+gamma_b: 0.98
+vignette: 23
+temp: 6701
