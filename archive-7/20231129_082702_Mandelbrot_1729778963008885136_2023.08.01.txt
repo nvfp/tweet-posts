@@ -1,0 +1,28 @@
+tweet_id: 1729778963008885136
+masto_id: 111492885545511303
+subre_id: Not uploaded, but here's the text: Warm wishes for your Wednesday, and let's have a look at this Mandelbrot Set.  #Mathematics #Fractals
+
+n_iter: 193
+ct: 187
+hue_offset: 245
+saturation: -0.52
+
+num_attempts: 87
+dur: 18
+std: 20.79
+size: 1112890 (1.06 MiB)
+
+xmin: -0.028053683818335617
+xmax: -0.022411934876163546
+ymin: 0.6900872086776406
+ymax: 0.6932606924576125
+
+contrast: 1.07
+brightness: -0.03
+saturation: 0.34
+gamma: 0.98
+gamma_r: 0.99
+gamma_g: 1.0
+gamma_b: 0.99
+vignette: 33
+temp: 3519
