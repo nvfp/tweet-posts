@@ -1,0 +1,28 @@
+tweet_id: 1729748886862905433
+masto_id: 111492415494057793
+subre_id: Not uploaded, but here's the text: Feeling good today!  #Nature #MachineLearning
+
+n_iter: 636
+ct: 80
+hue_offset: 73
+saturation: -0.97
+
+num_attempts: 31
+dur: 14
+std: 60.45
+size: 1227383 (1.17 MiB)
+
+xmin: 0.18448618591282306
+xmax: 0.1851805098149234
+ymin: 0.567288996632261
+ymax: 0.5676795538271924
+
+contrast: 1.66
+brightness: -0.06
+saturation: 1.71
+gamma: 0.96
+gamma_r: 1.01
+gamma_g: 0.97
+gamma_b: 0.95
+vignette: 15
+temp: 3433
