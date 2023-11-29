@@ -1,0 +1,28 @@
+tweet_id: 1729842765704679894
+masto_id: 111493882480512200
+subre_id: Not uploaded, but here's the text: you are awesome.  #Programming #Nature
+
+n_iter: 705
+ct: 1
+hue_offset: 196
+saturation: 0.0
+
+num_attempts: 81
+dur: 47
+std: 72.52
+size: 742098 (724.71 KiB)
+
+xmin: -0.2953059313777828
+xmax: -0.22973216088597953
+ymin: -0.6745422513513075
+ymax: -0.6376570054496682
+
+contrast: 0.84
+brightness: 0.17
+saturation: 1.48
+gamma: 1.08
+gamma_r: 1.0
+gamma_g: 0.94
+gamma_b: 0.98
+vignette: 8
+temp: 4893
