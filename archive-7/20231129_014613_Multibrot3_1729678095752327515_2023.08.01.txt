@@ -1,0 +1,28 @@
+tweet_id: 1729678095752327515
+masto_id: 111491309471434537
+subre_id: Not uploaded, but here's the text: You rock, and so does this Wednesday!  #AI #Nature
+
+n_iter: 409
+ct: 1
+hue_offset: 287
+saturation: 0.84
+
+num_attempts: 685
+dur: 600
+std: 53.41
+size: 570427 (557.06 KiB)
+
+xmin: 0.534476894418384
+xmax: 0.5483657833072728
+ymin: 0.324042604096312
+ymax: 0.331855104096312
+
+contrast: 0.81
+brightness: 0.04
+saturation: 1.59
+gamma: 1.07
+gamma_r: 0.91
+gamma_g: 1.09
+gamma_b: 1.06
+vignette: 7
+temp: 2000
