@@ -1,0 +1,28 @@
+tweet_id: 1729925680735957048
+masto_id: 111495178041936186
+subre_id: Not uploaded, but here's the text: How was your day?  #Science #DigitalArt
+
+n_iter: 162
+ct: 125
+hue_offset: 91
+saturation: -0.59
+
+num_attempts: 9
+dur: 1
+std: 23.66
+size: 1189251 (1.13 MiB)
+
+xmin: 0.3741136649101482
+xmax: 0.46065212644860976
+ymin: -1.2471925020463623
+ymax: -1.1985146174309778
+
+contrast: 1.77
+brightness: 0.12
+saturation: 0.33
+gamma: 0.92
+gamma_r: 0.92
+gamma_g: 1.0
+gamma_b: 1.09
+vignette: -11
+temp: 2587
