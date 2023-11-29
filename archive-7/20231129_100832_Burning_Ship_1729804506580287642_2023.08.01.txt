@@ -1,0 +1,28 @@
+tweet_id: 1729804506580287642
+masto_id: 111493284639101016
+subre_id: Not uploaded, but here's the text: Surprise! Burning Ship!  #Programming #Math
+
+n_iter: 434
+ct: 42
+hue_offset: 54
+saturation: -0.63
+
+num_attempts: 18
+dur: 4
+std: 70.86
+size: 1744235 (1.66 MiB)
+
+xmin: 0.4744292436052504
+xmax: 0.6475061666821735
+ymin: -1.195620167882928
+ymax: -1.0982643986521587
+
+contrast: 1.61
+brightness: -0.1
+saturation: 1.44
+gamma: 1.01
+gamma_r: 1.0
+gamma_g: 1.08
+gamma_b: 0.97
+vignette: -26
+temp: 2089
