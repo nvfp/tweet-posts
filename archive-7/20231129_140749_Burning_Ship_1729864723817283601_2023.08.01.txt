@@ -1,0 +1,28 @@
+tweet_id: 1729864723817283601
+masto_id: 111494225476206989
+subre_id: Not uploaded, but here's the text: Hello Wednesday! This Burning Ship is yours!  #Mathematics #Fractals
+
+n_iter: 171
+ct: 236
+hue_offset: 33
+saturation: 0.73
+
+num_attempts: 110
+dur: 24
+std: 28.99
+size: 902894 (881.73 KiB)
+
+xmin: -0.8066106885660607
+xmax: -0.6335337654891375
+ymin: -0.9665353312245522
+ymax: -0.8691795619937829
+
+contrast: 1.7
+brightness: -0.06
+saturation: 1.07
+gamma: 0.95
+gamma_r: 0.95
+gamma_g: 0.98
+gamma_b: 0.94
+vignette: -44
+temp: 3704
