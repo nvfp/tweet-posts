@@ -1,0 +1,28 @@
+tweet_id: 1729687009965301814
+masto_id: 111491448809190678
+subre_id: Not uploaded, but here's the text: Enjoying the Wednesday with this Burning Ship.  #Math #AI
+
+n_iter: 181
+ct: 79
+hue_offset: 48
+saturation: 0.57
+
+num_attempts: 1
+dur: 0
+std: 24.23
+size: 1428366 (1.36 MiB)
+
+xmin: -0.9677235831442488
+xmax: -0.9015471125560135
+ymin: -0.7538312174848465
+ymax: -0.7166069527789641
+
+contrast: 0.73
+brightness: 0.19
+saturation: 0.82
+gamma: 1.02
+gamma_r: 1.09
+gamma_g: 0.99
+gamma_b: 0.93
+vignette: 15
+temp: 5096
