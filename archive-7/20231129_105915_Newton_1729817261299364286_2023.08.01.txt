@@ -1,0 +1,31 @@
+tweet_id: 1729817261299364286
+masto_id: 111493484065935990
+subre_id: Not uploaded, but here's the text: Hello Wednesday! This Newton is yours!  #Programming #Science
+
+newton_power: 4
+newton_const: -8
+
+n_iter: 97
+ct: 135
+hue_offset: 327
+saturation: 0.25
+
+num_attempts: 250
+dur: 601
+std: 7.88
+size: 883040 (862.34 KiB)
+
+xmin: 0.7236878815368484
+xmax: 1.0570212148701816
+ymin: -0.9346692830290189
+ymax: -0.7471692830290189
+
+contrast: 1.49
+brightness: 0.0
+saturation: 1.4
+gamma: 1.03
+gamma_r: 0.96
+gamma_g: 0.99
+gamma_b: 0.99
+vignette: -20
+temp: 2412
