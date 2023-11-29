@@ -1,0 +1,28 @@
+tweet_id: 1729895498054558040
+masto_id: 111494706330178099
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Wednesday!  #VisualArt #Art
+
+n_iter: 504
+ct: 166
+hue_offset: 6
+saturation: 0.12
+
+num_attempts: 19
+dur: 3
+std: 72.64
+size: 1711245 (1.63 MiB)
+
+xmin: -0.7026173092435524
+xmax: -0.619283975910219
+ymin: -0.7849692905136709
+ymax: -0.7380942905136709
+
+contrast: 1.14
+brightness: 0.13
+saturation: 1.03
+gamma: 0.92
+gamma_r: 1.05
+gamma_g: 0.96
+gamma_b: 1.0
+vignette: 7
+temp: 3397
