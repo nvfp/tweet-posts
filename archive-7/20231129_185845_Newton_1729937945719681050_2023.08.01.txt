@@ -1,0 +1,31 @@
+tweet_id: 1729937945719681050
+masto_id: 111495369565060049
+subre_id: Not uploaded, but here's the text: Chin up, lovely humans!  #Programming #DeepLearning
+
+newton_power: 4
+newton_const: -6
+
+n_iter: 125
+ct: 44
+hue_offset: 4
+saturation: 0.73
+
+num_attempts: 258
+dur: 600
+std: 9.14
+size: 990517 (967.3 KiB)
+
+xmin: -0.877471649500495
+xmax: -0.5245304730299067
+ymin: -0.8954168482466878
+ymax: -0.6968874364819819
+
+contrast: 1.05
+brightness: -0.04
+saturation: 0.67
+gamma: 0.97
+gamma_r: 1.02
+gamma_g: 0.96
+gamma_b: 1.07
+vignette: 14
+temp: 4102
