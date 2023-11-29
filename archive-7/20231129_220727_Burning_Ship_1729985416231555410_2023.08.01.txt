@@ -1,0 +1,28 @@
+tweet_id: 1729985416231555410
+masto_id: 111496111395923049
+subre_id: Not uploaded, but here's the text: Enjoying the Wednesday with this Burning Ship.  #Nature #VisualArt
+
+n_iter: 292
+ct: 230
+hue_offset: 311
+saturation: 0.87
+
+num_attempts: 46
+dur: 9
+std: 23.11
+size: 555221 (542.21 KiB)
+
+xmin: 0.020558242261714543
+xmax: 1.1455582422617145
+ymin: -1.2832586983015148
+ymax: -0.6504461983015148
+
+contrast: 0.85
+brightness: -0.03
+saturation: 0.98
+gamma: 1.06
+gamma_r: 1.01
+gamma_g: 0.93
+gamma_b: 0.97
+vignette: 5
+temp: 6585
