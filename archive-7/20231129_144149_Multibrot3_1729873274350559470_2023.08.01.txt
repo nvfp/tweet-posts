@@ -1,0 +1,28 @@
+tweet_id: 1729873274350559470
+masto_id: FAIL
+subre_id: Not uploaded, but here's the text: Wow, guess what? it's Multibrot!  #Math #Fractals
+
+n_iter: 535
+ct: 255
+hue_offset: 279
+saturation: -0.64
+
+num_attempts: 422
+dur: 600
+std: 93.35
+size: 946261 (924.08 KiB)
+
+xmin: 0.04529918009643996
+xmax: 0.049536468232033185
+ymin: 0.7670106897100397
+ymax: 0.7693941642863109
+
+contrast: 0.86
+brightness: 0.11
+saturation: 1.36
+gamma: 0.94
+gamma_r: 1.01
+gamma_g: 1.03
+gamma_b: 1.01
+vignette: -34
+temp: 6017
