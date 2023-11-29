@@ -1,0 +1,28 @@
+tweet_id: 1729674460079300983
+masto_id: 111491252585161876
+subre_id: Not uploaded, but here's the text: Keep shining on Wednesday!  #Nature #Math
+
+n_iter: 564
+ct: 20
+hue_offset: 256
+saturation: 0.49
+
+num_attempts: 4
+dur: 2
+std: 94.41
+size: 1587206 (1.51 MiB)
+
+xmin: -0.021795713084654444
+xmax: -0.021324014971446897
+ymin: -0.6423267995360074
+ymax: -0.6420614693473281
+
+contrast: 1.29
+brightness: 0.03
+saturation: 1.31
+gamma: 1.07
+gamma_r: 1.06
+gamma_g: 1.09
+gamma_b: 1.0
+vignette: 26
+temp: 3882
