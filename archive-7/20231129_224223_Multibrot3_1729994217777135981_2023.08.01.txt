@@ -1,0 +1,28 @@
+tweet_id: 1729994217777135981
+masto_id: 111496248907957074
+subre_id: Not uploaded, but here's the text: Wow, take a look! There's Multibrot!  #MachineLearning #AI
+
+n_iter: 336
+ct: 1
+hue_offset: 48
+saturation: -0.69
+
+num_attempts: 693
+dur: 603
+std: 55.23
+size: 1087574 (1.04 MiB)
+
+xmin: -0.39334187604046833
+xmax: -0.3885225989320346
+ymin: 0.6149220671138802
+ymax: 0.6176329104873741
+
+contrast: 1.2
+brightness: 0.1
+saturation: 1.0
+gamma: 1.01
+gamma_r: 1.07
+gamma_g: 0.9
+gamma_b: 0.94
+vignette: 13
+temp: 4718
