@@ -1,0 +1,28 @@
+tweet_id: 1729744632483877109
+masto_id: 111492348928473575
+subre_id: Not uploaded, but here's the text: Let's rock this Wednesday!  #DeepLearning #Science
+
+n_iter: 138
+ct: 206
+hue_offset: 227
+saturation: 0.63
+
+num_attempts: 58
+dur: 9
+std: 20.3
+size: 559242 (546.13 KiB)
+
+xmin: -1.2317789672442523
+xmax: -0.9949368619810944
+ymin: -0.5414809433150818
+ymax: -0.40825725910455546
+
+contrast: 1.76
+brightness: 0.19
+saturation: 0.49
+gamma: 0.92
+gamma_r: 1.09
+gamma_g: 0.95
+gamma_b: 0.97
+vignette: 3
+temp: 4516
