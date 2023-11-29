@@ -1,0 +1,28 @@
+tweet_id: 1729753060258218134
+masto_id: 111492480652658090
+subre_id: Not uploaded, but here's the text: Smile, it's Wednesday!  #Art #VisualArt
+
+n_iter: 276
+ct: 255
+hue_offset: 144
+saturation: -0.78
+
+num_attempts: 773
+dur: 602
+std: 48.9
+size: 734288 (717.08 KiB)
+
+xmin: -0.2769286726148883
+xmax: -0.26473355066366877
+ymin: 0.7175691213558979
+ymax: 0.7244288774534589
+
+contrast: 1.38
+brightness: -0.01
+saturation: 1.51
+gamma: 0.91
+gamma_r: 1.07
+gamma_g: 1.08
+gamma_b: 1.02
+vignette: 26
+temp: 4083
