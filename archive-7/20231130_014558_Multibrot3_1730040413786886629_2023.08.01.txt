@@ -1,0 +1,28 @@
+tweet_id: 1730040413786886629
+masto_id: 111496970764093265
+subre_id: Not uploaded, but here's the text: How's your day?  #DeepLearning #DigitalArt
+
+n_iter: 626
+ct: 255
+hue_offset: 179
+saturation: -0.35
+
+num_attempts: 417
+dur: 602
+std: 74.63
+size: 1107843 (1.06 MiB)
+
+xmin: 0.5249093880191391
+xmax: 0.5380241421174997
+ymin: -0.18092357297055517
+ymax: -0.1735465237902273
+
+contrast: 0.94
+brightness: 0.22
+saturation: 1.13
+gamma: 0.96
+gamma_r: 0.91
+gamma_g: 1.01
+gamma_b: 1.04
+vignette: -33
+temp: 5961
