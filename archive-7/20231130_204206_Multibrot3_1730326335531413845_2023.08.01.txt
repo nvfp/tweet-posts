@@ -1,0 +1,28 @@
+tweet_id: 1730326335531413845
+masto_id: 111501438269671826
+subre_id: Not uploaded, but here's the text: Feeling the Multibrot vibes today!  #Art #Mathematics
+
+n_iter: 404
+ct: 1
+hue_offset: 316
+saturation: 0.43
+
+num_attempts: 629
+dur: 605
+std: 75.96
+size: 1375678 (1.31 MiB)
+
+xmin: 0.41878181487972954
+xmax: 0.42365986366021735
+ymin: -0.6158384925007859
+ymax: -0.6130945900617616
+
+contrast: 0.77
+brightness: -0.04
+saturation: 1.36
+gamma: 1.09
+gamma_r: 0.92
+gamma_g: 1.06
+gamma_b: 0.92
+vignette: -35
+temp: 4995
