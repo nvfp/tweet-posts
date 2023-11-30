@@ -1,0 +1,28 @@
+tweet_id: 1730288137468047868
+masto_id: 111500841328874263
+subre_id: Not uploaded, but here's the text: Keep smiling!  #Fractals #Science
+
+n_iter: 259
+ct: 213
+hue_offset: 249
+saturation: 0.56
+
+num_attempts: 14
+dur: 2
+std: 41.54
+size: 1848779 (1.76 MiB)
+
+xmin: -0.9996319145798087
+xmax: -0.8265549915028856
+ymin: -0.686165498003307
+ymax: -0.5888097287725377
+
+contrast: 1.38
+brightness: 0.11
+saturation: 1.51
+gamma: 1.06
+gamma_r: 0.91
+gamma_g: 0.99
+gamma_b: 1.01
+vignette: -47
+temp: 2177
