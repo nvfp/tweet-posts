@@ -1,0 +1,28 @@
+tweet_id: 1730145369630376060
+masto_id: 111498610489567806
+subre_id: Not uploaded, but here's the text: Happy Thursday!  #Mathematics #DeepLearning
+
+n_iter: 430
+ct: 255
+hue_offset: 78
+saturation: -0.28
+
+num_attempts: 462
+dur: 604
+std: 61.64
+size: 751409 (733.8 KiB)
+
+xmin: -0.0844421721686186
+xmax: -0.08028848577194155
+ymin: 1.1484559060343211
+ymax: 1.1507923546324519
+
+contrast: 1.57
+brightness: -0.07
+saturation: 1.31
+gamma: 1.02
+gamma_r: 1.07
+gamma_g: 0.95
+gamma_b: 1.03
+vignette: -42
+temp: 7137
