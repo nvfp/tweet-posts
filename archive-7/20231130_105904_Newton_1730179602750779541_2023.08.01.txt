@@ -1,0 +1,31 @@
+tweet_id: 1730179602750779541
+masto_id: 111499145655232742
+subre_id: Not uploaded, but here's the text: Smile!  #AI #Mathematics
+
+newton_power: 3
+newton_const: 6
+
+n_iter: 171
+ct: 238
+hue_offset: 123
+saturation: 0.32
+
+num_attempts: 528
+dur: 600
+std: 3.75
+size: 696309 (679.99 KiB)
+
+xmin: -0.9572563964573164
+xmax: -0.9447823839833039
+ymin: 1.0427976888231143
+ymax: 1.0498143208397464
+
+contrast: 1.61
+brightness: 0.02
+saturation: 0.86
+gamma: 1.04
+gamma_r: 0.91
+gamma_g: 1.04
+gamma_b: 1.04
+vignette: -23
+temp: 5324
