@@ -1,0 +1,28 @@
+tweet_id: 1730292355188617534
+masto_id: 111500907310474205
+subre_id: Not uploaded, but here's the text: Let's rock this Thursday!  #VisualArt #MachineLearning
+
+n_iter: 184
+ct: 16
+hue_offset: 112
+saturation: -0.82
+
+num_attempts: 45
+dur: 11
+std: 28.16
+size: 1608624 (1.53 MiB)
+
+xmin: -0.4628040545115888
+xmax: -0.460322664933425
+ymin: -0.5841645811473913
+ymax: -0.5827687995096742
+
+contrast: 0.73
+brightness: 0.12
+saturation: 0.69
+gamma: 1.03
+gamma_r: 0.98
+gamma_g: 1.05
+gamma_b: 0.94
+vignette: 28
+temp: 7859
