@@ -1,0 +1,28 @@
+tweet_id: 1730267642185871510
+masto_id: 111500521058191362
+subre_id: Not uploaded, but here's the text: Wishing you a rad Thursday!  #Mathematics #VisualArt
+
+n_iter: 502
+ct: 255
+hue_offset: 205
+saturation: -0.65
+
+num_attempts: 445
+dur: 601
+std: 65.25
+size: 1248840 (1.19 MiB)
+
+xmin: -0.5543747272412491
+xmax: -0.5449407649770982
+ymin: 0.20819491101514043
+ymax: 0.21350151478872534
+
+contrast: 1.47
+brightness: 0.2
+saturation: 1.36
+gamma: 1.07
+gamma_r: 1.0
+gamma_g: 1.03
+gamma_b: 0.98
+vignette: 15
+temp: 4363
