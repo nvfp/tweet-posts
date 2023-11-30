@@ -7,14 +7,17 @@ def get_list():
         '#MachineLearning',
         '#DeepLearning',
         '#Mathematics',
-        '#Math',
-        '#Science',
         '#Nature',
         '#Fractals',
         '#Art',
         '#DigitalArt',
         '#VisualArt',
-        '#Programming',
+        
+        '#WorldCup2023',
+        "#FIFAWorldCup",
+        "#Qatar2023",
+        "#Football",
+        "#Soccer",
     ]
 
 
