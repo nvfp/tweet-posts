@@ -1,0 +1,31 @@
+tweet_id: 1730058848394776692
+masto_id: 111497258623096145
+subre_id: Not uploaded, but here's the text: Newton vibes to brighten your Thursday.  #Art #MachineLearning
+
+newton_power: 6
+newton_const: -7
+
+n_iter: 99
+ct: 178
+hue_offset: 40
+saturation: -0.05
+
+num_attempts: 160
+dur: 604
+std: 20.69
+size: 718537 (701.7 KiB)
+
+xmin: -1.2861394232161214
+xmax: -1.1557046406074258
+ymin: -0.7824706956890533
+ymax: -0.7091011304716619
+
+contrast: 1.41
+brightness: 0.2
+saturation: 1.57
+gamma: 1.0
+gamma_r: 0.96
+gamma_g: 1.08
+gamma_b: 1.01
+vignette: 14
+temp: 3774
