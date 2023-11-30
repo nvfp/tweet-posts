@@ -1,0 +1,31 @@
+tweet_id: 1730149458141216917
+masto_id: 111498674588460455
+subre_id: Not uploaded, but here's the text: Warm wishes for your Thursday, and let's have a look at this Newton.  #Art #Programming
+
+newton_power: 3
+newton_const: -2
+
+n_iter: 123
+ct: 144
+hue_offset: 167
+saturation: 0.4
+
+num_attempts: 543
+dur: 600
+std: 4.03
+size: 393988 (384.75 KiB)
+
+xmin: 0.2651045580508793
+xmax: 0.5808940317350898
+ymin: 0.8503201006483883
+ymax: 1.0279516795957566
+
+contrast: 1.62
+brightness: 0.19
+saturation: 0.42
+gamma: 0.9
+gamma_r: 1.07
+gamma_g: 0.97
+gamma_b: 1.01
+vignette: -6
+temp: 5123
