@@ -1,0 +1,28 @@
+tweet_id: 1730321446164156641
+masto_id: 111501361782968686
+subre_id: Not uploaded, but here's the text: Hope you have an amazing Thursday!  #DigitalArt #AI
+
+n_iter: 433
+ct: 195
+hue_offset: 119
+saturation: 0.11
+
+num_attempts: 55
+dur: 25
+std: 63.25
+size: 1438756 (1.37 MiB)
+
+xmin: -0.4037247344525907
+xmax: -0.40272995703403813
+ymin: -0.5969918029258465
+ymax: -0.5964322406279107
+
+contrast: 0.77
+brightness: -0.06
+saturation: 1.56
+gamma: 1.08
+gamma_r: 1.09
+gamma_g: 1.0
+gamma_b: 1.03
+vignette: -31
+temp: 6791
