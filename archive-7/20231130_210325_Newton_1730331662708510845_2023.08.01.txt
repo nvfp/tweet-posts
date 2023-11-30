@@ -1,0 +1,31 @@
+tweet_id: 1730331662708510845
+masto_id: 111501521888093473
+subre_id: Not uploaded, but here's the text: Have a great day!  #VisualArt #AI
+
+newton_power: 6
+newton_const: 0
+
+n_iter: 149
+ct: 88
+hue_offset: 252
+saturation: 0.86
+
+num_attempts: 215
+dur: 850
+std: 1.1
+size: 688483 (672.35 KiB)
+
+xmin: -1.8081062752083632
+xmax: -0.8081062752083632
+ymin: 0.2648197798807903
+ymax: 0.8273197798807903
+
+contrast: 1.26
+brightness: -0.05
+saturation: 1.05
+gamma: 1.03
+gamma_r: 1.07
+gamma_g: 1.09
+gamma_b: 1.04
+vignette: -43
+temp: 5794
