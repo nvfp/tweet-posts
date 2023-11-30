@@ -1,0 +1,28 @@
+tweet_id: 1730175974698885341
+masto_id: 111499088755194870
+subre_id: Not uploaded, but here's the text: Smile!  #DeepLearning #Math
+
+n_iter: 305
+ct: 1
+hue_offset: 30
+saturation: 0.89
+
+num_attempts: 671
+dur: 600
+std: 59.58
+size: 1163311 (1.11 MiB)
+
+xmin: -0.19244263158496078
+xmax: -0.18663711634548327
+ymin: -0.7509784631888261
+ymax: -0.74771286086662
+
+contrast: 1.19
+brightness: 0.08
+saturation: 1.08
+gamma: 0.95
+gamma_r: 0.95
+gamma_g: 0.96
+gamma_b: 0.92
+vignette: 10
+temp: 7736
