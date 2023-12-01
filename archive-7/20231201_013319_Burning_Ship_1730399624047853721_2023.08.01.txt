@@ -1,0 +1,28 @@
+tweet_id: 1730399624047853721
+masto_id: 111502583329116794
+subre_id: Not uploaded, but here's the text: Wishing you a fantastic day!  #MachineLearning #DeepLearning
+
+n_iter: 364
+ct: 102
+hue_offset: 318
+saturation: -0.42
+
+num_attempts: 4
+dur: 0
+std: 36.03
+size: 781636 (763.32 KiB)
+
+xmin: -1.5679914626123819
+xmax: -1.4779914626123818
+ymin: -0.06384706286321995
+ymax: -0.013222062863219954
+
+contrast: 1.07
+brightness: 0.19
+saturation: 1.74
+gamma: 1.06
+gamma_r: 0.93
+gamma_g: 1.03
+gamma_b: 1.07
+vignette: 8
+temp: 6265
