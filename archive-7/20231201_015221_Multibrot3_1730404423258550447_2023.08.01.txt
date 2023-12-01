@@ -1,0 +1,28 @@
+tweet_id: 1730404423258550447
+masto_id: 111502658206750724
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Friday!  #Art #Soccer
+
+n_iter: 259
+ct: 1
+hue_offset: 135
+saturation: 0.73
+
+num_attempts: 785
+dur: 603
+std: 49.26
+size: 995095 (971.77 KiB)
+
+xmin: -0.5767189047135455
+xmax: -0.5718879868391493
+ymin: -0.6036228240146944
+ymax: -0.6009054327103466
+
+contrast: 1.51
+brightness: -0.01
+saturation: 0.29
+gamma: 0.94
+gamma_r: 1.0
+gamma_g: 1.0
+gamma_b: 0.97
+vignette: -22
+temp: 5203
