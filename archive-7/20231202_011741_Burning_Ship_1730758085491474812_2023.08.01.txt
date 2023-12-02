@@ -1,0 +1,28 @@
+tweet_id: 1730758085491474812
+masto_id: 111508184164699786
+subre_id: Not uploaded, but here's the text: you are cool  #DigitalArt #FIFAWorldCup
+
+n_iter: 150
+ct: 111
+hue_offset: 170
+saturation: 0.48
+
+num_attempts: 15
+dur: 3
+std: 23.91
+size: 2065230 (1.97 MiB)
+
+xmin: -1.394317928168624
+xmax: -1.3366256204763163
+ymin: -0.3394951540985842
+ymax: -0.30704323102166114
+
+contrast: 1.56
+brightness: -0.07
+saturation: 1.1
+gamma: 1.08
+gamma_r: 1.02
+gamma_g: 1.1
+gamma_b: 1.06
+vignette: -46
+temp: 2209
