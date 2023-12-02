@@ -1,0 +1,28 @@
+tweet_id: 1730760894102249592
+masto_id: 111508228089917826
+subre_id: Not uploaded, but here's the text: Surprise! Mandelbrot Set!  #Mathematics #Qatar2023
+
+n_iter: 1014
+ct: 5
+hue_offset: 112
+saturation: -0.33
+
+num_attempts: 57
+dur: 39
+std: 164.3
+size: 2077223 (1.98 MiB)
+
+xmin: -0.440648607901609
+xmax: -0.4400608911810683
+ymin: 0.564898450604169
+ymax: 0.5652290412594732
+
+contrast: 1.01
+brightness: 0.15
+saturation: 0.5
+gamma: 1.04
+gamma_r: 1.07
+gamma_g: 1.08
+gamma_b: 0.96
+vignette: -38
+temp: 3219
