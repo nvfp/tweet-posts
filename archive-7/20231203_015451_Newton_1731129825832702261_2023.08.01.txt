@@ -1,0 +1,31 @@
+tweet_id: 1731129825832702261
+masto_id: 111513992672429647
+subre_id: Not uploaded, but here's the text: Hope your Sunday is awesome!  #Nature #FIFAWorldCup
+
+newton_power: 5
+newton_const: 6
+
+n_iter: 123
+ct: 151
+hue_offset: 79
+saturation: 0.51
+
+num_attempts: 195
+dur: 602
+std: 11.37
+size: 991440 (968.2 KiB)
+
+xmin: -2.7532194295044077
+xmax: -2.5910572673422454
+ymin: 1.8973753687350716
+ymax: 1.9885915849512878
+
+contrast: 1.77
+brightness: -0.07
+saturation: 1.64
+gamma: 1.06
+gamma_r: 0.91
+gamma_g: 1.02
+gamma_b: 1.03
+vignette: 9
+temp: 6608
