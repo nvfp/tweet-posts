@@ -1,0 +1,28 @@
+tweet_id: 1731122281408078190
+masto_id: 111513874684869628
+subre_id: Not uploaded, but here's the text: Hey wait, look! it's Burning Ship!  #DeepLearning #Nature
+
+n_iter: 205
+ct: 20
+hue_offset: 185
+saturation: -0.64
+
+num_attempts: 18
+dur: 7
+std: 31.43
+size: 991353 (968.12 KiB)
+
+xmin: -0.9901581898071816
+xmax: -0.4901581898071816
+ymin: -0.7921869671214319
+ymax: -0.5109369671214319
+
+contrast: 1.59
+brightness: 0.13
+saturation: 0.94
+gamma: 1.02
+gamma_r: 0.97
+gamma_g: 0.97
+gamma_b: 1.06
+vignette: 25
+temp: 3469
