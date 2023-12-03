@@ -1,0 +1,28 @@
+tweet_id: 1731124997605994866
+masto_id: 111513917286426867
+subre_id: Not uploaded, but here's the text: Brighten your Sunday!  #WorldCup2023 #DigitalArt
+
+n_iter: 822
+ct: 145
+hue_offset: 281
+saturation: -0.55
+
+num_attempts: 16
+dur: 9
+std: 102.87
+size: 1769112 (1.69 MiB)
+
+xmin: -0.6485492927151468
+xmax: -0.6478253108146943
+ymin: 0.4355746791716586
+ymax: 0.43598191899066313
+
+contrast: 0.77
+brightness: -0.01
+saturation: 0.53
+gamma: 0.97
+gamma_r: 0.93
+gamma_g: 0.92
+gamma_b: 0.95
+vignette: 20
+temp: 7577
