@@ -1,0 +1,28 @@
+tweet_id: 1731490093213389000
+masto_id: 111519622147272675
+subre_id: Not uploaded, but here's the text: Look closely, it's Multibrot!  #DeepLearning #Qatar2023
+
+n_iter: 431
+ct: 255
+hue_offset: 19
+saturation: -0.44
+
+num_attempts: 462
+dur: 603
+std: 36.42
+size: 679377 (663.45 KiB)
+
+xmin: -0.5775128283837712
+xmax: -0.5541210155182741
+ymin: 0.46051817437216314
+ymax: 0.4736760691090052
+
+contrast: 0.95
+brightness: 0.21
+saturation: 0.59
+gamma: 0.98
+gamma_r: 0.93
+gamma_g: 1.03
+gamma_b: 1.1
+vignette: 23
+temp: 3407
