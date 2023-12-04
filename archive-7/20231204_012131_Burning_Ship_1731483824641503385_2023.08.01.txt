@@ -1,0 +1,28 @@
+tweet_id: 1731483824641503385
+masto_id: 111519523901854165
+subre_id: Not uploaded, but here's the text: Warm wishes for your Monday, and let's have a look at this Burning Ship.  #MachineLearning #FIFAWorldCup
+
+n_iter: 328
+ct: 222
+hue_offset: 122
+saturation: -0.84
+
+num_attempts: 8
+dur: 1
+std: 27.81
+size: 1576049 (1.5 MiB)
+
+xmin: 0.07038709579874292
+xmax: 0.14181566722731434
+ymin: -1.1910000565618426
+ymax: -1.1508214851332712
+
+contrast: 0.94
+brightness: 0.11
+saturation: 1.67
+gamma: 1.02
+gamma_r: 1.06
+gamma_g: 1.02
+gamma_b: 0.91
+vignette: -12
+temp: 5327
