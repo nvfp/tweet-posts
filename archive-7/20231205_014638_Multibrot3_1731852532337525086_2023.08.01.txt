@@ -1,0 +1,28 @@
+tweet_id: 1731852532337525086
+masto_id: 111525284933287195
+subre_id: Not uploaded, but here's the text: you're awesome!  #Football #DeepLearning
+
+n_iter: 609
+ct: 255
+hue_offset: 74
+saturation: 0.21
+
+num_attempts: 488
+dur: 600
+std: 73.67
+size: 475692 (464.54 KiB)
+
+xmin: -0.3717132916489323
+xmax: -0.3585553969120902
+ymin: -0.6402583879688559
+ymax: -0.6328570721793823
+
+contrast: 1.44
+brightness: -0.05
+saturation: 1.32
+gamma: 0.94
+gamma_r: 1.08
+gamma_g: 0.91
+gamma_b: 0.94
+vignette: 17
+temp: 3909
