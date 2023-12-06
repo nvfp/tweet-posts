@@ -1,0 +1,31 @@
+tweet_id: 1732216583194628434
+masto_id: 111530973293765330
+subre_id: Not uploaded, but here's the text: Enjoying the Wednesday with this Newton.  #MachineLearning #Soccer
+
+newton_power: 7
+newton_const: -3
+
+n_iter: 110
+ct: 52
+hue_offset: 251
+saturation: -0.24
+
+num_attempts: 120
+dur: 604
+std: 18.31
+size: 1489905 (1.42 MiB)
+
+xmin: 0.41934834150242617
+xmax: 0.4590834408401745
+ymin: -0.7349830056784252
+ymax: -0.7126320123009418
+
+contrast: 1.49
+brightness: 0.04
+saturation: 1.49
+gamma: 0.94
+gamma_r: 1.03
+gamma_g: 1.0
+gamma_b: 1.09
+vignette: -24
+temp: 6992
