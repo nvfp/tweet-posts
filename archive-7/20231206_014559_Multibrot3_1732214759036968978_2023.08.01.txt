@@ -1,0 +1,28 @@
+tweet_id: 1732214759036968978
+masto_id: 111530944701290847
+subre_id: Not uploaded, but here's the text: Feeling the Multibrot vibes today!  #Mathematics #DeepLearning
+
+n_iter: 613
+ct: 1
+hue_offset: 43
+saturation: 0.96
+
+num_attempts: 348
+dur: 602
+std: 42.13
+size: 266537 (260.29 KiB)
+
+xmin: -0.09294235874354029
+xmax: -0.07914925529526443
+ymin: 1.1419903358538357
+ymax: 1.1497489565434909
+
+contrast: 1.42
+brightness: -0.1
+saturation: 0.73
+gamma: 1.02
+gamma_r: 1.05
+gamma_g: 0.92
+gamma_b: 0.91
+vignette: 27
+temp: 7822
