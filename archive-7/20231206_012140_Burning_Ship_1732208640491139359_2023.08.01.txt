@@ -1,0 +1,28 @@
+tweet_id: 1732208640491139359
+masto_id: 111530849128642325
+subre_id: Not uploaded, but here's the text: Let this Burning Ship inspire your Wednesday.  #VisualArt #FIFAWorldCup
+
+n_iter: 243
+ct: 209
+hue_offset: 197
+saturation: -0.38
+
+num_attempts: 16
+dur: 2
+std: 39.85
+size: 1567287 (1.49 MiB)
+
+xmin: -1.1535119526484143
+xmax: -1.0669734911099529
+ymin: -0.5115158759306961
+ymax: -0.4628379913153115
+
+contrast: 0.92
+brightness: 0.2
+saturation: 1.4
+gamma: 1.07
+gamma_r: 1.07
+gamma_g: 1.01
+gamma_b: 0.97
+vignette: 25
+temp: 3118
