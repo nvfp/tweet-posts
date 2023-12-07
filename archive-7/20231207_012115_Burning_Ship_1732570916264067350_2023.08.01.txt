@@ -1,0 +1,28 @@
+tweet_id: 1732570916264067350
+masto_id: 111536509765881235
+subre_id: Not uploaded, but here's the text: Thursday is shining brightly, just like this Burning Ship.  #DigitalArt #Fractals
+
+n_iter: 344
+ct: 245
+hue_offset: 63
+saturation: -0.72
+
+num_attempts: 15
+dur: 3
+std: 31.4
+size: 1546203 (1.47 MiB)
+
+xmin: -0.7595773729517394
+xmax: -0.6638326921006756
+ymin: -0.95055434637854
+ymax: -0.8966979633998166
+
+contrast: 0.72
+brightness: 0.19
+saturation: 0.81
+gamma: 1.01
+gamma_r: 1.02
+gamma_g: 1.0
+gamma_b: 1.06
+vignette: 23
+temp: 5614
