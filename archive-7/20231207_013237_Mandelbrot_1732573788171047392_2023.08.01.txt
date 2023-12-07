@@ -1,0 +1,28 @@
+tweet_id: 1732573788171047392
+masto_id: 111536554483603184
+subre_id: Not uploaded, but here's the text: Have an awesome day!  #FIFAWorldCup #DeepLearning
+
+n_iter: 965
+ct: 231
+hue_offset: 108
+saturation: 0.68
+
+num_attempts: 15
+dur: 7
+std: 226.88
+size: 666638 (651.01 KiB)
+
+xmin: -0.6483988263076697
+xmax: -0.6477562560265452
+ymin: -0.37464633488573806
+ymax: -0.37428488910260554
+
+contrast: 1.41
+brightness: 0.01
+saturation: 0.31
+gamma: 1.02
+gamma_r: 1.0
+gamma_g: 0.92
+gamma_b: 1.03
+vignette: -43
+temp: 5327
