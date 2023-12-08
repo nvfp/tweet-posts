@@ -1,0 +1,31 @@
+tweet_id: 1732941407730458783
+masto_id: 111542298656958426
+subre_id: Not uploaded, but here's the text: Let's rock this Friday!  #FIFAWorldCup #AI
+
+newton_power: 5
+newton_const: -3
+
+n_iter: 77
+ct: 4
+hue_offset: 74
+saturation: -0.21
+
+num_attempts: 213
+dur: 603
+std: 21.69
+size: 638521 (623.56 KiB)
+
+xmin: 2.2996294168427056
+xmax: 2.3081521441154327
+ymin: 1.676088869627923
+ymax: 1.6808829037188322
+
+contrast: 1.4
+brightness: 0.17
+saturation: 1.56
+gamma: 0.98
+gamma_r: 1.05
+gamma_g: 0.97
+gamma_b: 0.97
+vignette: -12
+temp: 4445
