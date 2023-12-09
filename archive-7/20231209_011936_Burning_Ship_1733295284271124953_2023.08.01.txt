@@ -1,0 +1,28 @@
+tweet_id: 1733295284271124953
+masto_id: 111547827932054121
+subre_id: Not uploaded, but here's the text: Keep smiling!  #MachineLearning #Football
+
+n_iter: 404
+ct: 32
+hue_offset: 332
+saturation: -0.06
+
+num_attempts: 7
+dur: 3
+std: 44.95
+size: 507445 (495.55 KiB)
+
+xmin: -0.2587287422347373
+xmax: 0.005977140118203883
+ymin: -0.9900144871917005
+ymax: -0.841117428368171
+
+contrast: 1.22
+brightness: 0.16
+saturation: 1.24
+gamma: 0.91
+gamma_r: 1.09
+gamma_g: 1.07
+gamma_b: 1.09
+vignette: 4
+temp: 2120
