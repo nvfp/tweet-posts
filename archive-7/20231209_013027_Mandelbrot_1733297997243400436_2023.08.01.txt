@@ -1,0 +1,28 @@
+tweet_id: 1733297997243400436
+masto_id: 111547870406224449
+subre_id: Not uploaded, but here's the text: Keep shining on Saturday!  #WorldCup2023 #FIFAWorldCup
+
+n_iter: 1014
+ct: 47
+hue_offset: 233
+saturation: 0.87
+
+num_attempts: 14
+dur: 8
+std: 19.22
+size: 1025180 (1001.15 KiB)
+
+xmin: -1.0779027076085752
+xmax: -1.0731408028466705
+ymin: 0.25905832467496004
+ymax: 0.26173689610353146
+
+contrast: 1.67
+brightness: 0.01
+saturation: 0.83
+gamma: 1.09
+gamma_r: 0.94
+gamma_g: 1.01
+gamma_b: 1.07
+vignette: -14
+temp: 4836
