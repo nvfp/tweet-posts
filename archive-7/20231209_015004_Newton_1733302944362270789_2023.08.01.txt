@@ -1,0 +1,31 @@
+tweet_id: 1733302944362270789
+masto_id: 111547947723684930
+subre_id: Not uploaded, but here's the text: Guess what? It's Newton!  #FIFAWorldCup #Nature
+
+newton_power: 7
+newton_const: 2
+
+n_iter: 210
+ct: 119
+hue_offset: 212
+saturation: 0.3
+
+num_attempts: 150
+dur: 602
+std: 25.67
+size: 1279080 (1.22 MiB)
+
+xmin: -0.045876683519829875
+xmax: 0.16101986820430805
+ymin: -0.008324343341934215
+ymax: 0.10805496700289337
+
+contrast: 1.2
+brightness: -0.02
+saturation: 0.47
+gamma: 1.07
+gamma_r: 0.96
+gamma_g: 0.97
+gamma_b: 0.91
+vignette: -27
+temp: 7864
