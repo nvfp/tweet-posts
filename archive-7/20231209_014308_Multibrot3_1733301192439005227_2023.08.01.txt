@@ -1,0 +1,28 @@
+tweet_id: 1733301192439005227
+masto_id: 111547920269209974
+subre_id: Not uploaded, but here's the text: You are lovely!  #Art #WorldCup2023
+
+n_iter: 257
+ct: 1
+hue_offset: 182
+saturation: 0.36
+
+num_attempts: 792
+dur: 601
+std: 48.02
+size: 1218524 (1.16 MiB)
+
+xmin: -0.37334235103921176
+xmax: -0.3587438108932264
+ymin: -0.6613899332980465
+ymax: -0.6531782544659297
+
+contrast: 1.55
+brightness: 0.17
+saturation: 1.74
+gamma: 0.93
+gamma_r: 0.95
+gamma_g: 0.95
+gamma_b: 1.0
+vignette: -44
+temp: 5008
