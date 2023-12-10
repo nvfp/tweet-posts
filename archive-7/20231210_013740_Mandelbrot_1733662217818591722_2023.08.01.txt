@@ -1,0 +1,28 @@
+tweet_id: 1733662217818591722
+masto_id: 111553561260660960
+subre_id: Not uploaded, but here's the text: Hey there, it's Sunday!  #FIFAWorldCup #Qatar2023
+
+n_iter: 845
+ct: 66
+hue_offset: 253
+saturation: -0.7
+
+num_attempts: 68
+dur: 34
+std: 71.24
+size: 1617281 (1.54 MiB)
+
+xmin: 0.21204350247333714
+xmax: 0.21260983406048142
+ymin: -0.5484908693545029
+ymax: -0.5481723078367342
+
+contrast: 1.13
+brightness: 0.07
+saturation: 0.77
+gamma: 1.02
+gamma_r: 0.95
+gamma_g: 1.02
+gamma_b: 1.1
+vignette: 8
+temp: 4561
