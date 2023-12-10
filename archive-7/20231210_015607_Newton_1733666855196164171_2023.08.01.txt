@@ -1,0 +1,31 @@
+tweet_id: 1733666855196164171
+masto_id: 111553633792881541
+subre_id: Not uploaded, but here's the text: Feeling good today!  #FIFAWorldCup #AI
+
+newton_power: 3
+newton_const: 2
+
+n_iter: 217
+ct: 62
+hue_offset: 259
+saturation: -0.9
+
+num_attempts: 526
+dur: 600
+std: 4.02
+size: 750580 (732.99 KiB)
+
+xmin: 1.1465974137385437
+xmax: 1.172913203212228
+ymin: 0.08915219866653556
+ymax: 0.10395483024548294
+
+contrast: 0.86
+brightness: 0.1
+saturation: 1.21
+gamma: 1.08
+gamma_r: 1.02
+gamma_g: 0.91
+gamma_b: 0.97
+vignette: -11
+temp: 5066
