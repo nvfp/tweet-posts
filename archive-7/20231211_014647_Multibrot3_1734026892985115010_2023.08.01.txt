@@ -1,0 +1,28 @@
+tweet_id: 1734026892985115010
+masto_id: 111559259365695818
+subre_id: Not uploaded, but here's the text: Brighten your Monday!  #Soccer #DigitalArt
+
+n_iter: 533
+ct: 255
+hue_offset: 237
+saturation: 0.5
+
+num_attempts: 341
+dur: 602
+std: 84.86
+size: 1301462 (1.24 MiB)
+
+xmin: 0.17772819054224698
+xmax: 0.1830332303300454
+ymin: 0.8671412672025975
+ymax: 0.8701253520832342
+
+contrast: 1.05
+brightness: 0.03
+saturation: 0.85
+gamma: 1.03
+gamma_r: 1.08
+gamma_g: 0.96
+gamma_b: 1.03
+vignette: 15
+temp: 4096
