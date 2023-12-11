@@ -1,0 +1,28 @@
+tweet_id: 1734020671091454308
+masto_id: 111559162018817351
+subre_id: Not uploaded, but here's the text: Brighten your Monday!  #Fractals #Football
+
+n_iter: 511
+ct: 247
+hue_offset: 220
+saturation: -0.08
+
+num_attempts: 28
+dur: 8
+std: 20.09
+size: 185597 (181.25 KiB)
+
+xmin: -2.5
+xmax: 2.0
+ymin: -2.0078193229729724
+ymax: 0.5234306770270276
+
+contrast: 1.55
+brightness: 0.0
+saturation: 1.14
+gamma: 0.94
+gamma_r: 1.03
+gamma_g: 1.08
+gamma_b: 1.01
+vignette: 24
+temp: 7065
