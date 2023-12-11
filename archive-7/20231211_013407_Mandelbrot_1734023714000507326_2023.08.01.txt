@@ -1,0 +1,28 @@
+tweet_id: 1734023714000507326
+masto_id: 111559209622142844
+subre_id: Not uploaded, but here's the text: Wishing you a joyful day!  #Football #MachineLearning
+
+n_iter: 357
+ct: 139
+hue_offset: 308
+saturation: -0.05
+
+num_attempts: 73
+dur: 20
+std: 59.29
+size: 884841 (864.1 KiB)
+
+xmin: -0.5393334373693675
+xmax: -0.5384728521714328
+ymin: 0.5828003372575263
+ymax: 0.5832844164313645
+
+contrast: 1.61
+brightness: 0.1
+saturation: 1.0
+gamma: 0.93
+gamma_r: 1.05
+gamma_g: 1.08
+gamma_b: 0.98
+vignette: 3
+temp: 7092
