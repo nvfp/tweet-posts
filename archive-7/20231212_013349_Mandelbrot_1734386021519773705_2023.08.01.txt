@@ -1,0 +1,28 @@
+tweet_id: 1734386021519773705
+masto_id: 111564870745977632
+subre_id: Not uploaded, but here's the text: Have an awesome Tuesday!  #AI #Soccer
+
+n_iter: 714
+ct: 33
+hue_offset: 22
+saturation: 0.86
+
+num_attempts: 59
+dur: 34
+std: 106.1
+size: 1615822 (1.54 MiB)
+
+xmin: 0.28404059765386647
+xmax: 0.2848206288551145
+ymin: 0.4674890266979952
+ymax: 0.46792779424869724
+
+contrast: 0.7
+brightness: 0.06
+saturation: 1.62
+gamma: 1.1
+gamma_r: 1.07
+gamma_g: 0.93
+gamma_b: 0.91
+vignette: 26
+temp: 4603
