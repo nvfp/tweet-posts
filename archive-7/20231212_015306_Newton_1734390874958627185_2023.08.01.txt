@@ -1,0 +1,31 @@
+tweet_id: 1734390874958627185
+masto_id: 111564946573431038
+subre_id: Not uploaded, but here's the text: Have a great day!  #Qatar2023 #AI
+
+newton_power: 7
+newton_const: -6
+
+n_iter: 226
+ct: 127
+hue_offset: 20
+saturation: 0.37
+
+num_attempts: 145
+dur: 601
+std: 29.64
+size: 1385054 (1.32 MiB)
+
+xmin: 0.4226537980474281
+xmax: 0.4290709103468933
+ymin: 1.7887789967741825
+ymax: 1.7923886224426318
+
+contrast: 1.6
+brightness: 0.11
+saturation: 1.64
+gamma: 1.04
+gamma_r: 0.97
+gamma_g: 1.07
+gamma_b: 0.94
+vignette: -36
+temp: 3134
