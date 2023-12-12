@@ -1,0 +1,28 @@
+tweet_id: 1734389194326438053
+masto_id: 111564920395251676
+subre_id: Not uploaded, but here's the text: Happy Tuesday!  #Qatar2023 #MachineLearning
+
+n_iter: 281
+ct: 255
+hue_offset: 43
+saturation: 0.61
+
+num_attempts: 768
+dur: 600
+std: 56.32
+size: 839599 (819.92 KiB)
+
+xmin: -0.21376445114482112
+xmax: -0.20912945693856388
+ymin: 0.9573529852046483
+ymax: 0.959960169445668
+
+contrast: 1.01
+brightness: 0.11
+saturation: 1.6
+gamma: 0.97
+gamma_r: 0.94
+gamma_g: 0.93
+gamma_b: 0.97
+vignette: 8
+temp: 4796
