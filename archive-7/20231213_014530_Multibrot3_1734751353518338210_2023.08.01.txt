@@ -1,0 +1,28 @@
+tweet_id: 1734751353518338210
+masto_id: 111570578998110265
+subre_id: Not uploaded, but here's the text: Have an awesome Wednesday!  #Art #VisualArt
+
+n_iter: 513
+ct: 1
+hue_offset: 45
+saturation: 0.14
+
+num_attempts: 461
+dur: 606
+std: 55.93
+size: 466825 (455.88 KiB)
+
+xmin: 0.22946493027285308
+xmax: 0.23881072466537645
+ymin: -1.0711426207693557
+ymax: -1.0658856114235613
+
+contrast: 1.65
+brightness: 0.13
+saturation: 0.57
+gamma: 1.05
+gamma_r: 1.04
+gamma_g: 1.05
+gamma_b: 1.04
+vignette: -13
+temp: 3935
