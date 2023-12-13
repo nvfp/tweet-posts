@@ -1,0 +1,28 @@
+tweet_id: 1734938105625575647
+masto_id: 111573497025369383
+subre_id: Not uploaded, but here's the text: Hope you're having a great Wednesday!  #GenerativeArt #ArtificialIntelligence #MachineLearning
+
+n_iter: 371
+ct: 190
+hue_offset: 289
+saturation: -0.81
+
+num_attempts: 13
+dur: 5
+std: 37.1
+size: 1812672 (1.73 MiB)
+
+xmin: -1.361461585710156
+xmax: -1.2932797675283378
+ymin: -0.39916899120355787
+ymax: -0.36081671847628516
+
+contrast: 0.84
+brightness: -0.06
+saturation: 1.53
+gamma: 1.06
+gamma_r: 1.1
+gamma_g: 0.91
+gamma_b: 0.92
+vignette: 17
+temp: 7974
