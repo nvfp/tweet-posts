@@ -1,0 +1,28 @@
+tweet_id: 1734745309069381960
+masto_id: 111570484585679199
+subre_id: Not uploaded, but here's the text: Burning Ship vibes to brighten your Wednesday.  #MachineLearning #Art
+
+n_iter: 341
+ct: 14
+hue_offset: 55
+saturation: -0.09
+
+num_attempts: 28
+dur: 6
+std: 40.61
+size: 2374712 (2.26 MiB)
+
+xmin: -0.44329802879922253
+xmax: -0.39737966145228376
+ymin: -1.008633683256641
+ymax: -0.9828046016239879
+
+contrast: 1.71
+brightness: 0.04
+saturation: 0.8
+gamma: 0.95
+gamma_r: 1.09
+gamma_g: 0.98
+gamma_b: 1.04
+vignette: -44
+temp: 6768
