@@ -1,0 +1,28 @@
+tweet_id: 1734748079927308643
+masto_id: 111570527863528310
+subre_id: Not uploaded, but here's the text: you're awesome!  #Nature #Qatar2023
+
+n_iter: 209
+ct: 91
+hue_offset: 284
+saturation: 0.97
+
+num_attempts: 10
+dur: 3
+std: 53.34
+size: 1104577 (1.05 MiB)
+
+xmin: -1.2367996117948847
+xmax: -1.2313795575943427
+ymin: -0.11794760347398592
+ymax: -0.11489882298618104
+
+contrast: 1.8
+brightness: 0.05
+saturation: 0.44
+gamma: 1.08
+gamma_r: 1.0
+gamma_g: 0.93
+gamma_b: 0.95
+vignette: -11
+temp: 5728
