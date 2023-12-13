@@ -1,0 +1,31 @@
+tweet_id: 1734753333754355842
+masto_id: 111570610057628982
+subre_id: Not uploaded, but here's the text: How's your day?  #DeepLearning #Football
+
+newton_power: 7
+newton_const: 4
+
+n_iter: 217
+ct: 191
+hue_offset: 111
+saturation: 0.45
+
+num_attempts: 155
+dur: 601
+std: 21.6
+size: 1093855 (1.04 MiB)
+
+xmin: -0.33023662485376093
+xmax: -0.32364321826035436
+ymin: 1.8987499388655427
+ymax: 1.9024587300743339
+
+contrast: 0.8
+brightness: 0.23
+saturation: 1.42
+gamma: 1.03
+gamma_r: 1.02
+gamma_g: 0.94
+gamma_b: 0.97
+vignette: -19
+temp: 2996
