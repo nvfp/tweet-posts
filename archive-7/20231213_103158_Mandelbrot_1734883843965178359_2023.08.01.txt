@@ -1,0 +1,28 @@
+tweet_id: 1734883843965178359
+masto_id: 111572649137823610
+subre_id: Not uploaded, but here's the text: Ever heard of this Mandelbrot Set?  #Nature #GeneralIntelligence #DigitalArt
+
+n_iter: 932
+ct: 195
+hue_offset: 132
+saturation: 0.37
+
+num_attempts: 96
+dur: 51
+std: 127.61
+size: 572076 (558.67 KiB)
+
+xmin: -0.495958468896625
+xmax: -0.48799034140658515
+ymin: 0.5215507226367506
+ymax: 0.526032794349898
+
+contrast: 1.58
+brightness: -0.09
+saturation: 1.62
+gamma: 1.06
+gamma_r: 0.99
+gamma_g: 1.03
+gamma_b: 1.08
+vignette: -30
+temp: 2700
