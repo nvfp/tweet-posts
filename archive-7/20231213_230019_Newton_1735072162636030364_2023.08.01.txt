@@ -1,0 +1,31 @@
+tweet_id: 1735072162636030364
+masto_id: 111575591787082520
+subre_id: Not uploaded, but here's the text: This Wednesday is made even better by this Newton!  #AI #GeneralIntelligence #Mathematics
+
+newton_power: 4
+newton_const: -4
+
+n_iter: 220
+ct: 38
+hue_offset: 11
+saturation: -0.93
+
+num_attempts: 251
+dur: 600
+std: 7.47
+size: 1005910 (982.33 KiB)
+
+xmin: 0.9811457070497505
+xmax: 1.2538729797770232
+ymin: -1.1933372739354589
+ymax: -1.039928183026368
+
+contrast: 1.8
+brightness: 0.17
+saturation: 0.79
+gamma: 1.08
+gamma_r: 1.04
+gamma_g: 0.94
+gamma_b: 1.07
+vignette: 18
+temp: 6202
