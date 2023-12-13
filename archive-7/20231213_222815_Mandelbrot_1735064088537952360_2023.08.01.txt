@@ -1,0 +1,28 @@
+tweet_id: 1735064088537952360
+masto_id: 111575465676425068
+subre_id: Not uploaded, but here's the text: Good Wednesday! This Mandelbrot Set is for you!  #MachineLearning #DigitalArt #Nature
+
+n_iter: 198
+ct: 39
+hue_offset: 158
+saturation: -0.08
+
+num_attempts: 14
+dur: 3
+std: 16.23
+size: 296763 (289.81 KiB)
+
+xmin: -0.23603963108181958
+xmax: -0.23538635654319473
+ymin: 0.6453933073699947
+ymax: 0.6457607742979712
+
+contrast: 0.96
+brightness: 0.19
+saturation: 0.64
+gamma: 0.95
+gamma_r: 1.04
+gamma_g: 1.04
+gamma_b: 1.08
+vignette: -13
+temp: 7520
