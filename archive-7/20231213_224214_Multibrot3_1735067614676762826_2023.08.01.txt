@@ -1,0 +1,28 @@
+tweet_id: 1735067614676762826
+masto_id: 111575520634577670
+subre_id: Not uploaded, but here's the text: A great Wednesday and a beautiful Multibrot.  #Nature #GeneralIntelligence #AI
+
+n_iter: 269
+ct: 1
+hue_offset: 19
+saturation: -0.43
+
+num_attempts: 874
+dur: 603
+std: 43.5
+size: 1023137 (999.16 KiB)
+
+xmin: 0.5306041522438258
+xmax: 0.5439820786652305
+ymin: -0.17485392665796673
+ymax: -0.1673288430459266
+
+contrast: 1.7
+brightness: 0.13
+saturation: 0.53
+gamma: 0.97
+gamma_r: 0.98
+gamma_g: 0.92
+gamma_b: 1.1
+vignette: -28
+temp: 3587
