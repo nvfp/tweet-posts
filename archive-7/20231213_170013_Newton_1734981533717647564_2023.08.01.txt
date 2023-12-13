@@ -1,0 +1,31 @@
+tweet_id: 1734981533717647564
+masto_id: 111574175809851631
+subre_id: Not uploaded, but here's the text: Today is awesome!  #MachineLearning #GeneralIntelligence #ArtificialIntelligence
+
+newton_power: 7
+newton_const: -6
+
+n_iter: 230
+ct: 121
+hue_offset: 312
+saturation: -0.97
+
+num_attempts: 157
+dur: 603
+std: 29.74
+size: 1333159 (1.27 MiB)
+
+xmin: 1.9319286496206551
+xmax: 1.9412022199452301
+ymin: -0.960091216619964
+ymax: -0.9548748333123905
+
+contrast: 1.24
+brightness: 0.04
+saturation: 1.41
+gamma: 0.99
+gamma_r: 1.0
+gamma_g: 0.91
+gamma_b: 1.1
+vignette: 21
+temp: 5102
