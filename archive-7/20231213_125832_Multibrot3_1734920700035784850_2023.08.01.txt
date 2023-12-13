@@ -1,0 +1,28 @@
+tweet_id: 1734920700035784850
+masto_id: 111573225203551763
+subre_id: Not uploaded, but here's the text: You rock, and so does this Wednesday!  #Fractals #GenerativeArt #DigitalArt
+
+n_iter: 625
+ct: 255
+hue_offset: 47
+saturation: -0.7
+
+num_attempts: 364
+dur: 601
+std: 74.21
+size: 888426 (867.6 KiB)
+
+xmin: -0.20267316232385713
+xmax: -0.19508302949653264
+ymin: -1.132529368554374
+ymax: -1.1282599188390041
+
+contrast: 0.76
+brightness: 0.21
+saturation: 1.01
+gamma: 1.02
+gamma_r: 1.02
+gamma_g: 1.04
+gamma_b: 1.0
+vignette: -14
+temp: 5876
