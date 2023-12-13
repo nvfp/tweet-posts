@@ -1,0 +1,31 @@
+tweet_id: 1735041960522735881
+masto_id: 111575119836937911
+subre_id: Not uploaded, but here's the text: Smile, it's Wednesday!  #GeneralIntelligence #Mathematics #DigitalArt
+
+newton_power: 3
+newton_const: -4
+
+n_iter: 226
+ct: 214
+hue_offset: 180
+saturation: -0.59
+
+num_attempts: 546
+dur: 600
+std: 4.52
+size: 671218 (655.49 KiB)
+
+xmin: 0.34065882424499216
+xmax: 0.3474384852619413
+ymin: -1.15953262530899
+ymax: -1.155719065986956
+
+contrast: 0.9
+brightness: 0.03
+saturation: 0.75
+gamma: 0.97
+gamma_r: 0.9
+gamma_g: 0.95
+gamma_b: 1.03
+vignette: 11
+temp: 6503
