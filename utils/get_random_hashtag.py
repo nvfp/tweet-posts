@@ -13,11 +13,11 @@ def get_list():
         '#DigitalArt',
         '#VisualArt',
         
-        '#WorldCup2023',
-        "#FIFAWorldCup",
-        "#Qatar2023",
-        "#Football",
-        "#Soccer",
+        '#AGI',
+        "#MultiModal",
+        "#ArtificialIntelligence",
+        "#GenerativeArt",
+        "#GeneralIntelligence",
     ]
 
 

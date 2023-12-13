@@ -2,7 +2,7 @@ name: tweet_burning_ship (Hourly fractals)
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 */2 * * *'
   workflow_dispatch:
 
 env:
