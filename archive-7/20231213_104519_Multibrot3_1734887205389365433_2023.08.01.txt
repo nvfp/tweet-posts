@@ -1,0 +1,28 @@
+tweet_id: 1734887205389365433
+masto_id: 111572701636706147
+subre_id: Not uploaded, but here's the text: You are lovely!  #Art #Mathematics #Fractals
+
+n_iter: 538
+ct: 255
+hue_offset: 148
+saturation: -0.0
+
+num_attempts: 402
+dur: 604
+std: 57.83
+size: 459291 (448.53 KiB)
+
+xmin: 0.15869566334382235
+xmax: 0.21751919275558707
+ymin: 0.7303993461884235
+ymax: 0.7634875814825411
+
+contrast: 1.67
+brightness: 0.07
+saturation: 1.64
+gamma: 0.98
+gamma_r: 0.91
+gamma_g: 0.92
+gamma_b: 1.05
+vignette: 2
+temp: 8000
