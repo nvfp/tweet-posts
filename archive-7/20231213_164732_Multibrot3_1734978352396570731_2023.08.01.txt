@@ -1,0 +1,28 @@
+tweet_id: 1734978352396570731
+masto_id: 111574125898602944
+subre_id: Not uploaded, but here's the text: Today is awesome!  #MachineLearning #Art #MultiModal
+
+n_iter: 598
+ct: 255
+hue_offset: 24
+saturation: 0.43
+
+num_attempts: 420
+dur: 607
+std: 93.54
+size: 795437 (776.79 KiB)
+
+xmin: 0.287836902878154
+xmax: 0.2977134460880305
+ymin: -0.6939978175765025
+ymax: -0.6884422620209469
+
+contrast: 0.77
+brightness: 0.21
+saturation: 1.49
+gamma: 1.02
+gamma_r: 1.0
+gamma_g: 0.92
+gamma_b: 1.03
+vignette: -3
+temp: 3144
