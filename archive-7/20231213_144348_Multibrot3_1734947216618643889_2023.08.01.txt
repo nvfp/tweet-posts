@@ -1,0 +1,28 @@
+tweet_id: 1734947216618643889
+masto_id: 111573639390698805
+subre_id: Not uploaded, but here's the text: Wishing you a rad Wednesday!  #MachineLearning #Mathematics #ArtificialIntelligence
+
+n_iter: 468
+ct: 1
+hue_offset: 102
+saturation: -0.59
+
+num_attempts: 487
+dur: 600
+std: 34.67
+size: 389425 (380.3 KiB)
+
+xmin: 0.27674868060148494
+xmax: 0.28492863970168947
+ymin: -1.259144085107783
+ymax: -1.254542858113918
+
+contrast: 0.71
+brightness: 0.12
+saturation: 0.94
+gamma: 1.08
+gamma_r: 0.97
+gamma_g: 1.03
+gamma_b: 1.04
+vignette: 0
+temp: 7622
