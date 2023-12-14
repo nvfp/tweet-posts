@@ -1,0 +1,28 @@
+tweet_id: 1735122657669210616
+masto_id: 111576380670206552
+subre_id: Not uploaded, but here's the text: Thursday vibes!  #Mathematics #Fractals #DigitalArt
+
+n_iter: 218
+ct: 173
+hue_offset: 138
+saturation: 0.94
+
+num_attempts: 24
+dur: 6
+std: 36.72
+size: 2040582 (1.95 MiB)
+
+xmin: -0.8077399851987881
+xmax: -0.7385092159680189
+ymin: -0.7518063276945386
+ymax: -0.7128640200022309
+
+contrast: 0.94
+brightness: 0.07
+saturation: 1.58
+gamma: 1.01
+gamma_r: 1.0
+gamma_g: 1.02
+gamma_b: 0.91
+vignette: -36
+temp: 5956
