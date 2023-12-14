@@ -1,0 +1,28 @@
+tweet_id: 1735366739427291639
+masto_id: 111580194438456495
+subre_id: Not uploaded, but here's the text: Surprise! It's a Mandelbrot Set!  #AI #Fractals #AGI
+
+n_iter: 554
+ct: 66
+hue_offset: 213
+saturation: -0.29
+
+num_attempts: 139
+dur: 50
+std: 116.04
+size: 1200344 (1.14 MiB)
+
+xmin: -1.1617745256912364
+xmax: -1.1607081433931825
+ymin: -0.19202503986311314
+ymax: -0.19142519982045786
+
+contrast: 0.98
+brightness: 0.21
+saturation: 0.73
+gamma: 1.05
+gamma_r: 1.09
+gamma_g: 0.91
+gamma_b: 0.91
+vignette: -16
+temp: 5090
