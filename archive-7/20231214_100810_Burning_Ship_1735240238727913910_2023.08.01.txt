@@ -1,0 +1,28 @@
+tweet_id: 1735240238727913910
+masto_id: 111578217872900628
+subre_id: Not uploaded, but here's the text: Let's make it a memorable Thursday!  #Fractals #AGI #DigitalArt
+
+n_iter: 366
+ct: 149
+hue_offset: 68
+saturation: 0.44
+
+num_attempts: 12
+dur: 2
+std: 61.2
+size: 1455014 (1.39 MiB)
+
+xmin: -0.3732107314285136
+xmax: -0.25478967879693465
+ymin: -0.9372326324824263
+ymax: -0.8706207903771631
+
+contrast: 0.78
+brightness: 0.19
+saturation: 1.69
+gamma: 1.0
+gamma_r: 1.07
+gamma_g: 0.93
+gamma_b: 1.06
+vignette: 5
+temp: 3816
