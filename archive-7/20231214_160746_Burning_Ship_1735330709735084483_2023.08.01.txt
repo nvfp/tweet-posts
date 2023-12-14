@@ -1,0 +1,28 @@
+tweet_id: 1735330709735084483
+masto_id: 111579631521904083
+subre_id: Not uploaded, but here's the text: Wishing you a wonderful Thursday!  #GenerativeArt #Mathematics #ArtificialIntelligence
+
+n_iter: 165
+ct: 33
+hue_offset: 50
+saturation: -0.2
+
+num_attempts: 8
+dur: 2
+std: 20.62
+size: 1048524 (1023.95 KiB)
+
+xmin: 0.4409218154197716
+xmax: 0.556306430804387
+ymin: -1.1490838353367363
+ymax: -1.08417998918289
+
+contrast: 1.41
+brightness: -0.1
+saturation: 1.44
+gamma: 1.02
+gamma_r: 0.96
+gamma_g: 0.98
+gamma_b: 0.95
+vignette: 25
+temp: 5352
