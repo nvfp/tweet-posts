@@ -1,0 +1,28 @@
+tweet_id: 1735126281484742827
+masto_id: 111576437451568871
+subre_id: Not uploaded, but here's the text: Surprise! Mandelbrot Set!  #ArtificialIntelligence #Fractals #MachineLearning
+
+n_iter: 570
+ct: 193
+hue_offset: 294
+saturation: -0.48
+
+num_attempts: 154
+dur: 49
+std: 24.12
+size: 1406476 (1.34 MiB)
+
+xmin: -0.39089031131617213
+xmax: -0.39048047525059837
+ymin: -0.6505914086061979
+ymax: -0.6503608758193127
+
+contrast: 1.09
+brightness: 0.11
+saturation: 1.38
+gamma: 1.03
+gamma_r: 1.02
+gamma_g: 1.04
+gamma_b: 1.08
+vignette: -36
+temp: 4727
