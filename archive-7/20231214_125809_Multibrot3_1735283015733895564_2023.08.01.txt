@@ -1,0 +1,28 @@
+tweet_id: 1735283015733895564
+masto_id: 111578886288143092
+subre_id: Not uploaded, but here's the text: Hope you have an amazing Thursday!  #MachineLearning #DigitalArt #Fractals
+
+n_iter: 531
+ct: 1
+hue_offset: 56
+saturation: -0.98
+
+num_attempts: 527
+dur: 603
+std: 84.32
+size: 957039 (934.61 KiB)
+
+xmin: -0.1708330285618389
+xmax: -0.16675970880623808
+ymin: 0.7439512633324012
+ymax: 0.7462425056949267
+
+contrast: 1.76
+brightness: 0.0
+saturation: 1.15
+gamma: 1.08
+gamma_r: 1.0
+gamma_g: 1.08
+gamma_b: 0.98
+vignette: 26
+temp: 7904
