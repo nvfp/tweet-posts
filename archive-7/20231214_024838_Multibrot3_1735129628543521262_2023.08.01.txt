@@ -1,0 +1,28 @@
+tweet_id: 1735129628543521262
+masto_id: 111576489525690771
+subre_id: Not uploaded, but here's the text: Look what we have here! it's Multibrot!  #MachineLearning #Mathematics #Art
+
+n_iter: 602
+ct: 1
+hue_offset: 268
+saturation: 0.07
+
+num_attempts: 343
+dur: 606
+std: 78.61
+size: 653238 (637.93 KiB)
+
+xmin: -0.21756995441339644
+xmax: -0.20391807728029063
+ymin: 0.956289952506447
+ymax: 0.963969133393819
+
+contrast: 1.63
+brightness: -0.06
+saturation: 0.26
+gamma: 1.01
+gamma_r: 0.96
+gamma_g: 0.95
+gamma_b: 0.97
+vignette: -42
+temp: 4084
