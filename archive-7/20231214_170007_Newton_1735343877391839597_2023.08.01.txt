@@ -1,0 +1,31 @@
+tweet_id: 1735343877391839597
+masto_id: 111579837389502921
+subre_id: Not uploaded, but here's the text: Have an extraordinary Thursday!  #DigitalArt #MachineLearning #ArtificialIntelligence
+
+newton_power: 5
+newton_const: 6
+
+n_iter: 243
+ct: 64
+hue_offset: 309
+saturation: -0.26
+
+num_attempts: 210
+dur: 601
+std: 13.68
+size: 1027881 (1003.79 KiB)
+
+xmin: -0.2805385306041628
+xmax: 0.07240264586642547
+ymin: -0.140706104603455
+ymax: 0.05782330716125089
+
+contrast: 0.76
+brightness: 0.01
+saturation: 1.12
+gamma: 0.92
+gamma_r: 0.97
+gamma_g: 0.99
+gamma_b: 0.93
+vignette: -8
+temp: 6049
