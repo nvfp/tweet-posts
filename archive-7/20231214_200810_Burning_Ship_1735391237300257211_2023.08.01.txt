@@ -1,0 +1,28 @@
+tweet_id: 1735391237300257211
+masto_id: 111580577172071233
+subre_id: Not uploaded, but here's the text: Look what we have here! it's Burning Ship!  #Fractals #Art #GeneralIntelligence
+
+n_iter: 231
+ct: 9
+hue_offset: 77
+saturation: 0.18
+
+num_attempts: 60
+dur: 13
+std: 27.78
+size: 470684 (459.65 KiB)
+
+xmin: -1.3875849989818314
+xmax: -0.9375849989818315
+ymin: -0.3974093273286545
+ymax: -0.14428432732865454
+
+contrast: 0.98
+brightness: -0.04
+saturation: 0.56
+gamma: 0.91
+gamma_r: 1.0
+gamma_g: 1.03
+gamma_b: 0.91
+vignette: 6
+temp: 3723
