@@ -1,0 +1,31 @@
+tweet_id: 1735192878895222833
+masto_id: 111577478084164832
+subre_id: Not uploaded, but here's the text: you are cool  #GenerativeArt #Fractals #AGI
+
+newton_power: 3
+newton_const: 1
+
+n_iter: 168
+ct: 131
+hue_offset: 160
+saturation: -0.39
+
+num_attempts: 517
+dur: 600
+std: 4.04
+size: 512985 (500.96 KiB)
+
+xmin: -0.7737022710459334
+xmax: -0.6432674884372377
+ymin: -1.7753485668356301
+ymax: -1.7019790016182388
+
+contrast: 1.76
+brightness: 0.08
+saturation: 0.67
+gamma: 1.01
+gamma_r: 0.98
+gamma_g: 1.1
+gamma_b: 0.97
+vignette: -6
+temp: 3306
