@@ -1,0 +1,28 @@
+tweet_id: 1735306020891635866
+masto_id: 111579245741934677
+subre_id: Not uploaded, but here's the text: Have a great day!  #VisualArt #DeepLearning #Mathematics
+
+n_iter: 437
+ct: 135
+hue_offset: 273
+saturation: -0.73
+
+num_attempts: 134
+dur: 32
+std: 88.17
+size: 668231 (652.57 KiB)
+
+xmin: -0.06241348412823822
+xmax: -0.05760000639057275
+ymin: -0.8173494279744618
+ymax: -0.8146418467470249
+
+contrast: 1.17
+brightness: -0.07
+saturation: 0.44
+gamma: 1.0
+gamma_r: 1.03
+gamma_g: 1.06
+gamma_b: 1.01
+vignette: -47
+temp: 3468
