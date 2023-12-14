@@ -1,0 +1,31 @@
+tweet_id: 1735434454590427592
+masto_id: 111581252525211743
+subre_id: Not uploaded, but here's the text: Shine bright like the sun on this Thursday!  #GeneralIntelligence #Fractals #DigitalArt
+
+newton_power: 3
+newton_const: -8
+
+n_iter: 134
+ct: 75
+hue_offset: 344
+saturation: 0.69
+
+num_attempts: 522
+dur: 601
+std: 4.06
+size: 584386 (570.69 KiB)
+
+xmin: -2.6197574653003337
+xmax: -2.6106940211915726
+ymin: -0.48709888989188155
+ymax: -0.4820007025807033
+
+contrast: 1.28
+brightness: 0.12
+saturation: 0.27
+gamma: 1.09
+gamma_r: 0.98
+gamma_g: 0.91
+gamma_b: 0.98
+vignette: 7
+temp: 4149
