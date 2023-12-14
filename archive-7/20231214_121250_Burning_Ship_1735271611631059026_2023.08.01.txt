@@ -1,0 +1,28 @@
+tweet_id: 1735271611631059026
+masto_id: 111578708079879999
+subre_id: Not uploaded, but here's the text: Hope you have an amazing Thursday!  #AI #ArtificialIntelligence #Nature
+
+n_iter: 369
+ct: 25
+hue_offset: 160
+saturation: -0.52
+
+num_attempts: 8
+dur: 1
+std: 29.27
+size: 936600 (914.65 KiB)
+
+xmin: -1.5297258386454275
+xmax: -0.02972583864542755
+ymin: -1.6234070355172316
+ymax: -0.7796570355172316
+
+contrast: 1.14
+brightness: 0.06
+saturation: 0.31
+gamma: 0.97
+gamma_r: 1.0
+gamma_g: 1.08
+gamma_b: 0.99
+vignette: -15
+temp: 4361
