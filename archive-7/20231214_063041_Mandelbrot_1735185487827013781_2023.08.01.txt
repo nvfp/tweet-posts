@@ -1,0 +1,28 @@
+tweet_id: 1735185487827013781
+masto_id: 111577362425877934
+subre_id: Not uploaded, but here's the text: you are fantastic!  #Mathematics #DeepLearning #GeneralIntelligence
+
+n_iter: 629
+ct: 224
+hue_offset: 309
+saturation: 0.87
+
+num_attempts: 50
+dur: 19
+std: 39.43
+size: 1040196 (1015.82 KiB)
+
+xmin: 0.35035348738058714
+xmax: 0.3514514835376006
+ymin: -0.426308654438718
+ymax: -0.42569103160039795
+
+contrast: 1.47
+brightness: 0.17
+saturation: 1.2
+gamma: 1.08
+gamma_r: 0.92
+gamma_g: 0.91
+gamma_b: 1.05
+vignette: -3
+temp: 2857
