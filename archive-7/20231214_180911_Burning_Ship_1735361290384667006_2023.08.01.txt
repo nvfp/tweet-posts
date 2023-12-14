@@ -1,0 +1,28 @@
+tweet_id: 1735361290384667006
+masto_id: 111580109305368865
+subre_id: Not uploaded, but here's the text: Today is awesome!  #ArtificialIntelligence #DigitalArt #Nature
+
+n_iter: 369
+ct: 136
+hue_offset: 339
+saturation: -0.28
+
+num_attempts: 40
+dur: 10
+std: 49.19
+size: 2019903 (1.93 MiB)
+
+xmin: -0.5510562773746341
+xmax: -0.5026691806004406
+ymin: -0.8872607736381009
+ymax: -0.860043031702617
+
+contrast: 1.44
+brightness: 0.22
+saturation: 1.1
+gamma: 1.09
+gamma_r: 1.03
+gamma_g: 0.95
+gamma_b: 0.93
+vignette: -9
+temp: 4932
