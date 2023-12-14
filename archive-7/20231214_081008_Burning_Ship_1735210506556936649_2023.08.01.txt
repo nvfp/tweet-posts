@@ -1,0 +1,28 @@
+tweet_id: 1735210506556936649
+masto_id: 111577753385584092
+subre_id: Not uploaded, but here's the text: Have an awesome day!  #MultiModal #Mathematics #VisualArt
+
+n_iter: 295
+ct: 50
+hue_offset: 207
+saturation: 0.06
+
+num_attempts: 66
+dur: 19
+std: 51.39
+size: 1007009 (983.41 KiB)
+
+xmin: -0.8041991053699677
+xmax: -0.758280738023029
+ymin: -0.7656275772627981
+ymax: -0.739798495630145
+
+contrast: 1.55
+brightness: 0.16
+saturation: 0.28
+gamma: 1.08
+gamma_r: 1.08
+gamma_g: 0.91
+gamma_b: 1.04
+vignette: 0
+temp: 5319
