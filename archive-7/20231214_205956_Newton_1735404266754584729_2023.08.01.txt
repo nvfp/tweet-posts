@@ -1,0 +1,31 @@
+tweet_id: 1735404266754584729
+masto_id: 111580780702100228
+subre_id: Not uploaded, but here's the text: Hope you have an amazing Thursday!  #AGI #MachineLearning #VisualArt
+
+newton_power: 7
+newton_const: 4
+
+n_iter: 88
+ct: 190
+hue_offset: 35
+saturation: -0.08
+
+num_attempts: 172
+dur: 602
+std: 29.73
+size: 38570 (37.67 KiB)
+
+xmin: -0.10229792970157092
+xmax: -0.08243038003269675
+ymin: -0.09713175201298951
+ymax: -0.08595625532424779
+
+contrast: 1.58
+brightness: 0.13
+saturation: 0.98
+gamma: 1.03
+gamma_r: 1.07
+gamma_g: 0.98
+gamma_b: 0.91
+vignette: 11
+temp: 6832
