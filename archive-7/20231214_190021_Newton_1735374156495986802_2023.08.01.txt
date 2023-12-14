@@ -1,0 +1,31 @@
+tweet_id: 1735374156495986802
+masto_id: 111580310496928627
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Thursday! You got this!  #AI #Fractals #DeepLearning
+
+newton_power: 3
+newton_const: 2
+
+n_iter: 249
+ct: 144
+hue_offset: 131
+saturation: 0.39
+
+num_attempts: 544
+dur: 600
+std: 4.62
+size: 783170 (764.81 KiB)
+
+xmin: 1.4012558145914893
+xmax: 1.4110278015621733
+ymin: -0.18204014335543195
+ymax: -0.17654340068442217
+
+contrast: 1.25
+brightness: 0.1
+saturation: 0.79
+gamma: 0.93
+gamma_r: 0.91
+gamma_g: 1.01
+gamma_b: 0.94
+vignette: 21
+temp: 6381
