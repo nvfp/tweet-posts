@@ -1,0 +1,28 @@
+tweet_id: 1735336208228651344
+masto_id: 111579717524679749
+subre_id: Not uploaded, but here's the text: Have an awesome Thursday!  #GeneralIntelligence #AGI #ArtificialIntelligence
+
+n_iter: 935
+ct: 172
+hue_offset: 351
+saturation: -0.21
+
+num_attempts: 36
+dur: 16
+std: 27.23
+size: 655456 (640.09 KiB)
+
+xmin: -0.15621803547945845
+xmax: -0.15537840491690597
+ymin: -0.8411600205594636
+ymax: -0.8406877283680279
+
+contrast: 1.45
+brightness: 0.1
+saturation: 1.46
+gamma: 0.99
+gamma_r: 1.09
+gamma_g: 1.09
+gamma_b: 1.04
+vignette: 21
+temp: 2471
