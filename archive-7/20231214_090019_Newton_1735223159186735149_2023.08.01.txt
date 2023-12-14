@@ -1,0 +1,31 @@
+tweet_id: 1735223159186735149
+masto_id: 111577951069461770
+subre_id: Not uploaded, but here's the text: Sending you this fractal on this Thursday!  #MultiModal #AI #Fractals
+
+newton_power: 6
+newton_const: 9
+
+n_iter: 176
+ct: 87
+hue_offset: 247
+saturation: 1.0
+
+num_attempts: 186
+dur: 603
+std: 19.57
+size: 1214168 (1.16 MiB)
+
+xmin: 1.7982696256190875
+xmax: 1.8107957216524904
+ymin: -0.07238506279026957
+ymax: -0.06533913377148043
+
+contrast: 0.75
+brightness: 0.03
+saturation: 0.59
+gamma: 1.01
+gamma_r: 1.09
+gamma_g: 1.0
+gamma_b: 0.91
+vignette: -34
+temp: 5126
