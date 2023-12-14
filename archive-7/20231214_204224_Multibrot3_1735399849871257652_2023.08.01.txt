@@ -1,0 +1,28 @@
+tweet_id: 1735399849871257652
+masto_id: 111580711757388713
+subre_id: Not uploaded, but here's the text: Wishing you a fantastic day!  #Mathematics #GenerativeArt #VisualArt
+
+n_iter: 550
+ct: 1
+hue_offset: 235
+saturation: 0.27
+
+num_attempts: 433
+dur: 600
+std: 100.48
+size: 1034915 (1010.66 KiB)
+
+xmin: 0.3567322312318577
+xmax: 0.36252094324343515
+ymin: 0.6450282385474906
+ymax: 0.6482843890540029
+
+contrast: 1.09
+brightness: 0.11
+saturation: 0.35
+gamma: 1.02
+gamma_r: 0.98
+gamma_g: 0.99
+gamma_b: 0.98
+vignette: 7
+temp: 3694
