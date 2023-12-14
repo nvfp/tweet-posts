@@ -1,0 +1,31 @@
+tweet_id: 1735285776852619706
+masto_id: 111578929388114895
+subre_id: Not uploaded, but here's the text: Wishing you a rad Thursday!  #Fractals #AI #Art
+
+newton_power: 5
+newton_const: -2
+
+n_iter: 133
+ct: 213
+hue_offset: 173
+saturation: -0.68
+
+num_attempts: 205
+dur: 601
+std: 10.75
+size: 1253055 (1.2 MiB)
+
+xmin: -0.2783394578320202
+xmax: -0.2514336282356076
+ymin: -0.5797148175376345
+ymax: -0.5645802883896525
+
+contrast: 1.36
+brightness: 0.15
+saturation: 1.38
+gamma: 1.01
+gamma_r: 1.1
+gamma_g: 1.01
+gamma_b: 0.96
+vignette: -34
+temp: 6172
