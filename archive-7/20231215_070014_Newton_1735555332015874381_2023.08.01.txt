@@ -1,0 +1,31 @@
+tweet_id: 1735555332015874381
+masto_id: 111583141205052482
+subre_id: Not uploaded, but here's the text: How's your day?  #Nature #Mathematics #AGI
+
+newton_power: 6
+newton_const: 1
+
+n_iter: 88
+ct: 103
+hue_offset: 253
+saturation: 0.91
+
+num_attempts: 188
+dur: 600
+std: 13.38
+size: 1177001 (1.12 MiB)
+
+xmin: -1.8515775496155569
+xmax: -1.8187906643696552
+ymin: -0.01293734543611147
+ymax: 0.0055052775147082025
+
+contrast: 1.46
+brightness: 0.03
+saturation: 0.53
+gamma: 0.92
+gamma_r: 0.92
+gamma_g: 0.98
+gamma_b: 1.09
+vignette: 23
+temp: 3380
