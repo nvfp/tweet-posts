@@ -1,0 +1,28 @@
+tweet_id: 1735671774606401962
+masto_id: 111584960522119956
+subre_id: Not uploaded, but here's the text: This Friday is made even better by this Multibrot!  #ArtificialIntelligence #GeneralIntelligence #Art
+
+n_iter: 343
+ct: 1
+hue_offset: 111
+saturation: -0.16
+
+num_attempts: 660
+dur: 604
+std: 56.68
+size: 339689 (331.73 KiB)
+
+xmin: 0.16423371920974805
+xmax: 0.17326306458220855
+ymin: 0.7470912950907853
+ymax: 0.7521703018627943
+
+contrast: 0.79
+brightness: 0.09
+saturation: 0.85
+gamma: 1.03
+gamma_r: 1.02
+gamma_g: 1.05
+gamma_b: 0.98
+vignette: 0
+temp: 2104
