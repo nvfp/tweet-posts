@@ -1,0 +1,28 @@
+tweet_id: 1735633964235198490
+masto_id: 111584369814183914
+subre_id: Not uploaded, but here's the text: Warm wishes for your Friday, and let's have a look at this Burning Ship.  #VisualArt #DeepLearning #AGI
+
+n_iter: 188
+ct: 192
+hue_offset: 156
+saturation: 0.27
+
+num_attempts: 44
+dur: 8
+std: 20.13
+size: 743085 (725.67 KiB)
+
+xmin: -0.2633734693008307
+xmax: -0.06772129538778723
+ymin: -1.1918661073437837
+ymax: -1.0818117595176968
+
+contrast: 1.35
+brightness: 0.07
+saturation: 0.29
+gamma: 0.92
+gamma_r: 1.03
+gamma_g: 0.98
+gamma_b: 1.03
+vignette: -17
+temp: 4957
