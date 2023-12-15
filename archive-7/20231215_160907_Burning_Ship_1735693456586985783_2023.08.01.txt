@@ -1,0 +1,28 @@
+tweet_id: 1735693456586985783
+masto_id: 111585299401692929
+subre_id: Not uploaded, but here's the text: Hey there, it's Friday!  #GenerativeArt #Art #GeneralIntelligence
+
+n_iter: 301
+ct: 157
+hue_offset: 83
+saturation: 0.18
+
+num_attempts: 4
+dur: 1
+std: 32.15
+size: 1037453 (1013.14 KiB)
+
+xmin: -0.7373070161633197
+xmax: -0.5921457258407391
+ymin: -0.7144029442819855
+ymax: -0.6327497184755339
+
+contrast: 0.85
+brightness: 0.03
+saturation: 1.54
+gamma: 0.96
+gamma_r: 1.05
+gamma_g: 0.98
+gamma_b: 1.04
+vignette: 32
+temp: 6920
