@@ -1,0 +1,31 @@
+tweet_id: 1735478196932399177
+masto_id: 111581936136426004
+subre_id: Not uploaded, but here's the text: Chin up, buttercup!  #Mathematics #AI #MultiModal
+
+newton_power: 5
+newton_const: 1
+
+n_iter: 124
+ct: 114
+hue_offset: 173
+saturation: 0.31
+
+num_attempts: 220
+dur: 601
+std: 14.93
+size: 793694 (775.09 KiB)
+
+xmin: 1.7436227795211643
+xmax: 1.8547338906322755
+ymin: -0.01030096943271186
+ymax: 0.05219903056728814
+
+contrast: 1.38
+brightness: 0.17
+saturation: 1.66
+gamma: 1.04
+gamma_r: 1.01
+gamma_g: 1.02
+gamma_b: 0.98
+vignette: -11
+temp: 2893
