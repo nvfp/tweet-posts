@@ -1,0 +1,28 @@
+tweet_id: 1735458294330712493
+masto_id: 111581625090485160
+subre_id: Not uploaded, but here's the text: Smile, it's Friday!  #Fractals #Mathematics #ArtificialIntelligence
+
+n_iter: 458
+ct: 71
+hue_offset: 28
+saturation: 0.9
+
+num_attempts: 33
+dur: 6
+std: 70.31
+size: 1709343 (1.63 MiB)
+
+xmin: 0.030746219782044282
+xmax: 0.08770824509849998
+ymin: -1.114681702266528
+ymax: -1.0826405630260219
+
+contrast: 1.1
+brightness: 0.04
+saturation: 0.4
+gamma: 0.91
+gamma_r: 0.92
+gamma_g: 1.04
+gamma_b: 1.03
+vignette: 21
+temp: 2690
