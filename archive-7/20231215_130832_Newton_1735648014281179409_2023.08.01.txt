@@ -1,0 +1,31 @@
+tweet_id: 1735648014281179409
+masto_id: 111584589382007684
+subre_id: Not uploaded, but here's the text: Smile, it's Friday!  #ArtificialIntelligence #Nature #DigitalArt
+
+newton_power: 6
+newton_const: 2
+
+n_iter: 88
+ct: 218
+hue_offset: 316
+saturation: 0.7
+
+num_attempts: 183
+dur: 604
+std: 13.33
+size: 1211041 (1.15 MiB)
+
+xmin: -1.439930498581668
+xmax: 1.560069501418332
+ymin: -0.8459941631262751
+ymax: 0.8415058368737249
+
+contrast: 0.91
+brightness: 0.17
+saturation: 1.63
+gamma: 0.91
+gamma_r: 0.98
+gamma_g: 1.09
+gamma_b: 0.91
+vignette: -48
+temp: 6429
