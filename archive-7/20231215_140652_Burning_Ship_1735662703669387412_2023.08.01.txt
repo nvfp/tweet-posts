@@ -1,0 +1,28 @@
+tweet_id: 1735662703669387412
+masto_id: 111584818788284498
+subre_id: Not uploaded, but here's the text: Have an awesome Friday!  #MultiModal #DeepLearning #ArtificialIntelligence
+
+n_iter: 395
+ct: 137
+hue_offset: 157
+saturation: 0.34
+
+num_attempts: 5
+dur: 2
+std: 43.93
+size: 913669 (892.25 KiB)
+
+xmin: -1.2682626333775484
+xmax: -0.1432626333775484
+ymin: -1.225285504358824
+ymax: -0.592473004358824
+
+contrast: 1.8
+brightness: -0.1
+saturation: 1.43
+gamma: 1.0
+gamma_r: 0.94
+gamma_g: 1.06
+gamma_b: 0.97
+vignette: 15
+temp: 6604
