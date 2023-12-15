@@ -1,0 +1,28 @@
+tweet_id: 1735789107106943123
+masto_id: 111586794306179929
+subre_id: Not uploaded, but here's the text: Guess what? It's Mandelbrot Set!  #DeepLearning #AGI #Fractals
+
+n_iter: 851
+ct: 66
+hue_offset: 8
+saturation: -0.76
+
+num_attempts: 251
+dur: 140
+std: 23.56
+size: 794564 (775.94 KiB)
+
+xmin: -0.7484444227681535
+xmax: -0.7294870767965895
+ymin: 0.21955294155167593
+ymax: 0.23021644866068067
+
+contrast: 1.67
+brightness: 0.04
+saturation: 0.9
+gamma: 1.05
+gamma_r: 1.04
+gamma_g: 0.98
+gamma_b: 1.0
+vignette: 17
+temp: 3642
