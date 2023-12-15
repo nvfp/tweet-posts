@@ -1,0 +1,28 @@
+tweet_id: 1735572861782458654
+masto_id: 111583415249714428
+subre_id: Not uploaded, but here's the text: Smile, it's Friday!  #VisualArt #ArtificialIntelligence #MachineLearning
+
+n_iter: 320
+ct: 105
+hue_offset: 212
+saturation: -0.64
+
+num_attempts: 22
+dur: 7
+std: 50.57
+size: 1302481 (1.24 MiB)
+
+xmin: -1.5273503295683437
+xmax: -1.453579837765065
+ymin: -0.10376400083653414
+ymax: -0.06226809919718988
+
+contrast: 0.9
+brightness: 0.22
+saturation: 0.94
+gamma: 0.96
+gamma_r: 0.92
+gamma_g: 1.03
+gamma_b: 1.01
+vignette: 22
+temp: 7091
