@@ -1,0 +1,28 @@
+tweet_id: 1735611950028202169
+masto_id: 111584025763734861
+subre_id: Not uploaded, but here's the text: Let this Multibrot brighten up your Friday!  #DigitalArt #Mathematics #GenerativeArt
+
+n_iter: 332
+ct: 1
+hue_offset: 179
+saturation: -0.14
+
+num_attempts: 649
+dur: 600
+std: 55.23
+size: 623571 (608.96 KiB)
+
+xmin: -0.5538551976079102
+xmax: -0.5447435802958374
+ymin: 0.1669632809349133
+ymax: 0.1720885656729543
+
+contrast: 1.38
+brightness: -0.06
+saturation: 0.76
+gamma: 1.04
+gamma_r: 1.07
+gamma_g: 0.97
+gamma_b: 1.03
+vignette: -39
+temp: 7550
