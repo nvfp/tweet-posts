@@ -1,0 +1,28 @@
+tweet_id: 1735699495214555627
+masto_id: 111585393903587759
+subre_id: Not uploaded, but here's the text: Hope you have an amazing Friday!  #AI #AGI #Fractals
+
+n_iter: 855
+ct: 203
+hue_offset: 349
+saturation: -0.48
+
+num_attempts: 20
+dur: 10
+std: 26.47
+size: 808349 (789.4 KiB)
+
+xmin: -0.31647097556306036
+xmax: -0.3146386347476687
+ymin: -0.6555048688989071
+ymax: -0.6544741771902494
+
+contrast: 1.38
+brightness: -0.03
+saturation: 0.41
+gamma: 0.95
+gamma_r: 0.98
+gamma_g: 1.0
+gamma_b: 0.97
+vignette: -3
+temp: 4036
