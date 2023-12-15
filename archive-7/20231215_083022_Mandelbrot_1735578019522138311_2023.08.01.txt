@@ -1,0 +1,28 @@
+tweet_id: 1735578019522138311
+masto_id: 111583495613441456
+subre_id: Not uploaded, but here's the text: Mandelbrot Set vibes to brighten your Friday.  #ArtificialIntelligence #Mathematics #GeneralIntelligence
+
+n_iter: 762
+ct: 143
+hue_offset: 132
+saturation: -0.7
+
+num_attempts: 31
+dur: 18
+std: 95.2
+size: 1318820 (1.26 MiB)
+
+xmin: 0.011182782277178394
+xmax: 0.012189071585354493
+ymin: 0.6476255346607955
+ymax: 0.6481915723966446
+
+contrast: 1.22
+brightness: 0.18
+saturation: 1.34
+gamma: 0.97
+gamma_r: 1.02
+gamma_g: 0.99
+gamma_b: 1.04
+vignette: 0
+temp: 6888
