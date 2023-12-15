@@ -1,0 +1,28 @@
+tweet_id: 1735668233510818216
+masto_id: FAIL
+subre_id: Not uploaded, but here's the text: Smile!  #AI #DigitalArt #MachineLearning
+
+n_iter: 392
+ct: 143
+hue_offset: 345
+saturation: 0.7
+
+num_attempts: 10
+dur: 2
+std: 85.85
+size: 1267972 (1.21 MiB)
+
+xmin: 0.27153025997507774
+xmax: 0.2751144893657587
+ymin: -0.4879987173428294
+ymax: -0.48598258831057134
+
+contrast: 1.71
+brightness: 0.02
+saturation: 0.89
+gamma: 1.08
+gamma_r: 0.95
+gamma_g: 0.92
+gamma_b: 0.92
+vignette: -28
+temp: 5269
