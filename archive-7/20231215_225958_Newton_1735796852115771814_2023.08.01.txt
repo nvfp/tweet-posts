@@ -1,0 +1,31 @@
+tweet_id: 1735796852115771814
+masto_id: 111586915003772515
+subre_id: Not uploaded, but here's the text: Friday is shining brightly, just like this Newton.  #GeneralIntelligence #Mathematics #AI
+
+newton_power: 5
+newton_const: -10
+
+n_iter: 73
+ct: 106
+hue_offset: 327
+saturation: 0.88
+
+num_attempts: 202
+dur: 601
+std: 12.94
+size: 505198 (493.36 KiB)
+
+xmin: 1.7060664513768442
+xmax: 1.7236617592947328
+ymin: -1.0175689782060306
+ymax: -1.0076716175022182
+
+contrast: 1.34
+brightness: 0.12
+saturation: 1.01
+gamma: 0.96
+gamma_r: 0.98
+gamma_g: 1.01
+gamma_b: 0.94
+vignette: -1
+temp: 2226
