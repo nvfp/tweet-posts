@@ -1,0 +1,28 @@
+tweet_id: 1735485488923074997
+masto_id: 111582050015708171
+subre_id: Not uploaded, but here's the text: Smile, it's Friday!  #Mathematics #Nature #GeneralIntelligence
+
+n_iter: 461
+ct: 56
+hue_offset: 202
+saturation: -0.7
+
+num_attempts: 3
+dur: 1
+std: 52.0
+size: 1023447 (999.46 KiB)
+
+xmin: -0.8103315772434234
+xmax: -0.6978315772434234
+ymin: -0.6684983831329694
+ymax: -0.6052171331329694
+
+contrast: 0.72
+brightness: 0.11
+saturation: 0.79
+gamma: 0.92
+gamma_r: 1.08
+gamma_g: 0.94
+gamma_b: 0.95
+vignette: -10
+temp: 4590
