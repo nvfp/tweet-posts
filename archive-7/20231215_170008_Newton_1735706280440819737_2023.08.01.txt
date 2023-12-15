@@ -1,0 +1,31 @@
+tweet_id: 1735706280440819737
+masto_id: 111585499874465046
+subre_id: Not uploaded, but here's the text: Have a great day!  #GeneralIntelligence #AI #ArtificialIntelligence
+
+newton_power: 3
+newton_const: -1
+
+n_iter: 232
+ct: 207
+hue_offset: 217
+saturation: -0.34
+
+num_attempts: 486
+dur: 600
+std: 4.13
+size: 570685 (557.31 KiB)
+
+xmin: -0.5690426174732583
+xmax: -0.5317755367279168
+ymin: 0.1651382629355287
+ymax: 0.18610099585478335
+
+contrast: 0.88
+brightness: 0.13
+saturation: 1.71
+gamma: 1.09
+gamma_r: 0.99
+gamma_g: 1.02
+gamma_b: 1.06
+vignette: -8
+temp: 6470
