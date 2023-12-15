@@ -1,0 +1,28 @@
+tweet_id: 1735608515241165290
+masto_id: 111583972258876170
+subre_id: Not uploaded, but here's the text: Wow, guess what? it's Mandelbrot Set!  #GeneralIntelligence #MachineLearning #AI
+
+n_iter: 776
+ct: 157
+hue_offset: 9
+saturation: -0.6
+
+num_attempts: 39
+dur: 21
+std: 99.97
+size: 387315 (378.24 KiB)
+
+xmin: -0.04075603113878801
+xmax: -0.038973499944492104
+ymin: 0.7842102410698317
+ymax: 0.7852129148666231
+
+contrast: 1.1
+brightness: 0.17
+saturation: 0.52
+gamma: 0.97
+gamma_r: 1.01
+gamma_g: 0.91
+gamma_b: 1.09
+vignette: 4
+temp: 4195
