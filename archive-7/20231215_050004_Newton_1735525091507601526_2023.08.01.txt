@@ -1,0 +1,31 @@
+tweet_id: 1735525091507601526
+masto_id: 111582668698317225
+subre_id: Not uploaded, but here's the text: Wishing you a joyful day!  #Art #MultiModal #DeepLearning
+
+newton_power: 6
+newton_const: -7
+
+n_iter: 125
+ct: 216
+hue_offset: 133
+saturation: -0.87
+
+num_attempts: 173
+dur: 601
+std: 15.23
+size: 1058650 (1.01 MiB)
+
+xmin: 2.461169909890965
+xmax: 2.469803003416145
+ymin: -1.818487104942915
+ymax: -1.8136309898350014
+
+contrast: 1.27
+brightness: -0.05
+saturation: 1.41
+gamma: 0.96
+gamma_r: 0.98
+gamma_g: 1.06
+gamma_b: 0.95
+vignette: 17
+temp: 7665
