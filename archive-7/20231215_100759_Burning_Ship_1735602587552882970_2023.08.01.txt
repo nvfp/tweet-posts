@@ -1,0 +1,28 @@
+tweet_id: 1735602587552882970
+masto_id: 111583879475845642
+subre_id: Not uploaded, but here's the text: How's your day?  #ArtificialIntelligence #GenerativeArt #MachineLearning
+
+n_iter: 291
+ct: 209
+hue_offset: 76
+saturation: -0.6
+
+num_attempts: 36
+dur: 10
+std: 49.95
+size: 2136132 (2.04 MiB)
+
+xmin: -0.9039310866281751
+xmax: -0.8396453723424608
+ymin: -0.6877372188190658
+ymax: -0.6515765045333515
+
+contrast: 0.83
+brightness: 0.09
+saturation: 1.1
+gamma: 1.04
+gamma_r: 0.94
+gamma_g: 0.91
+gamma_b: 0.91
+vignette: -30
+temp: 2976
