@@ -1,0 +1,28 @@
+tweet_id: 1735512184136868298
+masto_id: 111582466967813076
+subre_id: Not uploaded, but here's the text: Let the magic of Friday fill your heart!  #GeneralIntelligence #MultiModal #AGI
+
+n_iter: 246
+ct: 127
+hue_offset: 284
+saturation: -0.32
+
+num_attempts: 8
+dur: 2
+std: 32.72
+size: 2158950 (2.06 MiB)
+
+xmin: 0.5040444651002249
+xmax: 0.5656883007166633
+ymin: -1.2183069105797704
+ymax: -1.1836322530455239
+
+contrast: 1.41
+brightness: 0.06
+saturation: 1.48
+gamma: 1.09
+gamma_r: 0.96
+gamma_g: 0.98
+gamma_b: 1.04
+vignette: -20
+temp: 6444
