@@ -1,0 +1,28 @@
+tweet_id: 1735581446935638298
+masto_id: 111583549295563309
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Friday! You got this!  #DigitalArt #ArtificialIntelligence #MachineLearning
+
+n_iter: 292
+ct: 255
+hue_offset: 291
+saturation: -0.27
+
+num_attempts: 740
+dur: 603
+std: 47.74
+size: 759681 (741.88 KiB)
+
+xmin: -0.31983263248920224
+xmax: -0.29910724388816595
+ymin: -0.6900070638358541
+ymax: -0.6783490327477711
+
+contrast: 1.32
+brightness: -0.03
+saturation: 0.95
+gamma: 0.93
+gamma_r: 0.97
+gamma_g: 1.03
+gamma_b: 0.91
+vignette: -5
+temp: 6027
