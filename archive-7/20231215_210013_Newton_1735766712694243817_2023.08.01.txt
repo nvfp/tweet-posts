@@ -1,0 +1,31 @@
+tweet_id: 1735766712694243817
+masto_id: 111586444058398148
+subre_id: Not uploaded, but here's the text: Happy Friday!  #MachineLearning #GeneralIntelligence #ArtificialIntelligence
+
+newton_power: 6
+newton_const: 2
+
+n_iter: 144
+ct: 30
+hue_offset: 334
+saturation: 0.16
+
+num_attempts: 185
+dur: 600
+std: 18.23
+size: 1372200 (1.31 MiB)
+
+xmin: -1.8828818609308788
+xmax: -1.8756354841192846
+ymin: -0.15133710695788505
+ymax: -0.14726102000136332
+
+contrast: 1.54
+brightness: 0.0
+saturation: 0.85
+gamma: 1.02
+gamma_r: 1.05
+gamma_g: 1.07
+gamma_b: 0.97
+vignette: -19
+temp: 6896
