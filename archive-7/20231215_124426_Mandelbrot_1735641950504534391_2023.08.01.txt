@@ -1,0 +1,28 @@
+tweet_id: 1735641950504534391
+masto_id: 111584494631868428
+subre_id: Not uploaded, but here's the text: Smile!  #ArtificialIntelligence #AGI #DeepLearning
+
+n_iter: 929
+ct: 170
+hue_offset: 97
+saturation: -0.94
+
+num_attempts: 44
+dur: 28
+std: 18.88
+size: 1255160 (1.2 MiB)
+
+xmin: 0.42051979077608026
+xmax: 0.43421842091306656
+ymin: -0.20887665703324643
+ymax: -0.20117117758119163
+
+contrast: 0.98
+brightness: -0.04
+saturation: 0.3
+gamma: 0.95
+gamma_r: 0.99
+gamma_g: 0.95
+gamma_b: 0.9
+vignette: 24
+temp: 4471
