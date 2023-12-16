@@ -1,0 +1,31 @@
+tweet_id: 1735887452823552229
+masto_id: 111588330661976128
+subre_id: Not uploaded, but here's the text: Hope you have an amazing Saturday!  #Mathematics #GeneralIntelligence #Fractals
+
+newton_power: 7
+newton_const: 2
+
+n_iter: 90
+ct: 193
+hue_offset: 149
+saturation: -0.62
+
+num_attempts: 143
+dur: 601
+std: 37.21
+size: 914543 (893.11 KiB)
+
+xmin: 0.6133582912288311
+xmax: 0.6198168488176363
+ymin: -0.9694816445811636
+ymax: -0.9658487059374606
+
+contrast: 1.01
+brightness: 0.2
+saturation: 1.66
+gamma: 1.05
+gamma_r: 0.92
+gamma_g: 0.93
+gamma_b: 0.98
+vignette: -40
+temp: 4038
