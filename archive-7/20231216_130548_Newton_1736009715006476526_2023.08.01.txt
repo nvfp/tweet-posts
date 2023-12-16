@@ -1,0 +1,31 @@
+tweet_id: 1736009715006476526
+masto_id: 111590240996708907
+subre_id: Not uploaded, but here's the text: Surprise! It's a Newton!  #Nature #DigitalArt #MultiModal
+
+newton_power: 3
+newton_const: 4
+
+n_iter: 105
+ct: 138
+hue_offset: 153
+saturation: 0.76
+
+num_attempts: 542
+dur: 600
+std: 3.94
+size: 780929 (762.63 KiB)
+
+xmin: 1.0106546849572737
+xmax: 1.0517505753682326
+ymin: -0.12638113660882477
+ymax: -0.1032646982526604
+
+contrast: 1.44
+brightness: 0.08
+saturation: 0.92
+gamma: 1.04
+gamma_r: 1.1
+gamma_g: 0.94
+gamma_b: 0.91
+vignette: -29
+temp: 3016
