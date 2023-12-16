@@ -1,0 +1,28 @@
+tweet_id: 1736033972356850082
+masto_id: 111590619929591364
+subre_id: Not uploaded, but here's the text: Hope you're having a great Saturday!  #AI #MultiModal #ArtificialIntelligence
+
+n_iter: 379
+ct: 255
+hue_offset: 229
+saturation: 0.93
+
+num_attempts: 679
+dur: 600
+std: 73.16
+size: 1488575 (1.42 MiB)
+
+xmin: -0.38887909988658675
+xmax: -0.3834369230158385
+ymin: -0.6252884670618362
+ymax: -0.6222272425720402
+
+contrast: 0.83
+brightness: 0.09
+saturation: 0.61
+gamma: 1.0
+gamma_r: 1.01
+gamma_g: 1.04
+gamma_b: 0.99
+vignette: -31
+temp: 5327
