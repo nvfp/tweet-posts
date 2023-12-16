@@ -1,0 +1,28 @@
+tweet_id: 1735850660078178795
+masto_id: 111587755665178913
+subre_id: Not uploaded, but here's the text: Brighten your Saturday!  #AI #DigitalArt #Mathematics
+
+n_iter: 855
+ct: 67
+hue_offset: 358
+saturation: -0.84
+
+num_attempts: 41
+dur: 23
+std: 22.23
+size: 1666316 (1.59 MiB)
+
+xmin: 0.27736703915865846
+xmax: 0.27791823111125596
+ymin: -0.5931123618742876
+ymax: -0.5928023164009515
+
+contrast: 0.76
+brightness: 0.17
+saturation: 1.21
+gamma: 0.92
+gamma_r: 1.02
+gamma_g: 0.96
+gamma_b: 0.97
+vignette: -23
+temp: 7938
