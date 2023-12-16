@@ -1,0 +1,31 @@
+tweet_id: 1735917682653077642
+masto_id: 111588802962675204
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Saturday! You got this!  #AI #GeneralIntelligence #VisualArt
+
+newton_power: 4
+newton_const: 5
+
+n_iter: 176
+ct: 172
+hue_offset: 45
+saturation: 0.27
+
+num_attempts: 260
+dur: 602
+std: 7.26
+size: 884613 (863.88 KiB)
+
+xmin: -0.20959048247265466
+xmax: -0.20349911191427902
+ymin: -1.4714188197181817
+ymax: -1.4679924237790953
+
+contrast: 1.62
+brightness: 0.08
+saturation: 0.62
+gamma: 1.08
+gamma_r: 0.95
+gamma_g: 1.1
+gamma_b: 1.05
+vignette: -14
+temp: 6593
