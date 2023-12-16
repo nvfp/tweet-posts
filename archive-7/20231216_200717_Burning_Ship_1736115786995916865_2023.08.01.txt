@@ -1,0 +1,28 @@
+tweet_id: 1736115786995916865
+masto_id: 111591898303105703
+subre_id: Not uploaded, but here's the text: Saturday is shining brightly, just like this Burning Ship.  #DigitalArt #VisualArt #Art
+
+n_iter: 365
+ct: 103
+hue_offset: 345
+saturation: 0.55
+
+num_attempts: 26
+dur: 10
+std: 20.05
+size: 282967 (276.33 KiB)
+
+xmin: -0.7037140428203981
+xmax: 0.7962859571796019
+ymin: -1.9413612428696208
+ymax: -1.0976112428696208
+
+contrast: 0.83
+brightness: 0.02
+saturation: 0.81
+gamma: 1.07
+gamma_r: 1.02
+gamma_g: 1.05
+gamma_b: 0.97
+vignette: 2
+temp: 5207
