@@ -1,0 +1,28 @@
+tweet_id: 1735838247341998334
+masto_id: 111587561768024035
+subre_id: Not uploaded, but here's the text: Beautiful Saturday with this Multibrot!  #AGI #MultiModal #MachineLearning
+
+n_iter: 372
+ct: 255
+hue_offset: 225
+saturation: -0.03
+
+num_attempts: 693
+dur: 600
+std: 54.66
+size: 946593 (924.41 KiB)
+
+xmin: 0.24851126803433488
+xmax: 0.25620357572664254
+ymin: 0.7419624499459814
+ymax: 0.7462893730229044
+
+contrast: 1.59
+brightness: 0.15
+saturation: 1.39
+gamma: 0.96
+gamma_r: 1.05
+gamma_g: 0.9
+gamma_b: 0.92
+vignette: 17
+temp: 3673
