@@ -1,0 +1,31 @@
+tweet_id: 1735839786836041842
+masto_id: 111587586082439993
+subre_id: Not uploaded, but here's the text: Keep smiling!  #DigitalArt #MultiModal #GeneralIntelligence
+
+newton_power: 5
+newton_const: -8
+
+n_iter: 121
+ct: 142
+hue_offset: 139
+saturation: 0.61
+
+num_attempts: 231
+dur: 600
+std: 13.58
+size: 791168 (772.62 KiB)
+
+xmin: 1.1809457719158578
+xmax: 1.1907979886646263
+ymin: -0.7925360170496814
+ymax: -0.7869941451284991
+
+contrast: 1.29
+brightness: 0.05
+saturation: 0.65
+gamma: 0.99
+gamma_r: 0.91
+gamma_g: 1.07
+gamma_b: 1.04
+vignette: 14
+temp: 2285
