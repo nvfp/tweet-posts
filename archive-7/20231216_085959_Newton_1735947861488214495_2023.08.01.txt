@@ -1,0 +1,31 @@
+tweet_id: 1735947861488214495
+masto_id: 111589274355754051
+subre_id: Not uploaded, but here's the text: Look what we have here! it's Newton!  #DeepLearning #Art #AGI
+
+newton_power: 3
+newton_const: -10
+
+n_iter: 247
+ct: 202
+hue_offset: 59
+saturation: -0.26
+
+num_attempts: 524
+dur: 600
+std: 4.47
+size: 130020 (126.97 KiB)
+
+xmin: 0.5624652704575208
+xmax: 0.5688144768067271
+ymin: 1.2664919854108105
+ymax: 1.270063413982239
+
+contrast: 1.77
+brightness: 0.22
+saturation: 0.79
+gamma: 1.09
+gamma_r: 0.95
+gamma_g: 0.96
+gamma_b: 1.07
+vignette: 0
+temp: 6056
