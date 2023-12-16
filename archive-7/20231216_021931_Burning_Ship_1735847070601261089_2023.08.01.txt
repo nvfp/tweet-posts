@@ -1,0 +1,28 @@
+tweet_id: 1735847070601261089
+masto_id: 111587699641604317
+subre_id: Not uploaded, but here's the text: Let this Burning Ship brighten up your Saturday!  #GeneralIntelligence #MachineLearning #Mathematics
+
+n_iter: 479
+ct: 168
+hue_offset: 350
+saturation: 0.91
+
+num_attempts: 1
+dur: 0
+std: 48.74
+size: 1820539 (1.74 MiB)
+
+xmin: 0.41282234773804616
+xmax: 0.4993608092765077
+ymin: -1.2173448900581527
+ymax: -1.1686670054427681
+
+contrast: 1.63
+brightness: 0.18
+saturation: 0.5
+gamma: 1.03
+gamma_r: 1.05
+gamma_g: 0.97
+gamma_b: 1.04
+vignette: 6
+temp: 3057
