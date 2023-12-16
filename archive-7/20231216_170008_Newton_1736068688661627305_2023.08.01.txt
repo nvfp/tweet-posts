@@ -1,0 +1,31 @@
+tweet_id: 1736068688661627305
+masto_id: 111591162392057058
+subre_id: Not uploaded, but here's the text: Have a great day!  #Mathematics #MachineLearning #DigitalArt
+
+newton_power: 7
+newton_const: -2
+
+n_iter: 227
+ct: 12
+hue_offset: 282
+saturation: 0.85
+
+num_attempts: 166
+dur: 600
+std: 20.86
+size: 1231709 (1.17 MiB)
+
+xmin: 1.9125332218978937
+xmax: 1.9240495366771644
+ymin: 0.9465155737607205
+ymax: 0.9529935008240602
+
+contrast: 0.73
+brightness: 0.14
+saturation: 1.27
+gamma: 1.02
+gamma_r: 0.92
+gamma_g: 0.91
+gamma_b: 0.95
+vignette: -11
+temp: 4627
