@@ -1,0 +1,28 @@
+tweet_id: 1736154731226272083
+masto_id: 111592506823930006
+subre_id: Not uploaded, but here's the text: Hello Saturday! This Multibrot is yours!  #Nature #MachineLearning #MultiModal
+
+n_iter: 386
+ct: 255
+hue_offset: 217
+saturation: 0.7
+
+num_attempts: 641
+dur: 600
+std: 54.64
+size: 1077095 (1.03 MiB)
+
+xmin: 0.5887992261146655
+xmax: 0.5945712318866713
+ymin: -0.5768330505397824
+ymax: -0.5735862972930291
+
+contrast: 1.03
+brightness: 0.1
+saturation: 1.29
+gamma: 0.9
+gamma_r: 1.0
+gamma_g: 0.96
+gamma_b: 1.08
+vignette: -45
+temp: 4801
