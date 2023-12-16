@@ -1,0 +1,28 @@
+tweet_id: 1735835436004888755
+masto_id: 111587517807460378
+subre_id: Not uploaded, but here's the text: You are lovely!  #MultiModal #ArtificialIntelligence #AGI
+
+n_iter: 749
+ct: 199
+hue_offset: 302
+saturation: -0.08
+
+num_attempts: 122
+dur: 59
+std: 116.74
+size: 1098220 (1.05 MiB)
+
+xmin: -1.0172421476147937
+xmax: -1.0162865814418363
+ymin: -0.26233961663121097
+ymax: -0.2618021106589224
+
+contrast: 0.86
+brightness: 0.21
+saturation: 1.18
+gamma: 1.03
+gamma_r: 1.06
+gamma_g: 1.06
+gamma_b: 1.08
+vignette: 29
+temp: 2891
