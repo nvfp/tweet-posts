@@ -1,0 +1,31 @@
+tweet_id: 1736129055706042707
+masto_id: 111592105696184832
+subre_id: Not uploaded, but here's the text: How was your day?  #MachineLearning #ArtificialIntelligence #AGI
+
+newton_power: 5
+newton_const: 4
+
+n_iter: 79
+ct: 227
+hue_offset: 23
+saturation: -0.3
+
+num_attempts: 214
+dur: 604
+std: 12.06
+size: 831800 (812.3 KiB)
+
+xmin: 1.6906315980942672
+xmax: 1.7016005194836639
+ymin: -0.19642209935266663
+ymax: -0.19025208107113098
+
+contrast: 0.94
+brightness: 0.08
+saturation: 1.65
+gamma: 0.92
+gamma_r: 0.97
+gamma_g: 1.0
+gamma_b: 0.99
+vignette: -16
+temp: 2416
