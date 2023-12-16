@@ -1,0 +1,28 @@
+tweet_id: 1736151150829711402
+masto_id: 111592451025281254
+subre_id: Not uploaded, but here's the text: Happy Saturday! Enjoy the beauty of Mandelbrot Set.  #ArtificialIntelligence #GeneralIntelligence #AI
+
+n_iter: 937
+ct: 194
+hue_offset: 95
+saturation: 0.07
+
+num_attempts: 32
+dur: 15
+std: 147.42
+size: 945262 (923.11 KiB)
+
+xmin: -0.468781143655741
+xmax: -0.46761291935667554
+ymin: -0.5766197738766055
+ymax: -0.5759626477083811
+
+contrast: 1.08
+brightness: 0.11
+saturation: 0.59
+gamma: 0.96
+gamma_r: 1.02
+gamma_g: 0.95
+gamma_b: 0.96
+vignette: -36
+temp: 7483
