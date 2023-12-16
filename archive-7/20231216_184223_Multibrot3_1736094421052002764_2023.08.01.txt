@@ -1,0 +1,28 @@
+tweet_id: 1736094421052002764
+masto_id: FAIL
+subre_id: Not uploaded, but here's the text: Wishing you a rad Saturday!  #Nature #AI #MultiModal
+
+n_iter: 307
+ct: 1
+hue_offset: 124
+saturation: 0.6
+
+num_attempts: 729
+dur: 601
+std: 56.65
+size: 510763 (498.79 KiB)
+
+xmin: -0.07658906493651263
+xmax: -0.07157024435934826
+ymin: 0.7656460247160863
+ymax: 0.7684691112907412
+
+contrast: 1.51
+brightness: 0.19
+saturation: 0.26
+gamma: 1.02
+gamma_r: 1.04
+gamma_g: 1.0
+gamma_b: 1.05
+vignette: 26
+temp: 5371
