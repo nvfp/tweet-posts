@@ -1,0 +1,28 @@
+tweet_id: 1736365932505870641
+masto_id: 111595806788540984
+subre_id: Not uploaded, but here's the text: Let the magic of Sunday fill your heart!  #Art #AGI #AI
+
+n_iter: 137
+ct: 117
+hue_offset: 291
+saturation: -0.8
+
+num_attempts: 66
+dur: 11
+std: 53.03
+size: 601380 (587.29 KiB)
+
+xmin: -0.6937033358892006
+xmax: -0.693268553280505
+ymin: -0.34793022015098585
+ymax: -0.34768565493359455
+
+contrast: 1.73
+brightness: 0.11
+saturation: 1.71
+gamma: 1.04
+gamma_r: 1.07
+gamma_g: 0.9
+gamma_b: 1.02
+vignette: 13
+temp: 5507
