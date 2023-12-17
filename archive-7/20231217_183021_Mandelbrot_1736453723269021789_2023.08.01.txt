@@ -1,0 +1,28 @@
+tweet_id: 1736453723269021789
+masto_id: 111597179037415161
+subre_id: Not uploaded, but here's the text: Let's rock this Sunday!  #MultiModal #VisualArt #AGI
+
+n_iter: 742
+ct: 82
+hue_offset: 235
+saturation: -0.67
+
+num_attempts: 81
+dur: 48
+std: 108.32
+size: 1034686 (1010.44 KiB)
+
+xmin: 0.36848843155094313
+xmax: 0.3782923531195706
+ymin: 0.1906682110301643
+ymax: 0.19618291691251724
+
+contrast: 0.79
+brightness: 0.08
+saturation: 1.28
+gamma: 1.03
+gamma_r: 0.93
+gamma_g: 1.07
+gamma_b: 1.0
+vignette: 26
+temp: 2274
