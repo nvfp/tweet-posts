@@ -1,0 +1,28 @@
+tweet_id: 1736305822727373102
+masto_id: 111594867679820346
+subre_id: Not uploaded, but here's the text: Happy Sunday! Enjoy the beauty of Multibrot.  #ArtificialIntelligence #AI #Mathematics
+
+n_iter: 361
+ct: 255
+hue_offset: 116
+saturation: 0.83
+
+num_attempts: 675
+dur: 605
+std: 56.45
+size: 1451890 (1.38 MiB)
+
+xmin: 0.3731748033895932
+xmax: 0.3798083025604058
+ymin: 0.6405160772339791
+ymax: 0.6442474205175611
+
+contrast: 1.31
+brightness: -0.01
+saturation: 0.59
+gamma: 1.06
+gamma_r: 1.09
+gamma_g: 1.03
+gamma_b: 0.99
+vignette: -48
+temp: 4950
