@@ -1,0 +1,31 @@
+tweet_id: 1736340453950132643
+masto_id: 111595408787424157
+subre_id: Not uploaded, but here's the text: Let's make it a memorable Sunday!  #Fractals #MultiModal #MachineLearning
+
+newton_power: 4
+newton_const: 6
+
+n_iter: 255
+ct: 48
+hue_offset: 325
+saturation: -0.44
+
+num_attempts: 256
+dur: 603
+std: 7.55
+size: 952209 (929.89 KiB)
+
+xmin: 1.7775005161672723
+xmax: 1.791552038415516
+ymin: -0.3229887934919766
+ymax: -0.31508481222733964
+
+contrast: 1.06
+brightness: 0.17
+saturation: 0.51
+gamma: 1.06
+gamma_r: 1.07
+gamma_g: 0.96
+gamma_b: 0.96
+vignette: 22
+temp: 3734
