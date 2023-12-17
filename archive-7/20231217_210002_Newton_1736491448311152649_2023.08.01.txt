@@ -1,0 +1,31 @@
+tweet_id: 1736491448311152649
+masto_id: 111597768041345813
+subre_id: Not uploaded, but here's the text: Wishing you the best!  #Fractals #Nature #DigitalArt
+
+newton_power: 7
+newton_const: -4
+
+n_iter: 243
+ct: 236
+hue_offset: 255
+saturation: -0.9
+
+num_attempts: 156
+dur: 601
+std: 24.0
+size: 1088969 (1.04 MiB)
+
+xmin: -1.8861797542009915
+xmax: -1.8772245303203945
+ymin: 1.9901272527189189
+ymax: 1.9951645661517547
+
+contrast: 1.66
+brightness: 0.08
+saturation: 0.83
+gamma: 0.93
+gamma_r: 0.92
+gamma_g: 1.09
+gamma_b: 1.04
+vignette: 10
+temp: 6047
