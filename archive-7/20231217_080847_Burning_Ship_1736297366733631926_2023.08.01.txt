@@ -1,0 +1,28 @@
+tweet_id: 1736297366733631926
+masto_id: 111594735360726525
+subre_id: Not uploaded, but here's the text: Cheers to a fantastic Sunday!  #GeneralIntelligence #Mathematics #AI
+
+n_iter: 400
+ct: 223
+hue_offset: 122
+saturation: -0.02
+
+num_attempts: 19
+dur: 5
+std: 23.21
+size: 184558 (180.23 KiB)
+
+xmin: -0.5495225986492605
+xmax: 1.7004774013507395
+ymin: -1.79382567380424
+ymax: -0.52820067380424
+
+contrast: 1.67
+brightness: -0.07
+saturation: 1.64
+gamma: 0.99
+gamma_r: 0.91
+gamma_g: 1.07
+gamma_b: 0.91
+vignette: 7
+temp: 3394
