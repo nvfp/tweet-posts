@@ -1,0 +1,31 @@
+tweet_id: 1736203653827211559
+masto_id: 111593271445685244
+subre_id: Not uploaded, but here's the text: Wishing you a wonderful Sunday!  #VisualArt #GeneralIntelligence #GenerativeArt
+
+newton_power: 7
+newton_const: 10
+
+n_iter: 131
+ct: 141
+hue_offset: 350
+saturation: 0.62
+
+num_attempts: 173
+dur: 607
+std: 19.54
+size: 558332 (545.25 KiB)
+
+xmin: 0.05372504379738263
+xmax: 0.06055098236393553
+ymin: -0.09034362426534459
+ymax: -0.08650403382165858
+
+contrast: 0.94
+brightness: 0.07
+saturation: 0.26
+gamma: 0.95
+gamma_r: 0.94
+gamma_g: 0.9
+gamma_b: 0.93
+vignette: 6
+temp: 3108
