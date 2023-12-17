@@ -1,0 +1,28 @@
+tweet_id: 1736210491813331245
+masto_id: 111593378159069713
+subre_id: Not uploaded, but here's the text: Chin up, lovely humans!  #GeneralIntelligence #AI #MultiModal
+
+n_iter: 397
+ct: 71
+hue_offset: 162
+saturation: 0.83
+
+num_attempts: 22
+dur: 8
+std: 58.34
+size: 2097993 (2.0 MiB)
+
+xmin: -0.5768689698516563
+xmax: -0.5309506025047175
+ymin: -0.7786048975783251
+ymax: -0.752775815945672
+
+contrast: 1.21
+brightness: 0.02
+saturation: 0.8
+gamma: 1.07
+gamma_r: 0.96
+gamma_g: 0.98
+gamma_b: 1.05
+vignette: 24
+temp: 7114
