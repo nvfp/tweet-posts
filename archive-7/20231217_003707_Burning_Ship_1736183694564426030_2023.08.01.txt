@@ -1,0 +1,28 @@
+tweet_id: 1736183694564426030
+masto_id: 111592959346080543
+subre_id: Not uploaded, but here's the text: You are lovely!  #MultiModal #GeneralIntelligence #VisualArt
+
+n_iter: 204
+ct: 250
+hue_offset: 103
+saturation: -0.52
+
+num_attempts: 55
+dur: 14
+std: 30.76
+size: 1762639 (1.68 MiB)
+
+xmin: -1.1291826749065543
+xmax: -1.0075610532849326
+ymin: -0.5690969395926448
+ymax: -0.5006847774304827
+
+contrast: 1.4
+brightness: -0.07
+saturation: 1.19
+gamma: 1.08
+gamma_r: 1.01
+gamma_g: 1.02
+gamma_b: 1.06
+vignette: 7
+temp: 5430
