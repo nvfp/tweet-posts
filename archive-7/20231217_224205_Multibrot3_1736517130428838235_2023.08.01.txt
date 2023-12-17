@@ -1,0 +1,28 @@
+tweet_id: 1736517130428838235
+masto_id: 111598169339235362
+subre_id: Not uploaded, but here's the text: A great Sunday and a beautiful Multibrot.  #DigitalArt #GeneralIntelligence #Nature
+
+n_iter: 619
+ct: 255
+hue_offset: 265
+saturation: -0.02
+
+num_attempts: 359
+dur: 600
+std: 62.64
+size: 630887 (616.1 KiB)
+
+xmin: 0.48645577418048
+xmax: 0.4928353595074338
+ymin: -0.06043681951798163
+ymax: -0.05684830277157015
+
+contrast: 1.23
+brightness: -0.06
+saturation: 0.94
+gamma: 1.09
+gamma_r: 1.03
+gamma_g: 0.92
+gamma_b: 1.08
+vignette: 31
+temp: 6042
