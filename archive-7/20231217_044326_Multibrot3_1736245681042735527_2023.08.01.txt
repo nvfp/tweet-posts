@@ -1,0 +1,28 @@
+tweet_id: 1736245681042735527
+masto_id: 111593927879027609
+subre_id: Not uploaded, but here's the text: Feeling the Multibrot vibes today!  #Nature #VisualArt #Art
+
+n_iter: 548
+ct: 1
+hue_offset: 341
+saturation: -0.03
+
+num_attempts: 477
+dur: 602
+std: 68.49
+size: 318933 (311.46 KiB)
+
+xmin: -0.19557497235278443
+xmax: -0.188167564945377
+ymin: 0.7425812396424987
+ymax: 0.7467479063091653
+
+contrast: 1.65
+brightness: 0.13
+saturation: 1.52
+gamma: 0.96
+gamma_r: 1.03
+gamma_g: 1.06
+gamma_b: 1.09
+vignette: 21
+temp: 5428
