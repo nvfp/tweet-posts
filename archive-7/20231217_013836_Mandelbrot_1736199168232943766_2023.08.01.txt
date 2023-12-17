@@ -1,0 +1,28 @@
+tweet_id: 1736199168232943766
+masto_id: 111593201103329710
+subre_id: Not uploaded, but here's the text: Let this Mandelbrot Set brighten up your Sunday!  #AI #Nature #MultiModal
+
+n_iter: 157
+ct: 167
+hue_offset: 125
+saturation: -0.66
+
+num_attempts: 27
+dur: 4
+std: 28.11
+size: 772225 (754.13 KiB)
+
+xmin: -0.68117936963713
+xmax: -0.5599672484250088
+ymin: -0.4760846227288794
+ymax: -0.40790280454706124
+
+contrast: 1.29
+brightness: -0.07
+saturation: 1.33
+gamma: 0.97
+gamma_r: 0.98
+gamma_g: 1.01
+gamma_b: 1.01
+vignette: 5
+temp: 3935
