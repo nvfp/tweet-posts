@@ -1,0 +1,28 @@
+tweet_id: 1736387155704857013
+masto_id: 111596138453815853
+subre_id: Not uploaded, but here's the text: you are fantastic!  #Art #AGI #MultiModal
+
+n_iter: 460
+ct: 127
+hue_offset: 160
+saturation: 0.94
+
+num_attempts: 14
+dur: 4
+std: 52.01
+size: 947497 (925.29 KiB)
+
+xmin: -1.6160018133700729
+xmax: -1.3910018133700728
+ymin: -0.24535427621195627
+ymax: -0.11879177621195627
+
+contrast: 1.46
+brightness: 0.17
+saturation: 0.52
+gamma: 0.96
+gamma_r: 0.95
+gamma_g: 0.94
+gamma_b: 1.08
+vignette: -33
+temp: 2120
