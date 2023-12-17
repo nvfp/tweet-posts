@@ -1,0 +1,31 @@
+tweet_id: 1736461338216632589
+masto_id: 111597297785996682
+subre_id: Not uploaded, but here's the text: A great Sunday and a beautiful Newton.  #MultiModal #Fractals #AGI
+
+newton_power: 6
+newton_const: -1
+
+n_iter: 212
+ct: 13
+hue_offset: 36
+saturation: -0.66
+
+num_attempts: 172
+dur: 601
+std: 14.15
+size: 1413034 (1.35 MiB)
+
+xmin: 1.0706401125245826
+xmax: 1.0841841305832733
+ymin: -0.5055155703916616
+ymax: -0.49789706023364805
+
+contrast: 1.17
+brightness: -0.08
+saturation: 1.02
+gamma: 1.0
+gamma_r: 1.09
+gamma_g: 1.1
+gamma_b: 1.03
+vignette: -38
+temp: 3610
