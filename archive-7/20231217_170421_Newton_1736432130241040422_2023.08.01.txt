@@ -1,0 +1,31 @@
+tweet_id: 1736432130241040422
+masto_id: 111596841267394169
+subre_id: Not uploaded, but here's the text: Hope you have an amazing Sunday!  #MultiModal #AI #GeneralIntelligence
+
+newton_power: 7
+newton_const: 0
+
+n_iter: 234
+ct: 93
+hue_offset: 97
+saturation: -0.22
+
+num_attempts: 198
+dur: 851
+std: 0.98
+size: 547375 (534.55 KiB)
+
+xmin: -0.31943244118413716
+xmax: -0.1889976585754415
+ymin: 0.03532351185491178
+ymax: 0.10869307707230308
+
+contrast: 0.75
+brightness: 0.02
+saturation: 1.51
+gamma: 0.95
+gamma_r: 0.9
+gamma_g: 1.02
+gamma_b: 1.01
+vignette: 16
+temp: 3349
