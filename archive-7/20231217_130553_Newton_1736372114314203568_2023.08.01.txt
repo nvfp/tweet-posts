@@ -1,0 +1,31 @@
+tweet_id: 1736372114314203568
+masto_id: 111595903594026985
+subre_id: Not uploaded, but here's the text: Wow, guess what? it's Newton!  #GeneralIntelligence #ArtificialIntelligence #VisualArt
+
+newton_power: 6
+newton_const: -6
+
+n_iter: 78
+ct: 9
+hue_offset: 91
+saturation: -0.44
+
+num_attempts: 183
+dur: 601
+std: 18.09
+size: 813695 (794.62 KiB)
+
+xmin: -0.9105152960761016
+xmax: -0.9042912296860601
+ymin: -0.49893353344842994
+ymax: -0.4954324961040316
+
+contrast: 0.77
+brightness: -0.1
+saturation: 0.44
+gamma: 1.02
+gamma_r: 1.05
+gamma_g: 0.95
+gamma_b: 1.1
+vignette: -21
+temp: 5777
