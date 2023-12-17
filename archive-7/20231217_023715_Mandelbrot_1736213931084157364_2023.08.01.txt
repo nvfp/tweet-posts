@@ -1,0 +1,28 @@
+tweet_id: 1736213931084157364
+masto_id: 111593431731563530
+subre_id: Not uploaded, but here's the text: Wow, take a look! There's Mandelbrot Set!  #AGI #DigitalArt #Mathematics
+
+n_iter: 657
+ct: 57
+hue_offset: 352
+saturation: 0.07
+
+num_attempts: 68
+dur: 33
+std: 70.86
+size: 329542 (321.82 KiB)
+
+xmin: 0.3267045460809954
+xmax: 0.3339378191370533
+ymin: 0.3871453281296424
+ymax: 0.39121404422367495
+
+contrast: 1.61
+brightness: -0.06
+saturation: 0.56
+gamma: 0.91
+gamma_r: 1.08
+gamma_g: 0.91
+gamma_b: 1.0
+vignette: 32
+temp: 4604
