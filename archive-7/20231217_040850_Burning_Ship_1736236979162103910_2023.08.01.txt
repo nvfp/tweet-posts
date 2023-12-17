@@ -1,0 +1,28 @@
+tweet_id: 1736236979162103910
+masto_id: 111593791839660033
+subre_id: Not uploaded, but here's the text: Surprise! Burning Ship!  #GenerativeArt #ArtificialIntelligence #Art
+
+n_iter: 467
+ct: 62
+hue_offset: 291
+saturation: -0.0
+
+num_attempts: 12
+dur: 8
+std: 27.47
+size: 104678 (102.22 KiB)
+
+xmin: -1.1892314512636302
+xmax: -0.9846859967181756
+ymin: -0.3878892859844818
+ymax: -0.2728324678026636
+
+contrast: 1.22
+brightness: -0.02
+saturation: 0.38
+gamma: 1.01
+gamma_r: 1.06
+gamma_g: 0.99
+gamma_b: 1.01
+vignette: 13
+temp: 6636
