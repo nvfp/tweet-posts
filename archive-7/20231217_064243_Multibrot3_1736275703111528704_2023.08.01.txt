@@ -1,0 +1,28 @@
+tweet_id: 1736275703111528704
+masto_id: 111594396947197992
+subre_id: Not uploaded, but here's the text: Hey there, it's Sunday!  #Art #AGI #MultiModal
+
+n_iter: 478
+ct: 255
+hue_offset: 65
+saturation: -0.95
+
+num_attempts: 521
+dur: 605
+std: 61.33
+size: 538858 (526.23 KiB)
+
+xmin: 0.5389165320115179
+xmax: 0.5562325493275352
+ymin: -0.3195035470211538
+ymax: -0.3097632872808941
+
+contrast: 0.75
+brightness: 0.16
+saturation: 1.59
+gamma: 0.94
+gamma_r: 0.91
+gamma_g: 1.08
+gamma_b: 0.94
+vignette: -1
+temp: 7725
