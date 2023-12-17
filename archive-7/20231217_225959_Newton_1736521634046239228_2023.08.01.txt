@@ -1,0 +1,31 @@
+tweet_id: 1736521634046239228
+masto_id: 111598239713694476
+subre_id: Not uploaded, but here's the text: Hello Sunday! This Newton is yours!  #AI #DeepLearning #Nature
+
+newton_power: 6
+newton_const: -2
+
+n_iter: 145
+ct: 245
+hue_offset: 115
+saturation: -0.72
+
+num_attempts: 169
+dur: 600
+std: 19.05
+size: 1056417 (1.01 MiB)
+
+xmin: 2.7280128351116826
+xmax: 2.734933250336596
+ymin: -1.19708710452963
+ymax: -1.1931943709656163
+
+contrast: 1.37
+brightness: 0.1
+saturation: 0.72
+gamma: 0.92
+gamma_r: 0.91
+gamma_g: 1.0
+gamma_b: 1.02
+vignette: -10
+temp: 6690
