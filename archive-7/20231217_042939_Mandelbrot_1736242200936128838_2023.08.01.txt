@@ -1,0 +1,28 @@
+tweet_id: 1736242200936128838
+masto_id: 111593873683423030
+subre_id: Not uploaded, but here's the text: Hey wait, look! it's Mandelbrot Set!  #Nature #VisualArt #AI
+
+n_iter: 530
+ct: 137
+hue_offset: 210
+saturation: -0.5
+
+num_attempts: 20
+dur: 9
+std: 28.15
+size: 1162827 (1.11 MiB)
+
+xmin: -0.549067025300304
+xmax: -0.5481341894794085
+ymin: -0.5939014197902698
+ymax: -0.593376699641016
+
+contrast: 0.75
+brightness: -0.01
+saturation: 1.68
+gamma: 1.03
+gamma_r: 0.98
+gamma_g: 1.02
+gamma_b: 1.01
+vignette: -34
+temp: 4595
