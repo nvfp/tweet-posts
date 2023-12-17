@@ -1,0 +1,28 @@
+tweet_id: 1736217247067074818
+masto_id: 111593483575247704
+subre_id: Not uploaded, but here's the text: Sending you this fractal on this Sunday!  #MachineLearning #DeepLearning #Mathematics
+
+n_iter: 284
+ct: 255
+hue_offset: 39
+saturation: 0.92
+
+num_attempts: 797
+dur: 601
+std: 53.01
+size: 832540 (813.03 KiB)
+
+xmin: -0.24397945538502297
+xmax: -0.23979535496661292
+ymin: 0.7408250414436144
+ymax: 0.74317859792897
+
+contrast: 1.79
+brightness: 0.11
+saturation: 0.69
+gamma: 1.07
+gamma_r: 0.98
+gamma_g: 1.07
+gamma_b: 0.91
+vignette: -30
+temp: 2119
