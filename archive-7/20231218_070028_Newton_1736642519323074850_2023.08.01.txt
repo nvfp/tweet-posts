@@ -1,0 +1,31 @@
+tweet_id: 1736642519323074850
+masto_id: 111600128656773405
+subre_id: Not uploaded, but here's the text: Surprise! It's a Newton!  #Fractals #Art #VisualArt
+
+newton_power: 4
+newton_const: 1
+
+n_iter: 154
+ct: 120
+hue_offset: 320
+saturation: 0.62
+
+num_attempts: 266
+dur: 604
+std: 7.39
+size: 932230 (910.38 KiB)
+
+xmin: 0.5831626301810005
+xmax: 0.6023933994117697
+ymin: -0.27133537017731024
+ymax: -0.26051806248500253
+
+contrast: 0.89
+brightness: -0.02
+saturation: 1.59
+gamma: 0.96
+gamma_r: 1.04
+gamma_g: 0.97
+gamma_b: 0.96
+vignette: -20
+temp: 3506
