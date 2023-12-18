@@ -1,0 +1,28 @@
+tweet_id: 1736849463350833527
+masto_id: 111603361945188589
+subre_id: Not uploaded, but here's the text: Keep shining on Monday!  #Fractals #DeepLearning #Mathematics
+
+n_iter: 477
+ct: 1
+hue_offset: 179
+saturation: 0.31
+
+num_attempts: 569
+dur: 605
+std: 56.96
+size: 746888 (729.38 KiB)
+
+xmin: -0.2304668573805877
+xmax: -0.22201019776113737
+ymin: 1.0500387963981659
+ymax: 1.0547956674341068
+
+contrast: 1.74
+brightness: 0.02
+saturation: 1.44
+gamma: 1.0
+gamma_r: 1.06
+gamma_g: 1.07
+gamma_b: 1.04
+vignette: 10
+temp: 3890
