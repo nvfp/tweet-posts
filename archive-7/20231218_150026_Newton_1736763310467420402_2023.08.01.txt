@@ -1,0 +1,31 @@
+tweet_id: 1736763310467420402
+masto_id: 111602016198950003
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Monday! You got this!  #Nature #ArtificialIntelligence #Art
+
+newton_power: 4
+newton_const: 5
+
+n_iter: 226
+ct: 206
+hue_offset: 273
+saturation: -0.94
+
+num_attempts: 266
+dur: 602
+std: 7.05
+size: 857656 (837.55 KiB)
+
+xmin: 0.30739056235771933
+xmax: 0.35500960997676695
+ymin: 0.7090600700009588
+ymax: 0.7358457842866731
+
+contrast: 1.43
+brightness: 0.12
+saturation: 1.63
+gamma: 0.97
+gamma_r: 1.02
+gamma_g: 0.99
+gamma_b: 0.93
+vignette: -10
+temp: 5680
