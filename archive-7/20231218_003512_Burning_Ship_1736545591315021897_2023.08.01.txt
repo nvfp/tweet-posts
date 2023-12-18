@@ -1,0 +1,28 @@
+tweet_id: 1736545591315021897
+masto_id: 111598614110088917
+subre_id: Not uploaded, but here's the text: Keep shining on Monday!  #MultiModal #AI #GenerativeArt
+
+n_iter: 168
+ct: 197
+hue_offset: 9
+saturation: 0.29
+
+num_attempts: 35
+dur: 7
+std: 26.07
+size: 1493060 (1.42 MiB)
+
+xmin: -0.8484120715799774
+xmax: -0.7565753368860999
+ymin: -0.9667186328996076
+ymax: -0.9150604696343014
+
+contrast: 0.78
+brightness: 0.19
+saturation: 0.42
+gamma: 0.99
+gamma_r: 1.03
+gamma_g: 1.07
+gamma_b: 0.93
+vignette: 17
+temp: 5560
