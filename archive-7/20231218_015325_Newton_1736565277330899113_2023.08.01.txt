@@ -1,0 +1,31 @@
+tweet_id: 1736565277330899113
+masto_id: 111598921663013309
+subre_id: Not uploaded, but here's the text: Guess what? It's Newton!  #Mathematics #Fractals #DeepLearning
+
+newton_power: 5
+newton_const: 4
+
+n_iter: 151
+ct: 174
+hue_offset: 241
+saturation: 0.8
+
+num_attempts: 216
+dur: 605
+std: 13.36
+size: 1057919 (1.01 MiB)
+
+xmin: -0.2313170393045807
+xmax: -0.21950601568253345
+ymin: -0.43667529766640834
+ymax: -0.43003159687900677
+
+contrast: 1.06
+brightness: -0.02
+saturation: 1.5
+gamma: 1.1
+gamma_r: 1.07
+gamma_g: 0.92
+gamma_b: 0.96
+vignette: 23
+temp: 3929
