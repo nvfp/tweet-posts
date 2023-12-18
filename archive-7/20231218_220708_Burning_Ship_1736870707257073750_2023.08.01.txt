@@ -1,0 +1,28 @@
+tweet_id: 1736870707257073750
+masto_id: 111603694130667148
+subre_id: Not uploaded, but here's the text: Ever heard of this Burning Ship?  #ArtificialIntelligence #DigitalArt #MultiModal
+
+n_iter: 375
+ct: 255
+hue_offset: 102
+saturation: -0.28
+
+num_attempts: 13
+dur: 4
+std: 33.86
+size: 1061737 (1.01 MiB)
+
+xmin: -0.8774746991388347
+xmax: -0.8280241496882852
+ymin: -0.6099024033416616
+ymax: -0.5820864692757275
+
+contrast: 0.84
+brightness: 0.05
+saturation: 1.42
+gamma: 1.01
+gamma_r: 0.97
+gamma_g: 0.96
+gamma_b: 0.99
+vignette: 14
+temp: 4357
