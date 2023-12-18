@@ -1,0 +1,28 @@
+tweet_id: 1736629930409001337
+masto_id: 111599931767506886
+subre_id: Not uploaded, but here's the text: Have an awesome Monday!  #GeneralIntelligence #AGI #DigitalArt
+
+n_iter: 382
+ct: 123
+hue_offset: 51
+saturation: 0.06
+
+num_attempts: 2
+dur: 0
+std: 38.57
+size: 1618403 (1.54 MiB)
+
+xmin: -1.1010211802210303
+xmax: -1.0161155198436718
+ymin: -0.5983399390964199
+ymax: -0.5505805051341558
+
+contrast: 0.84
+brightness: -0.08
+saturation: 0.4
+gamma: 1.06
+gamma_r: 0.94
+gamma_g: 0.94
+gamma_b: 1.07
+vignette: -16
+temp: 4553
