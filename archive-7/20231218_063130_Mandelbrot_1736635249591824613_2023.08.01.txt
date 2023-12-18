@@ -1,0 +1,28 @@
+tweet_id: 1736635249591824613
+masto_id: 111600015098131601
+subre_id: Not uploaded, but here's the text: Sending you this fractal on this Monday!  #MultiModal #Art #DeepLearning
+
+n_iter: 696
+ct: 82
+hue_offset: 289
+saturation: -0.8
+
+num_attempts: 9
+dur: 1
+std: 35.45
+size: 1236886 (1.18 MiB)
+
+xmin: 0.30881872230913654
+xmax: 0.4063796979188926
+ymin: 0.5367535423446586
+ymax: 0.5916315911251464
+
+contrast: 1.27
+brightness: 0.12
+saturation: 1.35
+gamma: 0.95
+gamma_r: 1.09
+gamma_g: 0.93
+gamma_b: 1.0
+vignette: -45
+temp: 5868
