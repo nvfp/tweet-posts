@@ -1,0 +1,28 @@
+tweet_id: 1736729359736819870
+masto_id: 111601485356873700
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Monday! You got this!  #GenerativeArt #DigitalArt #DeepLearning
+
+n_iter: 677
+ct: 141
+hue_offset: 139
+saturation: -0.14
+
+num_attempts: 28
+dur: 16
+std: 16.73
+size: 317821 (310.37 KiB)
+
+xmin: -0.1399122126784289
+xmax: -0.13944568596977483
+ymin: 0.8804051696249693
+ymax: 0.8806675908985871
+
+contrast: 1.35
+brightness: -0.03
+saturation: 1.19
+gamma: 0.97
+gamma_r: 0.97
+gamma_g: 0.95
+gamma_b: 0.93
+vignette: 0
+temp: 4395
