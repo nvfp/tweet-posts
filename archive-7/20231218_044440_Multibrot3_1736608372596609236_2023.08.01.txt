@@ -1,0 +1,28 @@
+tweet_id: 1736608372596609236
+masto_id: 111599595040652783
+subre_id: Not uploaded, but here's the text: Have a great day!  #MachineLearning #MultiModal #AGI
+
+n_iter: 545
+ct: 255
+hue_offset: 119
+saturation: -0.15
+
+num_attempts: 457
+dur: 603
+std: 90.57
+size: 1301711 (1.24 MiB)
+
+xmin: 0.5067553901176041
+xmax: 0.5122423585675355
+ymin: 0.4535866320803159
+ymax: 0.45667305183340234
+
+contrast: 0.92
+brightness: -0.08
+saturation: 1.65
+gamma: 1.09
+gamma_r: 1.02
+gamma_g: 1.06
+gamma_b: 0.96
+vignette: 25
+temp: 6894
