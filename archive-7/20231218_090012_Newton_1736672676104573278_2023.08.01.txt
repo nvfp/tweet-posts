@@ -1,0 +1,31 @@
+tweet_id: 1736672676104573278
+masto_id: 111600599825338755
+subre_id: Not uploaded, but here's the text: Beautiful Monday with this Newton!  #GenerativeArt #DigitalArt #Nature
+
+newton_power: 4
+newton_const: 9
+
+n_iter: 162
+ct: 141
+hue_offset: 167
+saturation: -0.35
+
+num_attempts: 256
+dur: 600
+std: 9.24
+size: 695305 (679.01 KiB)
+
+xmin: 2.5748447946645747
+xmax: 2.5826471353667855
+ymin: 0.3857533473434538
+ymax: 0.3901421639884473
+
+contrast: 1.36
+brightness: 0.07
+saturation: 0.88
+gamma: 1.06
+gamma_r: 1.07
+gamma_g: 0.97
+gamma_b: 0.95
+vignette: -5
+temp: 6208
