@@ -1,0 +1,28 @@
+tweet_id: 1736638925228372411
+masto_id: 111600072465848141
+subre_id: Not uploaded, but here's the text: How was your day?  #Fractals #DeepLearning #MultiModal
+
+n_iter: 493
+ct: 1
+hue_offset: 347
+saturation: 0.52
+
+num_attempts: 573
+dur: 606
+std: 75.24
+size: 922592 (900.97 KiB)
+
+xmin: -0.5492463675866159
+xmax: -0.5449774241501165
+ymin: 0.2308392113539126
+ymax: 0.23324049203694355
+
+contrast: 1.48
+brightness: -0.01
+saturation: 0.27
+gamma: 1.02
+gamma_r: 1.07
+gamma_g: 0.93
+gamma_b: 0.9
+vignette: 4
+temp: 6806
