@@ -1,0 +1,28 @@
+tweet_id: 1736879636800307609
+masto_id: 111603833418265419
+subre_id: Not uploaded, but here's the text: Sending you this fractal on this Monday!  #AGI #Art #Fractals
+
+n_iter: 567
+ct: 1
+hue_offset: 130
+saturation: 0.67
+
+num_attempts: 374
+dur: 604
+std: 79.24
+size: 730909 (713.78 KiB)
+
+xmin: -0.524503819256644
+xmax: -0.5131723744974372
+ymin: 0.4250204472058039
+ymax: 0.4313943848828577
+
+contrast: 1.78
+brightness: 0.0
+saturation: 0.28
+gamma: 1.04
+gamma_r: 1.05
+gamma_g: 1.07
+gamma_b: 0.98
+vignette: -34
+temp: 4858
