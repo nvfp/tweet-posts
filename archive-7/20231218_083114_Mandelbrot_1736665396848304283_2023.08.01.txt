@@ -1,0 +1,28 @@
+tweet_id: 1736665396848304283
+masto_id: 111600485976588304
+subre_id: Not uploaded, but here's the text: Cheers to a fantastic Monday!  #GenerativeArt #Nature #Art
+
+n_iter: 333
+ct: 73
+hue_offset: 110
+saturation: -0.78
+
+num_attempts: 93
+dur: 34
+std: 62.01
+size: 2059854 (1.96 MiB)
+
+xmin: -1.2410028524347423
+xmax: -1.2393788167059563
+ymin: 0.09169637584420931
+ymax: 0.09260989594165145
+
+contrast: 1.75
+brightness: 0.06
+saturation: 0.71
+gamma: 1.08
+gamma_r: 1.01
+gamma_g: 0.96
+gamma_b: 0.96
+vignette: -41
+temp: 5550
