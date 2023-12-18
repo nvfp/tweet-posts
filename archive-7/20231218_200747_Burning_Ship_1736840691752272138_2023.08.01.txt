@@ -1,0 +1,28 @@
+tweet_id: 1736840691752272138
+masto_id: 111603224862742776
+subre_id: Not uploaded, but here's the text: Wishing you a rad Monday!  #Fractals #VisualArt #Nature
+
+n_iter: 276
+ct: 165
+hue_offset: 251
+saturation: 0.63
+
+num_attempts: 51
+dur: 12
+std: 25.31
+size: 575533 (562.04 KiB)
+
+xmin: -0.734030330536334
+xmax: -0.645795036418687
+ymin: -0.6965433046375897
+ymax: -0.6469109516964132
+
+contrast: 1.62
+brightness: 0.04
+saturation: 0.26
+gamma: 0.97
+gamma_r: 1.03
+gamma_g: 0.91
+gamma_b: 1.01
+vignette: 20
+temp: 2494
