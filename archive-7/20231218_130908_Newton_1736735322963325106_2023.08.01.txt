@@ -1,0 +1,31 @@
+tweet_id: 1736735322963325106
+masto_id: 111601578679487930
+subre_id: Not uploaded, but here's the text: Enjoy your Monday!  #GenerativeArt #Art #MachineLearning
+
+newton_power: 6
+newton_const: 0
+
+n_iter: 117
+ct: 214
+hue_offset: 126
+saturation: -0.7
+
+num_attempts: 154
+dur: 603
+std: 2.93
+size: 633909 (619.05 KiB)
+
+xmin: -0.43939237178661106
+xmax: 0.10606217366793436
+ymin: -0.09141939676254851
+ymax: 0.21539878505563326
+
+contrast: 0.73
+brightness: 0.19
+saturation: 0.38
+gamma: 0.95
+gamma_r: 0.95
+gamma_g: 1.07
+gamma_b: 0.93
+vignette: -31
+temp: 4575
