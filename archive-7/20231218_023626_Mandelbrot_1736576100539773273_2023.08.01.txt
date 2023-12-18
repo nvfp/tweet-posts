@@ -1,0 +1,28 @@
+tweet_id: 1736576100539773273
+masto_id: 111599090809527484
+subre_id: Not uploaded, but here's the text: You rock, and so does this Monday!  #ArtificialIntelligence #Nature #Fractals
+
+n_iter: 143
+ct: 87
+hue_offset: 124
+saturation: -0.34
+
+num_attempts: 68
+dur: 10
+std: 17.49
+size: 918902 (897.37 KiB)
+
+xmin: 0.3705146450383383
+xmax: 0.3710591590595744
+ymin: -0.12390272142495773
+ymax: -0.12359643228801245
+
+contrast: 1.39
+brightness: 0.19
+saturation: 1.43
+gamma: 1.06
+gamma_r: 1.1
+gamma_g: 1.01
+gamma_b: 1.06
+vignette: -18
+temp: 4951
