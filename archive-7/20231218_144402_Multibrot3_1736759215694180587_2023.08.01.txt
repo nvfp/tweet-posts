@@ -1,0 +1,28 @@
+tweet_id: 1736759215694180587
+masto_id: 111601951872188502
+subre_id: Not uploaded, but here's the text: Brighten your Monday!  #AI #AGI #Mathematics
+
+n_iter: 428
+ct: 1
+hue_offset: 354
+saturation: -0.54
+
+num_attempts: 485
+dur: 603
+std: 69.85
+size: 1494285 (1.43 MiB)
+
+xmin: 0.22710045712333526
+xmax: 0.2383680627571381
+ymin: 0.7239339618639207
+ymax: 0.7302719900329347
+
+contrast: 1.05
+brightness: -0.06
+saturation: 0.96
+gamma: 1.04
+gamma_r: 0.97
+gamma_g: 0.97
+gamma_b: 1.1
+vignette: 32
+temp: 6919
