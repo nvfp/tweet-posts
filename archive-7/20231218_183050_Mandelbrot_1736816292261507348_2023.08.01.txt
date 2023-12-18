@@ -1,0 +1,28 @@
+tweet_id: 1736816292261507348
+masto_id: 111602843661614915
+subre_id: Not uploaded, but here's the text: Wishing you the best!  #ArtificialIntelligence #GenerativeArt #AGI
+
+n_iter: 482
+ct: 93
+hue_offset: 4
+saturation: 0.66
+
+num_attempts: 22
+dur: 13
+std: 47.37
+size: 1065927 (1.02 MiB)
+
+xmin: -1.2273072475103128
+xmax: -1.22686773536879
+ymin: 0.1475941904786191
+ymax: 0.14784141605822573
+
+contrast: 1.14
+brightness: -0.1
+saturation: 1.21
+gamma: 0.9
+gamma_r: 0.98
+gamma_g: 0.98
+gamma_b: 1.1
+vignette: -1
+temp: 3326
