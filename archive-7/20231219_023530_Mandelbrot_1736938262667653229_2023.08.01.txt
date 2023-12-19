@@ -1,0 +1,28 @@
+tweet_id: 1736938262667653229
+masto_id: 111604749473428344
+subre_id: Not uploaded, but here's the text: Have an awesome Tuesday!  #Art #GeneralIntelligence #Fractals
+
+n_iter: 616
+ct: 125
+hue_offset: 192
+saturation: 0.98
+
+num_attempts: 2
+dur: 1
+std: 100.76
+size: 895702 (874.71 KiB)
+
+xmin: 0.2095768977115311
+xmax: 0.2131611271022121
+ymin: -0.5362261990670502
+ymax: -0.534210070034792
+
+contrast: 0.81
+brightness: 0.2
+saturation: 0.55
+gamma: 1.02
+gamma_r: 1.05
+gamma_g: 1.05
+gamma_b: 1.08
+vignette: 3
+temp: 7844
