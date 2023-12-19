@@ -1,0 +1,28 @@
+tweet_id: 1737241896710533171
+masto_id: 111609493701583267
+subre_id: Not uploaded, but here's the text: you are awesome.  #Nature #AI #Art
+
+n_iter: 482
+ct: 255
+hue_offset: 168
+saturation: 0.9
+
+num_attempts: 556
+dur: 603
+std: 66.42
+size: 1142416 (1.09 MiB)
+
+xmin: -0.6110847625485178
+xmax: -0.6059957040243448
+ymin: 0.2808845493053098
+ymax: 0.28374714472515716
+
+contrast: 1.32
+brightness: 0.06
+saturation: 0.29
+gamma: 1.08
+gamma_r: 0.9
+gamma_g: 1.07
+gamma_b: 1.01
+vignette: 33
+temp: 5308
