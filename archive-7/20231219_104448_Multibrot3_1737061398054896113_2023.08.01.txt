@@ -1,0 +1,28 @@
+tweet_id: 1737061398054896113
+masto_id: 111606673467279347
+subre_id: Not uploaded, but here's the text: Smile!  #DeepLearning #GeneralIntelligence #AI
+
+n_iter: 587
+ct: 255
+hue_offset: 15
+saturation: 0.8
+
+num_attempts: 434
+dur: 607
+std: 84.62
+size: 1144249 (1.09 MiB)
+
+xmin: -0.17471639889266366
+xmax: -0.16712626606533917
+ymin: 0.7536943211098377
+ymax: 0.7579637708252077
+
+contrast: 1.8
+brightness: 0.22
+saturation: 0.66
+gamma: 1.06
+gamma_r: 0.99
+gamma_g: 0.94
+gamma_b: 1.04
+vignette: -20
+temp: 6016
