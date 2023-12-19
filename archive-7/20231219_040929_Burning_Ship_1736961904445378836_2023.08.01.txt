@@ -1,0 +1,28 @@
+tweet_id: 1736961904445378836
+masto_id: 111605118988043206
+subre_id: Not uploaded, but here's the text: Enjoying the Tuesday with this Burning Ship.  #GeneralIntelligence #MachineLearning #Nature
+
+n_iter: 246
+ct: 56
+hue_offset: 47
+saturation: 0.07
+
+num_attempts: 65
+dur: 18
+std: 20.88
+size: 1506758 (1.44 MiB)
+
+xmin: -1.0180024842406348
+xmax: -0.9280024842406348
+ymin: -0.7687694317625302
+ymax: -0.7181444317625302
+
+contrast: 1.71
+brightness: 0.05
+saturation: 0.35
+gamma: 0.94
+gamma_r: 0.9
+gamma_g: 1.03
+gamma_b: 1.01
+vignette: -35
+temp: 2524
