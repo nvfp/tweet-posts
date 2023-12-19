@@ -1,0 +1,28 @@
+tweet_id: 1736907704356979188
+masto_id: 111604271973261219
+subre_id: Not uploaded, but here's the text: Enjoy your Tuesday!  #MultiModal #AGI #DigitalArt
+
+n_iter: 191
+ct: 167
+hue_offset: 174
+saturation: -0.45
+
+num_attempts: 3
+dur: 1
+std: 33.97
+size: 1666626 (1.59 MiB)
+
+xmin: -1.0999817949840338
+xmax: -0.9999817949840338
+ymin: -0.5198323359341255
+ymax: -0.46358233593412546
+
+contrast: 1.63
+brightness: -0.09
+saturation: 1.37
+gamma: 1.01
+gamma_r: 0.98
+gamma_g: 0.92
+gamma_b: 0.91
+vignette: -14
+temp: 3574
