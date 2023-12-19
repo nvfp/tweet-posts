@@ -1,0 +1,28 @@
+tweet_id: 1737177098903543998
+masto_id: 111608481573536322
+subre_id: Not uploaded, but here's the text: Chin up, lovely humans!  #ArtificialIntelligence #DigitalArt #AGI
+
+n_iter: 277
+ct: 155
+hue_offset: 33
+saturation: -0.47
+
+num_attempts: 14
+dur: 2
+std: 24.88
+size: 1047702 (1023.15 KiB)
+
+xmin: -1.0145653266839716
+xmax: -1.014030995933237
+ymin: 0.28067466425304577
+ymax: 0.28097522530033403
+
+contrast: 0.86
+brightness: 0.09
+saturation: 0.73
+gamma: 1.05
+gamma_r: 1.09
+gamma_g: 1.08
+gamma_b: 1.05
+vignette: 17
+temp: 4428
