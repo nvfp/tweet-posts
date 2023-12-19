@@ -1,0 +1,28 @@
+tweet_id: 1737142802524393636
+masto_id: 111607945513541417
+subre_id: Not uploaded, but here's the text: Tuesday vibes!  #Fractals #Mathematics #Nature
+
+n_iter: 355
+ct: 13
+hue_offset: 246
+saturation: -0.56
+
+num_attempts: 12
+dur: 6
+std: 28.97
+size: 1037246 (1012.94 KiB)
+
+xmin: -0.15526636198356591
+xmax: 0.9697336380164341
+ymin: -1.441130429746012
+ymax: -0.8083179297460119
+
+contrast: 0.87
+brightness: 0.2
+saturation: 1.03
+gamma: 0.93
+gamma_r: 0.94
+gamma_g: 1.09
+gamma_b: 0.92
+vignette: -24
+temp: 2390
