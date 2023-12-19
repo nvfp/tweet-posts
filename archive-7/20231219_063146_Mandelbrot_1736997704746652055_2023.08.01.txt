@@ -1,0 +1,28 @@
+tweet_id: 1736997704746652055
+masto_id: 111605678492276672
+subre_id: Not uploaded, but here's the text: Warm wishes for your Tuesday, and let's have a look at this Mandelbrot Set.  #MachineLearning #Fractals #VisualArt
+
+n_iter: 700
+ct: 127
+hue_offset: 165
+saturation: -0.93
+
+num_attempts: 188
+dur: 82
+std: 65.2
+size: 1568099 (1.5 MiB)
+
+xmin: -0.6836098990218278
+xmax: -0.6829681534739375
+ymin: 0.32252390747666326
+ymax: 0.32288488934735154
+
+contrast: 1.73
+brightness: -0.02
+saturation: 0.49
+gamma: 1.09
+gamma_r: 1.09
+gamma_g: 0.95
+gamma_b: 1.08
+vignette: -36
+temp: 4862
