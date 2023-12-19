@@ -1,0 +1,31 @@
+tweet_id: 1736944487975284976
+masto_id: 111604846871694982
+subre_id: Not uploaded, but here's the text: Let's make it a memorable Tuesday!  #ArtificialIntelligence #DigitalArt #GenerativeArt
+
+newton_power: 6
+newton_const: -6
+
+n_iter: 111
+ct: 45
+hue_offset: 172
+saturation: 0.77
+
+num_attempts: 161
+dur: 601
+std: 19.4
+size: 1365590 (1.3 MiB)
+
+xmin: -0.045619566945523715
+xmax: 0.5543804330544763
+ymin: -0.16628843601012577
+ymax: 0.1712115639898742
+
+contrast: 1.31
+brightness: 0.11
+saturation: 0.42
+gamma: 0.9
+gamma_r: 0.98
+gamma_g: 0.97
+gamma_b: 1.05
+vignette: -37
+temp: 6478
