@@ -1,0 +1,28 @@
+tweet_id: 1736970413563855358
+masto_id: 111605251855011156
+subre_id: Not uploaded, but here's the text: Surprise! It's a Multibrot!  #Fractals #Art #VisualArt
+
+n_iter: 575
+ct: 1
+hue_offset: 282
+saturation: 0.97
+
+num_attempts: 437
+dur: 600
+std: 80.24
+size: 1045330 (1020.83 KiB)
+
+xmin: 0.12184065479838813
+xmax: 0.13157301489571172
+ymin: 0.8068766034425563
+ymax: 0.8123510559973008
+
+contrast: 1.07
+brightness: 0.03
+saturation: 0.93
+gamma: 0.91
+gamma_r: 1.04
+gamma_g: 1.01
+gamma_b: 1.1
+vignette: 10
+temp: 7897
