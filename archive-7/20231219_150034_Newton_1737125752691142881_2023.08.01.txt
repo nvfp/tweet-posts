@@ -1,0 +1,31 @@
+tweet_id: 1737125752691142881
+masto_id: 111607679182170955
+subre_id: Not uploaded, but here's the text: Happy Tuesday!  #Nature #MachineLearning #DigitalArt
+
+newton_power: 7
+newton_const: -10
+
+n_iter: 164
+ct: 117
+hue_offset: 219
+saturation: 0.5
+
+num_attempts: 150
+dur: 610
+std: 24.48
+size: 1352812 (1.29 MiB)
+
+xmin: 0.9498611780596078
+xmax: 0.974965780570068
+ymin: -0.12206986869337766
+ymax: -0.10794852978124377
+
+contrast: 1.42
+brightness: -0.02
+saturation: 0.44
+gamma: 1.1
+gamma_r: 1.08
+gamma_g: 1.07
+gamma_b: 0.93
+vignette: 27
+temp: 3597
