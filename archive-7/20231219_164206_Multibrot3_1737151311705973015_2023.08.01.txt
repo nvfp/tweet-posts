@@ -1,0 +1,28 @@
+tweet_id: 1737151311705973015
+masto_id: 111608078435200934
+subre_id: Not uploaded, but here's the text: Wow, take a look! There's Multibrot!  #Fractals #ArtificialIntelligence #DeepLearning
+
+n_iter: 291
+ct: 1
+hue_offset: 175
+saturation: 0.66
+
+num_attempts: 685
+dur: 603
+std: 49.36
+size: 788313 (769.84 KiB)
+
+xmin: -0.086430282056843
+xmax: -0.07828364254564137
+ymin: -0.7708306231855989
+ymax: -0.766248138460548
+
+contrast: 0.79
+brightness: 0.19
+saturation: 1.17
+gamma: 1.03
+gamma_r: 0.99
+gamma_g: 0.96
+gamma_b: 0.94
+vignette: 3
+temp: 3282
