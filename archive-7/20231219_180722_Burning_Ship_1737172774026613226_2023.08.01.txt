@@ -1,0 +1,28 @@
+tweet_id: 1737172774026613226
+masto_id: 111608413735916913
+subre_id: Not uploaded, but here's the text: Beautiful Tuesday with this Burning Ship!  #Mathematics #AI #GeneralIntelligence
+
+n_iter: 476
+ct: 113
+hue_offset: 139
+saturation: -0.15
+
+num_attempts: 17
+dur: 5
+std: 26.98
+size: 1624774 (1.55 MiB)
+
+xmin: -1.0571787079654955
+xmax: -0.9937984262753546
+ymin: -0.6648752247817984
+ymax: -0.6292238163310941
+
+contrast: 1.62
+brightness: 0.15
+saturation: 0.79
+gamma: 0.98
+gamma_r: 1.03
+gamma_g: 0.91
+gamma_b: 0.95
+vignette: -13
+temp: 2310
