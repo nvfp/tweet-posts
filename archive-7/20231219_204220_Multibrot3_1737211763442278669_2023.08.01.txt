@@ -1,0 +1,28 @@
+tweet_id: 1737211763442278669
+masto_id: 111609023024386713
+subre_id: Not uploaded, but here's the text: Let this Multibrot inspire your Tuesday.  #MachineLearning #DeepLearning #ArtificialIntelligence
+
+n_iter: 608
+ct: 1
+hue_offset: 340
+saturation: 0.67
+
+num_attempts: 438
+dur: 604
+std: 85.79
+size: 1448698 (1.38 MiB)
+
+xmin: 0.19972328366317882
+xmax: 0.20676553718430557
+ymin: 1.0064788432773444
+ymax: 1.0104401108829781
+
+contrast: 1.59
+brightness: 0.03
+saturation: 0.57
+gamma: 0.95
+gamma_r: 0.93
+gamma_g: 0.96
+gamma_b: 0.95
+vignette: -37
+temp: 7573
