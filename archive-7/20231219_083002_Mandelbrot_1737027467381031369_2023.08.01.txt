@@ -1,0 +1,28 @@
+tweet_id: 1737027467381031369
+masto_id: 111606143545079589
+subre_id: Not uploaded, but here's the text: Let's rock this Tuesday!  #AI #DigitalArt #Art
+
+n_iter: 628
+ct: 138
+hue_offset: 321
+saturation: 0.75
+
+num_attempts: 68
+dur: 23
+std: 17.42
+size: 1012408 (988.68 KiB)
+
+xmin: -0.8781778330855219
+xmax: -0.8751657848927508
+ymin: -0.2637788102488082
+ymax: -0.2620845331403745
+
+contrast: 1.62
+brightness: 0.17
+saturation: 1.39
+gamma: 1.09
+gamma_r: 1.07
+gamma_g: 0.9
+gamma_b: 1.02
+vignette: -15
+temp: 5839
