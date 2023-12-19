@@ -1,0 +1,28 @@
+tweet_id: 1737058010114261374
+masto_id: 111606620621874440
+subre_id: Not uploaded, but here's the text: How's your day?  #Mathematics #GenerativeArt #DeepLearning
+
+n_iter: 1015
+ct: 39
+hue_offset: 290
+saturation: 0.61
+
+num_attempts: 24
+dur: 25
+std: 46.1
+size: 1225999 (1.17 MiB)
+
+xmin: -0.7449089712698176
+xmax: -0.7442508600490213
+ymin: 0.15211278984708376
+ymax: 0.1524829774087817
+
+contrast: 0.93
+brightness: -0.07
+saturation: 0.99
+gamma: 1.1
+gamma_r: 1.02
+gamma_g: 1.0
+gamma_b: 1.0
+vignette: -30
+temp: 3928
