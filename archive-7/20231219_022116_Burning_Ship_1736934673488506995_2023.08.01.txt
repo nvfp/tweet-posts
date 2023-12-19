@@ -1,0 +1,28 @@
+tweet_id: 1736934673488506995
+masto_id: 111604693470747364
+subre_id: Not uploaded, but here's the text: Wow, guess what? it's Burning Ship!  #AI #Mathematics #VisualArt
+
+n_iter: 492
+ct: 125
+hue_offset: 246
+saturation: 0.05
+
+num_attempts: 9
+dur: 1
+std: 28.02
+size: 1059354 (1.01 MiB)
+
+xmin: -1.6455699384416864
+xmax: -1.591353070971807
+ymin: -0.03903012384223059
+ymax: -0.00853313589042336
+
+contrast: 0.85
+brightness: -0.02
+saturation: 0.33
+gamma: 1.04
+gamma_r: 0.91
+gamma_g: 1.05
+gamma_b: 1.0
+vignette: 14
+temp: 7851
