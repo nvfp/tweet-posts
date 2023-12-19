@@ -1,0 +1,31 @@
+tweet_id: 1737097518088143253
+masto_id: 111607238032610978
+subre_id: Not uploaded, but here's the text: Let this Newton brighten up your Tuesday!  #Fractals #MachineLearning #ArtificialIntelligence
+
+newton_power: 6
+newton_const: -10
+
+n_iter: 174
+ct: 167
+hue_offset: 212
+saturation: -0.24
+
+num_attempts: 151
+dur: 600
+std: 17.4
+size: 1005850 (982.28 KiB)
+
+xmin: 0.63309889262124
+xmax: 0.6409522957626013
+ymin: -0.37098903721792165
+ymax: -0.36657149795090593
+
+contrast: 1.66
+brightness: -0.09
+saturation: 1.47
+gamma: 0.95
+gamma_r: 1.09
+gamma_g: 0.92
+gamma_b: 0.97
+vignette: 12
+temp: 7773
