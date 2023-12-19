@@ -1,0 +1,31 @@
+tweet_id: 1737155808327086530
+masto_id: 111608148922939191
+subre_id: Not uploaded, but here's the text: Smile on this lovely day!  #AGI #DeepLearning #Nature
+
+newton_power: 3
+newton_const: 5
+
+n_iter: 198
+ct: 107
+hue_offset: 255
+saturation: 0.21
+
+num_attempts: 549
+dur: 601
+std: 4.4
+size: 650263 (635.02 KiB)
+
+xmin: 1.5644893448138282
+xmax: 1.572586510805731
+ymin: 0.1362199409411886
+ymax: 0.14077459681163396
+
+contrast: 1.02
+brightness: -0.02
+saturation: 1.41
+gamma: 0.94
+gamma_r: 0.95
+gamma_g: 1.08
+gamma_b: 1.06
+vignette: -7
+temp: 7690
