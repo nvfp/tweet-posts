@@ -1,0 +1,28 @@
+tweet_id: 1736922652369985723
+masto_id: 111604505601026742
+subre_id: Not uploaded, but here's the text: Enjoy your Tuesday!  #DeepLearning #ArtificialIntelligence #VisualArt
+
+n_iter: 241
+ct: 152
+hue_offset: 204
+saturation: -0.43
+
+num_attempts: 14
+dur: 3
+std: 31.23
+size: 920585 (899.01 KiB)
+
+xmin: 0.3347958522829475
+xmax: 0.3367643562199554
+ymin: -0.426783753471212
+ymax: -0.42567647000664505
+
+contrast: 1.12
+brightness: -0.07
+saturation: 1.69
+gamma: 1.06
+gamma_r: 0.96
+gamma_g: 1.03
+gamma_b: 0.97
+vignette: -10
+temp: 5666
