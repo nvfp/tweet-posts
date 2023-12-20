@@ -1,0 +1,31 @@
+tweet_id: 1737337018005221800
+masto_id: 111610980086502734
+subre_id: Not uploaded, but here's the text: Let this Newton inspire your Wednesday.  #DigitalArt #GeneralIntelligence #AGI
+
+newton_power: 6
+newton_const: -8
+
+n_iter: 220
+ct: 15
+hue_offset: 328
+saturation: 0.94
+
+num_attempts: 179
+dur: 602
+std: 16.09
+size: 1036702 (1012.4 KiB)
+
+xmin: -1.457221951889581
+xmax: -1.358861296151876
+ymin: 0.5709272562497283
+ymax: 0.6262551251021873
+
+contrast: 0.75
+brightness: -0.03
+saturation: 0.7
+gamma: 0.91
+gamma_r: 1.02
+gamma_g: 0.99
+gamma_b: 1.05
+vignette: 6
+temp: 4939
