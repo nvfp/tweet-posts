@@ -1,0 +1,28 @@
+tweet_id: 1737483423269151125
+masto_id: 111613267657538144
+subre_id: Not uploaded, but here's the text: Happy Wednesday!  #GeneralIntelligence #Art #Mathematics
+
+n_iter: 451
+ct: 255
+hue_offset: 54
+saturation: 0.28
+
+num_attempts: 590
+dur: 600
+std: 70.09
+size: 1319828 (1.26 MiB)
+
+xmin: -0.5131916498725733
+xmax: -0.5068725345487186
+ymin: 0.44767382535125444
+ymax: 0.4512283277209227
+
+contrast: 1.04
+brightness: 0.09
+saturation: 1.23
+gamma: 0.91
+gamma_r: 1.07
+gamma_g: 0.93
+gamma_b: 1.0
+vignette: 28
+temp: 3439
