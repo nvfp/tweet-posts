@@ -1,0 +1,28 @@
+tweet_id: 1737600992370118906
+masto_id: 111615104630495695
+subre_id: Not uploaded, but here's the text: Hey wait, look! it's Mandelbrot Set!  #GeneralIntelligence #DigitalArt #Mathematics
+
+n_iter: 508
+ct: 20
+hue_offset: 109
+saturation: 0.01
+
+num_attempts: 128
+dur: 39
+std: 134.34
+size: 567143 (553.85 KiB)
+
+xmin: -0.4687998199825194
+xmax: -0.4683649428353135
+ymin: 0.5465437555948007
+ymax: 0.546788373990104
+
+contrast: 1.34
+brightness: 0.19
+saturation: 0.72
+gamma: 0.94
+gamma_r: 1.07
+gamma_g: 1.07
+gamma_b: 0.93
+vignette: 0
+temp: 6753
