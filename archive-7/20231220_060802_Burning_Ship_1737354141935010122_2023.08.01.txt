@@ -1,0 +1,28 @@
+tweet_id: 1737354141935010122
+masto_id: 111611247481909645
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Wednesday!  #MultiModal #Nature #Fractals
+
+n_iter: 400
+ct: 254
+hue_offset: 353
+saturation: 0.21
+
+num_attempts: 22
+dur: 7
+std: 28.43
+size: 280318 (273.75 KiB)
+
+xmin: -1.5954995909006913
+xmax: 0.6545004090993087
+ymin: -1.0115121203126163
+ymax: 0.2541128796873837
+
+contrast: 1.46
+brightness: -0.09
+saturation: 0.98
+gamma: 0.97
+gamma_r: 1.02
+gamma_g: 0.96
+gamma_b: 0.98
+vignette: -19
+temp: 4502
