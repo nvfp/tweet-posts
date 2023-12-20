@@ -1,0 +1,28 @@
+tweet_id: 1737479156621779357
+masto_id: 111613201059450832
+subre_id: Not uploaded, but here's the text: Happy Wednesday! Enjoy the beauty of Mandelbrot Set.  #DigitalArt #DeepLearning #Art
+
+n_iter: 454
+ct: 228
+hue_offset: 246
+saturation: -0.88
+
+num_attempts: 171
+dur: 61
+std: 77.8
+size: 1016280 (992.46 KiB)
+
+xmin: -1.06532565563396
+xmax: -1.0587031390776687
+ymin: 0.2403275245463814
+ymax: 0.2440526901092953
+
+contrast: 1.17
+brightness: 0.16
+saturation: 1.6
+gamma: 1.04
+gamma_r: 1.05
+gamma_g: 0.97
+gamma_b: 0.93
+vignette: -27
+temp: 4055
