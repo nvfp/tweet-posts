@@ -1,0 +1,28 @@
+tweet_id: 1737358431453884913
+masto_id: 111611314759941388
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Wednesday!  #Nature #AGI #GeneralIntelligence
+
+n_iter: 564
+ct: 134
+hue_offset: 124
+saturation: -0.59
+
+num_attempts: 16
+dur: 7
+std: 46.36
+size: 1493953 (1.42 MiB)
+
+xmin: 0.3811508414350513
+xmax: 0.38274510209666945
+ymin: -0.17209927395479174
+ymax: -0.1712025023326315
+
+contrast: 1.33
+brightness: 0.15
+saturation: 0.25
+gamma: 0.94
+gamma_r: 0.94
+gamma_g: 1.09
+gamma_b: 1.03
+vignette: -38
+temp: 7694
