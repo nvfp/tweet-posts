@@ -1,0 +1,28 @@
+tweet_id: 1737474070499696646
+masto_id: 111613121609077592
+subre_id: Not uploaded, but here's the text: Beautiful Wednesday with this Burning Ship!  #Fractals #Nature #DeepLearning
+
+n_iter: 356
+ct: 20
+hue_offset: 7
+saturation: -0.58
+
+num_attempts: 7
+dur: 2
+std: 25.96
+size: 826674 (807.3 KiB)
+
+xmin: -2.4050141194127184
+xmax: -0.15501411941271837
+ymin: -1.3617858077220997
+ymax: -0.09616080772209967
+
+contrast: 1.33
+brightness: -0.0
+saturation: 0.93
+gamma: 1.01
+gamma_r: 1.08
+gamma_g: 1.06
+gamma_b: 1.07
+vignette: -23
+temp: 4706
