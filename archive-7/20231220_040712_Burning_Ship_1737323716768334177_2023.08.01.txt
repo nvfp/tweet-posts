@@ -1,0 +1,28 @@
+tweet_id: 1737323716768334177
+masto_id: 111610772348122423
+subre_id: Not uploaded, but here's the text: Smile on this lovely day!  #AGI #AI #Nature
+
+n_iter: 285
+ct: 204
+hue_offset: 276
+saturation: -0.82
+
+num_attempts: 2
+dur: 1
+std: 23.21
+size: 695269 (678.97 KiB)
+
+xmin: -1.5221807690259035
+xmax: -1.4199080417531762
+ymin: -0.058710896412838665
+ymax: -0.0011824873219295692
+
+contrast: 0.87
+brightness: 0.03
+saturation: 1.02
+gamma: 1.08
+gamma_r: 1.07
+gamma_g: 1.05
+gamma_b: 0.98
+vignette: 13
+temp: 5628
