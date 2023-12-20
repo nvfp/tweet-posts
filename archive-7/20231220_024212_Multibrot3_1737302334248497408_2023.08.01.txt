@@ -1,0 +1,28 @@
+tweet_id: 1737302334248497408
+masto_id: 111610438097222788
+subre_id: Not uploaded, but here's the text: Let this Multibrot brighten up your Wednesday!  #Art #Nature #GeneralIntelligence
+
+n_iter: 343
+ct: 1
+hue_offset: 355
+saturation: 0.67
+
+num_attempts: 675
+dur: 600
+std: 62.6
+size: 1176619 (1.12 MiB)
+
+xmin: -0.10576274600696323
+xmax: -0.1009434688985295
+ymin: -0.7688750084552628
+ymax: -0.7661641650817688
+
+contrast: 1.76
+brightness: 0.04
+saturation: 1.35
+gamma: 0.91
+gamma_r: 1.01
+gamma_g: 1.08
+gamma_b: 1.07
+vignette: -2
+temp: 4657
