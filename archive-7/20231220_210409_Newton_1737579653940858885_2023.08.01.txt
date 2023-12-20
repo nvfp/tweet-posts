@@ -1,0 +1,31 @@
+tweet_id: 1737579653940858885
+masto_id: 111614771183295028
+subre_id: Not uploaded, but here's the text: Look what we have here! it's Newton!  #DigitalArt #Mathematics #AI
+
+newton_power: 4
+newton_const: 0
+
+n_iter: 179
+ct: 137
+hue_offset: 250
+saturation: 0.25
+
+num_attempts: 238
+dur: 851
+std: 0.92
+size: 258632 (252.57 KiB)
+
+xmin: -0.8932613128325047
+xmax: 1.1067386871674953
+ymin: 0.6441760710836686
+ymax: 1.7691760710836686
+
+contrast: 0.83
+brightness: 0.14
+saturation: 1.47
+gamma: 1.04
+gamma_r: 0.93
+gamma_g: 1.02
+gamma_b: 1.01
+vignette: 4
+temp: 3319
