@@ -1,0 +1,28 @@
+tweet_id: 1737544213376405854
+masto_id: 111614217437340008
+subre_id: Not uploaded, but here's the text: Hope your Wednesday is awesome!  #Fractals #ArtificialIntelligence #Mathematics
+
+n_iter: 531
+ct: 1
+hue_offset: 130
+saturation: -0.0
+
+num_attempts: 563
+dur: 602
+std: 80.13
+size: 659235 (643.78 KiB)
+
+xmin: 0.14617984261018213
+xmax: 0.15169708398949247
+ymin: 1.0953520560984638
+ymax: 1.0984555043743258
+
+contrast: 1.55
+brightness: 0.17
+saturation: 1.08
+gamma: 0.95
+gamma_r: 0.95
+gamma_g: 1.0
+gamma_b: 1.09
+vignette: -28
+temp: 7460
