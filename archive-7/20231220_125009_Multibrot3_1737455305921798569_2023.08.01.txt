@@ -1,0 +1,28 @@
+tweet_id: 1737455305921798569
+masto_id: 111612828381023573
+subre_id: Not uploaded, but here's the text: Happy Wednesday! Enjoy the beauty of Multibrot.  #AGI #MultiModal #Nature
+
+n_iter: 360
+ct: 255
+hue_offset: 238
+saturation: 0.08
+
+num_attempts: 630
+dur: 600
+std: 47.26
+size: 734896 (717.67 KiB)
+
+xmin: 0.5401900289455148
+xmax: 0.5485060372615231
+ymin: 0.45382251690239306
+ymax: 0.4585002715801477
+
+contrast: 0.86
+brightness: -0.02
+saturation: 1.62
+gamma: 0.94
+gamma_r: 0.91
+gamma_g: 1.06
+gamma_b: 1.06
+vignette: -7
+temp: 7290
