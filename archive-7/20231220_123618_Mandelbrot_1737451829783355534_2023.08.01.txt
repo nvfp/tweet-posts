@@ -1,0 +1,28 @@
+tweet_id: 1737451829783355534
+masto_id: 111612773940832085
+subre_id: Not uploaded, but here's the text: Warm wishes for your Wednesday, and let's have a look at this Mandelbrot Set.  #MultiModal #GenerativeArt #Mathematics
+
+n_iter: 479
+ct: 93
+hue_offset: 155
+saturation: 0.85
+
+num_attempts: 125
+dur: 42
+std: 57.87
+size: 545872 (533.08 KiB)
+
+xmin: -0.2722745509144975
+xmax: -0.2627958779287155
+ymin: -0.6490874638783102
+ymax: -0.6437557103238079
+
+contrast: 1.47
+brightness: 0.12
+saturation: 1.41
+gamma: 0.98
+gamma_r: 1.03
+gamma_g: 0.94
+gamma_b: 1.1
+vignette: 0
+temp: 2806
