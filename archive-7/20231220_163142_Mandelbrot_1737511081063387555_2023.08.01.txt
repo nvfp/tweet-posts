@@ -1,0 +1,28 @@
+tweet_id: 1737511081063387555
+masto_id: 111613699824616644
+subre_id: Not uploaded, but here's the text: Hope you're having a great Wednesday!  #AI #MachineLearning #MultiModal
+
+n_iter: 333
+ct: 158
+hue_offset: 124
+saturation: -0.2
+
+num_attempts: 142
+dur: 40
+std: 30.35
+size: 1021045 (997.11 KiB)
+
+xmin: 0.32096547765498773
+xmax: 0.3216223999739235
+ymin: -0.4452595114724047
+ymax: -0.44488999266800333
+
+contrast: 0.88
+brightness: -0.07
+saturation: 0.27
+gamma: 0.92
+gamma_r: 0.98
+gamma_g: 1.06
+gamma_b: 0.99
+vignette: -44
+temp: 4552
