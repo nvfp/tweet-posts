@@ -1,0 +1,31 @@
+tweet_id: 1737427705728025041
+masto_id: 111612397221529697
+subre_id: Not uploaded, but here's the text: Wishing you a joyful day!  #ArtificialIntelligence #AGI #MultiModal
+
+newton_power: 5
+newton_const: -9
+
+n_iter: 85
+ct: 94
+hue_offset: 302
+saturation: 0.06
+
+num_attempts: 202
+dur: 603
+std: 12.95
+size: 1049265 (1.0 MiB)
+
+xmin: 0.8322321549305358
+xmax: 0.8404626076054329
+ymin: -0.9925951576801779
+ymax: -0.9879655280505483
+
+contrast: 1.06
+brightness: 0.0
+saturation: 1.38
+gamma: 0.94
+gamma_r: 0.9
+gamma_g: 0.91
+gamma_b: 0.95
+vignette: -42
+temp: 4389
