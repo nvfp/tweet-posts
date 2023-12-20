@@ -1,0 +1,31 @@
+tweet_id: 1737518255563055475
+masto_id: 111613811940322263
+subre_id: Not uploaded, but here's the text: you are fantastic!  #Art #AI #AGI
+
+newton_power: 7
+newton_const: -6
+
+n_iter: 169
+ct: 98
+hue_offset: 226
+saturation: -0.33
+
+num_attempts: 146
+dur: 601
+std: 24.19
+size: 1244254 (1.19 MiB)
+
+xmin: 2.730096182467247
+xmax: 2.860530965075943
+ymin: -1.3779500639900788
+ymax: -1.3045804987726874
+
+contrast: 1.77
+brightness: 0.09
+saturation: 1.13
+gamma: 1.08
+gamma_r: 0.92
+gamma_g: 1.06
+gamma_b: 0.95
+vignette: 27
+temp: 5064
