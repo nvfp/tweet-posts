@@ -1,0 +1,31 @@
+tweet_id: 1737488062890868982
+masto_id: 111613340197863687
+subre_id: Not uploaded, but here's the text: Smile on this lovely day!  #GeneralIntelligence #AI #VisualArt
+
+newton_power: 3
+newton_const: -6
+
+n_iter: 100
+ct: 221
+hue_offset: 170
+saturation: -0.08
+
+num_attempts: 525
+dur: 600
+std: 4.1
+size: 766937 (748.96 KiB)
+
+xmin: -2.444017696285239
+xmax: -2.4323672108483456
+ymin: 0.08080758982040326
+ymax: 0.08736098787865569
+
+contrast: 1.37
+brightness: 0.16
+saturation: 0.55
+gamma: 0.98
+gamma_r: 1.09
+gamma_g: 1.09
+gamma_b: 0.97
+vignette: -34
+temp: 5427
