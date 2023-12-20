@@ -1,0 +1,28 @@
+tweet_id: 1737595393066578280
+masto_id: 111615017178636959
+subre_id: Not uploaded, but here's the text: you are cool  #Mathematics #AGI #AI
+
+n_iter: 461
+ct: 40
+hue_offset: 200
+saturation: -0.2
+
+num_attempts: 26
+dur: 7
+std: 30.92
+size: 1441119 (1.37 MiB)
+
+xmin: -0.09448761529832828
+xmax: -0.045574571820067404
+ymin: -1.0944120302319773
+ymax: -1.0668984432754556
+
+contrast: 1.28
+brightness: -0.06
+saturation: 1.12
+gamma: 1.09
+gamma_r: 1.0
+gamma_g: 1.05
+gamma_b: 1.06
+vignette: -39
+temp: 3236
