@@ -1,0 +1,28 @@
+tweet_id: 1737604311029309727
+masto_id: 111615156396621674
+subre_id: Not uploaded, but here's the text: You rock, and so does this Wednesday!  #MachineLearning #Mathematics #GeneralIntelligence
+
+n_iter: 474
+ct: 1
+hue_offset: 286
+saturation: 0.34
+
+num_attempts: 533
+dur: 604
+std: 63.64
+size: 441769 (431.42 KiB)
+
+xmin: 0.5955967564707598
+xmax: 0.601575829714407
+ymin: 0.48295118340102494
+ymax: 0.4863144121005765
+
+contrast: 1.21
+brightness: 0.01
+saturation: 1.37
+gamma: 0.96
+gamma_r: 1.02
+gamma_g: 0.96
+gamma_b: 0.99
+vignette: -27
+temp: 2582
