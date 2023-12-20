@@ -1,0 +1,28 @@
+tweet_id: 1737423108838203489
+masto_id: 111612325288468263
+subre_id: Not uploaded, but here's the text: Have a great day!  #AGI #VisualArt #DeepLearning
+
+n_iter: 418
+ct: 255
+hue_offset: 268
+saturation: -0.1
+
+num_attempts: 649
+dur: 601
+std: 69.77
+size: 944540 (922.4 KiB)
+
+xmin: -0.5003346257756054
+xmax: -0.49624882393699454
+ymin: -0.4720481811372159
+ymax: -0.46974991760299734
+
+contrast: 1.75
+brightness: 0.16
+saturation: 0.89
+gamma: 1.03
+gamma_r: 0.99
+gamma_g: 0.98
+gamma_b: 1.09
+vignette: -40
+temp: 5228
