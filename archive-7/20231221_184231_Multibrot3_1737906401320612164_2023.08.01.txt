@@ -1,0 +1,28 @@
+tweet_id: 1737906401320612164
+masto_id: 111619876553681436
+subre_id: Not uploaded, but here's the text: Cheers to a fantastic Thursday!  #GeneralIntelligence #MachineLearning #Nature
+
+n_iter: 482
+ct: 1
+hue_offset: 234
+saturation: 0.95
+
+num_attempts: 463
+dur: 606
+std: 84.54
+size: 913643 (892.23 KiB)
+
+xmin: -0.5089676755960644
+xmax: -0.5033575774193463
+ymin: 0.4525359827214057
+ymax: 0.45569166294580965
+
+contrast: 1.63
+brightness: 0.11
+saturation: 0.59
+gamma: 0.97
+gamma_r: 1.02
+gamma_g: 0.94
+gamma_b: 0.91
+vignette: -33
+temp: 2573
