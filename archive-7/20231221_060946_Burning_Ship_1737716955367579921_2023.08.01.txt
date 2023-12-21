@@ -1,0 +1,28 @@
+tweet_id: 1737716955367579921
+masto_id: 111616916577932688
+subre_id: Not uploaded, but here's the text: Keep smiling!  #Mathematics #DigitalArt #GeneralIntelligence
+
+n_iter: 223
+ct: 113
+hue_offset: 357
+saturation: -0.71
+
+num_attempts: 25
+dur: 5
+std: 28.81
+size: 1092862 (1.04 MiB)
+
+xmin: -0.20777235025930407
+xmax: 0.04222764974069593
+ymin: -1.1786733509950365
+ymax: -1.0380483509950365
+
+contrast: 1.42
+brightness: 0.09
+saturation: 1.54
+gamma: 0.9
+gamma_r: 1.0
+gamma_g: 0.9
+gamma_b: 1.02
+vignette: 24
+temp: 4858
