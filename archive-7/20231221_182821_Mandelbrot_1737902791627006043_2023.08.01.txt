@@ -1,0 +1,28 @@
+tweet_id: 1737902791627006043
+masto_id: 111619820517483165
+subre_id: Not uploaded, but here's the text: Let the magic of Thursday fill your heart!  #AGI #GenerativeArt #GeneralIntelligence
+
+n_iter: 175
+ct: 88
+hue_offset: 297
+saturation: 0.83
+
+num_attempts: 33
+dur: 7
+std: 15.39
+size: 1215534 (1.16 MiB)
+
+xmin: -0.24686000377822115
+xmax: -0.24612049555119211
+ymin: 0.726355575683856
+ymax: 0.7267715490615598
+
+contrast: 1.23
+brightness: 0.04
+saturation: 1.11
+gamma: 0.92
+gamma_r: 1.04
+gamma_g: 1.0
+gamma_b: 1.02
+vignette: -42
+temp: 7933
