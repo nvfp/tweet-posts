@@ -1,0 +1,31 @@
+tweet_id: 1737822170120597829
+masto_id: 111618560539008787
+subre_id: Not uploaded, but here's the text: Beautiful Thursday with this Newton!  #DigitalArt #GeneralIntelligence #MachineLearning
+
+newton_power: 7
+newton_const: -6
+
+n_iter: 73
+ct: 24
+hue_offset: 241
+saturation: -0.97
+
+num_attempts: 162
+dur: 608
+std: 24.49
+size: 504999 (493.16 KiB)
+
+xmin: 0.18175358062022173
+xmax: 0.19399847857940541
+ymin: 0.9827656717383952
+ymax: 0.989653426840436
+
+contrast: 1.64
+brightness: -0.08
+saturation: 0.32
+gamma: 0.97
+gamma_r: 1.01
+gamma_g: 0.94
+gamma_b: 0.96
+vignette: 24
+temp: 2905
