@@ -1,0 +1,28 @@
+tweet_id: 1737650237789900834
+masto_id: 111615874092390394
+subre_id: Not uploaded, but here's the text: Have an extraordinary Thursday!  #Art #Nature #GeneralIntelligence
+
+n_iter: 571
+ct: 1
+hue_offset: 19
+saturation: 0.97
+
+num_attempts: 376
+dur: 604
+std: 51.81
+size: 500354 (488.63 KiB)
+
+xmin: -0.48131892576562274
+xmax: -0.4570765015231985
+ymin: -0.055155662854717624
+ymax: -0.04151929921835399
+
+contrast: 1.47
+brightness: 0.05
+saturation: 0.82
+gamma: 0.96
+gamma_r: 0.95
+gamma_g: 0.95
+gamma_b: 1.04
+vignette: -6
+temp: 6382
