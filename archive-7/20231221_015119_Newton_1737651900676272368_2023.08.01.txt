@@ -1,0 +1,31 @@
+tweet_id: 1737651900676272368
+masto_id: 111615900349290985
+subre_id: Not uploaded, but here's the text: Wow, guess what? it's Newton!  #MultiModal #Mathematics #AGI
+
+newton_power: 4
+newton_const: -3
+
+n_iter: 174
+ct: 190
+hue_offset: 232
+saturation: 0.76
+
+num_attempts: 267
+dur: 600
+std: 7.38
+size: 601937 (587.83 KiB)
+
+xmin: 0.8315881195891208
+xmax: 0.8387823641934373
+ymin: -1.2524386059125556
+ymax: -1.2483918433226275
+
+contrast: 0.86
+brightness: 0.03
+saturation: 0.39
+gamma: 1.1
+gamma_r: 1.06
+gamma_g: 0.92
+gamma_b: 0.97
+vignette: 7
+temp: 2519
