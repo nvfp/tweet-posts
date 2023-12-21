@@ -1,0 +1,28 @@
+tweet_id: 1737845923655655564
+masto_id: 111618931645215429
+subre_id: Not uploaded, but here's the text: Ever heard of this Multibrot?  #MachineLearning #ArtificialIntelligence #MultiModal
+
+n_iter: 298
+ct: 255
+hue_offset: 230
+saturation: 0.58
+
+num_attempts: 744
+dur: 601
+std: 52.52
+size: 607615 (593.37 KiB)
+
+xmin: -0.17043688246885091
+xmax: -0.1663882994728995
+ymin: 1.103534947274575
+ymax: 1.1058122752097976
+
+contrast: 1.6
+brightness: 0.04
+saturation: 1.71
+gamma: 1.03
+gamma_r: 0.91
+gamma_g: 0.93
+gamma_b: 0.96
+vignette: 31
+temp: 3173
