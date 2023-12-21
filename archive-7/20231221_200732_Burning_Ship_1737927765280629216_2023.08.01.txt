@@ -1,0 +1,28 @@
+tweet_id: 1737927765280629216
+masto_id: 111620210856290699
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Thursday! You got this!  #DeepLearning #Nature #VisualArt
+
+n_iter: 274
+ct: 56
+hue_offset: 338
+saturation: -0.87
+
+num_attempts: 7
+dur: 1
+std: 41.53
+size: 2138248 (2.04 MiB)
+
+xmin: -0.5395478881485805
+xmax: -0.4906348446703196
+ymin: -0.8197542320034061
+ymax: -0.7922406450468844
+
+contrast: 1.25
+brightness: -0.0
+saturation: 0.88
+gamma: 0.93
+gamma_r: 0.93
+gamma_g: 0.96
+gamma_b: 1.08
+vignette: 11
+temp: 5282
