@@ -1,0 +1,28 @@
+tweet_id: 1737776923495874969
+masto_id: 111617853572530893
+subre_id: Not uploaded, but here's the text: Surprise! Burning Ship!  #ArtificialIntelligence #Fractals #AI
+
+n_iter: 509
+ct: 145
+hue_offset: 267
+saturation: -0.96
+
+num_attempts: 61
+dur: 21
+std: 80.33
+size: 2287780 (2.18 MiB)
+
+xmin: -0.5974392972095872
+xmax: -0.5074392972095872
+ymin: -0.8389354785295409
+ymax: -0.7883104785295408
+
+contrast: 1.31
+brightness: -0.08
+saturation: 1.29
+gamma: 0.94
+gamma_r: 1.0
+gamma_g: 1.02
+gamma_b: 0.91
+vignette: 31
+temp: 6763
