@@ -1,0 +1,28 @@
+tweet_id: 1737695466559607074
+masto_id: 111616580780540164
+subre_id: Not uploaded, but here's the text: You rock, and so does this Thursday!  #ArtificialIntelligence #DigitalArt #VisualArt
+
+n_iter: 577
+ct: 255
+hue_offset: 138
+saturation: -0.4
+
+num_attempts: 393
+dur: 603
+std: 69.26
+size: 634786 (619.91 KiB)
+
+xmin: 0.541117599578512
+xmax: 0.5555580327915084
+ymin: 0.23017042531155196
+ymax: 0.23829316899386244
+
+contrast: 1.68
+brightness: 0.1
+saturation: 0.41
+gamma: 0.97
+gamma_r: 0.97
+gamma_g: 1.03
+gamma_b: 1.08
+vignette: 15
+temp: 2071
