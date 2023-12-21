@@ -1,0 +1,28 @@
+tweet_id: 1737842316306763926
+masto_id: 111618875318703503
+subre_id: Not uploaded, but here's the text: This Thursday is made even better by this Mandelbrot Set!  #MultiModal #Nature #DigitalArt
+
+n_iter: 1007
+ct: 135
+hue_offset: 182
+saturation: 0.76
+
+num_attempts: 6
+dur: 5
+std: 201.3
+size: 1648653 (1.57 MiB)
+
+xmin: -0.43212619935113805
+xmax: -0.4311407349510395
+ymin: 0.5745942321324125
+ymax: 0.5751485558574679
+
+contrast: 1.62
+brightness: -0.02
+saturation: 1.56
+gamma: 1.09
+gamma_r: 0.93
+gamma_g: 0.94
+gamma_b: 1.0
+vignette: 11
+temp: 3517
