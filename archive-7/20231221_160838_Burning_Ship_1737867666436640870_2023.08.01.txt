@@ -1,0 +1,28 @@
+tweet_id: 1737867666436640870
+masto_id: 111619271420183619
+subre_id: Not uploaded, but here's the text: Let's rock this Thursday!  #Nature #DigitalArt #Art
+
+n_iter: 285
+ct: 83
+hue_offset: 331
+saturation: 0.19
+
+num_attempts: 25
+dur: 6
+std: 35.84
+size: 1816639 (1.73 MiB)
+
+xmin: -0.7919994821207461
+xmax: -0.5107494821207461
+ymin: -1.0130658025965205
+ymax: -0.8548626775965205
+
+contrast: 1.44
+brightness: 0.17
+saturation: 0.71
+gamma: 1.03
+gamma_r: 0.96
+gamma_g: 1.04
+gamma_b: 0.99
+vignette: 33
+temp: 6591
