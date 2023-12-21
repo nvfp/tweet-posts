@@ -1,0 +1,28 @@
+tweet_id: 1737725616558940240
+masto_id: 111617051867723149
+subre_id: Not uploaded, but here's the text: Brighten your Thursday!  #GenerativeArt #Art #Mathematics
+
+n_iter: 443
+ct: 1
+hue_offset: 162
+saturation: 0.53
+
+num_attempts: 561
+dur: 601
+std: 80.72
+size: 830657 (811.19 KiB)
+
+xmin: -0.19812596115870407
+xmax: -0.19390655187600364
+ymin: 0.9002717581824262
+ymax: 0.9026451759039452
+
+contrast: 1.59
+brightness: -0.06
+saturation: 1.68
+gamma: 1.04
+gamma_r: 0.92
+gamma_g: 0.93
+gamma_b: 1.08
+vignette: -2
+temp: 5326
