@@ -1,0 +1,28 @@
+tweet_id: 1737897661502751073
+masto_id: 111619740070164251
+subre_id: Not uploaded, but here's the text: Have an awesome Thursday!  #ArtificialIntelligence #VisualArt #AI
+
+n_iter: 478
+ct: 189
+hue_offset: 62
+saturation: 0.18
+
+num_attempts: 7
+dur: 5
+std: 53.78
+size: 780383 (762.09 KiB)
+
+xmin: 0.12991973629954057
+xmax: 0.6924197362995406
+ymin: -1.3352773199183274
+ymax: -1.0188710699183274
+
+contrast: 1.52
+brightness: 0.12
+saturation: 0.72
+gamma: 1.06
+gamma_r: 1.09
+gamma_g: 1.0
+gamma_b: 0.99
+vignette: -15
+temp: 2501
