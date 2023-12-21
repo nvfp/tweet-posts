@@ -1,0 +1,28 @@
+tweet_id: 1737632360919949799
+masto_id: 111615594721472161
+subre_id: Not uploaded, but here's the text: Happy Thursday!  #GenerativeArt #ArtificialIntelligence #Nature
+
+n_iter: 388
+ct: 227
+hue_offset: 159
+saturation: 0.45
+
+num_attempts: 49
+dur: 13
+std: 22.01
+size: 309718 (302.46 KiB)
+
+xmin: -1.4266519140327691
+xmax: -0.30165191403276914
+ymin: -0.40662099132208973
+ymax: 0.22619150867791027
+
+contrast: 1.36
+brightness: 0.04
+saturation: 1.42
+gamma: 1.04
+gamma_r: 1.09
+gamma_g: 1.03
+gamma_b: 0.98
+vignette: 20
+temp: 4972
