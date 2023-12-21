@@ -1,0 +1,28 @@
+tweet_id: 1737755662179074480
+masto_id: 111617521355149819
+subre_id: Not uploaded, but here's the text: Keep smiling!  #AGI #Nature #MultiModal
+
+n_iter: 549
+ct: 255
+hue_offset: 245
+saturation: 0.7
+
+num_attempts: 535
+dur: 605
+std: 92.16
+size: 1069833 (1.02 MiB)
+
+xmin: 0.538958308396301
+xmax: 0.543107685989662
+ymin: -0.34852726769367015
+ymax: -0.3461932427974046
+
+contrast: 1.55
+brightness: 0.07
+saturation: 0.96
+gamma: 1.08
+gamma_r: 1.03
+gamma_g: 0.98
+gamma_b: 1.09
+vignette: -24
+temp: 3722
