@@ -1,0 +1,28 @@
+tweet_id: 1737722139027865654
+masto_id: 111616997560221092
+subre_id: Not uploaded, but here's the text: Thursday is shining brightly, just like this Mandelbrot Set.  #GeneralIntelligence #AI #Fractals
+
+n_iter: 375
+ct: 240
+hue_offset: 285
+saturation: -0.42
+
+num_attempts: 122
+dur: 31
+std: 64.6
+size: 571384 (557.99 KiB)
+
+xmin: -0.7170477505003094
+xmax: -0.716625720536182
+ymin: 0.20982957288475013
+ymax: 0.21006696473957182
+
+contrast: 1.3
+brightness: 0.12
+saturation: 0.4
+gamma: 1.04
+gamma_r: 0.97
+gamma_g: 1.05
+gamma_b: 0.99
+vignette: -5
+temp: 4624
