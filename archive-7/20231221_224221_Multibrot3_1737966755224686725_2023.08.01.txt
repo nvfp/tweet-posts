@@ -1,0 +1,28 @@
+tweet_id: 1737966755224686725
+masto_id: 111620819615836612
+subre_id: Not uploaded, but here's the text: Good Thursday! This Multibrot is for you!  #GeneralIntelligence #DigitalArt #AI
+
+n_iter: 453
+ct: 255
+hue_offset: 108
+saturation: -0.41
+
+num_attempts: 471
+dur: 601
+std: 70.88
+size: 1139610 (1.09 MiB)
+
+xmin: -0.5916638464147472
+xmax: -0.5838817452474321
+ymin: 0.3044909469661885
+ymax: 0.3088683788728033
+
+contrast: 1.46
+brightness: 0.12
+saturation: 1.45
+gamma: 1.01
+gamma_r: 1.07
+gamma_g: 0.91
+gamma_b: 1.07
+vignette: -41
+temp: 5583
