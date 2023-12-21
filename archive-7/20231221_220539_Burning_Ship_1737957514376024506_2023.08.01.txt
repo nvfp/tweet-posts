@@ -1,0 +1,28 @@
+tweet_id: 1737957514376024506
+masto_id: 111620675309794476
+subre_id: Not uploaded, but here's the text: Enjoying the Thursday with this Burning Ship.  #VisualArt #Art #MultiModal
+
+n_iter: 491
+ct: 146
+hue_offset: 179
+saturation: -0.18
+
+num_attempts: 8
+dur: 7
+std: 49.8
+size: 1072160 (1.02 MiB)
+
+xmin: -1.4768111198468215
+xmax: -0.35181111984682145
+ymin: -1.0723253467041953
+ymax: -0.4395128467041953
+
+contrast: 0.73
+brightness: 0.04
+saturation: 1.07
+gamma: 1.1
+gamma_r: 0.95
+gamma_g: 1.03
+gamma_b: 0.96
+vignette: -11
+temp: 7894
