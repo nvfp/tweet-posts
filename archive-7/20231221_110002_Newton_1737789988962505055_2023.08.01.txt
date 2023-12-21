@@ -1,0 +1,31 @@
+tweet_id: 1737789988962505055
+masto_id: 111618057895990802
+subre_id: Not uploaded, but here's the text: Surprise! Newton!  #Mathematics #AGI #MultiModal
+
+newton_power: 6
+newton_const: 1
+
+n_iter: 189
+ct: 240
+hue_offset: 9
+saturation: -0.79
+
+num_attempts: 192
+dur: 603
+std: 18.74
+size: 805757 (786.87 KiB)
+
+xmin: -0.512905291182093
+xmax: -0.49228673448106214
+ymin: 1.1485697857687778
+ymax: 1.1601677239131076
+
+contrast: 0.88
+brightness: 0.18
+saturation: 1.19
+gamma: 0.92
+gamma_r: 1.09
+gamma_g: 0.92
+gamma_b: 1.09
+vignette: -9
+temp: 2048
