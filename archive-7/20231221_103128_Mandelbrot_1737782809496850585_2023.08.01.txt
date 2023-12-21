@@ -1,0 +1,28 @@
+tweet_id: 1737782809496850585
+masto_id: 111617945640930124
+subre_id: Not uploaded, but here's the text: Wishing you a wonderful Thursday!  #ArtificialIntelligence #MultiModal #AI
+
+n_iter: 795
+ct: 50
+hue_offset: 279
+saturation: -0.46
+
+num_attempts: 126
+dur: 54
+std: 111.12
+size: 1138068 (1.09 MiB)
+
+xmin: -0.5977475084608947
+xmax: -0.5813540658379439
+ymin: -0.4520765911722304
+ymax: -0.4428552796968206
+
+contrast: 1.37
+brightness: 0.23
+saturation: 1.3
+gamma: 1.07
+gamma_r: 1.08
+gamma_g: 1.01
+gamma_b: 0.9
+vignette: -5
+temp: 4389
