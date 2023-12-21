@@ -1,0 +1,28 @@
+tweet_id: 1737873888665849985
+masto_id: 111619368704033803
+subre_id: Not uploaded, but here's the text: Look closely, it's Mandelbrot Set!  #AGI #Fractals #GeneralIntelligence
+
+n_iter: 598
+ct: 249
+hue_offset: 318
+saturation: -0.27
+
+num_attempts: 106
+dur: 40
+std: 77.7
+size: 1033337 (1009.12 KiB)
+
+xmin: 0.3766798904182873
+xmax: 0.3773018776675487
+ymin: -0.1689500743802852
+ymax: -0.16860020655257565
+
+contrast: 1.49
+brightness: 0.03
+saturation: 1.16
+gamma: 1.03
+gamma_r: 0.98
+gamma_g: 0.99
+gamma_b: 0.96
+vignette: 27
+temp: 2546
