@@ -1,0 +1,31 @@
+tweet_id: 1737880719974875239
+masto_id: 111619475448176630
+subre_id: Not uploaded, but here's the text: Happy Thursday! Enjoy the beauty of Newton.  #Fractals #GenerativeArt #Art
+
+newton_power: 6
+newton_const: -2
+
+n_iter: 93
+ct: 79
+hue_offset: 320
+saturation: 0.94
+
+num_attempts: 177
+dur: 609
+std: 15.67
+size: 510440 (498.48 KiB)
+
+xmin: -0.9707024205268047
+xmax: -0.9399331897575739
+ymin: -0.7017944281968735
+ymax: -0.6844867358891812
+
+contrast: 0.85
+brightness: -0.01
+saturation: 1.15
+gamma: 1.07
+gamma_r: 0.97
+gamma_g: 1.0
+gamma_b: 0.93
+vignette: 0
+temp: 5523
