@@ -1,0 +1,28 @@
+tweet_id: 1738012377998635420
+masto_id: 111621532472632201
+subre_id: Not uploaded, but here's the text: Brighten your Friday!  #Nature #GenerativeArt #MultiModal
+
+n_iter: 357
+ct: 1
+hue_offset: 234
+saturation: -0.94
+
+num_attempts: 630
+dur: 605
+std: 62.0
+size: 848244 (828.36 KiB)
+
+xmin: 0.48836902627417667
+xmax: 0.49456097673857297
+ymin: 0.07548832455725152
+ymax: 0.07897129669347443
+
+contrast: 1.26
+brightness: 0.09
+saturation: 0.93
+gamma: 0.99
+gamma_r: 0.9
+gamma_g: 0.97
+gamma_b: 1.01
+vignette: -4
+temp: 4519
