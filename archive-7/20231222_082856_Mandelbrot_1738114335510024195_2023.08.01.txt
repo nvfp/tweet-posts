@@ -1,0 +1,28 @@
+tweet_id: 1738114335510024195
+masto_id: 111623125844004544
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Friday! You got this!  #Fractals #Art #AGI
+
+n_iter: 1019
+ct: 43
+hue_offset: 296
+saturation: 0.42
+
+num_attempts: 41
+dur: 17
+std: 17.38
+size: 1132497 (1.08 MiB)
+
+xmin: -1.3725929589198482
+xmax: -1.3719204639635605
+ymin: -0.09148113238859668
+ymax: -0.09110285397568477
+
+contrast: 0.87
+brightness: 0.09
+saturation: 1.5
+gamma: 0.92
+gamma_r: 1.04
+gamma_g: 0.94
+gamma_b: 0.93
+vignette: 24
+temp: 6702
