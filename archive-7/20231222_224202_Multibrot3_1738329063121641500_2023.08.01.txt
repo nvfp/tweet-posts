@@ -1,0 +1,28 @@
+tweet_id: 1738329063121641500
+masto_id: 111626480685527348
+subre_id: Not uploaded, but here's the text: Chin up, buttercup!  #Fractals #Art #DeepLearning
+
+n_iter: 537
+ct: 255
+hue_offset: 166
+saturation: -0.77
+
+num_attempts: 423
+dur: 602
+std: 71.06
+size: 847483 (827.62 KiB)
+
+xmin: 0.39895647704948756
+xmax: 0.41957503375051847
+ymin: 0.5967701801970757
+ymax: 0.6083681183414056
+
+contrast: 1.19
+brightness: -0.08
+saturation: 0.73
+gamma: 0.92
+gamma_r: 1.09
+gamma_g: 1.02
+gamma_b: 1.06
+vignette: 14
+temp: 5934
