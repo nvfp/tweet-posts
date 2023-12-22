@@ -1,0 +1,28 @@
+tweet_id: 1738088010745319771
+masto_id: 111622714342019429
+subre_id: Not uploaded, but here's the text: Look what we have here! it's Multibrot!  #DigitalArt #VisualArt #ArtificialIntelligence
+
+n_iter: 328
+ct: 1
+hue_offset: 1
+saturation: 0.81
+
+num_attempts: 708
+dur: 601
+std: 64.23
+size: 1007318 (983.71 KiB)
+
+xmin: -0.4214863419495247
+xmax: -0.4168297645339252
+ymin: 0.6141082117271637
+ymax: 0.6167275365234384
+
+contrast: 1.34
+brightness: -0.06
+saturation: 1.27
+gamma: 1.03
+gamma_r: 0.99
+gamma_g: 0.97
+gamma_b: 1.06
+vignette: -7
+temp: 2192
