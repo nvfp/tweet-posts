@@ -1,0 +1,31 @@
+tweet_id: 1738273180026859829
+masto_id: 111625607555311079
+subre_id: Not uploaded, but here's the text: Let's rock this Friday!  #Art #GenerativeArt #Mathematics
+
+newton_power: 6
+newton_const: 6
+
+n_iter: 216
+ct: 113
+hue_offset: 53
+saturation: -0.77
+
+num_attempts: 175
+dur: 607
+std: 15.01
+size: 1540285 (1.47 MiB)
+
+xmin: 2.770214898516673
+xmax: 2.780367182780632
+ymin: -0.000904587346093999
+ymax: 0.004806072552383158
+
+contrast: 1.4
+brightness: 0.1
+saturation: 0.98
+gamma: 1.0
+gamma_r: 0.93
+gamma_g: 1.01
+gamma_b: 0.95
+vignette: -38
+temp: 5377
