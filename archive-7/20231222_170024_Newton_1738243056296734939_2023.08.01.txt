@@ -1,0 +1,31 @@
+tweet_id: 1738243056296734939
+masto_id: 111625137241091795
+subre_id: Not uploaded, but here's the text: Having a blast on Friday?  #AI #MachineLearning #Nature
+
+newton_power: 6
+newton_const: 1
+
+n_iter: 80
+ct: 188
+hue_offset: 58
+saturation: 0.79
+
+num_attempts: 192
+dur: 601
+std: 21.15
+size: 741120 (723.75 KiB)
+
+xmin: -0.012185969675563513
+xmax: -0.0009919398248172447
+ymin: -0.08026641380205746
+ymax: -0.07396977201101268
+
+contrast: 1.35
+brightness: 0.12
+saturation: 0.99
+gamma: 1.02
+gamma_r: 1.04
+gamma_g: 1.04
+gamma_b: 1.08
+vignette: -19
+temp: 3971
