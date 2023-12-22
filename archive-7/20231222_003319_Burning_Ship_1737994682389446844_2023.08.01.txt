@@ -1,0 +1,28 @@
+tweet_id: 1737994682389446844
+masto_id: 111621255953867752
+subre_id: Not uploaded, but here's the text: Sending you this fractal on this Friday!  #DeepLearning #VisualArt #Art
+
+n_iter: 377
+ct: 163
+hue_offset: 106
+saturation: -0.17
+
+num_attempts: 1
+dur: 0
+std: 26.75
+size: 273287 (266.88 KiB)
+
+xmin: -2.471636772680561
+xmax: -0.22163677268056103
+ymin: -1.2452806452247036
+ymax: 0.02034435477529639
+
+contrast: 1.7
+brightness: -0.0
+saturation: 1.5
+gamma: 1.04
+gamma_r: 0.94
+gamma_g: 1.04
+gamma_b: 1.05
+vignette: -2
+temp: 5492
