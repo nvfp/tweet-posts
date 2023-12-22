@@ -1,0 +1,28 @@
+tweet_id: 1738025139399205300
+masto_id: 111621731891690958
+subre_id: Not uploaded, but here's the text: Another Friday, another Mandelbrot Set!  #ArtificialIntelligence #VisualArt #AGI
+
+n_iter: 982
+ct: 16
+hue_offset: 197
+saturation: 0.05
+
+num_attempts: 56
+dur: 47
+std: 132.3
+size: 1659723 (1.58 MiB)
+
+xmin: -0.6929670987180399
+xmax: -0.6905191183018832
+ymin: -0.34293580900472165
+ymax: -0.34155882002063354
+
+contrast: 1.62
+brightness: -0.01
+saturation: 0.72
+gamma: 1.03
+gamma_r: 1.06
+gamma_g: 0.92
+gamma_b: 1.04
+vignette: -6
+temp: 6332
