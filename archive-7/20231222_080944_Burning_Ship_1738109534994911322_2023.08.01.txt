@@ -1,0 +1,28 @@
+tweet_id: 1738109534994911322
+masto_id: 111623050663036913
+subre_id: Not uploaded, but here's the text: Look closely, it's Burning Ship!  #GenerativeArt #GeneralIntelligence #ArtificialIntelligence
+
+n_iter: 195
+ct: 148
+hue_offset: 101
+saturation: 0.08
+
+num_attempts: 63
+dur: 14
+std: 30.98
+size: 1243569 (1.19 MiB)
+
+xmin: -0.4783840832778665
+xmax: -0.028384083277866512
+ymin: -1.1984804542852692
+ymax: -0.9453554542852691
+
+contrast: 1.05
+brightness: 0.1
+saturation: 1.43
+gamma: 0.91
+gamma_r: 0.97
+gamma_g: 1.05
+gamma_b: 1.06
+vignette: -19
+temp: 7494
