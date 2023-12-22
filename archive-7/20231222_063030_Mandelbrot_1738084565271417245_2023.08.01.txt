@@ -1,0 +1,28 @@
+tweet_id: 1738084565271417245
+masto_id: 111622660472277091
+subre_id: Not uploaded, but here's the text: Surprise! Mandelbrot Set!  #GeneralIntelligence #VisualArt #Fractals
+
+n_iter: 529
+ct: 107
+hue_offset: 211
+saturation: 0.01
+
+num_attempts: 76
+dur: 27
+std: 87.9
+size: 1427229 (1.36 MiB)
+
+xmin: 0.37429296256140665
+xmax: 0.37496784023982743
+ymin: 0.16701130937547393
+ymax: 0.1673909280695856
+
+contrast: 1.35
+brightness: 0.16
+saturation: 1.4
+gamma: 0.93
+gamma_r: 1.02
+gamma_g: 0.95
+gamma_b: 0.92
+vignette: -48
+temp: 6795
