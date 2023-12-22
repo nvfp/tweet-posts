@@ -1,0 +1,28 @@
+tweet_id: 1738117752299069769
+masto_id: 111623179023948225
+subre_id: Not uploaded, but here's the text: Wishing you the best!  #AGI #VisualArt #DigitalArt
+
+n_iter: 639
+ct: 255
+hue_offset: 229
+saturation: 0.4
+
+num_attempts: 401
+dur: 600
+std: 84.19
+size: 1144307 (1.09 MiB)
+
+xmin: 0.18166328069838356
+xmax: 0.18814626287018257
+ymin: 0.8623716607376561
+ymax: 0.8660183382092931
+
+contrast: 0.88
+brightness: 0.17
+saturation: 1.49
+gamma: 1.03
+gamma_r: 1.03
+gamma_g: 1.07
+gamma_b: 1.1
+vignette: -22
+temp: 7788
