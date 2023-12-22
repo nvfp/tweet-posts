@@ -1,0 +1,28 @@
+tweet_id: 1738057626502517111
+masto_id: 111622239521868104
+subre_id: Not uploaded, but here's the text: Have an awesome Friday!  #AI #ArtificialIntelligence #Nature
+
+n_iter: 424
+ct: 255
+hue_offset: 186
+saturation: -0.87
+
+num_attempts: 616
+dur: 603
+std: 64.36
+size: 1311305 (1.25 MiB)
+
+xmin: -0.5156596804054314
+xmax: -0.5107214088004931
+ymin: 0.1125257492766496
+ymax: 0.11530352705442738
+
+contrast: 1.68
+brightness: 0.13
+saturation: 0.89
+gamma: 0.97
+gamma_r: 1.0
+gamma_g: 0.91
+gamma_b: 0.97
+vignette: -15
+temp: 6642
