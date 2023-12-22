@@ -1,0 +1,28 @@
+tweet_id: 1738260203638759930
+masto_id: 111625405019555137
+subre_id: Not uploaded, but here's the text: Let this Burning Ship inspire your Friday.  #GeneralIntelligence #Nature #AI
+
+n_iter: 364
+ct: 180
+hue_offset: 255
+saturation: 0.56
+
+num_attempts: 3
+dur: 0
+std: 22.39
+size: 759558 (741.76 KiB)
+
+xmin: -0.591949905119719
+xmax: 1.658050094880281
+ymin: -1.2580815560822813
+ymax: 0.007543443917718662
+
+contrast: 0.97
+brightness: 0.16
+saturation: 0.31
+gamma: 1.04
+gamma_r: 0.99
+gamma_g: 0.99
+gamma_b: 1.09
+vignette: -35
+temp: 7091
