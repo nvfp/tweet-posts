@@ -1,0 +1,28 @@
+tweet_id: 1738239417893163408
+masto_id: 111625080271904013
+subre_id: Not uploaded, but here's the text: Keep smiling!  #Nature #AGI #DigitalArt
+
+n_iter: 484
+ct: 255
+hue_offset: 6
+saturation: 1.0
+
+num_attempts: 522
+dur: 601
+std: 68.62
+size: 939214 (917.2 KiB)
+
+xmin: -0.5136917692558534
+xmax: -0.5013460902435076
+ymin: 0.4445229671381501
+ymax: 0.4514674115825945
+
+contrast: 1.32
+brightness: 0.15
+saturation: 0.52
+gamma: 1.08
+gamma_r: 1.04
+gamma_g: 0.93
+gamma_b: 0.94
+vignette: -16
+temp: 5174
