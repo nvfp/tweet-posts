@@ -1,0 +1,28 @@
+tweet_id: 1738181533310312611
+masto_id: 111624175760467006
+subre_id: Not uploaded, but here's the text: Hello Friday! This Multibrot is yours!  #MachineLearning #Nature #GenerativeArt
+
+n_iter: 482
+ct: 255
+hue_offset: 207
+saturation: 0.98
+
+num_attempts: 487
+dur: 606
+std: 86.28
+size: 1185751 (1.13 MiB)
+
+xmin: 0.14124645932417978
+xmax: 0.14570576813131467
+ymin: 0.7567788363496613
+ymax: 0.7592871975536747
+
+contrast: 0.7
+brightness: -0.05
+saturation: 0.36
+gamma: 1.05
+gamma_r: 1.06
+gamma_g: 0.92
+gamma_b: 0.98
+vignette: -38
+temp: 5020
