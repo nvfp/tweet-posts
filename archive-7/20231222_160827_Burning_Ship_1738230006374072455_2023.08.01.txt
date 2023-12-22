@@ -1,0 +1,28 @@
+tweet_id: 1738230006374072455
+masto_id: 111624933016761589
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Friday!  #AGI #Art #VisualArt
+
+n_iter: 237
+ct: 134
+hue_offset: 168
+saturation: 0.14
+
+num_attempts: 18
+dur: 3
+std: 36.62
+size: 939644 (917.62 KiB)
+
+xmin: -0.4000647865772029
+xmax: 0.04993521342279711
+ymin: -1.175720039863791
+ymax: -0.922595039863791
+
+contrast: 0.7
+brightness: -0.01
+saturation: 1.04
+gamma: 0.92
+gamma_r: 1.01
+gamma_g: 1.04
+gamma_b: 1.09
+vignette: -4
+temp: 6862
