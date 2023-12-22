@@ -1,0 +1,28 @@
+tweet_id: 1738268796857516530
+masto_id: 111625539007815555
+subre_id: Not uploaded, but here's the text: How was your day?  #DigitalArt #AGI #GenerativeArt
+
+n_iter: 378
+ct: 1
+hue_offset: 314
+saturation: -0.59
+
+num_attempts: 565
+dur: 604
+std: 62.57
+size: 876904 (856.35 KiB)
+
+xmin: 0.1914662615829128
+xmax: 0.19788680732930125
+ymin: 1.0276499264337242
+ymax: 1.0312614834160676
+
+contrast: 1.04
+brightness: -0.09
+saturation: 0.59
+gamma: 0.96
+gamma_r: 1.07
+gamma_g: 0.93
+gamma_b: 0.96
+vignette: 33
+temp: 2725
