@@ -1,0 +1,28 @@
+tweet_id: 1738265578912039164
+masto_id: 111625488792038902
+subre_id: Not uploaded, but here's the text: you are awesome.  #MultiModal #AGI #ArtificialIntelligence
+
+n_iter: 468
+ct: 102
+hue_offset: 311
+saturation: -0.37
+
+num_attempts: 165
+dur: 69
+std: 36.67
+size: 1682906 (1.6 MiB)
+
+xmin: -0.21035443653721142
+xmax: -0.20935543553821043
+ymin: -0.8243289228634767
+ymax: -0.8237669848015386
+
+contrast: 0.92
+brightness: -0.03
+saturation: 0.79
+gamma: 1.0
+gamma_r: 1.0
+gamma_g: 0.92
+gamma_b: 1.01
+vignette: 32
+temp: 7951
