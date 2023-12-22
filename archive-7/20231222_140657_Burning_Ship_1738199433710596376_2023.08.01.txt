@@ -1,0 +1,28 @@
+tweet_id: 1738199433710596376
+masto_id: 111624455285207884
+subre_id: Not uploaded, but here's the text: Happy Friday!  #Nature #DeepLearning #VisualArt
+
+n_iter: 440
+ct: 66
+hue_offset: 57
+saturation: 0.39
+
+num_attempts: 22
+dur: 9
+std: 31.22
+size: 760596 (742.77 KiB)
+
+xmin: -1.9170515430004673
+xmax: 0.3329484569995327
+ymin: -1.5571851452624461
+ymax: -0.2915601452624461
+
+contrast: 1.43
+brightness: 0.04
+saturation: 0.74
+gamma: 1.06
+gamma_r: 1.09
+gamma_g: 0.98
+gamma_b: 1.04
+vignette: -20
+temp: 3523
