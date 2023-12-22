@@ -1,0 +1,28 @@
+tweet_id: 1738290154245120001
+masto_id: 111625872725943143
+subre_id: Not uploaded, but here's the text: Hello Friday! This Burning Ship is yours!  #VisualArt #Nature #AI
+
+n_iter: 338
+ct: 67
+hue_offset: 27
+saturation: -0.17
+
+num_attempts: 13
+dur: 6
+std: 52.86
+size: 2421708 (2.31 MiB)
+
+xmin: -0.8290519272684764
+xmax: -0.7618877481639988
+ymin: -0.7095414017354322
+ymax: -0.6717615509891636
+
+contrast: 1.24
+brightness: 0.03
+saturation: 0.35
+gamma: 0.92
+gamma_r: 0.95
+gamma_g: 0.98
+gamma_b: 0.94
+vignette: -29
+temp: 6620
