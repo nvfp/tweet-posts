@@ -1,0 +1,31 @@
+tweet_id: 1738454354292568483
+masto_id: 111628438410341037
+subre_id: Not uploaded, but here's the text: You rock, and so does this Saturday!  #AI #Art #MultiModal
+
+newton_power: 4
+newton_const: 4
+
+n_iter: 241
+ct: 184
+hue_offset: 93
+saturation: -0.93
+
+num_attempts: 264
+dur: 600
+std: 7.32
+size: 761947 (744.09 KiB)
+
+xmin: 2.8740539077406737
+xmax: 2.9965028873325106
+ymin: 0.3130613055183291
+ymax: 0.38193885653873727
+
+contrast: 1.17
+brightness: 0.02
+saturation: 1.11
+gamma: 1.03
+gamma_r: 1.05
+gamma_g: 1.04
+gamma_b: 1.04
+vignette: -5
+temp: 4600
