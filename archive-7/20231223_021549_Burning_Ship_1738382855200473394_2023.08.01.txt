@@ -1,0 +1,28 @@
+tweet_id: 1738382855200473394
+masto_id: 111627321308998065
+subre_id: Not uploaded, but here's the text: Today is awesome!  #AGI #DeepLearning #Art
+
+n_iter: 446
+ct: 108
+hue_offset: 332
+saturation: 0.55
+
+num_attempts: 2
+dur: 1
+std: 22.84
+size: 326224 (318.58 KiB)
+
+xmin: -1.1636813110652906
+xmax: -1.0679366302142268
+ymin: -0.00560448401036151
+ymax: 0.04825189896836189
+
+contrast: 1.55
+brightness: -0.03
+saturation: 0.43
+gamma: 1.07
+gamma_r: 1.1
+gamma_g: 0.9
+gamma_b: 0.99
+vignette: 8
+temp: 7890
