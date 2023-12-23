@@ -1,0 +1,28 @@
+tweet_id: 1738566965923324255
+masto_id: 111630198031314713
+subre_id: Not uploaded, but here's the text: Warm wishes for your Saturday, and let's have a look at this Mandelbrot Set.  #MachineLearning #Art #GenerativeArt
+
+n_iter: 590
+ct: 244
+hue_offset: 14
+saturation: -0.13
+
+num_attempts: 158
+dur: 69
+std: 16.28
+size: 504231 (492.41 KiB)
+
+xmin: -0.08676259083660343
+xmax: -0.08101546439982182
+ymin: -0.8684511968299164
+ymax: -0.8652184382092268
+
+contrast: 0.9
+brightness: -0.01
+saturation: 0.26
+gamma: 0.92
+gamma_r: 1.0
+gamma_g: 1.1
+gamma_b: 0.92
+vignette: 7
+temp: 3088
