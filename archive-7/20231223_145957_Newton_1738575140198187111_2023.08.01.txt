@@ -1,0 +1,31 @@
+tweet_id: 1738575140198187111
+masto_id: 111630325832994904
+subre_id: Not uploaded, but here's the text: Having a blast on Saturday?  #DigitalArt #MachineLearning #AI
+
+newton_power: 3
+newton_const: 5
+
+n_iter: 244
+ct: 171
+hue_offset: 216
+saturation: -0.97
+
+num_attempts: 543
+dur: 601
+std: 4.59
+size: 537101 (524.51 KiB)
+
+xmin: 1.6892463348652793
+xmax: 1.7350478615828366
+ymin: 0.21492404166646795
+ymax: 0.2406874004450939
+
+contrast: 0.78
+brightness: 0.03
+saturation: 0.84
+gamma: 0.97
+gamma_r: 0.95
+gamma_g: 1.08
+gamma_b: 0.96
+vignette: -5
+temp: 4701
