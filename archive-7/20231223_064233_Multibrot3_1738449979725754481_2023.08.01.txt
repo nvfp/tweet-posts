@@ -1,0 +1,28 @@
+tweet_id: 1738449979725754481
+masto_id: 111628370113697832
+subre_id: Not uploaded, but here's the text: Let this Multibrot brighten up your Saturday!  #Mathematics #ArtificialIntelligence #GenerativeArt
+
+n_iter: 508
+ct: 255
+hue_offset: 51
+saturation: -0.0
+
+num_attempts: 467
+dur: 600
+std: 80.55
+size: 904868 (883.66 KiB)
+
+xmin: -0.307033415909165
+xmax: -0.28956616700086807
+ymin: -0.695790177023989
+ymax: -0.685964849513072
+
+contrast: 0.96
+brightness: -0.06
+saturation: 1.08
+gamma: 0.97
+gamma_r: 1.02
+gamma_g: 1.07
+gamma_b: 0.95
+vignette: 26
+temp: 4758
