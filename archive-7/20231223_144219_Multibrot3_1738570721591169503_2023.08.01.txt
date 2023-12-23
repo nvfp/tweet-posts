@@ -1,0 +1,28 @@
+tweet_id: 1738570721591169503
+masto_id: 111630256664405086
+subre_id: Not uploaded, but here's the text: Hey wait, look! it's Multibrot!  #GeneralIntelligence #DeepLearning #MultiModal
+
+n_iter: 575
+ct: 1
+hue_offset: 45
+saturation: -0.91
+
+num_attempts: 347
+dur: 607
+std: 58.13
+size: 824683 (805.35 KiB)
+
+xmin: 0.45776548148432505
+xmax: 0.47274675489256474
+ymin: 0.0404235333452303
+ymax: 0.04885049963736513
+
+contrast: 1.75
+brightness: 0.21
+saturation: 0.67
+gamma: 1.01
+gamma_r: 1.04
+gamma_g: 0.9
+gamma_b: 1.03
+vignette: -33
+temp: 4485
