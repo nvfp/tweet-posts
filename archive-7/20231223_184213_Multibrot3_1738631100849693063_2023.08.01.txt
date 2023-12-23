@@ -1,0 +1,28 @@
+tweet_id: 1738631100849693063
+masto_id: 111631199964495211
+subre_id: Not uploaded, but here's the text: Brighten your Saturday!  #ArtificialIntelligence #AGI #Mathematics
+
+n_iter: 639
+ct: 255
+hue_offset: 243
+saturation: 0.01
+
+num_attempts: 389
+dur: 609
+std: 73.08
+size: 292089 (285.24 KiB)
+
+xmin: 0.2098528553171315
+xmax: 0.21399793303733874
+ymin: 0.9932890424901837
+ymax: 0.9956206487078003
+
+contrast: 1.73
+brightness: -0.03
+saturation: 1.26
+gamma: 0.91
+gamma_r: 0.97
+gamma_g: 0.96
+gamma_b: 1.06
+vignette: -27
+temp: 4299
