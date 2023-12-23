@@ -1,0 +1,28 @@
+tweet_id: 1738510485505401052
+masto_id: 111629315493020227
+subre_id: Not uploaded, but here's the text: Hope you have an amazing Saturday!  #ArtificialIntelligence #DigitalArt #Nature
+
+n_iter: 446
+ct: 1
+hue_offset: 296
+saturation: -0.19
+
+num_attempts: 601
+dur: 605
+std: 71.29
+size: 899599 (878.51 KiB)
+
+xmin: -0.550024300199091
+xmax: -0.5431158373320789
+ymin: 0.2886723229634489
+ymax: 0.2925583333261432
+
+contrast: 0.93
+brightness: -0.06
+saturation: 1.03
+gamma: 1.07
+gamma_r: 1.0
+gamma_g: 1.0
+gamma_b: 1.1
+vignette: -24
+temp: 2899
