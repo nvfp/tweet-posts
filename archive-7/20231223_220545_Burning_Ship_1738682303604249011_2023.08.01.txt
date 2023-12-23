@@ -1,0 +1,28 @@
+tweet_id: 1738682303604249011
+masto_id: 111632000334550298
+subre_id: Not uploaded, but here's the text: Brighten your Saturday!  #DigitalArt #ArtificialIntelligence #DeepLearning
+
+n_iter: 249
+ct: 120
+hue_offset: 126
+saturation: 0.87
+
+num_attempts: 4
+dur: 1
+std: 27.95
+size: 1072354 (1.02 MiB)
+
+xmin: -0.3000493502885888
+xmax: -0.245171301508101
+ymin: -0.9178773455179432
+ymax: -0.8870084430789188
+
+contrast: 1.48
+brightness: -0.02
+saturation: 1.72
+gamma: 0.94
+gamma_r: 0.98
+gamma_g: 1.04
+gamma_b: 1.1
+vignette: -23
+temp: 7001
