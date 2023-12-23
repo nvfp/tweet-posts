@@ -1,0 +1,31 @@
+tweet_id: 1738424175889641803
+masto_id: 111627966930101313
+subre_id: Not uploaded, but here's the text: Look what we have here! it's Newton!  #Nature #GeneralIntelligence #DeepLearning
+
+newton_power: 6
+newton_const: -1
+
+n_iter: 234
+ct: 246
+hue_offset: 337
+saturation: 0.01
+
+num_attempts: 187
+dur: 601
+std: 14.97
+size: 863680 (843.44 KiB)
+
+xmin: 2.259821696036501
+xmax: 2.275446696036501
+ymin: -1.1176276914695533
+ymax: -1.1088386289695533
+
+contrast: 1.45
+brightness: -0.01
+saturation: 1.51
+gamma: 0.9
+gamma_r: 1.0
+gamma_g: 1.09
+gamma_b: 1.06
+vignette: 29
+temp: 3372
