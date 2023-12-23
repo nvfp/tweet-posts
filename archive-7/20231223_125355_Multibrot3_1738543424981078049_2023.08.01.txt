@@ -1,0 +1,28 @@
+tweet_id: 1738543424981078049
+masto_id: 111629830208328496
+subre_id: Not uploaded, but here's the text: Saturday is shining brightly, just like this Multibrot.  #GeneralIntelligence #Art #MachineLearning
+
+n_iter: 402
+ct: 255
+hue_offset: 134
+saturation: -0.08
+
+num_attempts: 622
+dur: 602
+std: 66.82
+size: 898090 (877.04 KiB)
+
+xmin: -0.23555353208640195
+xmax: -0.22872759351984906
+ymin: -0.7239839217009981
+ymax: -0.7201443312573121
+
+contrast: 1.53
+brightness: -0.08
+saturation: 1.14
+gamma: 1.07
+gamma_r: 0.95
+gamma_g: 0.94
+gamma_b: 1.07
+vignette: -38
+temp: 3529
