@@ -1,0 +1,31 @@
+tweet_id: 1738665749361643786
+masto_id: 111631741673927060
+subre_id: Not uploaded, but here's the text: Let's rock this Saturday!  #DigitalArt #ArtificialIntelligence #GeneralIntelligence
+
+newton_power: 4
+newton_const: -8
+
+n_iter: 244
+ct: 137
+hue_offset: 171
+saturation: 0.05
+
+num_attempts: 261
+dur: 600
+std: 7.46
+size: 572627 (559.21 KiB)
+
+xmin: -0.19603986495536407
+xmax: -0.15806518141106027
+ymin: -0.6487081344150902
+ymax: -0.6273473749214193
+
+contrast: 1.23
+brightness: 0.22
+saturation: 0.62
+gamma: 1.06
+gamma_r: 1.0
+gamma_g: 1.09
+gamma_b: 1.03
+vignette: -12
+temp: 2630
