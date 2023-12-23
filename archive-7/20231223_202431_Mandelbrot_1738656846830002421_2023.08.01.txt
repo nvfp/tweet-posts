@@ -1,0 +1,28 @@
+tweet_id: 1738656846830002421
+masto_id: 111631602240944897
+subre_id: Not uploaded, but here's the text: Surprise! Mandelbrot Set!  #ArtificialIntelligence #AI #GeneralIntelligence
+
+n_iter: 605
+ct: 222
+hue_offset: 47
+saturation: 0.1
+
+num_attempts: 121
+dur: 43
+std: 60.83
+size: 144705 (141.31 KiB)
+
+xmin: -0.21419549422358264
+xmax: -0.20882636670680413
+ymin: -0.7014362176386059
+ymax: -0.6984160834104179
+
+contrast: 1.41
+brightness: 0.14
+saturation: 1.52
+gamma: 0.98
+gamma_r: 1.01
+gamma_g: 1.0
+gamma_b: 0.99
+vignette: -19
+temp: 6325
