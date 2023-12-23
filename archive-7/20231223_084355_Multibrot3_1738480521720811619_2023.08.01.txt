@@ -1,0 +1,28 @@
+tweet_id: 1738480521720811619
+masto_id: 111628847346606946
+subre_id: Not uploaded, but here's the text: Having a blast on Saturday?  #GeneralIntelligence #ArtificialIntelligence #Mathematics
+
+n_iter: 545
+ct: 1
+hue_offset: 268
+saturation: -0.3
+
+num_attempts: 491
+dur: 600
+std: 66.48
+size: 859970 (839.81 KiB)
+
+xmin: -0.18192910184323874
+xmax: -0.16954520091444616
+ymin: -0.8725349212809295
+ymax: -0.8655689770084837
+
+contrast: 1.19
+brightness: 0.11
+saturation: 1.21
+gamma: 0.96
+gamma_r: 1.02
+gamma_g: 1.06
+gamma_b: 0.99
+vignette: -24
+temp: 6449
