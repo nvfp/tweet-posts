@@ -1,0 +1,31 @@
+tweet_id: 1738546273375158320
+masto_id: 111629874720254699
+subre_id: Not uploaded, but here's the text: Hope you have an amazing Saturday!  #Art #DeepLearning #GenerativeArt
+
+newton_power: 6
+newton_const: 7
+
+n_iter: 147
+ct: 178
+hue_offset: 114
+saturation: 0.23
+
+num_attempts: 176
+dur: 601
+std: 21.07
+size: 1075407 (1.03 MiB)
+
+xmin: 2.0328744259837066
+xmax: 2.0457499624643933
+ymin: -0.18216005386859968
+ymax: -0.17491756459821342
+
+contrast: 0.73
+brightness: 0.14
+saturation: 0.54
+gamma: 0.95
+gamma_r: 0.99
+gamma_g: 1.09
+gamma_b: 1.01
+vignette: -30
+temp: 4513
