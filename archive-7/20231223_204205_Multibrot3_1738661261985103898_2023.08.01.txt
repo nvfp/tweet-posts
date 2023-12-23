@@ -1,0 +1,28 @@
+tweet_id: 1738661261985103898
+masto_id: 111631671327370660
+subre_id: Not uploaded, but here's the text: Guess what? It's Multibrot!  #AGI #AI #DeepLearning
+
+n_iter: 327
+ct: 255
+hue_offset: 272
+saturation: -0.89
+
+num_attempts: 732
+dur: 600
+std: 58.73
+size: 1064810 (1.02 MiB)
+
+xmin: 0.4298765620707137
+xmax: 0.44054322873738033
+ymin: -0.5854069380904962
+ymax: -0.5794069380904961
+
+contrast: 0.85
+brightness: 0.1
+saturation: 1.42
+gamma: 0.97
+gamma_r: 0.96
+gamma_g: 1.05
+gamma_b: 1.02
+vignette: -11
+temp: 5483
