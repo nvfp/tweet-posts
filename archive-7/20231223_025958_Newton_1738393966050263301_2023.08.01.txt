@@ -1,0 +1,31 @@
+tweet_id: 1738393966050263301
+masto_id: 111627494892513632
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Saturday!  #MultiModal #Nature #Mathematics
+
+newton_power: 3
+newton_const: 2
+
+n_iter: 137
+ct: 63
+hue_offset: 110
+saturation: 0.77
+
+num_attempts: 569
+dur: 601
+std: 4.36
+size: 733818 (716.62 KiB)
+
+xmin: -0.9395703212250974
+xmax: 0.06042967877490257
+ymin: -0.19046025546872425
+ymax: 0.37203974453127575
+
+contrast: 1.42
+brightness: -0.02
+saturation: 0.37
+gamma: 0.92
+gamma_r: 1.09
+gamma_g: 0.96
+gamma_b: 0.97
+vignette: 12
+temp: 6688
