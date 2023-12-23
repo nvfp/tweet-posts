@@ -1,0 +1,28 @@
+tweet_id: 1738419984437535189
+masto_id: 111627901379785909
+subre_id: Not uploaded, but here's the text: Hey wait, look! it's Multibrot!  #MachineLearning #DigitalArt #ArtificialIntelligence
+
+n_iter: 576
+ct: 1
+hue_offset: 227
+saturation: -0.84
+
+num_attempts: 488
+dur: 600
+std: 89.05
+size: 1595252 (1.52 MiB)
+
+xmin: -0.42078643630198354
+xmax: -0.4163714252644559
+ymin: 0.5939148066481139
+ymax: 0.5963982503567232
+
+contrast: 0.96
+brightness: 0.16
+saturation: 1.73
+gamma: 0.94
+gamma_r: 0.96
+gamma_g: 1.07
+gamma_b: 1.08
+vignette: -29
+temp: 3709
