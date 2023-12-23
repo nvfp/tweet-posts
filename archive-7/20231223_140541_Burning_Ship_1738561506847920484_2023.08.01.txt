@@ -1,0 +1,28 @@
+tweet_id: 1738561506847920484
+masto_id: 111630112577393459
+subre_id: Not uploaded, but here's the text: Have an awesome day!  #Fractals #MultiModal #ArtificialIntelligence
+
+n_iter: 297
+ct: 158
+hue_offset: 38
+saturation: -0.22
+
+num_attempts: 61
+dur: 19
+std: 22.24
+size: 125398 (122.46 KiB)
+
+xmin: 0.4253796530736964
+xmax: 0.47429269655195727
+ymin: -0.7345210876974961
+ymax: -0.7070075007409744
+
+contrast: 1.47
+brightness: 0.21
+saturation: 1.05
+gamma: 1.03
+gamma_r: 0.97
+gamma_g: 0.97
+gamma_b: 1.06
+vignette: -40
+temp: 2085
