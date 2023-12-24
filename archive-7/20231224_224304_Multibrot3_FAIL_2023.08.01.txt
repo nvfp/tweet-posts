@@ -1,0 +1,28 @@
+tweet_id: FAIL
+masto_id: 111637809337490869
+subre_id: Not uploaded, but here's the text: Wishing you a fantastic day!  #AGI #VisualArt #GeneralIntelligence
+
+n_iter: 376
+ct: 255
+hue_offset: 260
+saturation: 0.57
+
+num_attempts: 649
+dur: 605
+std: 59.54
+size: 1321114 (1.26 MiB)
+
+xmin: -0.5531969393490481
+xmax: -0.5402099263620351
+ymin: 0.3370142371568321
+ymax: 0.3443194319620269
+
+contrast: 1.21
+brightness: -0.02
+saturation: 1.21
+gamma: 0.96
+gamma_r: 0.95
+gamma_g: 0.98
+gamma_b: 0.93
+vignette: -7
+temp: 7442
