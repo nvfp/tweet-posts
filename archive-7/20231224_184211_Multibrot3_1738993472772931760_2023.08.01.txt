@@ -1,0 +1,28 @@
+tweet_id: 1738993472772931760
+masto_id: 111636862142436680
+subre_id: Not uploaded, but here's the text: Enjoy your Sunday!  #Mathematics #AI #ArtificialIntelligence
+
+n_iter: 553
+ct: 1
+hue_offset: 96
+saturation: 0.31
+
+num_attempts: 391
+dur: 602
+std: 40.35
+size: 669824 (654.12 KiB)
+
+xmin: -0.3752045630742511
+xmax: -0.3074079529047596
+ymin: -0.7218439412185376
+ymax: -0.6837083479981986
+
+contrast: 1.26
+brightness: -0.0
+saturation: 0.72
+gamma: 1.04
+gamma_r: 1.02
+gamma_g: 1.03
+gamma_b: 0.98
+vignette: -38
+temp: 3274
