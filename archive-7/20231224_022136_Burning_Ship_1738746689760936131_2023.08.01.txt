@@ -1,0 +1,28 @@
+tweet_id: 1738746689760936131
+masto_id: 111633006338816010
+subre_id: Not uploaded, but here's the text: Brighten your Sunday!  #ArtificialIntelligence #MultiModal #Mathematics
+
+n_iter: 219
+ct: 92
+hue_offset: 285
+saturation: -0.75
+
+num_attempts: 4
+dur: 1
+std: 30.84
+size: 1684154 (1.61 MiB)
+
+xmin: -0.8460814316222947
+xmax: -0.7992064316222947
+ymin: -0.6553114570183867
+ymax: -0.6289442695183867
+
+contrast: 1.54
+brightness: -0.07
+saturation: 1.56
+gamma: 1.07
+gamma_r: 1.02
+gamma_g: 1.1
+gamma_b: 1.02
+vignette: -27
+temp: 7082
