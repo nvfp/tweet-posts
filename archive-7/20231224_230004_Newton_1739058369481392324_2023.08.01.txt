@@ -1,0 +1,31 @@
+tweet_id: 1739058369481392324
+masto_id: 111637876213372883
+subre_id: Not uploaded, but here's the text: Let this Newton inspire your Sunday.  #MultiModal #DigitalArt #DeepLearning
+
+newton_power: 5
+newton_const: 6
+
+n_iter: 215
+ct: 255
+hue_offset: 200
+saturation: 0.65
+
+num_attempts: 203
+dur: 602
+std: 13.2
+size: 1176965 (1.12 MiB)
+
+xmin: -0.2955169973962568
+xmax: 0.10448300260374321
+ymin: -0.13206686389013722
+ymax: 0.09293313610986279
+
+contrast: 1.15
+brightness: -0.02
+saturation: 1.51
+gamma: 1.08
+gamma_r: 1.02
+gamma_g: 1.09
+gamma_b: 1.0
+vignette: 30
+temp: 5794
