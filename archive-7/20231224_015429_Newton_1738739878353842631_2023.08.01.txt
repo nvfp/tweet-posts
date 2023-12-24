@@ -1,0 +1,31 @@
+tweet_id: 1738739878353842631
+masto_id: 111632899722227070
+subre_id: Not uploaded, but here's the text: you are cool  #AI #GeneralIntelligence #DigitalArt
+
+newton_power: 5
+newton_const: 1
+
+n_iter: 253
+ct: 214
+hue_offset: 106
+saturation: -0.16
+
+num_attempts: 219
+dur: 601
+std: 13.0
+size: 1048735 (1.0 MiB)
+
+xmin: -0.7735374727387945
+xmax: 0.22646252726120553
+ymin: -0.28042590120691036
+ymax: 0.28207409879308964
+
+contrast: 1.11
+brightness: 0.2
+saturation: 0.77
+gamma: 1.01
+gamma_r: 1.08
+gamma_g: 0.92
+gamma_b: 1.1
+vignette: 16
+temp: 7763
