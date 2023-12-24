@@ -1,0 +1,28 @@
+tweet_id: 1738838813542117420
+masto_id: 111634445553823406
+subre_id: Not uploaded, but here's the text: Wishing you a rad Sunday!  #GenerativeArt #MultiModal #Fractals
+
+n_iter: 633
+ct: 45
+hue_offset: 345
+saturation: -0.16
+
+num_attempts: 34
+dur: 18
+std: 128.74
+size: 1061232 (1.01 MiB)
+
+xmin: -0.10302852976960297
+xmax: -0.10238482201292451
+ymin: 0.6495511579647706
+ymax: 0.6499132435779023
+
+contrast: 1.79
+brightness: 0.12
+saturation: 0.32
+gamma: 1.09
+gamma_r: 0.9
+gamma_g: 0.98
+gamma_b: 0.95
+vignette: -4
+temp: 5317
