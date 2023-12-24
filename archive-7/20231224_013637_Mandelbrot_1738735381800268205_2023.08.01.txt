@@ -1,0 +1,28 @@
+tweet_id: 1738735381800268205
+masto_id: 111632829492659060
+subre_id: Not uploaded, but here's the text: Keep shining on Sunday!  #GenerativeArt #DeepLearning #Fractals
+
+n_iter: 401
+ct: 250
+hue_offset: 70
+saturation: -0.51
+
+num_attempts: 17
+dur: 6
+std: 41.08
+size: 503004 (491.21 KiB)
+
+xmin: 0.1751563206067086
+xmax: 0.24788359333398133
+ymin: 0.5039595509313051
+ymax: 0.544868641840396
+
+contrast: 0.71
+brightness: 0.22
+saturation: 1.48
+gamma: 0.95
+gamma_r: 1.08
+gamma_g: 1.02
+gamma_b: 1.01
+vignette: 7
+temp: 3858
