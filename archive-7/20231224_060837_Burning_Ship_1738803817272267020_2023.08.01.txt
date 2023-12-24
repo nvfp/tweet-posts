@@ -1,0 +1,28 @@
+tweet_id: 1738803817272267020
+masto_id: 111633898996472339
+subre_id: Not uploaded, but here's the text: Cheers to a fantastic Sunday!  #AGI #GeneralIntelligence #AI
+
+n_iter: 396
+ct: 207
+hue_offset: 243
+saturation: -0.36
+
+num_attempts: 4
+dur: 2
+std: 33.38
+size: 876014 (855.48 KiB)
+
+xmin: -1.6886660726917246
+xmax: -0.18866607269172464
+ymin: -1.5001429008475593
+ymax: -0.6563929008475593
+
+contrast: 0.9
+brightness: -0.07
+saturation: 0.46
+gamma: 1.05
+gamma_r: 1.04
+gamma_g: 1.01
+gamma_b: 1.05
+vignette: 29
+temp: 6425
