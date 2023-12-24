@@ -1,0 +1,28 @@
+tweet_id: 1738842495641850144
+masto_id: 111634503036471300
+subre_id: Not uploaded, but here's the text: Chin up, buttercup!  #Art #AGI #Fractals
+
+n_iter: 493
+ct: 1
+hue_offset: 266
+saturation: 0.71
+
+num_attempts: 396
+dur: 606
+std: 74.14
+size: 626155 (611.48 KiB)
+
+xmin: -0.3500062559168782
+xmax: -0.34109756994805857
+ymin: -0.6567315854967298
+ymax: -0.6517204496392688
+
+contrast: 1.75
+brightness: 0.19
+saturation: 0.52
+gamma: 0.91
+gamma_r: 0.96
+gamma_g: 0.96
+gamma_b: 0.99
+vignette: -8
+temp: 3959
