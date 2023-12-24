@@ -1,0 +1,28 @@
+tweet_id: 1738863797182337370
+masto_id: 111634835947967918
+subre_id: Not uploaded, but here's the text: Look closely, it's Burning Ship!  #MultiModal #ArtificialIntelligence #Fractals
+
+n_iter: 418
+ct: 82
+hue_offset: 97
+saturation: -0.21
+
+num_attempts: 25
+dur: 8
+std: 30.48
+size: 793000 (774.41 KiB)
+
+xmin: -1.695493677168678
+xmax: 0.5545063228313221
+ymin: -1.6114904145132107
+ymax: -0.34586541451321073
+
+contrast: 1.35
+brightness: -0.04
+saturation: 0.73
+gamma: 1.09
+gamma_r: 0.9
+gamma_g: 0.92
+gamma_b: 1.05
+vignette: -28
+temp: 3293
