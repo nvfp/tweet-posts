@@ -1,0 +1,28 @@
+tweet_id: 1739050105003770008
+masto_id: 111637747136165573
+subre_id: Not uploaded, but here's the text: you are fantastic!  #AI #Nature #MultiModal
+
+n_iter: 239
+ct: 68
+hue_offset: 5
+saturation: 0.29
+
+num_attempts: 4
+dur: 0
+std: 28.78
+size: 936745 (914.79 KiB)
+
+xmin: -0.754310971332973
+xmax: -0.7452816259605125
+ymin: -0.1398561711698042
+ymax: -0.13477716439779516
+
+contrast: 1.39
+brightness: 0.09
+saturation: 0.26
+gamma: 0.98
+gamma_r: 1.08
+gamma_g: 1.04
+gamma_b: 1.01
+vignette: -32
+temp: 5718
