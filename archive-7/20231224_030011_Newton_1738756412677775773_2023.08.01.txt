@@ -1,0 +1,31 @@
+tweet_id: 1738756412677775773
+masto_id: 111633158099763741
+subre_id: Not uploaded, but here's the text: Cheers to a fantastic Sunday!  #GeneralIntelligence #GenerativeArt #Mathematics
+
+newton_power: 6
+newton_const: 10
+
+n_iter: 214
+ct: 36
+hue_offset: 41
+saturation: -0.31
+
+num_attempts: 192
+dur: 600
+std: 18.23
+size: 1062463 (1.01 MiB)
+
+xmin: 1.416394841130744
+xmax: 1.4429435136971158
+ymin: 0.19731726289782037
+ymax: 0.21225089121640445
+
+contrast: 1.45
+brightness: 0.16
+saturation: 1.51
+gamma: 1.09
+gamma_r: 0.9
+gamma_g: 1.05
+gamma_b: 1.03
+vignette: -8
+temp: 6667
