@@ -1,0 +1,28 @@
+tweet_id: 1738933042717102355
+masto_id: 111635917964096726
+subre_id: Not uploaded, but here's the text: Wishing you a joyful day!  #Fractals #GeneralIntelligence #Art
+
+n_iter: 269
+ct: 255
+hue_offset: 50
+saturation: -0.78
+
+num_attempts: 767
+dur: 604
+std: 51.54
+size: 1260387 (1.2 MiB)
+
+xmin: -0.2754299455298208
+xmax: -0.2691008316057702
+ymin: 0.7192727867838231
+ymax: 0.7228329133661016
+
+contrast: 0.91
+brightness: 0.2
+saturation: 1.32
+gamma: 0.97
+gamma_r: 0.94
+gamma_g: 0.91
+gamma_b: 0.92
+vignette: -34
+temp: 2505
