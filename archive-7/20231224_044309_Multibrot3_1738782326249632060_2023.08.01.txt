@@ -1,0 +1,28 @@
+tweet_id: 1738782326249632060
+masto_id: 111633562953455027
+subre_id: Not uploaded, but here's the text: Look closely, it's Multibrot!  #Fractals #Nature #MultiModal
+
+n_iter: 623
+ct: 255
+hue_offset: 54
+saturation: -0.84
+
+num_attempts: 397
+dur: 608
+std: 80.32
+size: 1212869 (1.16 MiB)
+
+xmin: -0.39107693062889703
+xmax: -0.3863875988586743
+ymin: -0.6798133214081808
+ymax: -0.6771755722874305
+
+contrast: 1.41
+brightness: -0.01
+saturation: 0.46
+gamma: 0.92
+gamma_r: 0.96
+gamma_g: 0.95
+gamma_b: 0.96
+vignette: 14
+temp: 3976
