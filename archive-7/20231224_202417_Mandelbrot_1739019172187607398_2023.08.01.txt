@@ -1,0 +1,28 @@
+tweet_id: 1739019172187607398
+masto_id: 111637263668724080
+subre_id: Not uploaded, but here's the text: Have an awesome Sunday!  #Art #ArtificialIntelligence #AGI
+
+n_iter: 635
+ct: 178
+hue_offset: 4
+saturation: -0.27
+
+num_attempts: 11
+dur: 6
+std: 94.57
+size: 1161320 (1.11 MiB)
+
+xmin: -0.7014768437084573
+xmax: -0.7008217503576548
+ymin: -0.2890005011169031
+ymax: -0.2886320111070767
+
+contrast: 1.1
+brightness: -0.01
+saturation: 1.72
+gamma: 0.91
+gamma_r: 0.9
+gamma_g: 1.02
+gamma_b: 0.94
+vignette: -16
+temp: 4874
