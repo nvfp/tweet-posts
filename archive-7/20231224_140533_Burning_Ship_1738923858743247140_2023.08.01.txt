@@ -1,0 +1,28 @@
+tweet_id: 1738923858743247140
+masto_id: 111635774387315400
+subre_id: Not uploaded, but here's the text: Keep shining on Sunday!  #MachineLearning #DigitalArt #Nature
+
+n_iter: 371
+ct: 171
+hue_offset: 153
+saturation: 0.27
+
+num_attempts: 2
+dur: 1
+std: 28.54
+size: 486048 (474.66 KiB)
+
+xmin: -1.955894838696562
+xmax: 0.294105161303438
+ymin: -1.335659628316789
+ymax: -0.07003462831678897
+
+contrast: 0.74
+brightness: 0.02
+saturation: 1.18
+gamma: 0.96
+gamma_r: 0.98
+gamma_g: 1.02
+gamma_b: 0.98
+vignette: 4
+temp: 7240
