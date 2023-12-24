@@ -1,0 +1,28 @@
+tweet_id: 1738869411409191194
+masto_id: 111634923702476543
+subre_id: Not uploaded, but here's the text: Hello Sunday! This Mandelbrot Set is yours!  #Art #AI #Fractals
+
+n_iter: 807
+ct: 200
+hue_offset: 295
+saturation: -0.22
+
+num_attempts: 94
+dur: 41
+std: 120.39
+size: 964893 (942.28 KiB)
+
+xmin: 0.2315109782260567
+xmax: 0.2326902235090756
+ymin: 0.520540248200521
+ymax: 0.5212035736722191
+
+contrast: 1.18
+brightness: -0.02
+saturation: 1.51
+gamma: 0.94
+gamma_r: 1.0
+gamma_g: 1.1
+gamma_b: 1.04
+vignette: 10
+temp: 4690
