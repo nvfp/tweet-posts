@@ -1,0 +1,31 @@
+tweet_id: 1738937649241723265
+masto_id: 111635989997904602
+subre_id: Not uploaded, but here's the text: Ever heard of this Newton?  #AI #DeepLearning #Mathematics
+
+newton_power: 7
+newton_const: -5
+
+n_iter: 151
+ct: 18
+hue_offset: 140
+saturation: -0.59
+
+num_attempts: 152
+dur: 602
+std: 29.14
+size: 1477998 (1.41 MiB)
+
+xmin: -1.3680591489893936
+xmax: -1.2728210537512985
+ymin: 1.6859102939136412
+ymax: 1.7394817224850698
+
+contrast: 1.41
+brightness: 0.13
+saturation: 0.61
+gamma: 1.01
+gamma_r: 0.97
+gamma_g: 1.09
+gamma_b: 1.06
+vignette: -20
+temp: 6803
