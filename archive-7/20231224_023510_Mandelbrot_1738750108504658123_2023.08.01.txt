@@ -1,0 +1,28 @@
+tweet_id: 1738750108504658123
+masto_id: 111633059647730666
+subre_id: Not uploaded, but here's the text: Hey wait, look! it's Mandelbrot Set!  #Fractals #DeepLearning #MachineLearning
+
+n_iter: 1009
+ct: 161
+hue_offset: 84
+saturation: 0.13
+
+num_attempts: 28
+dur: 29
+std: 119.33
+size: 1462391 (1.39 MiB)
+
+xmin: -0.06265038055969185
+xmax: -0.06197845044042426
+ymin: -0.6522421109244406
+ymax: -0.6518641502323526
+
+contrast: 0.73
+brightness: 0.17
+saturation: 0.26
+gamma: 0.99
+gamma_r: 0.97
+gamma_g: 1.03
+gamma_b: 1.03
+vignette: -20
+temp: 6266
