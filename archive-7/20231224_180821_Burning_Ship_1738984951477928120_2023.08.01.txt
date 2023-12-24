@@ -1,0 +1,28 @@
+tweet_id: 1738984951477928120
+masto_id: 111636728969286851
+subre_id: Not uploaded, but here's the text: Let this Burning Ship brighten up your Sunday!  #MultiModal #MachineLearning #Fractals
+
+n_iter: 342
+ct: 207
+hue_offset: 207
+saturation: -0.62
+
+num_attempts: 26
+dur: 9
+std: 48.25
+size: 1964081 (1.87 MiB)
+
+xmin: -1.0862940695948902
+xmax: -0.677203160503981
+ymin: -0.8222700160970529
+ymax: -0.5921563797334165
+
+contrast: 0.87
+brightness: 0.2
+saturation: 0.37
+gamma: 1.02
+gamma_r: 1.06
+gamma_g: 0.94
+gamma_b: 1.07
+vignette: -41
+temp: 2707
