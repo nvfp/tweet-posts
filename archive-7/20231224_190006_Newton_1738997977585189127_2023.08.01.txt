@@ -1,0 +1,31 @@
+tweet_id: 1738997977585189127
+masto_id: FAIL
+subre_id: Not uploaded, but here's the text: Smile!  #MultiModal #DigitalArt #AI
+
+newton_power: 7
+newton_const: 4
+
+n_iter: 111
+ct: 64
+hue_offset: 160
+saturation: 0.8
+
+num_attempts: 142
+dur: 601
+std: 29.68
+size: 456315 (445.62 KiB)
+
+xmin: 0.040447290335107855
+xmax: 0.06092510603476656
+ymin: -0.010113955769253558
+ymax: 0.0014048155618044626
+
+contrast: 0.98
+brightness: 0.12
+saturation: 0.87
+gamma: 1.1
+gamma_r: 0.95
+gamma_g: 0.97
+gamma_b: 1.08
+vignette: 31
+temp: 7385
