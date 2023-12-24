@@ -1,0 +1,31 @@
+tweet_id: 1738816756091965705
+masto_id: 111634100976400230
+subre_id: Not uploaded, but here's the text: Having a blast on Sunday?  #Nature #DigitalArt #AI
+
+newton_power: 5
+newton_const: -3
+
+n_iter: 96
+ct: 11
+hue_offset: 46
+saturation: 0.74
+
+num_attempts: 222
+dur: 601
+std: 15.03
+size: 1025990 (1001.94 KiB)
+
+xmin: -0.38749678164212087
+xmax: -0.3535984765573751
+ymin: -1.7070100736190468
+ymax: -1.6879422770088772
+
+contrast: 1.53
+brightness: 0.06
+saturation: 1.45
+gamma: 0.97
+gamma_r: 0.96
+gamma_g: 0.96
+gamma_b: 1.03
+vignette: -13
+temp: 5032
