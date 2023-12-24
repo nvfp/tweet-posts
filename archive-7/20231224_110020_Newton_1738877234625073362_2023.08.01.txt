@@ -1,0 +1,31 @@
+tweet_id: 1738877234625073362
+masto_id: 111635046091093142
+subre_id: Not uploaded, but here's the text: You are lovely!  #MachineLearning #GeneralIntelligence #AI
+
+newton_power: 7
+newton_const: 7
+
+n_iter: 215
+ct: 185
+hue_offset: 90
+saturation: 0.98
+
+num_attempts: 171
+dur: 600
+std: 23.09
+size: 1145097 (1.09 MiB)
+
+xmin: 0.55219956979944
+xmax: 0.5649655272462485
+ymin: 0.3167690491264632
+ymax: 0.32394990019029296
+
+contrast: 0.74
+brightness: 0.03
+saturation: 1.5
+gamma: 0.9
+gamma_r: 1.07
+gamma_g: 0.91
+gamma_b: 1.02
+vignette: -36
+temp: 7535
