@@ -1,0 +1,28 @@
+tweet_id: 1738895132626198582
+masto_id: 111635325636758135
+subre_id: Not uploaded, but here's the text: Wishing you a rad Sunday!  #AGI #Nature #GeneralIntelligence
+
+n_iter: 262
+ct: 119
+hue_offset: 161
+saturation: 0.46
+
+num_attempts: 1
+dur: 0
+std: 22.46
+size: 677779 (661.89 KiB)
+
+xmin: 0.24871959445263414
+xmax: 0.29659193487816604
+ymin: -0.1237055531967135
+ymax: -0.0967773617073518
+
+contrast: 1.15
+brightness: 0.1
+saturation: 1.72
+gamma: 1.05
+gamma_r: 1.01
+gamma_g: 0.96
+gamma_b: 1.01
+vignette: 9
+temp: 5719
