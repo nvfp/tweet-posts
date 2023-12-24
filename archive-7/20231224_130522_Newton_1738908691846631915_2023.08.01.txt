@@ -1,0 +1,31 @@
+tweet_id: 1738908691846631915
+masto_id: 111635537713390555
+subre_id: Not uploaded, but here's the text: Have an extraordinary Sunday!  #Art #AGI #DeepLearning
+
+newton_power: 3
+newton_const: -4
+
+n_iter: 133
+ct: 208
+hue_offset: 244
+saturation: -0.66
+
+num_attempts: 541
+dur: 600
+std: 4.47
+size: 603421 (589.28 KiB)
+
+xmin: -0.3655803481842841
+xmax: 0.009419651815715913
+ymin: -0.14670766406607605
+ymax: 0.06422983593392395
+
+contrast: 1.5
+brightness: 0.22
+saturation: 0.84
+gamma: 0.98
+gamma_r: 1.07
+gamma_g: 0.95
+gamma_b: 1.02
+vignette: 10
+temp: 3612
