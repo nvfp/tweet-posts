@@ -1,0 +1,28 @@
+tweet_id: 1738902839798173782
+masto_id: 111635445971535472
+subre_id: Not uploaded, but here's the text: Wow, take a look! There's Mandelbrot Set!  #VisualArt #AGI #Nature
+
+n_iter: 588
+ct: 224
+hue_offset: 153
+saturation: -0.22
+
+num_attempts: 226
+dur: 101
+std: 67.68
+size: 1369805 (1.31 MiB)
+
+xmin: -0.5235999963542683
+xmax: -0.490266663020935
+ymin: 0.5994590479839226
+ymax: 0.6182090479839226
+
+contrast: 1.78
+brightness: 0.07
+saturation: 1.24
+gamma: 1.07
+gamma_r: 0.97
+gamma_g: 0.93
+gamma_b: 0.97
+vignette: -46
+temp: 7687
