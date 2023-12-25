@@ -1,0 +1,28 @@
+tweet_id: 1739144887856222497
+masto_id: FAIL
+subre_id: Not uploaded, but here's the text: Hey there, it's Monday!  #MachineLearning #DeepLearning #MultiModal
+
+n_iter: 293
+ct: 1
+hue_offset: 342
+saturation: 0.44
+
+num_attempts: 780
+dur: 603
+std: 50.24
+size: 841705 (821.98 KiB)
+
+xmin: 0.5211917840250933
+xmax: 0.5329564899074462
+ymin: -0.40502906091596835
+ymax: -0.39841141385714485
+
+contrast: 1.41
+brightness: -0.05
+saturation: 1.17
+gamma: 1.03
+gamma_r: 0.97
+gamma_g: 0.91
+gamma_b: 1.03
+vignette: -31
+temp: 4179
