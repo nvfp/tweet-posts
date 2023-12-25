@@ -1,0 +1,28 @@
+tweet_id: 1739100091628040555
+masto_id: 111638528021380502
+subre_id: Not uploaded, but here's the text: Look closely, it's Multibrot!  #ArtificialIntelligence #AGI #Nature
+
+n_iter: 354
+ct: 255
+hue_offset: 258
+saturation: -0.01
+
+num_attempts: 663
+dur: 600
+std: 66.59
+size: 1292616 (1.23 MiB)
+
+xmin: -0.29565665102321415
+xmax: -0.2914103665221526
+ymin: -0.691969475606357
+ymax: -0.6895809405745099
+
+contrast: 0.74
+brightness: -0.09
+saturation: 1.42
+gamma: 1.07
+gamma_r: 1.09
+gamma_g: 0.97
+gamma_b: 1.09
+vignette: -28
+temp: 4973
