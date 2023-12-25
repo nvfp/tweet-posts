@@ -1,0 +1,31 @@
+tweet_id: 1739209433928868293
+masto_id: 111640236731418912
+subre_id: Not uploaded, but here's the text: Smile!  #DeepLearning #Fractals #Mathematics
+
+newton_power: 3
+newton_const: 8
+
+n_iter: 240
+ct: 58
+hue_offset: 268
+saturation: 0.19
+
+num_attempts: 525
+dur: 600
+std: 4.08
+size: 842250 (822.51 KiB)
+
+xmin: -0.7978883979235629
+xmax: -0.7893413893765544
+ymin: 1.5754586653237657
+ymax: 1.580266357631458
+
+contrast: 1.23
+brightness: 0.05
+saturation: 0.55
+gamma: 1.06
+gamma_r: 1.02
+gamma_g: 1.01
+gamma_b: 1.06
+vignette: -17
+temp: 6878
