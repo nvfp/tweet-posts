@@ -1,0 +1,28 @@
+tweet_id: 1739377312054079506
+masto_id: 111642859631984282
+subre_id: Not uploaded, but here's the text: Let's rock this Monday!  #Mathematics #DigitalArt #MultiModal
+
+n_iter: 466
+ct: 1
+hue_offset: 269
+saturation: 0.23
+
+num_attempts: 2
+dur: 1
+std: 75.39
+size: 1656763 (1.58 MiB)
+
+xmin: -1.5190255175809122
+xmax: -1.4605839591393537
+ymin: -0.10638523129750554
+ymax: -0.07351185467412892
+
+contrast: 1.44
+brightness: 0.11
+saturation: 0.74
+gamma: 0.97
+gamma_r: 1.1
+gamma_g: 1.03
+gamma_b: 1.01
+vignette: -41
+temp: 2944
