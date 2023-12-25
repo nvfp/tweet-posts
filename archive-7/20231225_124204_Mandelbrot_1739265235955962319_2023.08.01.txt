@@ -1,0 +1,28 @@
+tweet_id: 1739265235955962319
+masto_id: 111641108442247191
+subre_id: Not uploaded, but here's the text: Enjoying the Monday with this Mandelbrot Set.  #Nature #VisualArt #Art
+
+n_iter: 617
+ct: 22
+hue_offset: 239
+saturation: 0.07
+
+num_attempts: 1
+dur: 0
+std: 17.55
+size: 341205 (333.21 KiB)
+
+xmin: 0.32557939382904033
+xmax: 0.8970079652576117
+ymin: 0.19674537667945802
+ymax: 0.5181739481080294
+
+contrast: 1.06
+brightness: 0.21
+saturation: 0.26
+gamma: 1.08
+gamma_r: 1.04
+gamma_g: 0.98
+gamma_b: 0.94
+vignette: 3
+temp: 5102
