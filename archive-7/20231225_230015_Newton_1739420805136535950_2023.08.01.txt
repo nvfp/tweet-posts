@@ -1,0 +1,31 @@
+tweet_id: 1739420805136535950
+masto_id: 111643539248941872
+subre_id: Not uploaded, but here's the text: Hey wait, look! it's Newton!  #Art #ArtificialIntelligence #AGI
+
+newton_power: 5
+newton_const: -10
+
+n_iter: 155
+ct: 103
+hue_offset: 268
+saturation: -0.39
+
+num_attempts: 214
+dur: 603
+std: 11.97
+size: 1151957 (1.1 MiB)
+
+xmin: 2.158065846014071
+xmax: 2.2126113005595256
+ymin: 1.638869717551657
+ymax: 1.6695515357334751
+
+contrast: 1.57
+brightness: 0.11
+saturation: 1.67
+gamma: 1.03
+gamma_r: 1.01
+gamma_g: 0.97
+gamma_b: 0.94
+vignette: -31
+temp: 6732
