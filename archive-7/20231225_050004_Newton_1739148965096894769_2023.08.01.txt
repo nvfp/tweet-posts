@@ -1,0 +1,31 @@
+tweet_id: 1739148965096894769
+masto_id: 111639291755756119
+subre_id: Not uploaded, but here's the text: Smile!  #MultiModal #DigitalArt #GenerativeArt
+
+newton_power: 5
+newton_const: 2
+
+n_iter: 173
+ct: 58
+hue_offset: 303
+saturation: 0.81
+
+num_attempts: 209
+dur: 604
+std: 12.61
+size: 941172 (919.11 KiB)
+
+xmin: -0.8302268288471124
+xmax: -0.8163057151580173
+ymin: -0.8485216278674441
+ymax: -0.8406910014173281
+
+contrast: 1.31
+brightness: 0.0
+saturation: 1.51
+gamma: 1.1
+gamma_r: 0.92
+gamma_g: 1.06
+gamma_b: 1.09
+vignette: 10
+temp: 3725
