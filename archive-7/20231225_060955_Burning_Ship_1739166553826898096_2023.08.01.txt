@@ -1,0 +1,28 @@
+tweet_id: 1739166553826898096
+masto_id: 111639566467183729
+subre_id: Not uploaded, but here's the text: Cheers to a fantastic Monday!  #MachineLearning #MultiModal #Fractals
+
+n_iter: 481
+ct: 9
+hue_offset: 292
+saturation: 0.62
+
+num_attempts: 1
+dur: 0
+std: 57.05
+size: 2169077 (2.07 MiB)
+
+xmin: 0.5904885221045371
+xmax: 0.7635654451814602
+ymin: -1.267841366174805
+ymax: -1.1704855969440358
+
+contrast: 0.71
+brightness: 0.06
+saturation: 0.44
+gamma: 0.98
+gamma_r: 1.08
+gamma_g: 0.95
+gamma_b: 1.03
+vignette: 19
+temp: 5132
