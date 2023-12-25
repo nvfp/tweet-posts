@@ -1,0 +1,28 @@
+tweet_id: 1739097163471409510
+masto_id: 111638482329478913
+subre_id: Not uploaded, but here's the text: This Monday is made even better by this Mandelbrot Set!  #VisualArt #DeepLearning #AI
+
+n_iter: 779
+ct: 161
+hue_offset: 51
+saturation: -0.75
+
+num_attempts: 50
+dur: 28
+std: 42.6
+size: 1137070 (1.08 MiB)
+
+xmin: 0.2377210091152797
+xmax: 0.23865624409306788
+ymin: -0.5589809423313523
+ymax: -0.5584548726563465
+
+contrast: 1.11
+brightness: -0.07
+saturation: 1.66
+gamma: 1.03
+gamma_r: 0.91
+gamma_g: 0.93
+gamma_b: 0.97
+vignette: -16
+temp: 3550
