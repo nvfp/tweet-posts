@@ -1,0 +1,28 @@
+tweet_id: 1739381869643460632
+masto_id: 111642930876545497
+subre_id: Not uploaded, but here's the text: you are fantastic!  #GeneralIntelligence #Mathematics #DigitalArt
+
+n_iter: 957
+ct: 13
+hue_offset: 195
+saturation: -0.17
+
+num_attempts: 41
+dur: 39
+std: 192.7
+size: 1721599 (1.64 MiB)
+
+xmin: 0.37266107991988306
+xmax: 0.3732888263103413
+ymin: 0.2608883353226903
+ymax: 0.2612414426673231
+
+contrast: 1.3
+brightness: 0.16
+saturation: 1.02
+gamma: 1.05
+gamma_r: 1.06
+gamma_g: 1.05
+gamma_b: 1.04
+vignette: 27
+temp: 7990
