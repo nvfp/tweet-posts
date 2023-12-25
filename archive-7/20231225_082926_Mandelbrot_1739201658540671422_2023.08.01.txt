@@ -1,0 +1,28 @@
+tweet_id: 1739201658540671422
+masto_id: 111640115044500207
+subre_id: Not uploaded, but here's the text: Hey there, it's Monday!  #Mathematics #ArtificialIntelligence #MultiModal
+
+n_iter: 245
+ct: 41
+hue_offset: 278
+saturation: 0.86
+
+num_attempts: 51
+dur: 13
+std: 31.93
+size: 1277246 (1.22 MiB)
+
+xmin: -0.981200238573682
+xmax: -0.9792219992067186
+ymin: 0.2790314744995239
+ymax: 0.28014423414344086
+
+contrast: 1.76
+brightness: 0.06
+saturation: 1.52
+gamma: 1.02
+gamma_r: 1.09
+gamma_g: 0.98
+gamma_b: 1.0
+vignette: -12
+temp: 3322
