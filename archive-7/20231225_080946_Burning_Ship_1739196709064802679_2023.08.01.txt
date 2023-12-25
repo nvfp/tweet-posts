@@ -1,0 +1,28 @@
+tweet_id: 1739196709064802679
+masto_id: 111640037699529627
+subre_id: Not uploaded, but here's the text: Guess what? It's Burning Ship!  #Nature #DigitalArt #AGI
+
+n_iter: 302
+ct: 161
+hue_offset: 175
+saturation: 0.85
+
+num_attempts: 2
+dur: 0
+std: 21.96
+size: 1883215 (1.8 MiB)
+
+xmin: -0.7397754496513891
+xmax: -0.679775449651389
+ymin: -0.9745350434702635
+ymax: -0.9407850434702636
+
+contrast: 1.72
+brightness: 0.1
+saturation: 0.95
+gamma: 1.04
+gamma_r: 1.05
+gamma_g: 1.0
+gamma_b: 1.0
+vignette: -14
+temp: 6468
