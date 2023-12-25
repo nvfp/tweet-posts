@@ -1,0 +1,28 @@
+tweet_id: 1739115936383410673
+masto_id: 111638775639831527
+subre_id: Not uploaded, but here's the text: Chin up, buttercup!  #Fractals #MultiModal #GeneralIntelligence
+
+n_iter: 600
+ct: 1
+hue_offset: 44
+saturation: 0.08
+
+num_attempts: 417
+dur: 603
+std: 87.1
+size: 608269 (594.01 KiB)
+
+xmin: -0.4970022161375136
+xmax: -0.4906530097883073
+ymin: -0.48275785098311363
+ymax: -0.4791864224116851
+
+contrast: 0.75
+brightness: 0.12
+saturation: 0.51
+gamma: 1.02
+gamma_r: 0.92
+gamma_g: 0.97
+gamma_b: 1.0
+vignette: -4
+temp: 4117
