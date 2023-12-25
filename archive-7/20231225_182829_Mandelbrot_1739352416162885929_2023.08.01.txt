@@ -1,0 +1,28 @@
+tweet_id: 1739352416162885929
+masto_id: 111642470625854079
+subre_id: Not uploaded, but here's the text: Another Monday, another Mandelbrot Set!  #GeneralIntelligence #AI #ArtificialIntelligence
+
+n_iter: 727
+ct: 163
+hue_offset: 204
+saturation: -0.11
+
+num_attempts: 32
+dur: 15
+std: 150.57
+size: 1379363 (1.32 MiB)
+
+xmin: -0.5329577580271203
+xmax: -0.5318609661433803
+ymin: 0.590197079369102
+ymax: 0.5908140248037058
+
+contrast: 1.5
+brightness: 0.09
+saturation: 1.18
+gamma: 1.08
+gamma_r: 0.96
+gamma_g: 0.93
+gamma_b: 1.0
+vignette: -24
+temp: 3787
