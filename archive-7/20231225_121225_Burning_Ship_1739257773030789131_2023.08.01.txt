@@ -1,0 +1,28 @@
+tweet_id: 1739257773030789131
+masto_id: 111640991840619599
+subre_id: Not uploaded, but here's the text: Chin up, buttercup!  #ArtificialIntelligence #AGI #Mathematics
+
+n_iter: 279
+ct: 223
+hue_offset: 74
+saturation: 0.14
+
+num_attempts: 39
+dur: 8
+std: 22.41
+size: 607837 (593.59 KiB)
+
+xmin: -1.2934338811918253
+xmax: 0.9565661188081747
+ymin: -1.1408759951055063
+ymax: 0.1247490048944937
+
+contrast: 1.11
+brightness: 0.13
+saturation: 1.26
+gamma: 0.98
+gamma_r: 0.93
+gamma_g: 0.91
+gamma_b: 1.09
+vignette: 8
+temp: 7569
