@@ -1,0 +1,28 @@
+tweet_id: 1739286489584845122
+masto_id: 111641440578199524
+subre_id: Not uploaded, but here's the text: Feeling the Burning Ship vibes today!  #AGI #ArtificialIntelligence #Mathematics
+
+n_iter: 479
+ct: 193
+hue_offset: 323
+saturation: 0.98
+
+num_attempts: 5
+dur: 3
+std: 75.19
+size: 2105752 (2.01 MiB)
+
+xmin: -0.6129434691376527
+xmax: -0.5660684691376527
+ymin: -0.8179122263356768
+ymax: -0.7915450388356768
+
+contrast: 0.75
+brightness: -0.06
+saturation: 0.47
+gamma: 1.0
+gamma_r: 0.92
+gamma_g: 1.09
+gamma_b: 1.01
+vignette: -41
+temp: 4622
