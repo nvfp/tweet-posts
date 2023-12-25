@@ -1,0 +1,31 @@
+tweet_id: 1739271452526797118
+masto_id: 111641205560774148
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Monday!  #AI #GeneralIntelligence #Fractals
+
+newton_power: 5
+newton_const: -7
+
+n_iter: 110
+ct: 155
+hue_offset: 24
+saturation: 0.09
+
+num_attempts: 223
+dur: 602
+std: 13.22
+size: 761032 (743.2 KiB)
+
+xmin: 0.5830494524748522
+xmax: 1.0116208810462808
+ymin: 0.5042837115170511
+ymax: 0.7453551400884797
+
+contrast: 1.79
+brightness: -0.09
+saturation: 1.16
+gamma: 1.05
+gamma_r: 1.03
+gamma_g: 0.97
+gamma_b: 0.95
+vignette: -9
+temp: 3594
