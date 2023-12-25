@@ -1,0 +1,28 @@
+tweet_id: 1739291702609805740
+masto_id: 111641522109770319
+subre_id: Not uploaded, but here's the text: Have an awesome day!  #DigitalArt #Mathematics #Nature
+
+n_iter: 381
+ct: 162
+hue_offset: 192
+saturation: 0.17
+
+num_attempts: 40
+dur: 17
+std: 45.69
+size: 1464245 (1.4 MiB)
+
+xmin: -0.3878965461140096
+xmax: -0.386690273496398
+ymin: -0.6244101246606274
+ymax: -0.6237315963132208
+
+contrast: 1.72
+brightness: 0.06
+saturation: 0.97
+gamma: 0.95
+gamma_r: 1.06
+gamma_g: 0.94
+gamma_b: 0.91
+vignette: -32
+temp: 5151
