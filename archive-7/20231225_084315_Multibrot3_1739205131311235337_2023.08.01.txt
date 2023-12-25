@@ -1,0 +1,28 @@
+tweet_id: 1739205131311235337
+masto_id: 111640169369859266
+subre_id: Not uploaded, but here's the text: Monday is shining brightly, just like this Multibrot.  #MultiModal #DeepLearning #Fractals
+
+n_iter: 569
+ct: 1
+hue_offset: 66
+saturation: 0.46
+
+num_attempts: 422
+dur: 604
+std: 73.8
+size: 906569 (885.32 KiB)
+
+xmin: 0.537883025261217
+xmax: 0.5428581496393264
+ymin: -0.3873091932398367
+ymax: -0.38451068577715014
+
+contrast: 1.43
+brightness: 0.21
+saturation: 1.55
+gamma: 0.94
+gamma_r: 1.0
+gamma_g: 1.08
+gamma_b: 0.91
+vignette: 8
+temp: 2013
