@@ -1,0 +1,28 @@
+tweet_id: 1739226430620532929
+masto_id: 111640502093019286
+subre_id: Not uploaded, but here's the text: Today is awesome!  #Mathematics #AGI #MachineLearning
+
+n_iter: 191
+ct: 93
+hue_offset: 228
+saturation: 0.09
+
+num_attempts: 9
+dur: 3
+std: 32.03
+size: 1565487 (1.49 MiB)
+
+xmin: -0.9888760546029192
+xmax: -0.9319140292864635
+ymin: -0.6130641587252592
+ymax: -0.5810230194847529
+
+contrast: 1.52
+brightness: 0.14
+saturation: 0.29
+gamma: 1.08
+gamma_r: 1.07
+gamma_g: 1.05
+gamma_b: 1.05
+vignette: 25
+temp: 7302
