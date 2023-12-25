@@ -1,0 +1,28 @@
+tweet_id: 1739141520987652249
+masto_id: 111639175485946658
+subre_id: Not uploaded, but here's the text: Beautiful Monday with this Mandelbrot Set!  #GenerativeArt #Mathematics #DeepLearning
+
+n_iter: 551
+ct: 158
+hue_offset: 46
+saturation: 0.36
+
+num_attempts: 137
+dur: 50
+std: 98.21
+size: 1898937 (1.81 MiB)
+
+xmin: -0.5352999498602213
+xmax: -0.5340305115866574
+ymin: 0.49225167019919125
+ymax: 0.49296572922807097
+
+contrast: 1.73
+brightness: 0.19
+saturation: 1.58
+gamma: 0.97
+gamma_r: 0.98
+gamma_g: 1.05
+gamma_b: 1.09
+vignette: -47
+temp: 4155
