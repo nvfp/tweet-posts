@@ -1,0 +1,28 @@
+tweet_id: 1739412646758146339
+masto_id: 111643411955113210
+subre_id: Not uploaded, but here's the text: you are fantastic!  #MultiModal #Nature #Mathematics
+
+n_iter: 320
+ct: 241
+hue_offset: 201
+saturation: -0.49
+
+num_attempts: 24
+dur: 8
+std: 25.85
+size: 688015 (671.89 KiB)
+
+xmin: -0.9812513925842348
+xmax: -0.9806995923359246
+ymin: 0.2831625179550348
+ymax: 0.2834729055947092
+
+contrast: 1.53
+brightness: 0.16
+saturation: 0.48
+gamma: 0.94
+gamma_r: 0.97
+gamma_g: 1.08
+gamma_b: 0.91
+vignette: 14
+temp: 2105
