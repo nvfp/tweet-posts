@@ -1,0 +1,31 @@
+tweet_id: 1739633672473763870
+masto_id: 111646865254110362
+subre_id: Not uploaded, but here's the text: Hello Tuesday! This Newton is yours!  #DeepLearning #VisualArt #ArtificialIntelligence
+
+newton_power: 6
+newton_const: -1
+
+n_iter: 102
+ct: 59
+hue_offset: 309
+saturation: -0.87
+
+num_attempts: 186
+dur: 603
+std: 14.47
+size: 1135410 (1.08 MiB)
+
+xmin: -2.277301895545715
+xmax: -2.269706958836854
+ymin: -1.500942341061668
+ymax: -1.496670189162934
+
+contrast: 1.11
+brightness: -0.01
+saturation: 0.97
+gamma: 1.08
+gamma_r: 1.01
+gamma_g: 0.96
+gamma_b: 0.93
+vignette: 9
+temp: 2688
