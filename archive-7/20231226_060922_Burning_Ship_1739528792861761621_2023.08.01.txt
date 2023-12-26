@@ -1,0 +1,28 @@
+tweet_id: 1739528792861761621
+masto_id: 111645226546014144
+subre_id: Not uploaded, but here's the text: You rock, and so does this Tuesday!  #Art #GeneralIntelligence #Mathematics
+
+n_iter: 430
+ct: 237
+hue_offset: 218
+saturation: -0.99
+
+num_attempts: 3
+dur: 0
+std: 24.59
+size: 513385 (501.35 KiB)
+
+xmin: -0.5648914431164433
+xmax: 1.6851085568835567
+ymin: -2.010548950644598
+ymax: -0.7449239506445982
+
+contrast: 1.48
+brightness: 0.02
+saturation: 0.74
+gamma: 0.92
+gamma_r: 0.96
+gamma_g: 0.92
+gamma_b: 1.02
+vignette: -8
+temp: 6542
