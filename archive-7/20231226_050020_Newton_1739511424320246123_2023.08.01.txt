@@ -1,0 +1,31 @@
+tweet_id: 1739511424320246123
+masto_id: 111644955141453571
+subre_id: Not uploaded, but here's the text: Wishing you a rad Tuesday!  #Art #AGI #AI
+
+newton_power: 7
+newton_const: 10
+
+n_iter: 222
+ct: 71
+hue_offset: 161
+saturation: 0.16
+
+num_attempts: 150
+dur: 602
+std: 23.42
+size: 1245331 (1.19 MiB)
+
+xmin: -0.36434957125711387
+xmax: -0.06434957125711388
+ymin: 1.0020530019164586
+ymax: 1.1708030019164586
+
+contrast: 1.09
+brightness: 0.12
+saturation: 1.21
+gamma: 1.0
+gamma_r: 0.91
+gamma_g: 1.09
+gamma_b: 1.1
+vignette: 12
+temp: 4852
