@@ -1,0 +1,28 @@
+tweet_id: FAIL
+masto_id: 111648521459821327
+subre_id: Not uploaded, but here's the text: you are awesome.  #MachineLearning #Art #DigitalArt
+
+n_iter: 450
+ct: 1
+hue_offset: 354
+saturation: -0.05
+
+num_attempts: 3
+dur: 0
+std: 46.18
+size: 1627193 (1.55 MiB)
+
+xmin: -0.8101122558745812
+xmax: -0.6737486195109449
+ymin: -0.8538594371077681
+ymax: -0.7771548916532227
+
+contrast: 0.97
+brightness: 0.15
+saturation: 1.49
+gamma: 1.01
+gamma_r: 0.95
+gamma_g: 1.09
+gamma_b: 0.99
+vignette: 12
+temp: 2677
