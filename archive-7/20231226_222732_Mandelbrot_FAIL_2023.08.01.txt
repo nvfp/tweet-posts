@@ -1,0 +1,28 @@
+tweet_id: FAIL
+masto_id: 111649072888793258
+subre_id: Not uploaded, but here's the text: Happy Tuesday!  #DigitalArt #MachineLearning #AI
+
+n_iter: 227
+ct: 6
+hue_offset: 268
+saturation: -0.24
+
+num_attempts: 19
+dur: 6
+std: 72.02
+size: 254001 (248.05 KiB)
+
+xmin: -0.16377501981832943
+xmax: -0.1632670833103929
+ymin: 0.6492385797393196
+ymax: 0.649524294025034
+
+contrast: 0.94
+brightness: -0.08
+saturation: 0.79
+gamma: 0.93
+gamma_r: 0.97
+gamma_g: 0.95
+gamma_b: 0.99
+vignette: -6
+temp: 5905
