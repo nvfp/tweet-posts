@@ -1,0 +1,28 @@
+tweet_id: 1739594313938690093
+masto_id: 111646250407058963
+subre_id: Not uploaded, but here's the text: Chin up, buttercup!  #ArtificialIntelligence #MultiModal #AI
+
+n_iter: 446
+ct: 10
+hue_offset: 256
+saturation: -0.3
+
+num_attempts: 37
+dur: 9
+std: 15.31
+size: 715952 (699.17 KiB)
+
+xmin: 0.3676659777507587
+xmax: 0.3681540206985381
+ymin: -0.1384843115483606
+ymax: -0.13820978739023468
+
+contrast: 1.08
+brightness: 0.08
+saturation: 0.88
+gamma: 1.0
+gamma_r: 0.93
+gamma_g: 1.05
+gamma_b: 1.0
+vignette: -38
+temp: 2611
