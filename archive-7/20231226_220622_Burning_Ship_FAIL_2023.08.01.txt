@@ -1,0 +1,28 @@
+tweet_id: FAIL
+masto_id: 111648989677691316
+subre_id: Not uploaded, but here's the text: Surprise! It's a Burning Ship!  #ArtificialIntelligence #MachineLearning #VisualArt
+
+n_iter: 230
+ct: 49
+hue_offset: 134
+saturation: -0.38
+
+num_attempts: 4
+dur: 0
+std: 34.69
+size: 1843008 (1.76 MiB)
+
+xmin: -1.158978357533482
+xmax: -0.971478357533482
+ymin: -0.6109851341618362
+ymax: -0.5055163841618362
+
+contrast: 0.91
+brightness: -0.09
+saturation: 0.74
+gamma: 0.92
+gamma_r: 1.08
+gamma_g: 0.9
+gamma_b: 0.98
+vignette: 9
+temp: 4912
