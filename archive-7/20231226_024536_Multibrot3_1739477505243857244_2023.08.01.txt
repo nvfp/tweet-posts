@@ -1,0 +1,28 @@
+tweet_id: 1739477505243857244
+masto_id: 111644425366374249
+subre_id: Not uploaded, but here's the text: Let's make it a memorable Tuesday!  #AI #Art #GeneralIntelligence
+
+n_iter: 601
+ct: 1
+hue_offset: 7
+saturation: 0.99
+
+num_attempts: 367
+dur: 601
+std: 66.77
+size: 1110725 (1.06 MiB)
+
+xmin: -0.47232030987854
+xmax: -0.4591189897465268
+ymin: -0.5452767749201094
+ymax: -0.537851032345852
+
+contrast: 0.79
+brightness: 0.19
+saturation: 0.4
+gamma: 0.94
+gamma_r: 1.07
+gamma_g: 0.93
+gamma_b: 1.03
+vignette: -21
+temp: 3337
