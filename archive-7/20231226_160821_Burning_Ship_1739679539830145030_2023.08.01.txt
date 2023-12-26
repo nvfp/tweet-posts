@@ -1,0 +1,28 @@
+tweet_id: 1739679539830145030
+masto_id: 111647581882008520
+subre_id: Not uploaded, but here's the text: Another Tuesday, another Burning Ship!  #GenerativeArt #VisualArt #AGI
+
+n_iter: 478
+ct: 137
+hue_offset: 294
+saturation: -0.81
+
+num_attempts: 49
+dur: 16
+std: 65.86
+size: 908810 (887.51 KiB)
+
+xmin: -1.4914703917615846
+xmax: -1.4455520244146458
+ymin: -0.11994694347755708
+ymax: -0.09411786184490402
+
+contrast: 1.61
+brightness: 0.12
+saturation: 0.33
+gamma: 0.96
+gamma_r: 1.09
+gamma_g: 1.05
+gamma_b: 1.03
+vignette: 0
+temp: 7469
