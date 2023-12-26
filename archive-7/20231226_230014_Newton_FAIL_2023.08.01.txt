@@ -1,0 +1,31 @@
+tweet_id: FAIL
+masto_id: 111649201459892824
+subre_id: Not uploaded, but here's the text: Hey there, it's Tuesday!  #MachineLearning #DeepLearning #Fractals
+
+newton_power: 7
+newton_const: -5
+
+n_iter: 220
+ct: 57
+hue_offset: 130
+saturation: 0.13
+
+num_attempts: 147
+dur: 604
+std: 26.47
+size: 904414 (883.22 KiB)
+
+xmin: -1.6748398338826411
+xmax: -1.5796017386445458
+ymin: 1.942058548309722
+ymax: 1.9956299768811505
+
+contrast: 1.54
+brightness: 0.21
+saturation: 0.87
+gamma: 0.91
+gamma_r: 0.95
+gamma_g: 0.95
+gamma_b: 0.99
+vignette: 9
+temp: 6538
