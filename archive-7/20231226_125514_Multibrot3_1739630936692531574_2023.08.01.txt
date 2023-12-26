@@ -1,0 +1,28 @@
+tweet_id: 1739630936692531574
+masto_id: 111646822507915413
+subre_id: Not uploaded, but here's the text: Have an awesome Tuesday!  #ArtificialIntelligence #VisualArt #Nature
+
+n_iter: 441
+ct: 255
+hue_offset: 72
+saturation: -0.12
+
+num_attempts: 495
+dur: 606
+std: 70.53
+size: 1372133 (1.31 MiB)
+
+xmin: 0.3679924692909107
+xmax: 0.3746259684617233
+ymin: -0.641114852061612
+ymax: -0.63738350877803
+
+contrast: 1.01
+brightness: -0.07
+saturation: 1.4
+gamma: 1.08
+gamma_r: 1.08
+gamma_g: 0.91
+gamma_b: 0.98
+vignette: -33
+temp: 6714
