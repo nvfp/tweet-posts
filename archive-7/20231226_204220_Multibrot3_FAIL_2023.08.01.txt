@@ -1,0 +1,28 @@
+tweet_id: FAIL
+masto_id: 111648659231458371
+subre_id: Not uploaded, but here's the text: Wishing you the best!  #DeepLearning #Nature #Fractals
+
+n_iter: 608
+ct: 1
+hue_offset: 260
+saturation: -0.92
+
+num_attempts: 363
+dur: 605
+std: 75.61
+size: 426018 (416.03 KiB)
+
+xmin: 0.3785849937347585
+xmax: 0.39763261278237755
+ymin: 0.611385032253768
+ymax: 0.6220993179680536
+
+contrast: 1.09
+brightness: -0.02
+saturation: 0.29
+gamma: 1.0
+gamma_r: 1.05
+gamma_g: 0.91
+gamma_b: 0.94
+vignette: -1
+temp: 6450
