@@ -1,0 +1,28 @@
+tweet_id: 1739588777277067297
+masto_id: 111646163935425607
+subre_id: Not uploaded, but here's the text: Surprise! It's a Burning Ship!  #Nature #AGI #GenerativeArt
+
+n_iter: 458
+ct: 18
+hue_offset: 109
+saturation: -0.74
+
+num_attempts: 16
+dur: 5
+std: 30.97
+size: 549577 (536.7 KiB)
+
+xmin: -1.305581190348102
+xmax: -1.2077551033915803
+ymin: -0.3026567886873399
+ymax: -0.24762961477429643
+
+contrast: 0.9
+brightness: 0.04
+saturation: 1.11
+gamma: 0.99
+gamma_r: 0.93
+gamma_g: 0.96
+gamma_b: 0.95
+vignette: -9
+temp: 2145
