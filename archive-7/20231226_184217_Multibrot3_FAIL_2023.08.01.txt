@@ -1,0 +1,28 @@
+tweet_id: FAIL
+masto_id: 111648187195345694
+subre_id: Not uploaded, but here's the text: Happy Tuesday! Enjoy the beauty of Multibrot.  #Nature #GenerativeArt #DigitalArt
+
+n_iter: 333
+ct: 1
+hue_offset: 315
+saturation: -0.68
+
+num_attempts: 741
+dur: 604
+std: 66.63
+size: 737361 (720.08 KiB)
+
+xmin: 0.46926701586160746
+xmax: 0.4737613978840794
+ymin: -0.5607477949548336
+ymax: -0.5582197050671932
+
+contrast: 1.55
+brightness: -0.03
+saturation: 0.64
+gamma: 0.93
+gamma_r: 0.91
+gamma_g: 1.06
+gamma_b: 0.91
+vignette: -5
+temp: 7901
