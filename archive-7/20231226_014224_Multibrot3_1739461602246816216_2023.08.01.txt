@@ -1,0 +1,28 @@
+tweet_id: 1739461602246816216
+masto_id: 111644176821356481
+subre_id: Not uploaded, but here's the text: Wishing you a wonderful Tuesday!  #DeepLearning #Nature #MachineLearning
+
+n_iter: 405
+ct: 1
+hue_offset: 210
+saturation: -0.29
+
+num_attempts: 608
+dur: 603
+std: 59.68
+size: 1067661 (1.02 MiB)
+
+xmin: 0.5061482690778711
+xmax: 0.5147135795703764
+ymin: -0.4590295723215245
+ymax: -0.4542115851694903
+
+contrast: 1.06
+brightness: 0.12
+saturation: 1.11
+gamma: 1.09
+gamma_r: 1.02
+gamma_g: 0.95
+gamma_b: 0.94
+vignette: 14
+temp: 5807
