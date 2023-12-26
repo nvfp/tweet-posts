@@ -1,0 +1,28 @@
+tweet_id: 1739657859292369389
+masto_id: 111647243266287774
+subre_id: Not uploaded, but here's the text: Smile!  #Art #Fractals #Mathematics
+
+n_iter: 413
+ct: 1
+hue_offset: 34
+saturation: 0.23
+
+num_attempts: 575
+dur: 605
+std: 68.0
+size: 957108 (934.68 KiB)
+
+xmin: 0.5146107703030465
+xmax: 0.5212332868593379
+ymin: -0.4675983969221027
+ymax: -0.4638732313591888
+
+contrast: 1.78
+brightness: 0.19
+saturation: 1.17
+gamma: 0.95
+gamma_r: 0.94
+gamma_g: 0.96
+gamma_b: 1.05
+vignette: -26
+temp: 2598
