@@ -1,0 +1,28 @@
+tweet_id: 1739474105932612069
+masto_id: 111644372115044362
+subre_id: Not uploaded, but here's the text: Wishing you a joyful day!  #GenerativeArt #MachineLearning #Art
+
+n_iter: 323
+ct: 233
+hue_offset: 177
+saturation: 0.27
+
+num_attempts: 28
+dur: 7
+std: 33.76
+size: 656128 (640.75 KiB)
+
+xmin: -0.5760484872973191
+xmax: -0.5748077925082372
+ymin: 0.4594037499121113
+ymax: 0.4601016407309699
+
+contrast: 0.85
+brightness: 0.02
+saturation: 1.14
+gamma: 0.99
+gamma_r: 1.03
+gamma_g: 0.95
+gamma_b: 1.0
+vignette: 13
+temp: 3121
