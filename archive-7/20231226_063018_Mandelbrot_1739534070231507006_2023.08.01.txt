@@ -1,0 +1,28 @@
+tweet_id: 1739534070231507006
+masto_id: 111645308916821074
+subre_id: Not uploaded, but here's the text: Good Tuesday! This Mandelbrot Set is for you!  #GeneralIntelligence #AI #Nature
+
+n_iter: 485
+ct: 40
+hue_offset: 276
+saturation: -0.28
+
+num_attempts: 91
+dur: 45
+std: 86.23
+size: 1723462 (1.64 MiB)
+
+xmin: -0.028411200414379056
+xmax: -0.0279540575572362
+ymin: -0.6434500724131321
+ymax: -0.6431929295559893
+
+contrast: 0.84
+brightness: -0.01
+saturation: 1.13
+gamma: 1.04
+gamma_r: 1.07
+gamma_g: 1.0
+gamma_b: 1.04
+vignette: 18
+temp: 5265
