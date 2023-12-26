@@ -1,0 +1,31 @@
+tweet_id: 1739602035803050304
+masto_id: 111646370916629882
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Tuesday!  #Art #MachineLearning #Mathematics
+
+newton_power: 7
+newton_const: 9
+
+n_iter: 200
+ct: 2
+hue_offset: 116
+saturation: -0.54
+
+num_attempts: 160
+dur: 605
+std: 22.42
+size: 1452006 (1.38 MiB)
+
+xmin: -1.5243231768491061
+xmax: -1.451152445141789
+ymin: -0.8839154067424793
+ymax: -0.8427568701571134
+
+contrast: 0.91
+brightness: 0.17
+saturation: 1.22
+gamma: 0.93
+gamma_r: 1.07
+gamma_g: 1.07
+gamma_b: 1.01
+vignette: -20
+temp: 7004
