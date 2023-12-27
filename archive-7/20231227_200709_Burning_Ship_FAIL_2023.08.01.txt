@@ -1,0 +1,28 @@
+tweet_id: FAIL
+masto_id: 111654183202268870
+subre_id: Not uploaded, but here's the text: Let this Burning Ship inspire your Wednesday.  #GenerativeArt #AGI #DeepLearning
+
+n_iter: 142
+ct: 4
+hue_offset: 276
+saturation: -0.95
+
+num_attempts: 25
+dur: 4
+std: 21.2
+size: 835727 (816.14 KiB)
+
+xmin: 0.6296759712549851
+xmax: 0.6978577894368032
+ymin: -1.1372131914391745
+ymax: -1.0988609187119018
+
+contrast: 1.79
+brightness: 0.19
+saturation: 1.37
+gamma: 0.95
+gamma_r: 1.01
+gamma_g: 0.93
+gamma_b: 0.94
+vignette: -19
+temp: 7105
