@@ -1,0 +1,31 @@
+tweet_id: FAIL
+masto_id: 111654390654482854
+subre_id: Not uploaded, but here's the text: you are awesome.  #Fractals #AI #DigitalArt
+
+newton_power: 6
+newton_const: -3
+
+n_iter: 239
+ct: 83
+hue_offset: 178
+saturation: -0.09
+
+num_attempts: 182
+dur: 600
+std: 20.04
+size: 948053 (925.83 KiB)
+
+xmin: -0.6151422001350393
+xmax: -0.6066795767217812
+ymin: 0.650743746112989
+ymax: 0.6555039717829467
+
+contrast: 1.06
+brightness: -0.05
+saturation: 0.27
+gamma: 0.99
+gamma_r: 0.94
+gamma_g: 1.01
+gamma_b: 1.09
+vignette: -29
+temp: 2505
