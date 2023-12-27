@@ -1,0 +1,28 @@
+tweet_id: FAIL
+masto_id: 111653798834067699
+subre_id: Not uploaded, but here's the text: Hey wait, look! it's Mandelbrot Set!  #MachineLearning #AI #GenerativeArt
+
+n_iter: 735
+ct: 80
+hue_offset: 295
+saturation: 0.38
+
+num_attempts: 98
+dur: 60
+std: 150.81
+size: 1990233 (1.9 MiB)
+
+xmin: -1.1139417222867491
+xmax: -1.1134887724509435
+ymin: -0.22733130940759738
+ymax: -0.22707652512495669
+
+contrast: 0.86
+brightness: 0.0
+saturation: 0.53
+gamma: 1.07
+gamma_r: 0.96
+gamma_g: 1.01
+gamma_b: 0.98
+vignette: 22
+temp: 2698
