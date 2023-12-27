@@ -1,0 +1,28 @@
+tweet_id: FAIL
+masto_id: 111650496200350703
+subre_id: Not uploaded, but here's the text: Happy Wednesday!  #MachineLearning #AI #Art
+
+n_iter: 660
+ct: 59
+hue_offset: 120
+saturation: 0.18
+
+num_attempts: 75
+dur: 35
+std: 36.32
+size: 1200290 (1.14 MiB)
+
+xmin: -0.4645810712883809
+xmax: -0.4634313156114622
+ymin: -0.5880799537543416
+ymax: -0.5874332161860749
+
+contrast: 1.01
+brightness: 0.08
+saturation: 1.0
+gamma: 0.96
+gamma_r: 1.03
+gamma_g: 0.97
+gamma_b: 0.99
+vignette: -15
+temp: 4029
