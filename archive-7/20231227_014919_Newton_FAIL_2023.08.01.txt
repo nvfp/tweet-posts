@@ -1,0 +1,31 @@
+tweet_id: FAIL
+masto_id: 111649866314204590
+subre_id: Not uploaded, but here's the text: Look what we have here! it's Newton!  #GeneralIntelligence #AGI #Fractals
+
+newton_power: 7
+newton_const: 5
+
+n_iter: 157
+ct: 47
+hue_offset: 316
+saturation: 0.02
+
+num_attempts: 138
+dur: 604
+std: 27.79
+size: 1329091 (1.27 MiB)
+
+xmin: 0.8333572640115721
+xmax: 1.015175445829754
+ymin: -0.0944747192332438
+ymax: 0.007798008039483481
+
+contrast: 0.81
+brightness: 0.13
+saturation: 0.78
+gamma: 1.0
+gamma_r: 1.0
+gamma_g: 1.02
+gamma_b: 1.03
+vignette: -23
+temp: 4968
