@@ -1,0 +1,28 @@
+tweet_id: FAIL
+masto_id: 111651489923966542
+subre_id: Not uploaded, but here's the text: Wednesday vibes!  #AGI #ArtificialIntelligence #Fractals
+
+n_iter: 346
+ct: 1
+hue_offset: 63
+saturation: 0.78
+
+num_attempts: 583
+dur: 601
+std: 59.39
+size: 877710 (857.14 KiB)
+
+xmin: 0.4984497511766586
+xmax: 0.5038919280474069
+ymin: -0.4787766121048731
+ymax: -0.4757153876150772
+
+contrast: 0.99
+brightness: 0.14
+saturation: 0.75
+gamma: 0.98
+gamma_r: 0.96
+gamma_g: 1.04
+gamma_b: 1.0
+vignette: 27
+temp: 6831
