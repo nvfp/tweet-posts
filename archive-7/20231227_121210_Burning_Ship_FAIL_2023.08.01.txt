@@ -1,0 +1,28 @@
+tweet_id: FAIL
+masto_id: 111652315213658829
+subre_id: Not uploaded, but here's the text: Brighten your Wednesday!  #Fractals #DeepLearning #GenerativeArt
+
+n_iter: 234
+ct: 227
+hue_offset: 312
+saturation: 0.44
+
+num_attempts: 16
+dur: 5
+std: 34.25
+size: 1505920 (1.44 MiB)
+
+xmin: -1.2545350333187717
+xmax: -1.1982850333187718
+ymin: -0.36128442399648564
+ymax: -0.32964379899648566
+
+contrast: 1.54
+brightness: -0.01
+saturation: 1.72
+gamma: 0.9
+gamma_r: 1.06
+gamma_g: 1.08
+gamma_b: 0.91
+vignette: -17
+temp: 6768
