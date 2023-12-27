@@ -1,0 +1,28 @@
+tweet_id: FAIL
+masto_id: 111654257566506107
+subre_id: Not uploaded, but here's the text: Wow, take a look! There's Mandelbrot Set!  #ArtificialIntelligence #MachineLearning #AGI
+
+n_iter: 819
+ct: 15
+hue_offset: 17
+saturation: -0.93
+
+num_attempts: 143
+dur: 87
+std: 16.87
+size: 1109608 (1.06 MiB)
+
+xmin: 0.24300984779728596
+xmax: 0.24405806582663606
+ymin: -0.5782900019817278
+ymax: -0.5777003793402183
+
+contrast: 1.36
+brightness: 0.11
+saturation: 1.16
+gamma: 1.02
+gamma_r: 0.97
+gamma_g: 0.95
+gamma_b: 0.96
+vignette: -37
+temp: 4667
