@@ -1,0 +1,28 @@
+tweet_id: FAIL
+masto_id: 111650092080952190
+subre_id: Not uploaded, but here's the text: Keep smiling!  #Mathematics #AI #GenerativeArt
+
+n_iter: 592
+ct: 1
+hue_offset: 314
+saturation: 0.22
+
+num_attempts: 392
+dur: 603
+std: 86.55
+size: 981706 (958.7 KiB)
+
+xmin: -0.1348837441353774
+xmax: -0.12001385565954098
+ymin: -0.7611928069677552
+ymax: -0.7528284947000972
+
+contrast: 0.85
+brightness: 0.14
+saturation: 0.87
+gamma: 1.0
+gamma_r: 0.98
+gamma_g: 0.99
+gamma_b: 1.05
+vignette: 15
+temp: 5314
