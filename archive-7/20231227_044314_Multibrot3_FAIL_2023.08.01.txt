@@ -1,0 +1,28 @@
+tweet_id: FAIL
+masto_id: 111650550226229206
+subre_id: Not uploaded, but here's the text: Hope you have an amazing Wednesday!  #DeepLearning #MultiModal #Nature
+
+n_iter: 303
+ct: 1
+hue_offset: 329
+saturation: -0.44
+
+num_attempts: 689
+dur: 603
+std: 52.89
+size: 932708 (910.85 KiB)
+
+xmin: -0.1288131652485185
+xmax: -0.12203350423156933
+ymin: -0.8043441401668515
+ymax: -0.8005305808448177
+
+contrast: 0.97
+brightness: -0.1
+saturation: 0.97
+gamma: 0.93
+gamma_r: 0.9
+gamma_g: 0.95
+gamma_b: 0.96
+vignette: -35
+temp: 3710
