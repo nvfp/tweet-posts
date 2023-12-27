@@ -1,0 +1,31 @@
+tweet_id: FAIL
+masto_id: 111652976461167926
+subre_id: Not uploaded, but here's the text: you're awesome!  #DigitalArt #Nature #MachineLearning
+
+newton_power: 6
+newton_const: 1
+
+n_iter: 212
+ct: 232
+hue_offset: 223
+saturation: -0.39
+
+num_attempts: 177
+dur: 601
+std: 17.7
+size: 1255068 (1.2 MiB)
+
+xmin: -2.9958491561637177
+xmax: -2.988748564447741
+ymin: -0.1660045276283446
+ymax: -0.16201044478810792
+
+contrast: 1.71
+brightness: 0.21
+saturation: 1.57
+gamma: 1.01
+gamma_r: 1.02
+gamma_g: 0.92
+gamma_b: 1.03
+vignette: -46
+temp: 7488
