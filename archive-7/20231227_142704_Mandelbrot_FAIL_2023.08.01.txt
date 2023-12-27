@@ -1,0 +1,28 @@
+tweet_id: FAIL
+masto_id: 111652845731734619
+subre_id: Not uploaded, but here's the text: Wishing you a wonderful Wednesday!  #DeepLearning #AI #Fractals
+
+n_iter: 1015
+ct: 194
+hue_offset: 125
+saturation: 0.53
+
+num_attempts: 7
+dur: 3
+std: 159.96
+size: 879767 (859.15 KiB)
+
+xmin: 0.32105166455577683
+xmax: 0.32151122337930627
+ymin: -0.4152166431620439
+ymax: -0.4149581413238086
+
+contrast: 0.78
+brightness: 0.02
+saturation: 0.93
+gamma: 0.96
+gamma_r: 0.98
+gamma_g: 0.93
+gamma_b: 1.09
+vignette: 32
+temp: 4166
