@@ -1,0 +1,31 @@
+tweet_id: FAIL
+masto_id: 111653920731619567
+subre_id: Not uploaded, but here's the text: Hey wait, look! it's Newton!  #Nature #Art #GeneralIntelligence
+
+newton_power: 4
+newton_const: 9
+
+n_iter: 223
+ct: 239
+hue_offset: 276
+saturation: -0.74
+
+num_attempts: 269
+dur: 604
+std: 7.65
+size: 998697 (975.29 KiB)
+
+xmin: -0.12846551288041308
+xmax: -0.11271748138435009
+ymin: -1.4901556690573354
+ymax: -1.4812974013408
+
+contrast: 1.27
+brightness: 0.1
+saturation: 0.85
+gamma: 1.04
+gamma_r: 1.04
+gamma_g: 1.02
+gamma_b: 1.04
+vignette: 20
+temp: 4929
