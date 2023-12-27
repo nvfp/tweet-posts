@@ -1,0 +1,28 @@
+tweet_id: FAIL
+masto_id: 111651025883955154
+subre_id: Not uploaded, but here's the text: Have an awesome Wednesday!  #MachineLearning #AI #VisualArt
+
+n_iter: 483
+ct: 255
+hue_offset: 339
+saturation: -0.7
+
+num_attempts: 498
+dur: 605
+std: 73.99
+size: 937201 (915.24 KiB)
+
+xmin: 0.2076096980520128
+xmax: 0.22923131967363441
+ymin: -0.7383524426473477
+ymax: -0.7261902804851855
+
+contrast: 0.84
+brightness: 0.2
+saturation: 1.3
+gamma: 1.02
+gamma_r: 1.03
+gamma_g: 1.09
+gamma_b: 0.98
+vignette: -4
+temp: 3633
