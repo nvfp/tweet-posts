@@ -1,0 +1,28 @@
+tweet_id: FAIL
+masto_id: 111650889555225591
+subre_id: Not uploaded, but here's the text: Smile, it's Wednesday!  #MultiModal #ArtificialIntelligence #MachineLearning
+
+n_iter: 496
+ct: 71
+hue_offset: 168
+saturation: 0.67
+
+num_attempts: 5
+dur: 4
+std: 76.87
+size: 2364183 (2.25 MiB)
+
+xmin: -0.3712337268891117
+xmax: -0.3212337268891117
+ymin: -0.9148838634867937
+ymax: -0.8867588634867938
+
+contrast: 1.08
+brightness: -0.04
+saturation: 1.3
+gamma: 0.96
+gamma_r: 1.04
+gamma_g: 0.96
+gamma_b: 1.02
+vignette: -40
+temp: 3273
