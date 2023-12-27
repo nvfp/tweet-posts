@@ -1,0 +1,28 @@
+tweet_id: FAIL
+masto_id: 111653338670857827
+subre_id: Not uploaded, but here's the text: Ever heard of this Mandelbrot Set?  #DeepLearning #VisualArt #GeneralIntelligence
+
+n_iter: 701
+ct: 192
+hue_offset: 176
+saturation: 0.47
+
+num_attempts: 4
+dur: 0
+std: 49.23
+size: 834693 (815.13 KiB)
+
+xmin: 0.3165962589575839
+xmax: 0.31764447698693404
+ymin: -0.4414335202686406
+ymax: -0.44084389762713116
+
+contrast: 1.18
+brightness: 0.02
+saturation: 1.56
+gamma: 1.04
+gamma_r: 0.91
+gamma_g: 1.01
+gamma_b: 1.08
+vignette: 3
+temp: 4557
