@@ -1,0 +1,28 @@
+tweet_id: FAIL
+masto_id: 111649839473977266
+subre_id: Not uploaded, but here's the text: A great Wednesday and a beautiful Multibrot.  #DigitalArt #Fractals #Mathematics
+
+n_iter: 585
+ct: 1
+hue_offset: 135
+saturation: 0.25
+
+num_attempts: 413
+dur: 607
+std: 53.45
+size: 875284 (854.77 KiB)
+
+xmin: -0.39577744996522757
+xmax: -0.38493734156414355
+ymin: -0.681612287108779
+ymax: -0.6755147261331692
+
+contrast: 1.71
+brightness: 0.19
+saturation: 1.56
+gamma: 1.05
+gamma_r: 1.08
+gamma_g: 0.94
+gamma_b: 1.08
+vignette: 10
+temp: 4653
