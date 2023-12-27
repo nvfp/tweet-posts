@@ -1,0 +1,31 @@
+tweet_id: FAIL
+masto_id: 111651088119814901
+subre_id: Not uploaded, but here's the text: Let this Newton brighten up your Wednesday!  #GeneralIntelligence #Mathematics #DeepLearning
+
+newton_power: 3
+newton_const: -2
+
+n_iter: 95
+ct: 226
+hue_offset: 352
+saturation: 0.94
+
+num_attempts: 562
+dur: 600
+std: 3.8
+size: 367545 (358.93 KiB)
+
+xmin: -0.9173483176751458
+xmax: 1.0826516823248542
+ymin: -0.9487988553146818
+ymax: 0.17620114468531822
+
+contrast: 1.31
+brightness: -0.02
+saturation: 1.22
+gamma: 1.07
+gamma_r: 0.94
+gamma_g: 1.05
+gamma_b: 0.96
+vignette: 21
+temp: 5851
