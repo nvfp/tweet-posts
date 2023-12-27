@@ -1,0 +1,28 @@
+tweet_id: FAIL
+masto_id: 111651359892482135
+subre_id: Not uploaded, but here's the text: Have an awesome Wednesday!  #ArtificialIntelligence #Nature #MachineLearning
+
+n_iter: 373
+ct: 5
+hue_offset: 143
+saturation: -0.24
+
+num_attempts: 4
+dur: 1
+std: 24.56
+size: 1182782 (1.13 MiB)
+
+xmin: 0.6618633603732809
+xmax: 1.1618633603732809
+ymin: -1.3921507699975892
+ymax: -1.1109007699975892
+
+contrast: 0.82
+brightness: 0.07
+saturation: 0.93
+gamma: 1.06
+gamma_r: 1.07
+gamma_g: 1.09
+gamma_b: 1.09
+vignette: 31
+temp: 2242
