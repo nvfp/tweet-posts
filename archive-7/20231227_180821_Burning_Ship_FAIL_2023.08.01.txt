@@ -1,0 +1,28 @@
+tweet_id: FAIL
+masto_id: 111653716051363827
+subre_id: Not uploaded, but here's the text: Warm wishes for your Wednesday, and let's have a look at this Burning Ship.  #MachineLearning #VisualArt #GeneralIntelligence
+
+n_iter: 315
+ct: 171
+hue_offset: 69
+saturation: -0.18
+
+num_attempts: 11
+dur: 6
+std: 20.61
+size: 187510 (183.12 KiB)
+
+xmin: -1.2283939401317763
+xmax: -0.10339394013177627
+ymin: -0.6742790250641519
+ymax: -0.04146652506415194
+
+contrast: 1.51
+brightness: -0.03
+saturation: 1.18
+gamma: 0.98
+gamma_r: 1.1
+gamma_g: 0.97
+gamma_b: 1.08
+vignette: -4
+temp: 5629
