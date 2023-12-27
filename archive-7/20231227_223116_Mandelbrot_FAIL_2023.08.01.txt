@@ -1,0 +1,28 @@
+tweet_id: FAIL
+masto_id: 111654749862567368
+subre_id: Not uploaded, but here's the text: you're awesome!  #GeneralIntelligence #DigitalArt #AGI
+
+n_iter: 764
+ct: 36
+hue_offset: 117
+saturation: 0.83
+
+num_attempts: 370
+dur: 199
+std: 30.67
+size: 1124698 (1.07 MiB)
+
+xmin: 0.17553339536196289
+xmax: 0.17706654982727527
+ymin: 0.5872570370376957
+ymax: 0.588119436424434
+
+contrast: 1.78
+brightness: -0.02
+saturation: 1.61
+gamma: 1.08
+gamma_r: 1.02
+gamma_g: 1.05
+gamma_b: 1.09
+vignette: -37
+temp: 4887
