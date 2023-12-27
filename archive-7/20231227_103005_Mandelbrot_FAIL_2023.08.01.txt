@@ -1,0 +1,28 @@
+tweet_id: FAIL
+masto_id: 111651914059237192
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Wednesday!  #Art #VisualArt #MultiModal
+
+n_iter: 941
+ct: 188
+hue_offset: 304
+saturation: -0.83
+
+num_attempts: 24
+dur: 11
+std: 79.77
+size: 703933 (687.43 KiB)
+
+xmin: -1.1730504014284113
+xmax: -1.1431996551597545
+ymin: 0.21743399549274622
+ymax: 0.23422504026886562
+
+contrast: 1.56
+brightness: 0.07
+saturation: 0.28
+gamma: 0.97
+gamma_r: 0.92
+gamma_g: 0.97
+gamma_b: 0.97
+vignette: -43
+temp: 2800
