@@ -1,0 +1,28 @@
+tweet_id: FAIL
+masto_id: 111650413610233624
+subre_id: Not uploaded, but here's the text: Look what we have here! it's Burning Ship!  #MultiModal #GenerativeArt #VisualArt
+
+n_iter: 508
+ct: 213
+hue_offset: 174
+saturation: -0.83
+
+num_attempts: 6
+dur: 1
+std: 49.76
+size: 962627 (940.07 KiB)
+
+xmin: -1.4927334394171674
+xmax: -1.3743123867855884
+ymin: -0.32768355856779263
+ymax: -0.26107171646252947
+
+contrast: 1.64
+brightness: 0.1
+saturation: 1.5
+gamma: 0.93
+gamma_r: 0.93
+gamma_g: 1.1
+gamma_b: 1.09
+vignette: 5
+temp: 2375
