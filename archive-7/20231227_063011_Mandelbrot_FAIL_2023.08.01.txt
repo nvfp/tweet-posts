@@ -1,0 +1,28 @@
+tweet_id: FAIL
+masto_id: 111650970734263211
+subre_id: Not uploaded, but here's the text: Smile!  #GenerativeArt #GeneralIntelligence #AI
+
+n_iter: 516
+ct: 190
+hue_offset: 127
+saturation: -0.8
+
+num_attempts: 13
+dur: 6
+std: 52.72
+size: 1253586 (1.2 MiB)
+
+xmin: -0.5430214950272205
+xmax: -0.5411722116245391
+ymin: 0.5331168356369815
+ymax: 0.5341570575509899
+
+contrast: 1.31
+brightness: 0.07
+saturation: 1.67
+gamma: 0.95
+gamma_r: 1.08
+gamma_g: 1.09
+gamma_b: 1.02
+vignette: 22
+temp: 3486
