@@ -1,0 +1,28 @@
+tweet_id: FAIL
+masto_id: 111653848947015450
+subre_id: Not uploaded, but here's the text: Have a great day!  #MachineLearning #AGI #DigitalArt
+
+n_iter: 560
+ct: 1
+hue_offset: 178
+saturation: 0.95
+
+num_attempts: 501
+dur: 600
+std: 90.07
+size: 940061 (918.03 KiB)
+
+xmin: -0.17381768459317337
+xmax: -0.16912835282295063
+ymin: 0.7518369895485169
+ymax: 0.7544747386692672
+
+contrast: 1.36
+brightness: -0.07
+saturation: 0.87
+gamma: 1.06
+gamma_r: 1.09
+gamma_g: 1.02
+gamma_b: 1.04
+vignette: -2
+temp: 2816
