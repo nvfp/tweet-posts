@@ -1,0 +1,28 @@
+tweet_id: FAIL
+masto_id: 111651967041801233
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Wednesday! You got this!  #VisualArt #AGI #Nature
+
+n_iter: 353
+ct: 255
+hue_offset: 134
+saturation: 0.24
+
+num_attempts: 702
+dur: 600
+std: 62.25
+size: 1233732 (1.18 MiB)
+
+xmin: 0.5217066677732207
+xmax: 0.5260403622477603
+ymin: -0.43761189999559513
+ymax: -0.43517419685366665
+
+contrast: 1.04
+brightness: 0.17
+saturation: 0.62
+gamma: 0.95
+gamma_r: 1.05
+gamma_g: 1.01
+gamma_b: 1.02
+vignette: -15
+temp: 3454
