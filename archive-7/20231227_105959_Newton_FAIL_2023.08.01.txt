@@ -1,0 +1,31 @@
+tweet_id: FAIL
+masto_id: 111652031643961153
+subre_id: Not uploaded, but here's the text: Hello Wednesday! This Newton is yours!  #AI #AGI #DigitalArt
+
+newton_power: 3
+newton_const: 1
+
+n_iter: 104
+ct: 193
+hue_offset: 359
+saturation: 0.38
+
+num_attempts: 527
+dur: 600
+std: 4.27
+size: 705823 (689.28 KiB)
+
+xmin: 1.8547938308501983
+xmax: 1.9027938308501984
+ymin: -0.25035672390891683
+ymax: -0.22335672390891684
+
+contrast: 1.2
+brightness: -0.04
+saturation: 0.73
+gamma: 0.92
+gamma_r: 1.04
+gamma_g: 0.92
+gamma_b: 0.93
+vignette: -22
+temp: 6839
