@@ -1,0 +1,28 @@
+tweet_id: FAIL
+masto_id: 111652433496996911
+subre_id: Not uploaded, but here's the text: You rock, and so does this Wednesday!  #Mathematics #Art #Fractals
+
+n_iter: 842
+ct: 226
+hue_offset: 27
+saturation: -0.89
+
+num_attempts: 68
+dur: 35
+std: 28.67
+size: 1227174 (1.17 MiB)
+
+xmin: -0.6948281945364259
+xmax: -0.6918870180658376
+ymin: -0.3667176323081711
+ymax: -0.36506322054346524
+
+contrast: 1.08
+brightness: -0.06
+saturation: 1.37
+gamma: 1.06
+gamma_r: 1.1
+gamma_g: 0.98
+gamma_b: 0.99
+vignette: -20
+temp: 6378
