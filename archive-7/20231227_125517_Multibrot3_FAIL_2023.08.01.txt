@@ -1,0 +1,28 @@
+tweet_id: FAIL
+masto_id: 111652485020308921
+subre_id: Not uploaded, but here's the text: Wow, guess what? it's Multibrot!  #GeneralIntelligence #VisualArt #AI
+
+n_iter: 382
+ct: 255
+hue_offset: 142
+saturation: 0.52
+
+num_attempts: 632
+dur: 602
+std: 52.18
+size: 496069 (484.44 KiB)
+
+xmin: 0.24911559262297533
+xmax: 0.2679835171512772
+ymin: -0.7134772104956759
+ymax: -0.7028640029485062
+
+contrast: 1.28
+brightness: 0.02
+saturation: 1.23
+gamma: 0.98
+gamma_r: 1.0
+gamma_g: 0.98
+gamma_b: 0.99
+vignette: 8
+temp: 2617
