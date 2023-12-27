@@ -1,0 +1,28 @@
+tweet_id: FAIL
+masto_id: 111654321678839999
+subre_id: Not uploaded, but here's the text: Sending you this fractal on this Wednesday!  #MultiModal #GenerativeArt #MachineLearning
+
+n_iter: 441
+ct: 255
+hue_offset: 218
+saturation: -0.04
+
+num_attempts: 467
+dur: 600
+std: 53.54
+size: 446700 (436.23 KiB)
+
+xmin: -0.31305093101167203
+xmax: -0.29166055668012125
+ymin: 0.6760525500478356
+ymax: 0.688084635609333
+
+contrast: 1.49
+brightness: 0.14
+saturation: 0.97
+gamma: 1.08
+gamma_r: 0.91
+gamma_g: 1.09
+gamma_b: 1.07
+vignette: -38
+temp: 2530
