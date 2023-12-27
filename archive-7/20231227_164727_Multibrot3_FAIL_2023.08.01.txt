@@ -1,0 +1,28 @@
+tweet_id: FAIL
+masto_id: 111653397973694191
+subre_id: Not uploaded, but here's the text: You rock, and so does this Wednesday!  #Nature #AGI #VisualArt
+
+n_iter: 452
+ct: 1
+hue_offset: 160
+saturation: -0.11
+
+num_attempts: 514
+dur: 606
+std: 52.66
+size: 771646 (753.56 KiB)
+
+xmin: -0.11212038066786056
+xmax: -0.10677992672927579
+ymin: -1.1271088857965204
+ymax: -1.1241048804560665
+
+contrast: 1.38
+brightness: -0.08
+saturation: 1.64
+gamma: 1.05
+gamma_r: 0.94
+gamma_g: 0.92
+gamma_b: 1.03
+vignette: 3
+temp: 6486
