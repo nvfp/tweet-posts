@@ -1,0 +1,28 @@
+tweet_id: 1740231826126307436
+masto_id: 111656211424484675
+subre_id: Not uploaded, but here's the text: Having a blast on Thursday?  #AI #Art #ArtificialIntelligence
+
+n_iter: 444
+ct: 255
+hue_offset: 61
+saturation: -0.52
+
+num_attempts: 563
+dur: 604
+std: 69.98
+size: 1217155 (1.16 MiB)
+
+xmin: 0.12762556643302725
+xmax: 0.13465544341018015
+ymin: -0.8148510102697206
+ymax: -0.8108967044700721
+
+contrast: 1.57
+brightness: -0.05
+saturation: 0.44
+gamma: 1.09
+gamma_r: 1.09
+gamma_g: 1.05
+gamma_b: 0.9
+vignette: -47
+temp: 4954
