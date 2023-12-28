@@ -1,0 +1,31 @@
+tweet_id: 1740447497615552805
+masto_id: 111659581325214195
+subre_id: Not uploaded, but here's the text: Warm wishes for your Thursday, and let's have a look at this Newton.  #GeneralIntelligence #VisualArt #MultiModal
+
+newton_power: 7
+newton_const: -10
+
+n_iter: 206
+ct: 39
+hue_offset: 69
+saturation: -0.43
+
+num_attempts: 154
+dur: 605
+std: 21.36
+size: 938303 (916.31 KiB)
+
+xmin: -1.1942788466022904
+xmax: -1.187750010911322
+ymin: -0.11698141849954258
+ymax: -0.11330894842337283
+
+contrast: 0.74
+brightness: -0.02
+saturation: 0.94
+gamma: 0.97
+gamma_r: 0.96
+gamma_g: 0.91
+gamma_b: 0.98
+vignette: 3
+temp: 5284
