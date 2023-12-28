@@ -1,0 +1,28 @@
+tweet_id: 1740434749003354541
+masto_id: 111659382030322556
+subre_id: Not uploaded, but here's the text: you are cool  #MultiModal #MachineLearning #DeepLearning
+
+n_iter: 143
+ct: 148
+hue_offset: 326
+saturation: -0.16
+
+num_attempts: 137
+dur: 25
+std: 21.85
+size: 608599 (594.33 KiB)
+
+xmin: -0.716744267302277
+xmax: -0.41674426730227704
+ymin: -0.8406169317688672
+ymax: -0.6718669317688672
+
+contrast: 1.33
+brightness: 0.08
+saturation: 0.27
+gamma: 0.95
+gamma_r: 1.04
+gamma_g: 1.0
+gamma_b: 1.03
+vignette: 29
+temp: 2138
