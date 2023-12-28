@@ -1,0 +1,31 @@
+tweet_id: 1740236152815112291
+masto_id: 111656279210819688
+subre_id: Not uploaded, but here's the text: Chin up, lovely humans!  #Fractals #Mathematics #GenerativeArt
+
+newton_power: 6
+newton_const: -5
+
+n_iter: 233
+ct: 198
+hue_offset: 104
+saturation: 0.42
+
+num_attempts: 170
+dur: 600
+std: 18.63
+size: 657289 (641.88 KiB)
+
+xmin: 0.7234041132638311
+xmax: 0.7569236663364568
+ymin: -0.7013429641525322
+ymax: -0.6824882155491803
+
+contrast: 1.56
+brightness: 0.18
+saturation: 0.33
+gamma: 0.96
+gamma_r: 0.95
+gamma_g: 0.95
+gamma_b: 1.0
+vignette: -5
+temp: 5888
