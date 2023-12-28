@@ -1,0 +1,28 @@
+tweet_id: 1740499793644847248
+masto_id: 111660398322674850
+subre_id: Not uploaded, but here's the text: Hey there, it's Thursday!  #GeneralIntelligence #Fractals #MultiModal
+
+n_iter: 327
+ct: 240
+hue_offset: 279
+saturation: 0.5
+
+num_attempts: 5
+dur: 3
+std: 70.03
+size: 245307 (239.56 KiB)
+
+xmin: -0.6749792822807841
+xmax: -0.6739554788510426
+ymin: 0.3506728723318826
+ymax: 0.3512487617611122
+
+contrast: 1.8
+brightness: -0.0
+saturation: 0.55
+gamma: 0.93
+gamma_r: 1.09
+gamma_g: 0.96
+gamma_b: 1.04
+vignette: -5
+temp: 6878
