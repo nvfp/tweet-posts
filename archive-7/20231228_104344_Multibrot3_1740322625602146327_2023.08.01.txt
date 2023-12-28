@@ -1,0 +1,28 @@
+tweet_id: 1740322625602146327
+masto_id: 111657630088858367
+subre_id: Not uploaded, but here's the text: Thursday vibes!  #DeepLearning #DigitalArt #AGI
+
+n_iter: 357
+ct: 1
+hue_offset: 20
+saturation: -0.24
+
+num_attempts: 587
+dur: 603
+std: 57.16
+size: 899146 (878.07 KiB)
+
+xmin: 0.1078212406199408
+xmax: 0.11197924477794496
+ymin: 0.7663065208594291
+ymax: 0.7686453981983065
+
+contrast: 1.16
+brightness: 0.17
+saturation: 0.52
+gamma: 1.0
+gamma_r: 0.95
+gamma_g: 1.02
+gamma_b: 1.05
+vignette: 32
+temp: 2177
