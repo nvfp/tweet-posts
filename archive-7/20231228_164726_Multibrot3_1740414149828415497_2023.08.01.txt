@@ -1,0 +1,28 @@
+tweet_id: 1740414149828415497
+masto_id: 111659060171574749
+subre_id: Not uploaded, but here's the text: Shine bright like the sun on this Thursday!  #AGI #VisualArt #ArtificialIntelligence
+
+n_iter: 576
+ct: 1
+hue_offset: 5
+saturation: -0.94
+
+num_attempts: 414
+dur: 605
+std: 77.85
+size: 788995 (770.5 KiB)
+
+xmin: -0.5507891932965621
+xmax: -0.545434440953858
+ymin: 0.2532185336997095
+ymax: 0.25623058189248055
+
+contrast: 1.32
+brightness: -0.04
+saturation: 0.86
+gamma: 0.94
+gamma_r: 0.94
+gamma_g: 0.93
+gamma_b: 0.92
+vignette: -47
+temp: 3214
