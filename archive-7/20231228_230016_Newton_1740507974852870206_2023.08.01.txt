@@ -1,0 +1,31 @@
+tweet_id: 1740507974852870206
+masto_id: 111660526253285525
+subre_id: Not uploaded, but here's the text: Sending you this fractal on this Thursday!  #Mathematics #Fractals #Nature
+
+newton_power: 6
+newton_const: 8
+
+n_iter: 183
+ct: 81
+hue_offset: 343
+saturation: 0.53
+
+num_attempts: 183
+dur: 601
+std: 21.9
+size: 1467370 (1.4 MiB)
+
+xmin: 1.470926954344045
+xmax: 1.4981996816167724
+ymin: -0.17473046317781282
+ymax: -0.15938955408690372
+
+contrast: 0.73
+brightness: 0.16
+saturation: 1.11
+gamma: 1.05
+gamma_r: 0.9
+gamma_g: 1.1
+gamma_b: 0.93
+vignette: -38
+temp: 6254
