@@ -1,0 +1,31 @@
+tweet_id: 1740477809166786641
+masto_id: 111660054916974114
+subre_id: Not uploaded, but here's the text: Wishing you a wonderful Thursday!  #DeepLearning #Nature #Mathematics
+
+newton_power: 4
+newton_const: -5
+
+n_iter: 184
+ct: 164
+hue_offset: 210
+saturation: 0.11
+
+num_attempts: 265
+dur: 602
+std: 8.52
+size: 604833 (590.66 KiB)
+
+xmin: -1.5194733421497728
+xmax: -1.4103824330588637
+ymin: -1.8381927886124927
+ymax: -1.7768291522488564
+
+contrast: 1.7
+brightness: 0.16
+saturation: 1.21
+gamma: 1.07
+gamma_r: 1.02
+gamma_g: 0.91
+gamma_b: 1.09
+vignette: 6
+temp: 2222
