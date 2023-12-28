@@ -1,0 +1,28 @@
+tweet_id: 1740319172725260644
+masto_id: 111657576267933185
+subre_id: Not uploaded, but here's the text: Hope your Thursday is awesome!  #Nature #GeneralIntelligence #MachineLearning
+
+n_iter: 883
+ct: 33
+hue_offset: 338
+saturation: -0.08
+
+num_attempts: 16
+dur: 4
+std: 18.59
+size: 984184 (961.12 KiB)
+
+xmin: -1.1718935901887342
+xmax: -1.1699556056926101
+ymin: 0.2575816213124613
+ymax: 0.25867173759153106
+
+contrast: 0.93
+brightness: 0.07
+saturation: 1.1
+gamma: 0.98
+gamma_r: 0.93
+gamma_g: 1.08
+gamma_b: 1.1
+vignette: 25
+temp: 6086
