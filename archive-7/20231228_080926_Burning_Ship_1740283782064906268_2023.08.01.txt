@@ -1,0 +1,28 @@
+tweet_id: 1740283782064906268
+masto_id: 111657023314435812
+subre_id: Not uploaded, but here's the text: Burning Ship vibes to brighten your Thursday.  #ArtificialIntelligence #VisualArt #DeepLearning
+
+n_iter: 423
+ct: 86
+hue_offset: 193
+saturation: 0.91
+
+num_attempts: 3
+dur: 0
+std: 26.55
+size: 917011 (895.52 KiB)
+
+xmin: -2.40909360589864
+xmax: -0.15909360589864008
+ymin: -1.7634331244754398
+ymax: -0.49780812447543976
+
+contrast: 1.17
+brightness: 0.14
+saturation: 0.71
+gamma: 0.91
+gamma_r: 1.01
+gamma_g: 0.97
+gamma_b: 1.0
+vignette: 30
+temp: 5596
