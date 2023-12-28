@@ -1,0 +1,28 @@
+tweet_id: FAIL
+masto_id: 111655457961224568
+subre_id: Not uploaded, but here's the text: You are lovely!  #DeepLearning #Art #ArtificialIntelligence
+
+n_iter: 636
+ct: 20
+hue_offset: 48
+saturation: -0.1
+
+num_attempts: 146
+dur: 74
+std: 25.44
+size: 27929 (27.27 KiB)
+
+xmin: -0.7083122638350714
+xmax: -0.7024643106186972
+ymin: 0.2336436456090265
+ymax: 0.23693311929323704
+
+contrast: 1.62
+brightness: -0.02
+saturation: 1.35
+gamma: 1.06
+gamma_r: 0.92
+gamma_g: 0.98
+gamma_b: 0.98
+vignette: 9
+temp: 4961
