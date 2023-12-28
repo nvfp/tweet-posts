@@ -1,0 +1,28 @@
+tweet_id: FAIL
+masto_id: 111655225005509980
+subre_id: Not uploaded, but here's the text: Wishing you a joyful day!  #MachineLearning #DeepLearning #ArtificialIntelligence
+
+n_iter: 214
+ct: 113
+hue_offset: 8
+saturation: -0.1
+
+num_attempts: 10
+dur: 3
+std: 36.7
+size: 1649402 (1.57 MiB)
+
+xmin: 0.3704482822455759
+xmax: 0.5256206960386793
+ymin: -1.1841927689589937
+ymax: -1.096908286200373
+
+contrast: 0.73
+brightness: -0.06
+saturation: 0.38
+gamma: 0.92
+gamma_r: 0.97
+gamma_g: 1.04
+gamma_b: 0.95
+vignette: -39
+temp: 5738
