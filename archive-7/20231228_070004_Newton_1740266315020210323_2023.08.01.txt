@@ -1,0 +1,31 @@
+tweet_id: 1740266315020210323
+masto_id: 111656750575174205
+subre_id: Not uploaded, but here's the text: Have an awesome Thursday!  #DigitalArt #DeepLearning #MultiModal
+
+newton_power: 5
+newton_const: 8
+
+n_iter: 130
+ct: 82
+hue_offset: 192
+saturation: 0.84
+
+num_attempts: 221
+dur: 601
+std: 13.44
+size: 1147837 (1.09 MiB)
+
+xmin: 0.22366375821695783
+xmax: 0.25106101849093043
+ymin: -1.5319117930973662
+ymax: -1.5165008341932567
+
+contrast: 0.87
+brightness: 0.11
+saturation: 1.54
+gamma: 0.99
+gamma_r: 0.96
+gamma_g: 0.99
+gamma_b: 1.08
+vignette: -26
+temp: 6872
