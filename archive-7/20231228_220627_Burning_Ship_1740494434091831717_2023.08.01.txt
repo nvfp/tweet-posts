@@ -1,0 +1,28 @@
+tweet_id: 1740494434091831717
+masto_id: 111660314601931314
+subre_id: Not uploaded, but here's the text: Surprise! It's a Burning Ship!  #AGI #Mathematics #AI
+
+n_iter: 437
+ct: 209
+hue_offset: 312
+saturation: 0.09
+
+num_attempts: 6
+dur: 3
+std: 56.79
+size: 1808971 (1.73 MiB)
+
+xmin: -0.6335930330919306
+xmax: -0.50124009191546
+ymin: -0.9042075484779397
+ymax: -0.829759019066175
+
+contrast: 0.79
+brightness: 0.11
+saturation: 1.06
+gamma: 0.98
+gamma_r: 0.92
+gamma_g: 1.07
+gamma_b: 0.95
+vignette: -11
+temp: 3596
