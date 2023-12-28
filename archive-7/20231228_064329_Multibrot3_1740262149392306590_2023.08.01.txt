@@ -1,0 +1,28 @@
+tweet_id: 1740262149392306590
+masto_id: 111656685357974657
+subre_id: Not uploaded, but here's the text: Cheers to a fantastic Thursday!  #VisualArt #AI #DeepLearning
+
+n_iter: 569
+ct: 1
+hue_offset: 73
+saturation: -0.5
+
+num_attempts: 447
+dur: 600
+std: 96.64
+size: 1209516 (1.15 MiB)
+
+xmin: 0.18892952162956433
+xmax: 0.19452392722396994
+ymin: -0.8949927236785433
+ymax: -0.8918458705316902
+
+contrast: 0.77
+brightness: -0.05
+saturation: 1.75
+gamma: 0.93
+gamma_r: 0.95
+gamma_g: 1.01
+gamma_b: 1.01
+vignette: 32
+temp: 3527
