@@ -1,0 +1,28 @@
+tweet_id: 1740468516594073747
+masto_id: 111659909843836178
+subre_id: Not uploaded, but here's the text: Mandelbrot Set vibes to brighten your Thursday.  #ArtificialIntelligence #DigitalArt #AGI
+
+n_iter: 551
+ct: 101
+hue_offset: 304
+saturation: 0.38
+
+num_attempts: 60
+dur: 20
+std: 15.22
+size: 608386 (594.13 KiB)
+
+xmin: 0.06103854423735955
+xmax: 0.061483681116950024
+ymin: -0.6635147496553127
+ymax: -0.663264360160543
+
+contrast: 1.64
+brightness: -0.1
+saturation: 1.28
+gamma: 0.93
+gamma_r: 0.95
+gamma_g: 0.96
+gamma_b: 1.01
+vignette: -7
+temp: 2751
