@@ -1,0 +1,28 @@
+tweet_id: 1740202505596969353
+masto_id: 111655753218848344
+subre_id: Not uploaded, but here's the text: Another Thursday, another Multibrot!  #Nature #GeneralIntelligence #VisualArt
+
+n_iter: 590
+ct: 255
+hue_offset: 314
+saturation: 0.3
+
+num_attempts: 452
+dur: 607
+std: 63.36
+size: 631329 (616.53 KiB)
+
+xmin: -0.38766891420393246
+xmax: -0.34419065333436727
+ymin: 0.6264129873773334
+ymax: 0.6508695091164638
+
+contrast: 1.54
+brightness: 0.18
+saturation: 0.86
+gamma: 1.01
+gamma_r: 1.0
+gamma_g: 0.93
+gamma_b: 0.94
+vignette: 24
+temp: 3921
