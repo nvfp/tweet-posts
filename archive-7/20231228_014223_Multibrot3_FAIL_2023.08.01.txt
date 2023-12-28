@@ -1,0 +1,28 @@
+tweet_id: FAIL
+masto_id: 111655501366258987
+subre_id: Not uploaded, but here's the text: Thursday vibes!  #GenerativeArt #Art #DigitalArt
+
+n_iter: 524
+ct: 1
+hue_offset: 20
+saturation: -0.85
+
+num_attempts: 376
+dur: 604
+std: 80.07
+size: 1468691 (1.4 MiB)
+
+xmin: 0.20599483758468384
+xmax: 0.2253185090822684
+ymin: -0.7391925806868564
+ymax: -0.7283230154694651
+
+contrast: 1.09
+brightness: 0.1
+saturation: 0.57
+gamma: 1.08
+gamma_r: 1.09
+gamma_g: 0.91
+gamma_b: 1.01
+vignette: -25
+temp: 3722
