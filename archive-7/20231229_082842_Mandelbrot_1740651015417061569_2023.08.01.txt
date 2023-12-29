@@ -1,0 +1,28 @@
+tweet_id: 1740651015417061569
+masto_id: 111662761420989536
+subre_id: Not uploaded, but here's the text: Beautiful Friday with this Mandelbrot Set!  #AGI #DeepLearning #Art
+
+n_iter: 496
+ct: 157
+hue_offset: 22
+saturation: -0.28
+
+num_attempts: 28
+dur: 13
+std: 77.19
+size: 1186033 (1.13 MiB)
+
+xmin: -0.7651435222512057
+xmax: -0.7647083612416322
+ymin: -0.08945051491281819
+ymax: -0.08920573684493308
+
+contrast: 1.33
+brightness: 0.23
+saturation: 1.45
+gamma: 1.05
+gamma_r: 0.95
+gamma_g: 1.01
+gamma_b: 1.01
+vignette: -13
+temp: 2186
