@@ -1,0 +1,28 @@
+tweet_id: 1740590723408544240
+masto_id: 111661819352068020
+subre_id: Not uploaded, but here's the text: Keep shining on Friday!  #DeepLearning #Fractals #DigitalArt
+
+n_iter: 401
+ct: 250
+hue_offset: 319
+saturation: -0.03
+
+num_attempts: 10
+dur: 1
+std: 31.25
+size: 1029698 (1005.56 KiB)
+
+xmin: -0.6652027666607232
+xmax: -0.65604944858292
+ymin: -0.4196101740452943
+ymax: -0.41446143262653
+
+contrast: 1.52
+brightness: 0.02
+saturation: 1.68
+gamma: 0.98
+gamma_r: 0.9
+gamma_g: 0.97
+gamma_b: 0.97
+vignette: -24
+temp: 3502
