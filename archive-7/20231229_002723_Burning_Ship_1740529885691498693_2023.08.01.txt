@@ -1,0 +1,28 @@
+tweet_id: 1740529885691498693
+masto_id: 111660868638687868
+subre_id: Not uploaded, but here's the text: Wow, take a look! There's Burning Ship!  #GeneralIntelligence #AGI #Art
+
+n_iter: 263
+ct: 114
+hue_offset: 271
+saturation: 0.86
+
+num_attempts: 43
+dur: 9
+std: 25.88
+size: 1916016 (1.83 MiB)
+
+xmin: -1.053800435754979
+xmax: -0.9945899094391896
+ymin: -0.665751244419972
+ymax: -0.6324453233673405
+
+contrast: 0.97
+brightness: -0.08
+saturation: 1.17
+gamma: 1.02
+gamma_r: 0.94
+gamma_g: 0.93
+gamma_b: 0.93
+vignette: 18
+temp: 6789
