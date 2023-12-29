@@ -1,0 +1,28 @@
+tweet_id: 1740831859234263171
+masto_id: 111665586972745475
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Friday! You got this!  #GenerativeArt #AI #MultiModal
+
+n_iter: 940
+ct: 83
+hue_offset: 191
+saturation: -0.61
+
+num_attempts: 283
+dur: 164
+std: 29.17
+size: 1468297 (1.4 MiB)
+
+xmin: 0.3498713284755617
+xmax: 0.3506401157136935
+ymin: 0.42591775805220444
+ymax: 0.4263502008736536
+
+contrast: 1.64
+brightness: 0.06
+saturation: 0.77
+gamma: 0.95
+gamma_r: 1.05
+gamma_g: 1.0
+gamma_b: 0.94
+vignette: -35
+temp: 4144
