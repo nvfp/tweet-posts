@@ -1,0 +1,28 @@
+tweet_id: 1740564217210548640
+masto_id: 111661405035456767
+subre_id: Not uploaded, but here's the text: Chin up, buttercup!  #GenerativeArt #Mathematics #GeneralIntelligence
+
+n_iter: 468
+ct: 255
+hue_offset: 34
+saturation: -0.1
+
+num_attempts: 481
+dur: 600
+std: 70.54
+size: 1262667 (1.2 MiB)
+
+xmin: -0.5262907326351958
+xmax: -0.521471455526762
+ymin: 0.13752376729780247
+ymax: 0.14023461067129644
+
+contrast: 1.55
+brightness: 0.05
+saturation: 1.0
+gamma: 1.09
+gamma_r: 1.03
+gamma_g: 1.01
+gamma_b: 1.02
+vignette: -44
+temp: 6673
