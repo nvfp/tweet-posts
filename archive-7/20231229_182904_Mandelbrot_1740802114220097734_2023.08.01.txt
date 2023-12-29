@@ -1,0 +1,28 @@
+tweet_id: 1740802114220097734
+masto_id: 111665122152329225
+subre_id: Not uploaded, but here's the text: Warm wishes for your Friday, and let's have a look at this Mandelbrot Set.  #GenerativeArt #AGI #Nature
+
+n_iter: 231
+ct: 10
+hue_offset: 289
+saturation: 0.08
+
+num_attempts: 171
+dur: 39
+std: 49.76
+size: 1143809 (1.09 MiB)
+
+xmin: 0.10348018983555729
+xmax: 0.10485997596870665
+ymin: -0.6048143807766261
+ymax: -0.6040382510767296
+
+contrast: 1.28
+brightness: 0.2
+saturation: 1.07
+gamma: 1.02
+gamma_r: 1.07
+gamma_g: 0.92
+gamma_b: 0.97
+vignette: -9
+temp: 5816
