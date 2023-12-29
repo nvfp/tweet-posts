@@ -1,0 +1,28 @@
+tweet_id: 1740714418416271465
+masto_id: 111663752072996623
+subre_id: Not uploaded, but here's the text: Today is awesome!  #GenerativeArt #Mathematics #DigitalArt
+
+n_iter: 695
+ct: 253
+hue_offset: 330
+saturation: -0.2
+
+num_attempts: 34
+dur: 13
+std: 25.34
+size: 766764 (748.79 KiB)
+
+xmin: -0.011651535192593876
+xmax: -0.011068359802595334
+ymin: -0.6569829157089508
+ymax: -0.6566548795520767
+
+contrast: 1.6
+brightness: 0.09
+saturation: 1.35
+gamma: 0.95
+gamma_r: 1.08
+gamma_g: 0.92
+gamma_b: 0.99
+vignette: -46
+temp: 4127
