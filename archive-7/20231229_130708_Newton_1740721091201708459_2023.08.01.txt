@@ -1,0 +1,31 @@
+tweet_id: 1740721091201708459
+masto_id: 111663856228407666
+subre_id: Not uploaded, but here's the text: Let's make it a memorable Friday!  #GeneralIntelligence #Art #Nature
+
+newton_power: 5
+newton_const: 6
+
+n_iter: 88
+ct: 103
+hue_offset: 322
+saturation: -0.49
+
+num_attempts: 213
+dur: 602
+std: 11.28
+size: 918088 (896.57 KiB)
+
+xmin: 1.408221616398567
+xmax: 1.447437302673077
+ymin: -0.22574419483372843
+ymax: -0.20368537130431666
+
+contrast: 1.44
+brightness: 0.17
+saturation: 1.01
+gamma: 0.99
+gamma_r: 0.93
+gamma_g: 1.01
+gamma_b: 0.96
+vignette: 18
+temp: 3194
