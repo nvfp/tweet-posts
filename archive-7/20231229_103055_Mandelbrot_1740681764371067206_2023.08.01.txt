@@ -1,0 +1,28 @@
+tweet_id: 1740681764371067206
+masto_id: 111663241948034309
+subre_id: Not uploaded, but here's the text: Wishing you a joyful day!  #Fractals #MultiModal #Nature
+
+n_iter: 281
+ct: 176
+hue_offset: 344
+saturation: -1.0
+
+num_attempts: 57
+dur: 20
+std: 32.86
+size: 976628 (953.74 KiB)
+
+xmin: -0.8667059632465219
+xmax: -0.8660158321216082
+ymin: -0.213654996412604
+ymax: -0.21326679765484002
+
+contrast: 0.73
+brightness: 0.15
+saturation: 1.38
+gamma: 1.03
+gamma_r: 0.94
+gamma_g: 1.08
+gamma_b: 1.08
+vignette: 15
+temp: 4366
