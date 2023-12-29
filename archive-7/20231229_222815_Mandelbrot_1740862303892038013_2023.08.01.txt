@@ -1,0 +1,28 @@
+tweet_id: 1740862303892038013
+masto_id: 111666062639591384
+subre_id: Not uploaded, but here's the text: Enjoying the Friday with this Mandelbrot Set.  #DigitalArt #Mathematics #VisualArt
+
+n_iter: 776
+ct: 177
+hue_offset: 282
+saturation: -0.89
+
+num_attempts: 20
+dur: 11
+std: 163.18
+size: 1587669 (1.51 MiB)
+
+xmin: -0.9166922749000261
+xmax: -0.9162211878666967
+ymin: -0.25872144609634395
+ymax: -0.25845645964009617
+
+contrast: 1.46
+brightness: -0.07
+saturation: 0.7
+gamma: 1.08
+gamma_r: 0.97
+gamma_g: 1.05
+gamma_b: 0.95
+vignette: 23
+temp: 4561
