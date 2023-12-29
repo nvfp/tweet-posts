@@ -1,0 +1,28 @@
+tweet_id: 1740621528323047723
+masto_id: 111662300472684601
+subre_id: Not uploaded, but here's the text: Friday vibes!  #AGI #MachineLearning #VisualArt
+
+n_iter: 837
+ct: 150
+hue_offset: 45
+saturation: -0.39
+
+num_attempts: 121
+dur: 78
+std: 132.09
+size: 1064032 (1.01 MiB)
+
+xmin: -1.0808438897112538
+xmax: -1.0650958582151908
+ymin: -0.24721136511238695
+ymax: -0.2383530973958515
+
+contrast: 1.09
+brightness: -0.03
+saturation: 1.47
+gamma: 1.05
+gamma_r: 1.08
+gamma_g: 0.97
+gamma_b: 0.96
+vignette: -7
+temp: 7502
