@@ -1,0 +1,28 @@
+tweet_id: 1740546838460027011
+masto_id: 111661133479573958
+subre_id: Not uploaded, but here's the text: Let the magic of Friday fill your heart!  #Art #Nature #GenerativeArt
+
+n_iter: 326
+ct: 1
+hue_offset: 270
+saturation: -0.01
+
+num_attempts: 713
+dur: 600
+std: 61.91
+size: 1047684 (1023.13 KiB)
+
+xmin: 0.29797765347696004
+xmax: 0.3044085216441626
+ymin: -0.6911056380635585
+ymax: -0.687488274719507
+
+contrast: 0.87
+brightness: 0.18
+saturation: 1.05
+gamma: 0.91
+gamma_r: 1.07
+gamma_g: 1.03
+gamma_b: 0.95
+vignette: 14
+temp: 6692
