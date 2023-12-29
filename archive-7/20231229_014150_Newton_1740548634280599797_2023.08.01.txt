@@ -1,0 +1,31 @@
+tweet_id: 1740548634280599797
+masto_id: 111661161527791648
+subre_id: Not uploaded, but here's the text: Hey there, it's Friday!  #Nature #MultiModal #AI
+
+newton_power: 4
+newton_const: -9
+
+n_iter: 88
+ct: 16
+hue_offset: 121
+saturation: -0.76
+
+num_attempts: 246
+dur: 600
+std: 8.28
+size: 744000 (726.56 KiB)
+
+xmin: -0.36740999416612086
+xmax: -0.34933770500949435
+ymin: 0.8762138215594915
+ymax: 0.8863794842100938
+
+contrast: 0.71
+brightness: 0.14
+saturation: 0.97
+gamma: 1.08
+gamma_r: 1.0
+gamma_g: 1.06
+gamma_b: 1.09
+vignette: 4
+temp: 7871
