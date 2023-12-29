@@ -1,0 +1,28 @@
+tweet_id: 1740594234984431840
+masto_id: 111661873949158389
+subre_id: Not uploaded, but here's the text: Keep smiling!  #VisualArt #Art #GenerativeArt
+
+n_iter: 326
+ct: 1
+hue_offset: 188
+saturation: -0.01
+
+num_attempts: 628
+dur: 604
+std: 54.11
+size: 387012 (377.94 KiB)
+
+xmin: -0.5467762946595087
+xmax: -0.5369723730908813
+ymin: 0.3562890879910037
+ymax: 0.3618037938733566
+
+contrast: 1.22
+brightness: 0.15
+saturation: 0.68
+gamma: 0.96
+gamma_r: 0.95
+gamma_g: 1.08
+gamma_b: 0.99
+vignette: 0
+temp: 6572
