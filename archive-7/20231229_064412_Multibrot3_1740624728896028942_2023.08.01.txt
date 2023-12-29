@@ -1,0 +1,28 @@
+tweet_id: 1740624728896028942
+masto_id: 111662350487557509
+subre_id: Not uploaded, but here's the text: you are fantastic!  #AI #GeneralIntelligence #Art
+
+n_iter: 372
+ct: 1
+hue_offset: 86
+saturation: -0.32
+
+num_attempts: 592
+dur: 604
+std: 58.2
+size: 791956 (773.39 KiB)
+
+xmin: 0.5432525207997099
+xmax: 0.5479090982153094
+ymin: -0.4598263454928202
+ymax: -0.45720702069654545
+
+contrast: 1.7
+brightness: 0.23
+saturation: 0.56
+gamma: 1.09
+gamma_r: 1.09
+gamma_g: 0.94
+gamma_b: 0.93
+vignette: -19
+temp: 5386
