@@ -1,0 +1,28 @@
+tweet_id: 1740805389178798315
+masto_id: 111665173386155340
+subre_id: Not uploaded, but here's the text: Wishing you a wonderful Friday!  #MachineLearning #MultiModal #AI
+
+n_iter: 456
+ct: 255
+hue_offset: 300
+saturation: -0.86
+
+num_attempts: 536
+dur: 602
+std: 81.91
+size: 1329859 (1.27 MiB)
+
+xmin: 0.07626629906471516
+xmax: 0.08286695913072176
+ymin: -0.7685310301653316
+ymax: -0.7648181588782029
+
+contrast: 0.83
+brightness: 0.03
+saturation: 1.68
+gamma: 0.99
+gamma_r: 0.94
+gamma_g: 1.02
+gamma_b: 1.07
+vignette: -18
+temp: 6273
