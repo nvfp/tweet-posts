@@ -1,0 +1,31 @@
+tweet_id: 1740568287225041333
+masto_id: 111661468654867835
+subre_id: Not uploaded, but here's the text: Surprise! It's a Newton!  #AGI #GeneralIntelligence #VisualArt
+
+newton_power: 4
+newton_const: 5
+
+n_iter: 78
+ct: 193
+hue_offset: 230
+saturation: 0.01
+
+num_attempts: 250
+dur: 600
+std: 8.56
+size: 492142 (480.61 KiB)
+
+xmin: 0.2625126615088509
+xmax: 0.2743469810354781
+ymin: -0.4755699809004452
+ymax: -0.4689131761667174
+
+contrast: 1.26
+brightness: 0.02
+saturation: 1.35
+gamma: 1.09
+gamma_r: 0.92
+gamma_g: 1.03
+gamma_b: 0.93
+vignette: 5
+temp: 2699
