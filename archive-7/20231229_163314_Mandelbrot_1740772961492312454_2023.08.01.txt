@@ -1,0 +1,28 @@
+tweet_id: 1740772961492312454
+masto_id: 111664666679383993
+subre_id: Not uploaded, but here's the text: Friday vibes!  #Mathematics #GenerativeArt #MultiModal
+
+n_iter: 981
+ct: 245
+hue_offset: 353
+saturation: 0.12
+
+num_attempts: 13
+dur: 10
+std: 20.86
+size: 821337 (802.09 KiB)
+
+xmin: 0.11302452235933647
+xmax: 0.13934031183302067
+ymin: -0.6697096742028469
+ymax: -0.6549070426238995
+
+contrast: 1.45
+brightness: -0.07
+saturation: 0.5
+gamma: 0.91
+gamma_r: 0.96
+gamma_g: 1.05
+gamma_b: 0.96
+vignette: -12
+temp: 4921
