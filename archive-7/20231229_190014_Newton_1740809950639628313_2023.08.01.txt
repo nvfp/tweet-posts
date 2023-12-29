@@ -1,0 +1,31 @@
+tweet_id: 1740809950639628313
+masto_id: 111665244674471939
+subre_id: Not uploaded, but here's the text: Surprise! It's a Newton!  #DigitalArt #DeepLearning #AGI
+
+newton_power: 4
+newton_const: 10
+
+n_iter: 252
+ct: 69
+hue_offset: 157
+saturation: -0.0
+
+num_attempts: 266
+dur: 601
+std: 8.62
+size: 526982 (514.63 KiB)
+
+xmin: -0.004919589573830319
+xmax: 0.09185460397455678
+ymin: 1.3123326794376853
+ymax: 1.366768163308653
+
+contrast: 1.53
+brightness: 0.02
+saturation: 0.72
+gamma: 1.1
+gamma_r: 1.01
+gamma_g: 1.07
+gamma_b: 1.02
+vignette: -16
+temp: 5597
