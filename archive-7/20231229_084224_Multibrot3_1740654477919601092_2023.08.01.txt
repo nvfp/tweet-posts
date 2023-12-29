@@ -1,0 +1,28 @@
+tweet_id: 1740654477919601092
+masto_id: 111662815255956347
+subre_id: Not uploaded, but here's the text: Beautiful Friday with this Multibrot!  #DigitalArt #Nature #GeneralIntelligence
+
+n_iter: 394
+ct: 255
+hue_offset: 194
+saturation: 0.75
+
+num_attempts: 580
+dur: 603
+std: 68.57
+size: 617987 (603.5 KiB)
+
+xmin: -0.5117345815324712
+xmax: -0.5055137417190964
+ymin: 0.468821598043744
+ymax: 0.47232082043876733
+
+contrast: 1.4
+brightness: 0.16
+saturation: 0.98
+gamma: 0.95
+gamma_r: 0.94
+gamma_g: 1.02
+gamma_b: 1.02
+vignette: 0
+temp: 5664
