@@ -1,0 +1,28 @@
+tweet_id: 1740865761558806620
+masto_id: 111666116845242363
+subre_id: Not uploaded, but here's the text: Sending you this fractal on this Friday!  #AGI #Art #DigitalArt
+
+n_iter: 320
+ct: 1
+hue_offset: 252
+saturation: -0.99
+
+num_attempts: 710
+dur: 600
+std: 56.32
+size: 1093191 (1.04 MiB)
+
+xmin: -0.18601764185329706
+xmax: -0.18089600292884123
+ymin: 0.8625141403001129
+ymax: 0.8653950621951193
+
+contrast: 0.95
+brightness: 0.17
+saturation: 1.31
+gamma: 0.98
+gamma_r: 1.02
+gamma_g: 0.96
+gamma_b: 0.97
+vignette: -17
+temp: 2021
