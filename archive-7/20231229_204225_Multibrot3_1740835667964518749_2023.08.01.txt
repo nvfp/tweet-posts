@@ -1,0 +1,28 @@
+tweet_id: 1740835667964518749
+masto_id: 111665646472762280
+subre_id: Not uploaded, but here's the text: Let's rock this Friday!  #Nature #Art #MultiModal
+
+n_iter: 533
+ct: 1
+hue_offset: 348
+saturation: 0.28
+
+num_attempts: 457
+dur: 600
+std: 73.22
+size: 823704 (804.4 KiB)
+
+xmin: -0.44238022989942727
+xmax: -0.43779307393612454
+ymin: -0.5612135602322931
+ymax: -0.5586332850029353
+
+contrast: 0.9
+brightness: 0.17
+saturation: 1.62
+gamma: 1.05
+gamma_r: 1.02
+gamma_g: 1.03
+gamma_b: 0.98
+vignette: 14
+temp: 7871
