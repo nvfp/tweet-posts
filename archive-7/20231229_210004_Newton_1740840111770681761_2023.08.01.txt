@@ -1,0 +1,31 @@
+tweet_id: 1740840111770681761
+masto_id: 111665715926530842
+subre_id: Not uploaded, but here's the text: Happy Friday! Enjoy the beauty of Newton.  #GeneralIntelligence #DeepLearning #ArtificialIntelligence
+
+newton_power: 6
+newton_const: 5
+
+n_iter: 85
+ct: 8
+hue_offset: 341
+saturation: 0.43
+
+num_attempts: 181
+dur: 600
+std: 15.07
+size: 1349647 (1.29 MiB)
+
+xmin: 1.1013711591611806
+xmax: 1.2013711591611806
+ymin: 1.6644954785424644
+ymax: 1.7207454785424643
+
+contrast: 0.86
+brightness: -0.02
+saturation: 0.28
+gamma: 1.05
+gamma_r: 1.05
+gamma_g: 1.07
+gamma_b: 1.02
+vignette: -40
+temp: 5408
