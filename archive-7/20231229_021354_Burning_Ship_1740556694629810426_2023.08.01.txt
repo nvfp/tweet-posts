@@ -1,0 +1,28 @@
+tweet_id: 1740556694629810426
+masto_id: 111661287622966706
+subre_id: Not uploaded, but here's the text: A great Friday and a beautiful Burning Ship.  #VisualArt #GenerativeArt #GeneralIntelligence
+
+n_iter: 442
+ct: 220
+hue_offset: 14
+saturation: 0.06
+
+num_attempts: 25
+dur: 7
+std: 46.04
+size: 936089 (914.15 KiB)
+
+xmin: 0.09340320995394924
+xmax: 0.4148317813825207
+ymin: -1.3073608218385742
+ymax: -1.1265572504100028
+
+contrast: 1.54
+brightness: 0.14
+saturation: 1.72
+gamma: 0.98
+gamma_r: 1.07
+gamma_g: 0.95
+gamma_b: 0.97
+vignette: -21
+temp: 5778
