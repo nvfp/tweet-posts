@@ -1,0 +1,28 @@
+tweet_id: 1740766901343490551
+masto_id: 111664571936740630
+subre_id: Not uploaded, but here's the text: Wow, take a look! There's Burning Ship!  #MachineLearning #Mathematics #Nature
+
+n_iter: 281
+ct: 168
+hue_offset: 119
+saturation: -0.69
+
+num_attempts: 2
+dur: 0
+std: 32.44
+size: 1996009 (1.9 MiB)
+
+xmin: -0.8238314531557518
+xmax: -0.47767760700190565
+ymin: -1.070871430495215
+ymax: -0.8761598920336765
+
+contrast: 1.15
+brightness: -0.02
+saturation: 1.04
+gamma: 1.07
+gamma_r: 0.99
+gamma_g: 0.99
+gamma_b: 0.92
+vignette: -46
+temp: 7213
