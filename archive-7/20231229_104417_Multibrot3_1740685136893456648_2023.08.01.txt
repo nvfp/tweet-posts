@@ -1,0 +1,28 @@
+tweet_id: 1740685136893456648
+masto_id: 111663294501745411
+subre_id: Not uploaded, but here's the text: Look closely, it's Multibrot!  #AI #GenerativeArt #AGI
+
+n_iter: 498
+ct: 1
+hue_offset: 144
+saturation: 0.48
+
+num_attempts: 431
+dur: 600
+std: 56.4
+size: 861162 (840.98 KiB)
+
+xmin: 0.5244593875328669
+xmax: 0.5437830590304514
+ymin: -0.4222301264267614
+ymax: -0.4113605612093701
+
+contrast: 0.99
+brightness: 0.07
+saturation: 1.25
+gamma: 0.92
+gamma_r: 1.05
+gamma_g: 1.01
+gamma_b: 1.06
+vignette: -4
+temp: 3076
