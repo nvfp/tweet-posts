@@ -1,0 +1,28 @@
+tweet_id: 1740616127146021349
+masto_id: 111662216298920642
+subre_id: Not uploaded, but here's the text: Keep shining on Friday!  #Nature #AGI #Art
+
+n_iter: 432
+ct: 183
+hue_offset: 125
+saturation: -0.16
+
+num_attempts: 26
+dur: 9
+std: 54.84
+size: 1513327 (1.44 MiB)
+
+xmin: -1.2806556015714632
+xmax: -1.2342638489941435
+ymin: -0.3230337420001548
+ymax: -0.2969383811754125
+
+contrast: 1.31
+brightness: 0.09
+saturation: 1.37
+gamma: 1.07
+gamma_r: 0.95
+gamma_g: 0.97
+gamma_b: 1.02
+vignette: -38
+temp: 4864
