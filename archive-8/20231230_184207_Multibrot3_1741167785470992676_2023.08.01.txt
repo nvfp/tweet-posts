@@ -1,0 +1,28 @@
+tweet_id: 1741167785470992676
+masto_id: 111670835766222244
+subre_id: Not uploaded, but here's the text: Saturday vibes!  #MultiModal #AGI #Art
+
+n_iter: 372
+ct: 1
+hue_offset: 276
+saturation: 0.85
+
+num_attempts: 773
+dur: 600
+std: 64.81
+size: 1151895 (1.1 MiB)
+
+xmin: 0.5204608423799839
+xmax: 0.5245258830303904
+ymin: -0.6113517788403192
+ymax: -0.6090651934744655
+
+contrast: 1.43
+brightness: 0.04
+saturation: 1.26
+gamma: 0.92
+gamma_r: 0.93
+gamma_g: 1.09
+gamma_b: 0.96
+vignette: -13
+temp: 5415
