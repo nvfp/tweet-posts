@@ -1,0 +1,28 @@
+tweet_id: 1740920083663474934
+masto_id: 111666965463810305
+subre_id: Not uploaded, but here's the text: Burning Ship vibes to brighten your Saturday.  #Art #AI #Nature
+
+n_iter: 205
+ct: 31
+hue_offset: 314
+saturation: -0.67
+
+num_attempts: 23
+dur: 5
+std: 26.09
+size: 1122617 (1.07 MiB)
+
+xmin: -0.9245881210119185
+xmax: -0.6745881210119185
+ymin: -0.6852095245916874
+ymax: -0.5445845245916874
+
+contrast: 0.74
+brightness: 0.22
+saturation: 1.46
+gamma: 0.95
+gamma_r: 0.95
+gamma_g: 0.97
+gamma_b: 1.05
+vignette: -26
+temp: 7939
