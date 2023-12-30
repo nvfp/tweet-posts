@@ -1,0 +1,28 @@
+tweet_id: 1740910901941924346
+masto_id: 111666822015925309
+subre_id: Not uploaded, but here's the text: Have an extraordinary Saturday!  #GenerativeArt #DeepLearning #Nature
+
+n_iter: 454
+ct: 1
+hue_offset: 319
+saturation: -0.18
+
+num_attempts: 539
+dur: 601
+std: 78.4
+size: 1080549 (1.03 MiB)
+
+xmin: 0.2075192734030229
+xmax: 0.21623387035291397
+ymin: -0.7335207085946192
+ymax: -0.7286187478103054
+
+contrast: 1.47
+brightness: 0.12
+saturation: 1.33
+gamma: 0.9
+gamma_r: 1.08
+gamma_g: 1.02
+gamma_b: 0.97
+vignette: -25
+temp: 7392
