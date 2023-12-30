@@ -1,0 +1,28 @@
+tweet_id: 1741224432461390017
+masto_id: 111671720864887623
+subre_id: Not uploaded, but here's the text: Let this Mandelbrot Set inspire your Saturday.  #MachineLearning #GenerativeArt #MultiModal
+
+n_iter: 818
+ct: 13
+hue_offset: 24
+saturation: 0.44
+
+num_attempts: 4
+dur: 1
+std: 141.01
+size: 1847132 (1.76 MiB)
+
+xmin: -0.47355279130482497
+xmax: -0.47314508566829455
+ymin: -0.5879430132181988
+ymax: -0.5877136787976504
+
+contrast: 1.09
+brightness: 0.17
+saturation: 1.26
+gamma: 1.07
+gamma_r: 0.9
+gamma_g: 0.95
+gamma_b: 0.99
+vignette: -20
+temp: 7694
