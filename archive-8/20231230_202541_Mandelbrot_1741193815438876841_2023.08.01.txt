@@ -1,0 +1,28 @@
+tweet_id: 1741193815438876841
+masto_id: 111671242766816890
+subre_id: Not uploaded, but here's the text: Another Saturday, another Mandelbrot Set!  #DigitalArt #Fractals #VisualArt
+
+n_iter: 632
+ct: 14
+hue_offset: 308
+saturation: 0.28
+
+num_attempts: 127
+dur: 65
+std: 16.34
+size: 1023160 (999.18 KiB)
+
+xmin: 0.34034045422369186
+xmax: 0.3411933326885106
+ymin: -0.5772481235809857
+ymax: -0.5767683794445251
+
+contrast: 1.33
+brightness: 0.13
+saturation: 0.98
+gamma: 0.91
+gamma_r: 1.07
+gamma_g: 1.05
+gamma_b: 1.04
+vignette: 31
+temp: 4926
