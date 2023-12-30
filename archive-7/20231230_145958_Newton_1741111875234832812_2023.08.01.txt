@@ -1,0 +1,31 @@
+tweet_id: 1741111875234832812
+masto_id: 111669962216483145
+subre_id: Not uploaded, but here's the text: Beautiful Saturday with this Newton!  #VisualArt #Fractals #Mathematics
+
+newton_power: 7
+newton_const: 1
+
+n_iter: 148
+ct: 226
+hue_offset: 282
+saturation: 0.61
+
+num_attempts: 145
+dur: 601
+std: 26.54
+size: 1023558 (999.57 KiB)
+
+xmin: -1.8379426937041323
+xmax: -1.8301807273393198
+ymin: 0.6704902866595086
+ymax: 0.6748563927397155
+
+contrast: 1.33
+brightness: -0.02
+saturation: 0.26
+gamma: 1.06
+gamma_r: 1.06
+gamma_g: 1.05
+gamma_b: 1.09
+vignette: -44
+temp: 2929
