@@ -1,0 +1,31 @@
+tweet_id: 1741202571891753396
+masto_id: 111671379507964838
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Saturday! You got this!  #Mathematics #DigitalArt #MachineLearning
+
+newton_power: 3
+newton_const: -8
+
+n_iter: 158
+ct: 41
+hue_offset: 46
+saturation: -0.72
+
+num_attempts: 527
+dur: 601
+std: 4.05
+size: 807719 (788.79 KiB)
+
+xmin: 0.7654355327907987
+xmax: 0.7955862865596429
+ymin: 1.3743596408530565
+ymax: 1.3913194398480313
+
+contrast: 1.49
+brightness: 0.01
+saturation: 0.62
+gamma: 0.97
+gamma_r: 0.98
+gamma_g: 0.91
+gamma_b: 1.1
+vignette: 33
+temp: 2285
