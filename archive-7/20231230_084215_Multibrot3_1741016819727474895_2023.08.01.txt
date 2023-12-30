@@ -1,0 +1,28 @@
+tweet_id: 1741016819727474895
+masto_id: 111668476995764817
+subre_id: Not uploaded, but here's the text: Hope you're having a great Saturday!  #DeepLearning #VisualArt #MultiModal
+
+n_iter: 436
+ct: 255
+hue_offset: 235
+saturation: 0.1
+
+num_attempts: 555
+dur: 606
+std: 70.07
+size: 810777 (791.77 KiB)
+
+xmin: 0.5359156796293703
+xmax: 0.5417550956877644
+ymin: 0.35224285557038715
+ymax: 0.3555275271032339
+
+contrast: 1.13
+brightness: -0.09
+saturation: 0.62
+gamma: 1.06
+gamma_r: 1.07
+gamma_g: 1.02
+gamma_b: 0.91
+vignette: -9
+temp: 5798
