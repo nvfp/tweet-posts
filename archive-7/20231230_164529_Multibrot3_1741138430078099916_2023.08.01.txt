@@ -1,0 +1,28 @@
+tweet_id: 1741138430078099916
+masto_id: 111670377169282804
+subre_id: Not uploaded, but here's the text: Smile, it's Saturday!  #Mathematics #DeepLearning #AGI
+
+n_iter: 283
+ct: 255
+hue_offset: 254
+saturation: 0.78
+
+num_attempts: 810
+dur: 600
+std: 55.64
+size: 1212901 (1.16 MiB)
+
+xmin: 0.5030113487297059
+xmax: 0.5097567112929436
+ymin: 0.4530233170621376
+ymax: 0.45681758350395885
+
+contrast: 0.96
+brightness: 0.06
+saturation: 1.08
+gamma: 0.98
+gamma_r: 1.02
+gamma_g: 1.06
+gamma_b: 0.96
+vignette: -13
+temp: 7330
