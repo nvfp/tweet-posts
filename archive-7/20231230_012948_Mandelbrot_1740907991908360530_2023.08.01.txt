@@ -1,0 +1,28 @@
+tweet_id: 1740907991908360530
+masto_id: 111666776507246232
+subre_id: Not uploaded, but here's the text: Another Saturday, another Mandelbrot Set!  #Mathematics #AI #DigitalArt
+
+n_iter: 482
+ct: 80
+hue_offset: 39
+saturation: -0.33
+
+num_attempts: 90
+dur: 33
+std: 75.57
+size: 1283611 (1.22 MiB)
+
+xmin: -1.2158015988859385
+xmax: -1.2151794181424325
+ymin: -0.133218853852206
+ymax: -0.13286887718398388
+
+contrast: 1.68
+brightness: 0.14
+saturation: 0.74
+gamma: 1.01
+gamma_r: 1.03
+gamma_g: 0.96
+gamma_b: 0.97
+vignette: 31
+temp: 2328
