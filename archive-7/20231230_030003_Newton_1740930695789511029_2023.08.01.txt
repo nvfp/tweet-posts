@@ -1,0 +1,31 @@
+tweet_id: 1740930695789511029
+masto_id: 111667131420616005
+subre_id: Not uploaded, but here's the text: Warm wishes for your Saturday, and let's have a look at this Newton.  #MultiModal #DigitalArt #Art
+
+newton_power: 5
+newton_const: -2
+
+n_iter: 135
+ct: 34
+hue_offset: 268
+saturation: 0.94
+
+num_attempts: 199
+dur: 600
+std: 13.16
+size: 1054968 (1.01 MiB)
+
+xmin: 1.7477295496681045
+xmax: 1.7585403604789152
+ymin: -1.509554419984135
+ymax: -1.503473338903054
+
+contrast: 0.94
+brightness: 0.11
+saturation: 1.45
+gamma: 1.05
+gamma_r: 1.06
+gamma_g: 0.96
+gamma_b: 1.05
+vignette: 33
+temp: 6296
