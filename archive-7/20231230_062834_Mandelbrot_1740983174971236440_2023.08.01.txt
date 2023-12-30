@@ -1,0 +1,28 @@
+tweet_id: 1740983174971236440
+masto_id: 111667951304949874
+subre_id: Not uploaded, but here's the text: Look closely, it's Mandelbrot Set!  #Mathematics #MachineLearning #MultiModal
+
+n_iter: 671
+ct: 213
+hue_offset: 351
+saturation: 0.62
+
+num_attempts: 33
+dur: 16
+std: 20.91
+size: 1024152 (1000.15 KiB)
+
+xmin: -0.8689626435665305
+xmax: -0.866336248294042
+ymin: -0.24204402200923025
+ymax: -0.24056667466845547
+
+contrast: 0.79
+brightness: -0.01
+saturation: 1.06
+gamma: 1.02
+gamma_r: 0.98
+gamma_g: 1.0
+gamma_b: 1.06
+vignette: 25
+temp: 3483
