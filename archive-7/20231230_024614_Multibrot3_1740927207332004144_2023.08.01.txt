@@ -1,0 +1,28 @@
+tweet_id: 1740927207332004144
+masto_id: 111667076914676725
+subre_id: Not uploaded, but here's the text: Brighten your Saturday!  #Art #MultiModal #VisualArt
+
+n_iter: 499
+ct: 255
+hue_offset: 108
+saturation: 0.77
+
+num_attempts: 444
+dur: 600
+std: 75.59
+size: 1312644 (1.25 MiB)
+
+xmin: -0.5186919209388294
+xmax: -0.5075808098277184
+ymin: -0.4508262639900218
+ymax: -0.4445762639900218
+
+contrast: 0.99
+brightness: 0.12
+saturation: 1.42
+gamma: 0.94
+gamma_r: 1.03
+gamma_g: 1.06
+gamma_b: 0.91
+vignette: -16
+temp: 2811
