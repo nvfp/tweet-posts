@@ -1,0 +1,28 @@
+tweet_id: 1740978133577425094
+masto_id: 111667872489847598
+subre_id: Not uploaded, but here's the text: Hope your Saturday is awesome!  #DigitalArt #Art #MultiModal
+
+n_iter: 490
+ct: 247
+hue_offset: 114
+saturation: 0.28
+
+num_attempts: 3
+dur: 3
+std: 31.91
+size: 279116 (272.57 KiB)
+
+xmin: 0.04219991117803579
+xmax: 0.10141043749382525
+ymin: 0.319259444709886
+ymax: 0.35256536576251757
+
+contrast: 0.97
+brightness: -0.08
+saturation: 1.08
+gamma: 0.97
+gamma_r: 1.05
+gamma_g: 1.1
+gamma_b: 1.04
+vignette: -31
+temp: 5369
