@@ -1,0 +1,28 @@
+tweet_id: 1741069434079658408
+masto_id: 111669299107040748
+subre_id: Not uploaded, but here's the text: Smile!  #DeepLearning #VisualArt #MultiModal
+
+n_iter: 195
+ct: 174
+hue_offset: 88
+saturation: 0.69
+
+num_attempts: 27
+dur: 5
+std: 30.36
+size: 1403244 (1.34 MiB)
+
+xmin: 0.6393997474490671
+xmax: 0.8350519213621106
+ymin: -1.2293930038601513
+ymax: -1.1193386560340643
+
+contrast: 0.99
+brightness: 0.13
+saturation: 1.4
+gamma: 1.06
+gamma_r: 0.95
+gamma_g: 1.06
+gamma_b: 0.96
+vignette: 13
+temp: 4606
