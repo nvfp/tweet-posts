@@ -1,0 +1,31 @@
+tweet_id: 1740960886867550439
+masto_id: 111667602978733435
+subre_id: Not uploaded, but here's the text: Hope you're having a great Saturday!  #ArtificialIntelligence #Mathematics #DigitalArt
+
+newton_power: 5
+newton_const: -3
+
+n_iter: 160
+ct: 146
+hue_offset: 238
+saturation: -0.08
+
+num_attempts: 222
+dur: 601
+std: 10.58
+size: 1283482 (1.22 MiB)
+
+xmin: 2.200128299206077
+xmax: 2.20697761427457
+ymin: -1.2841765059572505
+ymax: -1.2803237662312232
+
+contrast: 1.39
+brightness: 0.21
+saturation: 1.39
+gamma: 0.94
+gamma_r: 0.9
+gamma_g: 0.96
+gamma_b: 0.92
+vignette: -35
+temp: 5852
