@@ -1,0 +1,28 @@
+tweet_id: 1741107410310500420
+masto_id: 111669892483300884
+subre_id: Not uploaded, but here's the text: Have an awesome Saturday!  #MultiModal #VisualArt #Nature
+
+n_iter: 622
+ct: 1
+hue_offset: 72
+saturation: 0.93
+
+num_attempts: 412
+dur: 600
+std: 61.47
+size: 496467 (484.83 KiB)
+
+xmin: -0.5067345775421159
+xmax: -0.48475655556409397
+ymin: -0.5995259266799409
+ymax: -0.5871632893173035
+
+contrast: 1.08
+brightness: -0.07
+saturation: 1.45
+gamma: 1.01
+gamma_r: 0.97
+gamma_g: 1.03
+gamma_b: 1.07
+vignette: 28
+temp: 4699
