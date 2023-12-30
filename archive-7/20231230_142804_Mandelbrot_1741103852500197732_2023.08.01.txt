@@ -1,0 +1,28 @@
+tweet_id: 1741103852500197732
+masto_id: 111669836796354478
+subre_id: Not uploaded, but here's the text: This Saturday is made even better by this Mandelbrot Set!  #GeneralIntelligence #ArtificialIntelligence #Art
+
+n_iter: 834
+ct: 11
+hue_offset: 242
+saturation: -0.52
+
+num_attempts: 205
+dur: 107
+std: 124.88
+size: 1602376 (1.53 MiB)
+
+xmin: 0.24831464229573852
+xmax: 0.24892927044570778
+ymin: -0.5628000064915943
+ymax: -0.5624542781572366
+
+contrast: 1.0
+brightness: 0.02
+saturation: 0.63
+gamma: 1.02
+gamma_r: 1.08
+gamma_g: 0.97
+gamma_b: 1.04
+vignette: -13
+temp: 5540
