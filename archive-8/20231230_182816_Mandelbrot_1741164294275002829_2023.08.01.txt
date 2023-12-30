@@ -1,0 +1,28 @@
+tweet_id: 1741164294275002829
+masto_id: 111670781267253077
+subre_id: Not uploaded, but here's the text: Let this Mandelbrot Set inspire your Saturday.  #ArtificialIntelligence #MachineLearning #Fractals
+
+n_iter: 934
+ct: 75
+hue_offset: 96
+saturation: -0.65
+
+num_attempts: 16
+dur: 7
+std: 35.96
+size: 980341 (957.36 KiB)
+
+xmin: 0.06798646553200616
+xmax: 0.06842271812225591
+ymin: 0.6464592607457347
+ymax: 0.6467046528277501
+
+contrast: 1.41
+brightness: -0.0
+saturation: 0.9
+gamma: 0.92
+gamma_r: 1.08
+gamma_g: 0.97
+gamma_b: 1.05
+vignette: -2
+temp: 2596
