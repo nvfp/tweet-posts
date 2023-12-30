@@ -1,0 +1,28 @@
+tweet_id: 1741046997816422574
+masto_id: 111668948451015901
+subre_id: Not uploaded, but here's the text: Hey there, it's Saturday!  #GenerativeArt #GeneralIntelligence #Art
+
+n_iter: 265
+ct: 255
+hue_offset: 210
+saturation: 0.62
+
+num_attempts: 792
+dur: 602
+std: 49.41
+size: 144641 (141.25 KiB)
+
+xmin: 0.012652347349741078
+xmax: 0.017929392204622342
+ymin: 0.7684554320936288
+ymax: 0.7714237698244995
+
+contrast: 1.67
+brightness: -0.03
+saturation: 0.26
+gamma: 0.99
+gamma_r: 1.04
+gamma_g: 0.93
+gamma_b: 1.08
+vignette: 12
+temp: 3433
