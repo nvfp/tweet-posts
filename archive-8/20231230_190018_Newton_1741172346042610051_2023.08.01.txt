@@ -1,0 +1,31 @@
+tweet_id: 1741172346042610051
+masto_id: 111670907246142039
+subre_id: Not uploaded, but here's the text: Ever heard of this Newton?  #GenerativeArt #Fractals #DeepLearning
+
+newton_power: 7
+newton_const: -7
+
+n_iter: 108
+ct: 207
+hue_offset: 287
+saturation: -0.25
+
+num_attempts: 159
+dur: 603
+std: 20.51
+size: 1382550 (1.32 MiB)
+
+xmin: -0.9403433919504227
+xmax: -0.933676725283756
+ymin: 0.887453637144159
+ymax: 0.8912036371441591
+
+contrast: 1.35
+brightness: 0.23
+saturation: 1.48
+gamma: 0.97
+gamma_r: 1.04
+gamma_g: 0.93
+gamma_b: 0.97
+vignette: -42
+temp: 7261
