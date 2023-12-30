@@ -1,0 +1,31 @@
+tweet_id: 1741142172244791741
+masto_id: 111670435739665126
+subre_id: Not uploaded, but here's the text: A great Saturday and a beautiful Newton.  #AGI #Nature #Fractals
+
+newton_power: 5
+newton_const: 3
+
+n_iter: 129
+ct: 141
+hue_offset: 120
+saturation: -0.08
+
+num_attempts: 205
+dur: 600
+std: 12.54
+size: 1136800 (1.08 MiB)
+
+xmin: -2.2089964540745104
+xmax: -2.201862090221954
+ymin: 1.9550777304428189
+ymax: 1.9590908101098818
+
+contrast: 0.97
+brightness: -0.0
+saturation: 1.27
+gamma: 1.01
+gamma_r: 0.95
+gamma_g: 0.99
+gamma_b: 0.94
+vignette: -43
+temp: 5422
