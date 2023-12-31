@@ -1,0 +1,31 @@
+tweet_id: 1741276733704200697
+masto_id: 111672538417150810
+subre_id: Not uploaded, but here's the text: Feeling the Newton vibes today!  #Fractals #AI #MultiModal
+
+newton_power: 3
+newton_const: 3
+
+n_iter: 106
+ct: 211
+hue_offset: 313
+saturation: 0.19
+
+num_attempts: 519
+dur: 600
+std: 4.41
+size: 626876 (612.18 KiB)
+
+xmin: 1.499731334833304
+xmax: 1.5334392000018433
+ymin: -0.23488787541235756
+ymax: -0.21592720125505419
+
+contrast: 0.99
+brightness: 0.01
+saturation: 0.86
+gamma: 0.96
+gamma_r: 1.05
+gamma_g: 1.1
+gamma_b: 1.05
+vignette: -32
+temp: 7730
