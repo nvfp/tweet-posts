@@ -1,0 +1,28 @@
+tweet_id: 1741586974723747949
+masto_id: 111677385637574194
+subre_id: Not uploaded, but here's the text: You are lovely!  #DigitalArt #AGI #AI
+
+n_iter: 531
+ct: 250
+hue_offset: 150
+saturation: -0.94
+
+num_attempts: 79
+dur: 21
+std: 84.62
+size: 1960339 (1.87 MiB)
+
+xmin: -0.08371423534533928
+xmax: -0.08207824352529838
+ymin: -0.8343460832560017
+ymax: -0.8334258378572287
+
+contrast: 1.76
+brightness: 0.01
+saturation: 1.39
+gamma: 0.94
+gamma_r: 1.04
+gamma_g: 0.93
+gamma_b: 0.98
+vignette: -18
+temp: 3642
