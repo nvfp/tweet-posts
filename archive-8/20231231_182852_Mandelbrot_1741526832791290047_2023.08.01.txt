@@ -1,0 +1,28 @@
+tweet_id: 1741526832791290047
+masto_id: 111676445970914583
+subre_id: Not uploaded, but here's the text: Have an awesome day!  #MultiModal #Nature #VisualArt
+
+n_iter: 396
+ct: 122
+hue_offset: 14
+saturation: -0.16
+
+num_attempts: 235
+dur: 79
+std: 62.84
+size: 899572 (878.49 KiB)
+
+xmin: -0.21520678160821038
+xmax: -0.20301165965699086
+ymin: -0.7078938271731033
+ymax: -0.7010340710755424
+
+contrast: 0.97
+brightness: 0.16
+saturation: 0.47
+gamma: 0.96
+gamma_r: 0.97
+gamma_g: 0.97
+gamma_b: 1.05
+vignette: -43
+temp: 5430
