@@ -1,0 +1,31 @@
+tweet_id: 1741595121143996773
+masto_id: 111677513029730275
+subre_id: Not uploaded, but here's the text: Sunday vibes!  #Fractals #AI #Art
+
+newton_power: 4
+newton_const: 9
+
+n_iter: 244
+ct: 6
+hue_offset: 221
+saturation: 0.61
+
+num_attempts: 264
+dur: 601
+std: 8.58
+size: 827912 (808.51 KiB)
+
+xmin: 2.929595994748704
+xmax: 2.936139069994069
+ymin: 0.3136606809500013
+ymax: 0.3173411607755193
+
+contrast: 0.91
+brightness: 0.13
+saturation: 1.47
+gamma: 1.05
+gamma_r: 0.97
+gamma_g: 0.99
+gamma_b: 0.99
+vignette: 10
+temp: 4704
