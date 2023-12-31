@@ -1,0 +1,31 @@
+tweet_id: 1741504454703063529
+masto_id: 111676096284777532
+subre_id: Not uploaded, but here's the text: You rock, and so does this Sunday!  #AGI #Art #DigitalArt
+
+newton_power: 3
+newton_const: -10
+
+n_iter: 159
+ct: 141
+hue_offset: 55
+saturation: 0.67
+
+num_attempts: 528
+dur: 600
+std: 4.37
+size: 354638 (346.33 KiB)
+
+xmin: 0.7697719495182422
+xmax: 0.7760546720313313
+ymin: 1.430562317466085
+ymax: 1.4340963488796976
+
+contrast: 1.45
+brightness: 0.14
+saturation: 1.32
+gamma: 0.94
+gamma_r: 0.98
+gamma_g: 1.0
+gamma_b: 1.09
+vignette: -2
+temp: 5303
