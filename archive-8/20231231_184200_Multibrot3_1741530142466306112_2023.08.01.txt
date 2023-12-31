@@ -1,0 +1,28 @@
+tweet_id: 1741530142466306112
+masto_id: 111676497633564569
+subre_id: Not uploaded, but here's the text: Look closely, it's Multibrot!  #Mathematics #GenerativeArt #ArtificialIntelligence
+
+n_iter: 471
+ct: 1
+hue_offset: 133
+saturation: 0.54
+
+num_attempts: 518
+dur: 600
+std: 89.54
+size: 1005350 (981.79 KiB)
+
+xmin: -0.37088188804873323
+xmax: -0.3643989058769342
+ymin: -0.6429885473646321
+ymax: -0.6393418698929951
+
+contrast: 0.8
+brightness: 0.05
+saturation: 1.39
+gamma: 0.94
+gamma_r: 1.04
+gamma_g: 0.93
+gamma_b: 1.04
+vignette: -3
+temp: 7478
