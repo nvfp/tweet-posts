@@ -1,0 +1,28 @@
+tweet_id: 1741460563010765051
+masto_id: 111675410437663627
+subre_id: Not uploaded, but here's the text: Cheers to a fantastic Sunday!  #ArtificialIntelligence #Nature #Fractals
+
+n_iter: 134
+ct: 33
+hue_offset: 79
+saturation: 0.93
+
+num_attempts: 32
+dur: 6
+std: 21.55
+size: 1964642 (1.87 MiB)
+
+xmin: -0.3553179200710881
+xmax: -0.23689686743950916
+ymin: -1.0035545829765438
+ymax: -0.9369427408712806
+
+contrast: 1.08
+brightness: 0.04
+saturation: 1.03
+gamma: 0.97
+gamma_r: 1.05
+gamma_g: 1.0
+gamma_b: 0.96
+vignette: 7
+temp: 3380
