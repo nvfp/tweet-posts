@@ -1,0 +1,28 @@
+tweet_id: 1741581595788595534
+masto_id: 111677301880427893
+subre_id: Not uploaded, but here's the text: Look what we have here! it's Burning Ship!  #DigitalArt #VisualArt #MultiModal
+
+n_iter: 357
+ct: 62
+hue_offset: 192
+saturation: 0.69
+
+num_attempts: 70
+dur: 21
+std: 22.11
+size: 720140 (703.26 KiB)
+
+xmin: -1.8341839826032404
+xmax: -1.7538268397460977
+ymin: -0.029670082554953403
+ymax: 0.01553081030218946
+
+contrast: 1.07
+brightness: 0.05
+saturation: 1.63
+gamma: 0.91
+gamma_r: 0.91
+gamma_g: 1.06
+gamma_b: 0.9
+vignette: 20
+temp: 2110
