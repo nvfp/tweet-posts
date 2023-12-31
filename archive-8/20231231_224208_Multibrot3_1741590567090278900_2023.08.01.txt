@@ -1,0 +1,28 @@
+tweet_id: 1741590567090278900
+masto_id: 111677441849751537
+subre_id: Not uploaded, but here's the text: Let's rock this Sunday!  #DeepLearning #VisualArt #DigitalArt
+
+n_iter: 316
+ct: 1
+hue_offset: 40
+saturation: -0.54
+
+num_attempts: 691
+dur: 600
+std: 47.08
+size: 654257 (638.92 KiB)
+
+xmin: 0.5400468671477547
+xmax: 0.552469227396202
+ymin: 0.20351739497853827
+ymax: 0.21050497261828982
+
+contrast: 0.92
+brightness: 0.02
+saturation: 0.57
+gamma: 0.95
+gamma_r: 0.92
+gamma_g: 0.93
+gamma_b: 0.92
+vignette: -15
+temp: 3078
