@@ -1,0 +1,31 @@
+tweet_id: 1741564922964910464
+masto_id: 111677041151569688
+subre_id: Not uploaded, but here's the text: Have an awesome day!  #MachineLearning #GenerativeArt #Fractals
+
+newton_power: 6
+newton_const: -4
+
+n_iter: 214
+ct: 103
+hue_offset: 62
+saturation: -0.29
+
+num_attempts: 180
+dur: 600
+std: 19.62
+size: 1185835 (1.13 MiB)
+
+xmin: 1.1912092300445467
+xmax: 1.2159005880692382
+ymin: -0.5366030071851189
+ymax: -0.52271411829623
+
+contrast: 0.87
+brightness: 0.0
+saturation: 1.12
+gamma: 0.91
+gamma_r: 1.08
+gamma_g: 1.04
+gamma_b: 0.97
+vignette: 14
+temp: 6466
