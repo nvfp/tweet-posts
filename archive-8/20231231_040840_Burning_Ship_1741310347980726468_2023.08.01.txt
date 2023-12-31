@@ -1,0 +1,28 @@
+tweet_id: 1741310347980726468
+masto_id: 111673063556597579
+subre_id: Not uploaded, but here's the text: Chin up, lovely humans!  #MultiModal #DigitalArt #Nature
+
+n_iter: 315
+ct: 140
+hue_offset: 210
+saturation: -0.09
+
+num_attempts: 7
+dur: 2
+std: 23.13
+size: 954834 (932.46 KiB)
+
+xmin: -1.529615957647144
+xmax: -0.967115957647144
+ymin: -0.8455652436406069
+ymax: -0.5291589936406069
+
+contrast: 1.01
+brightness: -0.08
+saturation: 1.22
+gamma: 0.97
+gamma_r: 0.98
+gamma_g: 0.94
+gamma_b: 0.91
+vignette: 32
+temp: 2559
