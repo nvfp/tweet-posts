@@ -1,0 +1,28 @@
+tweet_id: 1741497010073559291
+masto_id: 111675979937576202
+subre_id: Not uploaded, but here's the text: Hey wait, look! it's Mandelbrot Set!  #GeneralIntelligence #ArtificialIntelligence #DeepLearning
+
+n_iter: 510
+ct: 207
+hue_offset: 86
+saturation: 0.12
+
+num_attempts: 11
+dur: 2
+std: 35.12
+size: 1060120 (1.01 MiB)
+
+xmin: -0.3653647799696822
+xmax: -0.34640743399811824
+ymin: 0.6418240178443197
+ymax: 0.6524875249533245
+
+contrast: 1.08
+brightness: 0.03
+saturation: 0.97
+gamma: 1.04
+gamma_r: 1.0
+gamma_g: 1.1
+gamma_b: 0.98
+vignette: -18
+temp: 4271
