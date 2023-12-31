@@ -1,0 +1,28 @@
+tweet_id: 1741439362921910719
+masto_id: 111675079383422363
+subre_id: Not uploaded, but here's the text: Keep smiling!  #ArtificialIntelligence #GenerativeArt #AI
+
+n_iter: 984
+ct: 230
+hue_offset: 172
+saturation: -0.66
+
+num_attempts: 35
+dur: 20
+std: 31.61
+size: 762223 (744.36 KiB)
+
+xmin: 0.20173351126583983
+xmax: 0.202234638802798
+ymin: 0.5675945776717242
+ymax: 0.5678764619112632
+
+contrast: 0.73
+brightness: 0.12
+saturation: 1.53
+gamma: 1.06
+gamma_r: 1.03
+gamma_g: 0.9
+gamma_b: 1.0
+vignette: 4
+temp: 4003
