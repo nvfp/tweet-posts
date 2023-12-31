@@ -1,0 +1,28 @@
+tweet_id: 1741283690318090265
+masto_id: 111672646700608324
+subre_id: Not uploaded, but here's the text: Have an awesome day!  #AGI #Art #MultiModal
+
+n_iter: 153
+ct: 194
+hue_offset: 57
+saturation: 0.43
+
+num_attempts: 175
+dur: 38
+std: 23.21
+size: 2035199 (1.94 MiB)
+
+xmin: -0.6937762265880654
+xmax: -0.6464078055354338
+ymin: -0.8843464801398018
+ymax: -0.8577017432976966
+
+contrast: 1.13
+brightness: -0.09
+saturation: 1.47
+gamma: 1.08
+gamma_r: 1.07
+gamma_g: 0.98
+gamma_b: 1.08
+vignette: 14
+temp: 6932
