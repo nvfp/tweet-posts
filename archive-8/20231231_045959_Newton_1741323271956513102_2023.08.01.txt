@@ -1,0 +1,31 @@
+tweet_id: 1741323271956513102
+masto_id: 111673265329318637
+subre_id: Not uploaded, but here's the text: You rock, and so does this Sunday!  #Fractals #MultiModal #ArtificialIntelligence
+
+newton_power: 3
+newton_const: -1
+
+n_iter: 65
+ct: 226
+hue_offset: 129
+saturation: -0.94
+
+num_attempts: 536
+dur: 601
+std: 4.01
+size: 636997 (622.07 KiB)
+
+xmin: -1.0229986619297209
+xmax: -0.9703670829823525
+ymin: 0.12472082835998233
+ymax: 0.15432609151787707
+
+contrast: 1.64
+brightness: 0.15
+saturation: 0.74
+gamma: 1.07
+gamma_r: 0.96
+gamma_g: 0.91
+gamma_b: 0.99
+vignette: 17
+temp: 2110
