@@ -1,0 +1,28 @@
+tweet_id: 1741375675443843101
+masto_id: 111674084181136041
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Sunday!  #DigitalArt #GeneralIntelligence #Fractals
+
+n_iter: 740
+ct: 227
+hue_offset: 49
+saturation: 0.88
+
+num_attempts: 96
+dur: 34
+std: 71.93
+size: 1453510 (1.39 MiB)
+
+xmin: -0.9836628708428921
+xmax: -0.9807410300832134
+ymin: -0.27119479494880117
+ymax: -0.26955125952148196
+
+contrast: 0.87
+brightness: 0.06
+saturation: 0.83
+gamma: 1.02
+gamma_r: 0.93
+gamma_g: 1.02
+gamma_b: 0.91
+vignette: 23
+temp: 3909
