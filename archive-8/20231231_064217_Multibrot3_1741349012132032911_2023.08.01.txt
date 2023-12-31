@@ -1,0 +1,28 @@
+tweet_id: 1741349012132032911
+masto_id: 111673667562840839
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Sunday! You got this!  #AGI #Fractals #VisualArt
+
+n_iter: 561
+ct: 255
+hue_offset: 281
+saturation: -0.86
+
+num_attempts: 420
+dur: 605
+std: 94.25
+size: 1324679 (1.26 MiB)
+
+xmin: 0.5345943794881451
+xmax: 0.5392079896380875
+ymin: 0.3535656242472107
+ymax: 0.35616077995655326
+
+contrast: 1.04
+brightness: 0.05
+saturation: 0.68
+gamma: 1.08
+gamma_r: 0.94
+gamma_g: 0.91
+gamma_b: 0.95
+vignette: -33
+temp: 7825
