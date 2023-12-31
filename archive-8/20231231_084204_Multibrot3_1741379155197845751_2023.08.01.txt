@@ -1,0 +1,28 @@
+tweet_id: 1741379155197845751
+masto_id: 111674138562217533
+subre_id: Not uploaded, but here's the text: Keep shining on Sunday!  #DigitalArt #AGI #Fractals
+
+n_iter: 554
+ct: 255
+hue_offset: 327
+saturation: -0.74
+
+num_attempts: 383
+dur: 601
+std: 53.99
+size: 1272324 (1.21 MiB)
+
+xmin: 0.5350947513723057
+xmax: 0.539687173875176
+ymin: -0.40985974176450424
+ymax: -0.40727650410663974
+
+contrast: 1.71
+brightness: 0.17
+saturation: 0.61
+gamma: 1.05
+gamma_r: 0.98
+gamma_g: 1.06
+gamma_b: 0.92
+vignette: 19
+temp: 2673
