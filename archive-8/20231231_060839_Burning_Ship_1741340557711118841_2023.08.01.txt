@@ -1,0 +1,28 @@
+tweet_id: 1741340557711118841
+masto_id: 111673535292129945
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Sunday!  #AI #GenerativeArt #DeepLearning
+
+n_iter: 415
+ct: 80
+hue_offset: 78
+saturation: -0.16
+
+num_attempts: 2
+dur: 1
+std: 31.32
+size: 512918 (500.9 KiB)
+
+xmin: -1.7850548019535695
+xmax: -0.8850548019535694
+ymin: -0.43673648652659147
+ymax: 0.0695135134734085
+
+contrast: 1.24
+brightness: 0.01
+saturation: 1.63
+gamma: 0.94
+gamma_r: 0.98
+gamma_g: 1.01
+gamma_b: 0.92
+vignette: 9
+temp: 2816
