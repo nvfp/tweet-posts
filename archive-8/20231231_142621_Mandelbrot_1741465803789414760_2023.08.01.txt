@@ -1,0 +1,28 @@
+tweet_id: 1741465803789414760
+masto_id: 111675492377306195
+subre_id: Not uploaded, but here's the text: Enjoy your Sunday!  #MachineLearning #Art #GenerativeArt
+
+n_iter: 479
+ct: 52
+hue_offset: 103
+saturation: -0.51
+
+num_attempts: 27
+dur: 8
+std: 76.62
+size: 1247365 (1.19 MiB)
+
+xmin: 0.19921274601886507
+xmax: 0.19982259508122213
+ymin: -0.549426451383016
+ymax: -0.5490834112854402
+
+contrast: 1.1
+brightness: 0.22
+saturation: 1.46
+gamma: 1.04
+gamma_r: 1.08
+gamma_g: 1.04
+gamma_b: 1.08
+vignette: 22
+temp: 3526
