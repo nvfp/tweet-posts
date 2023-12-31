@@ -1,0 +1,28 @@
+tweet_id: 1741555983200248271
+masto_id: 111676901420528134
+subre_id: Not uploaded, but here's the text: Hey there, it's Sunday!  #MultiModal #Nature #DigitalArt
+
+n_iter: 270
+ct: 237
+hue_offset: 175
+saturation: -0.71
+
+num_attempts: 33
+dur: 10
+std: 57.02
+size: 968703 (946.0 KiB)
+
+xmin: 0.2663600567826623
+xmax: 0.2715683901159956
+ymin: 0.573412826156497
+ymax: 0.576342513656497
+
+contrast: 0.89
+brightness: -0.02
+saturation: 1.36
+gamma: 0.9
+gamma_r: 0.91
+gamma_g: 1.05
+gamma_b: 0.97
+vignette: 5
+temp: 4639
