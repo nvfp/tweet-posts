@@ -1,0 +1,28 @@
+tweet_id: 1741560453459833300
+masto_id: 111676971146386092
+subre_id: Not uploaded, but here's the text: Wow, guess what? it's Multibrot!  #Nature #Fractals #ArtificialIntelligence
+
+n_iter: 608
+ct: 1
+hue_offset: 128
+saturation: -0.12
+
+num_attempts: 392
+dur: 604
+std: 78.8
+size: 485699 (474.32 KiB)
+
+xmin: -0.3432704870002061
+xmax: -0.3384512098917724
+ymin: -0.6583465205673091
+ymax: -0.6556356771938152
+
+contrast: 1.11
+brightness: 0.03
+saturation: 0.67
+gamma: 1.07
+gamma_r: 1.0
+gamma_g: 1.07
+gamma_b: 1.09
+vignette: -19
+temp: 2147
