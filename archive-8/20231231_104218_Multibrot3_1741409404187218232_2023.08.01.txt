@@ -1,0 +1,28 @@
+tweet_id: 1741409404187218232
+masto_id: 111674611365636407
+subre_id: Not uploaded, but here's the text: Enjoying the Sunday with this Multibrot.  #MachineLearning #Art #Mathematics
+
+n_iter: 395
+ct: 255
+hue_offset: 254
+saturation: 0.91
+
+num_attempts: 556
+dur: 605
+std: 65.79
+size: 957470 (935.03 KiB)
+
+xmin: 0.49603828247396864
+xmax: 0.5003955809489141
+ymin: -0.472495921670703
+ymax: -0.4700449412785461
+
+contrast: 1.04
+brightness: 0.13
+saturation: 1.23
+gamma: 1.09
+gamma_r: 0.94
+gamma_g: 0.92
+gamma_b: 0.94
+vignette: 15
+temp: 2169
