@@ -1,0 +1,28 @@
+tweet_id: 1741275255463870546
+masto_id: 111672515081425171
+subre_id: Not uploaded, but here's the text: Another Sunday, another Multibrot!  #Fractals #DeepLearning #AGI
+
+n_iter: 290
+ct: 1
+hue_offset: 33
+saturation: -0.55
+
+num_attempts: 676
+dur: 602
+std: 41.15
+size: 527251 (514.89 KiB)
+
+xmin: -0.1707839921359411
+xmax: -0.1664643377082953
+ymin: -0.7455779268285749
+ymax: -0.7431481212130242
+
+contrast: 1.02
+brightness: 0.04
+saturation: 1.1
+gamma: 0.96
+gamma_r: 1.08
+gamma_g: 1.0
+gamma_b: 0.99
+vignette: -7
+temp: 7252
