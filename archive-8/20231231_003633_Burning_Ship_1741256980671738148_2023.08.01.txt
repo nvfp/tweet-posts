@@ -1,0 +1,28 @@
+tweet_id: 1741256980671738148
+masto_id: 111672229444369776
+subre_id: Not uploaded, but here's the text: Hope your Sunday is awesome!  #Nature #AI #AGI
+
+n_iter: 422
+ct: 198
+hue_offset: 216
+saturation: -0.71
+
+num_attempts: 10
+dur: 1
+std: 24.74
+size: 696877 (680.54 KiB)
+
+xmin: -0.5889797658161202
+xmax: 1.6610202341838798
+ymin: -1.8374238649020627
+ymax: -0.5717988649020627
+
+contrast: 1.02
+brightness: -0.04
+saturation: 0.74
+gamma: 0.97
+gamma_r: 0.92
+gamma_g: 1.02
+gamma_b: 1.09
+vignette: 32
+temp: 6825
