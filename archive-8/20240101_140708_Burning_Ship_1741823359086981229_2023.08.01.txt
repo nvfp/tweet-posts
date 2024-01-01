@@ -1,0 +1,28 @@
+tweet_id: 1741823359086981229
+masto_id: 111681079096633753
+subre_id: Not uploaded, but here's the text: Another Monday, another Burning Ship!  #AI #DeepLearning #MachineLearning
+
+n_iter: 237
+ct: 11
+hue_offset: 273
+saturation: 0.76
+
+num_attempts: 7
+dur: 2
+std: 36.93
+size: 919022 (897.48 KiB)
+
+xmin: -1.551622825677978
+xmax: -1.31478072041482
+ymin: -0.3372878762752214
+ymax: -0.2040641920646951
+
+contrast: 1.77
+brightness: 0.17
+saturation: 0.78
+gamma: 0.93
+gamma_r: 0.98
+gamma_g: 0.93
+gamma_b: 1.02
+vignette: -2
+temp: 5205
