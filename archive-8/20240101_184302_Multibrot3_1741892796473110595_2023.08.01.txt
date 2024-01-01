@@ -1,0 +1,28 @@
+tweet_id: 1741892796473110595
+masto_id: 111682164002641700
+subre_id: Not uploaded, but here's the text: Keep smiling!  #MultiModal #Fractals #Art
+
+n_iter: 333
+ct: 1
+hue_offset: 134
+saturation: -0.97
+
+num_attempts: 722
+dur: 600
+std: 59.58
+size: 691776 (675.56 KiB)
+
+xmin: 0.20386165029814318
+xmax: 0.20920210423672797
+ymin: -0.7392005438689931
+ymax: -0.7361965385285392
+
+contrast: 1.19
+brightness: -0.03
+saturation: 0.74
+gamma: 1.1
+gamma_r: 1.1
+gamma_g: 0.93
+gamma_b: 1.1
+vignette: 28
+temp: 6212
