@@ -1,0 +1,28 @@
+tweet_id: 1741672902762897566
+masto_id: 111678728429757514
+subre_id: Not uploaded, but here's the text: Shine bright like the sun on this Monday!  #AGI #GenerativeArt #MachineLearning
+
+n_iter: 484
+ct: 254
+hue_offset: 146
+saturation: 0.16
+
+num_attempts: 23
+dur: 8
+std: 76.67
+size: 1368811 (1.31 MiB)
+
+xmin: -0.8043117876063655
+xmax: -0.5230617876063655
+ymin: -0.7616937018076724
+ymax: -0.6034905768076724
+
+contrast: 0.85
+brightness: 0.02
+saturation: 1.08
+gamma: 0.98
+gamma_r: 0.99
+gamma_g: 0.93
+gamma_b: 1.05
+vignette: -35
+temp: 5853
