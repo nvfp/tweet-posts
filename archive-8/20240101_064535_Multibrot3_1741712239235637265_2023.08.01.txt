@@ -1,0 +1,28 @@
+tweet_id: 1741712239235637265
+masto_id: 111679342841748955
+subre_id: Not uploaded, but here's the text: Have a great day!  #AGI #ArtificialIntelligence #Mathematics
+
+n_iter: 354
+ct: 255
+hue_offset: 140
+saturation: -0.32
+
+num_attempts: 720
+dur: 601
+std: 57.37
+size: 1229811 (1.17 MiB)
+
+xmin: 0.07509129273169535
+xmax: 0.08351234536327429
+ymin: 0.7658184649962396
+ymax: 0.7705553071015028
+
+contrast: 1.79
+brightness: 0.1
+saturation: 0.73
+gamma: 0.91
+gamma_r: 1.03
+gamma_g: 0.99
+gamma_b: 1.04
+vignette: -36
+temp: 6780
