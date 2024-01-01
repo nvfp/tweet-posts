@@ -1,0 +1,31 @@
+tweet_id: 1741685667812536494
+masto_id: 111678927716659613
+subre_id: Not uploaded, but here's the text: Having a blast on Monday?  #Mathematics #GeneralIntelligence #AI
+
+newton_power: 3
+newton_const: -10
+
+n_iter: 92
+ct: 159
+hue_offset: 218
+saturation: 0.42
+
+num_attempts: 517
+dur: 600
+std: 4.37
+size: 318933 (311.46 KiB)
+
+xmin: 1.111807610927702
+xmax: 1.118090333440791
+ymin: 1.590855457881117
+ymax: 1.5943894892947295
+
+contrast: 0.82
+brightness: 0.14
+saturation: 1.19
+gamma: 1.0
+gamma_r: 1.09
+gamma_g: 0.99
+gamma_b: 0.93
+vignette: 2
+temp: 4259
