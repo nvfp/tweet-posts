@@ -1,0 +1,28 @@
+tweet_id: 1741952922034860417
+masto_id: 111683103707816731
+subre_id: Not uploaded, but here's the text: Wishing you a rad Monday!  #Nature #ArtificialIntelligence #AGI
+
+n_iter: 318
+ct: 255
+hue_offset: 159
+saturation: -0.95
+
+num_attempts: 692
+dur: 603
+std: 52.72
+size: 1125359 (1.07 MiB)
+
+xmin: 0.3835445965288624
+xmax: 0.40374661673088263
+ymin: 0.6182339542821116
+ymax: 0.6295975906457479
+
+contrast: 1.18
+brightness: 0.15
+saturation: 0.35
+gamma: 0.97
+gamma_r: 0.92
+gamma_g: 1.04
+gamma_b: 1.1
+vignette: 15
+temp: 3460
