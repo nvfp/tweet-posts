@@ -1,0 +1,28 @@
+tweet_id: 1741772343490601304
+masto_id: 111680281964832356
+subre_id: Not uploaded, but here's the text: Surprise! Multibrot!  #MultiModal #Fractals #GeneralIntelligence
+
+n_iter: 562
+ct: 1
+hue_offset: 116
+saturation: 0.41
+
+num_attempts: 444
+dur: 608
+std: 81.2
+size: 578958 (565.39 KiB)
+
+xmin: 0.2853298074835844
+xmax: 0.2942186963724733
+ymin: -0.69643768376432
+ymax: -0.69143768376432
+
+contrast: 1.21
+brightness: -0.07
+saturation: 0.67
+gamma: 0.92
+gamma_r: 0.98
+gamma_g: 0.98
+gamma_b: 0.98
+vignette: -46
+temp: 6311
