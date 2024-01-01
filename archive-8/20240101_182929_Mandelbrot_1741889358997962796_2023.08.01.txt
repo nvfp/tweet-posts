@@ -1,0 +1,28 @@
+tweet_id: 1741889358997962796
+masto_id: 111682110340002490
+subre_id: Not uploaded, but here's the text: Guess what? It's Mandelbrot Set!  #Fractals #AGI #Nature
+
+n_iter: 254
+ct: 130
+hue_offset: 105
+saturation: 0.09
+
+num_attempts: 76
+dur: 21
+std: 21.64
+size: 378061 (369.2 KiB)
+
+xmin: -0.040492406292329086
+xmax: -0.040069036266926886
+ymin: -0.984701537398923
+ymax: -0.9844633917596343
+
+contrast: 1.49
+brightness: 0.13
+saturation: 1.16
+gamma: 1.04
+gamma_r: 0.98
+gamma_g: 0.94
+gamma_b: 0.96
+vignette: 29
+temp: 3604
