@@ -1,0 +1,31 @@
+tweet_id: 1741776255974781202
+masto_id: 111680343131255778
+subre_id: Not uploaded, but here's the text: Wishing you a wonderful Monday!  #AI #MachineLearning #Fractals
+
+newton_power: 6
+newton_const: 4
+
+n_iter: 197
+ct: 28
+hue_offset: 108
+saturation: -0.27
+
+num_attempts: 188
+dur: 601
+std: 18.82
+size: 1238522 (1.18 MiB)
+
+xmin: 0.617168522351887
+xmax: 0.67221439391152
+ymin: 0.7205864836669269
+ymax: 0.7515497864192204
+
+contrast: 1.39
+brightness: 0.16
+saturation: 0.56
+gamma: 1.02
+gamma_r: 0.91
+gamma_g: 1.01
+gamma_b: 0.99
+vignette: 29
+temp: 6561
