@@ -1,0 +1,28 @@
+tweet_id: 1741802108024914400
+masto_id: 111680747185476396
+subre_id: Not uploaded, but here's the text: Look what we have here! it's Mandelbrot Set!  #GeneralIntelligence #Art #MultiModal
+
+n_iter: 219
+ct: 56
+hue_offset: 28
+saturation: -0.9
+
+num_attempts: 43
+dur: 12
+std: 53.27
+size: 1411061 (1.35 MiB)
+
+xmin: -0.20594340677512735
+xmax: -0.20013789153564984
+ymin: 0.6509035626813597
+ymax: 0.6541691650035658
+
+contrast: 1.1
+brightness: 0.22
+saturation: 0.61
+gamma: 1.02
+gamma_r: 0.96
+gamma_g: 0.91
+gamma_b: 1.1
+vignette: 24
+temp: 3706
