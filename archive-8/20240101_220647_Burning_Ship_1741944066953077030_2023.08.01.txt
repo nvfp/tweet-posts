@@ -1,0 +1,28 @@
+tweet_id: 1741944066953077030
+masto_id: 111682965138245358
+subre_id: Not uploaded, but here's the text: you are cool  #DeepLearning #VisualArt #Art
+
+n_iter: 296
+ct: 207
+hue_offset: 218
+saturation: 0.15
+
+num_attempts: 1
+dur: 1
+std: 42.97
+size: 1620880 (1.55 MiB)
+
+xmin: -0.24968010338326208
+xmax: -0.1996801033832621
+ymin: -0.9555192779525004
+ymax: -0.9273942779525004
+
+contrast: 1.15
+brightness: -0.04
+saturation: 1.24
+gamma: 1.06
+gamma_r: 1.07
+gamma_g: 1.09
+gamma_b: 1.07
+vignette: -19
+temp: 2637
