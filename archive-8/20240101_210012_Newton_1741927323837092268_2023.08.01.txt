@@ -1,0 +1,31 @@
+tweet_id: 1741927323837092268
+masto_id: FAIL
+subre_id: Not uploaded, but here's the text: You are lovely!  #VisualArt #Nature #DeepLearning
+
+newton_power: 6
+newton_const: 8
+
+n_iter: 161
+ct: 103
+hue_offset: 214
+saturation: 0.91
+
+num_attempts: 186
+dur: 601
+std: 19.51
+size: 911687 (890.32 KiB)
+
+xmin: -0.9628257852703364
+xmax: -0.7628257852703364
+ymin: -1.7231659069772838
+ymax: -1.6106659069772837
+
+contrast: 1.35
+brightness: -0.01
+saturation: 1.59
+gamma: 1.1
+gamma_r: 1.1
+gamma_g: 1.0
+gamma_b: 1.09
+vignette: -29
+temp: 3168
