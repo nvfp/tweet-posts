@@ -1,0 +1,28 @@
+tweet_id: 1741681594455535714
+masto_id: 111678864034606264
+subre_id: Not uploaded, but here's the text: Wow, guess what? it's Multibrot!  #MultiModal #Fractals #GeneralIntelligence
+
+n_iter: 366
+ct: 255
+hue_offset: 113
+saturation: 1.0
+
+num_attempts: 708
+dur: 604
+std: 62.54
+size: 1495001 (1.43 MiB)
+
+xmin: -0.5349708164198701
+xmax: -0.5290095645569789
+ymin: -0.4201273130432468
+ymax: -0.4167741088703705
+
+contrast: 0.91
+brightness: -0.0
+saturation: 0.58
+gamma: 1.09
+gamma_r: 1.03
+gamma_g: 1.04
+gamma_b: 0.93
+vignette: -46
+temp: 5438
