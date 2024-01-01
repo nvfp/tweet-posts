@@ -1,0 +1,28 @@
+tweet_id: 1741738641175585132
+masto_id: 111679755445467340
+subre_id: Not uploaded, but here's the text: Cheers to a fantastic Monday!  #AI #MultiModal #ArtificialIntelligence
+
+n_iter: 670
+ct: 183
+hue_offset: 250
+saturation: -0.21
+
+num_attempts: 170
+dur: 60
+std: 20.53
+size: 895248 (874.27 KiB)
+
+xmin: 0.01169906145528321
+xmax: 0.21169906145528322
+ymin: 0.6396194491788287
+ymax: 0.7521194491788288
+
+contrast: 1.53
+brightness: 0.03
+saturation: 1.59
+gamma: 1.0
+gamma_r: 0.95
+gamma_g: 1.07
+gamma_b: 1.03
+vignette: -45
+temp: 5292
