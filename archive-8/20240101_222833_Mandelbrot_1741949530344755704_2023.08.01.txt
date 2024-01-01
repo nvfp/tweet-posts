@@ -1,0 +1,28 @@
+tweet_id: 1741949530344755704
+masto_id: 111683050780961954
+subre_id: Not uploaded, but here's the text: Let the magic of Monday fill your heart!  #AI #Nature #GenerativeArt
+
+n_iter: 509
+ct: 208
+hue_offset: 28
+saturation: 0.71
+
+num_attempts: 6
+dur: 2
+std: 20.35
+size: 1008806 (985.16 KiB)
+
+xmin: -0.8685747785230065
+xmax: -0.8680493614732232
+ymin: 0.24437664185681185
+ymax: 0.24467218894731493
+
+contrast: 1.11
+brightness: -0.07
+saturation: 0.47
+gamma: 1.09
+gamma_r: 0.97
+gamma_g: 0.9
+gamma_b: 0.98
+vignette: -33
+temp: 3722
