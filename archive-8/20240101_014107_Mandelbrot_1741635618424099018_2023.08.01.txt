@@ -1,0 +1,28 @@
+tweet_id: 1741635618424099018
+masto_id: 111678145663463079
+subre_id: Not uploaded, but here's the text: Monday vibes!  #MultiModal #Art #GeneralIntelligence
+
+n_iter: 164
+ct: 182
+hue_offset: 118
+saturation: 0.94
+
+num_attempts: 103
+dur: 18
+std: 24.54
+size: 1463495 (1.4 MiB)
+
+xmin: -0.6672093137435069
+xmax: -0.6668055180641207
+ymin: -0.3639224437164683
+ymax: -0.36369530864681354
+
+contrast: 1.12
+brightness: 0.17
+saturation: 0.74
+gamma: 0.92
+gamma_r: 0.9
+gamma_g: 1.09
+gamma_b: 0.98
+vignette: 20
+temp: 6355
