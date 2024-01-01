@@ -1,0 +1,31 @@
+tweet_id: 1741746119582081496
+masto_id: 111679872427377713
+subre_id: Not uploaded, but here's the text: Let the magic of Monday fill your heart!  #ArtificialIntelligence #MachineLearning #VisualArt
+
+newton_power: 5
+newton_const: 7
+
+n_iter: 202
+ct: 13
+hue_offset: 253
+saturation: 0.27
+
+num_attempts: 211
+dur: 602
+std: 12.68
+size: 1316489 (1.26 MiB)
+
+xmin: 2.189772327680595
+xmax: 2.19858290036782
+ymin: 0.23067275338921034
+ymax: 0.23562870052577423
+
+contrast: 1.45
+brightness: -0.02
+saturation: 0.92
+gamma: 1.04
+gamma_r: 1.03
+gamma_g: 1.08
+gamma_b: 1.04
+vignette: -33
+temp: 3707
