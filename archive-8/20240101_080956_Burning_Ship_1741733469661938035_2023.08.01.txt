@@ -1,0 +1,28 @@
+tweet_id: 1741733469661938035
+masto_id: 111679674555359818
+subre_id: Not uploaded, but here's the text: Good Monday! This Burning Ship is for you!  #ArtificialIntelligence #VisualArt #DigitalArt
+
+n_iter: 254
+ct: 246
+hue_offset: 272
+saturation: -0.05
+
+num_attempts: 15
+dur: 3
+std: 28.06
+size: 1604686 (1.53 MiB)
+
+xmin: -0.14503014815985882
+xmax: -0.09863839558253923
+ymin: -1.1029047690468983
+ymax: -1.076809408222156
+
+contrast: 1.26
+brightness: -0.1
+saturation: 0.32
+gamma: 1.05
+gamma_r: 1.01
+gamma_g: 1.08
+gamma_b: 1.07
+vignette: 28
+temp: 4064
