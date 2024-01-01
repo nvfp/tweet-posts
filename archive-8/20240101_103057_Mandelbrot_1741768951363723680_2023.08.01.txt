@@ -1,0 +1,28 @@
+tweet_id: 1741768951363723680
+masto_id: 111680229068171428
+subre_id: Not uploaded, but here's the text: Enjoy your Monday!  #AI #GenerativeArt #Nature
+
+n_iter: 900
+ct: 232
+hue_offset: 231
+saturation: 0.38
+
+num_attempts: 51
+dur: 33
+std: 147.07
+size: 2070837 (1.97 MiB)
+
+xmin: 0.28130999020815217
+xmax: 0.2832147521129141
+ymin: 0.4701477310678568
+ymax: 0.47121915963928535
+
+contrast: 0.96
+brightness: 0.18
+saturation: 1.7
+gamma: 0.96
+gamma_r: 0.99
+gamma_g: 1.01
+gamma_b: 1.1
+vignette: -41
+temp: 3593
