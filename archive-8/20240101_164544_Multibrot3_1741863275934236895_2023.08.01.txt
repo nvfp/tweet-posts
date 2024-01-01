@@ -1,0 +1,28 @@
+tweet_id: 1741863275934236895
+masto_id: 111681702736934588
+subre_id: Not uploaded, but here's the text: Sending you this fractal on this Monday!  #AI #MachineLearning #GeneralIntelligence
+
+n_iter: 342
+ct: 1
+hue_offset: 186
+saturation: -0.51
+
+num_attempts: 695
+dur: 603
+std: 51.36
+size: 556641 (543.59 KiB)
+
+xmin: 0.5577211967568307
+xmax: 0.5636559148577209
+ymin: 0.16157964985453055
+ymax: 0.16491792878628128
+
+contrast: 1.16
+brightness: -0.09
+saturation: 1.36
+gamma: 1.08
+gamma_r: 1.01
+gamma_g: 0.92
+gamma_b: 0.93
+vignette: -15
+temp: 3410
