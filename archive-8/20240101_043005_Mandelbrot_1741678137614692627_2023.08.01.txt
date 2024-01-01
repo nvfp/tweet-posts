@@ -1,0 +1,28 @@
+tweet_id: 1741678137614692627
+masto_id: 111678810036809482
+subre_id: Not uploaded, but here's the text: Monday is shining brightly, just like this Mandelbrot Set.  #GeneralIntelligence #MultiModal #DigitalArt
+
+n_iter: 301
+ct: 48
+hue_offset: 349
+saturation: 0.18
+
+num_attempts: 48
+dur: 10
+std: 75.36
+size: 984836 (961.75 KiB)
+
+xmin: 0.38721425830586087
+xmax: 0.3877054777581512
+ymin: 0.3638893033744175
+ymax: 0.3641656143163308
+
+contrast: 1.17
+brightness: 0.21
+saturation: 0.58
+gamma: 0.94
+gamma_r: 1.08
+gamma_g: 1.05
+gamma_b: 1.09
+vignette: 2
+temp: 7605
