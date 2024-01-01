@@ -1,0 +1,28 @@
+tweet_id: 1741832156781977711
+masto_id: 111681216624427018
+subre_id: Not uploaded, but here's the text: Surprise! It's a Multibrot!  #DeepLearning #AGI #GenerativeArt
+
+n_iter: 527
+ct: 255
+hue_offset: 285
+saturation: 0.47
+
+num_attempts: 458
+dur: 601
+std: 80.52
+size: 1271253 (1.21 MiB)
+
+xmin: 0.2617802205822226
+xmax: 0.2721429148827407
+ymin: 0.706033947949511
+ymax: 0.7118629634935525
+
+contrast: 1.0
+brightness: 0.19
+saturation: 0.97
+gamma: 1.08
+gamma_r: 0.98
+gamma_g: 0.98
+gamma_b: 1.01
+vignette: 20
+temp: 7075
