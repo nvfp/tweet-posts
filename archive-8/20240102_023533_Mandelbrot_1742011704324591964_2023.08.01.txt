@@ -1,0 +1,28 @@
+tweet_id: 1742011704324591964
+masto_id: 111684021967529496
+subre_id: Not uploaded, but here's the text: Beautiful Tuesday with this Mandelbrot Set!  #AI #Mathematics #GenerativeArt
+
+n_iter: 953
+ct: 96
+hue_offset: 125
+saturation: 0.82
+
+num_attempts: 9
+dur: 3
+std: 216.91
+size: 1777875 (1.7 MiB)
+
+xmin: -0.6526079521229526
+xmax: -0.6521603245490941
+ymin: -0.3581138251380206
+ymax: -0.35786203462772515
+
+contrast: 1.58
+brightness: 0.13
+saturation: 0.58
+gamma: 0.95
+gamma_r: 0.91
+gamma_g: 0.95
+gamma_b: 0.98
+vignette: 15
+temp: 2413
