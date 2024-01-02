@@ -1,0 +1,28 @@
+tweet_id: 1742276468644925597
+masto_id: 111688159173153266
+subre_id: Not uploaded, but here's the text: Good Tuesday! This Burning Ship is for you!  #MachineLearning #GenerativeArt
+
+n_iter: 404
+ct: 15
+hue_offset: 309
+saturation: -0.32
+
+num_attempts: 11
+dur: 3
+std: 42.33
+size: 997787 (974.4 KiB)
+
+xmin: -1.6013583103850138
+xmax: -1.2799297389564424
+ymin: -0.24683249098330795
+ymax: -0.0660289195547365
+
+contrast: 0.8
+brightness: -0.04
+saturation: 0.48
+gamma: 1.02
+gamma_r: 1.03
+gamma_g: 1.1
+gamma_b: 1.0
+vignette: -19
+temp: 4911
