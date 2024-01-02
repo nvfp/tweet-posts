@@ -1,0 +1,28 @@
+tweet_id: 1742185688693645669
+masto_id: 111686740698478000
+subre_id: Not uploaded, but here's the text: Hope you're having a great Tuesday!  #Mathematics #AI
+
+n_iter: 189
+ct: 62
+hue_offset: 235
+saturation: 0.62
+
+num_attempts: 63
+dur: 10
+std: 31.64
+size: 1649813 (1.57 MiB)
+
+xmin: -0.35461528934583253
+xmax: -0.20461528934583254
+ymin: -1.1045259172802329
+ymax: -1.0201509172802328
+
+contrast: 0.95
+brightness: 0.09
+saturation: 1.49
+gamma: 0.96
+gamma_r: 0.93
+gamma_g: 0.99
+gamma_b: 1.01
+vignette: -40
+temp: 2316
