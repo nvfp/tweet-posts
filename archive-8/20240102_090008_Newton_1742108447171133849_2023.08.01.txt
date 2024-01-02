@@ -1,0 +1,31 @@
+tweet_id: 1742108447171133849
+masto_id: 111685533953226728
+subre_id: Not uploaded, but here's the text: Enjoy your Tuesday!  #Art #DigitalArt
+
+newton_power: 4
+newton_const: 4
+
+n_iter: 147
+ct: 165
+hue_offset: 42
+saturation: 0.71
+
+num_attempts: 257
+dur: 600
+std: 6.9
+size: 699995 (683.59 KiB)
+
+xmin: -1.5695625107993318
+xmax: -1.546033099034626
+ymin: 0.1522825361702833
+ymax: 0.16551783028793038
+
+contrast: 1.26
+brightness: 0.06
+saturation: 0.51
+gamma: 0.94
+gamma_r: 0.96
+gamma_g: 1.04
+gamma_b: 0.99
+vignette: 16
+temp: 4409
