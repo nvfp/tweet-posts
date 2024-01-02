@@ -1,0 +1,31 @@
+tweet_id: 1742048122946179259
+masto_id: 111684591251359459
+subre_id: Not uploaded, but here's the text: You are lovely!  #DigitalArt #VisualArt #AGI
+
+newton_power: 7
+newton_const: 8
+
+n_iter: 91
+ct: 25
+hue_offset: 345
+saturation: 0.69
+
+num_attempts: 163
+dur: 601
+std: 22.42
+size: 1003197 (979.68 KiB)
+
+xmin: 1.29501517760675
+xmax: 1.3045389871305595
+ymin: 1.9060612714621894
+ymax: 1.9114184143193322
+
+contrast: 0.71
+brightness: 0.1
+saturation: 0.93
+gamma: 0.94
+gamma_r: 0.95
+gamma_g: 0.93
+gamma_b: 0.93
+vignette: 23
+temp: 2767
