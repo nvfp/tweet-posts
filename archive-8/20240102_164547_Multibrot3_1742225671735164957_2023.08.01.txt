@@ -1,0 +1,28 @@
+tweet_id: 1742225671735164957
+masto_id: 111687365232592666
+subre_id: Not uploaded, but here's the text: Enjoying the Tuesday with this Multibrot.  #Art #Fractals
+
+n_iter: 559
+ct: 1
+hue_offset: 265
+saturation: 0.23
+
+num_attempts: 434
+dur: 608
+std: 89.36
+size: 814826 (795.73 KiB)
+
+xmin: 0.42473168205034595
+xmax: 0.4339909413096052
+ymin: 0.5728042840770553
+ymax: 0.5780126174103887
+
+contrast: 0.93
+brightness: 0.07
+saturation: 1.74
+gamma: 0.89
+gamma_r: 1.0
+gamma_g: 0.81
+gamma_b: 0.89
+vignette: -5
+temp: 2523
