@@ -1,0 +1,28 @@
+tweet_id: 1742100708466295027
+masto_id: 111685412897491126
+subre_id: Not uploaded, but here's the text: you're awesome!  #Nature #DigitalArt
+
+n_iter: 678
+ct: 134
+hue_offset: 101
+saturation: -0.66
+
+num_attempts: 5
+dur: 4
+std: 19.22
+size: 1274637 (1.22 MiB)
+
+xmin: 0.06715162312320455
+xmax: 0.06852430671963558
+ymin: 0.6614843553627221
+ymax: 0.6622564898857145
+
+contrast: 0.71
+brightness: 0.22
+saturation: 0.53
+gamma: 0.94
+gamma_r: 1.01
+gamma_g: 1.09
+gamma_b: 1.0
+vignette: -25
+temp: 7918
