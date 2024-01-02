@@ -1,0 +1,28 @@
+tweet_id: 1742008769263882502
+masto_id: 111683976199561967
+subre_id: Not uploaded, but here's the text: Surprise! Burning Ship!  #DigitalArt #DeepLearning #MultiModal
+
+n_iter: 443
+ct: 10
+hue_offset: 191
+saturation: -0.14
+
+num_attempts: 6
+dur: 2
+std: 33.08
+size: 746932 (729.43 KiB)
+
+xmin: -1.9789214158014832
+xmax: -1.2289214158014832
+ymin: -0.35498883942487325
+ymax: 0.06688616057512675
+
+contrast: 1.64
+brightness: 0.02
+saturation: 0.26
+gamma: 0.92
+gamma_r: 1.0
+gamma_g: 0.99
+gamma_b: 0.91
+vignette: -14
+temp: 3742
