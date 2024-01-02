@@ -1,0 +1,28 @@
+tweet_id: 1742167992157503498
+masto_id: 111686464109403212
+subre_id: Not uploaded, but here's the text: This Tuesday is made even better by this Multibrot!  #Fractals #Mathematics
+
+n_iter: 662
+ct: 255
+hue_offset: 331
+saturation: -0.64
+
+num_attempts: 412
+dur: 607
+std: 90.02
+size: 1440605 (1.37 MiB)
+
+xmin: -0.20698174571939743
+xmax: -0.20238404456997214
+ymin: -1.0085832196997866
+ymax: -1.005997012803235
+
+contrast: 0.86
+brightness: 0.01
+saturation: 0.3
+gamma: 1.14
+gamma_r: 0.93
+gamma_g: 0.86
+gamma_b: 0.98
+vignette: 23
+temp: 6606
