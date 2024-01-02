@@ -1,0 +1,31 @@
+tweet_id: 1742017915593916897
+masto_id: 111684119193074194
+subre_id: Not uploaded, but here's the text: Enjoy your Tuesday!  #Nature #GeneralIntelligence #ArtificialIntelligence
+
+newton_power: 5
+newton_const: -9
+
+n_iter: 88
+ct: 14
+hue_offset: 128
+saturation: -0.82
+
+num_attempts: 239
+dur: 600
+std: 12.28
+size: 1072696 (1.02 MiB)
+
+xmin: -2.0696979283576136
+xmax: -2.055205174734425
+ymin: 0.23581883040422147
+ymax: 0.24397100431726496
+
+contrast: 1.52
+brightness: 0.12
+saturation: 0.5
+gamma: 0.95
+gamma_r: 0.95
+gamma_g: 1.01
+gamma_b: 0.91
+vignette: 31
+temp: 6097
