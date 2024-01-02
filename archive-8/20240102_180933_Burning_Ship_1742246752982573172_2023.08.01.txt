@@ -1,0 +1,28 @@
+tweet_id: 1742246752982573172
+masto_id: 111687694622140930
+subre_id: Not uploaded, but here's the text: Look what we have here! it's Burning Ship!  #Mathematics #DigitalArt
+
+n_iter: 176
+ct: 12
+hue_offset: 163
+saturation: -0.12
+
+num_attempts: 63
+dur: 11
+std: 29.62
+size: 2150882 (2.05 MiB)
+
+xmin: 0.36921235428656995
+xmax: 0.5299266400008557
+ymin: -1.226610204201851
+ymax: -1.1362084184875652
+
+contrast: 1.64
+brightness: 0.0
+saturation: 0.38
+gamma: 0.93
+gamma_r: 0.92
+gamma_g: 0.94
+gamma_b: 0.96
+vignette: -44
+temp: 6073
