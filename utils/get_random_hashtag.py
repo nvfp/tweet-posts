@@ -12,12 +12,7 @@ def get_list():
         '#Art',
         '#DigitalArt',
         '#VisualArt',
-        
-        '#AGI',
-        "#MultiModal",
-        "#ArtificialIntelligence",
         "#GenerativeArt",
-        "#GeneralIntelligence",
     ]
 
 

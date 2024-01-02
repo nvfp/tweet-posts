@@ -53,7 +53,7 @@ def get_random_range():
 
 if __name__ == '__main__':
 
-    n_iter = random.randint(256, 512+128)
+    n_iter = random.randint(256, 512+128+64)
     # ct = random.randint(1, 255)  # PPM color threshold
     ct = random.choice([1, 255])  # High resolution color
     hue_offset = random.randint(0, 359)
@@ -82,10 +82,10 @@ if __name__ == '__main__':
     edit_contrast   = round( random.uniform(0.7, 1.8)  , 2 )
     edit_brightness = round( random.uniform(-0.1, 0.23), 2 )
     edit_saturation = round( random.uniform(0.25, 1.75), 2 )
-    edit_gamma      = round( random.uniform(0.9, 1.1)  , 2 )
-    edit_gamma_r    = round( random.uniform(0.9, 1.1)  , 2 )
-    edit_gamma_g    = round( random.uniform(0.9, 1.1)  , 2 )
-    edit_gamma_b    = round( random.uniform(0.9, 1.1)  , 2 )
+    edit_gamma      = round( random.uniform(0.8, 1.2)  , 2 )
+    edit_gamma_r    = round( random.uniform(0.8, 1.2)  , 2 )
+    edit_gamma_g    = round( random.uniform(0.8, 1.2)  , 2 )
+    edit_gamma_b    = round( random.uniform(0.8, 1.2)  , 2 )
     edit_vignette   = random.randint(-48, 33)
     edit_temp       = random.randint(2000, 8000)
 
