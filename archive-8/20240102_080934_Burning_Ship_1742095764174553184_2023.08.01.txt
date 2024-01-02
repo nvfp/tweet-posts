@@ -1,0 +1,28 @@
+tweet_id: 1742095764174553184
+masto_id: 111685335388873759
+subre_id: Not uploaded, but here's the text: Keep shining on Tuesday!  #Mathematics #DeepLearning
+
+n_iter: 461
+ct: 58
+hue_offset: 39
+saturation: 0.69
+
+num_attempts: 21
+dur: 8
+std: 75.11
+size: 1810042 (1.73 MiB)
+
+xmin: -1.0767347830065643
+xmax: -0.9613501676219489
+ymin: -0.5498865966612951
+ymax: -0.484982750507449
+
+contrast: 1.11
+brightness: 0.19
+saturation: 1.72
+gamma: 0.93
+gamma_r: 1.04
+gamma_g: 1.07
+gamma_b: 1.01
+vignette: -15
+temp: 4999
