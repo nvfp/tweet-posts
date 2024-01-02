@@ -1,0 +1,28 @@
+tweet_id: 1742015176948285891
+masto_id: 111684076181749252
+subre_id: Not uploaded, but here's the text: Today is awesome!  #MultiModal #Fractals #AGI
+
+n_iter: 260
+ct: 255
+hue_offset: 150
+saturation: 0.23
+
+num_attempts: 879
+dur: 601
+std: 45.16
+size: 691981 (675.76 KiB)
+
+xmin: -0.5470854487522137
+xmax: -0.5381369028909161
+ymin: 0.20692303707173076
+ymax: 0.21195659411871062
+
+contrast: 1.43
+brightness: 0.01
+saturation: 1.65
+gamma: 1.07
+gamma_r: 0.95
+gamma_g: 0.9
+gamma_b: 0.92
+vignette: -36
+temp: 6190
