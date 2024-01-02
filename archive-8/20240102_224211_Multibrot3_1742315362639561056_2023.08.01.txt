@@ -1,0 +1,28 @@
+tweet_id: 1742315362639561056
+masto_id: 111688766678915722
+subre_id: Not uploaded, but here's the text: Let's rock this Tuesday!  #Mathematics #DeepLearning
+
+n_iter: 291
+ct: 1
+hue_offset: 23
+saturation: -0.31
+
+num_attempts: 722
+dur: 602
+std: 52.41
+size: 1039286 (1014.93 KiB)
+
+xmin: -0.5106595903256119
+xmax: -0.5042183664930837
+ymin: 0.4511354588272849
+ymax: 0.454758647233082
+
+contrast: 1.22
+brightness: 0.17
+saturation: 1.1
+gamma: 1.06
+gamma_r: 0.83
+gamma_g: 0.89
+gamma_b: 0.93
+vignette: -18
+temp: 6869
