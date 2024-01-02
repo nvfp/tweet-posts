@@ -1,0 +1,28 @@
+tweet_id: 1742070745323196912
+masto_id: 111684944492584362
+subre_id: Not uploaded, but here's the text: Wishing you a joyful day!  #Fractals #MachineLearning
+
+n_iter: 484
+ct: 92
+hue_offset: 198
+saturation: 0.66
+
+num_attempts: 83
+dur: 21
+std: 30.56
+size: 650339 (635.1 KiB)
+
+xmin: 0.37200526151127633
+xmax: 0.37260568180548226
+ymin: 0.09104673303420041
+ymax: 0.09138446944969125
+
+contrast: 0.93
+brightness: 0.15
+saturation: 1.35
+gamma: 0.98
+gamma_r: 0.98
+gamma_g: 0.93
+gamma_b: 0.95
+vignette: 2
+temp: 6006
