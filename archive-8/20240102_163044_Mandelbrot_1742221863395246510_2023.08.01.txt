@@ -1,0 +1,28 @@
+tweet_id: 1742221863395246510
+masto_id: 111687305766722632
+subre_id: Not uploaded, but here's the text: Wow, take a look! There's Mandelbrot Set!  #DigitalArt #Nature
+
+n_iter: 209
+ct: 208
+hue_offset: 58
+saturation: 0.08
+
+num_attempts: 35
+dur: 8
+std: 47.8
+size: 102925 (100.51 KiB)
+
+xmin: -0.18378933887599924
+xmax: -0.1806716459687506
+ymin: -0.6489219101888197
+ymax: -0.6471682079284924
+
+contrast: 1.52
+brightness: 0.16
+saturation: 1.34
+gamma: 0.92
+gamma_r: 0.97
+gamma_g: 1.02
+gamma_b: 1.01
+vignette: 20
+temp: 6620
