@@ -1,0 +1,31 @@
+tweet_id: 1742138685653442673
+masto_id: 111686006111513493
+subre_id: Not uploaded, but here's the text: Wishing you a wonderful Tuesday!  #MachineLearning #Fractals
+
+newton_power: 7
+newton_const: 1
+
+n_iter: 88
+ct: 4
+hue_offset: 238
+saturation: 0.88
+
+num_attempts: 155
+dur: 600
+std: 21.92
+size: 56608 (55.28 KiB)
+
+xmin: -2.7664793569710997
+xmax: -2.759162283800368
+ymin: -1.601025520763803
+ymax: -1.5969096671052663
+
+contrast: 1.31
+brightness: -0.01
+saturation: 1.51
+gamma: 1.07
+gamma_r: 0.96
+gamma_g: 1.06
+gamma_b: 0.99
+vignette: 18
+temp: 7856
