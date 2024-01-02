@@ -1,0 +1,28 @@
+tweet_id: 1741999272915063225
+masto_id: 111683827752817591
+subre_id: Not uploaded, but here's the text: You are lovely!  #DeepLearning #Mathematics #VisualArt
+
+n_iter: 441
+ct: 1
+hue_offset: 172
+saturation: -0.74
+
+num_attempts: 671
+dur: 602
+std: 73.09
+size: 1273112 (1.21 MiB)
+
+xmin: 0.5458140375698735
+xmax: 0.5529953661156545
+ymin: 0.3123307022515176
+ymax: 0.3163701995585194
+
+contrast: 0.99
+brightness: -0.06
+saturation: 0.43
+gamma: 0.92
+gamma_r: 1.09
+gamma_g: 1.1
+gamma_b: 1.07
+vignette: 10
+temp: 5356
