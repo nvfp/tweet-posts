@@ -1,0 +1,28 @@
+tweet_id: 1742406170751496478
+masto_id: 111690185579686233
+subre_id: Not uploaded, but here's the text: Enjoying the Wednesday with this Multibrot.  #DeepLearning #Mathematics
+
+n_iter: 400
+ct: 255
+hue_offset: 151
+saturation: 0.12
+
+num_attempts: 537
+dur: 601
+std: 67.78
+size: 1251812 (1.19 MiB)
+
+xmin: -0.32097413498956984
+xmax: -0.3169661189575057
+ymin: 0.6834759329908557
+ymax: 0.6857304420088918
+
+contrast: 0.89
+brightness: -0.01
+saturation: 1.58
+gamma: 1.12
+gamma_r: 1.12
+gamma_g: 1.06
+gamma_b: 1.04
+vignette: -45
+temp: 3747
