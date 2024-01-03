@@ -1,0 +1,28 @@
+tweet_id: 1742527028190933230
+masto_id: 111692074085319958
+subre_id: Not uploaded, but here's the text: Hope you're having a great Wednesday!  #DigitalArt #GenerativeArt
+
+n_iter: 515
+ct: 237
+hue_offset: 60
+saturation: -0.32
+
+num_attempts: 4
+dur: 0
+std: 30.11
+size: 765828 (747.88 KiB)
+
+xmin: -0.9597848091803172
+xmax: -0.9574066878961317
+ymin: 0.2598355275901916
+ymax: 0.2611732208125459
+
+contrast: 0.71
+brightness: 0.11
+saturation: 0.73
+gamma: 0.95
+gamma_r: 0.97
+gamma_g: 1.1
+gamma_b: 0.96
+vignette: 10
+temp: 5462
