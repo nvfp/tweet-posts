@@ -1,0 +1,28 @@
+tweet_id: 1742609020773380169
+masto_id: 111693354986815131
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Wednesday!  #Mathematics #VisualArt
+
+n_iter: 342
+ct: 110
+hue_offset: 164
+saturation: 0.08
+
+num_attempts: 4
+dur: 3
+std: 24.83
+size: 68442 (66.84 KiB)
+
+xmin: 0.1961362024649298
+xmax: 0.2633003815694074
+ymin: -0.11289556415615065
+ymax: -0.07511571340988199
+
+contrast: 1.69
+brightness: -0.08
+saturation: 1.59
+gamma: 1.04
+gamma_r: 0.98
+gamma_g: 1.0
+gamma_b: 0.98
+vignette: 32
+temp: 4460
