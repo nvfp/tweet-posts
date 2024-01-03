@@ -1,0 +1,28 @@
+tweet_id: 1742397582528377298
+masto_id: 111690051422133431
+subre_id: Not uploaded, but here's the text: Wednesday vibes!  #GenerativeArt #MachineLearning
+
+n_iter: 211
+ct: 191
+hue_offset: 58
+saturation: -0.4
+
+num_attempts: 10
+dur: 2
+std: 27.07
+size: 831580 (812.09 KiB)
+
+xmin: 0.10093060293701717
+xmax: 0.47593060293701717
+ymin: -1.2756245837317381
+ymax: -1.0646870837317381
+
+contrast: 1.18
+brightness: -0.04
+saturation: 1.57
+gamma: 0.94
+gamma_r: 1.1
+gamma_g: 0.96
+gamma_b: 1.05
+vignette: 10
+temp: 2607
