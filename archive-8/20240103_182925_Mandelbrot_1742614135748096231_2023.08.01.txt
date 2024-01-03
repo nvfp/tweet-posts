@@ -1,0 +1,28 @@
+tweet_id: 1742614135748096231
+masto_id: 111693435041815530
+subre_id: Not uploaded, but here's the text: Good Wednesday! This Mandelbrot Set is for you!  #Fractals #Art
+
+n_iter: 152
+ct: 84
+hue_offset: 157
+saturation: 0.53
+
+num_attempts: 21
+dur: 3
+std: 20.42
+size: 1322078 (1.26 MiB)
+
+xmin: -0.8664461643314141
+xmax: -0.8656012129161205
+ymin: 0.23611163581732741
+ymax: 0.23658692098843007
+
+contrast: 1.44
+brightness: -0.01
+saturation: 0.87
+gamma: 0.91
+gamma_r: 1.08
+gamma_g: 1.02
+gamma_b: 0.95
+vignette: -31
+temp: 3846
