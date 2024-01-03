@@ -1,0 +1,28 @@
+tweet_id: 1742643554218852794
+masto_id: 111693894894455398
+subre_id: Not uploaded, but here's the text: You are lovely!  #Fractals #MachineLearning
+
+n_iter: 143
+ct: 183
+hue_offset: 118
+saturation: -0.81
+
+num_attempts: 75
+dur: 17
+std: 24.01
+size: 1006645 (983.05 KiB)
+
+xmin: -0.7428624997196684
+xmax: -0.7417054271133624
+ymin: 0.20544327239952964
+ymax: 0.20609412574057678
+
+contrast: 0.87
+brightness: -0.07
+saturation: 1.64
+gamma: 1.02
+gamma_r: 1.03
+gamma_g: 0.92
+gamma_b: 0.94
+vignette: 21
+temp: 7307
