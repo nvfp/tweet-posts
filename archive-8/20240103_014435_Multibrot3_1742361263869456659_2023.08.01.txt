@@ -1,0 +1,28 @@
+tweet_id: 1742361263869456659
+masto_id: 111689483906612975
+subre_id: Not uploaded, but here's the text: Beautiful Wednesday with this Multibrot!  #GenerativeArt #MachineLearning
+
+n_iter: 612
+ct: 1
+hue_offset: 277
+saturation: -0.22
+
+num_attempts: 376
+dur: 601
+std: 67.59
+size: 538336 (525.72 KiB)
+
+xmin: -0.5405012923378112
+xmax: -0.5347870066235255
+ymin: -0.18828064128032107
+ymax: -0.18506635556603535
+
+contrast: 1.24
+brightness: 0.1
+saturation: 0.28
+gamma: 0.92
+gamma_r: 1.11
+gamma_g: 0.97
+gamma_b: 1.05
+vignette: 12
+temp: 2398
