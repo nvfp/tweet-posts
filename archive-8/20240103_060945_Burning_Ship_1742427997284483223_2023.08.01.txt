@@ -1,0 +1,28 @@
+tweet_id: 1742427997284483223
+masto_id: 111690526563619948
+subre_id: Not uploaded, but here's the text: Let this Burning Ship brighten up your Wednesday!  #Nature #GenerativeArt
+
+n_iter: 170
+ct: 89
+hue_offset: 203
+saturation: -0.45
+
+num_attempts: 38
+dur: 7
+std: 30.41
+size: 1809339 (1.73 MiB)
+
+xmin: -0.449176270241213
+xmax: -0.10302242408736684
+ymin: -1.0560535941484959
+ymax: -0.8613420556869574
+
+contrast: 1.49
+brightness: 0.2
+saturation: 0.52
+gamma: 0.96
+gamma_r: 1.04
+gamma_g: 1.05
+gamma_b: 0.98
+vignette: -43
+temp: 5760
