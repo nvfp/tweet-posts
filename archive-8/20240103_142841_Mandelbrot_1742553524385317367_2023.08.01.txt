@@ -1,0 +1,28 @@
+tweet_id: 1742553524385317367
+masto_id: 111692488162719013
+subre_id: Not uploaded, but here's the text: Let's make it a memorable Wednesday!  #AI #DeepLearning
+
+n_iter: 899
+ct: 184
+hue_offset: 70
+saturation: 0.13
+
+num_attempts: 22
+dur: 5
+std: 15.97
+size: 1045028 (1020.54 KiB)
+
+xmin: -0.6859626584450096
+xmax: -0.6851196658211951
+ymin: 0.46417202671132696
+ymax: 0.4646462100622226
+
+contrast: 0.82
+brightness: -0.03
+saturation: 1.52
+gamma: 1.08
+gamma_r: 0.98
+gamma_g: 1.05
+gamma_b: 0.95
+vignette: -26
+temp: 5681
