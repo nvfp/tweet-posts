@@ -1,0 +1,31 @@
+tweet_id: 1742440674413158458
+masto_id: 111690724731181032
+subre_id: Not uploaded, but here's the text: Smile!  #MachineLearning #GenerativeArt
+
+newton_power: 5
+newton_const: -10
+
+n_iter: 185
+ct: 134
+hue_offset: 345
+saturation: -0.56
+
+num_attempts: 214
+dur: 600
+std: 14.47
+size: 454258 (443.61 KiB)
+
+xmin: 1.0076108336403715
+xmax: 1.0147114253563478
+ymin: -0.4833595242978066
+ymax: -0.47936544145756993
+
+contrast: 1.69
+brightness: 0.03
+saturation: 0.64
+gamma: 0.99
+gamma_r: 1.0
+gamma_g: 1.03
+gamma_b: 1.1
+vignette: -1
+temp: 6577
