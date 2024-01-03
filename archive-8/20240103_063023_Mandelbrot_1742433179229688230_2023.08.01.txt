@@ -1,0 +1,28 @@
+tweet_id: 1742433179229688230
+masto_id: 111690607715787389
+subre_id: Not uploaded, but here's the text: Wishing you the best!  #Fractals #MachineLearning
+
+n_iter: 427
+ct: 170
+hue_offset: 34
+saturation: -0.75
+
+num_attempts: 42
+dur: 13
+std: 68.41
+size: 1320375 (1.26 MiB)
+
+xmin: -1.3481210128830527
+xmax: -1.3447596683452376
+ymin: -0.048771031731508874
+ymax: -0.046880275428987865
+
+contrast: 1.28
+brightness: 0.21
+saturation: 1.22
+gamma: 1.07
+gamma_r: 1.02
+gamma_g: 1.09
+gamma_b: 0.93
+vignette: -11
+temp: 5636
