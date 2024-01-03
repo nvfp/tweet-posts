@@ -1,0 +1,28 @@
+tweet_id: 1742530476131193211
+masto_id: 111692127834325566
+subre_id: Not uploaded, but here's the text: Wishing you a rad Wednesday!  #Art #Fractals
+
+n_iter: 325
+ct: 255
+hue_offset: 174
+saturation: -0.37
+
+num_attempts: 623
+dur: 604
+std: 62.46
+size: 427560 (417.54 KiB)
+
+xmin: -0.3929526130389591
+xmax: -0.38825777735820793
+ymin: 0.6901422781474174
+ymax: 0.6927831232178399
+
+contrast: 1.59
+brightness: 0.22
+saturation: 0.54
+gamma: 1.08
+gamma_r: 1.08
+gamma_g: 0.82
+gamma_b: 0.91
+vignette: 25
+temp: 4901
