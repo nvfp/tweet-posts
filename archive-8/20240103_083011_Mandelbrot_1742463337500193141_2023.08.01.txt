@@ -1,0 +1,28 @@
+tweet_id: 1742463337500193141
+masto_id: 111691078815056387
+subre_id: Not uploaded, but here's the text: Enjoying the Wednesday with this Mandelbrot Set.  #AI #Art
+
+n_iter: 476
+ct: 149
+hue_offset: 196
+saturation: 0.72
+
+num_attempts: 189
+dur: 71
+std: 24.04
+size: 1072031 (1.02 MiB)
+
+xmin: -1.2251688140596722
+xmax: -1.2242795299333937
+ymin: -0.16594850325538224
+ymax: -0.16544828093435068
+
+contrast: 1.33
+brightness: 0.06
+saturation: 1.61
+gamma: 1.0
+gamma_r: 0.91
+gamma_g: 0.93
+gamma_b: 0.91
+vignette: -39
+temp: 5924
