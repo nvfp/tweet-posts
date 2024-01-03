@@ -1,0 +1,31 @@
+tweet_id: 1742621869608513545
+masto_id: 111693555885937449
+subre_id: Not uploaded, but here's the text: you're awesome!  #GenerativeArt #DeepLearning
+
+newton_power: 7
+newton_const: 1
+
+n_iter: 179
+ct: 106
+hue_offset: 115
+saturation: 0.48
+
+num_attempts: 155
+dur: 600
+std: 23.98
+size: 1153486 (1.1 MiB)
+
+xmin: 1.1339962533406895
+xmax: 1.1581898017277863
+ymin: -1.2227359926126014
+ymax: -1.2091271216448594
+
+contrast: 0.79
+brightness: 0.11
+saturation: 1.43
+gamma: 0.9
+gamma_r: 1.03
+gamma_g: 0.9
+gamma_b: 1.0
+vignette: -9
+temp: 4200
