@@ -1,0 +1,28 @@
+tweet_id: 1742647562106961971
+masto_id: 111693957459160176
+subre_id: Not uploaded, but here's the text: Hope you're having a great Wednesday!  #Art #Fractals
+
+n_iter: 641
+ct: 255
+hue_offset: 73
+saturation: -0.36
+
+num_attempts: 351
+dur: 603
+std: 60.0
+size: 514596 (502.54 KiB)
+
+xmin: -0.1863906816215024
+xmax: -0.18116192345156776
+ymin: -1.0611401074979248
+ymax: -1.0581989310273365
+
+contrast: 0.76
+brightness: 0.22
+saturation: 1.42
+gamma: 1.06
+gamma_r: 1.1
+gamma_g: 0.91
+gamma_b: 1.13
+vignette: 7
+temp: 4566
