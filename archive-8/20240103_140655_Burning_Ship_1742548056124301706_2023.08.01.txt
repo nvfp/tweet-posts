@@ -1,0 +1,28 @@
+tweet_id: 1742548056124301706
+masto_id: 111692402839615099
+subre_id: Not uploaded, but here's the text: Happy Wednesday! Enjoy the beauty of Burning Ship.  #Art #Fractals
+
+n_iter: 238
+ct: 196
+hue_offset: 53
+saturation: 0.31
+
+num_attempts: 5
+dur: 0
+std: 20.96
+size: 747894 (730.37 KiB)
+
+xmin: -0.3153711035781912
+xmax: -0.21754501662166947
+ymin: -1.1226640984529432
+ymax: -1.0676369245398998
+
+contrast: 1.17
+brightness: -0.09
+saturation: 1.23
+gamma: 1.04
+gamma_r: 1.09
+gamma_g: 1.02
+gamma_b: 1.01
+vignette: -16
+temp: 2474
