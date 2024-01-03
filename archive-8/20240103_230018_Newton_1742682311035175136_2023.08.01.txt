@@ -1,0 +1,31 @@
+tweet_id: 1742682311035175136
+masto_id: 111694500218943065
+subre_id: Not uploaded, but here's the text: Hope your Wednesday is awesome!  #Fractals #Nature
+
+newton_power: 6
+newton_const: 0
+
+n_iter: 143
+ct: 227
+hue_offset: 292
+saturation: -0.08
+
+num_attempts: 150
+dur: 604
+std: 3.52
+size: 298349 (291.36 KiB)
+
+xmin: -0.42541272015755816
+xmax: 2.574587279842442
+ymin: -0.08767473620451272
+ymax: 1.5998252637954873
+
+contrast: 1.15
+brightness: 0.05
+saturation: 1.38
+gamma: 1.01
+gamma_r: 1.08
+gamma_g: 0.91
+gamma_b: 0.92
+vignette: 8
+temp: 2173
