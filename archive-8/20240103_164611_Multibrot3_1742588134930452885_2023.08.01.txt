@@ -1,0 +1,28 @@
+tweet_id: 1742588134930452885
+masto_id: 111693028841640582
+subre_id: Not uploaded, but here's the text: Warm wishes for your Wednesday, and let's have a look at this Multibrot.  #GenerativeArt #DeepLearning
+
+n_iter: 429
+ct: 255
+hue_offset: 297
+saturation: -0.93
+
+num_attempts: 597
+dur: 600
+std: 72.79
+size: 1027292 (1003.21 KiB)
+
+xmin: 0.542205849763433
+xmax: 0.5499577877479291
+ymin: -0.21240446246877331
+ymax: -0.20804399735249424
+
+contrast: 1.56
+brightness: -0.01
+saturation: 1.48
+gamma: 0.97
+gamma_r: 0.82
+gamma_g: 1.0
+gamma_b: 0.92
+vignette: -20
+temp: 2255
