@@ -1,0 +1,28 @@
+tweet_id: 1742941053043269811
+masto_id: 111698543137265433
+subre_id: Not uploaded, but here's the text: Wow, take a look! There's Burning Ship!  #DigitalArt #Nature
+
+n_iter: 237
+ct: 31
+hue_offset: 33
+saturation: -0.28
+
+num_attempts: 6
+dur: 2
+std: 22.33
+size: 1228476 (1.17 MiB)
+
+xmin: -0.21906637861884937
+xmax: 0.9059336213811506
+ymin: -1.4698468555332096
+ymax: -0.8370343555332096
+
+contrast: 0.75
+brightness: 0.21
+saturation: 0.95
+gamma: 0.91
+gamma_r: 1.09
+gamma_g: 0.93
+gamma_b: 1.06
+vignette: -47
+temp: 5892
