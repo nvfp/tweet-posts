@@ -1,0 +1,28 @@
+tweet_id: 1742976757144428733
+masto_id: 111699101019984314
+subre_id: Not uploaded, but here's the text: Enjoy your Thursday!  #AI #Mathematics
+
+n_iter: 355
+ct: 244
+hue_offset: 75
+saturation: 0.63
+
+num_attempts: 66
+dur: 25
+std: 64.17
+size: 1082007 (1.03 MiB)
+
+xmin: 0.37717759580876997
+xmax: 0.3776062284705788
+ymin: 0.2561963603759867
+ymax: 0.25643746624825414
+
+contrast: 1.04
+brightness: 0.09
+saturation: 1.12
+gamma: 1.09
+gamma_r: 0.93
+gamma_g: 1.07
+gamma_b: 1.01
+vignette: -2
+temp: 4703
