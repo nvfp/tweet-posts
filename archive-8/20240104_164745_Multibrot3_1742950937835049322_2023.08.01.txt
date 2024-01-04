@@ -1,0 +1,28 @@
+tweet_id: 1742950937835049322
+masto_id: 111698697586147475
+subre_id: Not uploaded, but here's the text: Hey there, it's Thursday!  #DeepLearning #Art
+
+n_iter: 450
+ct: 1
+hue_offset: 109
+saturation: 0.87
+
+num_attempts: 551
+dur: 601
+std: 71.74
+size: 914295 (892.87 KiB)
+
+xmin: 0.34322383480757823
+xmax: 0.3498136206395387
+ymin: -0.6560088811367069
+ymax: -0.6523021266062291
+
+contrast: 1.64
+brightness: 0.14
+saturation: 1.0
+gamma: 1.15
+gamma_r: 1.2
+gamma_g: 1.08
+gamma_b: 1.1
+vignette: -23
+temp: 5703
