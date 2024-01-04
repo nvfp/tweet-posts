@@ -1,0 +1,28 @@
+tweet_id: 1743031236392607917
+masto_id: 111699952274784767
+subre_id: Not uploaded, but here's the text: Wow, guess what? it's Burning Ship!  #AI #MachineLearning
+
+n_iter: 316
+ct: 109
+hue_offset: 344
+saturation: -0.21
+
+num_attempts: 13
+dur: 3
+std: 26.43
+size: 448778 (438.26 KiB)
+
+xmin: -1.6704756852142277
+xmax: -0.17047568521422773
+ymin: -0.8080085836732542
+ymax: 0.03574141632674577
+
+contrast: 1.45
+brightness: 0.15
+saturation: 0.58
+gamma: 0.97
+gamma_r: 1.01
+gamma_g: 1.08
+gamma_b: 1.04
+vignette: 21
+temp: 4616
