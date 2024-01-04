@@ -1,0 +1,28 @@
+tweet_id: 1743001293218533810
+masto_id: 111699484728402816
+subre_id: Not uploaded, but here's the text: You are lovely!  #AI #VisualArt
+
+n_iter: 339
+ct: 238
+hue_offset: 238
+saturation: 0.48
+
+num_attempts: 6
+dur: 5
+std: 34.36
+size: 847180 (827.32 KiB)
+
+xmin: -1.4500701710648554
+xmax: -0.32507017106485536
+ymin: -0.7901141992083722
+ymax: -0.15730169920837223
+
+contrast: 1.18
+brightness: 0.18
+saturation: 1.27
+gamma: 1.0
+gamma_r: 0.96
+gamma_g: 0.99
+gamma_b: 0.93
+vignette: 25
+temp: 4950
