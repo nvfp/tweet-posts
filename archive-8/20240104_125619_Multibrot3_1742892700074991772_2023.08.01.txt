@@ -1,0 +1,28 @@
+tweet_id: 1742892700074991772
+masto_id: 111697787580859414
+subre_id: Not uploaded, but here's the text: you're awesome!  #MachineLearning #Nature
+
+n_iter: 619
+ct: 255
+hue_offset: 120
+saturation: 0.07
+
+num_attempts: 403
+dur: 600
+std: 80.53
+size: 1201448 (1.15 MiB)
+
+xmin: -0.3492639273449085
+xmax: -0.345092915874627
+ymin: 0.7198743805869658
+ymax: 0.7222205745389992
+
+contrast: 1.5
+brightness: 0.23
+saturation: 1.35
+gamma: 1.16
+gamma_r: 0.82
+gamma_g: 1.02
+gamma_b: 1.14
+vignette: -27
+temp: 4710
