@@ -1,0 +1,28 @@
+tweet_id: 1742947307438346458
+masto_id: 111698641126930680
+subre_id: Not uploaded, but here's the text: Have an awesome Thursday!  #DigitalArt #MachineLearning
+
+n_iter: 219
+ct: 190
+hue_offset: 298
+saturation: -0.88
+
+num_attempts: 34
+dur: 10
+std: 73.06
+size: 886554 (865.78 KiB)
+
+xmin: 0.197464866518001
+xmax: 0.19788787836233263
+ymin: 0.5488600470191811
+ymax: 0.5490979911816176
+
+contrast: 1.22
+brightness: 0.11
+saturation: 0.4
+gamma: 1.02
+gamma_r: 0.96
+gamma_g: 1.01
+gamma_b: 0.9
+vignette: 22
+temp: 6467
