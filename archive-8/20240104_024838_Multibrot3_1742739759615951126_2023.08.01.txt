@@ -1,0 +1,28 @@
+tweet_id: 1742739759615951126
+masto_id: 111695398054977548
+subre_id: Not uploaded, but here's the text: Have an extraordinary Thursday!  #Fractals #VisualArt
+
+n_iter: 677
+ct: 1
+hue_offset: 291
+saturation: 0.62
+
+num_attempts: 379
+dur: 600
+std: 92.07
+size: 1065631 (1.02 MiB)
+
+xmin: 0.5784466501985186
+xmax: 0.5836617740577102
+ymin: -0.5973007181460986
+ymax: -0.5943672109753033
+
+contrast: 1.45
+brightness: 0.23
+saturation: 1.57
+gamma: 1.13
+gamma_r: 1.04
+gamma_g: 1.01
+gamma_b: 1.02
+vignette: -15
+temp: 3021
