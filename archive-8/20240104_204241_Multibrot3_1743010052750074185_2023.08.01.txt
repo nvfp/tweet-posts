@@ -1,0 +1,28 @@
+tweet_id: 1743010052750074185
+masto_id: 111699621413927646
+subre_id: Not uploaded, but here's the text: Another Thursday, another Multibrot!  #Art #GenerativeArt
+
+n_iter: 637
+ct: 255
+hue_offset: 219
+saturation: 0.71
+
+num_attempts: 369
+dur: 602
+std: 48.45
+size: 821779 (802.52 KiB)
+
+xmin: 0.5921114525603497
+xmax: 0.613164084139297
+ymin: 0.2844302805655068
+ymax: 0.29627238582866466
+
+contrast: 1.29
+brightness: 0.12
+saturation: 0.92
+gamma: 1.03
+gamma_r: 0.87
+gamma_g: 1.15
+gamma_b: 0.94
+vignette: -40
+temp: 6383
