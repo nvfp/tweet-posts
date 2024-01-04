@@ -1,0 +1,28 @@
+tweet_id: 1742736341580824597
+masto_id: 111695344605237883
+subre_id: Not uploaded, but here's the text: You rock, and so does this Thursday!  #Art #Fractals
+
+n_iter: 522
+ct: 248
+hue_offset: 202
+saturation: -0.24
+
+num_attempts: 33
+dur: 18
+std: 54.14
+size: 1281736 (1.22 MiB)
+
+xmin: -1.1682141694364059
+xmax: -1.167231851165286
+ymin: -0.24781586916480236
+ymax: -0.24726331513729746
+
+contrast: 1.8
+brightness: -0.04
+saturation: 1.09
+gamma: 1.05
+gamma_r: 0.91
+gamma_g: 1.02
+gamma_b: 1.09
+vignette: -26
+temp: 4016
