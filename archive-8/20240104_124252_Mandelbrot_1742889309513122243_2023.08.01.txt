@@ -1,0 +1,28 @@
+tweet_id: 1742889309513122243
+masto_id: 111697734668079267
+subre_id: Not uploaded, but here's the text: Mandelbrot Set vibes to brighten your Thursday.  #Nature #GenerativeArt
+
+n_iter: 553
+ct: 54
+hue_offset: 239
+saturation: 0.76
+
+num_attempts: 26
+dur: 12
+std: 90.37
+size: 1311290 (1.25 MiB)
+
+xmin: -0.9171293704125696
+xmax: -0.9064341832467941
+ymin: 0.235348130838825
+ymax: 0.24136417361957366
+
+contrast: 1.13
+brightness: -0.07
+saturation: 0.69
+gamma: 0.91
+gamma_r: 0.98
+gamma_g: 1.02
+gamma_b: 1.06
+vignette: -25
+temp: 6868
