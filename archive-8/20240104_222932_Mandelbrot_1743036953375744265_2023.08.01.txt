@@ -1,0 +1,28 @@
+tweet_id: 1743036953375744265
+masto_id: 111700041536283897
+subre_id: Not uploaded, but here's the text: Have an extraordinary Thursday!  #GenerativeArt #DeepLearning
+
+n_iter: 371
+ct: 145
+hue_offset: 313
+saturation: 0.38
+
+num_attempts: 49
+dur: 21
+std: 28.58
+size: 414002 (404.3 KiB)
+
+xmin: -1.0121372972072276
+xmax: -1.011727880625856
+ymin: 0.2513836946457644
+ymax: 0.25161399147278585
+
+contrast: 1.66
+brightness: 0.0
+saturation: 1.73
+gamma: 0.97
+gamma_r: 0.98
+gamma_g: 0.97
+gamma_b: 0.99
+vignette: 29
+temp: 5263
