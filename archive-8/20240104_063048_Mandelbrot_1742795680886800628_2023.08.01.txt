@@ -1,0 +1,28 @@
+tweet_id: 1742795680886800628
+masto_id: 111696271666104402
+subre_id: Not uploaded, but here's the text: Today is awesome!  #Fractals #VisualArt
+
+n_iter: 708
+ct: 198
+hue_offset: 88
+saturation: -0.39
+
+num_attempts: 8
+dur: 7
+std: 158.27
+size: 743425 (726.0 KiB)
+
+xmin: -0.12492834846988643
+xmax: -0.12441148582613401
+ymin: -0.8797641042501623
+ymax: -0.8794733690130515
+
+contrast: 1.55
+brightness: -0.02
+saturation: 1.05
+gamma: 1.03
+gamma_r: 1.0
+gamma_g: 0.97
+gamma_b: 1.07
+vignette: 24
+temp: 6941
