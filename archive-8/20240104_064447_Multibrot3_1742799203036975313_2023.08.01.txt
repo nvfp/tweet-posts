@@ -1,0 +1,28 @@
+tweet_id: 1742799203036975313
+masto_id: 111696326616864170
+subre_id: Not uploaded, but here's the text: Beautiful Thursday with this Multibrot!  #DeepLearning #Mathematics
+
+n_iter: 465
+ct: 255
+hue_offset: 248
+saturation: -0.79
+
+num_attempts: 524
+dur: 602
+std: 64.79
+size: 1212068 (1.16 MiB)
+
+xmin: -0.19951061306519557
+xmax: -0.1945416689658167
+ymin: 0.8629392228620092
+ymax: 0.8657342539179098
+
+contrast: 1.66
+brightness: 0.03
+saturation: 1.45
+gamma: 1.04
+gamma_r: 1.11
+gamma_g: 1.08
+gamma_b: 1.12
+vignette: -48
+temp: 6923
