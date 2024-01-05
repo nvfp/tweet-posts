@@ -1,0 +1,28 @@
+tweet_id: 1743083436200329364
+masto_id: 111700767850042359
+subre_id: Not uploaded, but here's the text: Let this Mandelbrot Set inspire your Friday.  #Art #GenerativeArt
+
+n_iter: 714
+ct: 72
+hue_offset: 313
+saturation: 0.58
+
+num_attempts: 35
+dur: 22
+std: 24.1
+size: 1127388 (1.08 MiB)
+
+xmin: 0.12330733308167607
+xmax: 0.13013327164822897
+ymin: -0.6611169967366943
+ymax: -0.6572774062930083
+
+contrast: 1.69
+brightness: 0.12
+saturation: 1.6
+gamma: 1.09
+gamma_r: 0.96
+gamma_g: 1.06
+gamma_b: 1.07
+vignette: 18
+temp: 5215
