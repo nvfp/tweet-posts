@@ -1,0 +1,31 @@
+tweet_id: 1743225854182773195
+masto_id: 111702993280809886
+subre_id: Not uploaded, but here's the text: Beautiful Friday with this Newton!  #Art #GenerativeArt
+
+newton_power: 5
+newton_const: -3
+
+n_iter: 213
+ct: 107
+hue_offset: 273
+saturation: -0.39
+
+num_attempts: 232
+dur: 601
+std: 9.87
+size: 677847 (661.96 KiB)
+
+xmin: 2.240511714922503
+xmax: 2.250785687525243
+ymin: -1.5422855362798167
+ymax: -1.5365064266907755
+
+contrast: 1.26
+brightness: 0.14
+saturation: 1.73
+gamma: 1.04
+gamma_r: 0.91
+gamma_g: 1.0
+gamma_b: 1.09
+vignette: -3
+temp: 6298
