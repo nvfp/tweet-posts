@@ -1,0 +1,28 @@
+tweet_id: 1743363627988799933
+masto_id: 111705145888682317
+subre_id: Not uploaded, but here's the text: Smile!  #Fractals #GenerativeArt
+
+n_iter: 328
+ct: 116
+hue_offset: 304
+saturation: -0.62
+
+num_attempts: 28
+dur: 5
+std: 57.12
+size: 1787511 (1.7 MiB)
+
+xmin: -0.8442706239587474
+xmax: -0.6192706239587474
+ymin: -0.746972272230358
+ymax: -0.620409772230358
+
+contrast: 0.88
+brightness: 0.13
+saturation: 0.56
+gamma: 0.93
+gamma_r: 1.03
+gamma_g: 0.94
+gamma_b: 0.9
+vignette: -28
+temp: 3113
