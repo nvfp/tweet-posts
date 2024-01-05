@@ -1,0 +1,28 @@
+tweet_id: 1743157971389968406
+masto_id: 111701932432926895
+subre_id: Not uploaded, but here's the text: Having a blast on Friday?  #GenerativeArt #Fractals
+
+n_iter: 761
+ct: 63
+hue_offset: 200
+saturation: -0.78
+
+num_attempts: 33
+dur: 22
+std: 127.53
+size: 756459 (738.73 KiB)
+
+xmin: -0.02297289422204951
+xmax: -0.021208447817109063
+ymin: -0.7967815487357209
+ymax: -0.7957890476329419
+
+contrast: 0.86
+brightness: 0.06
+saturation: 0.56
+gamma: 0.91
+gamma_r: 1.01
+gamma_g: 1.02
+gamma_b: 1.03
+vignette: -20
+temp: 2620
