@@ -1,0 +1,28 @@
+tweet_id: 1743086398293540870
+masto_id: 111700814087620384
+subre_id: Not uploaded, but here's the text: Guess what? It's Multibrot!  #Fractals #DeepLearning
+
+n_iter: 292
+ct: 255
+hue_offset: 299
+saturation: -0.5
+
+num_attempts: 791
+dur: 601
+std: 53.67
+size: 1174718 (1.12 MiB)
+
+xmin: 0.5287603652907107
+xmax: 0.5354159393339719
+ymin: -0.39756973460161804
+ymax: -0.3938259742022836
+
+contrast: 1.73
+brightness: 0.2
+saturation: 0.42
+gamma: 0.94
+gamma_r: 1.0
+gamma_g: 0.81
+gamma_b: 0.86
+vignette: 13
+temp: 6367
