@@ -1,0 +1,28 @@
+tweet_id: 1743278311877325037
+masto_id: 111703812717965162
+subre_id: Not uploaded, but here's the text: Ever heard of this Mandelbrot Set?  #VisualArt #AI
+
+n_iter: 571
+ct: 189
+hue_offset: 107
+saturation: 0.68
+
+num_attempts: 39
+dur: 25
+std: 103.55
+size: 1831595 (1.75 MiB)
+
+xmin: -0.4702096725388065
+xmax: -0.46962564567357074
+ymin: 0.5837642928170899
+ymax: 0.584092807928785
+
+contrast: 1.79
+brightness: 0.21
+saturation: 0.7
+gamma: 1.0
+gamma_r: 0.99
+gamma_g: 0.97
+gamma_b: 1.06
+vignette: 6
+temp: 6468
