@@ -1,0 +1,31 @@
+tweet_id: 1743376883989856574
+masto_id: 111705352986392055
+subre_id: Not uploaded, but here's the text: Hey wait, look! it's Newton!  #Fractals #DeepLearning
+
+newton_power: 6
+newton_const: -7
+
+n_iter: 142
+ct: 208
+hue_offset: 166
+saturation: -0.43
+
+num_attempts: 168
+dur: 601
+std: 22.18
+size: 1108834 (1.06 MiB)
+
+xmin: 2.9845991681088755
+xmax: 2.995898603137124
+ymin: 1.310846468472025
+ymax: 1.3172024006754148
+
+contrast: 0.73
+brightness: 0.02
+saturation: 1.32
+gamma: 0.93
+gamma_r: 1.08
+gamma_g: 0.92
+gamma_b: 0.95
+vignette: -18
+temp: 5159
