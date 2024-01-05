@@ -1,0 +1,28 @@
+tweet_id: 1743368134688489685
+masto_id: 111705216246093001
+subre_id: Not uploaded, but here's the text: Surprise! Mandelbrot Set!  #DeepLearning #Fractals
+
+n_iter: 262
+ct: 109
+hue_offset: 46
+saturation: -0.01
+
+num_attempts: 29
+dur: 6
+std: 37.47
+size: 847273 (827.42 KiB)
+
+xmin: -0.6524711359669424
+xmax: -0.6517508046145203
+ymin: -0.47906179003289584
+ymax: -0.4786566036471584
+
+contrast: 0.73
+brightness: 0.12
+saturation: 1.66
+gamma: 0.91
+gamma_r: 0.98
+gamma_g: 1.05
+gamma_b: 1.02
+vignette: 22
+temp: 3904
