@@ -1,0 +1,31 @@
+tweet_id: 1743316440671768932
+masto_id: 111704408570608599
+subre_id: Not uploaded, but here's the text: Hey there, it's Friday!  #DigitalArt #Art
+
+newton_power: 4
+newton_const: 2
+
+n_iter: 188
+ct: 28
+hue_offset: 292
+saturation: -0.32
+
+num_attempts: 272
+dur: 600
+std: 7.54
+size: 884456 (863.73 KiB)
+
+xmin: -1.1615497383462023
+xmax: -1.1511870440456842
+ymin: -0.18151341783230168
+ymax: -0.17568440228826024
+
+contrast: 1.7
+brightness: -0.03
+saturation: 1.59
+gamma: 1.03
+gamma_r: 1.05
+gamma_g: 0.97
+gamma_b: 1.02
+vignette: -43
+temp: 2319
