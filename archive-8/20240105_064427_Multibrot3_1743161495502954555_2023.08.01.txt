@@ -1,0 +1,28 @@
+tweet_id: 1743161495502954555
+masto_id: 111701987622812154
+subre_id: Not uploaded, but here's the text: Wishing you a fantastic day!  #AI #DigitalArt
+
+n_iter: 614
+ct: 1
+hue_offset: 187
+saturation: 0.28
+
+num_attempts: 412
+dur: 606
+std: 88.0
+size: 1414413 (1.35 MiB)
+
+xmin: -0.18592383774457177
+xmax: -0.17996258588168057
+ymin: 0.7449330511548125
+ymax: 0.7482862553276888
+
+contrast: 1.43
+brightness: -0.0
+saturation: 1.69
+gamma: 1.01
+gamma_r: 0.89
+gamma_g: 1.04
+gamma_b: 1.13
+vignette: -23
+temp: 5042
