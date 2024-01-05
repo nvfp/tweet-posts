@@ -1,0 +1,28 @@
+tweet_id: 1743182952589389927
+masto_id: 111702322796899921
+subre_id: Not uploaded, but here's the text: Look what we have here! it's Burning Ship!  #AI #DigitalArt
+
+n_iter: 484
+ct: 198
+hue_offset: 75
+saturation: -0.67
+
+num_attempts: 8
+dur: 3
+std: 66.26
+size: 1572883 (1.5 MiB)
+
+xmin: 0.4005205374186773
+xmax: 0.4870589989571389
+ymin: -1.1869499045537613
+ymax: -1.1382720199383767
+
+contrast: 0.81
+brightness: -0.07
+saturation: 1.51
+gamma: 1.0
+gamma_r: 1.07
+gamma_g: 1.09
+gamma_b: 0.99
+vignette: -2
+temp: 2690
