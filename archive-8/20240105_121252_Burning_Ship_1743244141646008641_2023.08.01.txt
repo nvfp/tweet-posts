@@ -1,0 +1,28 @@
+tweet_id: 1743244141646008641
+masto_id: 111703278949770617
+subre_id: Not uploaded, but here's the text: Let the magic of Friday fill your heart!  #DigitalArt #Art
+
+n_iter: 262
+ct: 215
+hue_offset: 165
+saturation: 0.8
+
+num_attempts: 14
+dur: 2
+std: 37.2
+size: 1347522 (1.29 MiB)
+
+xmin: -0.19746333564582397
+xmax: 0.17753666435417603
+ymin: -1.165028585180536
+ymax: -0.954091085180536
+
+contrast: 1.22
+brightness: 0.22
+saturation: 0.56
+gamma: 1.01
+gamma_r: 1.07
+gamma_g: 1.01
+gamma_b: 1.04
+vignette: -30
+temp: 5742
