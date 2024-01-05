@@ -1,0 +1,28 @@
+tweet_id: 1743218464456651239
+masto_id: 111702877849887160
+subre_id: Not uploaded, but here's the text: You are lovely!  #MachineLearning #Art
+
+n_iter: 989
+ct: 97
+hue_offset: 179
+saturation: -0.77
+
+num_attempts: 38
+dur: 20
+std: 77.97
+size: 1336965 (1.28 MiB)
+
+xmin: -0.9098445058750808
+xmax: -0.9093831980674462
+ymin: -0.24098445125245316
+ymax: -0.24072496561065868
+
+contrast: 1.78
+brightness: 0.0
+saturation: 0.47
+gamma: 1.05
+gamma_r: 0.96
+gamma_g: 1.02
+gamma_b: 1.09
+vignette: 29
+temp: 3625
