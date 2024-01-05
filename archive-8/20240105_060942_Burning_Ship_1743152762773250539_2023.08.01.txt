@@ -1,0 +1,28 @@
+tweet_id: 1743152762773250539
+masto_id: 111701850992909313
+subre_id: Not uploaded, but here's the text: Let this Burning Ship inspire your Friday.  #DigitalArt #Mathematics
+
+n_iter: 186
+ct: 248
+hue_offset: 47
+saturation: -0.1
+
+num_attempts: 7
+dur: 1
+std: 27.78
+size: 1271628 (1.21 MiB)
+
+xmin: 0.37193000241935215
+xmax: 0.47420272969207944
+ymin: -1.157720832554951
+ymax: -1.100192423464042
+
+contrast: 1.06
+brightness: -0.03
+saturation: 0.33
+gamma: 0.97
+gamma_r: 1.0
+gamma_g: 1.01
+gamma_b: 1.07
+vignette: 33
+temp: 6687
