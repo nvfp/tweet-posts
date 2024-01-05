@@ -1,0 +1,31 @@
+tweet_id: 1743257954973856232
+masto_id: 111703494717809905
+subre_id: Not uploaded, but here's the text: Let this Newton inspire your Friday.  #DigitalArt #VisualArt
+
+newton_power: 7
+newton_const: 9
+
+n_iter: 129
+ct: 178
+hue_offset: 119
+saturation: 0.45
+
+num_attempts: 152
+dur: 602
+std: 17.64
+size: 1137722 (1.09 MiB)
+
+xmin: -1.846138333613707
+xmax: -1.8369780282701955
+ymin: -1.0359196915344733
+ymax: -1.0307670197787482
+
+contrast: 1.59
+brightness: 0.1
+saturation: 0.67
+gamma: 1.07
+gamma_r: 1.05
+gamma_g: 1.01
+gamma_b: 1.03
+vignette: -41
+temp: 4526
