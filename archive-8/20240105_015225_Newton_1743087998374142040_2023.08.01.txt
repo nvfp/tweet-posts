@@ -1,0 +1,31 @@
+tweet_id: 1743087998374142040
+masto_id: 111700839302944113
+subre_id: Not uploaded, but here's the text: Have an extraordinary Friday!  #Fractals #AI
+
+newton_power: 7
+newton_const: 6
+
+n_iter: 75
+ct: 71
+hue_offset: 304
+saturation: -0.47
+
+num_attempts: 167
+dur: 602
+std: 34.81
+size: 690405 (674.22 KiB)
+
+xmin: -0.18752595690112894
+xmax: -0.12159189096706301
+ymin: -0.08450575484386946
+ymax: -0.047417842755957375
+
+contrast: 1.01
+brightness: 0.06
+saturation: 0.41
+gamma: 1.09
+gamma_r: 1.0
+gamma_g: 0.91
+gamma_b: 1.01
+vignette: 26
+temp: 6326
