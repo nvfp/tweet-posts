@@ -1,0 +1,28 @@
+tweet_id: 1743313058825633965
+masto_id: 111704355609744096
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Friday! You got this!  #DigitalArt #Fractals
+
+n_iter: 640
+ct: 1
+hue_offset: 146
+saturation: -0.11
+
+num_attempts: 411
+dur: 607
+std: 94.94
+size: 653032 (637.73 KiB)
+
+xmin: -0.3558876599202334
+xmax: -0.35127936498935786
+ymin: -0.7147106838497034
+ymax: -0.7121185179510858
+
+contrast: 1.47
+brightness: 0.11
+saturation: 0.52
+gamma: 0.96
+gamma_r: 1.01
+gamma_g: 0.82
+gamma_b: 0.81
+vignette: -1
+temp: 4552
