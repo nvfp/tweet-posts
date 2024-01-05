@@ -1,0 +1,28 @@
+tweet_id: 1743102313869484340
+masto_id: 111701062946024672
+subre_id: Not uploaded, but here's the text: Keep shining on Friday!  #DigitalArt #GenerativeArt
+
+n_iter: 557
+ct: 255
+hue_offset: 65
+saturation: -0.47
+
+num_attempts: 428
+dur: 600
+std: 67.18
+size: 890324 (869.46 KiB)
+
+xmin: -0.19538298810527843
+xmax: -0.1841153824714756
+ymin: 1.0347925907809747
+ymax: 1.041130618949989
+
+contrast: 1.07
+brightness: 0.07
+saturation: 0.9
+gamma: 1.07
+gamma_r: 1.16
+gamma_g: 1.05
+gamma_b: 0.95
+vignette: -12
+temp: 7097
