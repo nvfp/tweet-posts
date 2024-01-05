@@ -1,0 +1,28 @@
+tweet_id: 1743281782185750657
+masto_id: 111703867075257836
+subre_id: Not uploaded, but here's the text: Have an awesome day!  #Art #GenerativeArt
+
+n_iter: 589
+ct: 255
+hue_offset: 212
+saturation: -0.14
+
+num_attempts: 394
+dur: 602
+std: 71.25
+size: 1002933 (979.43 KiB)
+
+xmin: 0.38228884257148366
+xmax: 0.3906745868062845
+ymin: -0.6820668484458413
+ymax: -0.6773498673137658
+
+contrast: 0.88
+brightness: 0.05
+saturation: 0.97
+gamma: 0.96
+gamma_r: 0.82
+gamma_g: 1.1
+gamma_b: 0.96
+vignette: -15
+temp: 3503
