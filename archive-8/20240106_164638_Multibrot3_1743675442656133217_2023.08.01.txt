@@ -1,0 +1,28 @@
+tweet_id: 1743675442656133217
+masto_id: 111710017868479769
+subre_id: Not uploaded, but here's the text: Smile, it's Saturday!  #Mathematics #MachineLearning
+
+n_iter: 598
+ct: 255
+hue_offset: 155
+saturation: 0.16
+
+num_attempts: 420
+dur: 602
+std: 78.67
+size: 574182 (560.72 KiB)
+
+xmin: 0.23445701655623274
+xmax: 0.24084679291406022
+ymin: 0.7164568388582992
+ymax: 0.7200510880595772
+
+contrast: 0.92
+brightness: -0.08
+saturation: 0.87
+gamma: 0.96
+gamma_r: 0.86
+gamma_g: 1.1
+gamma_b: 1.07
+vignette: -23
+temp: 7213
