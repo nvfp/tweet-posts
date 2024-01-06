@@ -1,0 +1,28 @@
+tweet_id: 1743704525679038505
+masto_id: 111710472421740270
+subre_id: Not uploaded, but here's the text: Let the magic of Saturday fill your heart!  #DigitalArt #AI
+
+n_iter: 291
+ct: 255
+hue_offset: 328
+saturation: 0.61
+
+num_attempts: 740
+dur: 603
+std: 43.3
+size: 1271487 (1.21 MiB)
+
+xmin: -0.5809013698815444
+xmax: -0.5748772734960023
+ymin: 0.6188609958318501
+ymax: 0.6222495500487175
+
+contrast: 1.6
+brightness: 0.12
+saturation: 1.02
+gamma: 1.12
+gamma_r: 1.04
+gamma_g: 1.01
+gamma_b: 1.01
+vignette: 18
+temp: 3956
