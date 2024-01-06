@@ -1,0 +1,28 @@
+tweet_id: 1743553609764151435
+masto_id: 111708114269526141
+subre_id: Not uploaded, but here's the text: Keep shining on Saturday!  #DigitalArt #Fractals
+
+n_iter: 675
+ct: 1
+hue_offset: 33
+saturation: -0.91
+
+num_attempts: 362
+dur: 601
+std: 51.48
+size: 969798 (947.07 KiB)
+
+xmin: 0.5106746147485324
+xmax: 0.519912490037216
+ymin: 0.46050658119551313
+ymax: 0.46570288604539767
+
+contrast: 1.0
+brightness: 0.1
+saturation: 0.86
+gamma: 1.1
+gamma_r: 1.09
+gamma_g: 0.91
+gamma_b: 0.9
+vignette: 5
+temp: 5518
