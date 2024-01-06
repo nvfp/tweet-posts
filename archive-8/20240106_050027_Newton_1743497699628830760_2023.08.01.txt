@@ -1,0 +1,31 @@
+tweet_id: 1743497699628830760
+masto_id: 111707240849612747
+subre_id: Not uploaded, but here's the text: Let this Newton inspire your Saturday.  #AI #DeepLearning
+
+newton_power: 7
+newton_const: 6
+
+n_iter: 112
+ct: 59
+hue_offset: 335
+saturation: -0.9
+
+num_attempts: 159
+dur: 606
+std: 22.85
+size: 1463321 (1.4 MiB)
+
+xmin: -2.7825893161741426
+xmax: -2.5217197509567515
+ymin: 1.2025780830174937
+ymax: 1.3493172134522764
+
+contrast: 1.04
+brightness: 0.03
+saturation: 1.26
+gamma: 0.93
+gamma_r: 0.98
+gamma_g: 0.92
+gamma_b: 1.08
+vignette: -30
+temp: 6206
