@@ -1,0 +1,28 @@
+tweet_id: 1743545078184919535
+masto_id: 111707980912145060
+subre_id: Not uploaded, but here's the text: Look what we have here! it's Burning Ship!  #MachineLearning #Art
+
+n_iter: 132
+ct: 69
+hue_offset: 105
+saturation: -0.41
+
+num_attempts: 19
+dur: 4
+std: 20.05
+size: 2158758 (2.06 MiB)
+
+xmin: -0.8310072081704638
+xmax: -0.7410072081704638
+ymin: -0.8423858766005157
+ymax: -0.7917608766005156
+
+contrast: 1.27
+brightness: -0.09
+saturation: 1.19
+gamma: 0.91
+gamma_r: 0.95
+gamma_g: 0.93
+gamma_b: 1.06
+vignette: 22
+temp: 2964
