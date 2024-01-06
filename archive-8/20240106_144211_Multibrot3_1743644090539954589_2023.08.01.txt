@@ -1,0 +1,28 @@
+tweet_id: 1743644090539954589
+masto_id: 111709528160315339
+subre_id: Not uploaded, but here's the text: Happy Saturday!  #VisualArt #Nature
+
+n_iter: 298
+ct: 255
+hue_offset: 332
+saturation: 0.53
+
+num_attempts: 655
+dur: 600
+std: 57.01
+size: 1102055 (1.05 MiB)
+
+xmin: 0.3226153313429925
+xmax: 0.3286033552950883
+ymin: 0.7038330075118671
+ymax: 0.7072012709849209
+
+contrast: 1.03
+brightness: 0.1
+saturation: 0.76
+gamma: 0.97
+gamma_r: 0.91
+gamma_g: 0.97
+gamma_b: 1.0
+vignette: -27
+temp: 7217
