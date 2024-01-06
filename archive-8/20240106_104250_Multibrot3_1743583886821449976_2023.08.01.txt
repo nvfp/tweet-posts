@@ -1,0 +1,28 @@
+tweet_id: 1743583886821449976
+masto_id: 111708587306690503
+subre_id: Not uploaded, but here's the text: Another Saturday, another Multibrot!  #GenerativeArt #DeepLearning
+
+n_iter: 478
+ct: 255
+hue_offset: 271
+saturation: -0.98
+
+num_attempts: 555
+dur: 604
+std: 82.94
+size: 1462610 (1.39 MiB)
+
+xmin: 0.4179531372258891
+xmax: 0.42245764173039363
+ymin: -0.5885229293036932
+ymax: -0.5859891455199094
+
+contrast: 1.62
+brightness: -0.05
+saturation: 1.37
+gamma: 1.17
+gamma_r: 1.2
+gamma_g: 1.14
+gamma_b: 1.03
+vignette: -47
+temp: 6597
