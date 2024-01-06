@@ -1,0 +1,31 @@
+tweet_id: 1743739253832524211
+masto_id: 111711015094525451
+subre_id: Not uploaded, but here's the text: Brighten your Saturday!  #MachineLearning #Mathematics
+
+newton_power: 6
+newton_const: -8
+
+n_iter: 116
+ct: 101
+hue_offset: 45
+saturation: 0.1
+
+num_attempts: 178
+dur: 608
+std: 19.26
+size: 1065844 (1.02 MiB)
+
+xmin: -0.013060102261894802
+xmax: 0.08371409128649229
+ymin: 1.84762090345597
+ymax: 1.9020563873269378
+
+contrast: 1.51
+brightness: 0.11
+saturation: 1.52
+gamma: 0.94
+gamma_r: 0.94
+gamma_g: 1.01
+gamma_b: 1.09
+vignette: -35
+temp: 4176
