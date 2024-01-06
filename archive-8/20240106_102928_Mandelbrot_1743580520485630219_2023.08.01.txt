@@ -1,0 +1,28 @@
+tweet_id: 1743580520485630219
+masto_id: 111708534737636019
+subre_id: Not uploaded, but here's the text: Hello Saturday! This Mandelbrot Set is yours!  #Fractals #Nature
+
+n_iter: 799
+ct: 135
+hue_offset: 179
+saturation: -0.72
+
+num_attempts: 9
+dur: 4
+std: 127.46
+size: 1445033 (1.38 MiB)
+
+xmin: -1.1616087027653828
+xmax: -1.1606352299009388
+ymin: 0.22450997613055335
+ymax: 0.22505755461680305
+
+contrast: 1.49
+brightness: -0.01
+saturation: 0.25
+gamma: 0.96
+gamma_r: 1.08
+gamma_g: 1.08
+gamma_b: 0.96
+vignette: -11
+temp: 2637
