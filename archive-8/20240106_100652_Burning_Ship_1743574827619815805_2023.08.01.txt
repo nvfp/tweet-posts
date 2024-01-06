@@ -1,0 +1,28 @@
+tweet_id: 1743574827619815805
+masto_id: 111708445844038365
+subre_id: Not uploaded, but here's the text: Let this Burning Ship brighten up your Saturday!  #VisualArt #AI
+
+n_iter: 286
+ct: 193
+hue_offset: 277
+saturation: 0.35
+
+num_attempts: 21
+dur: 5
+std: 20.33
+size: 449772 (439.23 KiB)
+
+xmin: 0.2333363263972359
+xmax: 0.3270863263972359
+ymin: -0.2683140987064774
+ymax: -0.21557972370647738
+
+contrast: 1.53
+brightness: -0.08
+saturation: 1.29
+gamma: 0.94
+gamma_r: 1.04
+gamma_g: 1.08
+gamma_b: 0.96
+vignette: -48
+temp: 5977
