@@ -1,0 +1,31 @@
+tweet_id: 1743710101054345610
+masto_id: 111710559444718113
+subre_id: Not uploaded, but here's the text: Hope you have an amazing Saturday!  #Art #GenerativeArt
+
+newton_power: 7
+newton_const: 0
+
+n_iter: 77
+ct: 98
+hue_offset: 318
+saturation: -0.05
+
+num_attempts: 202
+dur: 853
+std: 2.13
+size: 348050 (339.89 KiB)
+
+xmin: -1.8764460454330192
+xmax: -0.3764460454330192
+ymin: 0.1935350197492225
+ymax: 1.0372850197492225
+
+contrast: 1.52
+brightness: 0.2
+saturation: 1.34
+gamma: 0.93
+gamma_r: 0.99
+gamma_g: 0.97
+gamma_b: 1.09
+vignette: 16
+temp: 7174
