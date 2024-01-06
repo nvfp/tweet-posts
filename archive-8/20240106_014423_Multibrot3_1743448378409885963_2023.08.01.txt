@@ -1,0 +1,28 @@
+tweet_id: 1743448378409885963
+masto_id: 111706470011971799
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Saturday! You got this!  #DigitalArt #Nature
+
+n_iter: 359
+ct: 1
+hue_offset: 32
+saturation: 0.07
+
+num_attempts: 631
+dur: 600
+std: 58.98
+size: 875436 (854.92 KiB)
+
+xmin: -0.2423931132998285
+xmax: -0.23395429473442764
+ymin: -0.7269149266544228
+ymax: -0.7221680912113848
+
+contrast: 1.17
+brightness: -0.03
+saturation: 1.25
+gamma: 1.06
+gamma_r: 1.04
+gamma_g: 1.1
+gamma_b: 1.19
+vignette: -48
+temp: 6413
