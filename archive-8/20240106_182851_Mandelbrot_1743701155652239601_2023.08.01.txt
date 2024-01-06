@@ -1,0 +1,28 @@
+tweet_id: 1743701155652239601
+masto_id: 111710419771607878
+subre_id: Not uploaded, but here's the text: Feeling good today!  #Art #VisualArt
+
+n_iter: 714
+ct: 146
+hue_offset: 20
+saturation: 0.05
+
+num_attempts: 34
+dur: 18
+std: 24.41
+size: 272353 (265.97 KiB)
+
+xmin: -0.46102223579265456
+xmax: -0.4597888099523832
+ymin: -0.5463113197878552
+ymax: -0.5456175177527025
+
+contrast: 1.36
+brightness: 0.19
+saturation: 0.82
+gamma: 0.99
+gamma_r: 0.99
+gamma_g: 0.95
+gamma_b: 1.04
+vignette: 7
+temp: 4241
