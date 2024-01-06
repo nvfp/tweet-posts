@@ -1,0 +1,28 @@
+tweet_id: 1743464248657793328
+masto_id: 111706717950134300
+subre_id: Not uploaded, but here's the text: Saturday is shining brightly, just like this Multibrot.  #GenerativeArt #DeepLearning
+
+n_iter: 535
+ct: 1
+hue_offset: 21
+saturation: -0.27
+
+num_attempts: 454
+dur: 601
+std: 89.05
+size: 947942 (925.72 KiB)
+
+xmin: -0.11953006309463943
+xmax: -0.11368210987826516
+ymin: 0.7610210914775308
+ymax: 0.7643105651617413
+
+contrast: 1.39
+brightness: 0.1
+saturation: 1.01
+gamma: 1.18
+gamma_r: 0.88
+gamma_g: 0.91
+gamma_b: 1.02
+vignette: -14
+temp: 6116
