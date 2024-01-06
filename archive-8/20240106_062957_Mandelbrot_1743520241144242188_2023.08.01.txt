@@ -1,0 +1,28 @@
+tweet_id: 1743520241144242188
+masto_id: 111707592965513064
+subre_id: Not uploaded, but here's the text: Keep smiling!  #Fractals #DigitalArt
+
+n_iter: 286
+ct: 114
+hue_offset: 159
+saturation: 0.2
+
+num_attempts: 118
+dur: 32
+std: 54.16
+size: 823687 (804.38 KiB)
+
+xmin: -0.5384601469428905
+xmax: -0.5237542645899493
+ymin: -0.5020739125952894
+ymax: -0.49380185377176
+
+contrast: 1.65
+brightness: 0.07
+saturation: 1.49
+gamma: 0.97
+gamma_r: 0.91
+gamma_g: 1.1
+gamma_b: 0.97
+vignette: 28
+temp: 4136
