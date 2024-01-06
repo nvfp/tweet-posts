@@ -1,0 +1,28 @@
+tweet_id: 1743523519823024527
+masto_id: 111707644170549809
+subre_id: Not uploaded, but here's the text: You are lovely!  #Art #VisualArt
+
+n_iter: 629
+ct: 255
+hue_offset: 337
+saturation: -0.15
+
+num_attempts: 358
+dur: 601
+std: 80.63
+size: 707615 (691.03 KiB)
+
+xmin: -0.45201659878555
+xmax: -0.44738160457929277
+ymin: -0.5484328782197729
+ymax: -0.5458256939787532
+
+contrast: 0.75
+brightness: -0.03
+saturation: 1.09
+gamma: 0.92
+gamma_r: 1.0
+gamma_g: 0.97
+gamma_b: 1.03
+vignette: 11
+temp: 2931
