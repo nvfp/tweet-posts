@@ -1,0 +1,28 @@
+tweet_id: 1743671778768048326
+masto_id: 111709960924040933
+subre_id: Not uploaded, but here's the text: You rock, and so does this Saturday!  #Nature #Art
+
+n_iter: 689
+ct: 171
+hue_offset: 324
+saturation: 0.47
+
+num_attempts: 69
+dur: 31
+std: 28.0
+size: 897246 (876.22 KiB)
+
+xmin: -1.184804670353219
+xmax: -1.1705189560675047
+ymin: 0.19410643002623362
+ymax: 0.2021421443119479
+
+contrast: 0.93
+brightness: 0.23
+saturation: 0.29
+gamma: 0.93
+gamma_r: 1.01
+gamma_g: 1.05
+gamma_b: 1.1
+vignette: -31
+temp: 5142
