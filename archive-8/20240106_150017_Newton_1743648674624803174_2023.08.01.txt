@@ -1,0 +1,31 @@
+tweet_id: 1743648674624803174
+masto_id: 111709599635233806
+subre_id: Not uploaded, but here's the text: Wow, take a look! There's Newton!  #Art #AI
+
+newton_power: 4
+newton_const: -7
+
+n_iter: 255
+ct: 131
+hue_offset: 197
+saturation: 0.55
+
+num_attempts: 256
+dur: 600
+std: 7.11
+size: 329496 (321.77 KiB)
+
+xmin: 1.4663200035902646
+xmax: 1.4741529017625883
+ymin: -1.349986548644869
+ymax: -1.3455805434229369
+
+contrast: 1.52
+brightness: -0.09
+saturation: 1.64
+gamma: 0.99
+gamma_r: 1.07
+gamma_g: 0.96
+gamma_b: 1.01
+vignette: 1
+temp: 3244
