@@ -1,0 +1,28 @@
+tweet_id: 1743665678589239761
+masto_id: 111709865369075192
+subre_id: Not uploaded, but here's the text: Let this Burning Ship brighten up your Saturday!  #Nature #DeepLearning
+
+n_iter: 320
+ct: 13
+hue_offset: 62
+saturation: 0.04
+
+num_attempts: 9
+dur: 2
+std: 52.82
+size: 1670143 (1.59 MiB)
+
+xmin: -0.6036123392814525
+xmax: -0.15361233928145251
+ymin: -1.01109851859471
+ymax: -0.7579735185947098
+
+contrast: 1.39
+brightness: 0.11
+saturation: 1.07
+gamma: 0.94
+gamma_r: 1.05
+gamma_g: 1.08
+gamma_b: 1.05
+vignette: -39
+temp: 5529
