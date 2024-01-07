@@ -1,0 +1,31 @@
+tweet_id: 1743814114571370583
+masto_id: 111712184730332165
+subre_id: Not uploaded, but here's the text: Wishing you the best!  #Mathematics #MachineLearning
+
+newton_power: 4
+newton_const: 10
+
+n_iter: 251
+ct: 83
+hue_offset: 149
+saturation: 0.84
+
+num_attempts: 261
+dur: 601
+std: 7.93
+size: 831342 (811.86 KiB)
+
+xmin: -2.9131344583856755
+xmax: -2.904501364860496
+ymin: 0.4256469396286158
+ymax: 0.43050305473652944
+
+contrast: 0.81
+brightness: 0.09
+saturation: 1.12
+gamma: 0.95
+gamma_r: 1.01
+gamma_g: 0.95
+gamma_b: 0.95
+vignette: 7
+temp: 4455
