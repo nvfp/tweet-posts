@@ -1,0 +1,28 @@
+tweet_id: 1743810004069896517
+masto_id: 111712120482431248
+subre_id: Not uploaded, but here's the text: Chin up, lovely humans!  #GenerativeArt #DigitalArt
+
+n_iter: 939
+ct: 217
+hue_offset: 350
+saturation: -0.07
+
+num_attempts: 111
+dur: 73
+std: 97.2
+size: 711278 (694.61 KiB)
+
+xmin: -1.1758832436092528
+xmax: -1.1623239215753545
+ymin: 0.23555263562345607
+ymax: 0.24317975426752386
+
+contrast: 1.59
+brightness: -0.01
+saturation: 1.14
+gamma: 1.01
+gamma_r: 1.0
+gamma_g: 1.09
+gamma_b: 1.01
+vignette: 19
+temp: 5676
