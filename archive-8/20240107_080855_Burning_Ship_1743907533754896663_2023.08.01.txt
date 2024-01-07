@@ -1,0 +1,28 @@
+tweet_id: 1743907533754896663
+masto_id: 111713644394895937
+subre_id: Not uploaded, but here's the text: Have an extraordinary Sunday!  #AI #DigitalArt
+
+n_iter: 183
+ct: 108
+hue_offset: 257
+saturation: -0.41
+
+num_attempts: 16
+dur: 3
+std: 25.61
+size: 1076617 (1.03 MiB)
+
+xmin: -1.3056434161275066
+xmax: -0.9306434161275066
+ymin: -0.6207703079149369
+ymax: -0.4098328079149369
+
+contrast: 1.27
+brightness: 0.2
+saturation: 1.41
+gamma: 1.09
+gamma_r: 1.04
+gamma_g: 1.03
+gamma_b: 1.04
+vignette: -24
+temp: 2004
