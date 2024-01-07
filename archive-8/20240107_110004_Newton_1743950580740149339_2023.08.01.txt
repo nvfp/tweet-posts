@@ -1,0 +1,31 @@
+tweet_id: 1743950580740149339
+masto_id: 111714317100359837
+subre_id: Not uploaded, but here's the text: Wishing you a joyful day!  #Nature #DigitalArt
+
+newton_power: 4
+newton_const: -10
+
+n_iter: 128
+ct: 2
+hue_offset: 126
+saturation: 1.0
+
+num_attempts: 249
+dur: 601
+std: 8.05
+size: 969663 (946.94 KiB)
+
+xmin: 1.5557772986041654
+xmax: 1.6689848457739767
+ymin: -1.1881290372867919
+ymax: -1.124449792003773
+
+contrast: 0.75
+brightness: 0.13
+saturation: 1.43
+gamma: 0.9
+gamma_r: 0.94
+gamma_g: 1.05
+gamma_b: 0.96
+vignette: -35
+temp: 4982
