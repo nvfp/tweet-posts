@@ -1,0 +1,31 @@
+tweet_id: 1744011008727990631
+masto_id: 111715261262843467
+subre_id: Not uploaded, but here's the text: This Sunday is made even better by this Newton!  #Nature #Mathematics
+
+newton_power: 5
+newton_const: 5
+
+n_iter: 232
+ct: 111
+hue_offset: 80
+saturation: 0.52
+
+num_attempts: 224
+dur: 603
+std: 11.88
+size: 592382 (578.5 KiB)
+
+xmin: 2.516066194065437
+xmax: 2.8017804797797226
+ymin: -0.12017329451216985
+ymax: 0.04054099120211585
+
+contrast: 1.22
+brightness: 0.22
+saturation: 0.55
+gamma: 0.94
+gamma_r: 0.95
+gamma_g: 0.99
+gamma_b: 0.96
+vignette: 5
+temp: 2103
