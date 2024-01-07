@@ -1,0 +1,28 @@
+tweet_id: 1744002669344411725
+masto_id: 111715130889599548
+subre_id: Not uploaded, but here's the text: Have an awesome day!  #DeepLearning #Nature
+
+n_iter: 789
+ct: 191
+hue_offset: 69
+saturation: 0.73
+
+num_attempts: 24
+dur: 12
+std: 40.89
+size: 1031486 (1007.31 KiB)
+
+xmin: 0.40640211923217073
+xmax: 0.40686664135503686
+ymin: 0.21848708809789597
+ymax: 0.21874838179200815
+
+contrast: 0.72
+brightness: 0.17
+saturation: 1.34
+gamma: 1.06
+gamma_r: 1.0
+gamma_g: 1.08
+gamma_b: 0.99
+vignette: -11
+temp: 2321
