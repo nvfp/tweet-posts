@@ -1,0 +1,28 @@
+tweet_id: 1743852478033019381
+masto_id: 111712784079541108
+subre_id: Not uploaded, but here's the text: A great Sunday and a beautiful Mandelbrot Set.  #AI #MachineLearning
+
+n_iter: 651
+ct: 22
+hue_offset: 99
+saturation: -0.93
+
+num_attempts: 58
+dur: 26
+std: 44.89
+size: 1526848 (1.46 MiB)
+
+xmin: -0.5711774905458631
+xmax: -0.5378441572125298
+ymin: 0.5241720877786045
+ymax: 0.5429220877786045
+
+contrast: 1.16
+brightness: 0.21
+saturation: 1.36
+gamma: 0.98
+gamma_r: 1.09
+gamma_g: 1.03
+gamma_b: 1.1
+vignette: -47
+temp: 6322
