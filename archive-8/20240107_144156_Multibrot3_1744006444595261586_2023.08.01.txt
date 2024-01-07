@@ -1,0 +1,28 @@
+tweet_id: 1744006444595261586
+masto_id: 111715189832180480
+subre_id: Not uploaded, but here's the text: Smile on this lovely day!  #DigitalArt #Mathematics
+
+n_iter: 493
+ct: 1
+hue_offset: 272
+saturation: 0.82
+
+num_attempts: 580
+dur: 601
+std: 70.42
+size: 1582990 (1.51 MiB)
+
+xmin: -0.10889008307081349
+xmax: -0.10446040422252999
+ymin: -0.7680358957093447
+ymax: -0.7655442013571853
+
+contrast: 0.92
+brightness: 0.1
+saturation: 0.67
+gamma: 0.97
+gamma_r: 0.82
+gamma_g: 0.94
+gamma_b: 1.05
+vignette: -31
+temp: 5076
