@@ -1,0 +1,31 @@
+tweet_id: 1743829804200161778
+masto_id: 111712429957905241
+subre_id: Not uploaded, but here's the text: Guess what? It's Newton!  #VisualArt #AI
+
+newton_power: 4
+newton_const: 1
+
+n_iter: 130
+ct: 71
+hue_offset: 53
+saturation: 0.37
+
+num_attempts: 269
+dur: 602
+std: 7.99
+size: 730850 (713.72 KiB)
+
+xmin: -0.012068327737023044
+xmax: 0.3408728487335652
+ymin: -0.014701191951883352
+ymax: 0.18382821981282255
+
+contrast: 1.02
+brightness: 0.13
+saturation: 1.16
+gamma: 0.91
+gamma_r: 0.97
+gamma_g: 1.0
+gamma_b: 0.92
+vignette: 6
+temp: 5773
