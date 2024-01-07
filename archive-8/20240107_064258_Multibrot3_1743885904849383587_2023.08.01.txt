@@ -1,0 +1,28 @@
+tweet_id: 1743885904849383587
+masto_id: 111713306432203315
+subre_id: Not uploaded, but here's the text: Smile, it's Sunday!  #GenerativeArt #Mathematics
+
+n_iter: 285
+ct: 255
+hue_offset: 161
+saturation: -0.8
+
+num_attempts: 911
+dur: 603
+std: 48.62
+size: 1010308 (986.63 KiB)
+
+xmin: -0.0970569595538826
+xmax: -0.08240494490186795
+ymin: 0.7836373883871586
+ymax: 0.7918791466289168
+
+contrast: 1.4
+brightness: -0.05
+saturation: 0.52
+gamma: 0.82
+gamma_r: 1.16
+gamma_g: 0.85
+gamma_b: 0.98
+vignette: 15
+temp: 7169
