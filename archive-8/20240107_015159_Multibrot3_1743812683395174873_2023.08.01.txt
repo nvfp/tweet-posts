@@ -1,0 +1,28 @@
+tweet_id: 1743812683395174873
+masto_id: 111712162208212796
+subre_id: Not uploaded, but here's the text: Feeling good today!  #GenerativeArt #Mathematics
+
+n_iter: 517
+ct: 255
+hue_offset: 48
+saturation: 0.46
+
+num_attempts: 420
+dur: 604
+std: 58.28
+size: 542952 (530.23 KiB)
+
+xmin: 0.4344600551143345
+xmax: 0.46167093946807597
+ymin: -0.5609321099465419
+ymax: -0.5456259874975623
+
+contrast: 1.76
+brightness: -0.04
+saturation: 1.67
+gamma: 1.12
+gamma_r: 0.88
+gamma_g: 0.87
+gamma_b: 0.87
+vignette: -20
+temp: 5426
