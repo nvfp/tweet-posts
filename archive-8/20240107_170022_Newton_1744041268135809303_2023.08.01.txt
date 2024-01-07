@@ -1,0 +1,31 @@
+tweet_id: 1744041268135809303
+masto_id: 111715734163718293
+subre_id: Not uploaded, but here's the text: Surprise! It's a Newton!  #DeepLearning #Fractals
+
+newton_power: 5
+newton_const: -10
+
+n_iter: 122
+ct: 98
+hue_offset: 351
+saturation: -0.17
+
+num_attempts: 208
+dur: 601
+std: 14.01
+size: 916744 (895.26 KiB)
+
+xmin: -0.7028186833886827
+xmax: -0.6902400670364814
+ymin: 1.932889116541431
+ymax: 1.9399645882395442
+
+contrast: 1.41
+brightness: 0.11
+saturation: 1.48
+gamma: 1.06
+gamma_r: 0.92
+gamma_g: 0.9
+gamma_b: 0.92
+vignette: -15
+temp: 5431
