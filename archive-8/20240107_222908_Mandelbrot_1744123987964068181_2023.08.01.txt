@@ -1,0 +1,28 @@
+tweet_id: 1744123987964068181
+masto_id: 111717026527417801
+subre_id: Not uploaded, but here's the text: This Sunday is made even better by this Mandelbrot Set!  #GenerativeArt #Fractals
+
+n_iter: 844
+ct: 23
+hue_offset: 44
+saturation: 0.8
+
+num_attempts: 76
+dur: 45
+std: 37.7
+size: 1240880 (1.18 MiB)
+
+xmin: 0.3660285091350115
+xmax: 0.3670839181059878
+ymin: 0.11679736116723927
+ymax: 0.1173910287134134
+
+contrast: 1.08
+brightness: 0.01
+saturation: 1.43
+gamma: 1.08
+gamma_r: 1.07
+gamma_g: 0.96
+gamma_b: 0.95
+vignette: -38
+temp: 6733
