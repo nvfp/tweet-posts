@@ -1,0 +1,28 @@
+tweet_id: 1743968645569565116
+masto_id: 111714599452491509
+subre_id: Not uploaded, but here's the text: You rock, and so does this Sunday!  #GenerativeArt #Mathematics
+
+n_iter: 404
+ct: 105
+hue_offset: 325
+saturation: 0.62
+
+num_attempts: 18
+dur: 5
+std: 29.53
+size: 703700 (687.21 KiB)
+
+xmin: -1.825450851177255
+xmax: -0.7004508511772549
+ymin: -0.590570653705704
+ymax: 0.04224184629429595
+
+contrast: 1.05
+brightness: 0.18
+saturation: 1.75
+gamma: 1.08
+gamma_r: 1.02
+gamma_g: 0.9
+gamma_b: 0.95
+vignette: 13
+temp: 2444
