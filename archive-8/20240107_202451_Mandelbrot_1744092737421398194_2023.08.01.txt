@@ -1,0 +1,28 @@
+tweet_id: 1744092737421398194
+masto_id: 111716538181064969
+subre_id: Not uploaded, but here's the text: Wishing you a fantastic day!  #Nature #GenerativeArt
+
+n_iter: 722
+ct: 171
+hue_offset: 359
+saturation: -0.2
+
+num_attempts: 18
+dur: 6
+std: 24.34
+size: 757235 (739.49 KiB)
+
+xmin: -1.0169761710572078
+xmax: -1.0130352843577004
+ymin: -0.28810546059607356
+ymax: -0.28588871182760067
+
+contrast: 1.27
+brightness: 0.1
+saturation: 1.42
+gamma: 1.0
+gamma_r: 0.93
+gamma_g: 0.92
+gamma_b: 1.02
+vignette: 28
+temp: 3171
