@@ -1,0 +1,28 @@
+tweet_id: 1743877305712201753
+masto_id: 111713172030570488
+subre_id: Not uploaded, but here's the text: A great Sunday and a beautiful Burning Ship.  #MachineLearning #DigitalArt
+
+n_iter: 232
+ct: 183
+hue_offset: 121
+saturation: -0.47
+
+num_attempts: 35
+dur: 10
+std: 31.83
+size: 1523415 (1.45 MiB)
+
+xmin: -0.6344293895368922
+xmax: -0.5540722466797493
+ymin: -0.7686925975026768
+ymax: -0.7234917046455339
+
+contrast: 1.07
+brightness: 0.19
+saturation: 1.29
+gamma: 1.04
+gamma_r: 1.0
+gamma_g: 1.03
+gamma_b: 0.91
+vignette: -15
+temp: 4313
