@@ -1,0 +1,28 @@
+tweet_id: 1744063577768538461
+masto_id: 111716082797416814
+subre_id: Not uploaded, but here's the text: Warm wishes for your Sunday, and let's have a look at this Mandelbrot Set.  #DigitalArt #Mathematics
+
+n_iter: 608
+ct: 193
+hue_offset: 329
+saturation: 0.9
+
+num_attempts: 131
+dur: 52
+std: 15.45
+size: 754151 (736.48 KiB)
+
+xmin: -0.10429543008304698
+xmax: -0.08675157043392417
+ymin: -0.9331774357868818
+ymax: -0.9233090147342503
+
+contrast: 1.22
+brightness: -0.0
+saturation: 0.97
+gamma: 1.07
+gamma_r: 1.02
+gamma_g: 1.06
+gamma_b: 0.95
+vignette: -36
+temp: 2605
