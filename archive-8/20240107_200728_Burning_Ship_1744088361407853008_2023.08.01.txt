@@ -1,0 +1,28 @@
+tweet_id: 1744088361407853008
+masto_id: 111716469846284692
+subre_id: Not uploaded, but here's the text: Happy Sunday! Enjoy the beauty of Burning Ship.  #MachineLearning #DigitalArt
+
+n_iter: 331
+ct: 223
+hue_offset: 189
+saturation: -0.55
+
+num_attempts: 51
+dur: 17
+std: 20.37
+size: 677127 (661.26 KiB)
+
+xmin: -0.45707372967360005
+xmax: -0.3207100933099637
+ymin: 0.07631018120617439
+ymax: 0.15301472666071983
+
+contrast: 1.01
+brightness: 0.05
+saturation: 0.72
+gamma: 1.02
+gamma_r: 0.93
+gamma_g: 1.04
+gamma_b: 0.96
+vignette: -41
+temp: 2553
