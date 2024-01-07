@@ -1,0 +1,28 @@
+tweet_id: 1744127267918471621
+masto_id: 111717077744068959
+subre_id: Not uploaded, but here's the text: Hello Sunday! This Multibrot is yours!  #VisualArt #DeepLearning
+
+n_iter: 631
+ct: 1
+hue_offset: 174
+saturation: 0.25
+
+num_attempts: 378
+dur: 601
+std: 76.01
+size: 1089112 (1.04 MiB)
+
+xmin: 0.37364903318645437
+xmax: 0.3806789101636073
+ymin: -0.6976235080594899
+ymax: -0.6936692022598414
+
+contrast: 1.25
+brightness: 0.16
+saturation: 1.25
+gamma: 1.07
+gamma_r: 1.02
+gamma_g: 1.18
+gamma_b: 1.01
+vignette: 12
+temp: 4939
