@@ -1,0 +1,28 @@
+tweet_id: 1743912841881522256
+masto_id: 111713727346548162
+subre_id: Not uploaded, but here's the text: Mandelbrot Set vibes to brighten your Sunday.  #Art #VisualArt
+
+n_iter: 990
+ct: 88
+hue_offset: 334
+saturation: -0.04
+
+num_attempts: 145
+dur: 89
+std: 28.57
+size: 363077 (354.57 KiB)
+
+xmin: -0.8919086351171748
+xmax: 0.10809136488282522
+ymin: -1.0245981135643691
+ymax: -0.46209811356436914
+
+contrast: 1.71
+brightness: 0.18
+saturation: 0.74
+gamma: 1.09
+gamma_r: 0.93
+gamma_g: 0.9
+gamma_b: 0.97
+vignette: -7
+temp: 3550
