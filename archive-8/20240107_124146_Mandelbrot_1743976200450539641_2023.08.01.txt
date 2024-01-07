@@ -1,0 +1,28 @@
+tweet_id: 1743976200450539641
+masto_id: 111714717272245936
+subre_id: Not uploaded, but here's the text: Wishing you a rad Sunday!  #MachineLearning #GenerativeArt
+
+n_iter: 292
+ct: 247
+hue_offset: 204
+saturation: 0.01
+
+num_attempts: 35
+dur: 6
+std: 97.75
+size: 664436 (648.86 KiB)
+
+xmin: -0.7084416530445985
+xmax: -0.7078280620030277
+ymin: -0.24376213166757854
+ymax: -0.24341698670669498
+
+contrast: 0.77
+brightness: -0.08
+saturation: 0.92
+gamma: 0.97
+gamma_r: 1.01
+gamma_g: 1.02
+gamma_b: 0.92
+vignette: 16
+temp: 4532
