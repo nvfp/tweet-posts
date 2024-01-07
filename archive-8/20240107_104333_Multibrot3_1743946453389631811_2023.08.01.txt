@@ -1,0 +1,28 @@
+tweet_id: 1743946453389631811
+masto_id: 111714252420616940
+subre_id: Not uploaded, but here's the text: Have an extraordinary Sunday!  #GenerativeArt #AI
+
+n_iter: 673
+ct: 1
+hue_offset: 334
+saturation: -0.43
+
+num_attempts: 345
+dur: 601
+std: 82.52
+size: 1195716 (1.14 MiB)
+
+xmin: 0.3640727356949651
+xmax: 0.38217228320627733
+ymin: -0.6474859330639157
+ymax: -0.6373049375888026
+
+contrast: 1.11
+brightness: -0.07
+saturation: 0.68
+gamma: 0.95
+gamma_r: 1.05
+gamma_g: 1.15
+gamma_b: 1.14
+vignette: -10
+temp: 4214
