@@ -1,0 +1,31 @@
+tweet_id: 1743920440639467901
+masto_id: 111713846083466311
+subre_id: Not uploaded, but here's the text: Enjoying the Sunday with this Newton.  #AI #GenerativeArt
+
+newton_power: 5
+newton_const: -6
+
+n_iter: 95
+ct: 19
+hue_offset: 234
+saturation: 0.65
+
+num_attempts: 201
+dur: 600
+std: 23.07
+size: 984956 (961.87 KiB)
+
+xmin: 2.1066903812470423
+xmax: 2.123083823869993
+ymin: -1.5477906569745519
+ymax: -1.538569345499142
+
+contrast: 1.3
+brightness: 0.0
+saturation: 1.45
+gamma: 0.91
+gamma_r: 0.95
+gamma_g: 1.04
+gamma_b: 0.97
+vignette: -25
+temp: 4018
