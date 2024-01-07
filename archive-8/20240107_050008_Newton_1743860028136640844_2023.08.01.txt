@@ -1,0 +1,31 @@
+tweet_id: 1743860028136640844
+masto_id: 111712902075723232
+subre_id: Not uploaded, but here's the text: Happy Sunday!  #DeepLearning #MachineLearning
+
+newton_power: 5
+newton_const: -7
+
+n_iter: 219
+ct: 103
+hue_offset: 12
+saturation: 0.31
+
+num_attempts: 214
+dur: 600
+std: 11.79
+size: 1173051 (1.12 MiB)
+
+xmin: -0.7606638805112529
+xmax: -0.7534954217298909
+ymin: -0.37466306483755396
+ymax: -0.37063080677303784
+
+contrast: 1.49
+brightness: 0.12
+saturation: 1.51
+gamma: 1.02
+gamma_r: 0.98
+gamma_g: 1.02
+gamma_b: 1.01
+vignette: -38
+temp: 5920
