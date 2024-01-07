@@ -1,0 +1,31 @@
+tweet_id: 1743982511502348464
+masto_id: 111714815940226036
+subre_id: Not uploaded, but here's the text: Let this Newton brighten up your Sunday!  #GenerativeArt #DeepLearning
+
+newton_power: 4
+newton_const: -9
+
+n_iter: 125
+ct: 240
+hue_offset: 66
+saturation: -0.78
+
+num_attempts: 261
+dur: 601
+std: 8.55
+size: 964389 (941.79 KiB)
+
+xmin: -1.525825198697127
+xmax: -1.275825198697127
+ymin: -1.5901860461727375
+ymax: -1.4495610461727375
+
+contrast: 1.47
+brightness: 0.16
+saturation: 0.26
+gamma: 0.97
+gamma_r: 1.06
+gamma_g: 1.0
+gamma_b: 1.03
+vignette: -37
+temp: 3873
