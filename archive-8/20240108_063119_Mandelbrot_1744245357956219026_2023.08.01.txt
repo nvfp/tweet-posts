@@ -1,0 +1,28 @@
+tweet_id: 1744245357956219026
+masto_id: 111718922922508322
+subre_id: Not uploaded, but here's the text: Brighten your Monday!  #Fractals #Mathematics
+
+n_iter: 312
+ct: 211
+hue_offset: 49
+saturation: 0.44
+
+num_attempts: 34
+dur: 6
+std: 51.0
+size: 1647141 (1.57 MiB)
+
+xmin: -0.2110014469231074
+xmax: -0.21022399308442907
+ymin: -0.6948075426242271
+ymax: -0.6943702248399705
+
+contrast: 1.38
+brightness: -0.05
+saturation: 0.29
+gamma: 1.07
+gamma_r: 0.97
+gamma_g: 0.93
+gamma_b: 1.04
+vignette: -39
+temp: 7878
