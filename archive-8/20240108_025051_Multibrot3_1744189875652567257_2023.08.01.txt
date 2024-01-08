@@ -1,0 +1,28 @@
+tweet_id: 1744189875652567257
+masto_id: 111718056009297677
+subre_id: Not uploaded, but here's the text: Enjoy your Monday!  #Mathematics #AI
+
+n_iter: 478
+ct: 255
+hue_offset: 134
+saturation: 0.93
+
+num_attempts: 504
+dur: 601
+std: 53.7
+size: 817090 (797.94 KiB)
+
+xmin: -0.06441308335307672
+xmax: -0.052328491208061614
+ymin: 1.1284881480064493
+ymax: 1.1352857310880202
+
+contrast: 1.56
+brightness: -0.04
+saturation: 0.8
+gamma: 0.88
+gamma_r: 0.94
+gamma_g: 0.99
+gamma_b: 1.16
+vignette: 11
+temp: 6473
