@@ -1,0 +1,31 @@
+tweet_id: 1744373437966016611
+masto_id: 111720924165781001
+subre_id: Not uploaded, but here's the text: Hope you have an amazing Monday!  #GenerativeArt #DeepLearning
+
+newton_power: 7
+newton_const: -5
+
+n_iter: 81
+ct: 14
+hue_offset: 314
+saturation: -0.87
+
+num_attempts: 143
+dur: 602
+std: 20.35
+size: 853286 (833.29 KiB)
+
+xmin: 0.18261365989802458
+xmax: 0.2228821162738635
+ymin: -0.02838548607470215
+ymax: -0.005734479363292754
+
+contrast: 1.53
+brightness: 0.07
+saturation: 0.44
+gamma: 1.05
+gamma_r: 0.92
+gamma_g: 0.94
+gamma_b: 0.95
+vignette: -43
+temp: 2639
