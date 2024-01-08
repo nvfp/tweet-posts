@@ -1,0 +1,28 @@
+tweet_id: 1744299934105346404
+masto_id: 111719775609218969
+subre_id: Not uploaded, but here's the text: Monday is shining brightly, just like this Burning Ship.  #DeepLearning #Mathematics
+
+n_iter: 383
+ct: 224
+hue_offset: 357
+saturation: -1.0
+
+num_attempts: 32
+dur: 11
+std: 24.24
+size: 624892 (610.25 KiB)
+
+xmin: -0.646795399363834
+xmax: 1.603204600636166
+ymin: -1.3506380899465773
+ymax: -0.0850130899465773
+
+contrast: 1.77
+brightness: 0.07
+saturation: 0.87
+gamma: 1.03
+gamma_r: 1.08
+gamma_g: 0.95
+gamma_b: 0.96
+vignette: 15
+temp: 4398
