@@ -1,0 +1,31 @@
+tweet_id: 1744433754847007046
+masto_id: 111721866655258280
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Monday!  #DigitalArt #VisualArt
+
+newton_power: 7
+newton_const: -4
+
+n_iter: 173
+ct: 115
+hue_offset: 339
+saturation: 0.2
+
+num_attempts: 148
+dur: 600
+std: 19.52
+size: 1009414 (985.76 KiB)
+
+xmin: 2.5738630394632294
+xmax: 2.5806580564507717
+ymin: 1.1075233130461681
+ymax: 1.1113455101016607
+
+contrast: 0.84
+brightness: 0.1
+saturation: 0.84
+gamma: 0.92
+gamma_r: 1.02
+gamma_g: 1.09
+gamma_b: 1.09
+vignette: 30
+temp: 2768
