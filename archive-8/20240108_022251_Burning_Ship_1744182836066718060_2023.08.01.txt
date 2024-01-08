@@ -1,0 +1,28 @@
+tweet_id: 1744182836066718060
+masto_id: 111717945900628171
+subre_id: Not uploaded, but here's the text: Hello Monday! This Burning Ship is yours!  #MachineLearning #Mathematics
+
+n_iter: 386
+ct: 184
+hue_offset: 130
+saturation: -0.36
+
+num_attempts: 20
+dur: 8
+std: 40.6
+size: 392022 (382.83 KiB)
+
+xmin: -0.7293818671172305
+xmax: 0.3956181328827695
+ymin: -1.057166283714098
+ymax: -0.42435378371409804
+
+contrast: 1.2
+brightness: 0.17
+saturation: 1.19
+gamma: 0.92
+gamma_r: 0.94
+gamma_g: 0.97
+gamma_b: 0.96
+vignette: -1
+temp: 5256
