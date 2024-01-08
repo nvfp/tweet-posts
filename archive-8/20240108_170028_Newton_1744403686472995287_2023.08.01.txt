@@ -1,0 +1,31 @@
+tweet_id: 1744403686472995287
+masto_id: 111721396881690911
+subre_id: Not uploaded, but here's the text: Hey there, it's Monday!  #Mathematics #Nature
+
+newton_power: 7
+newton_const: -7
+
+n_iter: 64
+ct: 21
+hue_offset: 280
+saturation: 0.26
+
+num_attempts: 160
+dur: 610
+std: 27.21
+size: 535632 (523.08 KiB)
+
+xmin: -2.6546250984567323
+xmax: -2.6394352250390107
+ymin: -0.19390115426716448
+ymax: -0.18535685046969613
+
+contrast: 1.12
+brightness: 0.06
+saturation: 1.6
+gamma: 0.94
+gamma_r: 0.96
+gamma_g: 1.06
+gamma_b: 1.07
+vignette: 33
+temp: 2638
