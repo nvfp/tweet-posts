@@ -1,0 +1,28 @@
+tweet_id: 1744279036199940545
+masto_id: 111719448976878802
+subre_id: Not uploaded, but here's the text: Have a great day!  #Fractals #GenerativeArt
+
+n_iter: 535
+ct: 255
+hue_offset: 217
+saturation: 0.52
+
+num_attempts: 388
+dur: 601
+std: 88.07
+size: 637303 (622.37 KiB)
+
+xmin: -0.5469675921661825
+xmax: -0.5428859595131212
+ymin: 0.32701033431817894
+ymax: 0.3293062526855259
+
+contrast: 1.35
+brightness: 0.1
+saturation: 1.54
+gamma: 0.88
+gamma_r: 1.03
+gamma_g: 1.06
+gamma_b: 0.88
+vignette: -37
+temp: 2596
