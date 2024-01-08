@@ -1,0 +1,28 @@
+tweet_id: 1744215058425540921
+masto_id: 111718449486738659
+subre_id: Not uploaded, but here's the text: You rock, and so does this Monday!  #AI #Nature
+
+n_iter: 662
+ct: 37
+hue_offset: 266
+saturation: 0.89
+
+num_attempts: 70
+dur: 33
+std: 75.74
+size: 1543441 (1.47 MiB)
+
+xmin: 0.3255896523773818
+xmax: 0.326009071481922
+ymin: -0.521634719863068
+ymax: -0.5213987966167641
+
+contrast: 1.38
+brightness: 0.16
+saturation: 1.42
+gamma: 0.92
+gamma_r: 1.03
+gamma_g: 0.98
+gamma_b: 0.94
+vignette: 11
+temp: 4853
