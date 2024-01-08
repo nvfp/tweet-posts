@@ -1,0 +1,28 @@
+tweet_id: 1744342689850732639
+masto_id: 111720443637295443
+subre_id: Not uploaded, but here's the text: Hope you're having a great Monday!  #AI #DeepLearning
+
+n_iter: 314
+ct: 1
+hue_offset: 353
+saturation: 0.96
+
+num_attempts: 806
+dur: 601
+std: 58.17
+size: 1204329 (1.15 MiB)
+
+xmin: -0.21741350423321903
+xmax: -0.20977991644695948
+ymin: -0.7342078996589884
+ymax: -0.7299140065292173
+
+contrast: 1.33
+brightness: -0.05
+saturation: 0.38
+gamma: 1.03
+gamma_r: 0.85
+gamma_g: 0.95
+gamma_b: 1.14
+vignette: 8
+temp: 4635
