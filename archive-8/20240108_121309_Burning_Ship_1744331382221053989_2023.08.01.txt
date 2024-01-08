@@ -1,0 +1,28 @@
+tweet_id: 1744331382221053989
+masto_id: 111720266963963975
+subre_id: Not uploaded, but here's the text: Cheers to a fantastic Monday!  #AI #VisualArt
+
+n_iter: 384
+ct: 105
+hue_offset: 190
+saturation: 0.8
+
+num_attempts: 19
+dur: 7
+std: 69.38
+size: 1801667 (1.72 MiB)
+
+xmin: 0.5443187398861689
+xmax: 0.6894800302087495
+ymin: -1.1810325957589627
+ymax: -1.0993793699525112
+
+contrast: 0.74
+brightness: 0.13
+saturation: 0.45
+gamma: 0.93
+gamma_r: 0.98
+gamma_g: 0.93
+gamma_b: 1.03
+vignette: -30
+temp: 6540
