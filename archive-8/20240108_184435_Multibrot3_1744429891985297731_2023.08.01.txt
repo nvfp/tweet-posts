@@ -1,0 +1,28 @@
+tweet_id: 1744429891985297731
+masto_id: 111721806279293854
+subre_id: Not uploaded, but here's the text: Hope your Monday is awesome!  #Nature #AI
+
+n_iter: 395
+ct: 1
+hue_offset: 275
+saturation: -0.43
+
+num_attempts: 542
+dur: 601
+std: 59.5
+size: 637626 (622.68 KiB)
+
+xmin: -0.1969459566356393
+xmax: -0.19271315240283507
+ymin: -0.8632152220157019
+ymax: -0.8608342696347495
+
+contrast: 0.88
+brightness: 0.23
+saturation: 0.79
+gamma: 0.88
+gamma_r: 0.95
+gamma_g: 0.96
+gamma_b: 1.16
+vignette: -1
+temp: 2186
