@@ -1,0 +1,28 @@
+tweet_id: 1744400661738094731
+masto_id: 111721349577334448
+subre_id: Not uploaded, but here's the text: Hello Monday! This Multibrot is yours!  #Mathematics #AI
+
+n_iter: 361
+ct: 255
+hue_offset: 229
+saturation: -0.18
+
+num_attempts: 630
+dur: 604
+std: 67.69
+size: 937031 (915.07 KiB)
+
+xmin: -0.32281968423280105
+xmax: -0.3183504104897843
+ymin: -0.6853647760559701
+ymax: -0.6828508095755232
+
+contrast: 1.19
+brightness: 0.2
+saturation: 1.29
+gamma: 0.94
+gamma_r: 1.03
+gamma_g: 1.09
+gamma_b: 0.86
+vignette: -15
+temp: 6030
