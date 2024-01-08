@@ -1,0 +1,28 @@
+tweet_id: 1744390707459342533
+masto_id: FAIL
+subre_id: Not uploaded, but here's the text: Burning Ship vibes to brighten your Monday.  #DeepLearning #VisualArt
+
+n_iter: 397
+ct: 222
+hue_offset: 310
+saturation: 0.9
+
+num_attempts: 10
+dur: 1
+std: 32.3
+size: 501487 (489.73 KiB)
+
+xmin: -1.7856285478354135
+xmax: -0.6606285478354135
+ymin: -1.1414696607786423
+ymax: -0.5086571607786423
+
+contrast: 1.07
+brightness: 0.1
+saturation: 1.71
+gamma: 1.02
+gamma_r: 1.08
+gamma_g: 1.06
+gamma_b: 0.94
+vignette: -2
+temp: 2347
