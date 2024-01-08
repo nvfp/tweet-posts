@@ -1,0 +1,31 @@
+tweet_id: 1744222452182589934
+masto_id: 111718565065582015
+subre_id: Not uploaded, but here's the text: Have an extraordinary Monday!  #DeepLearning #Nature
+
+newton_power: 6
+newton_const: -5
+
+n_iter: 140
+ct: 207
+hue_offset: 214
+saturation: 0.3
+
+num_attempts: 168
+dur: 601
+std: 17.87
+size: 1161724 (1.11 MiB)
+
+xmin: 1.7743918517357917
+xmax: 1.7846133168124527
+ymin: -0.816566751005485
+ymax: -0.8108171768998632
+
+contrast: 1.58
+brightness: 0.17
+saturation: 1.06
+gamma: 0.96
+gamma_r: 0.96
+gamma_g: 1.09
+gamma_b: 0.92
+vignette: -32
+temp: 5278
