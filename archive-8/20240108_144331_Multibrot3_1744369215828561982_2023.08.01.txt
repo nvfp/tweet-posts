@@ -1,0 +1,28 @@
+tweet_id: 1744369215828561982
+masto_id: 111720858313666501
+subre_id: Not uploaded, but here's the text: Wishing you a fantastic day!  #VisualArt #GenerativeArt
+
+n_iter: 652
+ct: 1
+hue_offset: 58
+saturation: -0.08
+
+num_attempts: 374
+dur: 602
+std: 98.35
+size: 1196730 (1.14 MiB)
+
+xmin: 0.3090658890711393
+xmax: 0.31550711290366745
+ymin: 0.6819427651661432
+ymax: 0.6855659535719403
+
+contrast: 0.97
+brightness: 0.17
+saturation: 0.82
+gamma: 0.86
+gamma_r: 0.91
+gamma_g: 0.94
+gamma_b: 0.96
+vignette: -45
+temp: 3356
