@@ -1,0 +1,31 @@
+tweet_id: 1744192231568027801
+masto_id: 111718092891193608
+subre_id: Not uploaded, but here's the text: This Monday is made even better by this Newton!  #Art #DigitalArt
+
+newton_power: 6
+newton_const: -6
+
+n_iter: 252
+ct: 82
+hue_offset: 122
+saturation: 0.46
+
+num_attempts: 177
+dur: 602
+std: 17.41
+size: 1112734 (1.06 MiB)
+
+xmin: 2.5888504406679846
+xmax: 2.60270725360101
+ymin: 1.4929263221366962
+ymax: 1.500720779411523
+
+contrast: 1.06
+brightness: 0.15
+saturation: 1.19
+gamma: 1.01
+gamma_r: 0.98
+gamma_g: 0.96
+gamma_b: 0.98
+vignette: -14
+temp: 6989
