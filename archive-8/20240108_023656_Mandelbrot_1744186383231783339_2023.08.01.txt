@@ -1,0 +1,28 @@
+tweet_id: 1744186383231783339
+masto_id: 111718001284934133
+subre_id: Not uploaded, but here's the text: Wishing you a wonderful Monday!  #VisualArt #MachineLearning
+
+n_iter: 244
+ct: 247
+hue_offset: 308
+saturation: 0.6
+
+num_attempts: 54
+dur: 13
+std: 82.55
+size: 546592 (533.78 KiB)
+
+xmin: -0.5730313164577181
+xmax: -0.5723488390647817
+ymin: -0.4779402699268821
+ymax: -0.4775563763933554
+
+contrast: 1.68
+brightness: 0.04
+saturation: 0.3
+gamma: 0.94
+gamma_r: 0.91
+gamma_g: 1.1
+gamma_b: 0.9
+vignette: -28
+temp: 6753
