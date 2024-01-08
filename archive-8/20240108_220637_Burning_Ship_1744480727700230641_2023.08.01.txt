@@ -1,0 +1,28 @@
+tweet_id: 1744480727700230641
+masto_id: 111722600657122610
+subre_id: Not uploaded, but here's the text: Burning Ship vibes to brighten your Monday.  #Nature #Fractals
+
+n_iter: 146
+ct: 83
+hue_offset: 336
+saturation: -0.11
+
+num_attempts: 17
+dur: 3
+std: 26.69
+size: 1497012 (1.43 MiB)
+
+xmin: -0.8087733882152635
+xmax: -0.7425969176270282
+ymin: -0.9594900532410127
+ymax: -0.9222657885351303
+
+contrast: 1.57
+brightness: 0.12
+saturation: 1.5
+gamma: 0.97
+gamma_r: 0.96
+gamma_g: 1.06
+gamma_b: 1.02
+vignette: 23
+temp: 3026
