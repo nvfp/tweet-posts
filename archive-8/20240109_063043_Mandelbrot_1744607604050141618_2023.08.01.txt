@@ -1,0 +1,28 @@
+tweet_id: 1744607604050141618
+masto_id: 111724582870452397
+subre_id: Not uploaded, but here's the text: Let's rock this Tuesday!  #Fractals #Nature
+
+n_iter: 348
+ct: 177
+hue_offset: 241
+saturation: 0.83
+
+num_attempts: 36
+dur: 11
+std: 33.59
+size: 573871 (560.42 KiB)
+
+xmin: -0.0701632174580662
+xmax: 0.006759859465010731
+ymin: -0.7806118252846755
+ymax: -0.7373425945154448
+
+contrast: 1.74
+brightness: 0.0
+saturation: 0.92
+gamma: 1.03
+gamma_r: 1.03
+gamma_g: 1.02
+gamma_b: 0.98
+vignette: 22
+temp: 3581
