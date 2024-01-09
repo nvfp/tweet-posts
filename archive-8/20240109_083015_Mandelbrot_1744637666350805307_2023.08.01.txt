@@ -1,0 +1,28 @@
+tweet_id: 1744637666350805307
+masto_id: 111725052918597594
+subre_id: Not uploaded, but here's the text: Let this Mandelbrot Set inspire your Tuesday.  #GenerativeArt #Nature
+
+n_iter: 171
+ct: 113
+hue_offset: 247
+saturation: 0.87
+
+num_attempts: 88
+dur: 19
+std: 18.06
+size: 916989 (895.5 KiB)
+
+xmin: -1.3552176272907703
+xmax: -1.3539546023460276
+ymin: 0.05644202834835643
+ymax: 0.057152479879774176
+
+contrast: 1.31
+brightness: -0.05
+saturation: 0.61
+gamma: 0.96
+gamma_r: 1.07
+gamma_g: 0.97
+gamma_b: 0.94
+vignette: -17
+temp: 7772
