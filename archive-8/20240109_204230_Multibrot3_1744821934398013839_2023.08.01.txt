@@ -1,0 +1,28 @@
+tweet_id: 1744821934398013839
+masto_id: 111727932005063186
+subre_id: Not uploaded, but here's the text: Have an extraordinary Tuesday!  #Nature #DigitalArt
+
+n_iter: 696
+ct: 1
+hue_offset: 200
+saturation: 0.96
+
+num_attempts: 325
+dur: 610
+std: 81.1
+size: 443100 (432.71 KiB)
+
+xmin: -0.18633143979549982
+xmax: -0.18181676710926958
+ymin: -1.1246286102929641
+ymax: -1.1220891069069596
+
+contrast: 1.39
+brightness: -0.06
+saturation: 1.31
+gamma: 1.04
+gamma_r: 1.07
+gamma_g: 0.97
+gamma_b: 0.84
+vignette: 11
+temp: 7925
