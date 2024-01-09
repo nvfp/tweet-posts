@@ -1,0 +1,28 @@
+tweet_id: 1744602401779187869
+masto_id: 111724501750550872
+subre_id: Not uploaded, but here's the text: you are cool  #GenerativeArt #Art
+
+n_iter: 348
+ct: 34
+hue_offset: 230
+saturation: 0.9
+
+num_attempts: 40
+dur: 9
+std: 26.68
+size: 825234 (805.89 KiB)
+
+xmin: 0.44030606179459353
+xmax: 0.4886931585687871
+ymin: -0.7490907865184748
+ymax: -0.721873044582991
+
+contrast: 0.79
+brightness: 0.13
+saturation: 1.38
+gamma: 1.01
+gamma_r: 0.97
+gamma_g: 1.09
+gamma_b: 0.94
+vignette: -41
+temp: 2876
