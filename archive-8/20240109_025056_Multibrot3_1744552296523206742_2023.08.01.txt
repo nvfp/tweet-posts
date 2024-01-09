@@ -1,0 +1,28 @@
+tweet_id: 1744552296523206742
+masto_id: 111723718681419468
+subre_id: Not uploaded, but here's the text: Wishing you a wonderful Tuesday!  #DigitalArt #Nature
+
+n_iter: 561
+ct: 255
+hue_offset: 348
+saturation: -0.27
+
+num_attempts: 386
+dur: 607
+std: 69.14
+size: 389543 (380.41 KiB)
+
+xmin: -0.594758571260877
+xmax: -0.5882332857796372
+ymin: -0.4764597721523378
+ymax: -0.4727892990691404
+
+contrast: 1.51
+brightness: 0.01
+saturation: 0.98
+gamma: 0.82
+gamma_r: 0.89
+gamma_g: 1.09
+gamma_b: 0.86
+vignette: 21
+temp: 4360
