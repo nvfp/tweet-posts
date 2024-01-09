@@ -1,0 +1,31 @@
+tweet_id: 1744826390812479953
+masto_id: 111728001679591118
+subre_id: Not uploaded, but here's the text: Keep shining on Tuesday!  #Nature #GenerativeArt
+
+newton_power: 5
+newton_const: 5
+
+n_iter: 120
+ct: 245
+hue_offset: 107
+saturation: 0.34
+
+num_attempts: 215
+dur: 601
+std: 10.67
+size: 787964 (769.5 KiB)
+
+xmin: 1.5124505391345684
+xmax: 1.5195679768569883
+ymin: 0.10793180548133563
+ymax: 0.11193536420019684
+
+contrast: 1.13
+brightness: -0.04
+saturation: 1.56
+gamma: 1.0
+gamma_r: 1.0
+gamma_g: 0.93
+gamma_b: 0.92
+vignette: -12
+temp: 3657
