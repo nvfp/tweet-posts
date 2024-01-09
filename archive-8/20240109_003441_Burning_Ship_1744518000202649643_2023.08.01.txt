@@ -1,0 +1,28 @@
+tweet_id: 1744518000202649643
+masto_id: 111723182889638248
+subre_id: Not uploaded, but here's the text: you are fantastic!  #GenerativeArt #Fractals
+
+n_iter: 236
+ct: 143
+hue_offset: 227
+saturation: 0.81
+
+num_attempts: 1
+dur: 0
+std: 20.2
+size: 411305 (401.67 KiB)
+
+xmin: -0.11155231564761214
+xmax: 0.04362009814549131
+ymin: 0.2219238400391923
+ymax: 0.30920832279781296
+
+contrast: 1.48
+brightness: 0.11
+saturation: 0.58
+gamma: 0.99
+gamma_r: 0.95
+gamma_g: 1.09
+gamma_b: 1.05
+vignette: -27
+temp: 6753
