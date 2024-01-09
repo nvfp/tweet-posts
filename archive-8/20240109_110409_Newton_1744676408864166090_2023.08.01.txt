@@ -1,0 +1,31 @@
+tweet_id: 1744676408864166090
+masto_id: 111725658058405976
+subre_id: Not uploaded, but here's the text: You rock, and so does this Tuesday!  #GenerativeArt #Nature
+
+newton_power: 6
+newton_const: 0
+
+n_iter: 158
+ct: 77
+hue_offset: 306
+saturation: -0.37
+
+num_attempts: 216
+dur: 853
+std: 1.53
+size: 501772 (490.01 KiB)
+
+xmin: 0.3735455532338663
+xmax: 1.0402122199005328
+ymin: -0.1104625074694161
+ymax: 0.2645374925305839
+
+contrast: 1.03
+brightness: 0.08
+saturation: 0.33
+gamma: 1.07
+gamma_r: 1.07
+gamma_g: 1.0
+gamma_b: 1.07
+vignette: -16
+temp: 6917
