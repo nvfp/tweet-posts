@@ -1,0 +1,28 @@
+tweet_id: 1745180346713268251
+masto_id: 111733532149016710
+subre_id: Not uploaded, but here's the text: Beautiful Wednesday with this Mandelbrot Set!  #GenerativeArt #DeepLearning
+
+n_iter: 270
+ct: 128
+hue_offset: 291
+saturation: 0.37
+
+num_attempts: 51
+dur: 14
+std: 33.39
+size: 1258419 (1.2 MiB)
+
+xmin: 0.3278677333002906
+xmax: 0.3282732071979085
+ymin: -0.42936247491600654
+ymax: -0.42913439584859653
+
+contrast: 1.05
+brightness: 0.01
+saturation: 1.14
+gamma: 0.93
+gamma_r: 0.92
+gamma_g: 1.03
+gamma_b: 1.05
+vignette: 7
+temp: 5729
