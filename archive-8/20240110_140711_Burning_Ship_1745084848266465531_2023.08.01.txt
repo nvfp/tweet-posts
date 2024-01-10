@@ -1,0 +1,28 @@
+tweet_id: 1745084848266465531
+masto_id: 111732040088816912
+subre_id: Not uploaded, but here's the text: Let the magic of Wednesday fill your heart!  #Mathematics #MachineLearning
+
+n_iter: 343
+ct: 44
+hue_offset: 282
+saturation: 0.14
+
+num_attempts: 8
+dur: 4
+std: 27.78
+size: 811381 (792.36 KiB)
+
+xmin: -1.314953248449787
+xmax: 0.935046751550213
+ymin: -1.3435238327155932
+ymax: -0.07789883271559317
+
+contrast: 0.7
+brightness: 0.17
+saturation: 1.53
+gamma: 1.03
+gamma_r: 1.0
+gamma_g: 0.92
+gamma_b: 0.91
+vignette: 29
+temp: 7139
