@@ -1,0 +1,28 @@
+tweet_id: 1745090653644591506
+masto_id: 111732131126507511
+subre_id: Not uploaded, but here's the text: Have an extraordinary Wednesday!  #VisualArt #Art
+
+n_iter: 785
+ct: 97
+hue_offset: 163
+saturation: -0.34
+
+num_attempts: 101
+dur: 58
+std: 41.2
+size: 1000751 (977.3 KiB)
+
+xmin: -0.7130921453741603
+xmax: -0.7124425838282038
+ymin: 0.2518356921413858
+ymax: 0.25220107051098634
+
+contrast: 1.68
+brightness: 0.03
+saturation: 0.86
+gamma: 1.01
+gamma_r: 1.04
+gamma_g: 0.99
+gamma_b: 0.96
+vignette: -40
+temp: 5774
