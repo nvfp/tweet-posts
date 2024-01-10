@@ -1,0 +1,28 @@
+tweet_id: 1745000064295039407
+masto_id: 111730715231026150
+subre_id: Not uploaded, but here's the text: Let's make it a memorable Wednesday!  #GenerativeArt #DigitalArt
+
+n_iter: 680
+ct: 140
+hue_offset: 112
+saturation: -0.65
+
+num_attempts: 41
+dur: 19
+std: 56.52
+size: 1528913 (1.46 MiB)
+
+xmin: -0.22267389749510835
+xmax: -0.2221326987398655
+ymin: -0.7711125641653384
+ymax: -0.7708081398655142
+
+contrast: 1.12
+brightness: 0.1
+saturation: 0.45
+gamma: 1.04
+gamma_r: 0.97
+gamma_g: 1.03
+gamma_b: 0.9
+vignette: 8
+temp: 4095
