@@ -1,0 +1,28 @@
+tweet_id: 1744964824742699368
+masto_id: 111730164575702975
+subre_id: Not uploaded, but here's the text: Happy Wednesday! Enjoy the beauty of Burning Ship.  #GenerativeArt #Mathematics
+
+n_iter: 298
+ct: 186
+hue_offset: 167
+saturation: -0.97
+
+num_attempts: 83
+dur: 19
+std: 31.15
+size: 1121824 (1.07 MiB)
+
+xmin: -1.485376748607913
+xmax: -1.248534643344755
+ymin: -0.48722673793421567
+ymax: -0.35400305372368934
+
+contrast: 1.14
+brightness: -0.05
+saturation: 1.56
+gamma: 0.92
+gamma_r: 0.92
+gamma_g: 1.05
+gamma_b: 1.01
+vignette: -24
+temp: 4947
