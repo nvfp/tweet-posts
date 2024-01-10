@@ -1,0 +1,28 @@
+tweet_id: 1745214636163576296
+masto_id: 111734067790526399
+subre_id: Not uploaded, but here's the text: Have an extraordinary Wednesday!  #GenerativeArt #MachineLearning
+
+n_iter: 537
+ct: 255
+hue_offset: 180
+saturation: 0.26
+
+num_attempts: 415
+dur: 604
+std: 50.02
+size: 487481 (476.06 KiB)
+
+xmin: -0.1406429638894826
+xmax: -0.07715090039741912
+ymin: 0.7520380106813516
+ymax: 0.7877522963956373
+
+contrast: 0.96
+brightness: -0.04
+saturation: 1.73
+gamma: 0.96
+gamma_r: 1.09
+gamma_g: 0.98
+gamma_b: 0.91
+vignette: -5
+temp: 2640
