@@ -1,0 +1,28 @@
+tweet_id: 1745030559875952821
+masto_id: 111731191658381859
+subre_id: Not uploaded, but here's the text: Wow, take a look! There's Mandelbrot Set!  #Fractals #DigitalArt
+
+n_iter: 355
+ct: 108
+hue_offset: 298
+saturation: 0.98
+
+num_attempts: 22
+dur: 8
+std: 41.89
+size: 1226008 (1.17 MiB)
+
+xmin: -1.170013655937019
+xmax: -1.1694723106940903
+ymin: 0.2261540111900242
+ymax: 0.2264585178891716
+
+contrast: 0.98
+brightness: 0.11
+saturation: 1.09
+gamma: 0.98
+gamma_r: 1.05
+gamma_g: 1.08
+gamma_b: 0.99
+vignette: 3
+temp: 3425
