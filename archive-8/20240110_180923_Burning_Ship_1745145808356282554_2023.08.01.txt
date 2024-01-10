@@ -1,0 +1,28 @@
+tweet_id: 1745145808356282554
+masto_id: 111732992401662784
+subre_id: Not uploaded, but here's the text: How was your day?  #DigitalArt #Fractals
+
+n_iter: 309
+ct: 27
+hue_offset: 157
+saturation: -0.94
+
+num_attempts: 21
+dur: 6
+std: 23.74
+size: 572898 (559.47 KiB)
+
+xmin: -0.9592199228256344
+xmax: 1.2907800771743656
+ymin: -1.8393036922516037
+ymax: -0.5736786922516037
+
+contrast: 1.51
+brightness: -0.07
+saturation: 1.09
+gamma: 0.93
+gamma_r: 1.09
+gamma_g: 1.06
+gamma_b: 0.99
+vignette: 3
+temp: 7768
