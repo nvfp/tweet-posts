@@ -1,0 +1,28 @@
+tweet_id: 1745184272384729189
+masto_id: 111733593400324484
+subre_id: Not uploaded, but here's the text: Today is awesome!  #Art #MachineLearning
+
+n_iter: 326
+ct: 255
+hue_offset: 75
+saturation: 0.77
+
+num_attempts: 675
+dur: 604
+std: 58.41
+size: 708459 (691.85 KiB)
+
+xmin: 0.5760713372674093
+xmax: 0.5805911112787088
+ymin: -0.4680995487988149
+ymax: -0.46555717591745893
+
+contrast: 1.33
+brightness: -0.07
+saturation: 0.98
+gamma: 1.09
+gamma_r: 1.06
+gamma_g: 1.19
+gamma_b: 1.18
+vignette: -46
+temp: 6222
