@@ -1,0 +1,28 @@
+tweet_id: 1745064171648295268
+masto_id: 111731716858884182
+subre_id: Not uploaded, but here's the text: Guess what? It's Mandelbrot Set!  #GenerativeArt #MachineLearning
+
+n_iter: 344
+ct: 130
+hue_offset: 265
+saturation: 0.26
+
+num_attempts: 64
+dur: 22
+std: 47.94
+size: 1812866 (1.73 MiB)
+
+xmin: -1.0488186623877818
+xmax: -1.0481643191847718
+ymin: -0.2562060669302638
+ymax: -0.2558379988785707
+
+contrast: 1.73
+brightness: 0.22
+saturation: 1.53
+gamma: 1.08
+gamma_r: 0.97
+gamma_g: 1.05
+gamma_b: 0.94
+vignette: -39
+temp: 7177
