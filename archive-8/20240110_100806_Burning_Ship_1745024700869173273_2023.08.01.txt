@@ -1,0 +1,28 @@
+tweet_id: 1745024700869173273
+masto_id: 111731099996745947
+subre_id: Not uploaded, but here's the text: Sending you this fractal on this Wednesday!  #MachineLearning #Art
+
+n_iter: 223
+ct: 10
+hue_offset: 216
+saturation: -0.45
+
+num_attempts: 70
+dur: 16
+std: 26.09
+size: 444040 (433.63 KiB)
+
+xmin: -1.1314256999680001
+xmax: -0.38142569996800013
+ymin: -0.7439125443682
+ymax: -0.3220375443682
+
+contrast: 1.61
+brightness: 0.14
+saturation: 1.74
+gamma: 1.06
+gamma_r: 1.04
+gamma_g: 0.95
+gamma_b: 0.95
+vignette: 2
+temp: 2452
