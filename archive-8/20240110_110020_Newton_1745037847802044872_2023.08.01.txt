@@ -1,0 +1,31 @@
+tweet_id: 1745037847802044872
+masto_id: FAIL
+subre_id: Not uploaded, but here's the text: This Wednesday is made even better by this Newton!  #Art #AI
+
+newton_power: 7
+newton_const: -4
+
+n_iter: 127
+ct: 147
+hue_offset: 147
+saturation: 0.98
+
+num_attempts: 164
+dur: 600
+std: 21.93
+size: 798739 (780.02 KiB)
+
+xmin: 0.2086070730369718
+xmax: 0.25146421589411466
+ymin: 1.4836152298552778
+ymax: 1.5077223727124207
+
+contrast: 1.57
+brightness: -0.09
+saturation: 0.89
+gamma: 0.94
+gamma_r: 0.93
+gamma_g: 1.04
+gamma_b: 0.95
+vignette: -34
+temp: 3895
