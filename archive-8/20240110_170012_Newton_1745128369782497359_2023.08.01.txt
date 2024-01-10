@@ -1,0 +1,31 @@
+tweet_id: 1745128369782497359
+masto_id: 111732720422106155
+subre_id: Not uploaded, but here's the text: Wednesday is shining brightly, just like this Newton.  #Art #Fractals
+
+newton_power: 7
+newton_const: -3
+
+n_iter: 169
+ct: 131
+hue_offset: 139
+saturation: -0.53
+
+num_attempts: 164
+dur: 600
+std: 23.6
+size: 1435758 (1.37 MiB)
+
+xmin: -0.42558423198307294
+xmax: -0.41035580558713386
+ymin: -0.8064217588211489
+ymax: -0.7978557689734331
+
+contrast: 1.07
+brightness: -0.03
+saturation: 0.74
+gamma: 1.06
+gamma_r: 0.97
+gamma_g: 1.05
+gamma_b: 0.99
+vignette: -27
+temp: 6765
