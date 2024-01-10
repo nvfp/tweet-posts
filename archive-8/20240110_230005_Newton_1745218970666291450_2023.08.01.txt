@@ -1,0 +1,31 @@
+tweet_id: 1745218970666291450
+masto_id: 111734135547275739
+subre_id: Not uploaded, but here's the text: Keep shining on Wednesday!  #Mathematics #Art
+
+newton_power: 5
+newton_const: -7
+
+n_iter: 105
+ct: 116
+hue_offset: 117
+saturation: 0.23
+
+num_attempts: 212
+dur: 600
+std: 12.34
+size: 881433 (860.77 KiB)
+
+xmin: -0.3361164855558494
+xmax: 1.6638835144441506
+ymin: -0.24259089746651963
+ymax: 0.8824091025334804
+
+contrast: 1.53
+brightness: -0.03
+saturation: 1.39
+gamma: 0.94
+gamma_r: 1.01
+gamma_g: 1.05
+gamma_b: 1.03
+vignette: -7
+temp: 6925
