@@ -1,0 +1,28 @@
+tweet_id: 1745121378905256014
+masto_id: 111732610852303700
+subre_id: Not uploaded, but here's the text: Wednesday is shining brightly, just like this Mandelbrot Set.  #Fractals #MachineLearning
+
+n_iter: 627
+ct: 243
+hue_offset: 356
+saturation: -0.74
+
+num_attempts: 20
+dur: 8
+std: 15.25
+size: 717529 (700.71 KiB)
+
+xmin: 0.3204437537428735
+xmax: 0.3215843297337489
+ymin: 0.033035443775495166
+ymax: 0.033677017770362576
+
+contrast: 1.6
+brightness: 0.03
+saturation: 0.25
+gamma: 1.0
+gamma_r: 0.99
+gamma_g: 1.05
+gamma_b: 0.91
+vignette: 31
+temp: 2277
