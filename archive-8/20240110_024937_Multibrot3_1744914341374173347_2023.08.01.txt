@@ -1,0 +1,28 @@
+tweet_id: 1744914341374173347
+masto_id: 111729375773957272
+subre_id: Not uploaded, but here's the text: Have an awesome Wednesday!  #Fractals #AI
+
+n_iter: 425
+ct: 255
+hue_offset: 118
+saturation: 0.99
+
+num_attempts: 577
+dur: 604
+std: 74.01
+size: 1275702 (1.22 MiB)
+
+xmin: 0.5657118155337453
+xmax: 0.569785135289346
+ymin: 0.6036882448739274
+ymax: 0.6059794872364528
+
+contrast: 1.08
+brightness: 0.19
+saturation: 0.51
+gamma: 0.94
+gamma_r: 0.8
+gamma_g: 1.02
+gamma_b: 1.04
+vignette: 25
+temp: 6626
