@@ -1,0 +1,31 @@
+tweet_id: 1744977341921513720
+masto_id: 111730360423325821
+subre_id: Not uploaded, but here's the text: Look closely, it's Newton!  #Art #Fractals
+
+newton_power: 3
+newton_const: -2
+
+n_iter: 146
+ct: 124
+hue_offset: 132
+saturation: 0.03
+
+num_attempts: 533
+dur: 601
+std: 4.08
+size: 670371 (654.66 KiB)
+
+xmin: -1.5759738457574008
+xmax: -1.5673531561022285
+ymin: 0.12305619402257229
+ymax: 0.12790533195360676
+
+contrast: 1.57
+brightness: -0.03
+saturation: 0.61
+gamma: 0.98
+gamma_r: 1.03
+gamma_g: 1.01
+gamma_b: 1.1
+vignette: 31
+temp: 3133
