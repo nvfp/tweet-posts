@@ -1,0 +1,28 @@
+tweet_id: 1745508177989235105
+masto_id: 111738654481600871
+subre_id: Not uploaded, but here's the text: Hope you're having a great Thursday!  #VisualArt #Nature
+
+n_iter: 253
+ct: 110
+hue_offset: 156
+saturation: -0.54
+
+num_attempts: 3
+dur: 1
+std: 23.05
+size: 701986 (685.53 KiB)
+
+xmin: 0.2436597851277189
+xmax: 0.3436597851277189
+ymin: -0.4571795418958571
+ymax: -0.40092954189585706
+
+contrast: 1.15
+brightness: 0.09
+saturation: 0.52
+gamma: 1.08
+gamma_r: 0.91
+gamma_g: 1.0
+gamma_b: 0.95
+vignette: 19
+temp: 3428
