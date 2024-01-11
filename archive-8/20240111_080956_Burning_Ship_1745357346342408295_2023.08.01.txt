@@ -1,0 +1,28 @@
+tweet_id: 1745357346342408295
+masto_id: 111736297643489291
+subre_id: Not uploaded, but here's the text: Smile, it's Thursday!  #DeepLearning #Nature
+
+n_iter: 482
+ct: 47
+hue_offset: 289
+saturation: 0.31
+
+num_attempts: 6
+dur: 2
+std: 61.9
+size: 2509371 (2.39 MiB)
+
+xmin: -0.36770638779661846
+xmax: -0.26543366052389117
+ymin: -0.9974429214452463
+ymax: -0.9399145123543372
+
+contrast: 1.76
+brightness: 0.21
+saturation: 1.45
+gamma: 0.94
+gamma_r: 0.93
+gamma_g: 1.09
+gamma_b: 0.93
+vignette: -31
+temp: 6319
