@@ -1,0 +1,31 @@
+tweet_id: 1745262772664078423
+masto_id: 111734820113877908
+subre_id: Not uploaded, but here's the text: Have an awesome Thursday!  #GenerativeArt #Fractals
+
+newton_power: 3
+newton_const: 7
+
+n_iter: 244
+ct: 1
+hue_offset: 350
+saturation: -0.26
+
+num_attempts: 535
+dur: 601
+std: 4.11
+size: 859785 (839.63 KiB)
+
+xmin: -1.0866590532990172
+xmax: 0.41334094670098276
+ymin: -0.31308310078688506
+ymax: 0.5306668992131149
+
+contrast: 1.14
+brightness: 0.19
+saturation: 1.57
+gamma: 1.08
+gamma_r: 1.05
+gamma_g: 1.05
+gamma_b: 0.94
+vignette: -34
+temp: 3501
