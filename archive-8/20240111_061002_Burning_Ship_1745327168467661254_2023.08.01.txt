@@ -1,0 +1,28 @@
+tweet_id: 1745327168467661254
+masto_id: 111735826150179340
+subre_id: Not uploaded, but here's the text: Keep shining on Thursday!  #DeepLearning #AI
+
+n_iter: 495
+ct: 108
+hue_offset: 287
+saturation: 0.26
+
+num_attempts: 2
+dur: 1
+std: 79.76
+size: 1461884 (1.39 MiB)
+
+xmin: -0.003890190757458001
+xmax: 0.06039552352825628
+ymin: -1.0738210429331396
+ymax: -1.0376603286474253
+
+contrast: 1.7
+brightness: 0.17
+saturation: 1.07
+gamma: 0.96
+gamma_r: 1.0
+gamma_g: 1.08
+gamma_b: 1.09
+vignette: 20
+temp: 4139
