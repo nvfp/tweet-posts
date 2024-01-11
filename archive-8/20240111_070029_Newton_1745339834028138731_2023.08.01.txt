@@ -1,0 +1,31 @@
+tweet_id: 1745339834028138731
+masto_id: 111736024540777212
+subre_id: Not uploaded, but here's the text: Hey there, it's Thursday!  #DigitalArt #Mathematics
+
+newton_power: 4
+newton_const: -8
+
+n_iter: 74
+ct: 17
+hue_offset: 65
+saturation: -0.63
+
+num_attempts: 260
+dur: 600
+std: 7.7
+size: 1240159 (1.18 MiB)
+
+xmin: -1.2121430597326768
+xmax: -1.191237136387729
+ymin: 1.6422210795536434
+ymax: 1.6539806614351764
+
+contrast: 0.96
+brightness: 0.21
+saturation: 1.03
+gamma: 1.04
+gamma_r: 1.09
+gamma_g: 1.0
+gamma_b: 1.08
+vignette: -45
+temp: 2586
