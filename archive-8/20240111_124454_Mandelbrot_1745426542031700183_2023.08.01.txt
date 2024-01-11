@@ -1,0 +1,28 @@
+tweet_id: 1745426542031700183
+masto_id: 111737378872285308
+subre_id: Not uploaded, but here's the text: Cheers to a fantastic Thursday!  #GenerativeArt #DeepLearning
+
+n_iter: 691
+ct: 133
+hue_offset: 291
+saturation: -0.74
+
+num_attempts: 44
+dur: 22
+std: 61.48
+size: 1131402 (1.08 MiB)
+
+xmin: -0.052295556749419436
+xmax: -0.05084259634259052
+ymin: 0.8100770662686929
+ymax: 0.8108943564975342
+
+contrast: 0.94
+brightness: -0.02
+saturation: 1.48
+gamma: 1.08
+gamma_r: 1.07
+gamma_g: 0.95
+gamma_b: 0.98
+vignette: -38
+temp: 2324
