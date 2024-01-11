@@ -1,0 +1,28 @@
+tweet_id: 1745261041880117746
+masto_id: 111734792904272801
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Thursday! You got this!  #DigitalArt #GenerativeArt
+
+n_iter: 468
+ct: 1
+hue_offset: 182
+saturation: 0.88
+
+num_attempts: 447
+dur: 600
+std: 67.81
+size: 1050416 (1.0 MiB)
+
+xmin: -0.051986502262562295
+xmax: -0.0469103601305826
+ymin: 1.1265668963951807
+ymax: 1.1294222263444194
+
+contrast: 1.22
+brightness: 0.08
+saturation: 1.68
+gamma: 1.15
+gamma_r: 1.01
+gamma_g: 1.16
+gamma_b: 0.81
+vignette: -45
+temp: 2270
