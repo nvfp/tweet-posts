@@ -1,0 +1,28 @@
+tweet_id: 1745516693223542995
+masto_id: 111738787485722107
+subre_id: Not uploaded, but here's the text: Have an extraordinary Thursday!  #Mathematics #MachineLearning
+
+n_iter: 397
+ct: 1
+hue_offset: 174
+saturation: 0.96
+
+num_attempts: 653
+dur: 605
+std: 63.97
+size: 950566 (928.29 KiB)
+
+xmin: 0.56615794036066
+xmax: 0.5720751001239737
+ymin: 0.3065284123971055
+ymax: 0.30985681476396937
+
+contrast: 1.13
+brightness: 0.16
+saturation: 0.86
+gamma: 1.15
+gamma_r: 1.18
+gamma_g: 1.11
+gamma_b: 1.19
+vignette: -6
+temp: 4852
