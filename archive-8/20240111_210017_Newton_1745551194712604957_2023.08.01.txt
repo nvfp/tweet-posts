@@ -1,0 +1,31 @@
+tweet_id: 1745551194712604957
+masto_id: 111739326804479540
+subre_id: Not uploaded, but here's the text: Wishing you a fantastic day!  #VisualArt #Fractals
+
+newton_power: 4
+newton_const: -10
+
+n_iter: 165
+ct: 240
+hue_offset: 320
+saturation: 0.29
+
+num_attempts: 259
+dur: 600
+std: 8.07
+size: 811976 (792.95 KiB)
+
+xmin: -0.18967988393016544
+xmax: 0.5603201160698346
+ymin: -0.14701337657517333
+ymax: 0.2748616234248267
+
+contrast: 0.75
+brightness: 0.07
+saturation: 0.66
+gamma: 0.92
+gamma_r: 1.02
+gamma_g: 0.93
+gamma_b: 0.93
+vignette: 24
+temp: 4801
