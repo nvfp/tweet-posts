@@ -1,0 +1,28 @@
+tweet_id: 1745576986636857811
+masto_id: 111739729761876123
+subre_id: Not uploaded, but here's the text: Keep smiling!  #Fractals #MachineLearning
+
+n_iter: 444
+ct: 1
+hue_offset: 289
+saturation: -0.55
+
+num_attempts: 505
+dur: 600
+std: 68.15
+size: 1224943 (1.17 MiB)
+
+xmin: 0.4262435409022287
+xmax: 0.4412811348871911
+ymin: 0.5689902524126378
+ymax: 0.5774488990291792
+
+contrast: 0.72
+brightness: -0.09
+saturation: 1.4
+gamma: 1.15
+gamma_r: 0.85
+gamma_g: 1.19
+gamma_b: 0.81
+vignette: 21
+temp: 5281
