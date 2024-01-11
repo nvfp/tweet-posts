@@ -1,0 +1,28 @@
+tweet_id: 1745362499304898994
+masto_id: 111736378250106467
+subre_id: Not uploaded, but here's the text: Having a blast on Thursday?  #Mathematics #MachineLearning
+
+n_iter: 215
+ct: 101
+hue_offset: 122
+saturation: 0.9
+
+num_attempts: 3
+dur: 0
+std: 31.68
+size: 958075 (935.62 KiB)
+
+xmin: -0.31603629056096416
+xmax: -0.30951100507972434
+ymin: 0.6458629447999018
+ymax: 0.6495334178830992
+
+contrast: 1.13
+brightness: -0.05
+saturation: 0.52
+gamma: 1.01
+gamma_r: 1.07
+gamma_g: 1.06
+gamma_b: 1.05
+vignette: -5
+temp: 2786
