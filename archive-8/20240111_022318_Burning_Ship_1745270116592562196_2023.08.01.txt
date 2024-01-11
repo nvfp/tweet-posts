@@ -1,0 +1,28 @@
+tweet_id: 1745270116592562196
+masto_id: 111734934619650822
+subre_id: Not uploaded, but here's the text: Wow, take a look! There's Burning Ship!  #DeepLearning #Mathematics
+
+n_iter: 504
+ct: 81
+hue_offset: 223
+saturation: 0.47
+
+num_attempts: 6
+dur: 2
+std: 53.48
+size: 798492 (779.78 KiB)
+
+xmin: -1.3383975544481297
+xmax: -0.2133975544481297
+ymin: -0.9306821665246132
+ymax: -0.2978696665246132
+
+contrast: 1.33
+brightness: -0.08
+saturation: 0.96
+gamma: 1.03
+gamma_r: 0.98
+gamma_g: 1.06
+gamma_b: 1.09
+vignette: -13
+temp: 2181
