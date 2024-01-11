@@ -1,0 +1,31 @@
+tweet_id: 1745460580625039729
+masto_id: 111737911055104113
+subre_id: Not uploaded, but here's the text: Let's make it a memorable Thursday!  #Art #Fractals
+
+newton_power: 7
+newton_const: -1
+
+n_iter: 170
+ct: 150
+hue_offset: 0
+saturation: -0.26
+
+num_attempts: 159
+dur: 601
+std: 20.19
+size: 1238585 (1.18 MiB)
+
+xmin: 2.8730321725351624
+xmax: 2.903801403304393
+ymin: -1.390662605738471
+ymax: -1.3733549134307788
+
+contrast: 0.91
+brightness: 0.22
+saturation: 1.24
+gamma: 0.92
+gamma_r: 1.01
+gamma_g: 0.95
+gamma_b: 1.06
+vignette: -37
+temp: 3086
