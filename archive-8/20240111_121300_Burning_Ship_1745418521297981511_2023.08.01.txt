@@ -1,0 +1,28 @@
+tweet_id: 1745418521297981511
+masto_id: 111737253438927341
+subre_id: Not uploaded, but here's the text: Having a blast on Thursday?  #Mathematics #GenerativeArt
+
+n_iter: 360
+ct: 168
+hue_offset: 307
+saturation: 0.14
+
+num_attempts: 16
+dur: 6
+std: 21.24
+size: 372267 (363.54 KiB)
+
+xmin: -0.07842397009014945
+xmax: 1.4215760299098505
+ymin: -1.7508534565012477
+ymax: -0.9071034565012477
+
+contrast: 1.49
+brightness: -0.08
+saturation: 0.76
+gamma: 1.05
+gamma_r: 0.97
+gamma_g: 1.03
+gamma_b: 1.05
+vignette: -40
+temp: 3974
