@@ -1,0 +1,28 @@
+tweet_id: 1745477966912766047
+masto_id: 111738182454510286
+subre_id: Not uploaded, but here's the text: Brighten your Thursday!  #VisualArt #DeepLearning
+
+n_iter: 193
+ct: 254
+hue_offset: 83
+saturation: -0.81
+
+num_attempts: 2
+dur: 0
+std: 24.58
+size: 797843 (779.14 KiB)
+
+xmin: -0.15933685290413857
+xmax: -0.09933685290413857
+ymin: 0.20518882519683457
+ymax: 0.23893882519683457
+
+contrast: 0.88
+brightness: 0.13
+saturation: 1.24
+gamma: 1.05
+gamma_r: 1.09
+gamma_g: 1.05
+gamma_b: 1.07
+vignette: -22
+temp: 5202
