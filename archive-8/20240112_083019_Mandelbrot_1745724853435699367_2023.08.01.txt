@@ -1,0 +1,28 @@
+tweet_id: 1745724853435699367
+masto_id: 111742040027862927
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Friday!  #Mathematics #Art
+
+n_iter: 477
+ct: 139
+hue_offset: 169
+saturation: 0.9
+
+num_attempts: 1
+dur: 0
+std: 19.38
+size: 732072 (714.91 KiB)
+
+xmin: -0.30562656151641976
+xmax: -0.3046606112628578
+ymin: 0.6589548828514491
+ymax: 0.6594982298690777
+
+contrast: 1.35
+brightness: 0.13
+saturation: 0.37
+gamma: 1.0
+gamma_r: 1.09
+gamma_g: 0.91
+gamma_b: 1.04
+vignette: 14
+temp: 7513
