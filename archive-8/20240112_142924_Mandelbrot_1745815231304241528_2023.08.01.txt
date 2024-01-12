@@ -1,0 +1,28 @@
+tweet_id: 1745815231304241528
+masto_id: 111743452101777750
+subre_id: Not uploaded, but here's the text: Ever heard of this Mandelbrot Set?  #DeepLearning #GenerativeArt
+
+n_iter: 569
+ct: 62
+hue_offset: 89
+saturation: 0.92
+
+num_attempts: 80
+dur: 24
+std: 46.44
+size: 539053 (526.42 KiB)
+
+xmin: -0.5429138885776563
+xmax: -0.2571996028633706
+ymin: 0.49193105614133636
+ymax: 0.6526453418556221
+
+contrast: 1.7
+brightness: 0.08
+saturation: 0.87
+gamma: 0.97
+gamma_r: 1.09
+gamma_g: 1.08
+gamma_b: 0.99
+vignette: -34
+temp: 3519
