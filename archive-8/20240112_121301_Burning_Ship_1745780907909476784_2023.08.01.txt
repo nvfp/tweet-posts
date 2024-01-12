@@ -1,0 +1,28 @@
+tweet_id: 1745780907909476784
+masto_id: 111742915758549909
+subre_id: Not uploaded, but here's the text: Let this Burning Ship inspire your Friday.  #AI #Fractals
+
+n_iter: 318
+ct: 31
+hue_offset: 190
+saturation: 0.0
+
+num_attempts: 7
+dur: 2
+std: 50.93
+size: 1227170 (1.17 MiB)
+
+xmin: -1.0383421253293588
+xmax: -0.9820921253293587
+ymin: -0.5506861817534543
+ymax: -0.5190455567534543
+
+contrast: 1.1
+brightness: 0.22
+saturation: 0.86
+gamma: 0.97
+gamma_r: 1.04
+gamma_g: 0.96
+gamma_b: 0.93
+vignette: 29
+temp: 2838
