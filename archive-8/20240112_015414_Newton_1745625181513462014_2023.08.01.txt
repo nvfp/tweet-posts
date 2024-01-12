@@ -1,0 +1,31 @@
+tweet_id: 1745625181513462014
+masto_id: 111740482638061165
+subre_id: Not uploaded, but here's the text: Today is awesome!  #Art #Mathematics
+
+newton_power: 5
+newton_const: 8
+
+n_iter: 179
+ct: 86
+hue_offset: 68
+saturation: 0.48
+
+num_attempts: 197
+dur: 600
+std: 13.27
+size: 973915 (951.09 KiB)
+
+xmin: 0.6856634546014813
+xmax: 0.7120951726631553
+ymin: -1.3817004429533595
+ymax: -1.3668326015436678
+
+contrast: 1.05
+brightness: 0.19
+saturation: 0.37
+gamma: 1.03
+gamma_r: 1.01
+gamma_g: 0.97
+gamma_b: 0.97
+vignette: 25
+temp: 4776
