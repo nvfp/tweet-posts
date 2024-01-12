@@ -1,0 +1,28 @@
+tweet_id: 1745879295979827312
+masto_id: 111744453236163706
+subre_id: Not uploaded, but here's the text: Have an awesome Friday!  #GenerativeArt #DigitalArt
+
+n_iter: 450
+ct: 1
+hue_offset: 167
+saturation: -0.28
+
+num_attempts: 516
+dur: 601
+std: 76.89
+size: 1425170 (1.36 MiB)
+
+xmin: -0.5499628007929906
+xmax: -0.5438089546391445
+ymin: 0.30259114289866296
+ymax: 0.3060526813602014
+
+contrast: 1.65
+brightness: 0.2
+saturation: 1.44
+gamma: 1.2
+gamma_r: 1.07
+gamma_g: 0.94
+gamma_b: 1.04
+vignette: -31
+temp: 7036
