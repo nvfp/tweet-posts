@@ -1,0 +1,28 @@
+tweet_id: 1745728390252954034
+masto_id: 111742095128410823
+subre_id: Not uploaded, but here's the text: Friday vibes!  #Nature #DeepLearning
+
+n_iter: 429
+ct: 255
+hue_offset: 135
+saturation: -0.99
+
+num_attempts: 483
+dur: 605
+std: 66.28
+size: 500389 (488.66 KiB)
+
+xmin: 0.09463667597956693
+xmax: 0.10088667597956694
+ymin: 0.7910999836148833
+ymax: 0.7946156086148833
+
+contrast: 1.43
+brightness: 0.01
+saturation: 0.48
+gamma: 0.98
+gamma_r: 0.96
+gamma_g: 1.1
+gamma_b: 1.04
+vignette: 20
+temp: 3084
