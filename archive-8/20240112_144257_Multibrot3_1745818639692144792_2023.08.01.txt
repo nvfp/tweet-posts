@@ -1,0 +1,28 @@
+tweet_id: 1745818639692144792
+masto_id: 111743505373934074
+subre_id: Not uploaded, but here's the text: Chin up, lovely humans!  #Art #Mathematics
+
+n_iter: 561
+ct: 255
+hue_offset: 326
+saturation: -0.67
+
+num_attempts: 513
+dur: 603
+std: 88.3
+size: 1127627 (1.08 MiB)
+
+xmin: -0.4541398436625872
+xmax: -0.44767780812139174
+ymin: -0.5575437273132733
+ymax: -0.5539088323213508
+
+contrast: 1.43
+brightness: -0.01
+saturation: 0.98
+gamma: 0.95
+gamma_r: 0.84
+gamma_g: 1.07
+gamma_b: 0.88
+vignette: -5
+temp: 7364
