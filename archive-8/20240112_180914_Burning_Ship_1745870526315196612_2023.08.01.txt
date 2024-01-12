@@ -1,0 +1,28 @@
+tweet_id: 1745870526315196612
+masto_id: 111744316477527998
+subre_id: Not uploaded, but here's the text: Have an extraordinary Friday!  #MachineLearning #Art
+
+n_iter: 270
+ct: 70
+hue_offset: 321
+saturation: 0.51
+
+num_attempts: 5
+dur: 1
+std: 20.36
+size: 841307 (821.59 KiB)
+
+xmin: -2.442146337343648
+xmax: -0.19214633734364783
+ymin: -1.5381424768454148
+ymax: -0.27251747684541483
+
+contrast: 0.81
+brightness: -0.04
+saturation: 1.06
+gamma: 1.06
+gamma_r: 1.07
+gamma_g: 0.93
+gamma_b: 1.06
+vignette: -30
+temp: 2688
