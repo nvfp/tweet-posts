@@ -1,0 +1,31 @@
+tweet_id: 1745823020273299879
+masto_id: 111743573984969657
+subre_id: Not uploaded, but here's the text: You rock, and so does this Friday!  #Nature #GenerativeArt
+
+newton_power: 4
+newton_const: 0
+
+n_iter: 216
+ct: 60
+hue_offset: 154
+saturation: -0.56
+
+num_attempts: 166
+dur: 602
+std: 2.51
+size: 592453 (578.57 KiB)
+
+xmin: -0.38245018028087374
+xmax: 2.6175498197191263
+ymin: -0.8910345255689687
+ymax: 0.7964654744310313
+
+contrast: 1.0
+brightness: 0.03
+saturation: 1.68
+gamma: 1.05
+gamma_r: 1.04
+gamma_g: 1.06
+gamma_b: 0.98
+vignette: -23
+temp: 4929
