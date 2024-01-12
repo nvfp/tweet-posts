@@ -1,0 +1,28 @@
+tweet_id: 1745904957226987902
+masto_id: 111744854331771832
+subre_id: Not uploaded, but here's the text: Chin up, lovely humans!  #Fractals #MachineLearning
+
+n_iter: 164
+ct: 212
+hue_offset: 128
+saturation: 0.18
+
+num_attempts: 157
+dur: 30
+std: 41.55
+size: 699708 (683.31 KiB)
+
+xmin: -0.06768865317606343
+xmax: -0.06725101641457547
+ymin: -0.6641773559386881
+ymax: -0.6639311852603511
+
+contrast: 1.42
+brightness: 0.2
+saturation: 1.7
+gamma: 1.03
+gamma_r: 0.94
+gamma_g: 0.99
+gamma_b: 1.05
+vignette: 12
+temp: 3677
