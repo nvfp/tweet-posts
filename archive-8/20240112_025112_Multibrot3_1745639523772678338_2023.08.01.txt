@@ -1,0 +1,28 @@
+tweet_id: 1745639523772678338
+masto_id: 111740706656149653
+subre_id: Not uploaded, but here's the text: Enjoy your Friday!  #MachineLearning #Art
+
+n_iter: 299
+ct: 255
+hue_offset: 318
+saturation: 0.56
+
+num_attempts: 829
+dur: 604
+std: 59.23
+size: 843789 (824.01 KiB)
+
+xmin: 0.45294406251745434
+xmax: 0.45702153448483457
+ymin: 0.5460693208092331
+ymax: 0.5483628987908845
+
+contrast: 1.74
+brightness: -0.0
+saturation: 0.47
+gamma: 1.04
+gamma_r: 1.11
+gamma_g: 1.09
+gamma_b: 0.82
+vignette: 3
+temp: 3785
