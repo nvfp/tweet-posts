@@ -1,0 +1,28 @@
+tweet_id: 1745698465156338050
+masto_id: 111741627606652278
+subre_id: Not uploaded, but here's the text: Wishing you the best!  #Art #DeepLearning
+
+n_iter: 370
+ct: 1
+hue_offset: 235
+saturation: 0.41
+
+num_attempts: 680
+dur: 604
+std: 53.37
+size: 993530 (970.24 KiB)
+
+xmin: -0.17473096145261557
+xmax: -0.16941181251644535
+ymin: 0.8405074759514544
+ymax: 0.8434994972280501
+
+contrast: 1.62
+brightness: -0.04
+saturation: 1.31
+gamma: 1.01
+gamma_r: 0.91
+gamma_g: 1.01
+gamma_b: 1.18
+vignette: -4
+temp: 7504
