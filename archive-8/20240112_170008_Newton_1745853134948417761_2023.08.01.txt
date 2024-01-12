@@ -1,0 +1,31 @@
+tweet_id: 1745853134948417761
+masto_id: 111744044753070918
+subre_id: Not uploaded, but here's the text: Let's make it a memorable Friday!  #Nature #DigitalArt
+
+newton_power: 7
+newton_const: -9
+
+n_iter: 90
+ct: 93
+hue_offset: 155
+saturation: 0.53
+
+num_attempts: 162
+dur: 601
+std: 23.14
+size: 713916 (697.18 KiB)
+
+xmin: 0.9764449627709344
+xmax: 0.9848015087319372
+ymin: 0.44358855650200857
+ymax: 0.4482891136050726
+
+contrast: 0.74
+brightness: 0.01
+saturation: 0.27
+gamma: 1.02
+gamma_r: 1.01
+gamma_g: 1.06
+gamma_b: 1.05
+vignette: 17
+temp: 4882
