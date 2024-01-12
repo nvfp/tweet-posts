@@ -1,0 +1,28 @@
+tweet_id: 1745930345306898879
+masto_id: 111745250796819235
+subre_id: Not uploaded, but here's the text: A great Friday and a beautiful Burning Ship.  #DeepLearning #Mathematics
+
+n_iter: 299
+ct: 153
+hue_offset: 213
+saturation: -0.34
+
+num_attempts: 14
+dur: 4
+std: 42.66
+size: 871292 (850.87 KiB)
+
+xmin: -1.0358791493320791
+xmax: -0.771173266979138
+ymin: -0.6279282368594739
+ymax: -0.4790311780359444
+
+contrast: 1.37
+brightness: 0.09
+saturation: 0.83
+gamma: 1.02
+gamma_r: 0.98
+gamma_g: 0.94
+gamma_b: 0.97
+vignette: -47
+temp: 2892
