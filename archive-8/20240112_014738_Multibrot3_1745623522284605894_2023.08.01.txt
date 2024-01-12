@@ -1,0 +1,28 @@
+tweet_id: 1745623522284605894
+masto_id: 111740456680089559
+subre_id: Not uploaded, but here's the text: Let this Multibrot brighten up your Friday!  #DeepLearning #VisualArt
+
+n_iter: 326
+ct: 1
+hue_offset: 75
+saturation: -0.32
+
+num_attempts: 741
+dur: 604
+std: 48.35
+size: 985781 (962.68 KiB)
+
+xmin: 0.15646253447673697
+xmax: 0.17424031225451475
+ymin: -0.7544566838888842
+ymax: -0.7444566838888842
+
+contrast: 0.87
+brightness: 0.04
+saturation: 0.97
+gamma: 1.05
+gamma_r: 0.81
+gamma_g: 0.87
+gamma_b: 0.95
+vignette: 22
+temp: 7609
