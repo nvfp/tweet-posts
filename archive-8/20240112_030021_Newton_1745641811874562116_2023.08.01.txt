@@ -1,0 +1,31 @@
+tweet_id: 1745641811874562116
+masto_id: 111740742566968653
+subre_id: Not uploaded, but here's the text: Enjoy your Friday!  #VisualArt #Mathematics
+
+newton_power: 3
+newton_const: 9
+
+n_iter: 71
+ct: 179
+hue_offset: 327
+saturation: 0.71
+
+num_attempts: 522
+dur: 600
+std: 3.89
+size: 679109 (663.19 KiB)
+
+xmin: -0.07582682412977393
+xmax: -0.016420883535714526
+ymin: -0.7191289324185615
+ymax: -0.685713090834403
+
+contrast: 1.44
+brightness: 0.08
+saturation: 0.65
+gamma: 0.95
+gamma_r: 1.02
+gamma_g: 1.01
+gamma_b: 0.93
+vignette: -26
+temp: 5520
