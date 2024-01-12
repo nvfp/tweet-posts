@@ -1,0 +1,28 @@
+tweet_id: 1745755403181564106
+masto_id: 111742517463449382
+subre_id: Not uploaded, but here's the text: Let the magic of Friday fill your heart!  #Nature #DeepLearning
+
+n_iter: 615
+ct: 160
+hue_offset: 358
+saturation: 0.7
+
+num_attempts: 43
+dur: 22
+std: 15.85
+size: 826904 (807.52 KiB)
+
+xmin: -0.549742351743221
+xmax: -0.549312660047013
+ymin: -0.5850062290904199
+ymax: -0.5847645275113029
+
+contrast: 1.06
+brightness: 0.11
+saturation: 0.52
+gamma: 0.99
+gamma_r: 0.97
+gamma_g: 0.96
+gamma_b: 0.99
+vignette: -39
+temp: 2267
