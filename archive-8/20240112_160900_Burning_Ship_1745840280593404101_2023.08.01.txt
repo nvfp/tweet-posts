@@ -1,0 +1,28 @@
+tweet_id: 1745840280593404101
+masto_id: 111743843702534203
+subre_id: Not uploaded, but here's the text: Good Friday! This Burning Ship is for you!  #Mathematics #GenerativeArt
+
+n_iter: 320
+ct: 165
+hue_offset: 161
+saturation: -0.27
+
+num_attempts: 24
+dur: 6
+std: 29.66
+size: 1099209 (1.05 MiB)
+
+xmin: -0.30303604102594806
+xmax: -0.16241104102594806
+ymin: -1.140632381175976
+ymax: -1.061530818675976
+
+contrast: 1.76
+brightness: 0.19
+saturation: 1.22
+gamma: 0.92
+gamma_r: 1.02
+gamma_g: 0.93
+gamma_b: 0.91
+vignette: 33
+temp: 5000
