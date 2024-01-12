@@ -1,0 +1,28 @@
+tweet_id: 1745668097841709371
+masto_id: 111741153143601226
+subre_id: Not uploaded, but here's the text: Shine bright like the sun on this Friday!  #MachineLearning #GenerativeArt
+
+n_iter: 679
+ct: 1
+hue_offset: 290
+saturation: -0.34
+
+num_attempts: 310
+dur: 603
+std: 70.16
+size: 1061135 (1.01 MiB)
+
+xmin: 0.2212276543373961
+xmax: 0.22548750524261443
+ymin: 0.9210854721607378
+ymax: 0.923481638294923
+
+contrast: 0.95
+brightness: -0.07
+saturation: 1.64
+gamma: 0.88
+gamma_r: 0.89
+gamma_g: 1.05
+gamma_b: 1.14
+vignette: 8
+temp: 5862
