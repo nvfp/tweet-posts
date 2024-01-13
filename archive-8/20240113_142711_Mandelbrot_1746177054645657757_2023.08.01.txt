@@ -1,0 +1,28 @@
+tweet_id: 1746177054645657757
+masto_id: 111749105643474134
+subre_id: Not uploaded, but here's the text: A great Saturday and a beautiful Mandelbrot Set.  #DeepLearning #MachineLearning
+
+n_iter: 685
+ct: 11
+hue_offset: 332
+saturation: -0.12
+
+num_attempts: 22
+dur: 11
+std: 20.24
+size: 1020623 (996.7 KiB)
+
+xmin: -0.7884278212057465
+xmax: -0.7868411492501733
+ymin: -0.16544351556240722
+ymax: -0.1645510125873973
+
+contrast: 1.14
+brightness: -0.06
+saturation: 1.29
+gamma: 1.05
+gamma_r: 0.93
+gamma_g: 1.02
+gamma_b: 0.98
+vignette: -7
+temp: 4552
