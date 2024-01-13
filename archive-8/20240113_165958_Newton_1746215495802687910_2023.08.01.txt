@@ -1,0 +1,31 @@
+tweet_id: 1746215495802687910
+masto_id: 111749706450122241
+subre_id: Not uploaded, but here's the text: Hello Saturday! This Newton is yours!  #MachineLearning #Nature
+
+newton_power: 3
+newton_const: -6
+
+n_iter: 184
+ct: 109
+hue_offset: 272
+saturation: 0.72
+
+num_attempts: 563
+dur: 601
+std: 4.03
+size: 664668 (649.09 KiB)
+
+xmin: -0.4974932889438768
+xmax: -0.3974932889438768
+ymin: -0.27682832338040786
+ymax: -0.22057832338040786
+
+contrast: 1.57
+brightness: -0.04
+saturation: 0.59
+gamma: 0.97
+gamma_r: 1.01
+gamma_g: 0.98
+gamma_b: 0.92
+vignette: -37
+temp: 2151
