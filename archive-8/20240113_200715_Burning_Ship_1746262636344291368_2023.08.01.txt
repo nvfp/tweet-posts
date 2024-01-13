@@ -1,0 +1,28 @@
+tweet_id: 1746262636344291368
+masto_id: 111750442898539866
+subre_id: Not uploaded, but here's the text: Happy Saturday! Enjoy the beauty of Burning Ship.  #Mathematics #AI
+
+n_iter: 246
+ct: 45
+hue_offset: 219
+saturation: 0.27
+
+num_attempts: 53
+dur: 11
+std: 24.98
+size: 1089903 (1.04 MiB)
+
+xmin: -1.6077642746339804
+xmax: -0.8577642746339804
+ymin: -0.8074412845747416
+ymax: -0.3855662845747416
+
+contrast: 1.01
+brightness: 0.03
+saturation: 0.74
+gamma: 1.0
+gamma_r: 0.93
+gamma_g: 1.05
+gamma_b: 0.97
+vignette: -42
+temp: 2468
