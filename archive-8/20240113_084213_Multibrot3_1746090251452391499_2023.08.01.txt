@@ -1,0 +1,28 @@
+tweet_id: 1746090251452391499
+masto_id: 111747749217721860
+subre_id: Not uploaded, but here's the text: Sending you this fractal on this Saturday!  #GenerativeArt #Nature
+
+n_iter: 417
+ct: 1
+hue_offset: 322
+saturation: 0.64
+
+num_attempts: 434
+dur: 600
+std: 44.95
+size: 348256 (340.09 KiB)
+
+xmin: 0.5285690404666123
+xmax: 0.5565410684386404
+ymin: 0.22359117977188347
+ymax: 0.2393254455061492
+
+contrast: 1.49
+brightness: 0.16
+saturation: 1.02
+gamma: 0.85
+gamma_r: 0.95
+gamma_g: 0.87
+gamma_b: 0.97
+vignette: 2
+temp: 7627
