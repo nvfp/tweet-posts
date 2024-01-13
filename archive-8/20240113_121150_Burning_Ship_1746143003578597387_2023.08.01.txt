@@ -1,0 +1,28 @@
+tweet_id: 1746143003578597387
+masto_id: 111748573480489242
+subre_id: Not uploaded, but here's the text: Enjoying the Saturday with this Burning Ship.  #Nature #Mathematics
+
+n_iter: 304
+ct: 198
+hue_offset: 250
+saturation: -0.99
+
+num_attempts: 43
+dur: 9
+std: 45.5
+size: 2227276 (2.12 MiB)
+
+xmin: 0.5225195498608497
+xmax: 0.5850195498608497
+ymin: -1.1813482830684394
+ymax: -1.1461920330684394
+
+contrast: 1.26
+brightness: -0.09
+saturation: 0.87
+gamma: 1.09
+gamma_r: 0.97
+gamma_g: 1.01
+gamma_b: 0.91
+vignette: -26
+temp: 4106
