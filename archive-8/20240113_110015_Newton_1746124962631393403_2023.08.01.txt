@@ -1,0 +1,31 @@
+tweet_id: 1746124962631393403
+masto_id: 111748291786761083
+subre_id: Not uploaded, but here's the text: Guess what? It's Newton!  #AI #Nature
+
+newton_power: 4
+newton_const: -9
+
+n_iter: 192
+ct: 198
+hue_offset: 293
+saturation: -0.87
+
+num_attempts: 263
+dur: 601
+std: 8.03
+size: 1155424 (1.1 MiB)
+
+xmin: -0.9894191899655409
+xmax: -0.7166919172382682
+ymin: -1.0748717880453236
+ymax: -0.9214626971362327
+
+contrast: 1.37
+brightness: 0.0
+saturation: 1.57
+gamma: 0.99
+gamma_r: 0.95
+gamma_g: 1.08
+gamma_b: 1.04
+vignette: -44
+temp: 7280
