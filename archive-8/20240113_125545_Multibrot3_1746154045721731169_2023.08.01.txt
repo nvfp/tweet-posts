@@ -1,0 +1,28 @@
+tweet_id: 1746154045721731169
+masto_id: 111748746145281103
+subre_id: Not uploaded, but here's the text: Hope you have an amazing Saturday!  #DeepLearning #DigitalArt
+
+n_iter: 445
+ct: 255
+hue_offset: 317
+saturation: 0.96
+
+num_attempts: 534
+dur: 600
+std: 70.1
+size: 1602928 (1.53 MiB)
+
+xmin: 0.13279383090216434
+xmax: 0.14186412568674484
+ymin: -0.7659916773817316
+ymax: -0.7608896365654051
+
+contrast: 0.95
+brightness: 0.19
+saturation: 1.43
+gamma: 0.97
+gamma_r: 1.17
+gamma_g: 1.07
+gamma_b: 0.97
+vignette: 19
+temp: 6603
