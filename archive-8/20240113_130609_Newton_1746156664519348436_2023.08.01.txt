@@ -1,0 +1,31 @@
+tweet_id: 1746156664519348436
+masto_id: 111748787014732710
+subre_id: Not uploaded, but here's the text: Keep smiling!  #DeepLearning #GenerativeArt
+
+newton_power: 7
+newton_const: -1
+
+n_iter: 71
+ct: 217
+hue_offset: 346
+saturation: -0.57
+
+num_attempts: 160
+dur: 601
+std: 21.3
+size: 815268 (796.16 KiB)
+
+xmin: -0.02432963127099752
+xmax: 0.5211249141835479
+ymin: -0.1715001748851257
+ymax: 0.13531800693305607
+
+contrast: 1.48
+brightness: 0.15
+saturation: 0.94
+gamma: 1.05
+gamma_r: 1.03
+gamma_g: 1.01
+gamma_b: 0.93
+vignette: -21
+temp: 5965
