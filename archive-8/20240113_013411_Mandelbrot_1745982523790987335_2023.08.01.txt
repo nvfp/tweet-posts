@@ -1,0 +1,28 @@
+tweet_id: 1745982523790987335
+masto_id: 111746066102177677
+subre_id: Not uploaded, but here's the text: Beautiful Saturday with this Mandelbrot Set!  #DeepLearning #Art
+
+n_iter: 388
+ct: 1
+hue_offset: 131
+saturation: 0.64
+
+num_attempts: 69
+dur: 16
+std: 69.8
+size: 1299739 (1.24 MiB)
+
+xmin: -0.4580645003802801
+xmax: -0.45667561149139124
+ymin: -0.5557665216476998
+ymax: -0.5549852716476998
+
+contrast: 1.66
+brightness: -0.04
+saturation: 1.32
+gamma: 1.0
+gamma_r: 1.02
+gamma_g: 0.91
+gamma_b: 1.02
+vignette: -23
+temp: 7299
