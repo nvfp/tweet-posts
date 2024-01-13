@@ -1,0 +1,28 @@
+tweet_id: 1746111564766429207
+masto_id: 111748082337174197
+subre_id: Not uploaded, but here's the text: Have an awesome Saturday!  #Mathematics #DeepLearning
+
+n_iter: 274
+ct: 29
+hue_offset: 210
+saturation: 0.73
+
+num_attempts: 6
+dur: 3
+std: 22.28
+size: 663111 (647.57 KiB)
+
+xmin: -2.1734419947676544
+xmax: 0.07655800523234557
+ymin: -1.2086799317511012
+ymax: 0.05694506824889878
+
+contrast: 1.21
+brightness: 0.11
+saturation: 0.77
+gamma: 1.06
+gamma_r: 0.91
+gamma_g: 1.01
+gamma_b: 0.96
+vignette: 5
+temp: 6167
