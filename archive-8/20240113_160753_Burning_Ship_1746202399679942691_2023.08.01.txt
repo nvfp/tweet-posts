@@ -1,0 +1,28 @@
+tweet_id: 1746202399679942691
+masto_id: 111749501633678545
+subre_id: Not uploaded, but here's the text: Have an extraordinary Saturday!  #AI #DeepLearning
+
+n_iter: 257
+ct: 16
+hue_offset: 216
+saturation: 0.88
+
+num_attempts: 23
+dur: 8
+std: 33.52
+size: 1949397 (1.86 MiB)
+
+xmin: -0.7527118407733082
+xmax: -0.6708936589551264
+ymin: -0.8618885664980527
+ymax: -0.8158658392253254
+
+contrast: 1.46
+brightness: 0.06
+saturation: 1.65
+gamma: 0.95
+gamma_r: 0.93
+gamma_g: 1.0
+gamma_b: 1.01
+vignette: 28
+temp: 3210
