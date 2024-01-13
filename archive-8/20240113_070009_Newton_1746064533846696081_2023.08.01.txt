@@ -1,0 +1,31 @@
+tweet_id: 1746064533846696081
+masto_id: 111747347846261503
+subre_id: Not uploaded, but here's the text: Let this Newton brighten up your Saturday!  #DeepLearning #DigitalArt
+
+newton_power: 4
+newton_const: 7
+
+n_iter: 120
+ct: 38
+hue_offset: 195
+saturation: 0.52
+
+num_attempts: 273
+dur: 601
+std: 8.16
+size: 768241 (750.24 KiB)
+
+xmin: -0.10019064205199513
+xmax: 0.36134781948646644
+ymin: -0.04981506645395606
+ymax: 0.20980031816142858
+
+contrast: 0.9
+brightness: 0.12
+saturation: 1.5
+gamma: 0.98
+gamma_r: 1.06
+gamma_g: 1.0
+gamma_b: 0.9
+vignette: 17
+temp: 3317
