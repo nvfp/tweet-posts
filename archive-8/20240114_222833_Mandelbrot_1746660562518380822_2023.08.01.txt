@@ -1,0 +1,28 @@
+tweet_id: 1746660562518380822
+masto_id: 111756660791959371
+subre_id: Not uploaded, but here's the text: Let this Mandelbrot Set inspire your Sunday.  #Art #Fractals
+
+n_iter: 301
+ct: 203
+hue_offset: 204
+saturation: 0.69
+
+num_attempts: 8
+dur: 2
+std: 27.81
+size: 940239 (918.2 KiB)
+
+xmin: -0.23196152816148352
+xmax: -0.23139909846519555
+ymin: -0.7129740892537234
+ymax: -0.7126577225495614
+
+contrast: 1.17
+brightness: -0.0
+saturation: 0.33
+gamma: 1.08
+gamma_r: 1.01
+gamma_g: 0.93
+gamma_b: 1.01
+vignette: 7
+temp: 5235
