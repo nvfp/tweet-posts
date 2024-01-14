@@ -1,0 +1,28 @@
+tweet_id: 1746512946383982738
+masto_id: 111754353955614519
+subre_id: Not uploaded, but here's the text: A great Sunday and a beautiful Mandelbrot Set.  #GenerativeArt #Nature
+
+n_iter: 883
+ct: 137
+hue_offset: 217
+saturation: -0.09
+
+num_attempts: 79
+dur: 34
+std: 21.05
+size: 1000675 (977.22 KiB)
+
+xmin: -0.3829843745853987
+xmax: -0.3823947519438893
+ymin: 0.6482061406472683
+ymax: 0.6485378033831174
+
+contrast: 1.17
+brightness: 0.08
+saturation: 0.87
+gamma: 1.02
+gamma_r: 1.01
+gamma_g: 1.08
+gamma_b: 1.05
+vignette: -20
+temp: 7696
