@@ -1,0 +1,28 @@
+tweet_id: 1746603617073721549
+masto_id: 111755770601717706
+subre_id: Not uploaded, but here's the text: Hey there, it's Sunday!  #MachineLearning #Fractals
+
+n_iter: 394
+ct: 255
+hue_offset: 32
+saturation: -0.04
+
+num_attempts: 618
+dur: 600
+std: 67.68
+size: 1239657 (1.18 MiB)
+
+xmin: -0.4212407270126284
+xmax: -0.4158787967177222
+ymin: -0.5920663184464663
+ymax: -0.5890502326555815
+
+contrast: 1.28
+brightness: -0.1
+saturation: 1.31
+gamma: 0.92
+gamma_r: 0.9
+gamma_g: 1.01
+gamma_b: 1.06
+vignette: -37
+temp: 6181
