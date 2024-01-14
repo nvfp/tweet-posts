@@ -1,0 +1,28 @@
+tweet_id: 1746392430436335652
+masto_id: 111752470766802401
+subre_id: Not uploaded, but here's the text: Having a blast on Sunday?  #DigitalArt #GenerativeArt
+
+n_iter: 397
+ct: 1
+hue_offset: 269
+saturation: 0.31
+
+num_attempts: 614
+dur: 604
+std: 56.13
+size: 546268 (533.46 KiB)
+
+xmin: 0.1293625011684818
+xmax: 0.14050456244981885
+ymin: 0.7528516815298505
+ymax: 0.7591190910006026
+
+contrast: 1.54
+brightness: 0.02
+saturation: 1.62
+gamma: 0.88
+gamma_r: 1.01
+gamma_g: 1.06
+gamma_b: 1.19
+vignette: 22
+temp: 3680
