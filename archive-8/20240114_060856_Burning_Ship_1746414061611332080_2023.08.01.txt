@@ -1,0 +1,28 @@
+tweet_id: 1746414061611332080
+masto_id: 111752808816070879
+subre_id: Not uploaded, but here's the text: Sunday vibes!  #MachineLearning #GenerativeArt
+
+n_iter: 379
+ct: 165
+hue_offset: 24
+saturation: -0.48
+
+num_attempts: 9
+dur: 3
+std: 53.42
+size: 1162017 (1.11 MiB)
+
+xmin: -0.028848703184986668
+xmax: 0.19615129681501334
+ymin: -1.1622386855593414
+ymax: -1.0356761855593415
+
+contrast: 1.75
+brightness: -0.02
+saturation: 0.97
+gamma: 0.96
+gamma_r: 0.94
+gamma_g: 0.99
+gamma_b: 1.03
+vignette: 33
+temp: 5606
