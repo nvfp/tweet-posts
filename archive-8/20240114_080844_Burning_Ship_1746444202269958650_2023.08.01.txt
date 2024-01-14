@@ -1,0 +1,28 @@
+tweet_id: 1746444202269958650
+masto_id: 111753279849167681
+subre_id: Not uploaded, but here's the text: Happy Sunday!  #GenerativeArt #Mathematics
+
+n_iter: 414
+ct: 12
+hue_offset: 224
+saturation: -0.82
+
+num_attempts: 47
+dur: 14
+std: 26.65
+size: 1417656 (1.35 MiB)
+
+xmin: -1.5028804343677455
+xmax: -1.3477080205746421
+ymin: -0.4150152454888998
+ymax: -0.3277307627302791
+
+contrast: 1.72
+brightness: 0.05
+saturation: 1.04
+gamma: 1.07
+gamma_r: 0.97
+gamma_g: 1.06
+gamma_b: 1.02
+vignette: -27
+temp: 5387
