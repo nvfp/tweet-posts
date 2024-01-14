@@ -1,0 +1,28 @@
+tweet_id: 1746539830950109510
+masto_id: 111754774156300232
+subre_id: Not uploaded, but here's the text: Another Sunday, another Mandelbrot Set!  #MachineLearning #Nature
+
+n_iter: 896
+ct: 47
+hue_offset: 238
+saturation: 0.88
+
+num_attempts: 195
+dur: 102
+std: 21.92
+size: 1025605 (1001.57 KiB)
+
+xmin: 0.4069812914126918
+xmax: 0.461775811960637
+ymin: -0.3762111524357554
+ymax: -0.34538923462753623
+
+contrast: 0.75
+brightness: 0.01
+saturation: 0.42
+gamma: 1.01
+gamma_r: 1.03
+gamma_g: 0.97
+gamma_b: 0.99
+vignette: -29
+temp: 2907
