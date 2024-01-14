@@ -1,0 +1,28 @@
+tweet_id: 1746357974610612352
+masto_id: 111751932470272076
+subre_id: Not uploaded, but here's the text: Hope you have an amazing Sunday!  #Fractals #DigitalArt
+
+n_iter: 168
+ct: 197
+hue_offset: 52
+saturation: -0.54
+
+num_attempts: 22
+dur: 4
+std: 27.25
+size: 1587576 (1.51 MiB)
+
+xmin: -0.22625484540001883
+xmax: -0.021709390854564276
+ymin: -1.1524264812063942
+ymax: -1.0373696630245761
+
+contrast: 0.72
+brightness: 0.19
+saturation: 1.57
+gamma: 1.1
+gamma_r: 0.97
+gamma_g: 0.96
+gamma_b: 0.95
+vignette: -39
+temp: 7339
