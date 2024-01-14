@@ -1,0 +1,31 @@
+tweet_id: 1746608207320015326
+masto_id: 111755842618817895
+subre_id: Not uploaded, but here's the text: A great Sunday and a beautiful Newton.  #DeepLearning #GenerativeArt
+
+newton_power: 7
+newton_const: 5
+
+n_iter: 159
+ct: 138
+hue_offset: 252
+saturation: 0.22
+
+num_attempts: 146
+dur: 608
+std: 23.55
+size: 806412 (787.51 KiB)
+
+xmin: -0.4153931964985471
+xmax: -0.40614820420270736
+ymin: 0.3213982004430087
+ymax: 0.3265985086094186
+
+contrast: 1.42
+brightness: 0.18
+saturation: 1.51
+gamma: 1.03
+gamma_r: 0.93
+gamma_g: 0.92
+gamma_b: 0.91
+vignette: -8
+temp: 7602
