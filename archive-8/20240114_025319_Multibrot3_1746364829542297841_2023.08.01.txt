@@ -1,0 +1,28 @@
+tweet_id: 1746364829542297841
+masto_id: 111752039599160984
+subre_id: Not uploaded, but here's the text: Brighten your Sunday!  #DigitalArt #VisualArt
+
+n_iter: 666
+ct: 255
+hue_offset: 93
+saturation: -0.64
+
+num_attempts: 348
+dur: 604
+std: 84.0
+size: 796850 (778.17 KiB)
+
+xmin: 0.19994546993319418
+xmax: 0.20598776600570173
+ymin: 0.9275968810203397
+ymax: 0.9309956725611251
+
+contrast: 1.69
+brightness: 0.13
+saturation: 1.48
+gamma: 1.16
+gamma_r: 1.04
+gamma_g: 1.04
+gamma_b: 0.99
+vignette: 7
+temp: 6862
