@@ -1,0 +1,28 @@
+tweet_id: 1746483080435581251
+masto_id: 111753887276124755
+subre_id: Not uploaded, but here's the text: Hello Sunday! This Multibrot is yours!  #Mathematics #AI
+
+n_iter: 267
+ct: 255
+hue_offset: 107
+saturation: 1.0
+
+num_attempts: 848
+dur: 601
+std: 46.37
+size: 1253306 (1.2 MiB)
+
+xmin: 0.10943204561210917
+xmax: 0.11958432987606857
+ymin: -0.7690843543116798
+ymax: -0.7633736944132026
+
+contrast: 1.35
+brightness: 0.08
+saturation: 1.42
+gamma: 1.12
+gamma_r: 0.98
+gamma_g: 1.1
+gamma_b: 0.94
+vignette: -14
+temp: 7290
