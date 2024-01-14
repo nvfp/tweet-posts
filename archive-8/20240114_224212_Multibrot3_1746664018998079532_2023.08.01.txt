@@ -1,0 +1,28 @@
+tweet_id: 1746664018998079532
+masto_id: 111756714447136516
+subre_id: Not uploaded, but here's the text: Enjoy your Sunday!  #DigitalArt #MachineLearning
+
+n_iter: 484
+ct: 255
+hue_offset: 295
+saturation: 0.88
+
+num_attempts: 546
+dur: 603
+std: 48.22
+size: 787248 (768.8 KiB)
+
+xmin: 0.5630069180070403
+xmax: 0.567594073970343
+ymin: -0.16551657337637637
+ymax: -0.16293629814701857
+
+contrast: 1.0
+brightness: -0.09
+saturation: 1.66
+gamma: 0.91
+gamma_r: 1.09
+gamma_g: 1.0
+gamma_b: 0.86
+vignette: 26
+temp: 4882
