@@ -1,0 +1,28 @@
+tweet_id: 1746389035545759894
+masto_id: 111752417776636286
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Sunday!  #Mathematics #Fractals
+
+n_iter: 808
+ct: 71
+hue_offset: 235
+saturation: 0.51
+
+num_attempts: 23
+dur: 10
+std: 61.87
+size: 1861186 (1.77 MiB)
+
+xmin: -0.29878829103276816
+xmax: -0.29639164633534454
+ymin: -0.6540578034354403
+ymax: -0.6527096907931396
+
+contrast: 1.03
+brightness: 0.07
+saturation: 0.91
+gamma: 1.03
+gamma_r: 1.03
+gamma_g: 0.92
+gamma_b: 1.02
+vignette: -37
+temp: 2640
