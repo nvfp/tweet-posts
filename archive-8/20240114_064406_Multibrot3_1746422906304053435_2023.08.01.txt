@@ -1,0 +1,28 @@
+tweet_id: 1746422906304053435
+masto_id: 111752947061431441
+subre_id: Not uploaded, but here's the text: Wishing you a wonderful Sunday!  #Fractals #Nature
+
+n_iter: 543
+ct: 255
+hue_offset: 295
+saturation: 0.25
+
+num_attempts: 459
+dur: 606
+std: 81.88
+size: 1199287 (1.14 MiB)
+
+xmin: -0.5498006889697777
+xmax: -0.5452240299308762
+ymin: 0.29934475667768434
+ymax: 0.3019191273870665
+
+contrast: 0.79
+brightness: 0.03
+saturation: 1.02
+gamma: 0.86
+gamma_r: 1.17
+gamma_g: 0.87
+gamma_b: 1.07
+vignette: -35
+temp: 5422
