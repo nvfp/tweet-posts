@@ -1,0 +1,28 @@
+tweet_id: 1746452623169909074
+masto_id: 111753411341029859
+subre_id: Not uploaded, but here's the text: This Sunday is made even better by this Multibrot!  #Art #AI
+
+n_iter: 337
+ct: 255
+hue_offset: 205
+saturation: -0.24
+
+num_attempts: 676
+dur: 601
+std: 50.77
+size: 883739 (863.03 KiB)
+
+xmin: -0.37696101083205047
+xmax: -0.37272372269645726
+ymin: -0.7036478874194926
+ymax: -0.7012644128432214
+
+contrast: 0.9
+brightness: 0.03
+saturation: 0.27
+gamma: 1.15
+gamma_r: 1.07
+gamma_g: 0.91
+gamma_b: 0.85
+vignette: -5
+temp: 2360
