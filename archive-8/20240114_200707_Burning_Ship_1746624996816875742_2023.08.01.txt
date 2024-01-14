@@ -1,0 +1,28 @@
+tweet_id: 1746624996816875742
+masto_id: 111756104663117355
+subre_id: Not uploaded, but here's the text: Warm wishes for your Sunday, and let's have a look at this Burning Ship.  #DeepLearning #Nature
+
+n_iter: 412
+ct: 45
+hue_offset: 164
+saturation: -0.86
+
+num_attempts: 5
+dur: 1
+std: 68.54
+size: 2179156 (2.08 MiB)
+
+xmin: 0.03260186541661669
+xmax: 0.08885186541661669
+ymin: -1.102651389226574
+ymax: -1.0710107642265738
+
+contrast: 1.29
+brightness: 0.2
+saturation: 0.72
+gamma: 1.09
+gamma_r: 1.01
+gamma_g: 1.04
+gamma_b: 1.07
+vignette: -35
+temp: 5741
