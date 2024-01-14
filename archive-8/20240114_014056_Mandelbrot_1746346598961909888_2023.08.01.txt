@@ -1,0 +1,28 @@
+tweet_id: 1746346598961909888
+masto_id: 111751754915744321
+subre_id: Not uploaded, but here's the text: Chin up, buttercup!  #DigitalArt #Fractals
+
+n_iter: 554
+ct: 28
+hue_offset: 323
+saturation: 0.8
+
+num_attempts: 47
+dur: 19
+std: 31.66
+size: 813660 (794.59 KiB)
+
+xmin: -1.107284467382448
+xmax: -1.1003400229380036
+ymin: 0.24604938370514962
+ymax: 0.24995563370514962
+
+contrast: 0.88
+brightness: 0.03
+saturation: 0.36
+gamma: 0.95
+gamma_r: 0.94
+gamma_g: 0.91
+gamma_b: 1.03
+vignette: 5
+temp: 4662
