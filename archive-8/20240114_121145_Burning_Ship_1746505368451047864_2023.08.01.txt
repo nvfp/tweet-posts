@@ -1,0 +1,28 @@
+tweet_id: 1746505368451047864
+masto_id: 111754235450006688
+subre_id: Not uploaded, but here's the text: Hey there, it's Sunday!  #DigitalArt #VisualArt
+
+n_iter: 395
+ct: 135
+hue_offset: 284
+saturation: 0.06
+
+num_attempts: 26
+dur: 9
+std: 39.9
+size: 1959997 (1.87 MiB)
+
+xmin: -0.9086223026256006
+xmax: -0.829674934204548
+ymin: -0.7607362504838713
+ymax: -0.7163283557470291
+
+contrast: 1.37
+brightness: 0.1
+saturation: 0.43
+gamma: 0.91
+gamma_r: 1.06
+gamma_g: 1.08
+gamma_b: 0.96
+vignette: -35
+temp: 7916
