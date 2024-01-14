@@ -1,0 +1,31 @@
+tweet_id: 1746457191421493745
+masto_id: 111753482738193381
+subre_id: Not uploaded, but here's the text: Keep shining on Sunday!  #MachineLearning #Fractals
+
+newton_power: 7
+newton_const: 9
+
+n_iter: 66
+ct: 105
+hue_offset: 80
+saturation: 0.4
+
+num_attempts: 158
+dur: 600
+std: 21.32
+size: 793754 (775.15 KiB)
+
+xmin: -0.4277595310463598
+xmax: -0.4187233864680465
+ymin: -0.9744275676807892
+ymax: -0.969344736355488
+
+contrast: 1.52
+brightness: -0.05
+saturation: 1.54
+gamma: 1.03
+gamma_r: 1.1
+gamma_g: 0.97
+gamma_b: 0.91
+vignette: -13
+temp: 7456
