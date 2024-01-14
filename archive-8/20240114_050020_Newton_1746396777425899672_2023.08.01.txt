@@ -1,0 +1,31 @@
+tweet_id: 1746396777425899672
+masto_id: 111752539065274841
+subre_id: Not uploaded, but here's the text: Enjoying the Sunday with this Newton.  #Art #MachineLearning
+
+newton_power: 4
+newton_const: 2
+
+n_iter: 156
+ct: 116
+hue_offset: 110
+saturation: 0.51
+
+num_attempts: 271
+dur: 600
+std: 7.82
+size: 832116 (812.61 KiB)
+
+xmin: 0.15964456554559714
+xmax: 0.17498983408779661
+ymin: 0.7583828119475453
+ymax: 0.7670145255025326
+
+contrast: 0.71
+brightness: -0.05
+saturation: 0.89
+gamma: 1.01
+gamma_r: 1.05
+gamma_g: 1.04
+gamma_b: 1.04
+vignette: -15
+temp: 3021
