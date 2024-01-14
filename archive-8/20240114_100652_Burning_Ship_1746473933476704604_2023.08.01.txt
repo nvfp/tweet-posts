@@ -1,0 +1,28 @@
+tweet_id: 1746473933476704604
+masto_id: 111753744394454401
+subre_id: Not uploaded, but here's the text: Have an extraordinary Sunday!  #DeepLearning #MachineLearning
+
+n_iter: 274
+ct: 158
+hue_offset: 191
+saturation: 0.32
+
+num_attempts: 11
+dur: 2
+std: 22.99
+size: 783274 (764.92 KiB)
+
+xmin: -1.9658789187159498
+xmax: -1.3230217758588068
+ymin: -0.40787384049100095
+ymax: -0.046266697633858045
+
+contrast: 1.52
+brightness: 0.17
+saturation: 0.56
+gamma: 0.92
+gamma_r: 1.0
+gamma_g: 1.07
+gamma_b: 0.95
+vignette: -39
+temp: 2653
