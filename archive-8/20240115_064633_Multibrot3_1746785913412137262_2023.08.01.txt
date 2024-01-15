@@ -1,0 +1,28 @@
+tweet_id: 1746785913412137262
+masto_id: 111758619026387061
+subre_id: Not uploaded, but here's the text: Cheers to a fantastic Monday!  #Art #Fractals
+
+n_iter: 702
+ct: 1
+hue_offset: 4
+saturation: -0.56
+
+num_attempts: 475
+dur: 606
+std: 91.59
+size: 903114 (881.95 KiB)
+
+xmin: 0.15454515333258367
+xmax: 0.15968654150739087
+ymin: 0.8313925447864619
+ymax: 0.8342845756347909
+
+contrast: 1.24
+brightness: 0.05
+saturation: 0.3
+gamma: 1.08
+gamma_r: 1.16
+gamma_g: 1.12
+gamma_b: 1.0
+vignette: 10
+temp: 4056
