@@ -1,0 +1,28 @@
+tweet_id: 1746711394698014817
+masto_id: 111757454692895310
+subre_id: Not uploaded, but here's the text: Hope your Monday is awesome!  #MachineLearning #DeepLearning
+
+n_iter: 427
+ct: 1
+hue_offset: 162
+saturation: 0.0
+
+num_attempts: 516
+dur: 605
+std: 61.93
+size: 930816 (909.0 KiB)
+
+xmin: 0.40564094808281403
+xmax: 0.41304835549022145
+ymin: 0.6255688726198994
+ymax: 0.629735539286566
+
+contrast: 0.77
+brightness: 0.09
+saturation: 0.44
+gamma: 0.85
+gamma_r: 1.1
+gamma_g: 1.15
+gamma_b: 1.11
+vignette: 20
+temp: 7087
