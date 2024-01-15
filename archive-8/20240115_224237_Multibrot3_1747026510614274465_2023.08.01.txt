@@ -1,0 +1,28 @@
+tweet_id: 1747026510614274465
+masto_id: 111762378414193998
+subre_id: Not uploaded, but here's the text: Hey there, it's Monday!  #Mathematics #AI
+
+n_iter: 351
+ct: 1
+hue_offset: 327
+saturation: 0.57
+
+num_attempts: 603
+dur: 603
+std: 62.26
+size: 878295 (857.71 KiB)
+
+xmin: -0.06772398887457154
+xmax: -0.06301810652163037
+ymin: 0.7783255445679669
+ymax: 0.7809726033914963
+
+contrast: 0.85
+brightness: 0.07
+saturation: 0.25
+gamma: 1.06
+gamma_r: 1.14
+gamma_g: 1.15
+gamma_b: 1.01
+vignette: 25
+temp: 7625
