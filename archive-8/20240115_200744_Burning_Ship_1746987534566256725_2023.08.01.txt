@@ -1,0 +1,28 @@
+tweet_id: 1746987534566256725
+masto_id: 111761769368127524
+subre_id: Not uploaded, but here's the text: Happy Monday! Enjoy the beauty of Burning Ship.  #DigitalArt #Fractals
+
+n_iter: 134
+ct: 127
+hue_offset: 68
+saturation: -0.66
+
+num_attempts: 26
+dur: 5
+std: 22.23
+size: 2033679 (1.94 MiB)
+
+xmin: -0.8857442863478344
+xmax: -0.6982442863478344
+ymin: -0.9802510542873268
+ymax: -0.8747823042873268
+
+contrast: 0.91
+brightness: 0.16
+saturation: 1.17
+gamma: 1.1
+gamma_r: 1.01
+gamma_g: 0.95
+gamma_b: 1.05
+vignette: -47
+temp: 3792
