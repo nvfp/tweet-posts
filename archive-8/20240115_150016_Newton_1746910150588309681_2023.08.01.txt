@@ -1,0 +1,31 @@
+tweet_id: 1746910150588309681
+masto_id: 111760560378899281
+subre_id: Not uploaded, but here's the text: Wishing you a fantastic day!  #Nature #Art
+
+newton_power: 5
+newton_const: 5
+
+n_iter: 244
+ct: 228
+hue_offset: 168
+saturation: 0.48
+
+num_attempts: 217
+dur: 601
+std: 12.65
+size: 988280 (965.12 KiB)
+
+xmin: 0.8899407154828327
+xmax: 0.9033037444360621
+ymin: 0.277468807904107
+ymax: 0.2849855116902985
+
+contrast: 0.83
+brightness: 0.13
+saturation: 1.53
+gamma: 0.91
+gamma_r: 1.07
+gamma_g: 1.04
+gamma_b: 0.92
+vignette: -31
+temp: 3363
