@@ -1,0 +1,31 @@
+tweet_id: 1746970509001015503
+masto_id: 111761503527706517
+subre_id: Not uploaded, but here's the text: Brighten your Monday!  #Nature #GenerativeArt
+
+newton_power: 3
+newton_const: -1
+
+n_iter: 142
+ct: 222
+hue_offset: 169
+saturation: -0.21
+
+num_attempts: 537
+dur: 600
+std: 4.16
+size: 791007 (772.47 KiB)
+
+xmin: 0.24522093705586423
+xmax: 0.27064466586942354
+ymin: -0.17719342974377028
+ymax: -0.16289258228614317
+
+contrast: 1.57
+brightness: 0.03
+saturation: 1.0
+gamma: 0.92
+gamma_r: 1.01
+gamma_g: 1.04
+gamma_b: 0.95
+vignette: 23
+temp: 7512
