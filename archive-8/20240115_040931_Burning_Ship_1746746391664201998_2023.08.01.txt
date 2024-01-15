@@ -1,0 +1,28 @@
+tweet_id: 1746746391664201998
+masto_id: 111758001512485348
+subre_id: Not uploaded, but here's the text: Hello Monday! This Burning Ship is yours!  #DeepLearning #AI
+
+n_iter: 138
+ct: 114
+hue_offset: 54
+saturation: 0.38
+
+num_attempts: 27
+dur: 4
+std: 21.09
+size: 1155447 (1.1 MiB)
+
+xmin: -1.5594067200307127
+xmax: -1.392740053364046
+ymin: -0.25580407689702134
+ymax: -0.16205407689702134
+
+contrast: 1.46
+brightness: -0.08
+saturation: 1.39
+gamma: 1.09
+gamma_r: 1.0
+gamma_g: 1.1
+gamma_b: 0.95
+vignette: 14
+temp: 6985
