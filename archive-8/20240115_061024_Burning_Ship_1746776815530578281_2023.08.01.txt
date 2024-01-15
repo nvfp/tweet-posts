@@ -1,0 +1,28 @@
+tweet_id: 1746776815530578281
+masto_id: 111758476854515627
+subre_id: Not uploaded, but here's the text: Let this Burning Ship brighten up your Monday!  #GenerativeArt #Mathematics
+
+n_iter: 487
+ct: 6
+hue_offset: 321
+saturation: -0.36
+
+num_attempts: 2
+dur: 1
+std: 33.36
+size: 766030 (748.08 KiB)
+
+xmin: -0.0036486058048916803
+xmax: 1.1213513941951083
+ymin: -1.5882511565772937
+ymax: -0.9554386565772937
+
+contrast: 1.18
+brightness: -0.04
+saturation: 1.16
+gamma: 0.93
+gamma_r: 1.0
+gamma_g: 1.0
+gamma_b: 0.97
+vignette: -6
+temp: 4175
