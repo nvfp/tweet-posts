@@ -1,0 +1,28 @@
+tweet_id: 1746708737845281146
+masto_id: 111757413268682376
+subre_id: Not uploaded, but here's the text: Let this Mandelbrot Set inspire your Monday.  #MachineLearning #Fractals
+
+n_iter: 349
+ct: 130
+hue_offset: 250
+saturation: 0.96
+
+num_attempts: 339
+dur: 103
+std: 32.06
+size: 1279376 (1.22 MiB)
+
+xmin: -0.22502162090514632
+xmax: -0.2243508176182102
+ymin: -0.6998847154000217
+ymax: -0.6995073885511202
+
+contrast: 0.85
+brightness: -0.06
+saturation: 1.03
+gamma: 1.05
+gamma_r: 0.97
+gamma_g: 0.97
+gamma_b: 0.95
+vignette: -40
+temp: 4231
