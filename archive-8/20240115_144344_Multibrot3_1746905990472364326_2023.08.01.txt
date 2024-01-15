@@ -1,0 +1,28 @@
+tweet_id: 1746905990472364326
+masto_id: 111760495385833864
+subre_id: Not uploaded, but here's the text: Enjoy your Monday!  #Nature #DeepLearning
+
+n_iter: 269
+ct: 1
+hue_offset: 316
+saturation: 0.98
+
+num_attempts: 787
+dur: 600
+std: 52.86
+size: 920557 (898.98 KiB)
+
+xmin: 0.5096594150920897
+xmax: 0.5169720293516875
+ymin: 0.43971772134898535
+ymax: 0.4438310668700091
+
+contrast: 1.37
+brightness: 0.19
+saturation: 1.71
+gamma: 1.11
+gamma_r: 0.9
+gamma_g: 1.02
+gamma_b: 0.91
+vignette: 32
+temp: 3453
