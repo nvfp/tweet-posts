@@ -1,0 +1,28 @@
+tweet_id: 1746902815849795820
+masto_id: 111760445772254659
+subre_id: Not uploaded, but here's the text: Smile, it's Monday!  #GenerativeArt #Mathematics
+
+n_iter: 545
+ct: 142
+hue_offset: 243
+saturation: -0.88
+
+num_attempts: 242
+dur: 102
+std: 132.09
+size: 832607 (813.09 KiB)
+
+xmin: -0.15566304575472856
+xmax: -0.15505560460059037
+ymin: -0.654447666361168
+ymax: -0.6541059807119652
+
+contrast: 1.6
+brightness: -0.09
+saturation: 1.15
+gamma: 0.96
+gamma_r: 1.09
+gamma_g: 1.07
+gamma_b: 0.98
+vignette: -27
+temp: 6554
