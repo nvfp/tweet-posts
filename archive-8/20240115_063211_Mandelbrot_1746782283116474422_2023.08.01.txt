@@ -1,0 +1,28 @@
+tweet_id: 1746782283116474422
+masto_id: 111758562481567449
+subre_id: Not uploaded, but here's the text: Monday vibes!  #Mathematics #MachineLearning
+
+n_iter: 612
+ct: 35
+hue_offset: 23
+saturation: 0.3
+
+num_attempts: 13
+dur: 9
+std: 18.62
+size: 1116941 (1.07 MiB)
+
+xmin: -0.40207928029504547
+xmax: -0.4013975008506957
+ymin: -0.6391465435747372
+ymax: -0.6387630426372904
+
+contrast: 1.76
+brightness: -0.05
+saturation: 1.13
+gamma: 1.05
+gamma_r: 0.92
+gamma_g: 0.91
+gamma_b: 1.02
+vignette: 16
+temp: 3584
