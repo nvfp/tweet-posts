@@ -1,0 +1,28 @@
+tweet_id: 1746807032471040479
+masto_id: 111758949029161915
+subre_id: Not uploaded, but here's the text: Beautiful Monday with this Burning Ship!  #Mathematics #MachineLearning
+
+n_iter: 371
+ct: 73
+hue_offset: 188
+saturation: -0.02
+
+num_attempts: 1
+dur: 0
+std: 53.63
+size: 1963356 (1.87 MiB)
+
+xmin: -1.0031847580618496
+xmax: -0.8625597580618496
+ymin: -0.686692360183969
+ymax: -0.607590797683969
+
+contrast: 1.47
+brightness: 0.17
+saturation: 1.71
+gamma: 0.97
+gamma_r: 1.07
+gamma_g: 0.94
+gamma_b: 1.0
+vignette: -24
+temp: 6845
