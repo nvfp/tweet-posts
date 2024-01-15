@@ -1,0 +1,28 @@
+tweet_id: 1746966353901437321
+masto_id: 111761438464281514
+subre_id: Not uploaded, but here's the text: Have an extraordinary Monday!  #DeepLearning #AI
+
+n_iter: 631
+ct: 1
+hue_offset: 206
+saturation: 0.71
+
+num_attempts: 370
+dur: 602
+std: 83.46
+size: 1088044 (1.04 MiB)
+
+xmin: -0.10298581461728418
+xmax: -0.09896975036025607
+ymin: -0.7922376614130607
+ymax: -0.7899786252684824
+
+contrast: 0.85
+brightness: 0.04
+saturation: 0.47
+gamma: 0.9
+gamma_r: 0.86
+gamma_g: 1.17
+gamma_b: 1.14
+vignette: -17
+temp: 5408
