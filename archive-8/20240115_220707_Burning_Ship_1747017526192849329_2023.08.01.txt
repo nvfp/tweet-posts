@@ -1,0 +1,28 @@
+tweet_id: 1747017526192849329
+masto_id: 111762238679000083
+subre_id: Not uploaded, but here's the text: Wishing you a wonderful Monday!  #Art #VisualArt
+
+n_iter: 179
+ct: 174
+hue_offset: 93
+saturation: 0.6
+
+num_attempts: 26
+dur: 5
+std: 28.64
+size: 1270997 (1.21 MiB)
+
+xmin: 0.0381090089942151
+xmax: 0.18327029931679575
+ymin: -1.1371768422398438
+ymax: -1.0555236164333923
+
+contrast: 1.54
+brightness: 0.19
+saturation: 0.66
+gamma: 0.96
+gamma_r: 0.95
+gamma_g: 0.96
+gamma_b: 0.97
+vignette: 21
+temp: 6175
