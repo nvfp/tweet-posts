@@ -1,0 +1,28 @@
+tweet_id: 1746992203958751530
+masto_id: 111761842378099407
+subre_id: Not uploaded, but here's the text: Have a great day!  #Mathematics #DeepLearning
+
+n_iter: 526
+ct: 207
+hue_offset: 104
+saturation: 0.84
+
+num_attempts: 100
+dur: 36
+std: 43.27
+size: 1297414 (1.24 MiB)
+
+xmin: -0.042057247497966355
+xmax: -0.04159694830348994
+ymin: -0.80198700270075
+ymax: -0.801728084403857
+
+contrast: 1.51
+brightness: 0.21
+saturation: 0.76
+gamma: 1.1
+gamma_r: 1.05
+gamma_g: 1.04
+gamma_b: 1.08
+vignette: 10
+temp: 2999
