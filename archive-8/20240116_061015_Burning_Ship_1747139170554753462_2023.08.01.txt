@@ -1,0 +1,28 @@
+tweet_id: 1747139170554753462
+masto_id: 111764138609485826
+subre_id: Not uploaded, but here's the text: Guess what? It's Burning Ship!  #Fractals #MachineLearning
+
+n_iter: 459
+ct: 116
+hue_offset: 291
+saturation: -0.78
+
+num_attempts: 5
+dur: 2
+std: 36.81
+size: 430008 (419.93 KiB)
+
+xmin: -0.18613387822691507
+xmax: -0.06113387822691507
+ymin: -0.9748117117464066
+ymax: -0.9044992117464066
+
+contrast: 1.7
+brightness: 0.12
+saturation: 1.22
+gamma: 0.98
+gamma_r: 0.96
+gamma_g: 0.93
+gamma_b: 1.1
+vignette: -9
+temp: 4185
