@@ -1,0 +1,28 @@
+tweet_id: 1747069889330786723
+masto_id: 111763056323409394
+subre_id: Not uploaded, but here's the text: Another Tuesday, another Mandelbrot Set!  #DigitalArt #GenerativeArt
+
+n_iter: 167
+ct: 69
+hue_offset: 182
+saturation: -0.91
+
+num_attempts: 9
+dur: 2
+std: 33.62
+size: 1018239 (994.37 KiB)
+
+xmin: 0.3639695238330978
+xmax: 0.36451211743049333
+ymin: 0.31094772994124886
+ymax: 0.31125293883978383
+
+contrast: 0.96
+brightness: 0.2
+saturation: 0.43
+gamma: 0.98
+gamma_r: 1.06
+gamma_g: 1.01
+gamma_b: 1.1
+vignette: -20
+temp: 6152
