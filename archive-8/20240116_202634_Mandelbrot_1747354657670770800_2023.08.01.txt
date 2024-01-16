@@ -1,0 +1,28 @@
+tweet_id: 1747354657670770800
+masto_id: 111767505720621381
+subre_id: Not uploaded, but here's the text: Mandelbrot Set vibes to brighten your Tuesday.  #MachineLearning #VisualArt
+
+n_iter: 903
+ct: 227
+hue_offset: 137
+saturation: 0.2
+
+num_attempts: 24
+dur: 8
+std: 46.61
+size: 685916 (669.84 KiB)
+
+xmin: 0.01652972734930369
+xmax: 0.016993979902692736
+ymin: -0.6459612907810192
+ymax: -0.6457001487197378
+
+contrast: 1.63
+brightness: -0.03
+saturation: 1.52
+gamma: 1.04
+gamma_r: 1.01
+gamma_g: 1.1
+gamma_b: 0.92
+vignette: -13
+temp: 3031
