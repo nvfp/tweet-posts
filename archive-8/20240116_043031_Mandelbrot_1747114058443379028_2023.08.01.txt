@@ -1,0 +1,28 @@
+tweet_id: 1747114058443379028
+masto_id: 111763746387762994
+subre_id: Not uploaded, but here's the text: Wishing you a fantastic day!  #DeepLearning #Nature
+
+n_iter: 185
+ct: 168
+hue_offset: 14
+saturation: 0.39
+
+num_attempts: 43
+dur: 11
+std: 44.38
+size: 614317 (599.92 KiB)
+
+xmin: 0.3390980459808066
+xmax: 0.33970181956571227
+ymin: 0.050837083145132356
+ymax: 0.05117670578664179
+
+contrast: 0.94
+brightness: 0.04
+saturation: 1.65
+gamma: 1.08
+gamma_r: 1.0
+gamma_g: 1.06
+gamma_b: 1.04
+vignette: -39
+temp: 3777
