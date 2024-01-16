@@ -1,0 +1,31 @@
+tweet_id: 1747332941435564237
+masto_id: 111767166899644069
+subre_id: Not uploaded, but here's the text: Happy Tuesday! Enjoy the beauty of Newton.  #Nature #AI
+
+newton_power: 3
+newton_const: 7
+
+n_iter: 99
+ct: 78
+hue_offset: 346
+saturation: -0.71
+
+num_attempts: 539
+dur: 600
+std: 4.24
+size: 1017419 (993.57 KiB)
+
+xmin: 0.45537547964920044
+xmax: 0.5364565607302816
+ymin: 0.248502291612696
+ymax: 0.2941103997208041
+
+contrast: 0.86
+brightness: 0.17
+saturation: 1.67
+gamma: 1.02
+gamma_r: 1.07
+gamma_g: 0.93
+gamma_b: 0.93
+vignette: -42
+temp: 5494
