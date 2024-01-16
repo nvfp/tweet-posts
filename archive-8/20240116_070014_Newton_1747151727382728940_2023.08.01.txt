@@ -1,0 +1,31 @@
+tweet_id: 1747151727382728940
+masto_id: 111764334852203502
+subre_id: Not uploaded, but here's the text: Let this Newton inspire your Tuesday.  #Nature #Fractals
+
+newton_power: 4
+newton_const: -10
+
+n_iter: 149
+ct: 158
+hue_offset: 297
+saturation: -0.62
+
+num_attempts: 252
+dur: 601
+std: 7.88
+size: 315292 (307.9 KiB)
+
+xmin: 1.220286563357421
+xmax: 1.2457102921709802
+ymin: 1.597167677032684
+ymax: 1.611468524490311
+
+contrast: 1.7
+brightness: -0.06
+saturation: 1.07
+gamma: 0.97
+gamma_r: 0.9
+gamma_g: 0.92
+gamma_b: 1.1
+vignette: 0
+temp: 2726
