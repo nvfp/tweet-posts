@@ -1,0 +1,28 @@
+tweet_id: 1747147965905404048
+masto_id: 111764276077554587
+subre_id: Not uploaded, but here's the text: Happy Tuesday!  #Fractals #GenerativeArt
+
+n_iter: 475
+ct: 255
+hue_offset: 59
+saturation: 0.87
+
+num_attempts: 509
+dur: 603
+std: 55.29
+size: 1130958 (1.08 MiB)
+
+xmin: 0.09265873179617579
+xmax: 0.10022016846914365
+ymin: -1.1507151856522915
+ymax: -1.146461877523747
+
+contrast: 1.63
+brightness: 0.04
+saturation: 0.73
+gamma: 1.14
+gamma_r: 0.87
+gamma_g: 1.07
+gamma_b: 0.94
+vignette: -21
+temp: 4720
