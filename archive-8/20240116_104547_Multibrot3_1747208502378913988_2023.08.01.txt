@@ -1,0 +1,28 @@
+tweet_id: 1747208502378913988
+masto_id: 111765222011599982
+subre_id: Not uploaded, but here's the text: Let this Multibrot inspire your Tuesday.  #GenerativeArt #Nature
+
+n_iter: 512
+ct: 255
+hue_offset: 122
+saturation: -0.48
+
+num_attempts: 484
+dur: 605
+std: 68.04
+size: 1239583 (1.18 MiB)
+
+xmin: 0.40644354710829367
+xmax: 0.42878991582337744
+ymin: 0.59030617114131
+ymax: 0.6028760035435446
+
+contrast: 0.82
+brightness: 0.1
+saturation: 0.42
+gamma: 1.13
+gamma_r: 0.8
+gamma_g: 0.98
+gamma_b: 0.84
+vignette: -24
+temp: 7918
