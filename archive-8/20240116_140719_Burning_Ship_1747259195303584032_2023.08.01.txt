@@ -1,0 +1,28 @@
+tweet_id: 1747259195303584032
+masto_id: 111766014473432338
+subre_id: Not uploaded, but here's the text: you are cool  #MachineLearning #Fractals
+
+n_iter: 500
+ct: 149
+hue_offset: 193
+saturation: 0.55
+
+num_attempts: 7
+dur: 7
+std: 27.72
+size: 650153 (634.92 KiB)
+
+xmin: -0.7004935799352678
+xmax: -0.40049357993526785
+ymin: -0.7252937667277695
+ymax: -0.5565437667277695
+
+contrast: 0.81
+brightness: -0.05
+saturation: 1.05
+gamma: 1.02
+gamma_r: 1.05
+gamma_g: 1.0
+gamma_b: 1.04
+vignette: -24
+temp: 4885
