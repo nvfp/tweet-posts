@@ -1,0 +1,31 @@
+tweet_id: 1747393357284843744
+masto_id: 111768110346666589
+subre_id: Not uploaded, but here's the text: Happy Tuesday! Enjoy the beauty of Newton.  #GenerativeArt #Nature
+
+newton_power: 5
+newton_const: 8
+
+n_iter: 141
+ct: 1
+hue_offset: 40
+saturation: 0.39
+
+num_attempts: 206
+dur: 600
+std: 13.79
+size: 630022 (615.26 KiB)
+
+xmin: -2.314485171236696
+xmax: -2.083715940467465
+ymin: -1.731539298591083
+ymax: -1.6017316062833906
+
+contrast: 0.95
+brightness: 0.2
+saturation: 0.74
+gamma: 0.95
+gamma_r: 1.05
+gamma_g: 1.04
+gamma_b: 0.91
+vignette: 17
+temp: 7930
