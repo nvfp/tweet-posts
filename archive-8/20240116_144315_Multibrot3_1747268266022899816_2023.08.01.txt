@@ -1,0 +1,28 @@
+tweet_id: 1747268266022899816
+masto_id: 111766155727610922
+subre_id: Not uploaded, but here's the text: Hope you're having a great Tuesday!  #MachineLearning #AI
+
+n_iter: 465
+ct: 255
+hue_offset: 44
+saturation: 0.76
+
+num_attempts: 439
+dur: 600
+std: 81.56
+size: 738503 (721.19 KiB)
+
+xmin: -0.5480460467019683
+xmax: -0.5422823579411614
+ymin: 0.32656892703458484
+ymax: 0.3298110019625387
+
+contrast: 1.74
+brightness: 0.16
+saturation: 0.44
+gamma: 0.83
+gamma_r: 1.0
+gamma_g: 0.86
+gamma_b: 0.84
+vignette: -42
+temp: 2795
