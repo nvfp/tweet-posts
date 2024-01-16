@@ -1,0 +1,28 @@
+tweet_id: 1747264854363422832
+masto_id: 111766102419895250
+subre_id: Not uploaded, but here's the text: Beautiful Tuesday with this Mandelbrot Set!  #Mathematics #DeepLearning
+
+n_iter: 910
+ct: 33
+hue_offset: 7
+saturation: -0.17
+
+num_attempts: 30
+dur: 24
+std: 139.16
+size: 1872691 (1.79 MiB)
+
+xmin: -0.37837443733502285
+xmax: -0.3772767424941886
+ymin: 0.5992400452613817
+ymax: 0.599857498609351
+
+contrast: 0.86
+brightness: -0.1
+saturation: 1.73
+gamma: 1.1
+gamma_r: 1.02
+gamma_g: 0.93
+gamma_b: 1.06
+vignette: 21
+temp: 7701
