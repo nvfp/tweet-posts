@@ -1,0 +1,28 @@
+tweet_id: 1747328795856560604
+masto_id: 111767101517247483
+subre_id: Not uploaded, but here's the text: Hope you have an amazing Tuesday!  #Art #VisualArt
+
+n_iter: 588
+ct: 1
+hue_offset: 310
+saturation: -0.99
+
+num_attempts: 499
+dur: 600
+std: 90.6
+size: 1375308 (1.31 MiB)
+
+xmin: 0.5454623749930168
+xmax: 0.5507463908450643
+ymin: 0.3548492842808959
+ymax: 0.3578215431976727
+
+contrast: 1.79
+brightness: 0.19
+saturation: 1.2
+gamma: 0.98
+gamma_r: 0.98
+gamma_g: 1.09
+gamma_b: 0.95
+vignette: -40
+temp: 7886
