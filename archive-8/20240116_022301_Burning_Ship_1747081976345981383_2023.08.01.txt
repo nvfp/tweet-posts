@@ -1,0 +1,28 @@
+tweet_id: 1747081976345981383
+masto_id: 111763245033301688
+subre_id: Not uploaded, but here's the text: Hey wait, look! it's Burning Ship!  #Nature #VisualArt
+
+n_iter: 404
+ct: 6
+hue_offset: 338
+saturation: 0.3
+
+num_attempts: 6
+dur: 4
+std: 50.2
+size: 712678 (695.97 KiB)
+
+xmin: 0.5262510869051651
+xmax: 0.7762510869051651
+ymin: -1.1514259653665753
+ymax: -1.0108009653665753
+
+contrast: 1.5
+brightness: 0.18
+saturation: 0.54
+gamma: 0.95
+gamma_r: 0.92
+gamma_g: 1.07
+gamma_b: 0.98
+vignette: 10
+temp: 7864
