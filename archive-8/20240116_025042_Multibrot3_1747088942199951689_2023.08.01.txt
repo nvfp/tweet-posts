@@ -1,0 +1,28 @@
+tweet_id: 1747088942199951689
+masto_id: 111763353893153928
+subre_id: Not uploaded, but here's the text: you are fantastic!  #DigitalArt #AI
+
+n_iter: 433
+ct: 1
+hue_offset: 3
+saturation: 0.44
+
+num_attempts: 516
+dur: 601
+std: 64.29
+size: 1539795 (1.47 MiB)
+
+xmin: 0.28571660432863144
+xmax: 0.2933794395776736
+ymin: -0.7089478783890626
+ymax: -0.7046375335614764
+
+contrast: 1.0
+brightness: 0.08
+saturation: 1.02
+gamma: 0.98
+gamma_r: 0.83
+gamma_g: 1.19
+gamma_b: 0.94
+vignette: 31
+temp: 7361
