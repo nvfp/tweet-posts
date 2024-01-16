@@ -1,0 +1,31 @@
+tweet_id: 1747181893626310687
+masto_id: 111764806292395968
+subre_id: Not uploaded, but here's the text: Wishing you a wonderful Tuesday!  #VisualArt #MachineLearning
+
+newton_power: 4
+newton_const: 6
+
+n_iter: 68
+ct: 129
+hue_offset: 96
+saturation: 0.5
+
+num_attempts: 258
+dur: 600
+std: 7.43
+size: 858860 (838.73 KiB)
+
+xmin: -0.43886998905279384
+xmax: 1.5611300109472062
+ymin: -0.8465206027475922
+ymax: 0.2784793972524078
+
+contrast: 0.83
+brightness: -0.04
+saturation: 0.34
+gamma: 0.94
+gamma_r: 1.02
+gamma_g: 1.06
+gamma_b: 0.97
+vignette: -15
+temp: 6920
