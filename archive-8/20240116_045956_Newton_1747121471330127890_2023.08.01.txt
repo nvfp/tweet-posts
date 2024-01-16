@@ -1,0 +1,31 @@
+tweet_id: 1747121471330127890
+masto_id: 111763862108436639
+subre_id: Not uploaded, but here's the text: Tuesday is shining brightly, just like this Newton.  #DeepLearning #MachineLearning
+
+newton_power: 4
+newton_const: 8
+
+n_iter: 104
+ct: 93
+hue_offset: 21
+saturation: 0.6
+
+num_attempts: 258
+dur: 604
+std: 7.59
+size: 1118938 (1.07 MiB)
+
+xmin: -0.23538761991951285
+xmax: 0.4312790467471538
+ymin: -1.3438641427047449
+ymax: -0.9688641427047449
+
+contrast: 0.86
+brightness: -0.02
+saturation: 0.53
+gamma: 0.9
+gamma_r: 1.08
+gamma_g: 1.06
+gamma_b: 1.02
+vignette: -27
+temp: 5140
