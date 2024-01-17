@@ -1,0 +1,31 @@
+tweet_id: 1747544249669947636
+masto_id: 111770468096747536
+subre_id: Not uploaded, but here's the text: Let this Newton brighten up your Wednesday!  #MachineLearning #DeepLearning
+
+newton_power: 3
+newton_const: -2
+
+n_iter: 196
+ct: 98
+hue_offset: 102
+saturation: 0.21
+
+num_attempts: 525
+dur: 600
+std: 4.01
+size: 579909 (566.32 KiB)
+
+xmin: 0.01981542557141225
+xmax: 0.6198154255714122
+ymin: 0.6664931694896485
+ymax: 1.0039931694896485
+
+contrast: 1.65
+brightness: 0.02
+saturation: 1.59
+gamma: 1.07
+gamma_r: 1.01
+gamma_g: 0.93
+gamma_b: 0.9
+vignette: -5
+temp: 4514
