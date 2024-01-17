@@ -1,0 +1,28 @@
+tweet_id: 1747567454002553183
+masto_id: 111770830614953371
+subre_id: Not uploaded, but here's the text: Wednesday is shining brightly, just like this Mandelbrot Set.  #AI #VisualArt
+
+n_iter: 721
+ct: 237
+hue_offset: 270
+saturation: 0.11
+
+num_attempts: 70
+dur: 20
+std: 123.31
+size: 1030028 (1005.89 KiB)
+
+xmin: -0.13859905723254817
+xmax: -0.13793986145140116
+ymin: 0.8648280563350028
+ymax: 0.865198853961898
+
+contrast: 0.76
+brightness: 0.11
+saturation: 1.23
+gamma: 0.97
+gamma_r: 0.99
+gamma_g: 1.07
+gamma_b: 0.94
+vignette: -3
+temp: 2764
