@@ -1,0 +1,28 @@
+tweet_id: 1747658341566874071
+masto_id: 111772250808131914
+subre_id: Not uploaded, but here's the text: Cheers to a fantastic Wednesday!  #Art #GenerativeArt
+
+n_iter: 769
+ct: 107
+hue_offset: 210
+saturation: -0.74
+
+num_attempts: 30
+dur: 10
+std: 18.4
+size: 949527 (927.27 KiB)
+
+xmin: 0.22000327664329555
+xmax: 0.2336087188201663
+ymin: 0.5575141268751485
+ymax: 0.5651671880996383
+
+contrast: 0.87
+brightness: 0.02
+saturation: 0.66
+gamma: 0.98
+gamma_r: 1.07
+gamma_g: 1.08
+gamma_b: 1.04
+vignette: -24
+temp: 7260
