@@ -1,0 +1,28 @@
+tweet_id: 1747417085784043576
+masto_id: 111768481204645075
+subre_id: Not uploaded, but here's the text: Hey there, it's Wednesday!  #Nature #MachineLearning
+
+n_iter: 327
+ct: 245
+hue_offset: 326
+saturation: 0.76
+
+num_attempts: 2
+dur: 0
+std: 32.75
+size: 961156 (938.63 KiB)
+
+xmin: -1.2509008091726534
+xmax: -1.1057395188500727
+ymin: -0.4986933372635116
+ymax: -0.41704011145706
+
+contrast: 1.16
+brightness: 0.18
+saturation: 1.74
+gamma: 1.0
+gamma_r: 1.02
+gamma_g: 0.92
+gamma_b: 0.97
+vignette: -46
+temp: 4708
