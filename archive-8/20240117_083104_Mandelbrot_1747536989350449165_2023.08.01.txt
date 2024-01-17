@@ -1,0 +1,28 @@
+tweet_id: 1747536989350449165
+masto_id: 111770354592451141
+subre_id: Not uploaded, but here's the text: Happy Wednesday!  #Art #Nature
+
+n_iter: 245
+ct: 117
+hue_offset: 177
+saturation: 0.58
+
+num_attempts: 126
+dur: 31
+std: 78.23
+size: 1171189 (1.12 MiB)
+
+xmin: -0.1656567250098231
+xmax: -0.16427550954020984
+ymin: -0.8333987071895756
+ymax: -0.8326217734879182
+
+contrast: 1.79
+brightness: 0.09
+saturation: 0.84
+gamma: 0.95
+gamma_r: 0.98
+gamma_g: 0.98
+gamma_b: 1.02
+vignette: -9
+temp: 4382
