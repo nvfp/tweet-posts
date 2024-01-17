@@ -1,0 +1,28 @@
+tweet_id: 1747479989388251411
+masto_id: 111769463987757309
+subre_id: Not uploaded, but here's the text: you are awesome.  #Mathematics #GenerativeArt
+
+n_iter: 285
+ct: 1
+hue_offset: 337
+saturation: -0.86
+
+num_attempts: 765
+dur: 601
+std: 52.95
+size: 1392395 (1.33 MiB)
+
+xmin: -0.5267843284136313
+xmax: -0.5179543063385761
+ymin: -0.41912990819667084
+ymax: -0.4141630207794523
+
+contrast: 0.99
+brightness: 0.21
+saturation: 1.08
+gamma: 1.02
+gamma_r: 1.07
+gamma_g: 1.0
+gamma_b: 1.2
+vignette: -31
+temp: 4111
