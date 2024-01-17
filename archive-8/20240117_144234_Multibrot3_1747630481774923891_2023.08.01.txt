@@ -1,0 +1,28 @@
+tweet_id: 1747630481774923891
+masto_id: 111771815407946683
+subre_id: Not uploaded, but here's the text: Have an extraordinary Wednesday!  #Mathematics #GenerativeArt
+
+n_iter: 696
+ct: 255
+hue_offset: 149
+saturation: -0.34
+
+num_attempts: 268
+dur: 608
+std: 106.56
+size: 1414811 (1.35 MiB)
+
+xmin: 0.1251669326457283
+xmax: 0.13257434005313573
+ymin: 0.7566246492841793
+ymax: 0.7607913159508459
+
+contrast: 0.87
+brightness: 0.02
+saturation: 1.42
+gamma: 0.97
+gamma_r: 1.13
+gamma_g: 0.89
+gamma_b: 1.13
+vignette: -21
+temp: 4490
