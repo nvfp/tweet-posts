@@ -1,0 +1,28 @@
+tweet_id: 1747688196698497064
+masto_id: 111772717175782358
+subre_id: Not uploaded, but here's the text: Keep smiling!  #Nature #Art
+
+n_iter: 916
+ct: 78
+hue_offset: 314
+saturation: 0.82
+
+num_attempts: 119
+dur: 101
+std: 104.42
+size: 1910527 (1.82 MiB)
+
+xmin: 0.3410876746553382
+xmax: 0.3424034641290224
+ymin: -0.3861345041242521
+ymax: -0.38539437254530473
+
+contrast: 0.77
+brightness: 0.13
+saturation: 0.29
+gamma: 1.02
+gamma_r: 0.92
+gamma_g: 1.0
+gamma_b: 1.1
+vignette: -40
+temp: 6407
