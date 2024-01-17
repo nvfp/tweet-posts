@@ -1,0 +1,28 @@
+tweet_id: 1747600915194884396
+masto_id: 111771353492353845
+subre_id: Not uploaded, but here's the text: Wishing you a rad Wednesday!  #GenerativeArt #VisualArt
+
+n_iter: 285
+ct: 112
+hue_offset: 346
+saturation: 0.64
+
+num_attempts: 34
+dur: 13
+std: 46.05
+size: 1268205 (1.21 MiB)
+
+xmin: 0.35261980484923905
+xmax: 0.36964108144498375
+ymin: -0.12021834875384685
+ymax: -0.11064388066874047
+
+contrast: 0.72
+brightness: 0.21
+saturation: 0.58
+gamma: 1.0
+gamma_r: 1.0
+gamma_g: 0.93
+gamma_b: 1.1
+vignette: -32
+temp: 5882
