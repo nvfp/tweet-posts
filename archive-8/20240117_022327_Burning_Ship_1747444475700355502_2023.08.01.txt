@@ -1,0 +1,28 @@
+tweet_id: 1747444475700355502
+masto_id: 111768909103826742
+subre_id: Not uploaded, but here's the text: Shine bright like the sun on this Wednesday!  #Fractals #Nature
+
+n_iter: 306
+ct: 228
+hue_offset: 272
+saturation: 0.94
+
+num_attempts: 11
+dur: 3
+std: 22.04
+size: 1147489 (1.09 MiB)
+
+xmin: -1.197831289335226
+xmax: -0.7478312893352261
+ymin: -1.0640165795063208
+ymax: -0.8108915795063207
+
+contrast: 1.16
+brightness: 0.14
+saturation: 0.35
+gamma: 1.01
+gamma_r: 1.01
+gamma_g: 0.93
+gamma_b: 1.06
+vignette: 20
+temp: 3830
