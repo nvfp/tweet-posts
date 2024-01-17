@@ -1,0 +1,28 @@
+tweet_id: 1747621711908868455
+masto_id: 111771678487228704
+subre_id: Not uploaded, but here's the text: Wishing you a joyful day!  #DigitalArt #GenerativeArt
+
+n_iter: 437
+ct: 198
+hue_offset: 29
+saturation: 0.05
+
+num_attempts: 7
+dur: 4
+std: 21.54
+size: 444182 (433.77 KiB)
+
+xmin: -0.3486875358677395
+xmax: 1.9013124641322605
+ymin: -1.3851725766567364
+ymax: -0.11954757665673643
+
+contrast: 1.59
+brightness: 0.15
+saturation: 1.59
+gamma: 1.08
+gamma_r: 1.01
+gamma_g: 1.05
+gamma_b: 1.01
+vignette: -32
+temp: 7320
