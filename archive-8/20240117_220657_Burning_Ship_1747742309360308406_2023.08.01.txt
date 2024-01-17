@@ -1,0 +1,28 @@
+tweet_id: 1747742309360308406
+masto_id: 111773562793831870
+subre_id: Not uploaded, but here's the text: Good Wednesday! This Burning Ship is for you!  #DigitalArt #Nature
+
+n_iter: 474
+ct: 108
+hue_offset: 317
+saturation: -0.9
+
+num_attempts: 7
+dur: 7
+std: 25.03
+size: 365637 (357.07 KiB)
+
+xmin: 0.20055289836949308
+xmax: 0.2568028983694931
+ymin: -0.15402499304738937
+ymax: -0.12238436804738936
+
+contrast: 1.28
+brightness: 0.23
+saturation: 0.74
+gamma: 0.95
+gamma_r: 1.04
+gamma_g: 1.01
+gamma_b: 1.07
+vignette: 10
+temp: 2385
