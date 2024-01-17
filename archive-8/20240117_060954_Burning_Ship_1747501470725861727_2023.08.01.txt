@@ -1,0 +1,28 @@
+tweet_id: 1747501470725861727
+masto_id: 111769799542952581
+subre_id: Not uploaded, but here's the text: Cheers to a fantastic Wednesday!  #Art #DeepLearning
+
+n_iter: 375
+ct: 210
+hue_offset: 149
+saturation: 0.45
+
+num_attempts: 6
+dur: 1
+std: 52.99
+size: 1910724 (1.82 MiB)
+
+xmin: -0.2664851049329102
+xmax: -0.15672900737193463
+ymin: -1.0396011165362158
+ymax: -0.977863311658167
+
+contrast: 1.2
+brightness: 0.13
+saturation: 0.52
+gamma: 1.06
+gamma_r: 1.03
+gamma_g: 1.0
+gamma_b: 0.95
+vignette: 10
+temp: 3249
