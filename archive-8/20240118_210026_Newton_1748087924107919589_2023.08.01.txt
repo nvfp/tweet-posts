@@ -1,0 +1,31 @@
+tweet_id: 1748087924107919589
+masto_id: 111778963358918623
+subre_id: Not uploaded, but here's the text: Smile, it's Thursday!  #GenerativeArt #Nature
+
+newton_power: 4
+newton_const: -2
+
+n_iter: 102
+ct: 136
+hue_offset: 5
+saturation: 0.68
+
+num_attempts: 255
+dur: 600
+std: 7.48
+size: 876982 (856.43 KiB)
+
+xmin: -1.1877448439139333
+xmax: -1.100788322174803
+ymin: 1.4350902413398963
+ymax: 1.484003284818157
+
+contrast: 1.21
+brightness: -0.04
+saturation: 1.7
+gamma: 0.96
+gamma_r: 1.05
+gamma_g: 0.93
+gamma_b: 0.97
+vignette: -42
+temp: 4274
