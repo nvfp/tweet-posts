@@ -1,0 +1,28 @@
+tweet_id: 1747813864505577516
+masto_id: 111774680729164786
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Thursday! You got this!  #Mathematics #AI
+
+n_iter: 522
+ct: 255
+hue_offset: 324
+saturation: 0.91
+
+num_attempts: 461
+dur: 602
+std: 73.08
+size: 588631 (574.83 KiB)
+
+xmin: -0.4373088853828635
+xmax: -0.42921171939096064
+ymin: 0.5774316436054301
+ymax: 0.5819862994758754
+
+contrast: 1.75
+brightness: 0.18
+saturation: 0.51
+gamma: 1.15
+gamma_r: 1.14
+gamma_g: 0.82
+gamma_b: 0.93
+vignette: 4
+temp: 3623
