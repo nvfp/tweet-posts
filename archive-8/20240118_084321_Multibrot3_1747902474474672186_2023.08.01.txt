@@ -1,0 +1,28 @@
+tweet_id: 1747902474474672186
+masto_id: 111776065201717392
+subre_id: Not uploaded, but here's the text: Wishing you the best!  #Fractals #Nature
+
+n_iter: 584
+ct: 255
+hue_offset: 270
+saturation: 0.42
+
+num_attempts: 549
+dur: 600
+std: 79.39
+size: 584105 (570.42 KiB)
+
+xmin: -0.4693241188320758
+xmax: -0.4645394298368605
+ymin: 0.5211037826809033
+ymax: 0.5237951702407119
+
+contrast: 1.45
+brightness: 0.14
+saturation: 1.73
+gamma: 0.81
+gamma_r: 1.16
+gamma_g: 0.91
+gamma_b: 0.83
+vignette: -43
+temp: 5438
