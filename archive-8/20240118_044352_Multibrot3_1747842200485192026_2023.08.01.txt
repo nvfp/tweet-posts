@@ -1,0 +1,28 @@
+tweet_id: 1747842200485192026
+masto_id: 111775123519698214
+subre_id: Not uploaded, but here's the text: Happy Thursday!  #GenerativeArt #VisualArt
+
+n_iter: 383
+ct: 255
+hue_offset: 350
+saturation: 0.92
+
+num_attempts: 701
+dur: 602
+std: 65.89
+size: 944875 (922.73 KiB)
+
+xmin: -0.05099517901361783
+xmax: -0.046966981631946125
+ymin: -0.7702665600321794
+ymax: -0.7680006990049891
+
+contrast: 1.49
+brightness: -0.09
+saturation: 1.26
+gamma: 1.11
+gamma_r: 1.01
+gamma_g: 1.08
+gamma_b: 0.89
+vignette: 25
+temp: 4767
