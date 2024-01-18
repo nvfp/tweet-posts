@@ -1,0 +1,28 @@
+tweet_id: 1747963184357527835
+masto_id: 111777013954793168
+subre_id: Not uploaded, but here's the text: Hello Thursday! This Mandelbrot Set is yours!  #DigitalArt #MachineLearning
+
+n_iter: 391
+ct: 168
+hue_offset: 101
+saturation: 0.52
+
+num_attempts: 94
+dur: 25
+std: 57.28
+size: 1702106 (1.62 MiB)
+
+xmin: 0.0813762862034646
+xmax: 0.08282346420635896
+ymin: -0.6265195689033642
+ymax: -0.6257055312767361
+
+contrast: 1.33
+brightness: -0.03
+saturation: 1.53
+gamma: 0.95
+gamma_r: 1.02
+gamma_g: 0.91
+gamma_b: 1.02
+vignette: -47
+temp: 6819
