@@ -1,0 +1,31 @@
+tweet_id: 1747998388396683653
+masto_id: 111777564077005781
+subre_id: Not uploaded, but here's the text: Keep smiling!  #Nature #DeepLearning
+
+newton_power: 5
+newton_const: 0
+
+n_iter: 68
+ct: 125
+hue_offset: 341
+saturation: -0.87
+
+num_attempts: 228
+dur: 850
+std: 1.75
+size: 660639 (645.16 KiB)
+
+xmin: -0.8276616378296673
+xmax: 0.17233836217033272
+ymin: 0.162081219568603
+ymax: 0.724581219568603
+
+contrast: 0.71
+brightness: 0.01
+saturation: 1.61
+gamma: 0.98
+gamma_r: 0.92
+gamma_g: 1.04
+gamma_b: 1.0
+vignette: 25
+temp: 6980
