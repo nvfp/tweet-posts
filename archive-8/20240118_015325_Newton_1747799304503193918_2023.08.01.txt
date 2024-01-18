@@ -1,0 +1,31 @@
+tweet_id: 1747799304503193918
+masto_id: 111774453273330434
+subre_id: Not uploaded, but here's the text: Let's rock this Thursday!  #AI #VisualArt
+
+newton_power: 5
+newton_const: -4
+
+n_iter: 99
+ct: 139
+hue_offset: 94
+saturation: 0.15
+
+num_attempts: 203
+dur: 601
+std: 11.46
+size: 621172 (606.61 KiB)
+
+xmin: 0.5500789602905352
+xmax: 0.6190444775319145
+ymin: -0.7928013473527704
+ymax: -0.7540082439044945
+
+contrast: 0.96
+brightness: 0.0
+saturation: 0.38
+gamma: 0.91
+gamma_r: 1.05
+gamma_g: 1.05
+gamma_b: 1.06
+vignette: -12
+temp: 5325
