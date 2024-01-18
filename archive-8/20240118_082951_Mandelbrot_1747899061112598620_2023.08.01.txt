@@ -1,0 +1,28 @@
+tweet_id: 1747899061112598620
+masto_id: 111776012121434991
+subre_id: Not uploaded, but here's the text: Have an awesome day!  #GenerativeArt #Nature
+
+n_iter: 1024
+ct: 236
+hue_offset: 301
+saturation: 0.71
+
+num_attempts: 11
+dur: 18
+std: 45.31
+size: 707035 (690.46 KiB)
+
+xmin: -0.2998454905426273
+xmax: -0.166512157209294
+ymin: 0.7049055877319645
+ymax: 0.7799055877319645
+
+contrast: 0.98
+brightness: 0.19
+saturation: 0.42
+gamma: 1.02
+gamma_r: 1.08
+gamma_g: 0.93
+gamma_b: 0.93
+vignette: -11
+temp: 7871
