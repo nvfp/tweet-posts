@@ -1,0 +1,28 @@
+tweet_id: 1748074754790355065
+masto_id: 111778757151173549
+subre_id: Not uploaded, but here's the text: Happy Thursday!  #VisualArt #Mathematics
+
+n_iter: 330
+ct: 207
+hue_offset: 52
+saturation: -0.23
+
+num_attempts: 9
+dur: 5
+std: 56.98
+size: 1596940 (1.52 MiB)
+
+xmin: -0.8600424779207099
+xmax: -0.7148811875981292
+ymin: -0.6991887611762921
+ymax: -0.6175355353698405
+
+contrast: 1.01
+brightness: 0.07
+saturation: 0.56
+gamma: 0.97
+gamma_r: 1.0
+gamma_g: 1.01
+gamma_b: 1.1
+vignette: 13
+temp: 4739
