@@ -1,0 +1,31 @@
+tweet_id: 1747876449246445776
+masto_id: 111775658846624173
+subre_id: Not uploaded, but here's the text: Good Thursday! This Newton is for you!  #VisualArt #DigitalArt
+
+newton_power: 4
+newton_const: -2
+
+n_iter: 233
+ct: 114
+hue_offset: 251
+saturation: 0.01
+
+num_attempts: 247
+dur: 601
+std: 6.87
+size: 857214 (837.12 KiB)
+
+xmin: -0.5247871014175001
+xmax: -0.35812043475083344
+ymin: -0.7849201954051899
+ymax: -0.6911701954051899
+
+contrast: 1.72
+brightness: 0.02
+saturation: 0.57
+gamma: 0.97
+gamma_r: 0.94
+gamma_g: 0.92
+gamma_b: 0.97
+vignette: -18
+temp: 4975
