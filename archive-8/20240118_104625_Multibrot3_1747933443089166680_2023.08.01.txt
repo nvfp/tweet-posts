@@ -1,0 +1,28 @@
+tweet_id: 1747933443089166680
+masto_id: 111776549140367733
+subre_id: Not uploaded, but here's the text: Thursday vibes!  #AI #MachineLearning
+
+n_iter: 498
+ct: 1
+hue_offset: 82
+saturation: -0.63
+
+num_attempts: 559
+dur: 600
+std: 83.52
+size: 1434742 (1.37 MiB)
+
+xmin: -0.5415085083311575
+xmax: -0.5361031029257521
+ymin: -0.18372567850850952
+ymax: -0.18068513796796898
+
+contrast: 1.38
+brightness: -0.1
+saturation: 1.6
+gamma: 1.09
+gamma_r: 0.96
+gamma_g: 0.92
+gamma_b: 0.98
+vignette: -14
+temp: 5709
