@@ -1,0 +1,31 @@
+tweet_id: 1748057693045326310
+masto_id: 111778490705000895
+subre_id: Not uploaded, but here's the text: Let's make it a memorable Thursday!  #Fractals #MachineLearning
+
+newton_power: 6
+newton_const: 2
+
+n_iter: 187
+ct: 26
+hue_offset: 350
+saturation: 0.46
+
+num_attempts: 186
+dur: 604
+std: 17.24
+size: 1422388 (1.36 MiB)
+
+xmin: 0.6913478715425123
+xmax: 0.7080609634645179
+ymin: -1.4902402762622584
+ymax: -1.4808391620561303
+
+contrast: 1.18
+brightness: -0.04
+saturation: 1.17
+gamma: 1.01
+gamma_r: 1.0
+gamma_g: 0.92
+gamma_b: 1.09
+vignette: -20
+temp: 3706
