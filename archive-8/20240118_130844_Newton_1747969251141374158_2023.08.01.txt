@@ -1,0 +1,31 @@
+tweet_id: 1747969251141374158
+masto_id: 111777108753828333
+subre_id: Not uploaded, but here's the text: Keep shining on Thursday!  #MachineLearning #AI
+
+newton_power: 5
+newton_const: 1
+
+n_iter: 232
+ct: 76
+hue_offset: 215
+saturation: -0.01
+
+num_attempts: 212
+dur: 600
+std: 14.55
+size: 719749 (702.88 KiB)
+
+xmin: -1.6975497883918298
+xmax: -1.6439783598204012
+ymin: -1.487055554151294
+ymax: -1.4569216255798654
+
+contrast: 1.56
+brightness: 0.01
+saturation: 0.34
+gamma: 1.05
+gamma_r: 1.03
+gamma_g: 0.9
+gamma_b: 1.08
+vignette: 14
+temp: 2355
