@@ -1,0 +1,28 @@
+tweet_id: 1748021105716297785
+masto_id: 111777918809722219
+subre_id: Not uploaded, but here's the text: Shine bright like the sun on this Thursday!  #GenerativeArt #Mathematics
+
+n_iter: 217
+ct: 91
+hue_offset: 8
+saturation: -0.78
+
+num_attempts: 334
+dur: 79
+std: 35.92
+size: 45074 (44.02 KiB)
+
+xmin: 0.35236884837953353
+xmax: 0.3528122582010611
+ymin: 0.3429605139113183
+ymax: 0.3432099319359276
+
+contrast: 1.47
+brightness: 0.08
+saturation: 0.35
+gamma: 0.98
+gamma_r: 1.08
+gamma_g: 1.07
+gamma_b: 1.06
+vignette: -33
+temp: 3536
