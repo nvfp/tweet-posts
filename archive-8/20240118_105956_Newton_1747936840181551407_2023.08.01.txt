@@ -1,0 +1,31 @@
+tweet_id: 1747936840181551407
+masto_id: 111776602286992139
+subre_id: Not uploaded, but here's the text: Brighten your Thursday!  #Mathematics #DeepLearning
+
+newton_power: 6
+newton_const: -7
+
+n_iter: 137
+ct: 41
+hue_offset: 241
+saturation: -0.98
+
+num_attempts: 173
+dur: 600
+std: 16.58
+size: 1236192 (1.18 MiB)
+
+xmin: -0.008256406818775375
+xmax: 0.005632482070113513
+ymin: -1.3797716358221308
+ymax: -1.3719591358221308
+
+contrast: 1.51
+brightness: -0.07
+saturation: 0.79
+gamma: 1.1
+gamma_r: 1.06
+gamma_g: 0.91
+gamma_b: 1.09
+vignette: 14
+temp: 5812
