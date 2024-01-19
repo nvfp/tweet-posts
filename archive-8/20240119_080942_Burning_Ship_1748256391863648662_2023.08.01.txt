@@ -1,0 +1,28 @@
+tweet_id: 1748256391863648662
+masto_id: 111781595181311539
+subre_id: Not uploaded, but here's the text: Have an extraordinary Friday!  #GenerativeArt #DigitalArt
+
+n_iter: 134
+ct: 62
+hue_offset: 64
+saturation: 0.8
+
+num_attempts: 35
+dur: 5
+std: 25.47
+size: 1137746 (1.09 MiB)
+
+xmin: 0.6086191920571529
+xmax: 0.6540737375116983
+ymin: -1.203043076886737
+ymax: -1.1774748950685552
+
+contrast: 1.59
+brightness: 0.13
+saturation: 0.91
+gamma: 1.1
+gamma_r: 0.9
+gamma_g: 0.94
+gamma_b: 1.08
+vignette: -5
+temp: 2888
