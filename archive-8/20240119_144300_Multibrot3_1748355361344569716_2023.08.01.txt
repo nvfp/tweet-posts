@@ -1,0 +1,28 @@
+tweet_id: 1748355361344569716
+masto_id: 111783141727897831
+subre_id: Not uploaded, but here's the text: Keep smiling!  #Mathematics #DeepLearning
+
+n_iter: 273
+ct: 1
+hue_offset: 193
+saturation: 0.81
+
+num_attempts: 878
+dur: 602
+std: 47.33
+size: 916422 (894.94 KiB)
+
+xmin: 0.31754280394005896
+xmax: 0.3269990687154727
+ymin: 0.6981246606069016
+ymax: 0.7034438095430718
+
+contrast: 1.4
+brightness: -0.05
+saturation: 0.81
+gamma: 1.0
+gamma_r: 0.93
+gamma_g: 0.84
+gamma_b: 1.14
+vignette: -10
+temp: 7593
