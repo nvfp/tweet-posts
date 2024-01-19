@@ -1,0 +1,31 @@
+tweet_id: 1748269115427758314
+masto_id: 111781795059634557
+subre_id: Not uploaded, but here's the text: Smile, it's Friday!  #GenerativeArt #VisualArt
+
+newton_power: 7
+newton_const: -9
+
+n_iter: 154
+ct: 237
+hue_offset: 198
+saturation: 0.36
+
+num_attempts: 162
+dur: 604
+std: 24.47
+size: 1123853 (1.07 MiB)
+
+xmin: 2.5621055011127396
+xmax: 2.6023739574885787
+ymin: 1.003142487964904
+ymax: 1.0257934946763134
+
+contrast: 0.88
+brightness: -0.04
+saturation: 0.34
+gamma: 1.01
+gamma_r: 0.94
+gamma_g: 0.94
+gamma_b: 0.93
+vignette: 31
+temp: 6772
