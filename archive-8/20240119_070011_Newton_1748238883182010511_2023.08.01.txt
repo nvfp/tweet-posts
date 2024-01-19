@@ -1,0 +1,31 @@
+tweet_id: 1748238883182010511
+masto_id: 111781321847367786
+subre_id: Not uploaded, but here's the text: Good Friday! This Newton is for you!  #DeepLearning #DigitalArt
+
+newton_power: 5
+newton_const: -5
+
+n_iter: 246
+ct: 29
+hue_offset: 195
+saturation: 0.55
+
+num_attempts: 231
+dur: 604
+std: 12.4
+size: 1427759 (1.36 MiB)
+
+xmin: -0.1506949131686457
+xmax: -0.13864672039756135
+ymin: -0.2943127367603642
+ymax: -0.28753562832662927
+
+contrast: 1.48
+brightness: 0.09
+saturation: 0.57
+gamma: 0.96
+gamma_r: 0.95
+gamma_g: 0.94
+gamma_b: 0.98
+vignette: -46
+temp: 5035
