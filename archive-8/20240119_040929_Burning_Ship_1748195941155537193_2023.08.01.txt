@@ -1,0 +1,28 @@
+tweet_id: 1748195941155537193
+masto_id: 111780650647094435
+subre_id: Not uploaded, but here's the text: Friday vibes!  #Mathematics #MachineLearning
+
+n_iter: 229
+ct: 64
+hue_offset: 220
+saturation: 0.32
+
+num_attempts: 22
+dur: 3
+std: 42.54
+size: 1912528 (1.82 MiB)
+
+xmin: -0.4216187144729364
+xmax: -0.3737463740474045
+ymin: -0.9623320704661187
+ymax: -0.935403878976757
+
+contrast: 1.48
+brightness: 0.04
+saturation: 0.83
+gamma: 1.02
+gamma_r: 1.08
+gamma_g: 0.94
+gamma_b: 0.9
+vignette: 32
+temp: 4814
