@@ -1,0 +1,28 @@
+tweet_id: 1748376966451913051
+masto_id: 111783479369617209
+subre_id: Not uploaded, but here's the text: Wishing you a rad Friday!  #Mathematics #DigitalArt
+
+n_iter: 456
+ct: 217
+hue_offset: 138
+saturation: -0.19
+
+num_attempts: 1
+dur: 1
+std: 21.4
+size: 577977 (564.43 KiB)
+
+xmin: -0.41513836266094106
+xmax: 0.33486163733905894
+ymin: -0.9260048966569927
+ymax: -0.5041298966569927
+
+contrast: 0.71
+brightness: -0.01
+saturation: 0.48
+gamma: 1.09
+gamma_r: 0.91
+gamma_g: 1.02
+gamma_b: 1.05
+vignette: -21
+temp: 3734
