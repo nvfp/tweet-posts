@@ -1,0 +1,28 @@
+tweet_id: 1748467040707637461
+masto_id: 111784886810952868
+subre_id: Not uploaded, but here's the text: Feeling good today!  #Nature #Fractals
+
+n_iter: 399
+ct: 226
+hue_offset: 33
+saturation: 0.8
+
+num_attempts: 9
+dur: 4
+std: 34.07
+size: 1241228 (1.18 MiB)
+
+xmin: -1.2533744780731007
+xmax: -0.7533744780731007
+ymin: -0.9773291695773028
+ymax: -0.6960791695773028
+
+contrast: 0.8
+brightness: -0.05
+saturation: 1.3
+gamma: 1.06
+gamma_r: 1.0
+gamma_g: 1.02
+gamma_b: 0.97
+vignette: -45
+temp: 5509
