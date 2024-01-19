@@ -1,0 +1,31 @@
+tweet_id: 1748420139790278797
+masto_id: 111784154325357286
+subre_id: Not uploaded, but here's the text: Wow, guess what? it's Newton!  #Mathematics #DigitalArt
+
+newton_power: 4
+newton_const: -9
+
+n_iter: 247
+ct: 253
+hue_offset: 232
+saturation: 0.1
+
+num_attempts: 254
+dur: 602
+std: 7.9
+size: 594002 (580.08 KiB)
+
+xmin: -0.5309517088675819
+xmax: -0.5245208407003793
+ymin: 0.5283776307578436
+ymax: 0.5319949941018951
+
+contrast: 0.73
+brightness: -0.01
+saturation: 1.43
+gamma: 1.07
+gamma_r: 1.0
+gamma_g: 0.99
+gamma_b: 1.06
+vignette: -9
+temp: 6298
