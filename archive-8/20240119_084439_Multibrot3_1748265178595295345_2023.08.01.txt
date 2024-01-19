@@ -1,0 +1,28 @@
+tweet_id: 1748265178595295345
+masto_id: 111781732620620099
+subre_id: Not uploaded, but here's the text: A great Friday and a beautiful Multibrot.  #Mathematics #Art
+
+n_iter: 478
+ct: 255
+hue_offset: 248
+saturation: -0.32
+
+num_attempts: 515
+dur: 605
+std: 67.45
+size: 1131181 (1.08 MiB)
+
+xmin: 0.5687814845443282
+xmax: 0.5754370585875894
+ymin: -0.3105082838473612
+ymax: -0.30676452344802674
+
+contrast: 1.46
+brightness: 0.13
+saturation: 1.61
+gamma: 1.12
+gamma_r: 1.11
+gamma_g: 1.08
+gamma_b: 0.81
+vignette: 24
+temp: 5375
