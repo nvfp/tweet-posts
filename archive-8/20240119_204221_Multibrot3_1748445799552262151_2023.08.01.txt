@@ -1,0 +1,28 @@
+tweet_id: 1748445799552262151
+masto_id: 111784554720906966
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Friday! You got this!  #Nature #AI
+
+n_iter: 700
+ct: 1
+hue_offset: 311
+saturation: 0.83
+
+num_attempts: 334
+dur: 607
+std: 88.61
+size: 726524 (709.5 KiB)
+
+xmin: 0.1231028557708016
+xmax: 0.12804112737573986
+ymin: 0.8019270523354645
+ymax: 0.8047048301132422
+
+contrast: 1.65
+brightness: 0.08
+saturation: 1.07
+gamma: 1.15
+gamma_r: 0.93
+gamma_g: 0.96
+gamma_b: 0.97
+vignette: 29
+temp: 3564
