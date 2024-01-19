@@ -1,0 +1,28 @@
+tweet_id: 1748472905904894255
+masto_id: 111784978347012654
+subre_id: Not uploaded, but here's the text: Another Friday, another Mandelbrot Set!  #GenerativeArt #Art
+
+n_iter: 391
+ct: 62
+hue_offset: 293
+saturation: 0.1
+
+num_attempts: 157
+dur: 62
+std: 56.66
+size: 1345731 (1.28 MiB)
+
+xmin: -0.26496128322457047
+xmax: -0.26450267281411416
+ymin: -0.644891217003282
+ymax: -0.6446332486474003
+
+contrast: 1.07
+brightness: 0.12
+saturation: 0.34
+gamma: 0.91
+gamma_r: 0.96
+gamma_g: 1.05
+gamma_b: 1.07
+vignette: 21
+temp: 7863
