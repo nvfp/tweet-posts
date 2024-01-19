@@ -1,0 +1,28 @@
+tweet_id: 1748226283744731214
+masto_id: 111781124871795235
+subre_id: Not uploaded, but here's the text: You rock, and so does this Friday!  #Fractals #AI
+
+n_iter: 465
+ct: 223
+hue_offset: 185
+saturation: 0.32
+
+num_attempts: 17
+dur: 8
+std: 35.21
+size: 730460 (713.34 KiB)
+
+xmin: -1.4806375234714193
+xmax: 0.019362476528580697
+ymin: -0.7910848410578952
+ymax: 0.05266515894210477
+
+contrast: 1.06
+brightness: 0.23
+saturation: 0.84
+gamma: 0.92
+gamma_r: 1.02
+gamma_g: 0.9
+gamma_b: 1.02
+vignette: -13
+temp: 6380
