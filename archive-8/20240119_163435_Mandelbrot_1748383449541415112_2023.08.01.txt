@@ -1,0 +1,28 @@
+tweet_id: 1748383449541415112
+masto_id: 111783580524783263
+subre_id: Not uploaded, but here's the text: Wishing you a joyful day!  #Mathematics #GenerativeArt
+
+n_iter: 955
+ct: 21
+hue_offset: 36
+saturation: 0.22
+
+num_attempts: 87
+dur: 58
+std: 25.37
+size: 1343646 (1.28 MiB)
+
+xmin: -0.17387340765736692
+xmax: -0.17172287002295833
+ymin: -0.8407173298185678
+ymax: -0.839507652399213
+
+contrast: 1.57
+brightness: 0.1
+saturation: 0.46
+gamma: 0.93
+gamma_r: 0.98
+gamma_g: 1.02
+gamma_b: 0.92
+vignette: -32
+temp: 3793
