@@ -1,0 +1,28 @@
+tweet_id: 1748169465572082161
+masto_id: 111780237046134389
+subre_id: Not uploaded, but here's the text: Friday vibes!  #Nature #DigitalArt
+
+n_iter: 301
+ct: 109
+hue_offset: 13
+saturation: -0.6
+
+num_attempts: 13
+dur: 2
+std: 38.77
+size: 1474719 (1.41 MiB)
+
+xmin: -0.2033348705145066
+xmax: 0.2057560385764025
+ymin: -1.233505944791685
+ymax: -1.0033923084280485
+
+contrast: 1.25
+brightness: 0.16
+saturation: 1.08
+gamma: 0.98
+gamma_r: 0.95
+gamma_g: 1.05
+gamma_b: 1.01
+vignette: -39
+temp: 5061
