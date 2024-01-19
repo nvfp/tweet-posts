@@ -1,0 +1,28 @@
+tweet_id: 1748261557404938547
+masto_id: 111781675992370288
+subre_id: Not uploaded, but here's the text: How was your day?  #AI #GenerativeArt
+
+n_iter: 554
+ct: 46
+hue_offset: 84
+saturation: -0.01
+
+num_attempts: 21
+dur: 9
+std: 82.75
+size: 1452799 (1.39 MiB)
+
+xmin: -0.028717209741978778
+xmax: -0.027842892802088067
+ymin: -0.7642388599721384
+ymax: -0.7637470566934499
+
+contrast: 1.11
+brightness: 0.06
+saturation: 0.95
+gamma: 0.9
+gamma_r: 1.0
+gamma_g: 0.99
+gamma_b: 0.99
+vignette: 16
+temp: 3152
