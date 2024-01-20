@@ -1,0 +1,28 @@
+tweet_id: 1748690701850673483
+masto_id: 111788381540589982
+subre_id: Not uploaded, but here's the text: Have an awesome day!  #Fractals #Art
+
+n_iter: 688
+ct: 255
+hue_offset: 17
+saturation: -0.81
+
+num_attempts: 386
+dur: 607
+std: 94.76
+size: 1105331 (1.05 MiB)
+
+xmin: 0.4042494690462579
+xmax: 0.41671052823628907
+ymin: 0.6005458007842757
+ymax: 0.6075551465786682
+
+contrast: 0.86
+brightness: 0.18
+saturation: 0.74
+gamma: 1.14
+gamma_r: 0.9
+gamma_g: 1.19
+gamma_b: 1.17
+vignette: -23
+temp: 3405
