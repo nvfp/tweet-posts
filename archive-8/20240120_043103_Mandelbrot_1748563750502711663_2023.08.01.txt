@@ -1,0 +1,28 @@
+tweet_id: 1748563750502711663
+masto_id: 111786397731213526
+subre_id: Not uploaded, but here's the text: Mandelbrot Set vibes to brighten your Saturday.  #Nature #AI
+
+n_iter: 552
+ct: 254
+hue_offset: 73
+saturation: -0.72
+
+num_attempts: 91
+dur: 36
+std: 31.5
+size: 1557883 (1.49 MiB)
+
+xmin: -0.1754421016409613
+xmax: -0.17482775668626924
+ymin: 0.8408025536714012
+ymax: 0.8411481227084155
+
+contrast: 1.29
+brightness: 0.03
+saturation: 1.71
+gamma: 1.06
+gamma_r: 1.1
+gamma_g: 1.01
+gamma_b: 1.04
+vignette: -34
+temp: 7806
