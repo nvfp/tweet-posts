@@ -1,0 +1,28 @@
+tweet_id: 1748654046917906769
+masto_id: 111787808756184107
+subre_id: Not uploaded, but here's the text: Keep shining on Saturday!  #Nature #MachineLearning
+
+n_iter: 302
+ct: 99
+hue_offset: 314
+saturation: 0.33
+
+num_attempts: 99
+dur: 29
+std: 26.73
+size: 616543 (602.09 KiB)
+
+xmin: -0.3480292306177577
+xmax: -0.34760383446759285
+ymin: 0.6318277398378258
+ymax: 0.6320670251722935
+
+contrast: 0.9
+brightness: 0.2
+saturation: 1.4
+gamma: 1.06
+gamma_r: 0.96
+gamma_g: 1.01
+gamma_b: 0.92
+vignette: -36
+temp: 3052
