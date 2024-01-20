@@ -1,0 +1,28 @@
+tweet_id: 1748618503404294550
+masto_id: 111787253172368547
+subre_id: Not uploaded, but here's the text: you are cool  #Art #Mathematics
+
+n_iter: 255
+ct: 34
+hue_offset: 103
+saturation: 0.63
+
+num_attempts: 13
+dur: 2
+std: 37.86
+size: 1960615 (1.87 MiB)
+
+xmin: -0.7460125300839249
+xmax: -0.6306279146993095
+ymin: -0.9160898888498854
+ymax: -0.8511860426960393
+
+contrast: 1.11
+brightness: -0.05
+saturation: 0.84
+gamma: 1.01
+gamma_r: 0.99
+gamma_g: 1.0
+gamma_b: 1.06
+vignette: 14
+temp: 3332
