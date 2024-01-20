@@ -1,0 +1,28 @@
+tweet_id: 1748538300090954153
+masto_id: 111785999989394705
+subre_id: Not uploaded, but here's the text: Hope you're having a great Saturday!  #GenerativeArt #VisualArt
+
+n_iter: 446
+ct: 255
+hue_offset: 295
+saturation: 0.21
+
+num_attempts: 514
+dur: 600
+std: 77.3
+size: 895414 (874.43 KiB)
+
+xmin: -0.373317363987262
+xmax: -0.36867160324394027
+ymin: -0.6355823142860852
+ymax: -0.6329690738679667
+
+contrast: 1.4
+brightness: 0.15
+saturation: 1.56
+gamma: 1.02
+gamma_r: 0.93
+gamma_g: 1.03
+gamma_b: 0.93
+vignette: 12
+temp: 3217
