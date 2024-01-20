@@ -1,0 +1,31 @@
+tweet_id: 1748782438330102239
+masto_id: 111789814713692225
+subre_id: Not uploaded, but here's the text: Enjoy your Saturday!  #AI #DigitalArt
+
+newton_power: 6
+newton_const: 3
+
+n_iter: 238
+ct: 203
+hue_offset: 237
+saturation: -0.96
+
+num_attempts: 180
+dur: 600
+std: 18.85
+size: 541756 (529.06 KiB)
+
+xmin: -1.113906717510168
+xmax: -0.9600605636640142
+ymin: 1.616202876524472
+ymax: 1.7027413380629335
+
+contrast: 1.12
+brightness: 0.18
+saturation: 1.03
+gamma: 1.09
+gamma_r: 0.91
+gamma_g: 1.08
+gamma_b: 0.96
+vignette: -1
+temp: 3084
