@@ -1,0 +1,28 @@
+tweet_id: 1748748825291096132
+masto_id: 111789289512030821
+subre_id: Not uploaded, but here's the text: Enjoy your Saturday!  #Art #Mathematics
+
+n_iter: 597
+ct: 1
+hue_offset: 202
+saturation: -0.28
+
+num_attempts: 517
+dur: 602
+std: 75.91
+size: 538537 (525.92 KiB)
+
+xmin: -0.49352623887343006
+xmax: -0.4856676927044713
+ymin: 0.07463157606368687
+ymax: 0.07905200828372616
+
+contrast: 0.92
+brightness: 0.16
+saturation: 1.0
+gamma: 0.89
+gamma_r: 1.08
+gamma_g: 0.87
+gamma_b: 1.03
+vignette: -2
+temp: 6823
