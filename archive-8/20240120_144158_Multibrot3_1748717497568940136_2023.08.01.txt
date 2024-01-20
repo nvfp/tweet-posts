@@ -1,0 +1,28 @@
+tweet_id: 1748717497568940136
+masto_id: 111788799967283742
+subre_id: Not uploaded, but here's the text: Keep smiling!  #VisualArt #MachineLearning
+
+n_iter: 487
+ct: 1
+hue_offset: 53
+saturation: -0.32
+
+num_attempts: 510
+dur: 600
+std: 75.23
+size: 579429 (565.85 KiB)
+
+xmin: 0.10177285017134041
+xmax: 0.10578488627966538
+ymin: -0.7985828343541805
+ymax: -0.7963260640432477
+
+contrast: 1.55
+brightness: 0.08
+saturation: 0.88
+gamma: 0.93
+gamma_r: 1.12
+gamma_g: 1.04
+gamma_b: 0.93
+vignette: -32
+temp: 2725
