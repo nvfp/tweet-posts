@@ -1,0 +1,28 @@
+tweet_id: 1748648221725847647
+masto_id: 111787717522132776
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Saturday! You got this!  #Mathematics #VisualArt
+
+n_iter: 507
+ct: 137
+hue_offset: 143
+saturation: -0.96
+
+num_attempts: 4
+dur: 0
+std: 38.26
+size: 2018983 (1.93 MiB)
+
+xmin: -0.692332794799781
+xmax: -0.5192558717228579
+ymin: -0.9771849133283055
+ymax: -0.8798291440975362
+
+contrast: 0.71
+brightness: 0.13
+saturation: 0.31
+gamma: 1.07
+gamma_r: 1.02
+gamma_g: 1.1
+gamma_b: 0.94
+vignette: -19
+temp: 5496
