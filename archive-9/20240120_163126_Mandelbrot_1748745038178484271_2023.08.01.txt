@@ -1,0 +1,28 @@
+tweet_id: 1748745038178484271
+masto_id: 111789230439347205
+subre_id: Not uploaded, but here's the text: Look what we have here! it's Mandelbrot Set!  #Art #Fractals
+
+n_iter: 440
+ct: 85
+hue_offset: 242
+saturation: -0.88
+
+num_attempts: 36
+dur: 15
+std: 19.43
+size: 978223 (955.3 KiB)
+
+xmin: -1.1374432813851054
+xmax: -1.1360855081332384
+ymin: 0.27376306678080087
+ymax: 0.27452681423497605
+
+contrast: 1.5
+brightness: -0.05
+saturation: 1.07
+gamma: 0.96
+gamma_r: 1.07
+gamma_g: 1.06
+gamma_b: 0.92
+vignette: 32
+temp: 4504
