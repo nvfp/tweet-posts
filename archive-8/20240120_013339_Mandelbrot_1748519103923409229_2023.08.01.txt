@@ -1,0 +1,28 @@
+tweet_id: 1748519103923409229
+masto_id: 111785700163725452
+subre_id: Not uploaded, but here's the text: Saturday vibes!  #Art #VisualArt
+
+n_iter: 297
+ct: 247
+hue_offset: 32
+saturation: 0.68
+
+num_attempts: 28
+dur: 4
+std: 39.52
+size: 1212204 (1.16 MiB)
+
+xmin: -0.05366889542161202
+xmax: -0.05256116903003074
+ymin: -0.8189016188511479
+ymax: -0.8182785227558834
+
+contrast: 1.2
+brightness: 0.02
+saturation: 1.68
+gamma: 0.96
+gamma_r: 1.03
+gamma_g: 0.93
+gamma_b: 0.91
+vignette: 7
+temp: 3382
