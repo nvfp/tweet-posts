@@ -1,0 +1,28 @@
+tweet_id: 1748777939930411078
+masto_id: 111789744496566100
+subre_id: Not uploaded, but here's the text: Good Saturday! This Multibrot is for you!  #GenerativeArt #Mathematics
+
+n_iter: 408
+ct: 255
+hue_offset: 57
+saturation: 0.74
+
+num_attempts: 595
+dur: 600
+std: 58.73
+size: 901047 (879.93 KiB)
+
+xmin: -0.5193416936505673
+xmax: -0.505306605931269
+ymin: 0.43315451841227937
+ymax: 0.44104925525438465
+
+contrast: 1.06
+brightness: 0.21
+saturation: 0.32
+gamma: 1.06
+gamma_r: 0.84
+gamma_g: 0.81
+gamma_b: 1.05
+vignette: 11
+temp: 5494
