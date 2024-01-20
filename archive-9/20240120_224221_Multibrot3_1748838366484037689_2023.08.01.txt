@@ -1,0 +1,28 @@
+tweet_id: 1748838366484037689
+masto_id: 111790688850046277
+subre_id: Not uploaded, but here's the text: Hello Saturday! This Multibrot is yours!  #DigitalArt #Fractals
+
+n_iter: 453
+ct: 255
+hue_offset: 149
+saturation: 0.63
+
+num_attempts: 602
+dur: 606
+std: 60.71
+size: 882825 (862.13 KiB)
+
+xmin: -0.44527408887339237
+xmax: -0.4384481503068395
+ymin: 0.022072593952224162
+ymax: 0.02591218439591017
+
+contrast: 0.83
+brightness: -0.05
+saturation: 1.12
+gamma: 1.02
+gamma_r: 0.84
+gamma_g: 0.9
+gamma_b: 1.02
+vignette: 5
+temp: 4243
