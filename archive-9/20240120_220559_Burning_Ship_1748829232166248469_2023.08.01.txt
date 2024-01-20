@@ -1,0 +1,28 @@
+tweet_id: 1748829232166248469
+masto_id: 111790545891210573
+subre_id: Not uploaded, but here's the text: Wishing you the best!  #Mathematics #DeepLearning
+
+n_iter: 476
+ct: 226
+hue_offset: 265
+saturation: -0.54
+
+num_attempts: 6
+dur: 4
+std: 51.22
+size: 1025351 (1001.32 KiB)
+
+xmin: -1.2118452686024652
+xmax: -0.08684526860246522
+ymin: -1.2195702573723501
+ymax: -0.5867577573723501
+
+contrast: 1.15
+brightness: 0.15
+saturation: 1.43
+gamma: 1.08
+gamma_r: 1.01
+gamma_g: 0.9
+gamma_b: 0.92
+vignette: 6
+temp: 7921
