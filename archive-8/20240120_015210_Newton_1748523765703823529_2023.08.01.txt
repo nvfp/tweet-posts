@@ -1,0 +1,31 @@
+tweet_id: 1748523765703823529
+masto_id: 111785773008017044
+subre_id: Not uploaded, but here's the text: Enjoying the Saturday with this Newton.  #Fractals #DigitalArt
+
+newton_power: 7
+newton_const: 4
+
+n_iter: 241
+ct: 34
+hue_offset: 234
+saturation: 0.69
+
+num_attempts: 151
+dur: 600
+std: 24.22
+size: 1137282 (1.08 MiB)
+
+xmin: 0.2725944602996031
+xmax: 0.28402303172817456
+ymin: 0.792849912383859
+ymax: 0.7992784838124305
+
+contrast: 1.13
+brightness: -0.06
+saturation: 1.19
+gamma: 1.08
+gamma_r: 0.94
+gamma_g: 1.08
+gamma_b: 0.95
+vignette: 32
+temp: 5567
