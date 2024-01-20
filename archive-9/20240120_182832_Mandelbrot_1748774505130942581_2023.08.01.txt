@@ -1,0 +1,28 @@
+tweet_id: 1748774505130942581
+masto_id: 111789690857073226
+subre_id: Not uploaded, but here's the text: Feeling good today!  #Mathematics #Nature
+
+n_iter: 384
+ct: 218
+hue_offset: 246
+saturation: 0.55
+
+num_attempts: 12
+dur: 1
+std: 23.7
+size: 1139378 (1.09 MiB)
+
+xmin: -0.7082606627967989
+xmax: -0.7078338595530942
+ymin: 0.332846254615192
+ymax: 0.3330863314397759
+
+contrast: 1.11
+brightness: -0.03
+saturation: 0.7
+gamma: 1.09
+gamma_r: 0.91
+gamma_g: 0.92
+gamma_b: 1.07
+vignette: 28
+temp: 5015
