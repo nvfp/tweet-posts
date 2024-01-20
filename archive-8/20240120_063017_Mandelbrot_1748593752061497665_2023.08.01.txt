@@ -1,0 +1,28 @@
+tweet_id: 1748593752061497665
+masto_id: 111786866586391419
+subre_id: Not uploaded, but here's the text: Look what we have here! it's Mandelbrot Set!  #DeepLearning #AI
+
+n_iter: 947
+ct: 173
+hue_offset: 76
+saturation: -0.98
+
+num_attempts: 124
+dur: 67
+std: 24.37
+size: 912682 (891.29 KiB)
+
+xmin: -1.1677657544382616
+xmax: -1.1669671918509188
+ymin: -0.2510079339236597
+ymax: -0.2505587424682794
+
+contrast: 0.8
+brightness: 0.04
+saturation: 1.42
+gamma: 1.09
+gamma_r: 0.98
+gamma_g: 0.93
+gamma_b: 0.97
+vignette: -20
+temp: 4140
