@@ -1,0 +1,28 @@
+tweet_id: 1749137073640968438
+masto_id: 111795356042635708
+subre_id: Not uploaded, but here's the text: A great Sunday and a beautiful Mandelbrot Set.  #Art #Fractals
+
+n_iter: 871
+ct: 117
+hue_offset: 344
+saturation: 0.84
+
+num_attempts: 36
+dur: 10
+std: 37.38
+size: 1149485 (1.1 MiB)
+
+xmin: -0.7136156458367688
+xmax: -0.7131974982306639
+ymin: -0.29944439382121946
+ymax: -0.29920918579278544
+
+contrast: 0.97
+brightness: 0.0
+saturation: 1.24
+gamma: 0.96
+gamma_r: 1.03
+gamma_g: 0.93
+gamma_b: 0.96
+vignette: -9
+temp: 6681
