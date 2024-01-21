@@ -1,0 +1,28 @@
+tweet_id: 1749053077603369030
+masto_id: 111794043441166737
+subre_id: Not uploaded, but here's the text: Hey there, it's Sunday!  #AI #MachineLearning
+
+n_iter: 362
+ct: 255
+hue_offset: 68
+saturation: -0.7
+
+num_attempts: 716
+dur: 604
+std: 65.93
+size: 913350 (891.94 KiB)
+
+xmin: 0.3773430149907022
+xmax: 0.3816302604355039
+ymin: -0.6367897278762901
+ymax: -0.6343781523135891
+
+contrast: 0.83
+brightness: -0.02
+saturation: 1.28
+gamma: 0.87
+gamma_r: 0.84
+gamma_g: 0.82
+gamma_b: 0.89
+vignette: -18
+temp: 2797
