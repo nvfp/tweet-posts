@@ -1,0 +1,28 @@
+tweet_id: 1748894798268743806
+masto_id: 111791570378936120
+subre_id: Not uploaded, but here's the text: Wishing you a rad Sunday!  #DigitalArt #DeepLearning
+
+n_iter: 478
+ct: 119
+hue_offset: 54
+saturation: -0.4
+
+num_attempts: 1
+dur: 0
+std: 37.29
+size: 1085293 (1.04 MiB)
+
+xmin: -2.0214222656725713
+xmax: -0.5214222656725713
+ymin: -1.1302162068873054
+ymax: -0.2864662068873054
+
+contrast: 1.44
+brightness: 0.21
+saturation: 0.99
+gamma: 1.0
+gamma_r: 1.03
+gamma_g: 1.07
+gamma_b: 0.93
+vignette: -29
+temp: 5432
