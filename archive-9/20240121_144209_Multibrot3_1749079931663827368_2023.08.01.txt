@@ -1,0 +1,28 @@
+tweet_id: 1749079931663827368
+masto_id: 111794463012618450
+subre_id: Not uploaded, but here's the text: Hello Sunday! This Multibrot is yours!  #DigitalArt #Art
+
+n_iter: 704
+ct: 255
+hue_offset: 61
+saturation: 0.18
+
+num_attempts: 387
+dur: 606
+std: 94.63
+size: 504149 (492.33 KiB)
+
+xmin: -0.13168278130472721
+xmax: -0.12740012605847453
+ymin: 0.8136446693785153
+ymax: 0.8160536629545324
+
+contrast: 1.32
+brightness: 0.07
+saturation: 1.55
+gamma: 1.07
+gamma_r: 0.88
+gamma_g: 1.11
+gamma_b: 0.98
+vignette: 14
+temp: 3236
