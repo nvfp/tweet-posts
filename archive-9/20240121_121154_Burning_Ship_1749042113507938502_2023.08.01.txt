@@ -1,0 +1,28 @@
+tweet_id: 1749042113507938502
+masto_id: 111793872207818994
+subre_id: Not uploaded, but here's the text: Sunday vibes!  #Nature #MachineLearning
+
+n_iter: 340
+ct: 30
+hue_offset: 258
+saturation: -0.67
+
+num_attempts: 36
+dur: 12
+std: 45.76
+size: 1260542 (1.2 MiB)
+
+xmin: -0.40290890212408037
+xmax: 0.006182006966828746
+ymin: -1.2034269722931614
+ymax: -0.9733133359295251
+
+contrast: 0.99
+brightness: 0.18
+saturation: 0.97
+gamma: 1.06
+gamma_r: 1.09
+gamma_g: 0.92
+gamma_b: 0.98
+vignette: -8
+temp: 4447
