@@ -1,0 +1,31 @@
+tweet_id: 1749175117073285279
+masto_id: FAIL
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Sunday!  #DeepLearning #MachineLearning
+
+newton_power: 6
+newton_const: 4
+
+n_iter: 215
+ct: 227
+hue_offset: 114
+saturation: 0.38
+
+num_attempts: 163
+dur: 607
+std: 18.04
+size: 1022262 (998.3 KiB)
+
+xmin: -0.22290237611911845
+xmax: 0.6342404810237386
+ymin: -0.005017944087402304
+ymax: 0.4771249130554548
+
+contrast: 0.98
+brightness: -0.02
+saturation: 1.6
+gamma: 0.97
+gamma_r: 0.93
+gamma_g: 1.07
+gamma_b: 0.99
+vignette: 11
+temp: 6572
