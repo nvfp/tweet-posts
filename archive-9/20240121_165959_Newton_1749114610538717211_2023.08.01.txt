@@ -1,0 +1,31 @@
+tweet_id: 1749114610538717211
+masto_id: 111795004969455708
+subre_id: Not uploaded, but here's the text: Let's rock this Sunday!  #Art #MachineLearning
+
+newton_power: 5
+newton_const: 5
+
+n_iter: 129
+ct: 104
+hue_offset: 227
+saturation: 0.55
+
+num_attempts: 211
+dur: 602
+std: 14.07
+size: 1205927 (1.15 MiB)
+
+xmin: 0.2607478865630255
+xmax: 0.27741455322969216
+ymin: 0.5271069565696829
+ymax: 0.5364819565696829
+
+contrast: 1.22
+brightness: 0.15
+saturation: 0.46
+gamma: 1.05
+gamma_r: 0.95
+gamma_g: 1.04
+gamma_b: 0.96
+vignette: -32
+temp: 5623
