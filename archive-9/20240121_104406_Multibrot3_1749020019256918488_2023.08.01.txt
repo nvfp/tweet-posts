@@ -1,0 +1,28 @@
+tweet_id: 1749020019256918488
+masto_id: 111793526924500447
+subre_id: Not uploaded, but here's the text: Guess what? It's Multibrot!  #Art #GenerativeArt
+
+n_iter: 358
+ct: 1
+hue_offset: 136
+saturation: -0.42
+
+num_attempts: 613
+dur: 603
+std: 62.62
+size: 1076308 (1.03 MiB)
+
+xmin: 0.44717713742680987
+xmax: 0.45630955751813407
+ymin: 0.548615048721707
+ymax: 0.5537520350230768
+
+contrast: 1.63
+brightness: -0.05
+saturation: 1.18
+gamma: 1.08
+gamma_r: 0.98
+gamma_g: 0.88
+gamma_b: 0.85
+vignette: 33
+temp: 4468
