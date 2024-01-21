@@ -1,0 +1,31 @@
+tweet_id: 1748993844757029182
+masto_id: 111793117989431027
+subre_id: Not uploaded, but here's the text: Sunday vibes!  #Nature #GenerativeArt
+
+newton_power: 7
+newton_const: -3
+
+n_iter: 71
+ct: 3
+hue_offset: 271
+saturation: 0.59
+
+num_attempts: 163
+dur: 601
+std: 20.7
+size: 1168506 (1.11 MiB)
+
+xmin: -0.0844430769578941
+xmax: -0.06813872913180714
+ymin: -0.8420506489167441
+ymax: -0.8328794532645701
+
+contrast: 1.47
+brightness: -0.05
+saturation: 1.02
+gamma: 1.03
+gamma_r: 0.96
+gamma_g: 1.09
+gamma_b: 1.05
+vignette: -25
+temp: 7473
