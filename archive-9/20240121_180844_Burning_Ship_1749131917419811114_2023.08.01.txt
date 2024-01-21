@@ -1,0 +1,28 @@
+tweet_id: 1749131917419811114
+masto_id: 111795275330553329
+subre_id: Not uploaded, but here's the text: Have an awesome Sunday!  #Nature #MachineLearning
+
+n_iter: 311
+ct: 92
+hue_offset: 88
+saturation: 0.75
+
+num_attempts: 1
+dur: 0
+std: 25.15
+size: 1705866 (1.63 MiB)
+
+xmin: -0.7951559642521777
+xmax: -0.5451559642521777
+ymin: -1.0723970731932906
+ymax: -0.9317720731932906
+
+contrast: 0.95
+brightness: 0.22
+saturation: 1.34
+gamma: 0.93
+gamma_r: 0.94
+gamma_g: 1.09
+gamma_b: 0.9
+vignette: 10
+temp: 5464
