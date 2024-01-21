@@ -1,0 +1,28 @@
+tweet_id: 1749107736879542343
+masto_id: 111794897611645705
+subre_id: Not uploaded, but here's the text: Shine bright like the sun on this Sunday!  #GenerativeArt #VisualArt
+
+n_iter: 835
+ct: 141
+hue_offset: 60
+saturation: -0.13
+
+num_attempts: 207
+dur: 98
+std: 99.86
+size: 1190181 (1.14 MiB)
+
+xmin: -0.7565343734956553
+xmax: -0.7558846009160582
+ymin: -0.06675745957847568
+ymax: -0.06639196250245229
+
+contrast: 1.01
+brightness: -0.05
+saturation: 1.61
+gamma: 0.93
+gamma_r: 1.02
+gamma_g: 0.98
+gamma_b: 0.9
+vignette: -41
+temp: 5036
