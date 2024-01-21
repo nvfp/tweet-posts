@@ -1,0 +1,31 @@
+tweet_id: 1749056959796723833
+masto_id: 111794104068573369
+subre_id: Not uploaded, but here's the text: Hope you're having a great Sunday!  #AI #VisualArt
+
+newton_power: 3
+newton_const: 0
+
+n_iter: 97
+ct: 47
+hue_offset: 212
+saturation: 0.36
+
+num_attempts: 434
+dur: 851
+std: 0.49
+size: 364906 (356.35 KiB)
+
+xmin: 2.322251450418471
+xmax: 2.461786334139401
+ymin: -1.7294040517610725
+ymax: -1.6509156796680493
+
+contrast: 0.91
+brightness: 0.16
+saturation: 1.08
+gamma: 1.0
+gamma_r: 0.94
+gamma_g: 0.9
+gamma_b: 0.99
+vignette: 4
+temp: 5174
