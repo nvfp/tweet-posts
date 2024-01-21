@@ -1,0 +1,28 @@
+tweet_id: 1748926087781056620
+masto_id: 111792059333999808
+subre_id: Not uploaded, but here's the text: Let's make it a memorable Sunday!  #Mathematics #DigitalArt
+
+n_iter: 752
+ct: 107
+hue_offset: 166
+saturation: 0.69
+
+num_attempts: 174
+dur: 90
+std: 30.16
+size: 1228402 (1.17 MiB)
+
+xmin: 0.3947357325807501
+xmax: 0.39565717925202404
+ymin: -0.19820712347972036
+ymax: -0.1976888097271288
+
+contrast: 1.72
+brightness: 0.22
+saturation: 0.6
+gamma: 1.05
+gamma_r: 0.93
+gamma_g: 0.99
+gamma_b: 1.03
+vignette: -48
+temp: 6883
