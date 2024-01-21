@@ -1,0 +1,28 @@
+tweet_id: 1749111066229965120
+masto_id: 111794949565399577
+subre_id: Not uploaded, but here's the text: Hope you're having a great Sunday!  #GenerativeArt #DeepLearning
+
+n_iter: 388
+ct: 1
+hue_offset: 3
+saturation: -0.65
+
+num_attempts: 546
+dur: 600
+std: 51.63
+size: 1044308 (1019.83 KiB)
+
+xmin: -0.3884068546758268
+xmax: -0.374754977542721
+ymin: 0.6724402079727985
+ymax: 0.6801193888601704
+
+contrast: 1.22
+brightness: 0.09
+saturation: 0.71
+gamma: 0.89
+gamma_r: 0.93
+gamma_g: 1.19
+gamma_b: 0.84
+vignette: 13
+temp: 7548
