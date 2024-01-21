@@ -1,0 +1,28 @@
+tweet_id: 1748883369579118964
+masto_id: 111791391860700625
+subre_id: Not uploaded, but here's the text: Smile!  #GenerativeArt #Nature
+
+n_iter: 826
+ct: 153
+hue_offset: 267
+saturation: -0.65
+
+num_attempts: 14
+dur: 12
+std: 47.95
+size: 884072 (863.35 KiB)
+
+xmin: 0.3083040645808328
+xmax: 0.36163739791416616
+ymin: 0.48296117126157023
+ymax: 0.5129611712615703
+
+contrast: 1.23
+brightness: 0.17
+saturation: 1.05
+gamma: 0.94
+gamma_r: 1.0
+gamma_g: 1.02
+gamma_b: 0.98
+vignette: 8
+temp: 2052
