@@ -1,0 +1,28 @@
+tweet_id: 1749500074210537868
+masto_id: 111801027780050938
+subre_id: Not uploaded, but here's the text: Another Monday, another Mandelbrot Set!  #Nature #GenerativeArt
+
+n_iter: 718
+ct: 192
+hue_offset: 25
+saturation: 0.06
+
+num_attempts: 93
+dur: 69
+std: 108.68
+size: 1559824 (1.49 MiB)
+
+xmin: -0.5335008701085666
+xmax: -0.5271212847816129
+ymin: -0.508518183619462
+ymax: -0.5049296668730505
+
+contrast: 1.45
+brightness: -0.05
+saturation: 1.21
+gamma: 0.95
+gamma_r: 0.98
+gamma_g: 0.9
+gamma_b: 0.97
+vignette: -31
+temp: 7190
