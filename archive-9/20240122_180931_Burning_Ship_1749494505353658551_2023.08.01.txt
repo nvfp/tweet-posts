@@ -1,0 +1,28 @@
+tweet_id: 1749494505353658551
+masto_id: 111800940716084380
+subre_id: Not uploaded, but here's the text: Enjoying the Monday with this Burning Ship.  #GenerativeArt #Art
+
+n_iter: 203
+ct: 159
+hue_offset: 88
+saturation: -0.35
+
+num_attempts: 6
+dur: 1
+std: 35.85
+size: 739154 (721.83 KiB)
+
+xmin: 0.4184375314461217
+xmax: 0.7184375314461218
+ymin: -1.2120614095887638
+ymax: -1.043311409588764
+
+contrast: 1.73
+brightness: -0.03
+saturation: 1.43
+gamma: 0.91
+gamma_r: 0.94
+gamma_g: 1.09
+gamma_b: 0.95
+vignette: 1
+temp: 2529
