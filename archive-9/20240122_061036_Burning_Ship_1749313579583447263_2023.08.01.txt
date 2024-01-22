@@ -1,0 +1,28 @@
+tweet_id: 1749313579583447263
+masto_id: 111798113849683109
+subre_id: Not uploaded, but here's the text: Enjoying the Monday with this Burning Ship.  #GenerativeArt #Fractals
+
+n_iter: 424
+ct: 178
+hue_offset: 187
+saturation: 0.16
+
+num_attempts: 16
+dur: 4
+std: 32.68
+size: 845501 (825.68 KiB)
+
+xmin: -1.3607583583327838
+xmax: 0.8892416416672162
+ymin: -1.4515766468323532
+ymax: -0.1859516468323532
+
+contrast: 1.51
+brightness: 0.21
+saturation: 1.25
+gamma: 1.05
+gamma_r: 1.07
+gamma_g: 0.95
+gamma_b: 1.01
+vignette: -28
+temp: 3015
