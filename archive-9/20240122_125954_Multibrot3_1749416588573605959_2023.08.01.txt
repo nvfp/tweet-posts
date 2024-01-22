@@ -1,0 +1,28 @@
+tweet_id: 1749416588573605959
+masto_id: 111799723240867064
+subre_id: Not uploaded, but here's the text: You are lovely!  #GenerativeArt #MachineLearning
+
+n_iter: 528
+ct: 255
+hue_offset: 296
+saturation: -0.62
+
+num_attempts: 419
+dur: 607
+std: 65.76
+size: 694969 (678.68 KiB)
+
+xmin: 0.48408648204564564
+xmax: 0.49554780009722155
+ymin: -0.08258675792401093
+ymax: -0.07613976651999947
+
+contrast: 1.55
+brightness: 0.02
+saturation: 0.59
+gamma: 0.96
+gamma_r: 0.83
+gamma_g: 1.09
+gamma_b: 1.06
+vignette: -31
+temp: 4927
