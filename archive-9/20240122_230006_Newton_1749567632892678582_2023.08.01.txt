@@ -1,0 +1,31 @@
+tweet_id: 1749567632892678582
+masto_id: 111802083337924408
+subre_id: Not uploaded, but here's the text: Newton vibes to brighten your Monday.  #GenerativeArt #VisualArt
+
+newton_power: 6
+newton_const: 8
+
+n_iter: 245
+ct: 105
+hue_offset: 15
+saturation: -0.18
+
+num_attempts: 177
+dur: 600
+std: 14.73
+size: 486799 (475.39 KiB)
+
+xmin: -0.3554280805233079
+xmax: 0.5017147766195492
+ymin: 0.04517532373602773
+ymax: 0.5273181808788848
+
+contrast: 1.3
+brightness: 0.21
+saturation: 1.45
+gamma: 1.09
+gamma_r: 1.08
+gamma_g: 0.92
+gamma_b: 0.99
+vignette: 4
+temp: 7734
