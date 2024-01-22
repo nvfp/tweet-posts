@@ -1,0 +1,28 @@
+tweet_id: 1749383123648098554
+masto_id: 111799200430499449
+subre_id: Not uploaded, but here's the text: Wow, guess what? it's Multibrot!  #MachineLearning #Art
+
+n_iter: 273
+ct: 1
+hue_offset: 288
+saturation: 0.88
+
+num_attempts: 876
+dur: 603
+std: 47.49
+size: 1051608 (1.0 MiB)
+
+xmin: 0.5505568683560687
+xmax: 0.5555012441286273
+ymin: -0.2084099503919714
+ymax: -0.20562873901990714
+
+contrast: 1.55
+brightness: 0.04
+saturation: 1.57
+gamma: 0.93
+gamma_r: 0.91
+gamma_g: 1.13
+gamma_b: 1.14
+vignette: 27
+temp: 7475
