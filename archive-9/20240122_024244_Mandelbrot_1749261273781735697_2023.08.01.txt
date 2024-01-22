@@ -1,0 +1,28 @@
+tweet_id: 1749261273781735697
+masto_id: 111797296437859802
+subre_id: Not uploaded, but here's the text: Monday vibes!  #Art #VisualArt
+
+n_iter: 261
+ct: 83
+hue_offset: 4
+saturation: 0.91
+
+num_attempts: 138
+dur: 35
+std: 62.41
+size: 398237 (388.9 KiB)
+
+xmin: -0.6607333758213247
+xmax: -0.6592176501676681
+ymin: 0.34198343499040873
+ymax: 0.3428360306705906
+
+contrast: 1.2
+brightness: -0.03
+saturation: 0.9
+gamma: 0.96
+gamma_r: 1.05
+gamma_g: 1.01
+gamma_b: 1.03
+vignette: -23
+temp: 3611
