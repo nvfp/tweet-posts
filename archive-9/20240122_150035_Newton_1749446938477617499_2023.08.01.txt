@@ -1,0 +1,31 @@
+tweet_id: 1749446938477617499
+masto_id: 111800197672608967
+subre_id: Not uploaded, but here's the text: Have a great day!  #DigitalArt #Fractals
+
+newton_power: 5
+newton_const: 3
+
+n_iter: 160
+ct: 215
+hue_offset: 245
+saturation: -0.36
+
+num_attempts: 209
+dur: 606
+std: 12.9
+size: 895853 (874.86 KiB)
+
+xmin: -1.544097414641692
+xmax: -1.5380183872860689
+ymin: 0.9090469440143165
+ymax: 0.9124663969018545
+
+contrast: 1.35
+brightness: 0.15
+saturation: 0.26
+gamma: 1.04
+gamma_r: 1.03
+gamma_g: 0.92
+gamma_b: 1.09
+vignette: -13
+temp: 4310
