@@ -1,0 +1,31 @@
+tweet_id: 1749477091706331629
+masto_id: 111800668736127087
+subre_id: Not uploaded, but here's the text: Happy Monday! Enjoy the beauty of Newton.  #Art #DigitalArt
+
+newton_power: 3
+newton_const: -7
+
+n_iter: 181
+ct: 117
+hue_offset: 113
+saturation: 0.83
+
+num_attempts: 544
+dur: 600
+std: 4.41
+size: 717725 (700.9 KiB)
+
+xmin: -1.7396107728633856
+xmax: -0.9896107728633856
+ymin: -0.29558855175330634
+ymax: 0.12628644824669366
+
+contrast: 0.84
+brightness: 0.06
+saturation: 1.11
+gamma: 1.07
+gamma_r: 1.09
+gamma_g: 1.01
+gamma_b: 1.06
+vignette: -8
+temp: 5884
