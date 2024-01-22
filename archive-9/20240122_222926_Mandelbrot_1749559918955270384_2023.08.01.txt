@@ -1,0 +1,28 @@
+tweet_id: 1749559918955270384
+masto_id: 111801962742139203
+subre_id: Not uploaded, but here's the text: Monday is shining brightly, just like this Mandelbrot Set.  #GenerativeArt #AI
+
+n_iter: 973
+ct: 129
+hue_offset: 49
+saturation: -0.57
+
+num_attempts: 133
+dur: 81
+std: 93.89
+size: 129307 (126.28 KiB)
+
+xmin: -0.04426841016777372
+xmax: -0.043562320141295345
+ymin: 0.6471077036150352
+ymax: 0.6475048792549293
+
+contrast: 1.51
+brightness: 0.07
+saturation: 0.52
+gamma: 1.06
+gamma_r: 1.05
+gamma_g: 1.0
+gamma_b: 1.07
+vignette: -7
+temp: 6609
