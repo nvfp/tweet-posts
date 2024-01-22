@@ -1,0 +1,28 @@
+tweet_id: 1749352789434671569
+masto_id: 111798726492857457
+subre_id: Not uploaded, but here's the text: Happy Monday! Enjoy the beauty of Multibrot.  #Fractals #Nature
+
+n_iter: 432
+ct: 255
+hue_offset: 332
+saturation: -0.94
+
+num_attempts: 542
+dur: 600
+std: 73.28
+size: 982129 (959.11 KiB)
+
+xmin: -0.13302893314219233
+xmax: -0.1282212408345
+ymin: -0.8157134584002126
+ymax: -0.8130091314771357
+
+contrast: 1.46
+brightness: 0.08
+saturation: 0.26
+gamma: 1.19
+gamma_r: 0.87
+gamma_g: 0.82
+gamma_b: 1.09
+vignette: -19
+temp: 4470
