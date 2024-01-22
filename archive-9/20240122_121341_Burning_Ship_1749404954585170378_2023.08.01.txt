@@ -1,0 +1,28 @@
+tweet_id: 1749404954585170378
+masto_id: 111799541500126959
+subre_id: Not uploaded, but here's the text: Have an extraordinary Monday!  #VisualArt #DigitalArt
+
+n_iter: 223
+ct: 172
+hue_offset: 286
+saturation: 0.91
+
+num_attempts: 17
+dur: 4
+std: 38.38
+size: 1216828 (1.16 MiB)
+
+xmin: 0.3471034324718474
+xmax: 0.6471034324718474
+ymin: -1.2219342441588887
+ymax: -1.0531842441588888
+
+contrast: 1.12
+brightness: -0.01
+saturation: 0.96
+gamma: 0.91
+gamma_r: 0.96
+gamma_g: 0.93
+gamma_b: 1.05
+vignette: -24
+temp: 7465
