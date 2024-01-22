@@ -1,0 +1,28 @@
+tweet_id: 1749433667561410931
+masto_id: 111799990250746819
+subre_id: Not uploaded, but here's the text: Beautiful Monday with this Burning Ship!  #DeepLearning #GenerativeArt
+
+n_iter: 162
+ct: 130
+hue_offset: 86
+saturation: 0.58
+
+num_attempts: 91
+dur: 17
+std: 21.66
+size: 1199340 (1.14 MiB)
+
+xmin: -1.3934233913373566
+xmax: -0.8934233913373566
+ymin: -0.7244382537511529
+ymax: -0.4431882537511529
+
+contrast: 0.77
+brightness: 0.06
+saturation: 0.56
+gamma: 1.08
+gamma_r: 1.06
+gamma_g: 1.09
+gamma_b: 1.0
+vignette: -41
+temp: 2942
