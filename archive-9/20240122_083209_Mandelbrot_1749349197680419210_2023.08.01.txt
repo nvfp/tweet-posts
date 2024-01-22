@@ -1,0 +1,28 @@
+tweet_id: 1749349197680419210
+masto_id: 111798670412658804
+subre_id: Not uploaded, but here's the text: Keep smiling!  #Fractals #GenerativeArt
+
+n_iter: 345
+ct: 191
+hue_offset: 147
+saturation: -0.32
+
+num_attempts: 60
+dur: 15
+std: 42.95
+size: 695500 (679.2 KiB)
+
+xmin: -0.09928189384778774
+xmax: -0.09829594363827332
+ymin: 0.8402584660580341
+ymax: 0.840813063050886
+
+contrast: 1.21
+brightness: 0.21
+saturation: 0.82
+gamma: 1.09
+gamma_r: 1.09
+gamma_g: 0.9
+gamma_b: 0.9
+vignette: 14
+temp: 6404
