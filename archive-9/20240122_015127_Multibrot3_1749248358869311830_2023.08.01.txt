@@ -1,0 +1,28 @@
+tweet_id: 1749248358869311830
+masto_id: 111797094777382406
+subre_id: Not uploaded, but here's the text: This Monday is made even better by this Multibrot!  #Art #GenerativeArt
+
+n_iter: 410
+ct: 255
+hue_offset: 71
+saturation: -0.86
+
+num_attempts: 543
+dur: 600
+std: 53.48
+size: 1093408 (1.04 MiB)
+
+xmin: 0.4193365614926794
+xmax: 0.447907990064108
+ymin: 0.5709205054633486
+ymax: 0.5869919340347771
+
+contrast: 1.23
+brightness: 0.1
+saturation: 1.03
+gamma: 1.15
+gamma_r: 0.84
+gamma_g: 1.02
+gamma_b: 0.88
+vignette: -15
+temp: 6348
