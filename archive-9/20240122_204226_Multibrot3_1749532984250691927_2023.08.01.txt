@@ -1,0 +1,28 @@
+tweet_id: 1749532984250691927
+masto_id: 111801541979673031
+subre_id: Not uploaded, but here's the text: Beautiful Monday with this Multibrot!  #DeepLearning #AI
+
+n_iter: 317
+ct: 255
+hue_offset: 164
+saturation: -0.07
+
+num_attempts: 610
+dur: 600
+std: 53.26
+size: 930431 (908.62 KiB)
+
+xmin: -0.1679332439090746
+xmax: -0.16355208290140757
+ymin: -1.0821930718738928
+ymax: -1.0797286688070802
+
+contrast: 1.35
+brightness: -0.06
+saturation: 1.63
+gamma: 1.02
+gamma_r: 1.14
+gamma_g: 1.0
+gamma_b: 0.95
+vignette: -40
+temp: 4189
