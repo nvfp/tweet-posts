@@ -1,0 +1,28 @@
+tweet_id: 1749563201312669914
+masto_id: 111802014106763226
+subre_id: Not uploaded, but here's the text: Enjoying the Monday with this Multibrot.  #Art #AI
+
+n_iter: 570
+ct: 1
+hue_offset: 98
+saturation: 0.51
+
+num_attempts: 445
+dur: 608
+std: 64.68
+size: 570646 (557.27 KiB)
+
+xmin: -0.2753718858076566
+xmax: -0.2609833965990235
+ymin: 0.7165848510198813
+ymax: 0.7246783761997374
+
+contrast: 1.34
+brightness: -0.09
+saturation: 1.16
+gamma: 1.02
+gamma_r: 0.96
+gamma_g: 0.91
+gamma_b: 1.09
+vignette: -40
+temp: 3247
