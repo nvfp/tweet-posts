@@ -1,0 +1,28 @@
+tweet_id: 1749257554243555474
+masto_id: 111797238398380552
+subre_id: Not uploaded, but here's the text: Keep smiling!  #Nature #MachineLearning
+
+n_iter: 151
+ct: 46
+hue_offset: 257
+saturation: 0.82
+
+num_attempts: 90
+dur: 18
+std: 22.31
+size: 1623854 (1.55 MiB)
+
+xmin: -1.2267192880567988
+xmax: -0.5838621451996558
+ymin: -1.0625640476267884
+ymax: -0.7009569047696455
+
+contrast: 1.06
+brightness: 0.22
+saturation: 0.33
+gamma: 0.93
+gamma_r: 1.08
+gamma_g: 0.91
+gamma_b: 0.92
+vignette: -22
+temp: 2515
