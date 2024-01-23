@@ -1,0 +1,28 @@
+tweet_id: 1749681178410357161
+masto_id: 111803857583771282
+subre_id: Not uploaded, but here's the text: Wow, guess what? it's Mandelbrot Set!  #VisualArt #DeepLearning
+
+n_iter: 983
+ct: 108
+hue_offset: 323
+saturation: 0.15
+
+num_attempts: 1
+dur: 1
+std: 88.92
+size: 1792734 (1.71 MiB)
+
+xmin: -0.49075381585681876
+xmax: -0.4901075078910731
+ymin: -0.6094759025575502
+ymax: -0.6091123543268183
+
+contrast: 1.01
+brightness: -0.08
+saturation: 1.66
+gamma: 1.08
+gamma_r: 0.96
+gamma_g: 1.0
+gamma_b: 0.97
+vignette: -33
+temp: 6808
