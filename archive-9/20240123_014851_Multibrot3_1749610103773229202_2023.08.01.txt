@@ -1,0 +1,28 @@
+tweet_id: 1749610103773229202
+masto_id: 111802746898053978
+subre_id: Not uploaded, but here's the text: You rock, and so does this Tuesday!  #Mathematics #DeepLearning
+
+n_iter: 479
+ct: 255
+hue_offset: 82
+saturation: -0.62
+
+num_attempts: 473
+dur: 601
+std: 76.68
+size: 646347 (631.2 KiB)
+
+xmin: 0.057235178689468036
+xmax: 0.06630547347404854
+ymin: -0.7690899143840831
+ymax: -0.7639878735677567
+
+contrast: 1.65
+brightness: 0.03
+saturation: 0.66
+gamma: 1.03
+gamma_r: 0.89
+gamma_g: 0.91
+gamma_b: 0.98
+vignette: 16
+temp: 7709
