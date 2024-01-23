@@ -1,0 +1,28 @@
+tweet_id: 1749862175836078159
+masto_id: 111806685745446542
+subre_id: Not uploaded, but here's the text: Wishing you a wonderful Tuesday!  #Fractals #Mathematics
+
+n_iter: 177
+ct: 149
+hue_offset: 151
+saturation: 0.96
+
+num_attempts: 4
+dur: 0
+std: 28.01
+size: 868737 (848.38 KiB)
+
+xmin: -0.6535558308351193
+xmax: -0.6525117170267142
+ymin: 0.38465068206379116
+ymax: 0.38523799608101905
+
+contrast: 0.7
+brightness: -0.04
+saturation: 1.52
+gamma: 0.96
+gamma_r: 1.02
+gamma_g: 1.02
+gamma_b: 0.9
+vignette: -9
+temp: 5261
