@@ -1,0 +1,28 @@
+tweet_id: 1749805170614227358
+masto_id: 111805795052012570
+subre_id: Not uploaded, but here's the text: Happy Tuesday!  #DigitalArt #GenerativeArt
+
+n_iter: 516
+ct: 255
+hue_offset: 239
+saturation: 0.72
+
+num_attempts: 489
+dur: 600
+std: 64.78
+size: 805999 (787.11 KiB)
+
+xmin: 0.5367480560890336
+xmax: 0.5463174340794643
+ymin: 0.238905506059097
+ymax: 0.2442882811787142
+
+contrast: 0.83
+brightness: 0.11
+saturation: 0.98
+gamma: 0.92
+gamma_r: 1.07
+gamma_g: 1.17
+gamma_b: 0.92
+vignette: -11
+temp: 7626
