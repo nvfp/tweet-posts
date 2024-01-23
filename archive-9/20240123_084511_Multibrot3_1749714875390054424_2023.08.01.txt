@@ -1,0 +1,28 @@
+tweet_id: 1749714875390054424
+masto_id: 111804384004377165
+subre_id: Not uploaded, but here's the text: Have an awesome day!  #Fractals #MachineLearning
+
+n_iter: 301
+ct: 255
+hue_offset: 288
+saturation: -0.78
+
+num_attempts: 677
+dur: 601
+std: 55.03
+size: 948186 (925.96 KiB)
+
+xmin: 0.5400223180347066
+xmax: 0.5440223180347066
+ymin: -0.34810508967555576
+ymax: -0.3458550896755558
+
+contrast: 1.7
+brightness: 0.16
+saturation: 1.17
+gamma: 1.13
+gamma_r: 1.16
+gamma_g: 1.06
+gamma_b: 0.86
+vignette: 5
+temp: 4575
