@@ -1,0 +1,28 @@
+tweet_id: 1749922463515881807
+masto_id: 111807627736318100
+subre_id: Not uploaded, but here's the text: Let this Mandelbrot Set inspire your Tuesday.  #AI #DeepLearning
+
+n_iter: 484
+ct: 114
+hue_offset: 286
+saturation: -0.27
+
+num_attempts: 51
+dur: 14
+std: 56.28
+size: 651694 (636.42 KiB)
+
+xmin: -0.21070198554157837
+xmax: -0.2051694820837637
+ymin: -0.7001754423556564
+ymax: -0.6970634091606357
+
+contrast: 0.96
+brightness: 0.15
+saturation: 0.77
+gamma: 1.01
+gamma_r: 1.07
+gamma_g: 1.01
+gamma_b: 1.0
+vignette: -40
+temp: 4931
