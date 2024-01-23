@@ -1,0 +1,31 @@
+tweet_id: 1749839447749767214
+masto_id: 111806330520203785
+subre_id: Not uploaded, but here's the text: Wishing you a rad Tuesday!  #DeepLearning #Mathematics
+
+newton_power: 4
+newton_const: -1
+
+n_iter: 112
+ct: 48
+hue_offset: 210
+saturation: -0.31
+
+num_attempts: 268
+dur: 601
+std: 6.98
+size: 817414 (798.26 KiB)
+
+xmin: -2.3403356098181187
+xmax: -2.3304995442443484
+ymin: -1.702153515587906
+ymax: -1.69662072870266
+
+contrast: 1.63
+brightness: 0.15
+saturation: 0.42
+gamma: 1.01
+gamma_r: 0.91
+gamma_g: 1.03
+gamma_b: 1.07
+vignette: 23
+temp: 2817
