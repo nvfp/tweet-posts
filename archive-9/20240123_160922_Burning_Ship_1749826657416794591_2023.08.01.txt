@@ -1,0 +1,28 @@
+tweet_id: 1749826657416794591
+masto_id: 111806130590165437
+subre_id: Not uploaded, but here's the text: Look closely, it's Burning Ship!  #Art #Fractals
+
+n_iter: 207
+ct: 51
+hue_offset: 139
+saturation: 1.0
+
+num_attempts: 45
+dur: 12
+std: 34.48
+size: 1528167 (1.46 MiB)
+
+xmin: -0.7968832796825895
+xmax: -0.6168832796825896
+ymin: -0.947824955998102
+ymax: -0.8465749559981021
+
+contrast: 1.09
+brightness: -0.02
+saturation: 1.17
+gamma: 0.95
+gamma_r: 1.08
+gamma_g: 1.06
+gamma_b: 1.01
+vignette: -47
+temp: 7272
