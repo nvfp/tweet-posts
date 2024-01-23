@@ -1,0 +1,28 @@
+tweet_id: 1749916647807406356
+masto_id: 111807536719068796
+subre_id: Not uploaded, but here's the text: Have an awesome Tuesday!  #Fractals #DeepLearning
+
+n_iter: 385
+ct: 255
+hue_offset: 187
+saturation: 0.8
+
+num_attempts: 6
+dur: 1
+std: 46.05
+size: 2091133 (1.99 MiB)
+
+xmin: -0.35986320550183004
+xmax: -0.2946458141974822
+ymin: -1.0212584317698954
+ymax: -0.9845736491611997
+
+contrast: 0.71
+brightness: 0.06
+saturation: 0.47
+gamma: 1.05
+gamma_r: 1.1
+gamma_g: 1.05
+gamma_b: 1.0
+vignette: -35
+temp: 3474
