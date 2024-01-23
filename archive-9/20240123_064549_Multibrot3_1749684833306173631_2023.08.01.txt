@@ -1,0 +1,28 @@
+tweet_id: 1749684833306173631
+masto_id: 111803914585185640
+subre_id: Not uploaded, but here's the text: Feeling good today!  #Art #AI
+
+n_iter: 504
+ct: 255
+hue_offset: 94
+saturation: -0.7
+
+num_attempts: 454
+dur: 603
+std: 77.79
+size: 614417 (600.02 KiB)
+
+xmin: 0.47097230917849897
+xmax: 0.4750045672430151
+ymin: 0.5150833924025835
+ymax: 0.5173515375638739
+
+contrast: 1.13
+brightness: -0.01
+saturation: 1.62
+gamma: 0.95
+gamma_r: 0.85
+gamma_g: 1.16
+gamma_b: 1.19
+vignette: -6
+temp: 6616
