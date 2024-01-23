@@ -1,0 +1,28 @@
+tweet_id: 1749767220329381963
+masto_id: 111805201931027782
+subre_id: Not uploaded, but here's the text: Let this Burning Ship inspire your Tuesday.  #Mathematics #Nature
+
+n_iter: 469
+ct: 105
+hue_offset: 210
+saturation: 0.12
+
+num_attempts: 8
+dur: 5
+std: 38.32
+size: 369205 (360.55 KiB)
+
+xmin: 0.07884630302248485
+xmax: 0.8288463030224849
+ymin: -1.1592562036746104
+ymax: -0.7373812036746104
+
+contrast: 1.7
+brightness: 0.15
+saturation: 1.06
+gamma: 1.08
+gamma_r: 1.09
+gamma_g: 0.96
+gamma_b: 1.01
+vignette: 6
+temp: 6612
