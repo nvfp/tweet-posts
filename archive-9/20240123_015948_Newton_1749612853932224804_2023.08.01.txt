@@ -1,0 +1,31 @@
+tweet_id: 1749612853932224804
+masto_id: 111802789962676350
+subre_id: Not uploaded, but here's the text: You rock, and so does this Tuesday!  #DigitalArt #DeepLearning
+
+newton_power: 3
+newton_const: 0
+
+n_iter: 247
+ct: 34
+hue_offset: 232
+saturation: 1.0
+
+num_attempts: 436
+dur: 850
+std: 1.81
+size: 457256 (446.54 KiB)
+
+xmin: -0.45553192402389353
+xmax: 0.04446807597610647
+ymin: -0.18519925948238392
+ymax: 0.09605074051761608
+
+contrast: 0.78
+brightness: -0.06
+saturation: 0.39
+gamma: 0.91
+gamma_r: 0.92
+gamma_g: 0.92
+gamma_b: 1.02
+vignette: -44
+temp: 5610
