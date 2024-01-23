@@ -1,0 +1,28 @@
+tweet_id: 1749654410295497009
+masto_id: 111803439329644129
+subre_id: Not uploaded, but here's the text: Smile on this lovely day!  #Nature #Fractals
+
+n_iter: 412
+ct: 255
+hue_offset: 15
+saturation: -0.69
+
+num_attempts: 586
+dur: 602
+std: 70.11
+size: 1345655 (1.28 MiB)
+
+xmin: 0.20350962238934223
+xmax: 0.20867091271192287
+ymin: -0.7364278723631369
+ymax: -0.7335246465566853
+
+contrast: 1.08
+brightness: 0.18
+saturation: 0.81
+gamma: 1.17
+gamma_r: 1.19
+gamma_g: 1.07
+gamma_b: 0.87
+vignette: -21
+temp: 5499
