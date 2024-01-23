@@ -1,0 +1,28 @@
+tweet_id: 1749865804902875180
+masto_id: 111806742315756677
+subre_id: Not uploaded, but here's the text: Brighten your Tuesday!  #AI #VisualArt
+
+n_iter: 362
+ct: 1
+hue_offset: 118
+saturation: 0.7
+
+num_attempts: 580
+dur: 602
+std: 62.39
+size: 1206582 (1.15 MiB)
+
+xmin: -0.3869492044758345
+xmax: -0.38098795261294327
+ymin: -0.6806985953867023
+ymax: -0.677345391213826
+
+contrast: 1.49
+brightness: 0.02
+saturation: 1.33
+gamma: 1.04
+gamma_r: 1.09
+gamma_g: 1.14
+gamma_b: 1.08
+vignette: -21
+temp: 2840
