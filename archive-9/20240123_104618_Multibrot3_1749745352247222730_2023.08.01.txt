@@ -1,0 +1,28 @@
+tweet_id: 1749745352247222730
+masto_id: 111804860245051655
+subre_id: Not uploaded, but here's the text: Let's rock this Tuesday!  #Art #GenerativeArt
+
+n_iter: 681
+ct: 255
+hue_offset: 136
+saturation: -0.4
+
+num_attempts: 348
+dur: 605
+std: 85.28
+size: 960295 (937.79 KiB)
+
+xmin: 0.4899428026108281
+xmax: 0.49657630178164075
+ymin: 0.595132089552989
+ymax: 0.5988634328365711
+
+contrast: 1.61
+brightness: -0.07
+saturation: 1.6
+gamma: 1.11
+gamma_r: 1.14
+gamma_g: 1.2
+gamma_b: 0.93
+vignette: -2
+temp: 6389
