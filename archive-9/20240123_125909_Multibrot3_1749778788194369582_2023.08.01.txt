@@ -1,0 +1,28 @@
+tweet_id: 1749778788194369582
+masto_id: 111805382597196236
+subre_id: Not uploaded, but here's the text: Hope you're having a great Tuesday!  #VisualArt #GenerativeArt
+
+n_iter: 635
+ct: 1
+hue_offset: 163
+saturation: 0.86
+
+num_attempts: 395
+dur: 605
+std: 70.71
+size: 472356 (461.29 KiB)
+
+xmin: -0.167867535706961
+xmax: -0.16261819187494
+ymin: -1.0790545795681377
+ymax: -1.0761018236626259
+
+contrast: 1.54
+brightness: -0.02
+saturation: 0.51
+gamma: 0.93
+gamma_r: 0.97
+gamma_g: 1.1
+gamma_b: 1.04
+vignette: -19
+temp: 3381
