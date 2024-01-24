@@ -1,0 +1,31 @@
+tweet_id: 1750292400377827339
+masto_id: 111813407856349153
+subre_id: Not uploaded, but here's the text: Good Wednesday! This Newton is for you!  #DeepLearning #Fractals
+
+newton_power: 7
+newton_const: 10
+
+n_iter: 160
+ct: 121
+hue_offset: 25
+saturation: -0.59
+
+num_attempts: 172
+dur: 600
+std: 21.83
+size: 798940 (780.21 KiB)
+
+xmin: -2.749020344283782
+xmax: -2.742891641525866
+ymin: -1.2932271450002963
+ymax: -1.2897797496989685
+
+contrast: 0.91
+brightness: -0.09
+saturation: 1.02
+gamma: 1.06
+gamma_r: 0.97
+gamma_g: 1.04
+gamma_b: 0.96
+vignette: -2
+temp: 6383
