@@ -1,0 +1,28 @@
+tweet_id: 1750249127252758668
+masto_id: 111812731825166328
+subre_id: Not uploaded, but here's the text: Have a great day!  #Fractals #DeepLearning
+
+n_iter: 463
+ct: 12
+hue_offset: 128
+saturation: -0.59
+
+num_attempts: 9
+dur: 3
+std: 34.98
+size: 845245 (825.43 KiB)
+
+xmin: -0.40689007296963053
+xmax: 0.23596706988751237
+ymin: -1.3907626360664593
+ymax: -1.0291554932093163
+
+contrast: 1.03
+brightness: 0.04
+saturation: 1.35
+gamma: 1.06
+gamma_r: 1.06
+gamma_g: 1.07
+gamma_b: 1.0
+vignette: -9
+temp: 7147
