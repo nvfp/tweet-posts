@@ -1,0 +1,28 @@
+tweet_id: 1749972422676386183
+masto_id: 111808408268371946
+subre_id: Not uploaded, but here's the text: Have an awesome Wednesday!  #GenerativeArt #DeepLearning
+
+n_iter: 684
+ct: 1
+hue_offset: 223
+saturation: 0.79
+
+num_attempts: 358
+dur: 603
+std: 74.68
+size: 966892 (944.23 KiB)
+
+xmin: -0.38650504107208694
+xmax: -0.37934940600947514
+ymin: -0.676475000533497
+ymax: -0.6724499558107778
+
+contrast: 1.75
+brightness: 0.05
+saturation: 0.93
+gamma: 1.05
+gamma_r: 1.14
+gamma_g: 1.04
+gamma_b: 1.07
+vignette: 28
+temp: 6129
