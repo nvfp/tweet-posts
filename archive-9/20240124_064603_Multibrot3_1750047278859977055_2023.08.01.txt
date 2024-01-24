@@ -1,0 +1,28 @@
+tweet_id: 1750047278859977055
+masto_id: 111809577855249845
+subre_id: Not uploaded, but here's the text: Enjoying the Wednesday with this Multibrot.  #Nature #DigitalArt
+
+n_iter: 639
+ct: 255
+hue_offset: 54
+saturation: 0.14
+
+num_attempts: 417
+dur: 602
+std: 72.78
+size: 1179001 (1.12 MiB)
+
+xmin: 0.4862417474889109
+xmax: 0.4930676860554638
+ymin: -0.5966187037196009
+ymax: -0.5927791132759149
+
+contrast: 1.08
+brightness: -0.05
+saturation: 0.59
+gamma: 0.93
+gamma_r: 1.08
+gamma_g: 1.12
+gamma_b: 0.95
+vignette: -41
+temp: 5732
