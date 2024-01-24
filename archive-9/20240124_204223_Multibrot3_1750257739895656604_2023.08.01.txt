@@ -1,0 +1,28 @@
+tweet_id: 1750257739895656604
+masto_id: 111812866426233903
+subre_id: Not uploaded, but here's the text: Hey there, it's Wednesday!  #Mathematics #DigitalArt
+
+n_iter: 352
+ct: 1
+hue_offset: 341
+saturation: -0.79
+
+num_attempts: 754
+dur: 604
+std: 57.2
+size: 879531 (858.92 KiB)
+
+xmin: -0.5031781070552503
+xmax: -0.49664215934283207
+ymin: -0.4783718641498851
+ymax: -0.4746953935616498
+
+contrast: 1.43
+brightness: -0.03
+saturation: 1.28
+gamma: 1.03
+gamma_r: 1.19
+gamma_g: 1.13
+gamma_b: 1.2
+vignette: -15
+temp: 6883
