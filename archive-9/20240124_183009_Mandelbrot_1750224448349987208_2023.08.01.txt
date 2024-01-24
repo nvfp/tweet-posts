@@ -1,0 +1,28 @@
+tweet_id: 1750224448349987208
+masto_id: 111812346440787103
+subre_id: Not uploaded, but here's the text: Warm wishes for your Wednesday, and let's have a look at this Mandelbrot Set.  #Art #GenerativeArt
+
+n_iter: 620
+ct: 160
+hue_offset: 241
+saturation: 0.02
+
+num_attempts: 84
+dur: 45
+std: 91.55
+size: 1190662 (1.14 MiB)
+
+xmin: -0.34310559245077465
+xmax: -0.3422864239068467
+ymin: -0.616522158979052
+ymax: -0.6160613766730926
+
+contrast: 1.53
+brightness: 0.13
+saturation: 1.35
+gamma: 1.0
+gamma_r: 0.92
+gamma_g: 0.91
+gamma_b: 1.03
+vignette: -37
+temp: 3860
