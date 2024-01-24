@@ -1,0 +1,31 @@
+tweet_id: 1750050869385494659
+masto_id: 111809634024307026
+subre_id: Not uploaded, but here's the text: Enjoy your Wednesday!  #MachineLearning #GenerativeArt
+
+newton_power: 6
+newton_const: 7
+
+n_iter: 127
+ct: 165
+hue_offset: 4
+saturation: 0.97
+
+num_attempts: 184
+dur: 600
+std: 16.15
+size: 1353914 (1.29 MiB)
+
+xmin: 0.08672138013543984
+xmax: 0.09503162944291907
+ymin: -0.2939416497042324
+ymax: -0.28926713446877533
+
+contrast: 1.7
+brightness: 0.15
+saturation: 0.89
+gamma: 0.93
+gamma_r: 0.91
+gamma_g: 0.99
+gamma_b: 1.09
+vignette: -27
+temp: 6603
