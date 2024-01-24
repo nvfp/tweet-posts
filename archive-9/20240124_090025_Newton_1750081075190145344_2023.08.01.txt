@@ -1,0 +1,31 @@
+tweet_id: 1750081075190145344
+masto_id: 111810106027735696
+subre_id: Not uploaded, but here's the text: You rock, and so does this Wednesday!  #VisualArt #DeepLearning
+
+newton_power: 7
+newton_const: -6
+
+n_iter: 112
+ct: 40
+hue_offset: 322
+saturation: 0.5
+
+num_attempts: 146
+dur: 601
+std: 36.29
+size: 998790 (975.38 KiB)
+
+xmin: 0.01106309430683261
+xmax: 0.017081148469320073
+ymin: 0.0985719830291667
+ymax: 0.1019571384955659
+
+contrast: 1.3
+brightness: 0.15
+saturation: 0.58
+gamma: 0.98
+gamma_r: 0.9
+gamma_g: 1.09
+gamma_b: 0.91
+vignette: -37
+temp: 4566
