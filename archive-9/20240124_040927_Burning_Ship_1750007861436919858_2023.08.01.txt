@@ -1,0 +1,28 @@
+tweet_id: 1750007861436919858
+masto_id: 111808962029034807
+subre_id: Not uploaded, but here's the text: Keep shining on Wednesday!  #GenerativeArt #VisualArt
+
+n_iter: 339
+ct: 202
+hue_offset: 123
+saturation: -0.85
+
+num_attempts: 21
+dur: 7
+std: 21.58
+size: 708585 (691.98 KiB)
+
+xmin: -1.0112942870065211
+xmax: -0.26129428700652113
+ymin: -0.6625142668491131
+ymax: -0.24063926684911308
+
+contrast: 0.75
+brightness: -0.03
+saturation: 0.66
+gamma: 0.99
+gamma_r: 1.0
+gamma_g: 1.04
+gamma_b: 1.09
+vignette: 31
+temp: 5135
