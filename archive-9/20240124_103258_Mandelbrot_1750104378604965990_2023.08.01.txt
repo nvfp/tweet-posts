@@ -1,0 +1,28 @@
+tweet_id: 1750104378604965990
+masto_id: 111810470081158537
+subre_id: Not uploaded, but here's the text: Wishing you a joyful day!  #AI #Nature
+
+n_iter: 283
+ct: 131
+hue_offset: 319
+saturation: 0.36
+
+num_attempts: 202
+dur: 57
+std: 15.25
+size: 775746 (757.56 KiB)
+
+xmin: -0.22903737957547943
+xmax: -0.2280465447971787
+ymin: 0.7828887059995324
+ymax: 0.7834460505623265
+
+contrast: 0.89
+brightness: 0.04
+saturation: 1.35
+gamma: 0.92
+gamma_r: 1.06
+gamma_g: 1.03
+gamma_b: 1.0
+vignette: -6
+temp: 3231
