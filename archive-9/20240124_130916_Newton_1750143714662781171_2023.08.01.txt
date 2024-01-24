@@ -1,0 +1,31 @@
+tweet_id: 1750143714662781171
+masto_id: 111811084719241137
+subre_id: Not uploaded, but here's the text: Look what we have here! it's Newton!  #GenerativeArt #MachineLearning
+
+newton_power: 4
+newton_const: -6
+
+n_iter: 166
+ct: 38
+hue_offset: 256
+saturation: -0.23
+
+num_attempts: 250
+dur: 602
+std: 8.02
+size: 960703 (938.19 KiB)
+
+xmin: -1.1037332089447054
+xmax: -1.0099832089447054
+ymin: -1.4397188612369924
+ymax: -1.3869844862369924
+
+contrast: 0.94
+brightness: 0.06
+saturation: 1.56
+gamma: 0.99
+gamma_r: 1.01
+gamma_g: 0.98
+gamma_b: 1.05
+vignette: 18
+temp: 6212
