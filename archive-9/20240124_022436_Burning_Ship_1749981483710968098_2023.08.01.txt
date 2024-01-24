@@ -1,0 +1,28 @@
+tweet_id: 1749981483710968098
+masto_id: 111808549772456134
+subre_id: Not uploaded, but here's the text: Hey there, it's Wednesday!  #MachineLearning #VisualArt
+
+n_iter: 399
+ct: 66
+hue_offset: 118
+saturation: -0.27
+
+num_attempts: 29
+dur: 8
+std: 39.29
+size: 2147691 (2.05 MiB)
+
+xmin: -0.9057593686167189
+xmax: -0.8432593686167189
+ymin: -0.7517157369647187
+ymax: -0.7165594869647187
+
+contrast: 1.18
+brightness: 0.13
+saturation: 1.19
+gamma: 0.96
+gamma_r: 1.01
+gamma_g: 1.01
+gamma_b: 1.09
+vignette: 18
+temp: 6886
