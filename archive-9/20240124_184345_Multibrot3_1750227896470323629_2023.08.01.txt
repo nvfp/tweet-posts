@@ -1,0 +1,28 @@
+tweet_id: 1750227896470323629
+masto_id: 111812399957433843
+subre_id: Not uploaded, but here's the text: How was your day?  #VisualArt #MachineLearning
+
+n_iter: 623
+ct: 255
+hue_offset: 65
+saturation: 0.93
+
+num_attempts: 505
+dur: 600
+std: 90.22
+size: 925472 (903.78 KiB)
+
+xmin: 0.07065586925453271
+xmax: 0.07806327666194011
+ymin: -0.7838586307345832
+ymax: -0.7796919640679165
+
+contrast: 1.09
+brightness: -0.02
+saturation: 0.92
+gamma: 0.99
+gamma_r: 1.04
+gamma_g: 0.94
+gamma_b: 0.82
+vignette: -29
+temp: 4847
