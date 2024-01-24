@@ -1,0 +1,28 @@
+tweet_id: 1750288245739384919
+masto_id: 111813343011478176
+subre_id: Not uploaded, but here's the text: Hello Wednesday! This Multibrot is yours!  #VisualArt #Fractals
+
+n_iter: 377
+ct: 1
+hue_offset: 58
+saturation: -0.62
+
+num_attempts: 586
+dur: 604
+std: 65.54
+size: 1097366 (1.05 MiB)
+
+xmin: 0.05126095893790428
+xmax: 0.05694277711972246
+ymin: -1.1284279279903855
+ymax: -1.1252319052631128
+
+contrast: 0.71
+brightness: 0.16
+saturation: 0.83
+gamma: 1.09
+gamma_r: 1.0
+gamma_g: 1.07
+gamma_b: 0.82
+vignette: -10
+temp: 7666
