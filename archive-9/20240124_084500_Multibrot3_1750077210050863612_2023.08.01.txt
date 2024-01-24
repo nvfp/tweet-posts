@@ -1,0 +1,28 @@
+tweet_id: 1750077210050863612
+masto_id: 111810045553385306
+subre_id: Not uploaded, but here's the text: A great Wednesday and a beautiful Multibrot.  #Fractals #VisualArt
+
+n_iter: 576
+ct: 255
+hue_offset: 147
+saturation: -0.51
+
+num_attempts: 407
+dur: 600
+std: 65.51
+size: 1041085 (1016.68 KiB)
+
+xmin: -0.06463456989261473
+xmax: -0.05050029427424017
+ymin: 0.7673085327315716
+ymax: 0.7752590627669073
+
+contrast: 1.39
+brightness: 0.01
+saturation: 0.94
+gamma: 0.91
+gamma_r: 0.93
+gamma_g: 1.08
+gamma_b: 0.92
+vignette: -38
+temp: 5980
