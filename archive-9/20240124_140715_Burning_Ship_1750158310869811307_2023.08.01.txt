@@ -1,0 +1,28 @@
+tweet_id: 1750158310869811307
+masto_id: 111811312695869328
+subre_id: Not uploaded, but here's the text: Smile, it's Wednesday!  #Art #Nature
+
+n_iter: 399
+ct: 253
+hue_offset: 36
+saturation: -0.2
+
+num_attempts: 2
+dur: 0
+std: 49.71
+size: 1593118 (1.52 MiB)
+
+xmin: -1.4496729483949946
+xmax: -1.382508769290517
+ymin: -0.2812382147227128
+ymax: -0.24345836397644416
+
+contrast: 1.06
+brightness: 0.15
+saturation: 0.65
+gamma: 1.08
+gamma_r: 1.05
+gamma_g: 1.0
+gamma_b: 1.05
+vignette: 13
+temp: 4077
