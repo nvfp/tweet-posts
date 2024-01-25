@@ -1,0 +1,31 @@
+tweet_id: 1750443395128951178
+masto_id: 111815767254815355
+subre_id: Not uploaded, but here's the text: A great Thursday and a beautiful Newton.  #GenerativeArt #AI
+
+newton_power: 5
+newton_const: 2
+
+n_iter: 72
+ct: 141
+hue_offset: 333
+saturation: -0.25
+
+num_attempts: 203
+dur: 602
+std: 11.74
+size: 915998 (894.53 KiB)
+
+xmin: -1.162949735013206
+xmax: 0.3370502649867939
+ymin: -0.20559722636200162
+ymax: 0.6381527736379984
+
+contrast: 1.6
+brightness: 0.05
+saturation: 0.42
+gamma: 1.08
+gamma_r: 1.06
+gamma_g: 0.96
+gamma_b: 0.95
+vignette: -22
+temp: 2838
