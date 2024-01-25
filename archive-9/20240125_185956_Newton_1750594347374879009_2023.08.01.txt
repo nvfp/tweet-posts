@@ -1,0 +1,31 @@
+tweet_id: 1750594347374879009
+masto_id: 111818125910354591
+subre_id: Not uploaded, but here's the text: Hope you have an amazing Thursday!  #AI #Mathematics
+
+newton_power: 4
+newton_const: -10
+
+n_iter: 147
+ct: 73
+hue_offset: 130
+saturation: 0.31
+
+num_attempts: 239
+dur: 601
+std: 8.06
+size: 1040828 (1016.43 KiB)
+
+xmin: -1.5663936460860917
+xmax: -1.5505625115214479
+ymin: -1.0596777976855865
+ymax: -1.0507727844929744
+
+contrast: 0.97
+brightness: -0.0
+saturation: 1.51
+gamma: 1.06
+gamma_r: 0.95
+gamma_g: 1.03
+gamma_b: 0.94
+vignette: -26
+temp: 3415
