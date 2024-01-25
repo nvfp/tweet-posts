@@ -1,0 +1,31 @@
+tweet_id: 1750564221597716768
+masto_id: 111817655147374745
+subre_id: Not uploaded, but here's the text: Ever heard of this Newton?  #AI #DigitalArt
+
+newton_power: 7
+newton_const: -6
+
+n_iter: 149
+ct: 139
+hue_offset: 327
+saturation: 0.7
+
+num_attempts: 157
+dur: 600
+std: 26.64
+size: 1099468 (1.05 MiB)
+
+xmin: 1.15418215759267
+xmax: 1.226471314219176
+ymin: 0.5427546092450233
+ymax: 0.5834172598474329
+
+contrast: 0.72
+brightness: -0.03
+saturation: 0.72
+gamma: 1.07
+gamma_r: 0.92
+gamma_g: 1.04
+gamma_b: 0.91
+vignette: 7
+temp: 4853
