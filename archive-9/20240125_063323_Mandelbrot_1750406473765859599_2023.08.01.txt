@@ -1,0 +1,28 @@
+tweet_id: 1750406473765859599
+masto_id: 111815190307267000
+subre_id: Not uploaded, but here's the text: Shine bright like the sun on this Thursday!  #MachineLearning #DeepLearning
+
+n_iter: 1004
+ct: 82
+hue_offset: 224
+saturation: 0.54
+
+num_attempts: 166
+dur: 125
+std: 74.62
+size: 1682547 (1.6 MiB)
+
+xmin: -0.34592583564862034
+xmax: -0.3365581541497913
+ymin: -0.6337464492064455
+ymax: -0.6284771283633542
+
+contrast: 1.75
+brightness: 0.04
+saturation: 0.98
+gamma: 1.09
+gamma_r: 1.05
+gamma_g: 1.09
+gamma_b: 1.03
+vignette: -47
+temp: 5740
