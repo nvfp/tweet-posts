@@ -1,0 +1,28 @@
+tweet_id: 1750466700288635049
+masto_id: 111816131234443012
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Thursday! You got this!  #GenerativeArt #Fractals
+
+n_iter: 998
+ct: 92
+hue_offset: 61
+saturation: 0.27
+
+num_attempts: 57
+dur: 46
+std: 227.58
+size: 1181095 (1.13 MiB)
+
+xmin: -0.7067923036178767
+xmax: -0.7062356657108352
+ymin: -0.28436567541915614
+ymax: -0.2840525665964453
+
+contrast: 1.71
+brightness: 0.21
+saturation: 1.48
+gamma: 0.93
+gamma_r: 0.98
+gamma_g: 0.91
+gamma_b: 0.97
+vignette: -37
+temp: 4823
