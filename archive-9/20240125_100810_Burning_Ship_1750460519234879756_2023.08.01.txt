@@ -1,0 +1,28 @@
+tweet_id: 1750460519234879756
+masto_id: 111816034911851354
+subre_id: Not uploaded, but here's the text: Sending you this fractal on this Thursday!  #GenerativeArt #DigitalArt
+
+n_iter: 253
+ct: 6
+hue_offset: 269
+saturation: 0.01
+
+num_attempts: 74
+dur: 17
+std: 31.36
+size: 494394 (482.81 KiB)
+
+xmin: -0.9381570588915689
+xmax: -0.37565705889156886
+ymin: -0.772019745736243
+ymax: -0.455613495736243
+
+contrast: 1.31
+brightness: 0.15
+saturation: 0.98
+gamma: 1.06
+gamma_r: 1.08
+gamma_g: 1.02
+gamma_b: 1.01
+vignette: 4
+temp: 3205
