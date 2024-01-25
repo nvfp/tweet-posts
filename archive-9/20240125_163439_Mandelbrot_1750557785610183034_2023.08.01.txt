@@ -1,0 +1,28 @@
+tweet_id: 1750557785610183034
+masto_id: 111817554615392729
+subre_id: Not uploaded, but here's the text: Let this Mandelbrot Set inspire your Thursday.  #Art #DeepLearning
+
+n_iter: 854
+ct: 106
+hue_offset: 299
+saturation: 0.38
+
+num_attempts: 7
+dur: 6
+std: 50.71
+size: 920115 (898.55 KiB)
+
+xmin: -0.6396121173165654
+xmax: -0.6387561361481511
+ymin: 0.378219196945893
+ymax: 0.37870068635312604
+
+contrast: 1.44
+brightness: 0.05
+saturation: 0.5
+gamma: 1.01
+gamma_r: 1.02
+gamma_g: 1.09
+gamma_b: 1.06
+vignette: -33
+temp: 4416
