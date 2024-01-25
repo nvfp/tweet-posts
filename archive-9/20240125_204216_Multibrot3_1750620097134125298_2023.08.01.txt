@@ -1,0 +1,28 @@
+tweet_id: 1750620097134125298
+masto_id: 111818528255388436
+subre_id: Not uploaded, but here's the text: Smile!  #DigitalArt #Fractals
+
+n_iter: 283
+ct: 1
+hue_offset: 313
+saturation: -0.84
+
+num_attempts: 802
+dur: 602
+std: 52.86
+size: 792546 (773.97 KiB)
+
+xmin: 0.23829605025077916
+xmax: 0.24231211450780726
+ymin: -0.7355353399104083
+ymax: -0.73327630376583
+
+contrast: 0.86
+brightness: 0.16
+saturation: 1.18
+gamma: 0.86
+gamma_r: 0.91
+gamma_g: 1.19
+gamma_b: 1.13
+vignette: 12
+temp: 3040
