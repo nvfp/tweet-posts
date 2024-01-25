@@ -1,0 +1,31 @@
+tweet_id: 1750473604595110353
+masto_id: 111816239286868122
+subre_id: Not uploaded, but here's the text: Surprise! Newton!  #Fractals #MachineLearning
+
+newton_power: 7
+newton_const: -9
+
+n_iter: 94
+ct: 50
+hue_offset: 286
+saturation: -0.56
+
+num_attempts: 146
+dur: 604
+std: 23.23
+size: 1131405 (1.08 MiB)
+
+xmin: 0.4658589858042381
+xmax: 0.4761153960606484
+ymin: -0.7240560735435062
+ymax: -0.7182868427742755
+
+contrast: 1.26
+brightness: -0.05
+saturation: 1.12
+gamma: 0.97
+gamma_r: 1.08
+gamma_g: 1.01
+gamma_b: 0.95
+vignette: -16
+temp: 2617
