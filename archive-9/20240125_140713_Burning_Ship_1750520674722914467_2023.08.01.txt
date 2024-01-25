@@ -1,0 +1,28 @@
+tweet_id: 1750520674722914467
+masto_id: 111816974882744467
+subre_id: Not uploaded, but here's the text: Hey wait, look! it's Burning Ship!  #AI #GenerativeArt
+
+n_iter: 246
+ct: 221
+hue_offset: 275
+saturation: 0.92
+
+num_attempts: 23
+dur: 3
+std: 31.81
+size: 785272 (766.87 KiB)
+
+xmin: -0.23526618410494127
+xmax: -0.18412982046857762
+ymin: 0.154185659453288
+ymax: 0.18294986399874255
+
+contrast: 0.82
+brightness: 0.1
+saturation: 1.06
+gamma: 0.94
+gamma_r: 1.01
+gamma_g: 0.9
+gamma_b: 1.04
+vignette: 24
+temp: 5270
