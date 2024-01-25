@@ -1,0 +1,31 @@
+tweet_id: 1750654806677721154
+masto_id: 111819070515964598
+subre_id: Not uploaded, but here's the text: Keep smiling!  #MachineLearning #DeepLearning
+
+newton_power: 3
+newton_const: -7
+
+n_iter: 139
+ct: 115
+hue_offset: 116
+saturation: 0.13
+
+num_attempts: 524
+dur: 600
+std: 4.49
+size: 225272 (219.99 KiB)
+
+xmin: 0.2711001547887628
+xmax: 0.3048080199573021
+ymin: -0.1767092464515836
+ymax: -0.15774857229428021
+
+contrast: 1.44
+brightness: 0.1
+saturation: 1.26
+gamma: 1.0
+gamma_r: 0.98
+gamma_g: 1.06
+gamma_b: 1.03
+vignette: 1
+temp: 5634
