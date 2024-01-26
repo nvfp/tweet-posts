@@ -1,0 +1,31 @@
+tweet_id: 1750927609276645520
+masto_id: 111823333172445909
+subre_id: Not uploaded, but here's the text: You rock, and so does this Friday!  #VisualArt #GenerativeArt
+
+newton_power: 4
+newton_const: 0
+
+n_iter: 84
+ct: 149
+hue_offset: 240
+saturation: -0.58
+
+num_attempts: 236
+dur: 852
+std: 2.49
+size: 608248 (593.99 KiB)
+
+xmin: -0.2135521358148007
+xmax: 2.7864478641851993
+ymin: -0.45560208394990065
+ymax: 1.2318979160500994
+
+contrast: 1.33
+brightness: 0.13
+saturation: 1.7
+gamma: 1.01
+gamma_r: 0.96
+gamma_g: 1.08
+gamma_b: 1.02
+vignette: -13
+temp: 6942
