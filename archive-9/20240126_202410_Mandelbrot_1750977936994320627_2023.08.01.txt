@@ -1,0 +1,28 @@
+tweet_id: 1750977936994320627
+masto_id: 111824119451895483
+subre_id: Not uploaded, but here's the text: Let this Mandelbrot Set brighten up your Friday!  #DigitalArt #GenerativeArt
+
+n_iter: 255
+ct: 165
+hue_offset: 241
+saturation: -0.11
+
+num_attempts: 106
+dur: 23
+std: 37.49
+size: 461192 (450.38 KiB)
+
+xmin: -0.03051054294472566
+xmax: -0.021738613120164257
+ymin: -0.7889456056841342
+ymax: -0.7840113951578184
+
+contrast: 1.25
+brightness: 0.23
+saturation: 1.54
+gamma: 0.95
+gamma_r: 1.05
+gamma_g: 0.94
+gamma_b: 1.01
+vignette: 8
+temp: 4696
