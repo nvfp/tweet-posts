@@ -1,0 +1,28 @@
+tweet_id: 1750695372987453450
+masto_id: 111819704387158778
+subre_id: Not uploaded, but here's the text: Multibrot vibes to brighten your Friday.  #Art #Fractals
+
+n_iter: 374
+ct: 255
+hue_offset: 175
+saturation: -0.98
+
+num_attempts: 478
+dur: 601
+std: 59.49
+size: 1190724 (1.14 MiB)
+
+xmin: 0.20236865466074017
+xmax: 0.2131503258197698
+ymin: -0.9850342952170499
+ymax: -0.9789696051900957
+
+contrast: 1.45
+brightness: 0.21
+saturation: 0.84
+gamma: 1.12
+gamma_r: 1.18
+gamma_g: 1.01
+gamma_b: 1.04
+vignette: -22
+temp: 2921
