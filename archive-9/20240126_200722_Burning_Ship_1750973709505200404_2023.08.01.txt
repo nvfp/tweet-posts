@@ -1,0 +1,28 @@
+tweet_id: 1750973709505200404
+masto_id: 111824053382117520
+subre_id: Not uploaded, but here's the text: Happy Friday!  #MachineLearning #Fractals
+
+n_iter: 146
+ct: 107
+hue_offset: 324
+saturation: 0.61
+
+num_attempts: 32
+dur: 7
+std: 23.07
+size: 1650181 (1.57 MiB)
+
+xmin: -0.660888378968691
+xmax: -0.5285354377922205
+ymin: -0.8177246283018038
+ymax: -0.7432760988900391
+
+contrast: 1.45
+brightness: -0.07
+saturation: 0.72
+gamma: 0.92
+gamma_r: 0.98
+gamma_g: 1.1
+gamma_b: 0.98
+vignette: -18
+temp: 2953
