@@ -1,0 +1,31 @@
+tweet_id: 1750867467373527170
+masto_id: 111822393408789372
+subre_id: Not uploaded, but here's the text: Hey wait, look! it's Newton!  #DigitalArt #GenerativeArt
+
+newton_power: 3
+newton_const: 2
+
+n_iter: 225
+ct: 64
+hue_offset: 60
+saturation: 0.01
+
+num_attempts: 540
+dur: 600
+std: 4.06
+size: 922922 (901.29 KiB)
+
+xmin: 1.660851060910348
+xmax: 1.6758136544265574
+ymin: 0.26903911187278773
+ymax: 0.2774555707256556
+
+contrast: 0.77
+brightness: 0.09
+saturation: 1.75
+gamma: 1.05
+gamma_r: 0.99
+gamma_g: 1.04
+gamma_b: 0.95
+vignette: -38
+temp: 4323
