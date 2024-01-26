@@ -1,0 +1,28 @@
+tweet_id: 1750861317341343806
+masto_id: 111822297202578309
+subre_id: Not uploaded, but here's the text: Wishing you a rad Friday!  #GenerativeArt #Fractals
+
+n_iter: 200
+ct: 39
+hue_offset: 263
+saturation: 0.14
+
+num_attempts: 40
+dur: 9
+std: 41.98
+size: 125853 (122.9 KiB)
+
+xmin: 0.36378347795076493
+xmax: 0.3642028970553051
+ymin: -0.13372096505472708
+ymax: -0.13348504180842322
+
+contrast: 1.56
+brightness: -0.05
+saturation: 1.72
+gamma: 0.92
+gamma_r: 1.09
+gamma_g: 1.08
+gamma_b: 0.99
+vignette: -5
+temp: 4203
