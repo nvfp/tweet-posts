@@ -1,0 +1,28 @@
+tweet_id: 1750913579492966422
+masto_id: 111823113767863697
+subre_id: Not uploaded, but here's the text: Keep smiling!  #MachineLearning #GenerativeArt
+
+n_iter: 308
+ct: 241
+hue_offset: 95
+saturation: -0.59
+
+num_attempts: 12
+dur: 2
+std: 37.1
+size: 1274387 (1.22 MiB)
+
+xmin: 0.2643872734803372
+xmax: 0.8268872734803372
+ymin: -1.379604593517973
+ymax: -1.063198343517973
+
+contrast: 1.59
+brightness: 0.1
+saturation: 1.62
+gamma: 1.06
+gamma_r: 1.02
+gamma_g: 1.02
+gamma_b: 0.97
+vignette: -42
+temp: 6046
