@@ -1,0 +1,28 @@
+tweet_id: 1750952353480737229
+masto_id: 111823719582490310
+subre_id: Not uploaded, but here's the text: Let the magic of Friday fill your heart!  #DeepLearning #DigitalArt
+
+n_iter: 295
+ct: 1
+hue_offset: 298
+saturation: -0.26
+
+num_attempts: 853
+dur: 600
+std: 49.79
+size: 378245 (369.38 KiB)
+
+xmin: 0.38275209758048634
+xmax: 0.3876480584127997
+ymin: 0.6893687201326082
+ymax: 0.6921226981007844
+
+contrast: 1.13
+brightness: 0.04
+saturation: 0.42
+gamma: 0.9
+gamma_r: 0.87
+gamma_g: 0.97
+gamma_b: 0.83
+vignette: -12
+temp: 5252
