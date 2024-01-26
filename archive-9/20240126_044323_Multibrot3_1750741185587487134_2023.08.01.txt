@@ -1,0 +1,28 @@
+tweet_id: 1750741185587487134
+masto_id: 111820420128595868
+subre_id: Not uploaded, but here's the text: A great Friday and a beautiful Multibrot.  #Fractals #Mathematics
+
+n_iter: 553
+ct: 1
+hue_offset: 29
+saturation: 0.4
+
+num_attempts: 467
+dur: 606
+std: 83.55
+size: 703604 (687.11 KiB)
+
+xmin: 0.31712031943878927
+xmax: 0.3229512232288767
+ymin: 0.6852658434711354
+ymax: 0.6885457268530596
+
+contrast: 0.91
+brightness: 0.1
+saturation: 0.62
+gamma: 0.88
+gamma_r: 1.06
+gamma_g: 1.19
+gamma_b: 0.97
+vignette: 2
+temp: 3381
