@@ -1,0 +1,28 @@
+tweet_id: 1750891861961543952
+masto_id: 111822774492389817
+subre_id: Not uploaded, but here's the text: Wishing you a fantastic day!  #MachineLearning #VisualArt
+
+n_iter: 374
+ct: 255
+hue_offset: 178
+saturation: 0.4
+
+num_attempts: 735
+dur: 604
+std: 63.08
+size: 1132895 (1.08 MiB)
+
+xmin: -0.5271249825977993
+xmax: -0.5226606968835136
+ymin: -0.14451417208733952
+ymax: -0.1420030113730538
+
+contrast: 0.79
+brightness: 0.21
+saturation: 0.35
+gamma: 1.17
+gamma_r: 1.17
+gamma_g: 0.98
+gamma_b: 1.09
+vignette: -14
+temp: 5457
