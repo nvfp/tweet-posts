@@ -1,0 +1,28 @@
+tweet_id: 1750711123966308367
+masto_id: 111819950393025089
+subre_id: Not uploaded, but here's the text: Smile!  #Art #Mathematics
+
+n_iter: 689
+ct: 255
+hue_offset: 135
+saturation: 0.99
+
+num_attempts: 370
+dur: 605
+std: 95.1
+size: 736586 (719.32 KiB)
+
+xmin: -0.5475451915210847
+xmax: -0.5397630903537696
+ymin: -0.4624459324493406
+ymax: -0.45806850054272585
+
+contrast: 1.76
+brightness: 0.05
+saturation: 1.55
+gamma: 0.96
+gamma_r: 1.1
+gamma_g: 1.07
+gamma_b: 0.83
+vignette: -7
+temp: 4830
