@@ -1,0 +1,31 @@
+tweet_id: 1750806773869449698
+masto_id: 111821445151950510
+subre_id: Not uploaded, but here's the text: You rock, and so does this Friday!  #VisualArt #Nature
+
+newton_power: 6
+newton_const: 0
+
+n_iter: 76
+ct: 19
+hue_offset: 301
+saturation: -0.14
+
+num_attempts: 214
+dur: 850
+std: 0.81
+size: 581103 (567.48 KiB)
+
+xmin: -2.4391357003320686
+xmax: -1.2391357003320687
+ymin: -1.6521917345163848
+ymax: -0.9771917345163849
+
+contrast: 1.66
+brightness: -0.09
+saturation: 0.73
+gamma: 0.95
+gamma_r: 0.94
+gamma_g: 1.08
+gamma_b: 1.05
+vignette: 24
+temp: 2829
