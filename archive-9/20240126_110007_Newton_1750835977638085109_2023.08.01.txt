@@ -1,0 +1,31 @@
+tweet_id: 1750835977638085109
+masto_id: 111821901421213312
+subre_id: Not uploaded, but here's the text: Shine bright like the sun on this Friday!  #MachineLearning #Fractals
+
+newton_power: 7
+newton_const: -10
+
+n_iter: 72
+ct: 22
+hue_offset: 264
+saturation: 0.03
+
+num_attempts: 159
+dur: 600
+std: 17.48
+size: 601895 (587.79 KiB)
+
+xmin: -0.20874570535414172
+xmax: -0.2011603703351784
+ymin: 0.15480138095648677
+ymax: 0.15906813190465363
+
+contrast: 0.73
+brightness: 0.1
+saturation: 1.43
+gamma: 1.0
+gamma_r: 0.93
+gamma_g: 0.95
+gamma_b: 1.0
+vignette: -17
+temp: 2538
