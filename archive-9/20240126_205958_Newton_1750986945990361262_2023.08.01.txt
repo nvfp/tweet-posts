@@ -1,0 +1,31 @@
+tweet_id: 1750986945990361262
+masto_id: 111824260206525146
+subre_id: Not uploaded, but here's the text: A great Friday and a beautiful Newton.  #MachineLearning #DeepLearning
+
+newton_power: 5
+newton_const: -6
+
+n_iter: 189
+ct: 99
+hue_offset: 328
+saturation: 0.57
+
+num_attempts: 209
+dur: 600
+std: 13.48
+size: 1217563 (1.16 MiB)
+
+xmin: 0.008184758518239299
+xmax: 0.029613329946810728
+ymin: -0.9856922797563774
+ymax: -0.973638708327806
+
+contrast: 1.37
+brightness: 0.05
+saturation: 0.79
+gamma: 1.08
+gamma_r: 0.9
+gamma_g: 0.92
+gamma_b: 0.92
+vignette: -37
+temp: 3833
