@@ -1,0 +1,28 @@
+tweet_id: 1750771272383173059
+masto_id: 111820890334055624
+subre_id: Not uploaded, but here's the text: Multibrot vibes to brighten your Friday.  #Art #VisualArt
+
+n_iter: 696
+ct: 1
+hue_offset: 127
+saturation: 0.96
+
+num_attempts: 429
+dur: 600
+std: 87.83
+size: 1017422 (993.58 KiB)
+
+xmin: 0.4844065888237803
+xmax: 0.49411532668785796
+ymin: 0.5876205755059174
+ymax: 0.5930817405544611
+
+contrast: 0.88
+brightness: -0.03
+saturation: 0.62
+gamma: 0.91
+gamma_r: 1.19
+gamma_g: 1.06
+gamma_b: 0.92
+vignette: 15
+temp: 2054
