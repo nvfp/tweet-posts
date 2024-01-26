@@ -1,0 +1,31 @@
+tweet_id: 1750745454776578144
+masto_id: 111820486847743580
+subre_id: Not uploaded, but here's the text: Another Friday, another Newton!  #MachineLearning #AI
+
+newton_power: 7
+newton_const: -2
+
+n_iter: 159
+ct: 108
+hue_offset: 279
+saturation: -0.87
+
+num_attempts: 149
+dur: 605
+std: 19.96
+size: 876651 (856.1 KiB)
+
+xmin: 1.0093622271426517
+xmax: 1.0624595722753951
+ymin: 0.496659387105177
+ymax: 0.5265266437423451
+
+contrast: 1.59
+brightness: 0.07
+saturation: 0.56
+gamma: 0.99
+gamma_r: 0.96
+gamma_g: 0.99
+gamma_b: 1.01
+vignette: 10
+temp: 5155
