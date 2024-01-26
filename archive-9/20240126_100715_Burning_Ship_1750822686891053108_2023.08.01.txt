@@ -1,0 +1,28 @@
+tweet_id: 1750822686891053108
+masto_id: 111821693608642195
+subre_id: Not uploaded, but here's the text: A great Friday and a beautiful Burning Ship.  #AI #Art
+
+n_iter: 338
+ct: 114
+hue_offset: 97
+saturation: 0.36
+
+num_attempts: 8
+dur: 1
+std: 24.77
+size: 988538 (965.37 KiB)
+
+xmin: 0.6404771375074949
+xmax: 1.140477137507495
+ymin: -1.2865137386656478
+ymax: -1.0052637386656478
+
+contrast: 1.64
+brightness: -0.06
+saturation: 0.77
+gamma: 1.01
+gamma_r: 1.08
+gamma_g: 0.93
+gamma_b: 0.99
+vignette: -27
+temp: 2991
