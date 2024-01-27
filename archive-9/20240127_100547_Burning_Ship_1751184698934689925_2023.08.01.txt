@@ -1,0 +1,28 @@
+tweet_id: 1751184698934689925
+masto_id: 111827350148795247
+subre_id: Not uploaded, but here's the text: Surprise! Burning Ship!  #DeepLearning #Fractals
+
+n_iter: 319
+ct: 24
+hue_offset: 169
+saturation: -0.65
+
+num_attempts: 36
+dur: 14
+std: 24.92
+size: 731156 (714.02 KiB)
+
+xmin: -1.6304377356454451
+xmax: 0.6195622643545549
+ymin: -1.6855126123991444
+ymax: -0.4198876123991444
+
+contrast: 1.16
+brightness: -0.08
+saturation: 0.59
+gamma: 0.92
+gamma_r: 1.0
+gamma_g: 1.04
+gamma_b: 0.99
+vignette: -14
+temp: 4854
