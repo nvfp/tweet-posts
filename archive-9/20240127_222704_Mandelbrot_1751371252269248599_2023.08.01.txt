@@ -1,0 +1,28 @@
+tweet_id: 1751371252269248599
+masto_id: 111830264970937948
+subre_id: Not uploaded, but here's the text: Chin up, lovely humans!  #DeepLearning #VisualArt
+
+n_iter: 464
+ct: 62
+hue_offset: 246
+saturation: -0.63
+
+num_attempts: 170
+dur: 64
+std: 29.61
+size: 606808 (592.59 KiB)
+
+xmin: -0.7876049493864221
+xmax: -0.7869906044317301
+ymin: -0.14750354385107511
+ymax: -0.14715797481406084
+
+contrast: 1.46
+brightness: -0.03
+saturation: 1.24
+gamma: 0.92
+gamma_r: 0.92
+gamma_g: 1.06
+gamma_b: 1.0
+vignette: 6
+temp: 3747
