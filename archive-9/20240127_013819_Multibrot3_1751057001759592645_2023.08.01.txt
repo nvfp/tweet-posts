@@ -1,0 +1,28 @@
+tweet_id: 1751057001759592645
+masto_id: 111825354707068223
+subre_id: Not uploaded, but here's the text: Beautiful Saturday with this Multibrot!  #GenerativeArt #Nature
+
+n_iter: 619
+ct: 1
+hue_offset: 172
+saturation: 0.14
+
+num_attempts: 315
+dur: 602
+std: 75.56
+size: 818011 (798.84 KiB)
+
+xmin: 0.17246790639010978
+xmax: 0.1805650723820126
+ymin: 1.1159785890554743
+ymax: 1.1205332449259195
+
+contrast: 1.12
+brightness: 0.01
+saturation: 1.07
+gamma: 0.88
+gamma_r: 0.82
+gamma_g: 0.92
+gamma_b: 1.07
+vignette: 20
+temp: 4487
