@@ -1,0 +1,28 @@
+tweet_id: 1751216041571582319
+masto_id: 111827839810422069
+subre_id: Not uploaded, but here's the text: Brighten your Saturday!  #GenerativeArt #DigitalArt
+
+n_iter: 346
+ct: 79
+hue_offset: 324
+saturation: 0.88
+
+num_attempts: 6
+dur: 0
+std: 22.85
+size: 583800 (570.12 KiB)
+
+xmin: -2.151070088184589
+xmax: -0.6510700881845888
+ymin: -1.3816614640881708
+ymax: -0.5379114640881708
+
+contrast: 1.08
+brightness: -0.09
+saturation: 0.48
+gamma: 0.95
+gamma_r: 0.96
+gamma_g: 1.02
+gamma_b: 0.92
+vignette: 8
+temp: 7380
