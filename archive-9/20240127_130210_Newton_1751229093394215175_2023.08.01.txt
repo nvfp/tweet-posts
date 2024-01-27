@@ -1,0 +1,31 @@
+tweet_id: 1751229093394215175
+masto_id: 111828043733975340
+subre_id: Not uploaded, but here's the text: Smile, it's Saturday!  #DeepLearning #DigitalArt
+
+newton_power: 7
+newton_const: -5
+
+n_iter: 193
+ct: 165
+hue_offset: 122
+saturation: -0.47
+
+num_attempts: 165
+dur: 605
+std: 27.17
+size: 1411337 (1.35 MiB)
+
+xmin: -1.2571740535544504
+xmax: -1.2501400558991163
+ymin: 0.06138428995699652
+ymax: 0.06534091363812196
+
+contrast: 0.8
+brightness: 0.02
+saturation: 1.34
+gamma: 0.91
+gamma_r: 0.97
+gamma_g: 0.96
+gamma_b: 0.94
+vignette: -45
+temp: 7109
