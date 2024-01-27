@@ -1,0 +1,28 @@
+tweet_id: 1751305968191754371
+masto_id: 111829244893348144
+subre_id: Not uploaded, but here's the text: Cheers to a fantastic Saturday!  #Nature #GenerativeArt
+
+n_iter: 249
+ct: 125
+hue_offset: 215
+saturation: -0.1
+
+num_attempts: 13
+dur: 4
+std: 41.86
+size: 1332068 (1.27 MiB)
+
+xmin: -0.887665549796949
+xmax: -0.437665549796949
+ymin: -0.8451228918573717
+ymax: -0.5919978918573716
+
+contrast: 1.46
+brightness: 0.18
+saturation: 1.0
+gamma: 1.03
+gamma_r: 0.93
+gamma_g: 1.06
+gamma_b: 1.06
+vignette: -48
+temp: 7482
