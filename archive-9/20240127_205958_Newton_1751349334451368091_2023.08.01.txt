@@ -1,0 +1,31 @@
+tweet_id: 1751349334451368091
+masto_id: 111829922516424481
+subre_id: Not uploaded, but here's the text: Another Saturday, another Newton!  #VisualArt #DeepLearning
+
+newton_power: 3
+newton_const: -10
+
+n_iter: 226
+ct: 22
+hue_offset: 242
+saturation: -0.6
+
+num_attempts: 544
+dur: 600
+std: 4.0
+size: 925501 (903.81 KiB)
+
+xmin: 0.5533326692164575
+xmax: 0.6516933249541624
+ymin: -0.3675974920633345
+ymax: -0.3122696232108755
+
+contrast: 0.79
+brightness: 0.07
+saturation: 1.08
+gamma: 0.97
+gamma_r: 1.08
+gamma_g: 0.96
+gamma_b: 1.09
+vignette: -14
+temp: 6302
