@@ -1,0 +1,28 @@
+tweet_id: 1751340151349874989
+masto_id: 111829779030993293
+subre_id: Not uploaded, but here's the text: Ever heard of this Mandelbrot Set?  #DigitalArt #Mathematics
+
+n_iter: 147
+ct: 206
+hue_offset: 71
+saturation: -0.89
+
+num_attempts: 115
+dur: 20
+std: 25.82
+size: 1376243 (1.31 MiB)
+
+xmin: -0.74722949752885
+xmax: -0.7423154926148451
+ymin: 0.17984059670553587
+ymax: 0.18260472446966364
+
+contrast: 0.79
+brightness: 0.21
+saturation: 0.61
+gamma: 1.07
+gamma_r: 1.0
+gamma_g: 0.97
+gamma_b: 0.91
+vignette: -29
+temp: 5841
