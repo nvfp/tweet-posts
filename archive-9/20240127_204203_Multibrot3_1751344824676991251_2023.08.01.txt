@@ -1,0 +1,28 @@
+tweet_id: 1751344824676991251
+masto_id: 111829852072465363
+subre_id: Not uploaded, but here's the text: Good Saturday! This Multibrot is for you!  #Nature #Mathematics
+
+n_iter: 424
+ct: 255
+hue_offset: 35
+saturation: 0.12
+
+num_attempts: 562
+dur: 602
+std: 70.36
+size: 1095846 (1.05 MiB)
+
+xmin: 0.5503950662782202
+xmax: 0.5564101038722051
+ymin: -0.3607859297777505
+ymax: -0.35740247113113394
+
+contrast: 0.93
+brightness: 0.02
+saturation: 1.4
+gamma: 1.19
+gamma_r: 1.07
+gamma_g: 0.88
+gamma_b: 0.83
+vignette: -41
+temp: 4071
