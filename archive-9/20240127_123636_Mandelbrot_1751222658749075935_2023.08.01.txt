@@ -1,0 +1,28 @@
+tweet_id: 1751222658749075935
+masto_id: 111827943195398287
+subre_id: Not uploaded, but here's the text: Happy Saturday!  #Fractals #Mathematics
+
+n_iter: 799
+ct: 94
+hue_offset: 215
+saturation: -0.88
+
+num_attempts: 56
+dur: 31
+std: 36.67
+size: 1110400 (1.06 MiB)
+
+xmin: 0.04887352991691296
+xmax: 0.049302116652153505
+ymin: -0.6529670173731912
+ymax: -0.6527259373346184
+
+contrast: 1.69
+brightness: -0.04
+saturation: 0.28
+gamma: 0.91
+gamma_r: 1.02
+gamma_g: 1.04
+gamma_b: 0.93
+vignette: -36
+temp: 6849
