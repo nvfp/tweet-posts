@@ -1,0 +1,28 @@
+tweet_id: 1751040385936167264
+masto_id: 111825095211362573
+subre_id: Not uploaded, but here's the text: Wishing you a joyful day!  #Fractals #Mathematics
+
+n_iter: 391
+ct: 15
+hue_offset: 318
+saturation: -0.72
+
+num_attempts: 17
+dur: 7
+std: 66.92
+size: 1999898 (1.91 MiB)
+
+xmin: -0.6007973227063679
+xmax: -0.4722258941349393
+ymin: -0.8261151291218942
+ymax: -0.7537937005504657
+
+contrast: 0.9
+brightness: 0.04
+saturation: 0.53
+gamma: 1.03
+gamma_r: 1.07
+gamma_g: 1.08
+gamma_b: 1.09
+vignette: 8
+temp: 6339
