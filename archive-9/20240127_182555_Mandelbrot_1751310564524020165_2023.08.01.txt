@@ -1,0 +1,28 @@
+tweet_id: 1751310564524020165
+masto_id: 111829316725238059
+subre_id: Not uploaded, but here's the text: Hey there, it's Saturday!  #Art #MachineLearning
+
+n_iter: 687
+ct: 111
+hue_offset: 131
+saturation: -0.01
+
+num_attempts: 53
+dur: 27
+std: 25.39
+size: 463637 (452.77 KiB)
+
+xmin: 0.32552047046414634
+xmax: 0.326140625502906
+ymin: -0.42144317806059994
+ymax: -0.4210943408512976
+
+contrast: 0.99
+brightness: 0.1
+saturation: 1.65
+gamma: 0.9
+gamma_r: 1.04
+gamma_g: 1.06
+gamma_b: 0.97
+vignette: -13
+temp: 5404
