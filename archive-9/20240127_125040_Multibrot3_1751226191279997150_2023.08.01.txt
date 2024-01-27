@@ -1,0 +1,28 @@
+tweet_id: 1751226191279997150
+masto_id: 111827998398766319
+subre_id: Not uploaded, but here's the text: Let's make it a memorable Saturday!  #Nature #MachineLearning
+
+n_iter: 660
+ct: 255
+hue_offset: 284
+saturation: -0.5
+
+num_attempts: 352
+dur: 600
+std: 106.19
+size: 1126976 (1.07 MiB)
+
+xmin: 0.5026858908636669
+xmax: 0.506788454966231
+ymin: 0.4563160990372841
+ymax: 0.4586237913449764
+
+contrast: 1.37
+brightness: -0.09
+saturation: 0.85
+gamma: 1.01
+gamma_r: 0.92
+gamma_g: 1.05
+gamma_b: 1.04
+vignette: 29
+temp: 6346
