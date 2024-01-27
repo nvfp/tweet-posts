@@ -1,0 +1,28 @@
+tweet_id: 1751159517025603924
+masto_id: 111826956667057208
+subre_id: Not uploaded, but here's the text: Have an extraordinary Saturday!  #DeepLearning #Mathematics
+
+n_iter: 237
+ct: 55
+hue_offset: 234
+saturation: 0.21
+
+num_attempts: 3
+dur: 1
+std: 19.34
+size: 761027 (743.19 KiB)
+
+xmin: -0.6391951750348137
+xmax: -0.6387949749347637
+ymin: 0.4543202930902899
+ymax: 0.45454540564656803
+
+contrast: 0.79
+brightness: -0.08
+saturation: 0.39
+gamma: 0.93
+gamma_r: 1.05
+gamma_g: 0.98
+gamma_b: 1.05
+vignette: -9
+temp: 6353
