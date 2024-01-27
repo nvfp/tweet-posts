@@ -1,0 +1,28 @@
+tweet_id: 1751335823193096320
+masto_id: 111829711327950731
+subre_id: Not uploaded, but here's the text: Enjoy your Saturday!  #MachineLearning #Mathematics
+
+n_iter: 283
+ct: 69
+hue_offset: 83
+saturation: -0.82
+
+num_attempts: 14
+dur: 3
+std: 26.09
+size: 2140889 (2.04 MiB)
+
+xmin: 0.6208428997303148
+xmax: 0.6880070788347924
+ymin: -1.2827543315342758
+ymax: -1.2449744807880072
+
+contrast: 1.32
+brightness: 0.01
+saturation: 1.2
+gamma: 0.92
+gamma_r: 1.01
+gamma_g: 1.1
+gamma_b: 1.04
+vignette: -33
+temp: 7831
