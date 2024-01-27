@@ -1,0 +1,31 @@
+tweet_id: 1751289032452243555
+masto_id: 111828980321888762
+subre_id: Not uploaded, but here's the text: Have a great day!  #Art #DeepLearning
+
+newton_power: 6
+newton_const: -7
+
+n_iter: 223
+ct: 48
+hue_offset: 12
+saturation: -0.54
+
+num_attempts: 173
+dur: 613
+std: 17.71
+size: 1274217 (1.22 MiB)
+
+xmin: 2.4472156169290145
+xmax: 2.466696136409534
+ymin: -1.0887891308698088
+ymax: -1.0778313386620166
+
+contrast: 0.79
+brightness: -0.09
+saturation: 0.73
+gamma: 1.1
+gamma_r: 0.97
+gamma_g: 1.01
+gamma_b: 0.94
+vignette: -23
+temp: 2720
