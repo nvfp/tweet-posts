@@ -1,0 +1,31 @@
+tweet_id: 1751137944637702590
+masto_id: 111826619549401957
+subre_id: Not uploaded, but here's the text: Cheers to a fantastic Saturday!  #Fractals #Nature
+
+newton_power: 3
+newton_const: -5
+
+n_iter: 240
+ct: 237
+hue_offset: 165
+saturation: -0.73
+
+num_attempts: 535
+dur: 600
+std: 4.63
+size: 243630 (237.92 KiB)
+
+xmin: -2.619288566902395
+xmax: -2.601744707253272
+ymin: -0.10379581238358915
+ymax: -0.09392739133095757
+
+contrast: 0.87
+brightness: 0.16
+saturation: 1.7
+gamma: 0.97
+gamma_r: 0.94
+gamma_g: 1.09
+gamma_b: 0.96
+vignette: 1
+temp: 4693
