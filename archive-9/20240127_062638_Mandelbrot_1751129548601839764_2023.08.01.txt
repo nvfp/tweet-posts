@@ -1,0 +1,28 @@
+tweet_id: 1751129548601839764
+masto_id: 111826488434924338
+subre_id: Not uploaded, but here's the text: Another Saturday, another Mandelbrot Set!  #Mathematics #DeepLearning
+
+n_iter: 385
+ct: 13
+hue_offset: 56
+saturation: -0.23
+
+num_attempts: 45
+dur: 13
+std: 15.83
+size: 454262 (443.62 KiB)
+
+xmin: 0.2611170627807047
+xmax: 0.28397420563784753
+ymin: -0.5025047263434828
+ymax: -0.4896475834863399
+
+contrast: 1.26
+brightness: 0.16
+saturation: 0.94
+gamma: 0.93
+gamma_r: 0.95
+gamma_g: 1.09
+gamma_b: 1.04
+vignette: -21
+temp: 7343
