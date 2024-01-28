@@ -1,0 +1,28 @@
+tweet_id: 1751417818711535767
+masto_id: 111830992600730399
+subre_id: Not uploaded, but here's the text: you are fantastic!  #Art #VisualArt
+
+n_iter: 390
+ct: 114
+hue_offset: 38
+saturation: 0.25
+
+num_attempts: 8
+dur: 1
+std: 53.04
+size: 1082521 (1.03 MiB)
+
+xmin: 0.17535418086804855
+xmax: 0.17592716468125583
+ymin: -0.58095581310293
+ymax: -0.5806335097080009
+
+contrast: 1.58
+brightness: 0.01
+saturation: 1.28
+gamma: 1.07
+gamma_r: 1.0
+gamma_g: 1.04
+gamma_b: 1.07
+vignette: 17
+temp: 7398
