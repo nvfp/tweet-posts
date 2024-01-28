@@ -1,0 +1,28 @@
+tweet_id: 1751487260288078318
+masto_id: 111832077587245354
+subre_id: Not uploaded, but here's the text: Happy Sunday!  #AI #Nature
+
+n_iter: 435
+ct: 168
+hue_offset: 14
+saturation: -0.51
+
+num_attempts: 4
+dur: 3
+std: 45.31
+size: 777832 (759.6 KiB)
+
+xmin: -0.20913240503964614
+xmax: 0.19995850405126298
+ymin: -1.041210565044362
+ymax: -0.8110969286807256
+
+contrast: 0.71
+brightness: 0.19
+saturation: 1.59
+gamma: 0.95
+gamma_r: 0.97
+gamma_g: 1.04
+gamma_b: 0.9
+vignette: 14
+temp: 6481
