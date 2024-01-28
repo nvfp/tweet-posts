@@ -1,0 +1,31 @@
+tweet_id: 1751651390412427551
+masto_id: 111834642193765034
+subre_id: Not uploaded, but here's the text: Good Sunday! This Newton is for you!  #Mathematics #DigitalArt
+
+newton_power: 3
+newton_const: -2
+
+n_iter: 233
+ct: 135
+hue_offset: 246
+saturation: 0.25
+
+num_attempts: 536
+dur: 600
+std: 4.25
+size: 654831 (639.48 KiB)
+
+xmin: 0.4870320707426603
+xmax: 0.4933279784026813
+ymin: -0.6339939627480986
+ymax: -0.6304525146893368
+
+contrast: 0.89
+brightness: -0.01
+saturation: 1.49
+gamma: 0.93
+gamma_r: 1.04
+gamma_g: 0.97
+gamma_b: 1.0
+vignette: 7
+temp: 6689
