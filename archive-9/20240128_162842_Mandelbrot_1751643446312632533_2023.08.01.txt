@@ -1,0 +1,28 @@
+tweet_id: 1751643446312632533
+masto_id: 111834518064630356
+subre_id: Not uploaded, but here's the text: Wow, take a look! There's Mandelbrot Set!  #GenerativeArt #Art
+
+n_iter: 959
+ct: 221
+hue_offset: 65
+saturation: -0.88
+
+num_attempts: 95
+dur: 59
+std: 16.62
+size: 954360 (931.99 KiB)
+
+xmin: -0.4979482321346498
+xmax: -0.49691303544727916
+ymin: -0.6306582495589482
+ymax: -0.6300759514223022
+
+contrast: 1.29
+brightness: 0.01
+saturation: 1.19
+gamma: 0.92
+gamma_r: 0.93
+gamma_g: 1.06
+gamma_b: 0.98
+vignette: 10
+temp: 4043
