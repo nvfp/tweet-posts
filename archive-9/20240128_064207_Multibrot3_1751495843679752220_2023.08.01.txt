@@ -1,0 +1,28 @@
+tweet_id: 1751495843679752220
+masto_id: 111832211637534697
+subre_id: Not uploaded, but here's the text: Have an extraordinary Sunday!  #Mathematics #Fractals
+
+n_iter: 571
+ct: 255
+hue_offset: 67
+saturation: 0.44
+
+num_attempts: 432
+dur: 603
+std: 102.38
+size: 1278824 (1.22 MiB)
+
+xmin: 0.17403769955833193
+xmax: 0.17994611905611627
+ymin: -0.747028451720629
+ymax: -0.7437049657531254
+
+contrast: 1.49
+brightness: -0.06
+saturation: 0.67
+gamma: 0.96
+gamma_r: 0.9
+gamma_g: 1.2
+gamma_b: 0.95
+vignette: 25
+temp: 2766
