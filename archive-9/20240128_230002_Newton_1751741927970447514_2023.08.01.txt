@@ -1,0 +1,31 @@
+tweet_id: 1751741927970447514
+masto_id: 111836056907127548
+subre_id: Not uploaded, but here's the text: Hello Sunday! This Newton is yours!  #DeepLearning #GenerativeArt
+
+newton_power: 5
+newton_const: 1
+
+n_iter: 154
+ct: 151
+hue_offset: 198
+saturation: 0.94
+
+num_attempts: 214
+dur: 602
+std: 13.15
+size: 1031678 (1007.5 KiB)
+
+xmin: 2.177017089308456
+xmax: 2.2116991702333113
+ymin: 0.19838610380344646
+ymax: 0.21789477432367765
+
+contrast: 0.73
+brightness: 0.11
+saturation: 0.61
+gamma: 0.95
+gamma_r: 0.92
+gamma_g: 1.06
+gamma_b: 1.07
+vignette: 19
+temp: 5048
