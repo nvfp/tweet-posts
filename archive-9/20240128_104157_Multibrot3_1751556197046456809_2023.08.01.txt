@@ -1,0 +1,28 @@
+tweet_id: 1751556197046456809
+masto_id: 111833154664251145
+subre_id: Not uploaded, but here's the text: Surprise! Multibrot!  #Nature #Fractals
+
+n_iter: 634
+ct: 1
+hue_offset: 187
+saturation: 0.65
+
+num_attempts: 352
+dur: 608
+std: 102.78
+size: 1551583 (1.48 MiB)
+
+xmin: -0.30927505362269936
+xmax: -0.3031022141165265
+ymin: -0.6892985283910277
+ymax: -0.6858263061688055
+
+contrast: 1.63
+brightness: -0.06
+saturation: 1.48
+gamma: 0.95
+gamma_r: 1.1
+gamma_g: 1.06
+gamma_b: 1.13
+vignette: -24
+temp: 5344
