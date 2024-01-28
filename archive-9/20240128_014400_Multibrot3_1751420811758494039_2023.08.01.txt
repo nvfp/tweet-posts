@@ -1,0 +1,28 @@
+tweet_id: 1751420811758494039
+masto_id: 111831039391801896
+subre_id: Not uploaded, but here's the text: Wishing you a fantastic day!  #MachineLearning #Mathematics
+
+n_iter: 302
+ct: 1
+hue_offset: 351
+saturation: 0.35
+
+num_attempts: 680
+dur: 603
+std: 47.38
+size: 789097 (770.6 KiB)
+
+xmin: -0.46183132834354557
+xmax: -0.45748822302324155
+ymin: 0.5336313971718121
+ymax: 0.5360743939144831
+
+contrast: 0.83
+brightness: 0.07
+saturation: 1.1
+gamma: 1.17
+gamma_r: 0.96
+gamma_g: 1.07
+gamma_b: 1.05
+vignette: -29
+temp: 3531
