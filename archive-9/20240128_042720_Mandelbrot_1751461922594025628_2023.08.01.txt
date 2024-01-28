@@ -1,0 +1,28 @@
+tweet_id: 1751461922594025628
+masto_id: 111831681642644600
+subre_id: Not uploaded, but here's the text: Cheers to a fantastic Sunday!  #AI #VisualArt
+
+n_iter: 487
+ct: 33
+hue_offset: 180
+saturation: 0.28
+
+num_attempts: 9
+dur: 3
+std: 98.49
+size: 1902586 (1.81 MiB)
+
+xmin: -0.03123359480293697
+xmax: -0.03018975346682006
+ymin: -0.7703411723614273
+ymax: -0.7697540116098616
+
+contrast: 1.09
+brightness: 0.04
+saturation: 1.36
+gamma: 1.07
+gamma_r: 1.06
+gamma_g: 1.03
+gamma_b: 0.93
+vignette: 29
+temp: 2826
