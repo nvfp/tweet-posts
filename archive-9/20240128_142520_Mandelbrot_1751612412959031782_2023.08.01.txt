@@ -1,0 +1,28 @@
+tweet_id: 1751612412959031782
+masto_id: 111834033057950759
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Sunday! You got this!  #GenerativeArt #DigitalArt
+
+n_iter: 462
+ct: 50
+hue_offset: 96
+saturation: -0.18
+
+num_attempts: 4
+dur: 1
+std: 71.29
+size: 1695602 (1.62 MiB)
+
+xmin: -0.3075282881990469
+xmax: -0.306945282806247
+ymin: 0.625216339288845
+ymax: 0.625544279822295
+
+contrast: 1.77
+brightness: 0.12
+saturation: 0.66
+gamma: 1.04
+gamma_r: 0.93
+gamma_g: 0.92
+gamma_b: 1.08
+vignette: 20
+temp: 4951
