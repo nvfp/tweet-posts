@@ -1,0 +1,31 @@
+tweet_id: 1751422179504235005
+masto_id: 111831060777717114
+subre_id: Not uploaded, but here's the text: Happy Sunday! Enjoy the beauty of Newton.  #DeepLearning #Art
+
+newton_power: 4
+newton_const: 10
+
+n_iter: 168
+ct: 37
+hue_offset: 158
+saturation: 0.83
+
+num_attempts: 269
+dur: 600
+std: 8.26
+size: 906737 (885.49 KiB)
+
+xmin: 2.7459966814641064
+xmax: 2.754137794082831
+ymin: 0.06607531060682525
+ymax: 0.07065468645485781
+
+contrast: 1.01
+brightness: -0.09
+saturation: 1.64
+gamma: 0.91
+gamma_r: 0.9
+gamma_g: 1.07
+gamma_b: 1.03
+vignette: 29
+temp: 3870
