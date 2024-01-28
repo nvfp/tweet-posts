@@ -1,0 +1,28 @@
+tweet_id: 1751616627882266796
+masto_id: 111834098916648159
+subre_id: Not uploaded, but here's the text: Happy Sunday! Enjoy the beauty of Multibrot.  #Nature #DigitalArt
+
+n_iter: 356
+ct: 1
+hue_offset: 78
+saturation: 0.15
+
+num_attempts: 567
+dur: 602
+std: 58.43
+size: 905788 (884.56 KiB)
+
+xmin: -0.6071538282940583
+xmax: -0.6016136620890722
+ymin: -0.48929116461408917
+ymax: -0.48617482112378446
+
+contrast: 1.14
+brightness: -0.1
+saturation: 1.68
+gamma: 1.07
+gamma_r: 0.98
+gamma_g: 1.18
+gamma_b: 0.88
+vignette: -26
+temp: 4512
