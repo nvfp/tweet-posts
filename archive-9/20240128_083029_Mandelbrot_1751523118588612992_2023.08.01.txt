@@ -1,0 +1,28 @@
+tweet_id: 1751523118588612992
+masto_id: 111832637748078253
+subre_id: Not uploaded, but here's the text: Happy Sunday!  #GenerativeArt #Nature
+
+n_iter: 877
+ct: 225
+hue_offset: 91
+saturation: -0.84
+
+num_attempts: 165
+dur: 100
+std: 47.98
+size: 84812 (82.82 KiB)
+
+xmin: 0.3207128632310372
+xmax: 0.3251921465457069
+ymin: 0.40438731038213604
+ymax: 0.40690690724663775
+
+contrast: 1.72
+brightness: 0.05
+saturation: 0.31
+gamma: 0.97
+gamma_r: 1.06
+gamma_g: 0.93
+gamma_b: 0.93
+vignette: -46
+temp: 3513
