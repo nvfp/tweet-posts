@@ -1,0 +1,31 @@
+tweet_id: 1751711705208340495
+masto_id: 111835584590998765
+subre_id: Not uploaded, but here's the text: Enjoy your Sunday!  #GenerativeArt #Nature
+
+newton_power: 4
+newton_const: -5
+
+n_iter: 191
+ct: 14
+hue_offset: 113
+saturation: -0.48
+
+num_attempts: 252
+dur: 601
+std: 7.53
+size: 1283524 (1.22 MiB)
+
+xmin: -1.5714624620489017
+xmax: -1.5400488494834568
+ymin: 1.2908321916176755
+ymax: 1.3085023486857383
+
+contrast: 1.06
+brightness: 0.1
+saturation: 1.22
+gamma: 0.98
+gamma_r: 1.08
+gamma_g: 1.0
+gamma_b: 1.02
+vignette: -37
+temp: 7326
