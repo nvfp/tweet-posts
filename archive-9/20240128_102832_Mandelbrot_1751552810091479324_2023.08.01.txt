@@ -1,0 +1,28 @@
+tweet_id: 1751552810091479324
+masto_id: 111833101906036197
+subre_id: Not uploaded, but here's the text: Cheers to a fantastic Sunday!  #MachineLearning #GenerativeArt
+
+n_iter: 244
+ct: 4
+hue_offset: 45
+saturation: 0.63
+
+num_attempts: 120
+dur: 32
+std: 72.67
+size: 1203299 (1.15 MiB)
+
+xmin: -0.16487993866245088
+xmax: -0.16381525939707958
+ymin: 0.6555995020285066
+ymax: 0.656198384115278
+
+contrast: 0.95
+brightness: 0.08
+saturation: 1.29
+gamma: 1.05
+gamma_r: 0.93
+gamma_g: 0.96
+gamma_b: 0.92
+vignette: 14
+temp: 5703
