@@ -1,0 +1,28 @@
+tweet_id: 1751702476586115487
+masto_id: 111835440416663046
+subre_id: Not uploaded, but here's the text: Wishing you the best!  #DigitalArt #Mathematics
+
+n_iter: 190
+ct: 203
+hue_offset: 251
+saturation: -0.29
+
+num_attempts: 62
+dur: 12
+std: 35.56
+size: 1303544 (1.24 MiB)
+
+xmin: 0.28630155442341376
+xmax: 0.2867925326976251
+ymin: 0.4848011404039756
+ymax: 0.4850773156832195
+
+contrast: 0.73
+brightness: 0.18
+saturation: 1.37
+gamma: 1.06
+gamma_r: 0.96
+gamma_g: 1.08
+gamma_b: 0.98
+vignette: -46
+temp: 5875
