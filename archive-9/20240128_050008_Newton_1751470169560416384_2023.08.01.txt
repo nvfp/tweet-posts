@@ -1,0 +1,31 @@
+tweet_id: 1751470169560416384
+masto_id: 111831810601148939
+subre_id: Not uploaded, but here's the text: Wow, take a look! There's Newton!  #GenerativeArt #Nature
+
+newton_power: 6
+newton_const: 1
+
+n_iter: 202
+ct: 83
+hue_offset: 291
+saturation: -0.71
+
+num_attempts: 182
+dur: 600
+std: 18.1
+size: 1020284 (996.37 KiB)
+
+xmin: -1.3365042679978052
+xmax: -1.329486724138156
+ymin: 1.9091021465507012
+ymax: 1.913049514971754
+
+contrast: 1.75
+brightness: -0.0
+saturation: 1.62
+gamma: 1.09
+gamma_r: 0.92
+gamma_g: 0.96
+gamma_b: 1.1
+vignette: -22
+temp: 2560
