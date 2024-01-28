@@ -1,0 +1,28 @@
+tweet_id: 1751526105356619864
+masto_id: 111832684493926693
+subre_id: Not uploaded, but here's the text: You rock, and so does this Sunday!  #VisualArt #DeepLearning
+
+n_iter: 514
+ct: 1
+hue_offset: 137
+saturation: 0.34
+
+num_attempts: 384
+dur: 603
+std: 65.9
+size: 940048 (918.02 KiB)
+
+xmin: -0.3042729897049208
+xmax: -0.2661777516096827
+ymin: -0.7117722921506099
+ymax: -0.6903437207220384
+
+contrast: 1.61
+brightness: 0.01
+saturation: 0.53
+gamma: 1.1
+gamma_r: 1.15
+gamma_g: 0.91
+gamma_b: 0.83
+vignette: -13
+temp: 6414
