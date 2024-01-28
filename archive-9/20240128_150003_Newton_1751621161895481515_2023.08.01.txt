@@ -1,0 +1,31 @@
+tweet_id: 1751621161895481515
+masto_id: FAIL
+subre_id: Not uploaded, but here's the text: Smile!  #GenerativeArt #Fractals
+
+newton_power: 3
+newton_const: -1
+
+n_iter: 192
+ct: 76
+hue_offset: 173
+saturation: 0.7
+
+num_attempts: 521
+dur: 600
+std: 4.19
+size: 742144 (724.75 KiB)
+
+xmin: -0.7424609155066806
+xmax: -0.7156752012209663
+ymin: -0.19211646551814487
+ymax: -0.1770495012324306
+
+contrast: 1.73
+brightness: 0.15
+saturation: 1.08
+gamma: 1.01
+gamma_r: 0.91
+gamma_g: 1.04
+gamma_b: 1.06
+vignette: -16
+temp: 3386
