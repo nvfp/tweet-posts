@@ -1,0 +1,28 @@
+tweet_id: 1752069552140058990
+masto_id: 111841175943833965
+subre_id: Not uploaded, but here's the text: Brighten your Monday!  #Art #Mathematics
+
+n_iter: 520
+ct: 1
+hue_offset: 227
+saturation: 0.3
+
+num_attempts: 395
+dur: 600
+std: 88.52
+size: 1294632 (1.23 MiB)
+
+xmin: 0.16746902358886295
+xmax: 0.17329992737895042
+ymin: -0.748219830073256
+ymax: -0.7449399466913318
+
+contrast: 1.68
+brightness: -0.07
+saturation: 0.92
+gamma: 0.95
+gamma_r: 0.97
+gamma_g: 0.82
+gamma_b: 1.01
+vignette: -43
+temp: 5867
