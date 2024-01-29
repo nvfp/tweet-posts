@@ -1,0 +1,31 @@
+tweet_id: 1751862710852014225
+masto_id: 111837943939696050
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Monday! You got this!  #Art #GenerativeArt
+
+newton_power: 5
+newton_const: -3
+
+n_iter: 141
+ct: 31
+hue_offset: 141
+saturation: -0.0
+
+num_attempts: 204
+dur: 602
+std: 12.23
+size: 813738 (794.67 KiB)
+
+xmin: -0.2989627263576691
+xmax: -0.28824844064338334
+ymin: 1.7406217285136947
+ymax: 1.7466485142279804
+
+contrast: 1.37
+brightness: 0.1
+saturation: 0.82
+gamma: 1.02
+gamma_r: 1.03
+gamma_g: 1.0
+gamma_b: 1.06
+vignette: 23
+temp: 5029
