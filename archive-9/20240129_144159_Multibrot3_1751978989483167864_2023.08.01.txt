@@ -1,0 +1,28 @@
+tweet_id: 1751978989483167864
+masto_id: 111839760842632628
+subre_id: Not uploaded, but here's the text: Let's rock this Monday!  #MachineLearning #VisualArt
+
+n_iter: 497
+ct: 1
+hue_offset: 243
+saturation: 0.91
+
+num_attempts: 462
+dur: 602
+std: 75.42
+size: 1009583 (985.92 KiB)
+
+xmin: -0.17063327495620118
+xmax: -0.16378395988770802
+ymin: -0.7595613323990413
+ymax: -0.7557085926730139
+
+contrast: 1.68
+brightness: -0.09
+saturation: 1.58
+gamma: 0.9
+gamma_r: 0.86
+gamma_g: 0.92
+gamma_b: 1.03
+vignette: -6
+temp: 5840
