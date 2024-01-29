@@ -1,0 +1,31 @@
+tweet_id: 1751924274699379004
+masto_id: 111838905909709849
+subre_id: Not uploaded, but here's the text: Monday vibes!  #AI #Art
+
+newton_power: 7
+newton_const: 0
+
+n_iter: 113
+ct: 200
+hue_offset: 52
+saturation: -0.35
+
+num_attempts: 203
+dur: 850
+std: 1.18
+size: 473917 (462.81 KiB)
+
+xmin: 0.2710923361193198
+xmax: 1.4710923361193198
+ymin: 0.8594440440200528
+ymax: 1.5344440440200526
+
+contrast: 1.56
+brightness: 0.16
+saturation: 0.93
+gamma: 1.05
+gamma_r: 1.1
+gamma_g: 0.97
+gamma_b: 1.08
+vignette: -9
+temp: 5386
