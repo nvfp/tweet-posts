@@ -1,0 +1,28 @@
+tweet_id: 1752035814769319963
+masto_id: 111840648771431409
+subre_id: Not uploaded, but here's the text: Have an awesome Monday!  #DeepLearning #DigitalArt
+
+n_iter: 493
+ct: 218
+hue_offset: 152
+saturation: 0.02
+
+num_attempts: 1
+dur: 0
+std: 58.88
+size: 1211420 (1.16 MiB)
+
+xmin: -0.9449600975366177
+xmax: -0.9437446614989392
+ymin: -0.2523326394989426
+ymax: -0.2516489567277484
+
+contrast: 1.59
+brightness: 0.13
+saturation: 1.19
+gamma: 1.05
+gamma_r: 0.94
+gamma_g: 1.08
+gamma_b: 1.07
+vignette: -29
+temp: 5479
