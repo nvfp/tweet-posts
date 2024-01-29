@@ -1,0 +1,31 @@
+tweet_id: 1751954504038117484
+masto_id: 111839378223814214
+subre_id: Not uploaded, but here's the text: Let's rock this Monday!  #VisualArt #GenerativeArt
+
+newton_power: 7
+newton_const: 4
+
+n_iter: 163
+ct: 218
+hue_offset: 41
+saturation: -0.93
+
+num_attempts: 164
+dur: 608
+std: 19.95
+size: 887112 (866.32 KiB)
+
+xmin: -1.4374068384832266
+xmax: -1.3040735051498933
+ymin: 0.6684274783995261
+ymax: 0.743427478399526
+
+contrast: 1.73
+brightness: -0.06
+saturation: 0.6
+gamma: 0.94
+gamma_r: 0.92
+gamma_g: 1.0
+gamma_b: 0.98
+vignette: -4
+temp: 5790
