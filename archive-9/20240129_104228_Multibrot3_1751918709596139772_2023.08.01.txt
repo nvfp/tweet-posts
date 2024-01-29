@@ -1,0 +1,28 @@
+tweet_id: 1751918709596139772
+masto_id: 111838819035072944
+subre_id: Not uploaded, but here's the text: Having a blast on Monday?  #DeepLearning #AI
+
+n_iter: 391
+ct: 255
+hue_offset: 98
+saturation: -0.9
+
+num_attempts: 640
+dur: 603
+std: 60.2
+size: 1263944 (1.21 MiB)
+
+xmin: 0.48868897794683974
+xmax: 0.4946149038727657
+ymin: 0.0716906551409815
+ymax: 0.07502398847431482
+
+contrast: 1.23
+brightness: -0.08
+saturation: 1.62
+gamma: 0.89
+gamma_r: 0.87
+gamma_g: 0.94
+gamma_b: 0.86
+vignette: 12
+temp: 7737
