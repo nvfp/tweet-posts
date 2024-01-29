@@ -1,0 +1,28 @@
+tweet_id: 1751790748562010380
+masto_id: 111836819662333406
+subre_id: Not uploaded, but here's the text: Monday vibes!  #Art #DeepLearning
+
+n_iter: 224
+ct: 119
+hue_offset: 321
+saturation: 0.84
+
+num_attempts: 6
+dur: 1
+std: 38.23
+size: 2004560 (1.91 MiB)
+
+xmin: 0.17903162516706317
+xmax: 0.22690396559259507
+ymin: -1.1733914744046547
+ymax: -1.146463282915293
+
+contrast: 0.89
+brightness: 0.14
+saturation: 1.67
+gamma: 0.93
+gamma_r: 0.92
+gamma_g: 0.95
+gamma_b: 1.1
+vignette: -28
+temp: 3672
