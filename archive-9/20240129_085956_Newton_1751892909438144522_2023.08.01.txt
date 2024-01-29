@@ -1,0 +1,31 @@
+tweet_id: 1751892909438144522
+masto_id: 111838415860044770
+subre_id: Not uploaded, but here's the text: Keep shining on Monday!  #AI #Mathematics
+
+newton_power: 6
+newton_const: 4
+
+n_iter: 156
+ct: 235
+hue_offset: 164
+saturation: -0.84
+
+num_attempts: 205
+dur: 601
+std: 14.47
+size: 1351480 (1.29 MiB)
+
+xmin: 0.267263396058373
+xmax: 0.2833924283164375
+ymin: -0.06369360931059798
+ymax: -0.05462102866543669
+
+contrast: 1.17
+brightness: -0.02
+saturation: 1.06
+gamma: 0.91
+gamma_r: 0.91
+gamma_g: 0.95
+gamma_b: 1.09
+vignette: -42
+temp: 4161
