@@ -1,0 +1,28 @@
+tweet_id: 1751779292793684211
+masto_id: 111836640692486261
+subre_id: Not uploaded, but here's the text: This Monday is made even better by this Mandelbrot Set!  #DeepLearning #Fractals
+
+n_iter: 205
+ct: 124
+hue_offset: 52
+saturation: -0.1
+
+num_attempts: 165
+dur: 34
+std: 71.31
+size: 694013 (677.75 KiB)
+
+xmin: -0.6784806432558113
+xmax: -0.6779874858152983
+ymin: -0.31285588098449923
+ymax: -0.31257847992421073
+
+contrast: 1.3
+brightness: 0.15
+saturation: 0.37
+gamma: 1.03
+gamma_r: 1.0
+gamma_g: 0.94
+gamma_b: 1.02
+vignette: 18
+temp: 4138
