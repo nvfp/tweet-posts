@@ -1,0 +1,28 @@
+tweet_id: 1751854926731284988
+masto_id: 111837822371193815
+subre_id: Not uploaded, but here's the text: you're awesome!  #AI #GenerativeArt
+
+n_iter: 134
+ct: 104
+hue_offset: 123
+saturation: -0.23
+
+num_attempts: 123
+dur: 22
+std: 29.8
+size: 1396516 (1.33 MiB)
+
+xmin: 0.31001273424249876
+xmax: 0.31288217470160923
+ymin: -0.45078427912686414
+ymax: -0.4491702188686145
+
+contrast: 1.45
+brightness: 0.11
+saturation: 1.53
+gamma: 0.96
+gamma_r: 0.96
+gamma_g: 1.02
+gamma_b: 0.98
+vignette: -24
+temp: 5930
