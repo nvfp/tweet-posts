@@ -1,0 +1,28 @@
+tweet_id: 1752099785681633419
+masto_id: 111841648683787012
+subre_id: Not uploaded, but here's the text: Monday is shining brightly, just like this Multibrot.  #DeepLearning #Nature
+
+n_iter: 264
+ct: 255
+hue_offset: 308
+saturation: 0.37
+
+num_attempts: 819
+dur: 601
+std: 46.24
+size: 895788 (874.79 KiB)
+
+xmin: -0.08132638854786056
+xmax: -0.0733741022655544
+ymin: 0.7662954408237668
+ymax: 0.770768601857564
+
+contrast: 1.43
+brightness: 0.09
+saturation: 0.52
+gamma: 1.16
+gamma_r: 0.9
+gamma_g: 1.15
+gamma_b: 1.04
+vignette: -9
+temp: 6697
