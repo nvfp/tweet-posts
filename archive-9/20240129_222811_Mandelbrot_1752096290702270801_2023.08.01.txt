@@ -1,0 +1,28 @@
+tweet_id: 1752096290702270801
+masto_id: 111841593981645143
+subre_id: Not uploaded, but here's the text: Keep shining on Monday!  #DigitalArt #Nature
+
+n_iter: 483
+ct: 1
+hue_offset: 317
+saturation: 0.79
+
+num_attempts: 87
+dur: 31
+std: 38.29
+size: 1408240 (1.34 MiB)
+
+xmin: -0.7441928707455618
+xmax: -0.7424392539108402
+ymin: 0.20448117639003205
+ymax: 0.20546758585956296
+
+contrast: 1.12
+brightness: -0.01
+saturation: 1.02
+gamma: 1.07
+gamma_r: 0.93
+gamma_g: 0.95
+gamma_b: 1.02
+vignette: -29
+temp: 4243
