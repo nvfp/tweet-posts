@@ -1,0 +1,28 @@
+tweet_id: 1751880140194541989
+masto_id: 111838216264427129
+subre_id: Not uploaded, but here's the text: Hey wait, look! it's Burning Ship!  #DigitalArt #Fractals
+
+n_iter: 327
+ct: 79
+hue_offset: 264
+saturation: 0.85
+
+num_attempts: 9
+dur: 2
+std: 51.74
+size: 2268853 (2.16 MiB)
+
+xmin: -0.7553548989982175
+xmax: -0.7064418555199566
+ymin: -0.7134661628953194
+ymax: -0.6859525759387977
+
+contrast: 1.56
+brightness: 0.21
+saturation: 1.09
+gamma: 1.09
+gamma_r: 1.02
+gamma_g: 0.96
+gamma_b: 0.9
+vignette: -16
+temp: 3535
