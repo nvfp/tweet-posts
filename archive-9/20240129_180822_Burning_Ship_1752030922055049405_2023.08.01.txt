@@ -1,0 +1,28 @@
+tweet_id: 1752030922055049405
+masto_id: 111840572329143702
+subre_id: Not uploaded, but here's the text: How was your day?  #Fractals #Mathematics
+
+n_iter: 175
+ct: 252
+hue_offset: 47
+saturation: 0.4
+
+num_attempts: 5
+dur: 0
+std: 26.43
+size: 976242 (953.36 KiB)
+
+xmin: -1.4958747655785205
+xmax: -1.3083747655785205
+ymin: -0.4185694675695699
+ymax: -0.3131007175695699
+
+contrast: 1.15
+brightness: 0.13
+saturation: 0.45
+gamma: 1.03
+gamma_r: 0.93
+gamma_g: 1.06
+gamma_b: 1.09
+vignette: 10
+temp: 3571
