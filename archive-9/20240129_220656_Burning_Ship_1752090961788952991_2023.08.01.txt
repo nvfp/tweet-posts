@@ -1,0 +1,28 @@
+tweet_id: 1752090961788952991
+masto_id: 111841510447884831
+subre_id: Not uploaded, but here's the text: Wishing you a rad Monday!  #DigitalArt #Art
+
+n_iter: 330
+ct: 146
+hue_offset: 173
+saturation: 0.09
+
+num_attempts: 21
+dur: 8
+std: 46.52
+size: 689948 (673.78 KiB)
+
+xmin: -1.487576976784823
+xmax: -1.3424156864622423
+ymin: -0.19404258342730007
+ymax: -0.11238935762084845
+
+contrast: 1.75
+brightness: -0.01
+saturation: 0.43
+gamma: 0.96
+gamma_r: 1.09
+gamma_g: 0.97
+gamma_b: 1.07
+vignette: -19
+temp: 7685
