@@ -1,0 +1,28 @@
+tweet_id: 1752009981463777388
+masto_id: 111840245305973203
+subre_id: Not uploaded, but here's the text: Multibrot vibes to brighten your Monday.  #DigitalArt #Nature
+
+n_iter: 365
+ct: 1
+hue_offset: 73
+saturation: -0.71
+
+num_attempts: 652
+dur: 601
+std: 65.83
+size: 1497478 (1.43 MiB)
+
+xmin: -0.28000371915733546
+xmax: -0.2733147559466331
+ymin: 0.7015803371593297
+ymax: 0.7053428789653498
+
+contrast: 1.24
+brightness: 0.21
+saturation: 1.6
+gamma: 1.17
+gamma_r: 1.03
+gamma_g: 0.99
+gamma_b: 1.11
+vignette: -33
+temp: 7510
