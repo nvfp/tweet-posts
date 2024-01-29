@@ -1,0 +1,28 @@
+tweet_id: 1751828084691767575
+masto_id: 111837402978091235
+subre_id: Not uploaded, but here's the text: Hope you're having a great Monday!  #Mathematics #Nature
+
+n_iter: 620
+ct: 255
+hue_offset: 259
+saturation: 0.67
+
+num_attempts: 388
+dur: 607
+std: 82.89
+size: 1353359 (1.29 MiB)
+
+xmin: -0.2949004403672961
+xmax: -0.27150862750179905
+ymin: -0.7104750136915358
+ymax: -0.6973171189546936
+
+contrast: 1.1
+brightness: 0.03
+saturation: 1.62
+gamma: 1.09
+gamma_r: 1.09
+gamma_g: 0.87
+gamma_b: 0.96
+vignette: 11
+temp: 4996
