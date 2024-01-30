@@ -1,0 +1,28 @@
+tweet_id: 1752186671716765881
+masto_id: 111843005907151813
+subre_id: Not uploaded, but here's the text: Mandelbrot Set vibes to brighten your Tuesday.  #Fractals #DigitalArt
+
+n_iter: 446
+ct: 61
+hue_offset: 104
+saturation: -0.47
+
+num_attempts: 66
+dur: 21
+std: 146.29
+size: 1176884 (1.12 MiB)
+
+xmin: -1.2595918675164506
+xmax: -1.259130400049907
+ymin: -0.03350203455577527
+ymax: -0.033242459105844495
+
+contrast: 1.04
+brightness: 0.02
+saturation: 1.17
+gamma: 0.95
+gamma_r: 1.0
+gamma_g: 1.08
+gamma_b: 1.03
+vignette: -22
+temp: 4147
