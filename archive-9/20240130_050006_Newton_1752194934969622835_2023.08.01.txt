@@ -1,0 +1,31 @@
+tweet_id: 1752194934969622835
+masto_id: 111843135107454088
+subre_id: Not uploaded, but here's the text: Guess what? It's Newton!  #GenerativeArt #DeepLearning
+
+newton_power: 4
+newton_const: 8
+
+n_iter: 241
+ct: 186
+hue_offset: 26
+saturation: -0.98
+
+num_attempts: 251
+dur: 600
+std: 8.55
+size: 866534 (846.22 KiB)
+
+xmin: -0.8241523375501014
+xmax: 0.17584766244989858
+ymin: -0.20567244735659074
+ymax: 0.35682755264340926
+
+contrast: 1.69
+brightness: -0.03
+saturation: 0.32
+gamma: 1.06
+gamma_r: 1.02
+gamma_g: 0.95
+gamma_b: 1.08
+vignette: -46
+temp: 4898
