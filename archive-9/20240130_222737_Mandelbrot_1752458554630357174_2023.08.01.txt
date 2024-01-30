@@ -1,0 +1,28 @@
+tweet_id: 1752458554630357174
+masto_id: 111847254094770181
+subre_id: Not uploaded, but here's the text: Hope you have an amazing Tuesday!  #DeepLearning #GenerativeArt
+
+n_iter: 785
+ct: 230
+hue_offset: 218
+saturation: 0.79
+
+num_attempts: 42
+dur: 32
+std: 26.2
+size: 1284907 (1.23 MiB)
+
+xmin: 0.3375070521793604
+xmax: 0.3379286817777582
+ymin: -0.5317842670154376
+ymax: -0.5315471003663388
+
+contrast: 1.15
+brightness: 0.13
+saturation: 1.07
+gamma: 1.06
+gamma_r: 1.09
+gamma_g: 0.97
+gamma_b: 0.94
+vignette: -38
+temp: 3880
