@@ -1,0 +1,31 @@
+tweet_id: 1752436553085805018
+masto_id: 111846910325153962
+subre_id: Not uploaded, but here's the text: Wishing you the best!  #VisualArt #GenerativeArt
+
+newton_power: 7
+newton_const: 4
+
+n_iter: 252
+ct: 50
+hue_offset: 58
+saturation: -0.59
+
+num_attempts: 149
+dur: 601
+std: 23.41
+size: 1527505 (1.46 MiB)
+
+xmin: 0.7265275725422566
+xmax: 0.7333612855263113
+ymin: -1.1307619658015462
+ymax: -1.1269180022480154
+
+contrast: 1.07
+brightness: 0.06
+saturation: 1.06
+gamma: 1.09
+gamma_r: 0.98
+gamma_g: 0.97
+gamma_b: 0.9
+vignette: -26
+temp: 6911
