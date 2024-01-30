@@ -1,0 +1,31 @@
+tweet_id: 1752164746386661571
+masto_id: 111842663343125403
+subre_id: Not uploaded, but here's the text: Enjoying the Tuesday with this Newton.  #Fractals #DeepLearning
+
+newton_power: 7
+newton_const: -1
+
+n_iter: 173
+ct: 246
+hue_offset: 322
+saturation: -0.96
+
+num_attempts: 150
+dur: 602
+std: 26.24
+size: 1390343 (1.33 MiB)
+
+xmin: -0.3734665784294169
+xmax: -0.36544518805508536
+ymin: 0.7175166528896737
+ymax: 0.7220286849752352
+
+contrast: 1.19
+brightness: 0.0
+saturation: 1.03
+gamma: 1.02
+gamma_r: 1.02
+gamma_g: 1.1
+gamma_b: 0.98
+vignette: 30
+temp: 6768
