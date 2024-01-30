@@ -1,0 +1,28 @@
+tweet_id: 1752277976358469997
+masto_id: 111844432677623434
+subre_id: Not uploaded, but here's the text: Another Tuesday, another Mandelbrot Set!  #Mathematics #VisualArt
+
+n_iter: 306
+ct: 126
+hue_offset: 38
+saturation: -0.47
+
+num_attempts: 31
+dur: 8
+std: 55.04
+size: 1295358 (1.24 MiB)
+
+xmin: -1.1949650304221042
+xmax: -1.1748645279095413
+ymin: -0.18067507196670085
+ymax: -0.16936853930338427
+
+contrast: 0.88
+brightness: 0.09
+saturation: 0.83
+gamma: 1.02
+gamma_r: 1.0
+gamma_g: 0.93
+gamma_b: 0.97
+vignette: -19
+temp: 7796
