@@ -1,0 +1,28 @@
+tweet_id: 1752401819589107913
+masto_id: 111846367780759554
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Tuesday! You got this!  #AI #DigitalArt
+
+n_iter: 376
+ct: 255
+hue_offset: 197
+saturation: -0.46
+
+num_attempts: 477
+dur: 601
+std: 64.42
+size: 1225903 (1.17 MiB)
+
+xmin: -0.10136482372645639
+xmax: -0.09625626689376163
+ymin: -0.7648025500236201
+ymax: -0.7619289868052292
+
+contrast: 1.11
+brightness: 0.08
+saturation: 1.6
+gamma: 0.92
+gamma_r: 0.96
+gamma_g: 0.85
+gamma_b: 1.06
+vignette: -40
+temp: 5855
