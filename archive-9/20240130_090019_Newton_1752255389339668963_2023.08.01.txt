@@ -1,0 +1,31 @@
+tweet_id: 1752255389339668963
+masto_id: 111844079637307148
+subre_id: Not uploaded, but here's the text: Another Tuesday, another Newton!  #AI #Fractals
+
+newton_power: 6
+newton_const: -10
+
+n_iter: 183
+ct: 29
+hue_offset: 109
+saturation: -0.35
+
+num_attempts: 174
+dur: 601
+std: 19.03
+size: 1344502 (1.28 MiB)
+
+xmin: 2.2810188409952756
+xmax: 2.4574894292305696
+ymin: 1.343479394855045
+ymax: 1.442744100737398
+
+contrast: 1.28
+brightness: 0.01
+saturation: 1.58
+gamma: 1.05
+gamma_r: 0.96
+gamma_g: 1.09
+gamma_b: 1.09
+vignette: -44
+temp: 3004
