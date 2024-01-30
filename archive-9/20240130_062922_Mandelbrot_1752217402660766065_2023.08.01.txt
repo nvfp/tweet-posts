@@ -1,0 +1,28 @@
+tweet_id: 1752217402660766065
+masto_id: 111843486106377851
+subre_id: Not uploaded, but here's the text: Surprise! Mandelbrot Set!  #Mathematics #DeepLearning
+
+n_iter: 445
+ct: 198
+hue_offset: 287
+saturation: 0.57
+
+num_attempts: 84
+dur: 30
+std: 117.02
+size: 1350659 (1.29 MiB)
+
+xmin: -0.9668603555393278
+xmax: -0.9662163368627862
+ymin: -0.24908840765770324
+ymax: -0.24872614715214858
+
+contrast: 0.77
+brightness: -0.01
+saturation: 1.22
+gamma: 1.0
+gamma_r: 1.02
+gamma_g: 0.95
+gamma_b: 0.95
+vignette: 25
+temp: 3362
