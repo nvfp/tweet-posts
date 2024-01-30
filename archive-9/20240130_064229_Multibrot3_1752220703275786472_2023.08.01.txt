@@ -1,0 +1,28 @@
+tweet_id: 1752220703275786472
+masto_id: 111843537646167743
+subre_id: Not uploaded, but here's the text: Tuesday vibes!  #MachineLearning #Fractals
+
+n_iter: 329
+ct: 255
+hue_offset: 35
+saturation: 1.0
+
+num_attempts: 748
+dur: 602
+std: 53.9
+size: 992300 (969.04 KiB)
+
+xmin: 0.5168656365318793
+xmax: 0.5241916438578866
+ymin: 0.4156164775336526
+ymax: 0.4197373566545317
+
+contrast: 1.08
+brightness: 0.05
+saturation: 0.76
+gamma: 0.95
+gamma_r: 1.15
+gamma_g: 0.93
+gamma_b: 0.84
+vignette: -34
+temp: 6098
