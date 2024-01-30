@@ -1,0 +1,28 @@
+tweet_id: 1752153022489067539
+masto_id: 111842480031868271
+subre_id: Not uploaded, but here's the text: you are cool  #DeepLearning #Mathematics
+
+n_iter: 301
+ct: 230
+hue_offset: 100
+saturation: 0.16
+
+num_attempts: 3
+dur: 2
+std: 28.2
+size: 350761 (342.54 KiB)
+
+xmin: -1.5296251064134316
+xmax: -1.3890001064134316
+ymin: -0.07604440631188814
+ymax: 0.0030571561881118647
+
+contrast: 1.56
+brightness: -0.07
+saturation: 0.43
+gamma: 1.0
+gamma_r: 0.96
+gamma_g: 1.08
+gamma_b: 1.0
+vignette: -25
+temp: 2156
