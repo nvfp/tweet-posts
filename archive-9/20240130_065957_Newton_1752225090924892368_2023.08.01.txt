@@ -1,0 +1,31 @@
+tweet_id: 1752225090924892368
+masto_id: 111843606337082743
+subre_id: Not uploaded, but here's the text: Have a great day!  #Nature #GenerativeArt
+
+newton_power: 7
+newton_const: 2
+
+n_iter: 215
+ct: 138
+hue_offset: 5
+saturation: 0.29
+
+num_attempts: 139
+dur: 601
+std: 20.38
+size: 1155250 (1.1 MiB)
+
+xmin: -1.144998338321431
+xmax: -1.1384977966096217
+ymin: -0.6128221031011047
+ymax: -0.609165548388212
+
+contrast: 1.38
+brightness: -0.02
+saturation: 1.19
+gamma: 1.04
+gamma_r: 1.0
+gamma_g: 0.95
+gamma_b: 1.01
+vignette: -12
+temp: 7402
