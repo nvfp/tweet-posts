@@ -1,0 +1,28 @@
+tweet_id: 1752462116945027183
+masto_id: 111847309774525616
+subre_id: Not uploaded, but here's the text: Let this Multibrot brighten up your Tuesday!  #VisualArt #AI
+
+n_iter: 290
+ct: 255
+hue_offset: 163
+saturation: -0.62
+
+num_attempts: 891
+dur: 602
+std: 59.3
+size: 1069537 (1.02 MiB)
+
+xmin: 0.4711227731051659
+xmax: 0.4757046745942839
+ymin: 0.5706698990387382
+ymax: 0.5732472186263671
+
+contrast: 0.97
+brightness: 0.22
+saturation: 0.55
+gamma: 1.18
+gamma_r: 1.06
+gamma_g: 1.14
+gamma_b: 1.13
+vignette: -36
+temp: 5593
