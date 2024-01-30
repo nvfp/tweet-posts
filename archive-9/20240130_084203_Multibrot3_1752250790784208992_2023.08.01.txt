@@ -1,0 +1,28 @@
+tweet_id: 1752250790784208992
+masto_id: 111844007740522300
+subre_id: Not uploaded, but here's the text: Smile, it's Tuesday!  #Art #DigitalArt
+
+n_iter: 528
+ct: 1
+hue_offset: 201
+saturation: 0.13
+
+num_attempts: 310
+dur: 601
+std: 88.81
+size: 912070 (890.69 KiB)
+
+xmin: -0.591474235511543
+xmax: -0.5872459057018178
+ymin: 0.3050115010126211
+ymax: 0.3073899365305915
+
+contrast: 0.92
+brightness: 0.13
+saturation: 1.23
+gamma: 0.9
+gamma_r: 0.84
+gamma_g: 0.83
+gamma_b: 1.01
+vignette: -8
+temp: 6520
