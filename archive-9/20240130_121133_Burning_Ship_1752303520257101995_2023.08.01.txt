@@ -1,0 +1,28 @@
+tweet_id: 1752303520257101995
+masto_id: 111844831648156660
+subre_id: Not uploaded, but here's the text: Surprise! It's a Burning Ship!  #Mathematics #MachineLearning
+
+n_iter: 509
+ct: 12
+hue_offset: 165
+saturation: -0.38
+
+num_attempts: 10
+dur: 6
+std: 50.14
+size: 708145 (691.55 KiB)
+
+xmin: -1.167978736076612
+xmax: -0.7588878269857029
+ymin: -0.558912368570873
+ymax: -0.32879873220723665
+
+contrast: 0.88
+brightness: -0.03
+saturation: 0.98
+gamma: 0.98
+gamma_r: 0.91
+gamma_g: 0.95
+gamma_b: 0.93
+vignette: -22
+temp: 7660
