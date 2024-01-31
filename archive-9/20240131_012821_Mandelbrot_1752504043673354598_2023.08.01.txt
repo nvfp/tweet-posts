@@ -1,0 +1,28 @@
+tweet_id: 1752504043673354598
+masto_id: 111847964733502278
+subre_id: Not uploaded, but here's the text: Smile, it's Wednesday!  #Fractals #AI
+
+n_iter: 188
+ct: 161
+hue_offset: 102
+saturation: 0.07
+
+num_attempts: 25
+dur: 5
+std: 55.57
+size: 391139 (381.97 KiB)
+
+xmin: -1.2432644483314768
+xmax: -1.2428372804545011
+ymin: -0.0662140893870562
+ymax: -0.06597380745625739
+
+contrast: 1.78
+brightness: 0.05
+saturation: 1.38
+gamma: 1.05
+gamma_r: 1.0
+gamma_g: 1.0
+gamma_b: 1.0
+vignette: -40
+temp: 4457
