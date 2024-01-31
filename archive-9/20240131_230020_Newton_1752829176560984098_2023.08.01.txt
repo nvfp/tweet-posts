@@ -1,0 +1,31 @@
+tweet_id: 1752829176560984098
+masto_id: 111853045018856790
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Wednesday! You got this!  #Art #DigitalArt
+
+newton_power: 6
+newton_const: -5
+
+n_iter: 76
+ct: 235
+hue_offset: 145
+saturation: -0.58
+
+num_attempts: 172
+dur: 606
+std: 28.28
+size: 806195 (787.3 KiB)
+
+xmin: -1.6284463316829438
+xmax: -1.6206743109575552
+ymin: -1.168646128352164
+ymax: -1.164274366694133
+
+contrast: 1.31
+brightness: -0.08
+saturation: 1.39
+gamma: 1.04
+gamma_r: 0.97
+gamma_g: 1.08
+gamma_b: 0.96
+vignette: -38
+temp: 6677
