@@ -1,0 +1,28 @@
+tweet_id: 1752604875433693621
+masto_id: 111849540265060215
+subre_id: Not uploaded, but here's the text: Enjoy your Wednesday!  #MachineLearning #DigitalArt
+
+n_iter: 274
+ct: 236
+hue_offset: 197
+saturation: -0.59
+
+num_attempts: 54
+dur: 12
+std: 39.17
+size: 1570437 (1.5 MiB)
+
+xmin: -0.8255875277281417
+xmax: -0.7755875277281417
+ymin: -0.8907518098631833
+ymax: -0.8626268098631833
+
+contrast: 1.15
+brightness: -0.05
+saturation: 1.51
+gamma: 0.91
+gamma_r: 1.08
+gamma_g: 1.07
+gamma_b: 1.04
+vignette: -35
+temp: 6464
