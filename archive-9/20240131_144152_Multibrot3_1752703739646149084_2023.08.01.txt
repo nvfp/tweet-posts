@@ -1,0 +1,28 @@
+tweet_id: 1752703739646149084
+masto_id: 111851084993443559
+subre_id: Not uploaded, but here's the text: Surprise! Multibrot!  #Mathematics #Nature
+
+n_iter: 275
+ct: 1
+hue_offset: 225
+saturation: 0.21
+
+num_attempts: 941
+dur: 600
+std: 51.88
+size: 889353 (868.51 KiB)
+
+xmin: -0.2141276551636857
+xmax: -0.2078776551636857
+ymin: 0.9572937615321413
+ymax: 0.9608093865321413
+
+contrast: 1.78
+brightness: 0.04
+saturation: 1.21
+gamma: 0.88
+gamma_r: 1.16
+gamma_g: 1.2
+gamma_b: 0.93
+vignette: -23
+temp: 6428
