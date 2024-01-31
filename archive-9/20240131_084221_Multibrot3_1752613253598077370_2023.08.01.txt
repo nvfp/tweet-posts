@@ -1,0 +1,28 @@
+tweet_id: 1752613253598077370
+masto_id: 111849671325414399
+subre_id: Not uploaded, but here's the text: Brighten your Wednesday!  #DeepLearning #Art
+
+n_iter: 321
+ct: 255
+hue_offset: 313
+saturation: 0.22
+
+num_attempts: 618
+dur: 600
+std: 54.3
+size: 338841 (330.9 KiB)
+
+xmin: -0.564952676849718
+xmax: -0.5603283993930706
+ymin: -0.610181109496364
+ymax: -0.6075799534269998
+
+contrast: 1.12
+brightness: 0.13
+saturation: 0.76
+gamma: 0.87
+gamma_r: 1.19
+gamma_g: 0.91
+gamma_b: 0.91
+vignette: 1
+temp: 2019
