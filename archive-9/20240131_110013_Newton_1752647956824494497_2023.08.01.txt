@@ -1,0 +1,31 @@
+tweet_id: 1752647956824494497
+masto_id: 111850213452533445
+subre_id: Not uploaded, but here's the text: Wednesday vibes!  #VisualArt #Mathematics
+
+newton_power: 3
+newton_const: -1
+
+n_iter: 73
+ct: 123
+hue_offset: 287
+saturation: -0.08
+
+num_attempts: 523
+dur: 600
+std: 4.13
+size: 434660 (424.47 KiB)
+
+xmin: 0.1310929673119765
+xmax: 0.16955450577351497
+ymin: 0.6707462381097544
+ymax: 0.6923808534943698
+
+contrast: 1.76
+brightness: 0.2
+saturation: 0.98
+gamma: 1.07
+gamma_r: 1.07
+gamma_g: 1.0
+gamma_b: 1.02
+vignette: 29
+temp: 4986
