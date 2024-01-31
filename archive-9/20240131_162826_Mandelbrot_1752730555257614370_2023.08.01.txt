@@ -1,0 +1,28 @@
+tweet_id: 1752730555257614370
+masto_id: 111851504047312754
+subre_id: Not uploaded, but here's the text: Wednesday is shining brightly, just like this Mandelbrot Set.  #DeepLearning #AI
+
+n_iter: 407
+ct: 206
+hue_offset: 32
+saturation: -0.56
+
+num_attempts: 145
+dur: 47
+std: 75.91
+size: 806281 (787.38 KiB)
+
+xmin: -0.3798282257995136
+xmax: -0.37794409956305575
+ymin: 0.5926835734634313
+ymax: 0.5937433944714388
+
+contrast: 1.17
+brightness: -0.07
+saturation: 1.01
+gamma: 1.05
+gamma_r: 1.06
+gamma_g: 0.97
+gamma_b: 0.98
+vignette: -4
+temp: 7049
