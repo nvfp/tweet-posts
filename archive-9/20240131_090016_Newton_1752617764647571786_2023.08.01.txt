@@ -1,0 +1,31 @@
+tweet_id: 1752617764647571786
+masto_id: 111849741776738961
+subre_id: Not uploaded, but here's the text: Enjoy your Wednesday!  #VisualArt #DigitalArt
+
+newton_power: 5
+newton_const: 6
+
+n_iter: 251
+ct: 149
+hue_offset: 288
+saturation: -0.02
+
+num_attempts: 218
+dur: 604
+std: 14.7
+size: 905404 (884.18 KiB)
+
+xmin: -2.189953745548596
+xmax: -1.9399537455485958
+ymin: 1.4277017909516059
+ymax: 1.5683267909516059
+
+contrast: 1.6
+brightness: -0.04
+saturation: 0.67
+gamma: 0.95
+gamma_r: 1.02
+gamma_g: 1.02
+gamma_b: 0.95
+vignette: 25
+temp: 6381
