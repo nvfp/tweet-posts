@@ -1,0 +1,28 @@
+tweet_id: 1752700129910596083
+masto_id: 111851028626713709
+subre_id: Not uploaded, but here's the text: Hope you have an amazing Wednesday!  #VisualArt #AI
+
+n_iter: 542
+ct: 175
+hue_offset: 95
+saturation: -0.88
+
+num_attempts: 68
+dur: 24
+std: 47.32
+size: 605619 (591.42 KiB)
+
+xmin: -0.13734947165129796
+xmax: -0.13687993297304935
+ymin: -0.841161740767467
+ymax: -0.8408976252609521
+
+contrast: 1.52
+brightness: 0.08
+saturation: 0.56
+gamma: 1.0
+gamma_r: 0.99
+gamma_g: 0.95
+gamma_b: 0.95
+vignette: -1
+temp: 2786
