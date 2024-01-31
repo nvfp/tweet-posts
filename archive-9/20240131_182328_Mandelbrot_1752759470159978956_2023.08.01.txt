@@ -1,0 +1,28 @@
+tweet_id: 1752759470159978956
+masto_id: 111851956002738306
+subre_id: Not uploaded, but here's the text: Wow, guess what? it's Mandelbrot Set!  #GenerativeArt #DigitalArt
+
+n_iter: 221
+ct: 213
+hue_offset: 265
+saturation: -0.97
+
+num_attempts: 116
+dur: 22
+std: 16.9
+size: 990599 (967.38 KiB)
+
+xmin: 0.37797086805487545
+xmax: 0.378418645957036
+ymin: -0.09231123114859008
+ymax: -0.09205935607862478
+
+contrast: 1.31
+brightness: -0.08
+saturation: 1.53
+gamma: 0.95
+gamma_r: 1.02
+gamma_g: 1.09
+gamma_b: 0.91
+vignette: -35
+temp: 4678
