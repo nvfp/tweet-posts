@@ -1,0 +1,28 @@
+tweet_id: 1752609419538690102
+masto_id: 111849611351692944
+subre_id: Not uploaded, but here's the text: Ever heard of this Mandelbrot Set?  #AI #Nature
+
+n_iter: 157
+ct: 19
+hue_offset: 84
+saturation: 0.93
+
+num_attempts: 14
+dur: 3
+std: 22.16
+size: 1104624 (1.05 MiB)
+
+xmin: -1.289404363698812
+xmax: -1.2886717629662112
+ymin: 0.06173123994282137
+ymax: 0.06214332785490928
+
+contrast: 1.74
+brightness: 0.2
+saturation: 1.16
+gamma: 0.97
+gamma_r: 1.07
+gamma_g: 1.01
+gamma_b: 1.02
+vignette: 25
+temp: 5332
