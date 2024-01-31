@@ -1,0 +1,28 @@
+tweet_id: 1752764242946585002
+masto_id: 111852030516883594
+subre_id: Not uploaded, but here's the text: you are cool  #Nature #Fractals
+
+n_iter: 310
+ct: 255
+hue_offset: 204
+saturation: 0.5
+
+num_attempts: 728
+dur: 601
+std: 45.7
+size: 1085317 (1.04 MiB)
+
+xmin: -0.09667882302188424
+xmax: -0.09185373255143792
+ymin: -1.150640502210436
+ymax: -1.14792638882081
+
+contrast: 1.0
+brightness: 0.03
+saturation: 0.87
+gamma: 1.03
+gamma_r: 1.2
+gamma_g: 0.9
+gamma_b: 0.94
+vignette: 6
+temp: 5387
