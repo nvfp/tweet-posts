@@ -1,0 +1,28 @@
+tweet_id: 1752734285885489397
+masto_id: 111851562355290368
+subre_id: Not uploaded, but here's the text: Hey there, it's Wednesday!  #VisualArt #DigitalArt
+
+n_iter: 652
+ct: 255
+hue_offset: 297
+saturation: -0.89
+
+num_attempts: 365
+dur: 600
+std: 112.24
+size: 1141189 (1.09 MiB)
+
+xmin: 0.40811529431042803
+xmax: 0.4133304181696197
+ymin: -0.5979866150310296
+ymax: -0.5950531078602342
+
+contrast: 1.41
+brightness: 0.16
+saturation: 1.64
+gamma: 1.2
+gamma_r: 0.84
+gamma_g: 0.89
+gamma_b: 1.16
+vignette: -12
+temp: 7619
