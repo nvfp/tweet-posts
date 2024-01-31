@@ -1,0 +1,28 @@
+tweet_id: 1752582970404188623
+masto_id: 111849198090876818
+subre_id: Not uploaded, but here's the text: Enjoying the Wednesday with this Multibrot.  #DeepLearning #Fractals
+
+n_iter: 392
+ct: 1
+hue_offset: 100
+saturation: -0.96
+
+num_attempts: 618
+dur: 602
+std: 65.08
+size: 943089 (920.99 KiB)
+
+xmin: 0.5443458915564401
+xmax: 0.5490796193670909
+ymin: 0.2885968075147005
+ymax: 0.29125952940819166
+
+contrast: 1.37
+brightness: 0.04
+saturation: 1.7
+gamma: 1.2
+gamma_r: 1.1
+gamma_g: 0.89
+gamma_b: 1.04
+vignette: 21
+temp: 2045
