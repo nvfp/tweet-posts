@@ -1,0 +1,31 @@
+tweet_id: 1752708269284692060
+masto_id: 111851155931425972
+subre_id: Not uploaded, but here's the text: Wishing you the best!  #Fractals #AI
+
+newton_power: 3
+newton_const: -2
+
+n_iter: 255
+ct: 214
+hue_offset: 270
+saturation: -0.77
+
+num_attempts: 545
+dur: 600
+std: 4.29
+size: 698180 (681.82 KiB)
+
+xmin: -0.7816963159851098
+xmax: -0.7506082330835554
+ymin: 0.13257088558632013
+ymax: 0.1500579322184445
+
+contrast: 1.24
+brightness: 0.07
+saturation: 0.38
+gamma: 0.96
+gamma_r: 0.91
+gamma_g: 1.03
+gamma_b: 1.06
+vignette: 21
+temp: 2393
