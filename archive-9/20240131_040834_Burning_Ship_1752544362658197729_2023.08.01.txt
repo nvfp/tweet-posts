@@ -1,0 +1,28 @@
+tweet_id: 1752544362658197729
+masto_id: 111848594709886070
+subre_id: Not uploaded, but here's the text: Wednesday vibes!  #DigitalArt #Fractals
+
+n_iter: 357
+ct: 116
+hue_offset: 311
+saturation: 0.46
+
+num_attempts: 22
+dur: 5
+std: 30.04
+size: 468777 (457.79 KiB)
+
+xmin: -0.5047030832841202
+xmax: -0.3683394469204838
+ymin: -0.8278043794510879
+ymax: -0.7510998339965425
+
+contrast: 1.58
+brightness: -0.09
+saturation: 0.62
+gamma: 1.03
+gamma_r: 0.94
+gamma_g: 0.95
+gamma_b: 0.98
+vignette: 14
+temp: 7791
