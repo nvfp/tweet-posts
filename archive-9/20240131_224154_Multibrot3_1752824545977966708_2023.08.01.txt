@@ -1,0 +1,28 @@
+tweet_id: 1752824545977966708
+masto_id: 111852972580870841
+subre_id: Not uploaded, but here's the text: Have a great day!  #AI #Mathematics
+
+n_iter: 540
+ct: 255
+hue_offset: 131
+saturation: 0.31
+
+num_attempts: 380
+dur: 602
+std: 90.09
+size: 705770 (689.23 KiB)
+
+xmin: -0.5335953885252043
+xmax: -0.5294886123445062
+ymin: 0.17050163225889214
+ymax: 0.17281169386053485
+
+contrast: 1.58
+brightness: 0.17
+saturation: 1.71
+gamma: 1.12
+gamma_r: 1.1
+gamma_g: 0.94
+gamma_b: 0.92
+vignette: -5
+temp: 6289
