@@ -1,0 +1,28 @@
+tweet_id: 1752967334858252356
+masto_id: 111855203698512351
+subre_id: Not uploaded, but here's the text: Smile, it's Thursday!  #MachineLearning #DigitalArt
+
+n_iter: 203
+ct: 236
+hue_offset: 315
+saturation: -0.95
+
+num_attempts: 61
+dur: 17
+std: 29.59
+size: 1379863 (1.32 MiB)
+
+xmin: -0.9334836032402101
+xmax: -0.03348360324021005
+ymin: -1.2276071968450086
+ymax: -0.7213571968450087
+
+contrast: 1.42
+brightness: 0.03
+saturation: 1.33
+gamma: 1.02
+gamma_r: 1.0
+gamma_g: 1.05
+gamma_b: 1.05
+vignette: -46
+temp: 4164
