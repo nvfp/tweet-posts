@@ -1,0 +1,28 @@
+tweet_id: 1753152382698246192
+masto_id: 111858095093247799
+subre_id: Not uploaded, but here's the text: Feeling the Mandelbrot Set vibes today!  #Nature #VisualArt
+
+n_iter: 750
+ct: 185
+hue_offset: 276
+saturation: 0.87
+
+num_attempts: 98
+dur: 55
+std: 151.52
+size: 1460305 (1.39 MiB)
+
+xmin: 0.33850673539684406
+xmax: 0.3405825008353495
+ymin: 0.38431870094445375
+ymax: 0.3854863190036131
+
+contrast: 1.42
+brightness: 0.1
+saturation: 1.72
+gamma: 1.0
+gamma_r: 0.93
+gamma_g: 1.09
+gamma_b: 0.91
+vignette: 17
+temp: 5998
