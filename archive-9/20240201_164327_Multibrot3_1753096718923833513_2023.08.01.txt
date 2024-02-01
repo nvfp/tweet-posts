@@ -1,0 +1,28 @@
+tweet_id: 1753096718923833513
+masto_id: 111857225376025051
+subre_id: Not uploaded, but here's the text: Having a blast on Thursday?  #VisualArt #AI
+
+n_iter: 280
+ct: 255
+hue_offset: 251
+saturation: -0.39
+
+num_attempts: 763
+dur: 600
+std: 47.94
+size: 949952 (927.69 KiB)
+
+xmin: -0.5461924502271818
+xmax: -0.5343930401976833
+ymin: -0.19974495787494373
+ymax: -0.1931077897333508
+
+contrast: 1.27
+brightness: -0.08
+saturation: 1.43
+gamma: 1.16
+gamma_r: 1.19
+gamma_g: 0.9
+gamma_b: 1.17
+vignette: -20
+temp: 5398
