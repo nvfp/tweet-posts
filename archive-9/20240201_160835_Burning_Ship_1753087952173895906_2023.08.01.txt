@@ -1,0 +1,28 @@
+tweet_id: 1753087952173895906
+masto_id: 111857088320340422
+subre_id: Not uploaded, but here's the text: Let this Burning Ship inspire your Thursday.  #MachineLearning #GenerativeArt
+
+n_iter: 270
+ct: 52
+hue_offset: 67
+saturation: 0.31
+
+num_attempts: 29
+dur: 7
+std: 40.08
+size: 695360 (679.06 KiB)
+
+xmin: -0.804810187041175
+xmax: -0.5679680817780172
+ymin: -0.7415600297203226
+ymax: -0.6083363455097963
+
+contrast: 1.61
+brightness: 0.1
+saturation: 0.3
+gamma: 1.07
+gamma_r: 0.93
+gamma_g: 1.0
+gamma_b: 0.95
+vignette: -2
+temp: 3837
