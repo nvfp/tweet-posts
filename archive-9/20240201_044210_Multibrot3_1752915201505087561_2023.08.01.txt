@@ -1,0 +1,28 @@
+tweet_id: 1752915201505087561
+masto_id: 111854389168930614
+subre_id: Not uploaded, but here's the text: Wishing you a wonderful Thursday!  #Art #DigitalArt
+
+n_iter: 645
+ct: 1
+hue_offset: 92
+saturation: -0.74
+
+num_attempts: 380
+dur: 602
+std: 104.41
+size: 1393278 (1.33 MiB)
+
+xmin: 0.45355187545911946
+xmax: 0.4580012636682407
+ymin: -0.5434115623502638
+ymax: -0.5409087814826331
+
+contrast: 0.94
+brightness: 0.19
+saturation: 0.83
+gamma: 1.05
+gamma_r: 0.93
+gamma_g: 0.99
+gamma_b: 1.1
+vignette: 18
+temp: 4889
