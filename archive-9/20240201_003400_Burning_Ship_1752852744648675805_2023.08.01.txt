@@ -1,0 +1,28 @@
+tweet_id: 1752852744648675805
+masto_id: 111853413354940092
+subre_id: Not uploaded, but here's the text: Beautiful Thursday with this Burning Ship!  #GenerativeArt #AI
+
+n_iter: 373
+ct: 145
+hue_offset: 327
+saturation: -0.79
+
+num_attempts: 21
+dur: 8
+std: 26.25
+size: 784744 (766.35 KiB)
+
+xmin: -2.0296827404079103
+xmax: 0.2203172595920897
+ymin: -1.6679032562302765
+ymax: -0.40227825623027647
+
+contrast: 0.74
+brightness: 0.08
+saturation: 0.85
+gamma: 1.0
+gamma_r: 1.05
+gamma_g: 0.96
+gamma_b: 1.05
+vignette: 13
+temp: 3125
