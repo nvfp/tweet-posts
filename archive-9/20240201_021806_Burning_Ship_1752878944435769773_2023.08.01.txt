@@ -1,0 +1,28 @@
+tweet_id: 1752878944435769773
+masto_id: 111853822656019399
+subre_id: Not uploaded, but here's the text: Let the magic of Thursday fill your heart!  #Art #Fractals
+
+n_iter: 298
+ct: 4
+hue_offset: 342
+saturation: 0.47
+
+num_attempts: 20
+dur: 4
+std: 32.44
+size: 1376193 (1.31 MiB)
+
+xmin: -1.2453071146710357
+xmax: -0.6024499718138928
+ymin: -1.098273491162736
+ymax: -0.7366663483055932
+
+contrast: 0.72
+brightness: -0.04
+saturation: 0.4
+gamma: 1.0
+gamma_r: 1.04
+gamma_g: 1.03
+gamma_b: 0.91
+vignette: -9
+temp: 2921
