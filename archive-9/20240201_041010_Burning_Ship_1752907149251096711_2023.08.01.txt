@@ -1,0 +1,28 @@
+tweet_id: 1752907149251096711
+masto_id: 111854263373233865
+subre_id: Not uploaded, but here's the text: Thursday is shining brightly, just like this Burning Ship.  #AI #VisualArt
+
+n_iter: 446
+ct: 236
+hue_offset: 314
+saturation: 0.9
+
+num_attempts: 8
+dur: 2
+std: 27.21
+size: 550044 (537.15 KiB)
+
+xmin: -1.6218304670696195
+xmax: -0.12183046706961953
+ymin: -0.6562918072148753
+ymax: 0.18745819278512466
+
+contrast: 0.98
+brightness: -0.01
+saturation: 0.31
+gamma: 1.09
+gamma_r: 0.91
+gamma_g: 1.08
+gamma_b: 0.91
+vignette: 14
+temp: 6730
