@@ -1,0 +1,28 @@
+tweet_id: 1753118103150469614
+masto_id: 111857559462241733
+subre_id: Not uploaded, but here's the text: Let's rock this Thursday!  #GenerativeArt #Fractals
+
+n_iter: 447
+ct: 69
+hue_offset: 328
+saturation: -0.42
+
+num_attempts: 37
+dur: 10
+std: 32.08
+size: 1640203 (1.56 MiB)
+
+xmin: -0.9238794829595478
+xmax: -0.8646689566437583
+ymin: -0.7703232792246324
+ymax: -0.7370173581720009
+
+contrast: 1.66
+brightness: 0.04
+saturation: 1.56
+gamma: 0.94
+gamma_r: 0.99
+gamma_g: 1.09
+gamma_b: 1.08
+vignette: -5
+temp: 3283
