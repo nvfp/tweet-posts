@@ -1,0 +1,28 @@
+tweet_id: 1753178257623797802
+masto_id: 111858499440192144
+subre_id: Not uploaded, but here's the text: Ever heard of this Burning Ship?  #Nature #MachineLearning
+
+n_iter: 235
+ct: 119
+hue_offset: 69
+saturation: 0.68
+
+num_attempts: 1
+dur: 0
+std: 37.65
+size: 2041203 (1.95 MiB)
+
+xmin: -0.7026367795440307
+xmax: -0.6300561343827403
+ymin: -0.7579990773281122
+ymax: -0.7171724644248865
+
+contrast: 1.21
+brightness: -0.05
+saturation: 0.67
+gamma: 0.95
+gamma_r: 1.08
+gamma_g: 1.07
+gamma_b: 0.97
+vignette: -38
+temp: 2963
