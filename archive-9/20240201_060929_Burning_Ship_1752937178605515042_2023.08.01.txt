@@ -1,0 +1,28 @@
+tweet_id: 1752937178605515042
+masto_id: 111854732524935411
+subre_id: Not uploaded, but here's the text: Surprise! Burning Ship!  #VisualArt #Art
+
+n_iter: 485
+ct: 131
+hue_offset: 185
+saturation: -0.98
+
+num_attempts: 11
+dur: 2
+std: 30.69
+size: 1848203 (1.76 MiB)
+
+xmin: -0.875419044079681
+xmax: -0.7950619012225381
+ymin: -0.9016325036442052
+ymax: -0.8564316107870623
+
+contrast: 1.42
+brightness: 0.18
+saturation: 1.71
+gamma: 0.98
+gamma_r: 0.93
+gamma_g: 1.02
+gamma_b: 0.97
+vignette: -21
+temp: 5489
