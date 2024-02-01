@@ -1,0 +1,28 @@
+tweet_id: 1753126670805160423
+masto_id: 111857693333848262
+subre_id: Not uploaded, but here's the text: Beautiful Thursday with this Multibrot!  #MachineLearning #Nature
+
+n_iter: 360
+ct: 255
+hue_offset: 78
+saturation: 0.99
+
+num_attempts: 571
+dur: 604
+std: 69.94
+size: 604819 (590.64 KiB)
+
+xmin: -0.5465185634509855
+xmax: -0.5421325985387048
+ymin: 0.3265353263956339
+ymax: 0.3290024316587918
+
+contrast: 1.74
+brightness: -0.01
+saturation: 1.08
+gamma: 0.99
+gamma_r: 0.88
+gamma_g: 1.17
+gamma_b: 0.87
+vignette: 2
+temp: 3455
