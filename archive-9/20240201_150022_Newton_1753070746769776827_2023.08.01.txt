@@ -1,0 +1,31 @@
+tweet_id: 1753070746769776827
+masto_id: 111856820053010555
+subre_id: Not uploaded, but here's the text: Wow, take a look! There's Newton!  #Mathematics #AI
+
+newton_power: 4
+newton_const: -8
+
+n_iter: 170
+ct: 137
+hue_offset: 97
+saturation: -0.13
+
+num_attempts: 247
+dur: 600
+std: 6.73
+size: 987213 (964.08 KiB)
+
+xmin: -0.4171149905704934
+xmax: -0.38826883672433954
+ymin: 1.0208127302630823
+ymax: 1.0370386918015437
+
+contrast: 1.73
+brightness: -0.02
+saturation: 0.66
+gamma: 1.06
+gamma_r: 0.99
+gamma_g: 0.97
+gamma_b: 1.06
+vignette: -34
+temp: 2820
