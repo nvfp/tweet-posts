@@ -1,0 +1,31 @@
+tweet_id: 1753191449280081945
+masto_id: 111858705548593621
+subre_id: Not uploaded, but here's the text: you are cool  #DigitalArt #GenerativeArt
+
+newton_power: 6
+newton_const: 7
+
+n_iter: 230
+ct: 32
+hue_offset: 63
+saturation: 0.28
+
+num_attempts: 169
+dur: 601
+std: 20.09
+size: 1229104 (1.17 MiB)
+
+xmin: -0.5047317506023359
+xmax: -0.49445777799959617
+ymin: 1.198654654414574
+ymax: 1.2044337640036151
+
+contrast: 1.73
+brightness: 0.12
+saturation: 0.32
+gamma: 0.93
+gamma_r: 0.92
+gamma_g: 0.91
+gamma_b: 1.0
+vignette: -35
+temp: 2257
