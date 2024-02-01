@@ -1,0 +1,28 @@
+tweet_id: 1753057205555810364
+masto_id: 111856607947001314
+subre_id: Not uploaded, but here's the text: Keep shining on Thursday!  #Mathematics #AI
+
+n_iter: 453
+ct: 200
+hue_offset: 182
+saturation: -0.43
+
+num_attempts: 5
+dur: 2
+std: 45.81
+size: 1468816 (1.4 MiB)
+
+xmin: -1.1782587445940702
+xmax: -0.5354016017369273
+ymin: -1.0906871546919055
+ymax: -0.7290800118347626
+
+contrast: 0.87
+brightness: -0.1
+saturation: 1.01
+gamma: 0.98
+gamma_r: 1.06
+gamma_g: 0.94
+gamma_b: 0.99
+vignette: -12
+temp: 4749
