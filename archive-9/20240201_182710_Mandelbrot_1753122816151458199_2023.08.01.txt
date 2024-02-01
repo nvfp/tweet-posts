@@ -1,0 +1,28 @@
+tweet_id: 1753122816151458199
+masto_id: 111857633214090323
+subre_id: Not uploaded, but here's the text: Have a great day!  #DeepLearning #MachineLearning
+
+n_iter: 323
+ct: 108
+hue_offset: 59
+saturation: 0.37
+
+num_attempts: 42
+dur: 14
+std: 70.31
+size: 714541 (697.79 KiB)
+
+xmin: 0.1330625437365991
+xmax: 0.13363348293157482
+ymin: -0.6259834659677646
+ymax: -0.6256623126705907
+
+contrast: 0.79
+brightness: -0.02
+saturation: 0.91
+gamma: 0.93
+gamma_r: 0.97
+gamma_g: 1.01
+gamma_b: 1.05
+vignette: -37
+temp: 7813
