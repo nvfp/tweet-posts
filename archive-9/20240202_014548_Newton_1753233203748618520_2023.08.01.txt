@@ -1,0 +1,31 @@
+tweet_id: 1753233203748618520
+masto_id: 111859357990880142
+subre_id: Not uploaded, but here's the text: A great Friday and a beautiful Newton.  #VisualArt #DeepLearning
+
+newton_power: 6
+newton_const: -5
+
+n_iter: 104
+ct: 202
+hue_offset: 9
+saturation: -0.28
+
+num_attempts: 187
+dur: 600
+std: 16.09
+size: 909234 (887.92 KiB)
+
+xmin: 2.012420319537501
+xmax: 2.0210040105246256
+ymin: 1.2609622716795497
+ymax: 1.2657905978598072
+
+contrast: 0.91
+brightness: 0.12
+saturation: 0.73
+gamma: 1.06
+gamma_r: 0.93
+gamma_g: 1.08
+gamma_b: 0.92
+vignette: 31
+temp: 7106
