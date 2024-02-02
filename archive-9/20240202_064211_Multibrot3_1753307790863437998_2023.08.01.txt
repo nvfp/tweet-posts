@@ -1,0 +1,28 @@
+tweet_id: 1753307790863437998
+masto_id: 111860523396693541
+subre_id: Not uploaded, but here's the text: Wishing you the best!  #MachineLearning #Nature
+
+n_iter: 659
+ct: 1
+hue_offset: 129
+saturation: 0.18
+
+num_attempts: 300
+dur: 608
+std: 71.35
+size: 842167 (822.43 KiB)
+
+xmin: -0.2069697649041815
+xmax: -0.198292975316329
+ymin: -0.9649944907600886
+ymax: -0.9601137966169215
+
+contrast: 0.81
+brightness: 0.16
+saturation: 0.31
+gamma: 1.15
+gamma_r: 1.19
+gamma_g: 0.96
+gamma_b: 0.85
+vignette: -26
+temp: 6331
