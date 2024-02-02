@@ -1,0 +1,28 @@
+tweet_id: 1753545631136731360
+masto_id: 111864239595017246
+subre_id: Not uploaded, but here's the text: Wishing you a wonderful Friday!  #AI #GenerativeArt
+
+n_iter: 200
+ct: 180
+hue_offset: 276
+saturation: 0.28
+
+num_attempts: 28
+dur: 5
+std: 54.68
+size: 703046 (686.57 KiB)
+
+xmin: -0.06378740374569869
+xmax: -0.0616964471330484
+ymin: -0.6509273323175497
+ymax: -0.649751169222934
+
+contrast: 1.4
+brightness: 0.09
+saturation: 1.52
+gamma: 0.97
+gamma_r: 1.04
+gamma_g: 0.95
+gamma_b: 1.1
+vignette: 13
+temp: 5904
