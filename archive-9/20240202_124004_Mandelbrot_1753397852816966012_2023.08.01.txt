@@ -1,0 +1,28 @@
+tweet_id: 1753397852816966012
+masto_id: 111861930705975616
+subre_id: Not uploaded, but here's the text: Have an awesome Friday!  #Mathematics #VisualArt
+
+n_iter: 1003
+ct: 115
+hue_offset: 185
+saturation: -0.44
+
+num_attempts: 65
+dur: 53
+std: 34.72
+size: 828147 (808.74 KiB)
+
+xmin: -1.687015448346512
+xmax: -0.6870154483465121
+ymin: -0.2571909521784136
+ymax: 0.3053090478215864
+
+contrast: 1.07
+brightness: 0.09
+saturation: 0.56
+gamma: 1.06
+gamma_r: 1.02
+gamma_g: 0.98
+gamma_b: 1.0
+vignette: -24
+temp: 2267
