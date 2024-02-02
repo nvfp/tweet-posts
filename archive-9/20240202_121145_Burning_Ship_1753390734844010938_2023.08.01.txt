@@ -1,0 +1,28 @@
+tweet_id: 1753390734844010938
+masto_id: 111861819333859386
+subre_id: Not uploaded, but here's the text: How's your day?  #Fractals #GenerativeArt
+
+n_iter: 192
+ct: 181
+hue_offset: 359
+saturation: -0.98
+
+num_attempts: 3
+dur: 0
+std: 30.78
+size: 736238 (718.98 KiB)
+
+xmin: 0.7087395888099279
+xmax: 0.7616807652805162
+ymin: -1.130448726726406
+ymax: -1.1006693149617002
+
+contrast: 1.68
+brightness: 0.22
+saturation: 0.59
+gamma: 1.06
+gamma_r: 0.96
+gamma_g: 0.91
+gamma_b: 1.07
+vignette: 2
+temp: 7725
