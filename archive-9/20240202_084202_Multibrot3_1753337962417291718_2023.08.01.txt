@@ -1,0 +1,28 @@
+tweet_id: 1753337962417291718
+masto_id: 111860994695062528
+subre_id: Not uploaded, but here's the text: Enjoying the Friday with this Multibrot.  #VisualArt #DigitalArt
+
+n_iter: 595
+ct: 1
+hue_offset: 49
+saturation: -0.93
+
+num_attempts: 417
+dur: 601
+std: 71.45
+size: 606681 (592.46 KiB)
+
+xmin: -0.49686418383054676
+xmax: -0.4870361740025369
+ymin: 0.47783081761392165
+ymax: 0.4833590731421772
+
+contrast: 1.61
+brightness: 0.03
+saturation: 0.93
+gamma: 1.09
+gamma_r: 1.05
+gamma_g: 1.12
+gamma_b: 1.1
+vignette: 28
+temp: 3262
