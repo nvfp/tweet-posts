@@ -1,0 +1,28 @@
+tweet_id: 1753485878402388227
+masto_id: 111863305960716964
+subre_id: Not uploaded, but here's the text: Have a great day!  #DigitalArt #GenerativeArt
+
+n_iter: 708
+ct: 114
+hue_offset: 47
+saturation: 0.85
+
+num_attempts: 112
+dur: 46
+std: 54.01
+size: 1671514 (1.59 MiB)
+
+xmin: 0.09907509953859117
+xmax: 0.10033892260336211
+ymin: 0.6216107715244312
+ymax: 0.6223216719983649
+
+contrast: 1.46
+brightness: 0.1
+saturation: 0.93
+gamma: 1.03
+gamma_r: 0.91
+gamma_g: 0.92
+gamma_b: 1.01
+vignette: -43
+temp: 6795
