@@ -1,0 +1,31 @@
+tweet_id: 1753523708256567364
+masto_id: 111863897369651538
+subre_id: Not uploaded, but here's the text: Let's make it a memorable Friday!  #DeepLearning #MachineLearning
+
+newton_power: 3
+newton_const: 7
+
+n_iter: 138
+ct: 49
+hue_offset: 340
+saturation: -0.79
+
+num_attempts: 519
+dur: 600
+std: 3.85
+size: 573987 (560.53 KiB)
+
+xmin: 1.3172655546139458
+xmax: 1.3951876325360237
+ymin: -0.42838203578119116
+ymax: -0.38455086695002233
+
+contrast: 1.2
+brightness: 0.1
+saturation: 1.33
+gamma: 1.06
+gamma_r: 0.9
+gamma_g: 1.05
+gamma_b: 0.99
+vignette: 9
+temp: 6930
