@@ -1,0 +1,28 @@
+tweet_id: 1753240121585881179
+masto_id: 111859466016081316
+subre_id: Not uploaded, but here's the text: Surprise! Burning Ship!  #MachineLearning #VisualArt
+
+n_iter: 293
+ct: 75
+hue_offset: 248
+saturation: -0.36
+
+num_attempts: 5
+dur: 1
+std: 25.39
+size: 1487729 (1.42 MiB)
+
+xmin: 0.73608204578986
+xmax: 0.8003677600755743
+ymin: -1.228025637693977
+ymax: -1.1918649234082628
+
+contrast: 0.89
+brightness: -0.0
+saturation: 1.45
+gamma: 0.92
+gamma_r: 1.07
+gamma_g: 0.9
+gamma_b: 1.0
+vignette: 29
+temp: 3752
