@@ -1,0 +1,28 @@
+tweet_id: 1753228704723996720
+masto_id: 111859287639247343
+subre_id: Not uploaded, but here's the text: Brighten your Friday!  #Fractals #DeepLearning
+
+n_iter: 562
+ct: 187
+hue_offset: 352
+saturation: 0.09
+
+num_attempts: 14
+dur: 3
+std: 73.43
+size: 794212 (775.6 KiB)
+
+xmin: -0.5159839199323204
+xmax: -0.5152561178944747
+ymin: 0.6026961131112498
+ymax: 0.6031055017575381
+
+contrast: 1.48
+brightness: 0.03
+saturation: 0.26
+gamma: 0.94
+gamma_r: 1.02
+gamma_g: 1.01
+gamma_b: 1.08
+vignette: -9
+temp: 2995
