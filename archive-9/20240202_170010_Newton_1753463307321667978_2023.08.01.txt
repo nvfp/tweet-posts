@@ -1,0 +1,31 @@
+tweet_id: 1753463307321667978
+masto_id: 111862953385035869
+subre_id: Not uploaded, but here's the text: Hope you're having a great Friday!  #GenerativeArt #AI
+
+newton_power: 4
+newton_const: 4
+
+n_iter: 90
+ct: 246
+hue_offset: 317
+saturation: -0.88
+
+num_attempts: 264
+dur: 601
+std: 7.17
+size: 1139040 (1.09 MiB)
+
+xmin: -0.7554937250380203
+xmax: -0.7478112666513366
+ymin: -0.36666699793815805
+ymax: -0.36234561509564844
+
+contrast: 1.07
+brightness: -0.09
+saturation: 1.44
+gamma: 1.1
+gamma_r: 1.02
+gamma_g: 0.9
+gamma_b: 1.03
+vignette: 28
+temp: 7042
