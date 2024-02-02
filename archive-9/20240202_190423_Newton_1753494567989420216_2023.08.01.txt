@@ -1,0 +1,31 @@
+tweet_id: 1753494567989420216
+masto_id: 111863441884777847
+subre_id: Not uploaded, but here's the text: Newton vibes to brighten your Friday.  #Fractals #DeepLearning
+
+newton_power: 5
+newton_const: 0
+
+n_iter: 96
+ct: 220
+hue_offset: 174
+saturation: -0.61
+
+num_attempts: 225
+dur: 851
+std: 2.48
+size: 629540 (614.79 KiB)
+
+xmin: -3.0
+xmax: 3.0
+ymin: -1.8411000172417533
+ymax: 1.5338999827582467
+
+contrast: 1.48
+brightness: 0.19
+saturation: 0.54
+gamma: 0.99
+gamma_r: 0.94
+gamma_g: 1.02
+gamma_b: 0.94
+vignette: -25
+temp: 5410
