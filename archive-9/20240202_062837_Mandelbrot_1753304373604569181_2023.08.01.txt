@@ -1,0 +1,28 @@
+tweet_id: 1753304373604569181
+masto_id: 111860470046911105
+subre_id: Not uploaded, but here's the text: Shine bright like the sun on this Friday!  #Mathematics #DigitalArt
+
+n_iter: 889
+ct: 52
+hue_offset: 279
+saturation: 0.53
+
+num_attempts: 84
+dur: 43
+std: 17.16
+size: 814861 (795.76 KiB)
+
+xmin: 0.4051387395878625
+xmax: 0.4060568024751703
+ymin: -0.32473415332375466
+ymax: -0.324217742949644
+
+contrast: 0.71
+brightness: 0.0
+saturation: 1.01
+gamma: 0.97
+gamma_r: 0.91
+gamma_g: 1.02
+gamma_b: 1.0
+vignette: 14
+temp: 6587
