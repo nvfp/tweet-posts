@@ -1,0 +1,31 @@
+tweet_id: 1753251863942869146
+masto_id: 111859649618779206
+subre_id: Not uploaded, but here's the text: How's your day?  #VisualArt #GenerativeArt
+
+newton_power: 3
+newton_const: 9
+
+n_iter: 206
+ct: 138
+hue_offset: 145
+saturation: 0.47
+
+num_attempts: 535
+dur: 601
+std: 4.26
+size: 556190 (543.15 KiB)
+
+xmin: -0.7037239201609857
+xmax: -0.6756865369834156
+ymin: -0.520097197060768
+ymax: -0.5043261690233848
+
+contrast: 1.1
+brightness: 0.07
+saturation: 0.97
+gamma: 0.98
+gamma_r: 1.03
+gamma_g: 0.96
+gamma_b: 0.91
+vignette: -10
+temp: 3501
