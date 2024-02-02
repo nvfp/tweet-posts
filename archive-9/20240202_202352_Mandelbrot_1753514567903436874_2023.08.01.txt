@@ -1,0 +1,28 @@
+tweet_id: 1753514567903436874
+masto_id: 111863754398452678
+subre_id: Not uploaded, but here's the text: Keep smiling!  #AI #Mathematics
+
+n_iter: 371
+ct: 164
+hue_offset: 345
+saturation: 0.83
+
+num_attempts: 1
+dur: 0
+std: 38.7
+size: 1420145 (1.35 MiB)
+
+xmin: -0.3752021039824873
+xmax: -0.3745579815992345
+ymin: -0.6406955921532222
+ymax: -0.6403332733126426
+
+contrast: 1.12
+brightness: 0.16
+saturation: 0.28
+gamma: 1.05
+gamma_r: 1.01
+gamma_g: 0.93
+gamma_b: 0.91
+vignette: -33
+temp: 4821
