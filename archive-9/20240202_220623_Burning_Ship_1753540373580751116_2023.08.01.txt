@@ -1,0 +1,28 @@
+tweet_id: 1753540373580751116
+masto_id: 111864157500689648
+subre_id: Not uploaded, but here's the text: Wishing you a joyful day!  #MachineLearning #Mathematics
+
+n_iter: 452
+ct: 201
+hue_offset: 311
+saturation: 0.17
+
+num_attempts: 21
+dur: 8
+std: 29.35
+size: 884503 (863.77 KiB)
+
+xmin: -1.1069387837749145
+xmax: 0.3930612162250855
+ymin: -1.7458836557218655
+ymax: -0.9021336557218655
+
+contrast: 1.08
+brightness: 0.2
+saturation: 1.26
+gamma: 0.91
+gamma_r: 1.04
+gamma_g: 0.93
+gamma_b: 1.04
+vignette: -30
+temp: 6982
