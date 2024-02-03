@@ -1,0 +1,28 @@
+tweet_id: 1753661663285301512
+masto_id: 111866052639680135
+subre_id: Not uploaded, but here's the text: Cheers to a fantastic Saturday!  #Fractals #DeepLearning
+
+n_iter: 220
+ct: 145
+hue_offset: 157
+saturation: -0.98
+
+num_attempts: 6
+dur: 2
+std: 21.38
+size: 832726 (813.21 KiB)
+
+xmin: -0.9586535917118086
+xmax: -0.8461535917118086
+ymin: -0.6057052069695263
+ymax: -0.5424239569695264
+
+contrast: 0.75
+brightness: -0.09
+saturation: 0.48
+gamma: 1.09
+gamma_r: 0.96
+gamma_g: 1.09
+gamma_b: 1.06
+vignette: -14
+temp: 7829
