@@ -1,0 +1,31 @@
+tweet_id: 1753614330115829969
+masto_id: 111865313105720315
+subre_id: Not uploaded, but here's the text: Another Saturday, another Newton!  #DigitalArt #GenerativeArt
+
+newton_power: 5
+newton_const: -4
+
+n_iter: 246
+ct: 3
+hue_offset: 151
+saturation: 0.82
+
+num_attempts: 225
+dur: 606
+std: 11.74
+size: 1182080 (1.13 MiB)
+
+xmin: 2.0779835625888623
+xmax: 2.4529835625888623
+ymin: -1.80751378581218
+ymax: -1.59657628581218
+
+contrast: 1.08
+brightness: 0.12
+saturation: 0.95
+gamma: 1.04
+gamma_r: 0.91
+gamma_g: 1.0
+gamma_b: 1.0
+vignette: -28
+temp: 4175
