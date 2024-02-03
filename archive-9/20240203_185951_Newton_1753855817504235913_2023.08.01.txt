@@ -1,0 +1,31 @@
+tweet_id: 1753855817504235913
+masto_id: 111869086331169776
+subre_id: Not uploaded, but here's the text: Wow, guess what? it's Newton!  #GenerativeArt #DigitalArt
+
+newton_power: 3
+newton_const: -3
+
+n_iter: 152
+ct: 185
+hue_offset: 155
+saturation: 0.31
+
+num_attempts: 531
+dur: 600
+std: 4.5
+size: 402234 (392.81 KiB)
+
+xmin: -1.8379846926080825
+xmax: -1.819466174089564
+ymin: 0.3245327055534921
+ymax: 0.3349493722201588
+
+contrast: 1.29
+brightness: 0.07
+saturation: 0.74
+gamma: 1.03
+gamma_r: 1.08
+gamma_g: 1.1
+gamma_b: 0.99
+vignette: -6
+temp: 7076
