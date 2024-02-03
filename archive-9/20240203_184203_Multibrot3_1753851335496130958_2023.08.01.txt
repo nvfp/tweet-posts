@@ -1,0 +1,28 @@
+tweet_id: 1753851335496130958
+masto_id: 111869016334588336
+subre_id: Not uploaded, but here's the text: Enjoying the Saturday with this Multibrot.  #Mathematics #GenerativeArt
+
+n_iter: 351
+ct: 1
+hue_offset: 175
+saturation: 0.95
+
+num_attempts: 569
+dur: 600
+std: 54.21
+size: 984198 (961.13 KiB)
+
+xmin: 0.4248552902796505
+xmax: 0.433438981266775
+ymin: 0.574616289922675
+ymax: 0.5794446161029325
+
+contrast: 0.74
+brightness: 0.02
+saturation: 0.98
+gamma: 1.02
+gamma_r: 1.06
+gamma_g: 0.97
+gamma_b: 0.81
+vignette: 14
+temp: 4228
