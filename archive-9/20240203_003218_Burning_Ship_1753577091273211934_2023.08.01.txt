@@ -1,0 +1,28 @@
+tweet_id: 1753577091273211934
+masto_id: 111864731300503067
+subre_id: Not uploaded, but here's the text: Happy Saturday!  #MachineLearning #GenerativeArt
+
+n_iter: 473
+ct: 67
+hue_offset: 205
+saturation: -0.39
+
+num_attempts: 8
+dur: 2
+std: 51.87
+size: 1743190 (1.66 MiB)
+
+xmin: -1.1747196408740364
+xmax: -1.059335025489421
+ymin: -0.5460233936832544
+ymax: -0.4811195475294082
+
+contrast: 1.59
+brightness: 0.11
+saturation: 1.26
+gamma: 1.08
+gamma_r: 1.09
+gamma_g: 1.06
+gamma_b: 0.98
+vignette: -30
+temp: 3660
