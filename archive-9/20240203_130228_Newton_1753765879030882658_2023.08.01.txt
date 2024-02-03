@@ -1,0 +1,31 @@
+tweet_id: 1753765879030882658
+masto_id: 111867681058188669
+subre_id: Not uploaded, but here's the text: Wishing you the best!  #DigitalArt #Art
+
+newton_power: 3
+newton_const: -4
+
+n_iter: 89
+ct: 36
+hue_offset: 40
+saturation: 0.29
+
+num_attempts: 546
+dur: 600
+std: 4.08
+size: 698500 (682.13 KiB)
+
+xmin: 0.6687059001486086
+xmax: 0.7937059001486086
+ymin: -1.9333501747206867
+ymax: -1.8630376747206867
+
+contrast: 1.64
+brightness: 0.08
+saturation: 0.49
+gamma: 1.0
+gamma_r: 0.97
+gamma_g: 0.96
+gamma_b: 1.05
+vignette: 16
+temp: 5242
