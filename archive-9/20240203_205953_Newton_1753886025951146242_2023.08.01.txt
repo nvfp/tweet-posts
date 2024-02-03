@@ -1,0 +1,31 @@
+tweet_id: 1753886025951146242
+masto_id: 111869558372444630
+subre_id: Not uploaded, but here's the text: Wow, guess what? it's Newton!  #DigitalArt #Fractals
+
+newton_power: 7
+newton_const: -4
+
+n_iter: 114
+ct: 91
+hue_offset: 338
+saturation: 0.93
+
+num_attempts: 125
+dur: 601
+std: 44.1
+size: 553852 (540.87 KiB)
+
+xmin: -0.08748979963740755
+xmax: 0.040169774830677546
+ymin: -0.03621713798785087
+ymax: 0.035591372650447
+
+contrast: 1.25
+brightness: 0.21
+saturation: 0.91
+gamma: 1.01
+gamma_r: 0.97
+gamma_g: 0.91
+gamma_b: 1.03
+vignette: 10
+temp: 4338
