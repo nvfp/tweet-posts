@@ -1,0 +1,28 @@
+tweet_id: 1753821443744256076
+masto_id: 111868549127108042
+subre_id: Not uploaded, but here's the text: Hope your Saturday is awesome!  #VisualArt #AI
+
+n_iter: 256
+ct: 1
+hue_offset: 187
+saturation: 0.06
+
+num_attempts: 782
+dur: 602
+std: 54.52
+size: 527815 (515.44 KiB)
+
+xmin: 0.19761303751052894
+xmax: 0.2022054600133992
+ymin: -1.0264368954427805
+ymax: -1.023853657784916
+
+contrast: 1.31
+brightness: -0.09
+saturation: 0.51
+gamma: 1.12
+gamma_r: 1.0
+gamma_g: 1.08
+gamma_b: 0.96
+vignette: -7
+temp: 6497
