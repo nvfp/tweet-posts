@@ -1,0 +1,28 @@
+tweet_id: 1753691767071719547
+masto_id: 111866522937143583
+subre_id: Not uploaded, but here's the text: you're awesome!  #DigitalArt #Mathematics
+
+n_iter: 272
+ct: 176
+hue_offset: 259
+saturation: -0.26
+
+num_attempts: 75
+dur: 17
+std: 22.41
+size: 1740930 (1.66 MiB)
+
+xmin: 0.7168979945250586
+xmax: 0.7686221324560931
+ymin: -1.2748169967775578
+ymax: -1.245722169191351
+
+contrast: 1.08
+brightness: -0.09
+saturation: 1.02
+gamma: 1.04
+gamma_r: 0.92
+gamma_g: 1.02
+gamma_b: 1.04
+vignette: -43
+temp: 2699
