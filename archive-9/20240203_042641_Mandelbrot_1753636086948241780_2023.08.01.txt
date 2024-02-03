@@ -1,0 +1,28 @@
+tweet_id: 1753636086948241780
+masto_id: 111865652916663642
+subre_id: Not uploaded, but here's the text: Smile!  #Fractals #AI
+
+n_iter: 441
+ct: 167
+hue_offset: 128
+saturation: -0.48
+
+num_attempts: 20
+dur: 4
+std: 76.09
+size: 619778 (605.25 KiB)
+
+xmin: -0.7389640671839519
+xmax: -0.7349839676814643
+ymin: -0.13445497588687683
+ymax: -0.13221616991672758
+
+contrast: 1.44
+brightness: 0.08
+saturation: 0.9
+gamma: 0.98
+gamma_r: 0.98
+gamma_g: 1.06
+gamma_b: 1.1
+vignette: -30
+temp: 5803
