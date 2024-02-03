@@ -1,0 +1,28 @@
+tweet_id: 1753790986743095526
+masto_id: 111868073315956177
+subre_id: Not uploaded, but here's the text: Wishing you a rad Saturday!  #Art #Mathematics
+
+n_iter: 535
+ct: 1
+hue_offset: 0
+saturation: 0.12
+
+num_attempts: 420
+dur: 600
+std: 90.08
+size: 1143994 (1.09 MiB)
+
+xmin: -0.0630956840004604
+xmax: -0.05632749449115414
+ymin: 0.7656346604936908
+ymax: 0.7694417670926755
+
+contrast: 1.0
+brightness: 0.13
+saturation: 0.57
+gamma: 0.88
+gamma_r: 1.04
+gamma_g: 1.13
+gamma_b: 0.83
+vignette: -33
+temp: 6806
