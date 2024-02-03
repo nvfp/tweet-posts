@@ -1,0 +1,28 @@
+tweet_id: 1753730557073309886
+masto_id: 111867129058210126
+subre_id: Not uploaded, but here's the text: Hope you have an amazing Saturday!  #Fractals #GenerativeArt
+
+n_iter: 541
+ct: 1
+hue_offset: 97
+saturation: -0.08
+
+num_attempts: 489
+dur: 600
+std: 80.81
+size: 529813 (517.4 KiB)
+
+xmin: 0.49128763842740675
+xmax: 0.49722235652829694
+ymin: 0.4800696987413646
+ymax: 0.4834079776731154
+
+contrast: 1.56
+brightness: -0.08
+saturation: 0.42
+gamma: 0.86
+gamma_r: 0.81
+gamma_g: 1.05
+gamma_b: 1.02
+vignette: -25
+temp: 2662
