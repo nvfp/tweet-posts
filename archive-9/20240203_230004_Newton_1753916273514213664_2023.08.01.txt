@@ -1,0 +1,31 @@
+tweet_id: 1753916273514213664
+masto_id: 111870030908037521
+subre_id: Not uploaded, but here's the text: Look what we have here! it's Newton!  #Nature #GenerativeArt
+
+newton_power: 6
+newton_const: 9
+
+n_iter: 74
+ct: 235
+hue_offset: 49
+saturation: -0.91
+
+num_attempts: 183
+dur: 601
+std: 23.52
+size: 678055 (662.16 KiB)
+
+xmin: 1.0796058782506428
+xmax: 1.104196042185069
+ymin: 0.24681223430433885
+ymax: 0.2606442015174536
+
+contrast: 1.25
+brightness: -0.06
+saturation: 1.15
+gamma: 1.09
+gamma_r: 1.02
+gamma_g: 0.96
+gamma_b: 0.99
+vignette: 9
+temp: 3000
