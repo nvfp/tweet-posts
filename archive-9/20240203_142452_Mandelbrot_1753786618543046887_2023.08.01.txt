@@ -1,0 +1,28 @@
+tweet_id: 1753786618543046887
+masto_id: 111868005071561975
+subre_id: Not uploaded, but here's the text: Shine bright like the sun on this Saturday!  #Art #DigitalArt
+
+n_iter: 387
+ct: 13
+hue_offset: 34
+saturation: 0.75
+
+num_attempts: 21
+dur: 9
+std: 15.91
+size: 1027845 (1003.75 KiB)
+
+xmin: 0.2319961121560059
+xmax: 0.23617584047366527
+ymin: -0.5834182476348498
+ymax: -0.5810671504561664
+
+contrast: 1.31
+brightness: 0.12
+saturation: 0.73
+gamma: 0.93
+gamma_r: 0.93
+gamma_g: 0.93
+gamma_b: 0.93
+vignette: -8
+temp: 4129
