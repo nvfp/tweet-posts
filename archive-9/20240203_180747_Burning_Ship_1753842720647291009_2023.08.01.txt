@@ -1,0 +1,28 @@
+tweet_id: 1753842720647291009
+masto_id: 111868881636234350
+subre_id: Not uploaded, but here's the text: Good Saturday! This Burning Ship is for you!  #Nature #DeepLearning
+
+n_iter: 380
+ct: 183
+hue_offset: 87
+saturation: 0.13
+
+num_attempts: 5
+dur: 3
+std: 56.79
+size: 1650576 (1.57 MiB)
+
+xmin: -0.6943599364533015
+xmax: -0.6240474364533015
+ymin: -0.7274320134227101
+ymax: -0.6878812321727101
+
+contrast: 1.0
+brightness: 0.04
+saturation: 0.75
+gamma: 0.95
+gamma_r: 0.91
+gamma_g: 1.06
+gamma_b: 0.91
+vignette: -23
+temp: 3370
