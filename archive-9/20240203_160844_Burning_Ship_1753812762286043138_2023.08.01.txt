@@ -1,0 +1,28 @@
+tweet_id: 1753812762286043138
+masto_id: 111868413514058512
+subre_id: Not uploaded, but here's the text: Saturday is shining brightly, just like this Burning Ship.  #Fractals #DeepLearning
+
+n_iter: 232
+ct: 197
+hue_offset: 196
+saturation: 0.27
+
+num_attempts: 4
+dur: 0
+std: 38.23
+size: 1784290 (1.7 MiB)
+
+xmin: -1.4880570646121623
+xmax: -1.3962203299182847
+ymin: -0.23016965714812776
+ymax: -0.17851149388282164
+
+contrast: 1.38
+brightness: -0.04
+saturation: 0.87
+gamma: 0.95
+gamma_r: 1.09
+gamma_g: 1.07
+gamma_b: 1.06
+vignette: 31
+temp: 7568
