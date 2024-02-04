@@ -1,0 +1,28 @@
+tweet_id: 1754270300487753948
+masto_id: 111875562725306002
+subre_id: Not uploaded, but here's the text: Warm wishes for your Sunday, and let's have a look at this Mandelbrot Set.  #DeepLearning #DigitalArt
+
+n_iter: 697
+ct: 227
+hue_offset: 264
+saturation: 0.75
+
+num_attempts: 39
+dur: 26
+std: 18.65
+size: 787806 (769.34 KiB)
+
+xmin: -1.1811548994019427
+xmax: -1.1806604618246868
+ymin: 0.2537228423985096
+ymax: 0.25400096353571605
+
+contrast: 0.84
+brightness: -0.06
+saturation: 0.52
+gamma: 1.0
+gamma_r: 0.97
+gamma_g: 1.09
+gamma_b: 1.08
+vignette: -5
+temp: 5972
