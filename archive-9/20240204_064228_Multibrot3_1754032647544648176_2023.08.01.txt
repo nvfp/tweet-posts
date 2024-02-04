@@ -1,0 +1,28 @@
+tweet_id: 1754032647544648176
+masto_id: 111871849170839357
+subre_id: Not uploaded, but here's the text: Hey there, it's Sunday!  #VisualArt #GenerativeArt
+
+n_iter: 400
+ct: 1
+hue_offset: 35
+saturation: 0.17
+
+num_attempts: 549
+dur: 605
+std: 69.58
+size: 838063 (818.42 KiB)
+
+xmin: 0.27978369883394594
+xmax: 0.2847219704388842
+ymin: -0.7006163747218154
+ymax: -0.6978385969440376
+
+contrast: 1.4
+brightness: 0.03
+saturation: 0.81
+gamma: 0.96
+gamma_r: 0.86
+gamma_g: 1.13
+gamma_b: 0.97
+vignette: -20
+temp: 5739
