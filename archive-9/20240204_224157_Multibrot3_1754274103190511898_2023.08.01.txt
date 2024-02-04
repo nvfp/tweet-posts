@@ -1,0 +1,28 @@
+tweet_id: 1754274103190511898
+masto_id: 111875622015774033
+subre_id: Not uploaded, but here's the text: Hey wait, look! it's Multibrot!  #GenerativeArt #DeepLearning
+
+n_iter: 615
+ct: 1
+hue_offset: 272
+saturation: 0.9
+
+num_attempts: 389
+dur: 606
+std: 67.99
+size: 1094359 (1.04 MiB)
+
+xmin: -0.4741867548216696
+xmax: -0.462887319793421
+ymin: 0.5545588525245484
+ymax: 0.5609147847279382
+
+contrast: 0.9
+brightness: -0.01
+saturation: 0.32
+gamma: 0.89
+gamma_r: 0.86
+gamma_g: 1.07
+gamma_b: 0.91
+vignette: -38
+temp: 5602
