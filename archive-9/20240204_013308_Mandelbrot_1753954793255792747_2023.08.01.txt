@@ -1,0 +1,28 @@
+tweet_id: 1753954793255792747
+masto_id: 111870632780789455
+subre_id: Not uploaded, but here's the text: This Sunday is made even better by this Mandelbrot Set!  #VisualArt #DeepLearning
+
+n_iter: 200
+ct: 125
+hue_offset: 238
+saturation: 0.14
+
+num_attempts: 169
+dur: 40
+std: 26.73
+size: 996506 (973.15 KiB)
+
+xmin: -0.3759656577905086
+xmax: -0.3745467149029598
+ymin: -0.6578406428858663
+ymax: -0.6570424875116201
+
+contrast: 1.64
+brightness: 0.21
+saturation: 1.64
+gamma: 1.04
+gamma_r: 0.94
+gamma_g: 0.97
+gamma_b: 1.05
+vignette: 6
+temp: 3706
