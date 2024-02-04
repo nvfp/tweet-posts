@@ -1,0 +1,28 @@
+tweet_id: 1754002341873827937
+masto_id: 111871375773021800
+subre_id: Not uploaded, but here's the text: Let this Multibrot inspire your Sunday.  #Art #VisualArt
+
+n_iter: 408
+ct: 255
+hue_offset: 96
+saturation: 0.43
+
+num_attempts: 580
+dur: 606
+std: 69.25
+size: 1339993 (1.28 MiB)
+
+xmin: -0.2980973463260137
+xmax: -0.28995070681481205
+ymin: 0.6915135357768403
+ymax: 0.6960960205018912
+
+contrast: 0.98
+brightness: 0.06
+saturation: 0.42
+gamma: 0.92
+gamma_r: 1.19
+gamma_g: 0.81
+gamma_b: 1.19
+vignette: 30
+temp: 7401
