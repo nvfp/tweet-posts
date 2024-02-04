@@ -1,0 +1,28 @@
+tweet_id: 1754183514239725616
+masto_id: 111874206469034730
+subre_id: Not uploaded, but here's the text: Guess what? It's Multibrot!  #DeepLearning #Nature
+
+n_iter: 616
+ct: 255
+hue_offset: 23
+saturation: 0.01
+
+num_attempts: 333
+dur: 600
+std: 78.98
+size: 628993 (614.25 KiB)
+
+xmin: 0.576166326718774
+xmax: 0.5827998258895866
+ymin: 0.2351766571076812
+ymax: 0.2389080003912633
+
+contrast: 1.14
+brightness: 0.01
+saturation: 1.43
+gamma: 0.86
+gamma_r: 1.19
+gamma_g: 1.14
+gamma_b: 0.9
+vignette: -15
+temp: 7691
