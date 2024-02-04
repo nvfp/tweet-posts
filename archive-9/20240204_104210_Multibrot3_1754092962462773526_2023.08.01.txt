@@ -1,0 +1,28 @@
+tweet_id: 1754092962462773526
+masto_id: 111872791691948016
+subre_id: Not uploaded, but here's the text: Let this Multibrot inspire your Sunday.  #MachineLearning #AI
+
+n_iter: 398
+ct: 255
+hue_offset: 170
+saturation: -0.96
+
+num_attempts: 548
+dur: 601
+std: 70.35
+size: 982109 (959.09 KiB)
+
+xmin: 0.5413183493101399
+xmax: 0.5474159102857497
+ymin: 0.2402917869031631
+ymax: 0.24372166495194358
+
+contrast: 0.85
+brightness: 0.06
+saturation: 0.65
+gamma: 1.15
+gamma_r: 1.17
+gamma_g: 1.13
+gamma_b: 1.07
+vignette: -8
+temp: 2766
