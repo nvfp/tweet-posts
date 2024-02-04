@@ -1,0 +1,31 @@
+tweet_id: 1754188149012746665
+masto_id: 111874279033368039
+subre_id: Not uploaded, but here's the text: Ever heard of this Newton?  #Fractals #DeepLearning
+
+newton_power: 7
+newton_const: 6
+
+n_iter: 249
+ct: 218
+hue_offset: 224
+saturation: 0.66
+
+num_attempts: 123
+dur: 605
+std: 26.83
+size: 1285686 (1.23 MiB)
+
+xmin: 0.583573398673495
+xmax: 0.5934094642472655
+ymin: 0.490164292236543
+ymax: 0.4956970791217889
+
+contrast: 1.38
+brightness: -0.06
+saturation: 1.54
+gamma: 1.05
+gamma_r: 1.03
+gamma_g: 1.07
+gamma_b: 1.07
+vignette: -22
+temp: 5797
