@@ -1,0 +1,28 @@
+tweet_id: 1754149149912838266
+masto_id: 111873669746530053
+subre_id: Not uploaded, but here's the text: Surprise! It's a Mandelbrot Set!  #Mathematics #Fractals
+
+n_iter: 975
+ct: 220
+hue_offset: 0
+saturation: 0.33
+
+num_attempts: 28
+dur: 30
+std: 17.89
+size: 960347 (937.84 KiB)
+
+xmin: -0.9017274747157971
+xmax: -0.9009540795108474
+ymin: 0.26818254564945465
+ymax: 0.2686175804522389
+
+contrast: 0.95
+brightness: -0.05
+saturation: 0.48
+gamma: 1.06
+gamma_r: 0.94
+gamma_g: 0.94
+gamma_b: 0.92
+vignette: -38
+temp: 4224
