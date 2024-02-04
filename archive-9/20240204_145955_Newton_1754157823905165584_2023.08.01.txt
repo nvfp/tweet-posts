@@ -1,0 +1,31 @@
+tweet_id: 1754157823905165584
+masto_id: 111873805223583057
+subre_id: Not uploaded, but here's the text: Beautiful Sunday with this Newton!  #Art #VisualArt
+
+newton_power: 3
+newton_const: -8
+
+n_iter: 150
+ct: 138
+hue_offset: 152
+saturation: 0.63
+
+num_attempts: 548
+dur: 600
+std: 4.18
+size: 888114 (867.3 KiB)
+
+xmin: 0.47329904729029426
+xmax: 0.5101088632412145
+ymin: 1.445155396512456
+ymax: 1.4658609179848485
+
+contrast: 1.48
+brightness: 0.06
+saturation: 1.37
+gamma: 0.96
+gamma_r: 1.03
+gamma_g: 1.02
+gamma_b: 0.95
+vignette: 30
+temp: 3099
