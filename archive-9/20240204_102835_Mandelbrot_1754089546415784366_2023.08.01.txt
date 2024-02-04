@@ -1,0 +1,28 @@
+tweet_id: 1754089546415784366
+masto_id: 111872738295937422
+subre_id: Not uploaded, but here's the text: Happy Sunday!  #Fractals #AI
+
+n_iter: 583
+ct: 93
+hue_offset: 338
+saturation: -0.5
+
+num_attempts: 123
+dur: 55
+std: 31.03
+size: 1548919 (1.48 MiB)
+
+xmin: -0.7088698298044158
+xmax: -0.7080140317727512
+ymin: -0.3570284491623016
+ymax: -0.3565470627694903
+
+contrast: 1.03
+brightness: 0.09
+saturation: 0.81
+gamma: 1.06
+gamma_r: 0.95
+gamma_g: 1.1
+gamma_b: 0.95
+vignette: 21
+temp: 2868
