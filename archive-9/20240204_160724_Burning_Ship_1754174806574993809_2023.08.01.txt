@@ -1,0 +1,28 @@
+tweet_id: 1754174806574993809
+masto_id: 111874070535813425
+subre_id: Not uploaded, but here's the text: Warm wishes for your Sunday, and let's have a look at this Burning Ship.  #VisualArt #Fractals
+
+n_iter: 386
+ct: 125
+hue_offset: 146
+saturation: 0.09
+
+num_attempts: 4
+dur: 1
+std: 36.41
+size: 1736926 (1.66 MiB)
+
+xmin: -0.7636109849552684
+xmax: -0.7106698084846801
+ymin: -0.8594948906249142
+ymax: -0.8297154788602084
+
+contrast: 0.96
+brightness: -0.06
+saturation: 0.82
+gamma: 0.94
+gamma_r: 1.04
+gamma_g: 0.98
+gamma_b: 0.94
+vignette: 12
+temp: 3676
