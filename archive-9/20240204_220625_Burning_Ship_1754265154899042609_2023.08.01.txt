@@ -1,0 +1,28 @@
+tweet_id: 1754265154899042609
+masto_id: 111875482262272557
+subre_id: Not uploaded, but here's the text: Another Sunday, another Burning Ship!  #VisualArt #MachineLearning
+
+n_iter: 427
+ct: 182
+hue_offset: 249
+saturation: -0.16
+
+num_attempts: 2
+dur: 0
+std: 47.81
+size: 959365 (936.88 KiB)
+
+xmin: -0.810363986394155
+xmax: -0.622863986394155
+ymin: -0.9166373319782826
+ymax: -0.8111685819782826
+
+contrast: 1.7
+brightness: 0.02
+saturation: 0.46
+gamma: 1.03
+gamma_r: 1.05
+gamma_g: 1.09
+gamma_b: 1.02
+vignette: 26
+temp: 6796
