@@ -1,0 +1,31 @@
+tweet_id: 1753958942357508375
+masto_id: 111870697632030373
+subre_id: Not uploaded, but here's the text: Hey there, it's Sunday!  #Fractals #AI
+
+newton_power: 6
+newton_const: 5
+
+n_iter: 200
+ct: 162
+hue_offset: 298
+saturation: -0.04
+
+num_attempts: 183
+dur: 600
+std: 19.23
+size: 593096 (579.2 KiB)
+
+xmin: 2.73083318342045
+xmax: 2.7382773521549413
+ymin: 0.06449938425592006
+ymax: 0.06868672916907143
+
+contrast: 1.07
+brightness: 0.14
+saturation: 0.41
+gamma: 1.02
+gamma_r: 0.91
+gamma_g: 1.02
+gamma_b: 1.07
+vignette: 6
+temp: 2021
