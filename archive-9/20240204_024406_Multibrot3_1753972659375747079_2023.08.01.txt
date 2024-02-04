@@ -1,0 +1,28 @@
+tweet_id: 1753972659375747079
+masto_id: 111870911876946671
+subre_id: Not uploaded, but here's the text: Happy Sunday!  #DigitalArt #VisualArt
+
+n_iter: 429
+ct: 1
+hue_offset: 120
+saturation: -0.11
+
+num_attempts: 652
+dur: 604
+std: 78.88
+size: 713461 (696.74 KiB)
+
+xmin: 0.28499859125892435
+xmax: 0.28916092216423134
+ymin: 0.7041052314357032
+ymax: 0.7064465425699384
+
+contrast: 1.0
+brightness: 0.21
+saturation: 1.39
+gamma: 0.85
+gamma_r: 1.18
+gamma_g: 0.84
+gamma_b: 0.92
+vignette: 0
+temp: 7505
