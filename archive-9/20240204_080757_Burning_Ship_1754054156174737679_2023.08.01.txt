@@ -1,0 +1,28 @@
+tweet_id: 1754054156174737679
+masto_id: 111872185261663109
+subre_id: Not uploaded, but here's the text: Hey there, it's Sunday!  #DigitalArt #DeepLearning
+
+n_iter: 374
+ct: 32
+hue_offset: 138
+saturation: 0.22
+
+num_attempts: 25
+dur: 7
+std: 49.31
+size: 633527 (618.68 KiB)
+
+xmin: -1.1734218161504923
+xmax: -0.8734218161504923
+ymin: -0.5653781123306727
+ymax: -0.39662811233067274
+
+contrast: 1.16
+brightness: 0.13
+saturation: 1.75
+gamma: 0.95
+gamma_r: 1.08
+gamma_g: 1.07
+gamma_b: 1.06
+vignette: 1
+temp: 6614
