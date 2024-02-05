@@ -1,0 +1,28 @@
+tweet_id: 1754446919533765054
+masto_id: 111878322260335054
+subre_id: Not uploaded, but here's the text: Having a blast on Monday?  #Art #Mathematics
+
+n_iter: 480
+ct: 24
+hue_offset: 54
+saturation: 0.23
+
+num_attempts: 17
+dur: 4
+std: 60.82
+size: 2231874 (2.13 MiB)
+
+xmin: -0.6637423880640123
+xmax: -0.5483577726793969
+ymin: -0.8729578976395331
+ymax: -0.808054051485687
+
+contrast: 1.21
+brightness: 0.14
+saturation: 1.22
+gamma: 0.92
+gamma_r: 0.96
+gamma_g: 1.02
+gamma_b: 1.01
+vignette: -12
+temp: 7014
