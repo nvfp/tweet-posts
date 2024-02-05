@@ -1,0 +1,28 @@
+tweet_id: 1754425284672033229
+masto_id: 111877984199103419
+subre_id: Not uploaded, but here's the text: Multibrot vibes to brighten your Monday.  #MachineLearning #GenerativeArt
+
+n_iter: 316
+ct: 1
+hue_offset: 231
+saturation: 0.35
+
+num_attempts: 757
+dur: 600
+std: 57.16
+size: 1090346 (1.04 MiB)
+
+xmin: 0.206039645723334
+xmax: 0.2125755934357523
+ymin: 0.7492332295683584
+ymax: 0.7529097001565936
+
+contrast: 1.35
+brightness: -0.03
+saturation: 0.86
+gamma: 0.81
+gamma_r: 1.06
+gamma_g: 0.82
+gamma_b: 1.07
+vignette: 8
+temp: 7312
