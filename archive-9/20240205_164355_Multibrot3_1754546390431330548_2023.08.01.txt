@@ -1,0 +1,28 @@
+tweet_id: 1754546390431330548
+masto_id: 111879876439050096
+subre_id: Not uploaded, but here's the text: Brighten your Monday!  #DeepLearning #Art
+
+n_iter: 386
+ct: 1
+hue_offset: 329
+saturation: -0.13
+
+num_attempts: 605
+dur: 604
+std: 58.31
+size: 816773 (797.63 KiB)
+
+xmin: -0.21497213697361794
+xmax: -0.20544832744980843
+ymin: -0.9810186154443787
+ymax: -0.9756614725872359
+
+contrast: 1.71
+brightness: -0.02
+saturation: 0.59
+gamma: 1.06
+gamma_r: 0.98
+gamma_g: 1.02
+gamma_b: 0.9
+vignette: -17
+temp: 7487
