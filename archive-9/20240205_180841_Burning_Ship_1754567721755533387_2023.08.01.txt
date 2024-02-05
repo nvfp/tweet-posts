@@ -1,0 +1,28 @@
+tweet_id: 1754567721755533387
+masto_id: 111880209798801511
+subre_id: Not uploaded, but here's the text: Good Monday! This Burning Ship is for you!  #Mathematics #Fractals
+
+n_iter: 322
+ct: 84
+hue_offset: 119
+saturation: -0.48
+
+num_attempts: 13
+dur: 2
+std: 27.65
+size: 1036962 (1012.66 KiB)
+
+xmin: -1.2764399489414018
+xmax: -1.1580188963098228
+ymin: -0.4637028788896356
+ymax: -0.3970910367843724
+
+contrast: 1.25
+brightness: 0.04
+saturation: 1.26
+gamma: 1.01
+gamma_r: 1.0
+gamma_g: 0.97
+gamma_b: 1.05
+vignette: -17
+temp: 7759
