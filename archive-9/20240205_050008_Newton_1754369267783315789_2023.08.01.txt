@@ -1,0 +1,31 @@
+tweet_id: 1754369267783315789
+masto_id: 111877109000258467
+subre_id: Not uploaded, but here's the text: Hey wait, look! it's Newton!  #DeepLearning #DigitalArt
+
+newton_power: 5
+newton_const: -10
+
+n_iter: 187
+ct: 73
+hue_offset: 81
+saturation: 0.43
+
+num_attempts: 199
+dur: 600
+std: 11.81
+size: 991833 (968.59 KiB)
+
+xmin: -0.029789503376503657
+xmax: -0.022298866672383805
+ymin: -1.2502753006859155
+ymax: -1.2460618175398481
+
+contrast: 1.21
+brightness: 0.03
+saturation: 1.66
+gamma: 1.05
+gamma_r: 1.04
+gamma_g: 0.97
+gamma_b: 1.02
+vignette: 7
+temp: 5192
