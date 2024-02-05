@@ -1,0 +1,28 @@
+tweet_id: 1754478024102449564
+masto_id: 111878808317888294
+subre_id: Not uploaded, but here's the text: Let this Burning Ship inspire your Monday.  #VisualArt #AI
+
+n_iter: 458
+ct: 70
+hue_offset: 204
+saturation: 0.96
+
+num_attempts: 7
+dur: 3
+std: 56.09
+size: 1087088 (1.04 MiB)
+
+xmin: 0.19479843752888382
+xmax: 0.5697984375288838
+ymin: -1.2984156319265683
+ymax: -1.0874781319265683
+
+contrast: 1.77
+brightness: 0.03
+saturation: 0.39
+gamma: 0.97
+gamma_r: 0.94
+gamma_g: 0.98
+gamma_b: 0.93
+vignette: 31
+temp: 5793
