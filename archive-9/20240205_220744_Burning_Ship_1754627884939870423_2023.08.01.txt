@@ -1,0 +1,28 @@
+tweet_id: 1754627884939870423
+masto_id: 111881149746823005
+subre_id: Not uploaded, but here's the text: Burning Ship vibes to brighten your Monday.  #Mathematics #Nature
+
+n_iter: 423
+ct: 160
+hue_offset: 278
+saturation: -0.66
+
+num_attempts: 30
+dur: 12
+std: 55.37
+size: 2168281 (2.07 MiB)
+
+xmin: -0.38864125144196837
+xmax: -0.3021027899035068
+ymin: -0.9953954030801351
+ymax: -0.9467175184647505
+
+contrast: 1.26
+brightness: -0.03
+saturation: 0.46
+gamma: 1.0
+gamma_r: 0.98
+gamma_g: 1.01
+gamma_b: 1.06
+vignette: -25
+temp: 7817
