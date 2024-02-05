@@ -1,0 +1,28 @@
+tweet_id: 1754597733133058313
+masto_id: 111880678752269551
+subre_id: Not uploaded, but here's the text: Wishing you a joyful day!  #Nature #GenerativeArt
+
+n_iter: 164
+ct: 14
+hue_offset: 108
+saturation: -0.38
+
+num_attempts: 8
+dur: 2
+std: 25.71
+size: 2306150 (2.2 MiB)
+
+xmin: -0.5009374580025332
+xmax: -0.4051927771514694
+ymin: -0.8928029488331595
+ymax: -0.838946565854436
+
+contrast: 0.83
+brightness: 0.12
+saturation: 0.96
+gamma: 0.98
+gamma_r: 0.94
+gamma_g: 1.06
+gamma_b: 1.1
+vignette: -42
+temp: 7761
