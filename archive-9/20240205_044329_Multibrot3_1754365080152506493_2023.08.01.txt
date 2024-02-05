@@ -1,0 +1,28 @@
+tweet_id: 1754365080152506493
+masto_id: 111877043621953173
+subre_id: Not uploaded, but here's the text: This Monday is made even better by this Multibrot!  #AI #Art
+
+n_iter: 342
+ct: 1
+hue_offset: 327
+saturation: -0.11
+
+num_attempts: 748
+dur: 600
+std: 55.61
+size: 1099555 (1.05 MiB)
+
+xmin: 0.2603205251005667
+xmax: 0.27606855659662966
+ymin: -0.711865642799411
+ymax: -0.7030073750828756
+
+contrast: 0.73
+brightness: 0.08
+saturation: 1.28
+gamma: 0.93
+gamma_r: 1.12
+gamma_g: 0.86
+gamma_b: 1.19
+vignette: 13
+temp: 5192
