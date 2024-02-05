@@ -1,0 +1,28 @@
+tweet_id: 1754542781916491912
+masto_id: 111879820040046864
+subre_id: Not uploaded, but here's the text: Hey there, it's Monday!  #Nature #DeepLearning
+
+n_iter: 360
+ct: 42
+hue_offset: 339
+saturation: -0.39
+
+num_attempts: 3
+dur: 2
+std: 115.78
+size: 726049 (709.03 KiB)
+
+xmin: -0.039639015142020284
+xmax: -0.039130949601565566
+ymin: 0.6968712331701552
+ymax: 0.697157020036661
+
+contrast: 1.45
+brightness: 0.2
+saturation: 1.26
+gamma: 0.94
+gamma_r: 0.9
+gamma_g: 1.02
+gamma_b: 1.01
+vignette: 1
+temp: 4845
