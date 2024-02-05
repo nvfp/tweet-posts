@@ -1,0 +1,28 @@
+tweet_id: 1754395084970176622
+masto_id: 111877512299720172
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Monday!  #Nature #Fractals
+
+n_iter: 538
+ct: 255
+hue_offset: 94
+saturation: -0.7
+
+num_attempts: 378
+dur: 601
+std: 87.9
+size: 1002276 (978.79 KiB)
+
+xmin: -0.40875823845430315
+xmax: -0.4046387739846842
+ymin: -0.6018955163737135
+ymax: -0.5995783176095528
+
+contrast: 0.77
+brightness: 0.14
+saturation: 0.72
+gamma: 0.84
+gamma_r: 0.89
+gamma_g: 1.02
+gamma_b: 0.9
+vignette: -3
+temp: 5023
