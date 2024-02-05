@@ -1,0 +1,31 @@
+tweet_id: 1754429627651764707
+masto_id: 111878052056984906
+subre_id: Not uploaded, but here's the text: Keep smiling!  #DigitalArt #AI
+
+newton_power: 4
+newton_const: 2
+
+n_iter: 127
+ct: 141
+hue_offset: 218
+saturation: -0.53
+
+num_attempts: 257
+dur: 601
+std: 7.51
+size: 1031060 (1006.89 KiB)
+
+xmin: -0.060308306071511275
+xmax: -0.04959402035722556
+ymin: -0.7649386924113637
+ymax: -0.758911906697078
+
+contrast: 0.92
+brightness: 0.13
+saturation: 0.38
+gamma: 1.1
+gamma_r: 0.97
+gamma_g: 0.92
+gamma_b: 0.91
+vignette: -22
+temp: 5876
