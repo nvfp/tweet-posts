@@ -1,0 +1,28 @@
+tweet_id: 1754361770997674366
+masto_id: 111876991793893373
+subre_id: Not uploaded, but here's the text: Let's rock this Monday!  #Nature #MachineLearning
+
+n_iter: 594
+ct: 171
+hue_offset: 21
+saturation: 0.42
+
+num_attempts: 22
+dur: 8
+std: 62.24
+size: 1444182 (1.38 MiB)
+
+xmin: -0.15254851615444132
+xmax: -0.15166939527532045
+ymin: 0.8385926222383746
+ymax: 0.8390871277328801
+
+contrast: 0.77
+brightness: 0.22
+saturation: 0.34
+gamma: 0.94
+gamma_r: 1.09
+gamma_g: 1.06
+gamma_b: 0.99
+vignette: -27
+temp: 7003
