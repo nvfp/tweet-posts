@@ -1,0 +1,28 @@
+tweet_id: 1754537300078239990
+masto_id: 111879734509408013
+subre_id: Not uploaded, but here's the text: Enjoying the Monday with this Burning Ship.  #Mathematics #GenerativeArt
+
+n_iter: 452
+ct: 14
+hue_offset: 202
+saturation: 0.38
+
+num_attempts: 4
+dur: 3
+std: 39.49
+size: 812991 (793.94 KiB)
+
+xmin: -1.3127631579547632
+xmax: -0.8627631579547632
+ymin: -0.40055694086595506
+ymax: -0.14743194086595507
+
+contrast: 1.1
+brightness: 0.11
+saturation: 0.98
+gamma: 1.01
+gamma_r: 1.02
+gamma_g: 0.91
+gamma_b: 0.93
+vignette: -36
+temp: 6663
