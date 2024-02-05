@@ -1,0 +1,28 @@
+tweet_id: 1754636562405466367
+masto_id: 111881285606333235
+subre_id: Not uploaded, but here's the text: A great Monday and a beautiful Multibrot.  #MachineLearning #GenerativeArt
+
+n_iter: 424
+ct: 1
+hue_offset: 142
+saturation: 0.76
+
+num_attempts: 527
+dur: 604
+std: 76.67
+size: 1124079 (1.07 MiB)
+
+xmin: 0.1021780138171926
+xmax: 0.10619004992551757
+ymin: -0.7973591884814897
+ymax: -0.7951024181705568
+
+contrast: 1.07
+brightness: 0.21
+saturation: 0.37
+gamma: 0.87
+gamma_r: 0.94
+gamma_g: 1.14
+gamma_b: 0.83
+vignette: 24
+temp: 6173
