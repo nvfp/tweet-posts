@@ -1,0 +1,31 @@
+tweet_id: 1754520294059069684
+masto_id: FAIL
+subre_id: Not uploaded, but here's the text: Hope your Monday is awesome!  #AI #DigitalArt
+
+newton_power: 4
+newton_const: -8
+
+n_iter: 128
+ct: 144
+hue_offset: 65
+saturation: 0.28
+
+num_attempts: 245
+dur: 601
+std: 8.98
+size: 899255 (878.18 KiB)
+
+xmin: -1.9939746375394312
+xmax: -1.9408772924066877
+ymin: -1.5332136631836664
+ymax: -1.5033464065464983
+
+contrast: 1.63
+brightness: -0.04
+saturation: 0.85
+gamma: 0.97
+gamma_r: 0.95
+gamma_g: 1.0
+gamma_b: 1.06
+vignette: 14
+temp: 4459
