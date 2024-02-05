@@ -1,0 +1,28 @@
+tweet_id: 1754572946239095287
+masto_id: 111880291405396672
+subre_id: Not uploaded, but here's the text: you are fantastic!  #VisualArt #Nature
+
+n_iter: 651
+ct: 66
+hue_offset: 57
+saturation: -0.97
+
+num_attempts: 3
+dur: 3
+std: 112.45
+size: 2112304 (2.01 MiB)
+
+xmin: -0.018881483189050474
+xmax: -0.01740710058676518
+ymin: -0.6434255690767449
+ymax: -0.6425962288629594
+
+contrast: 1.1
+brightness: -0.01
+saturation: 0.42
+gamma: 1.05
+gamma_r: 0.98
+gamma_g: 0.96
+gamma_b: 1.04
+vignette: -48
+temp: 4688
