@@ -1,0 +1,31 @@
+tweet_id: 1754459907992977489
+masto_id: 111878525417770448
+subre_id: Not uploaded, but here's the text: Shine bright like the sun on this Monday!  #VisualArt #Mathematics
+
+newton_power: 4
+newton_const: -5
+
+n_iter: 219
+ct: 201
+hue_offset: 45
+saturation: -0.72
+
+num_attempts: 254
+dur: 601
+std: 6.91
+size: 999786 (976.35 KiB)
+
+xmin: -0.9355866444606065
+xmax: 1.0644133555393935
+ymin: -0.68201810365155
+ymax: 0.44298189634845
+
+contrast: 1.35
+brightness: 0.0
+saturation: 0.96
+gamma: 0.96
+gamma_r: 1.01
+gamma_g: 0.99
+gamma_b: 0.92
+vignette: -31
+temp: 3538
