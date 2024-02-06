@@ -1,0 +1,28 @@
+tweet_id: 1754718618414407815
+masto_id: 111882567582761910
+subre_id: Not uploaded, but here's the text: Another Tuesday, another Burning Ship!  #Art #Mathematics
+
+n_iter: 356
+ct: 229
+hue_offset: 157
+saturation: -0.56
+
+num_attempts: 5
+dur: 0
+std: 26.54
+size: 641771 (626.73 KiB)
+
+xmin: 0.30837362066647866
+xmax: 0.5730795030194198
+ymin: -1.3390787767707528
+ymax: -1.1901817179472234
+
+contrast: 1.41
+brightness: -0.04
+saturation: 1.41
+gamma: 0.91
+gamma_r: 0.91
+gamma_g: 0.95
+gamma_b: 1.0
+vignette: 5
+temp: 5692
