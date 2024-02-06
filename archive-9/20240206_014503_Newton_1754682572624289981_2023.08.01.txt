@@ -1,0 +1,31 @@
+tweet_id: 1754682572624289981
+masto_id: 111882004306045777
+subre_id: Not uploaded, but here's the text: Hope your Tuesday is awesome!  #DigitalArt #AI
+
+newton_power: 5
+newton_const: 6
+
+n_iter: 187
+ct: 38
+hue_offset: 216
+saturation: 0.52
+
+num_attempts: 198
+dur: 601
+std: 14.04
+size: 678963 (663.05 KiB)
+
+xmin: 2.385479526564186
+xmax: 2.4005171205491487
+ymin: -0.06702108872217694
+ymax: -0.05856244210563558
+
+contrast: 1.73
+brightness: 0.18
+saturation: 0.5
+gamma: 1.07
+gamma_r: 1.02
+gamma_g: 0.91
+gamma_b: 0.93
+vignette: -4
+temp: 7270
