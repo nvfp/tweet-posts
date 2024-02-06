@@ -1,0 +1,31 @@
+tweet_id: 1754883661214654914
+masto_id: 111885146487528434
+subre_id: Not uploaded, but here's the text: Chin up, buttercup!  #Mathematics #Nature
+
+newton_power: 3
+newton_const: 0
+
+n_iter: 228
+ct: 133
+hue_offset: 188
+saturation: -0.94
+
+num_attempts: 429
+dur: 850
+std: 1.39
+size: 510912 (498.94 KiB)
+
+xmin: -3.0
+xmax: 3.0
+ymin: -1.4786957048533722
+ymax: 1.8963042951466278
+
+contrast: 0.73
+brightness: 0.17
+saturation: 0.96
+gamma: 1.06
+gamma_r: 0.9
+gamma_g: 0.98
+gamma_b: 1.05
+vignette: 28
+temp: 4541
