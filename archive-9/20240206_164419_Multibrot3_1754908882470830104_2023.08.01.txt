@@ -1,0 +1,28 @@
+tweet_id: 1754908882470830104
+masto_id: 111885540346929530
+subre_id: Not uploaded, but here's the text: Keep smiling!  #DeepLearning #Fractals
+
+n_iter: 410
+ct: 255
+hue_offset: 227
+saturation: -0.92
+
+num_attempts: 510
+dur: 600
+std: 69.22
+size: 765005 (747.08 KiB)
+
+xmin: -0.2682017929107283
+xmax: -0.26265394270268394
+ymin: -0.7073903793221757
+ymax: -0.7042697135801508
+
+contrast: 1.72
+brightness: 0.07
+saturation: 1.6
+gamma: 0.89
+gamma_r: 1.1
+gamma_g: 1.07
+gamma_b: 1.07
+vignette: -11
+temp: 5155
