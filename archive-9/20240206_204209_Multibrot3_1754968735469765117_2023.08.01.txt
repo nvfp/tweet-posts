@@ -1,0 +1,28 @@
+tweet_id: 1754968735469765117
+masto_id: 111886475577648073
+subre_id: Not uploaded, but here's the text: Tuesday is shining brightly, just like this Multibrot.  #Nature #GenerativeArt
+
+n_iter: 539
+ct: 1
+hue_offset: 125
+saturation: -0.17
+
+num_attempts: 456
+dur: 600
+std: 84.91
+size: 826512 (807.14 KiB)
+
+xmin: -0.5650480640035014
+xmax: -0.5584691166350804
+ymin: 0.45964156525605393
+ymax: 0.46334222315079077
+
+contrast: 1.26
+brightness: -0.05
+saturation: 0.98
+gamma: 1.0
+gamma_r: 1.05
+gamma_g: 0.89
+gamma_b: 0.99
+vignette: 11
+temp: 7084
