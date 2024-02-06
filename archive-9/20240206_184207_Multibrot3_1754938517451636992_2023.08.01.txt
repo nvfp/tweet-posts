@@ -1,0 +1,28 @@
+tweet_id: 1754938517451636992
+masto_id: 111886003552143749
+subre_id: Not uploaded, but here's the text: Multibrot vibes to brighten your Tuesday.  #MachineLearning #AI
+
+n_iter: 310
+ct: 255
+hue_offset: 142
+saturation: 0.3
+
+num_attempts: 853
+dur: 600
+std: 61.0
+size: 1096558 (1.05 MiB)
+
+xmin: -0.2036609350348626
+xmax: -0.1990790335457446
+ymin: 0.905951685522286
+ymax: 0.9085290051099149
+
+contrast: 0.84
+brightness: 0.1
+saturation: 1.45
+gamma: 0.82
+gamma_r: 0.85
+gamma_g: 0.82
+gamma_b: 1.05
+vignette: -41
+temp: 4002
