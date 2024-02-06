@@ -1,0 +1,28 @@
+tweet_id: 1754840467215159732
+masto_id: 111884471367282486
+subre_id: Not uploaded, but here's the text: Tuesday is shining brightly, just like this Burning Ship.  #DeepLearning #VisualArt
+
+n_iter: 297
+ct: 118
+hue_offset: 9
+saturation: -1.0
+
+num_attempts: 45
+dur: 13
+std: 41.7
+size: 2304651 (2.2 MiB)
+
+xmin: 0.4114628553488964
+xmax: 0.46037589882715724
+ymin: -1.191040568941931
+ymax: -1.1635269819854093
+
+contrast: 1.6
+brightness: 0.07
+saturation: 0.62
+gamma: 1.01
+gamma_r: 1.04
+gamma_g: 0.91
+gamma_b: 0.94
+vignette: -20
+temp: 4152
