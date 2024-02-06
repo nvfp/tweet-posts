@@ -1,0 +1,31 @@
+tweet_id: 1754912828384018848
+masto_id: 111885602126122212
+subre_id: Not uploaded, but here's the text: Keep shining on Tuesday!  #Fractals #VisualArt
+
+newton_power: 3
+newton_const: -8
+
+n_iter: 114
+ct: 204
+hue_offset: 9
+saturation: -0.28
+
+num_attempts: 545
+dur: 600
+std: 4.05
+size: 858556 (838.43 KiB)
+
+xmin: -0.9518976975717623
+xmax: -0.8947548404289052
+ymin: 0.3126525204495647
+ymax: 0.34479537759242185
+
+contrast: 1.06
+brightness: 0.02
+saturation: 1.66
+gamma: 1.07
+gamma_r: 1.05
+gamma_g: 0.96
+gamma_b: 0.97
+vignette: 26
+temp: 7751
