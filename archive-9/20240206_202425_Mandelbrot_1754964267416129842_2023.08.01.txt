@@ -1,0 +1,28 @@
+tweet_id: 1754964267416129842
+masto_id: 111886405806858673
+subre_id: Not uploaded, but here's the text: Let's make it a memorable Tuesday!  #DigitalArt #VisualArt
+
+n_iter: 205
+ct: 14
+hue_offset: 24
+saturation: 0.94
+
+num_attempts: 119
+dur: 22
+std: 27.97
+size: 1284279 (1.22 MiB)
+
+xmin: -0.7248848305453954
+xmax: -0.7239673993527349
+ymin: -0.26186827394567724
+ymax: -0.2613522188998057
+
+contrast: 0.75
+brightness: 0.15
+saturation: 0.85
+gamma: 0.92
+gamma_r: 0.95
+gamma_g: 1.05
+gamma_b: 1.01
+vignette: -30
+temp: 6224
