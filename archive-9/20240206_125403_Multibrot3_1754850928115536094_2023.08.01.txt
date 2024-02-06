@@ -1,0 +1,28 @@
+tweet_id: 1754850928115536094
+masto_id: 111884634927061603
+subre_id: Not uploaded, but here's the text: Hello Tuesday! This Multibrot is yours!  #Mathematics #GenerativeArt
+
+n_iter: 533
+ct: 255
+hue_offset: 193
+saturation: 0.39
+
+num_attempts: 460
+dur: 605
+std: 65.41
+size: 886962 (866.17 KiB)
+
+xmin: 0.49580766945547383
+xmax: 0.5010777616820878
+ymin: 0.4733504040757208
+ymax: 0.47631483095319116
+
+contrast: 1.29
+brightness: 0.0
+saturation: 1.54
+gamma: 0.93
+gamma_r: 1.05
+gamma_g: 0.91
+gamma_b: 0.82
+vignette: -10
+temp: 5896
