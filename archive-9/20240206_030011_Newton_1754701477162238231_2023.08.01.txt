@@ -1,0 +1,31 @@
+tweet_id: 1754701477162238231
+masto_id: 111882299736382775
+subre_id: Not uploaded, but here's the text: Chin up, buttercup!  #DeepLearning #Art
+
+newton_power: 5
+newton_const: 2
+
+n_iter: 189
+ct: 178
+hue_offset: 52
+saturation: 0.73
+
+num_attempts: 201
+dur: 601
+std: 11.23
+size: 1168655 (1.11 MiB)
+
+xmin: -0.0619431674096278
+xmax: -0.05554657892348707
+ymin: 0.8159831332414402
+ymax: 0.8195812142648944
+
+contrast: 1.1
+brightness: 0.15
+saturation: 1.59
+gamma: 0.95
+gamma_r: 0.94
+gamma_g: 1.0
+gamma_b: 0.95
+vignette: -25
+temp: 5422
