@@ -1,0 +1,31 @@
+tweet_id: 1754822249331188160
+masto_id: FAIL
+subre_id: Not uploaded, but here's the text: Wishing you a joyful day!  #Art #Fractals
+
+newton_power: 4
+newton_const: -7
+
+n_iter: 250
+ct: 186
+hue_offset: 34
+saturation: 0.02
+
+num_attempts: 245
+dur: 600
+std: 8.37
+size: 858352 (838.23 KiB)
+
+xmin: -0.9323262948981346
+xmax: -0.470787833359673
+ymin: 0.8106572748231375
+ymax: 1.0702726594385221
+
+contrast: 0.96
+brightness: 0.22
+saturation: 1.32
+gamma: 0.94
+gamma_r: 1.02
+gamma_g: 1.07
+gamma_b: 0.97
+vignette: -24
+temp: 7068
