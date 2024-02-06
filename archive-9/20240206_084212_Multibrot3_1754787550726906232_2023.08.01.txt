@@ -1,0 +1,28 @@
+tweet_id: 1754787550726906232
+masto_id: 111883644613185517
+subre_id: Not uploaded, but here's the text: Hello Tuesday! This Multibrot is yours!  #AI #GenerativeArt
+
+n_iter: 662
+ct: 1
+hue_offset: 330
+saturation: -0.39
+
+num_attempts: 417
+dur: 600
+std: 50.85
+size: 891856 (870.95 KiB)
+
+xmin: 0.5332807138913371
+xmax: 0.57925772538559
+ymin: -0.23466186157310776
+ymax: -0.20879979260759052
+
+contrast: 1.05
+brightness: -0.05
+saturation: 1.48
+gamma: 1.0
+gamma_r: 1.12
+gamma_g: 1.08
+gamma_b: 1.06
+vignette: -20
+temp: 7512
