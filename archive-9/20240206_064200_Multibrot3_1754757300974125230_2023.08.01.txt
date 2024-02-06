@@ -1,0 +1,28 @@
+tweet_id: 1754757300974125230
+masto_id: 111883171905193619
+subre_id: Not uploaded, but here's the text: Beautiful Tuesday with this Multibrot!  #Art #Nature
+
+n_iter: 384
+ct: 1
+hue_offset: 216
+saturation: -0.29
+
+num_attempts: 577
+dur: 600
+std: 58.48
+size: 625322 (610.67 KiB)
+
+xmin: 0.3927972615835351
+xmax: 0.39845497021154075
+ymin: -0.6163376773229108
+ymax: -0.6131552162196576
+
+contrast: 1.24
+brightness: 0.01
+saturation: 0.36
+gamma: 1.17
+gamma_r: 0.94
+gamma_g: 1.01
+gamma_b: 1.11
+vignette: 33
+temp: 7293
