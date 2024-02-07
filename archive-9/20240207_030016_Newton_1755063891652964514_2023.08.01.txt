@@ -1,0 +1,31 @@
+tweet_id: 1755063891652964514
+masto_id: 111887962390454702
+subre_id: Not uploaded, but here's the text: you are cool  #GenerativeArt #DeepLearning
+
+newton_power: 5
+newton_const: 7
+
+n_iter: 155
+ct: 70
+hue_offset: 219
+saturation: 0.68
+
+num_attempts: 218
+dur: 602
+std: 13.2
+size: 457187 (446.47 KiB)
+
+xmin: -1.786355221413039
+xmax: -1.776614961672779
+ymin: -1.4544565933693132
+ymax: -1.4489776972654171
+
+contrast: 1.27
+brightness: 0.1
+saturation: 1.15
+gamma: 0.97
+gamma_r: 0.96
+gamma_g: 0.92
+gamma_b: 0.91
+vignette: 0
+temp: 6736
