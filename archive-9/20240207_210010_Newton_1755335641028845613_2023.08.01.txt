@@ -1,0 +1,31 @@
+tweet_id: 1755335641028845613
+masto_id: 111892208662722667
+subre_id: Not uploaded, but here's the text: Let's rock this Wednesday!  #GenerativeArt #Nature
+
+newton_power: 4
+newton_const: 3
+
+n_iter: 82
+ct: 226
+hue_offset: 94
+saturation: -0.51
+
+num_attempts: 277
+dur: 602
+std: 8.27
+size: 928207 (906.45 KiB)
+
+xmin: -1.4358657059389364
+xmax: -1.3910895865359514
+ymin: -0.02140138894641752
+ymax: 0.0037851782177615832
+
+contrast: 1.47
+brightness: 0.2
+saturation: 0.74
+gamma: 1.02
+gamma_r: 1.08
+gamma_g: 1.03
+gamma_b: 1.02
+vignette: 15
+temp: 6217
