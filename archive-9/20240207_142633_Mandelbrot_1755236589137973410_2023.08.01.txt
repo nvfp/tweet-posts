@@ -1,0 +1,28 @@
+tweet_id: 1755236589137973410
+masto_id: 111890660915979286
+subre_id: Not uploaded, but here's the text: Having a blast on Wednesday?  #Art #AI
+
+n_iter: 726
+ct: 197
+hue_offset: 23
+saturation: 0.13
+
+num_attempts: 15
+dur: 11
+std: 34.6
+size: 433808 (423.64 KiB)
+
+xmin: -0.31308413052008355
+xmax: -0.3126579184795934
+ymin: 0.6495967552397575
+ymax: 0.6498364995125332
+
+contrast: 1.03
+brightness: 0.04
+saturation: 1.54
+gamma: 1.1
+gamma_r: 1.03
+gamma_g: 0.98
+gamma_b: 1.04
+vignette: 1
+temp: 6210
