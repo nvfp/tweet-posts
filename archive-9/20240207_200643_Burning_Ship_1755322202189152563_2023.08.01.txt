@@ -1,0 +1,28 @@
+tweet_id: 1755322202189152563
+masto_id: 111891998501013449
+subre_id: Not uploaded, but here's the text: Brighten your Wednesday!  #Art #Fractals
+
+n_iter: 501
+ct: 156
+hue_offset: 95
+saturation: 0.98
+
+num_attempts: 40
+dur: 11
+std: 25.24
+size: 1947134 (1.86 MiB)
+
+xmin: -1.0611100688130386
+xmax: -0.9994662331966002
+ymin: -0.6691767089470924
+ymax: -0.6345020514128458
+
+contrast: 1.74
+brightness: 0.21
+saturation: 0.82
+gamma: 1.04
+gamma_r: 1.0
+gamma_g: 1.06
+gamma_b: 0.92
+vignette: -37
+temp: 2241
