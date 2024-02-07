@@ -1,0 +1,31 @@
+tweet_id: 1755044712065429567
+masto_id: 111887662746556648
+subre_id: Not uploaded, but here's the text: Keep shining on Wednesday!  #DeepLearning #Art
+
+newton_power: 7
+newton_const: -5
+
+n_iter: 226
+ct: 49
+hue_offset: 318
+saturation: -0.37
+
+num_attempts: 147
+dur: 603
+std: 28.25
+size: 1421490 (1.36 MiB)
+
+xmin: -1.0992697978368897
+xmax: -1.0739533421406873
+ymin: 1.1396474251615256
+ymax: 1.1538879314906396
+
+contrast: 0.93
+brightness: -0.04
+saturation: 1.56
+gamma: 1.05
+gamma_r: 1.07
+gamma_g: 1.07
+gamma_b: 0.96
+vignette: -25
+temp: 5721
