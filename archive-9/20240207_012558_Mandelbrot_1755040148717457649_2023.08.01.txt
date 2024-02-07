@@ -1,0 +1,28 @@
+tweet_id: 1755040148717457649
+masto_id: 111887591591410544
+subre_id: Not uploaded, but here's the text: Wishing you a wonderful Wednesday!  #Art #DigitalArt
+
+n_iter: 643
+ct: 103
+hue_offset: 224
+saturation: -0.46
+
+num_attempts: 18
+dur: 8
+std: 50.24
+size: 1582619 (1.51 MiB)
+
+xmin: -0.6994155606207997
+xmax: -0.6934275366687038
+ymin: -0.3407333310306845
+ymax: -0.33736506755763057
+
+contrast: 1.45
+brightness: 0.03
+saturation: 0.6
+gamma: 0.95
+gamma_r: 0.95
+gamma_g: 0.95
+gamma_b: 1.1
+vignette: -28
+temp: 4788
