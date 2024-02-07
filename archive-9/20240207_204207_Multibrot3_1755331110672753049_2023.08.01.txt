@@ -1,0 +1,28 @@
+tweet_id: 1755331110672753049
+masto_id: 111892137757054368
+subre_id: Not uploaded, but here's the text: Wednesday is shining brightly, just like this Multibrot.  #Art #Nature
+
+n_iter: 470
+ct: 255
+hue_offset: 22
+saturation: -0.1
+
+num_attempts: 492
+dur: 601
+std: 71.72
+size: 1217730 (1.16 MiB)
+
+xmin: -0.5255061911961088
+xmax: -0.5152760121679758
+ymin: -0.4190705078730139
+ymax: -0.4133160321696891
+
+contrast: 0.86
+brightness: 0.17
+saturation: 1.23
+gamma: 1.19
+gamma_r: 0.93
+gamma_g: 1.17
+gamma_b: 1.19
+vignette: -36
+temp: 6432
