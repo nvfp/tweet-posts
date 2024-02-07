@@ -1,0 +1,28 @@
+tweet_id: 1755059308021305365
+masto_id: 111887890912187304
+subre_id: Not uploaded, but here's the text: Wishing you a fantastic day!  #GenerativeArt #DeepLearning
+
+n_iter: 607
+ct: 1
+hue_offset: 117
+saturation: 0.17
+
+num_attempts: 369
+dur: 606
+std: 111.34
+size: 1332730 (1.27 MiB)
+
+xmin: -0.44615690749129167
+xmax: -0.4419106229902301
+ymin: -0.5633491190202911
+ymax: -0.560960583988444
+
+contrast: 0.72
+brightness: -0.09
+saturation: 1.17
+gamma: 1.02
+gamma_r: 1.18
+gamma_g: 0.95
+gamma_b: 1.01
+vignette: 16
+temp: 4986
