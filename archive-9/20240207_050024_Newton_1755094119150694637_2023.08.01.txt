@@ -1,0 +1,31 @@
+tweet_id: 1755094119150694637
+masto_id: 111888434737897059
+subre_id: Not uploaded, but here's the text: Newton vibes to brighten your Wednesday.  #DigitalArt #VisualArt
+
+newton_power: 7
+newton_const: -2
+
+n_iter: 138
+ct: 50
+hue_offset: 165
+saturation: 0.95
+
+num_attempts: 151
+dur: 606
+std: 18.86
+size: 1351224 (1.29 MiB)
+
+xmin: 0.3066832939840407
+xmax: 0.31683557824800007
+ymin: -1.8562292699878045
+ymax: -1.8505186100893274
+
+contrast: 1.2
+brightness: 0.13
+saturation: 0.75
+gamma: 1.03
+gamma_r: 1.09
+gamma_g: 0.97
+gamma_b: 1.04
+vignette: -19
+temp: 2712
