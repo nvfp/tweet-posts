@@ -1,0 +1,28 @@
+tweet_id: 1755176906306269427
+masto_id: 111889728372529072
+subre_id: Not uploaded, but here's the text: Cheers to a fantastic Wednesday!  #DeepLearning #Mathematics
+
+n_iter: 1014
+ct: 179
+hue_offset: 150
+saturation: 0.95
+
+num_attempts: 31
+dur: 19
+std: 27.03
+size: 793065 (774.48 KiB)
+
+xmin: -1.0226956494005381
+xmax: 0.3106376839327951
+ymin: -0.6409577494974552
+ymax: 0.10904225050254479
+
+contrast: 0.96
+brightness: 0.21
+saturation: 1.08
+gamma: 0.92
+gamma_r: 0.91
+gamma_g: 1.0
+gamma_b: 1.02
+vignette: 33
+temp: 4409
