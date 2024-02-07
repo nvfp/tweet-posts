@@ -1,0 +1,28 @@
+tweet_id: 1755116174529233173
+masto_id: 111888779403476993
+subre_id: Not uploaded, but here's the text: Wednesday is shining brightly, just like this Mandelbrot Set.  #MachineLearning #Nature
+
+n_iter: 147
+ct: 73
+hue_offset: 38
+saturation: -0.69
+
+num_attempts: 23
+dur: 6
+std: 22.98
+size: 1286309 (1.23 MiB)
+
+xmin: -0.05049443637115836
+xmax: -0.050029536324668354
+ymin: -0.8235852738462226
+ymax: -0.823323767570072
+
+contrast: 0.99
+brightness: 0.15
+saturation: 1.21
+gamma: 0.98
+gamma_r: 0.93
+gamma_g: 1.0
+gamma_b: 1.05
+vignette: -16
+temp: 2568
