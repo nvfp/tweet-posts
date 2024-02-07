@@ -1,0 +1,28 @@
+tweet_id: 1755043207988359418
+masto_id: 111887639293534658
+subre_id: Not uploaded, but here's the text: Let's make it a memorable Wednesday!  #VisualArt #Mathematics
+
+n_iter: 671
+ct: 255
+hue_offset: 65
+saturation: -0.11
+
+num_attempts: 370
+dur: 608
+std: 94.58
+size: 1070603 (1.02 MiB)
+
+xmin: 0.5440389845851379
+xmax: 0.5483493294127241
+ymin: 0.2908443268104932
+ymax: 0.29326889577601045
+
+contrast: 1.73
+brightness: 0.2
+saturation: 0.36
+gamma: 1.0
+gamma_r: 0.83
+gamma_g: 0.93
+gamma_b: 1.04
+vignette: -28
+temp: 4189
