@@ -1,0 +1,31 @@
+tweet_id: 1755154433070047656
+masto_id: 111889377162927078
+subre_id: Not uploaded, but here's the text: Look what we have here! it's Newton!  #Fractals #Mathematics
+
+newton_power: 5
+newton_const: -2
+
+n_iter: 167
+ct: 205
+hue_offset: 188
+saturation: -0.47
+
+num_attempts: 223
+dur: 600
+std: 11.63
+size: 1227246 (1.17 MiB)
+
+xmin: 0.7314135152444012
+xmax: 0.7468376797688229
+ymin: -0.24838323527619455
+ymax: -0.2397071427312074
+
+contrast: 1.48
+brightness: 0.2
+saturation: 0.53
+gamma: 0.93
+gamma_r: 1.0
+gamma_g: 0.9
+gamma_b: 1.0
+vignette: -45
+temp: 5971
