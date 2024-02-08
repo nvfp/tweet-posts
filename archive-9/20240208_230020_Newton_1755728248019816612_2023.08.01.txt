@@ -1,0 +1,31 @@
+tweet_id: 1755728248019816612
+masto_id: 111898343377979314
+subre_id: Not uploaded, but here's the text: Wishing you a rad Thursday!  #DigitalArt #GenerativeArt
+
+newton_power: 5
+newton_const: 7
+
+n_iter: 138
+ct: 203
+hue_offset: 93
+saturation: 0.86
+
+num_attempts: 219
+dur: 602
+std: 12.41
+size: 953209 (930.87 KiB)
+
+xmin: -2.30677923355391
+xmax: -2.299260436561429
+ymin: -1.4390279870715488
+ymax: -1.4347986637632781
+
+contrast: 0.99
+brightness: 0.03
+saturation: 1.05
+gamma: 1.01
+gamma_r: 1.05
+gamma_g: 0.95
+gamma_b: 1.06
+vignette: 8
+temp: 7859
