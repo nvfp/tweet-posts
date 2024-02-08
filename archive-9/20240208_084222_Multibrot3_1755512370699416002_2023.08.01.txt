@@ -1,0 +1,28 @@
+tweet_id: 1755512370699416002
+masto_id: 111894969894392077
+subre_id: Not uploaded, but here's the text: Let this Multibrot inspire your Thursday.  #DeepLearning #Fractals
+
+n_iter: 510
+ct: 255
+hue_offset: 66
+saturation: -0.97
+
+num_attempts: 459
+dur: 603
+std: 65.77
+size: 1110544 (1.06 MiB)
+
+xmin: -0.2284319878116261
+xmax: -0.22066499752036398
+ymin: -0.9245591823504382
+ymax: -0.9201902503116033
+
+contrast: 1.06
+brightness: 0.04
+saturation: 0.89
+gamma: 0.98
+gamma_r: 0.81
+gamma_g: 0.82
+gamma_b: 1.14
+vignette: -18
+temp: 2303
