@@ -1,0 +1,28 @@
+tweet_id: 1755684624536326263
+masto_id: 111897661411977258
+subre_id: Not uploaded, but here's the text: Hope your Thursday is awesome!  #Mathematics #MachineLearning
+
+n_iter: 213
+ct: 114
+hue_offset: 349
+saturation: -0.22
+
+num_attempts: 6
+dur: 1
+std: 32.73
+size: 951141 (928.85 KiB)
+
+xmin: -0.4724817967942876
+xmax: 0.02751820320571241
+ymin: -1.2061371835927166
+ymax: -0.9248871835927166
+
+contrast: 1.36
+brightness: 0.22
+saturation: 1.05
+gamma: 0.96
+gamma_r: 1.01
+gamma_g: 1.06
+gamma_b: 1.03
+vignette: -8
+temp: 2621
