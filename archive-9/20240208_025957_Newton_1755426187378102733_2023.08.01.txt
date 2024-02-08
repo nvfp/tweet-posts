@@ -1,0 +1,31 @@
+tweet_id: 1755426187378102733
+masto_id: 111893623425843663
+subre_id: Not uploaded, but here's the text: This Thursday is made even better by this Newton!  #AI #Nature
+
+newton_power: 6
+newton_const: -5
+
+n_iter: 231
+ct: 30
+hue_offset: 78
+saturation: -0.27
+
+num_attempts: 165
+dur: 601
+std: 16.79
+size: 1034151 (1009.91 KiB)
+
+xmin: 2.3661539709926585
+xmax: 2.387736704805608
+ymin: -1.086289485503686
+ymax: -1.0741491977339017
+
+contrast: 1.67
+brightness: -0.05
+saturation: 0.48
+gamma: 1.05
+gamma_r: 0.91
+gamma_g: 0.92
+gamma_b: 0.9
+vignette: -44
+temp: 2105
