@@ -1,0 +1,28 @@
+tweet_id: 1755533691143516654
+masto_id: 111895303044428551
+subre_id: Not uploaded, but here's the text: Have an awesome Thursday!  #AI #GenerativeArt
+
+n_iter: 447
+ct: 253
+hue_offset: 217
+saturation: 0.16
+
+num_attempts: 8
+dur: 3
+std: 60.47
+size: 1926141 (1.84 MiB)
+
+xmin: -0.17206364580719624
+xmax: -0.12706364580719626
+ymin: -1.050112097073082
+ymax: -1.0247995970730819
+
+contrast: 1.56
+brightness: -0.09
+saturation: 1.06
+gamma: 1.06
+gamma_r: 0.99
+gamma_g: 1.08
+gamma_b: 1.0
+vignette: -44
+temp: 6139
