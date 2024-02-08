@@ -1,0 +1,28 @@
+tweet_id: 1755572133214756984
+masto_id: 111895903746913637
+subre_id: Not uploaded, but here's the text: Chin up, buttercup!  #Mathematics #DeepLearning
+
+n_iter: 596
+ct: 177
+hue_offset: 155
+saturation: -0.77
+
+num_attempts: 21
+dur: 4
+std: 61.82
+size: 1227376 (1.17 MiB)
+
+xmin: -0.8640814602247242
+xmax: -0.862577700826228
+ymin: -0.23261982190450514
+ymax: -0.23177395724285102
+
+contrast: 1.69
+brightness: 0.14
+saturation: 1.06
+gamma: 0.96
+gamma_r: 0.92
+gamma_g: 1.08
+gamma_b: 1.01
+vignette: 9
+temp: 3020
