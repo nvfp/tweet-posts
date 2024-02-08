@@ -1,0 +1,28 @@
+tweet_id: 1755630040627417385
+masto_id: 111896808397499482
+subre_id: Not uploaded, but here's the text: you are cool  #MachineLearning #Mathematics
+
+n_iter: 298
+ct: 35
+hue_offset: 87
+saturation: -0.04
+
+num_attempts: 9
+dur: 3
+std: 22.04
+size: 32605 (31.84 KiB)
+
+xmin: -0.3908018199034422
+xmax: -0.38915097384483716
+ymin: -0.5871128005636291
+ymax: -0.5861841996556638
+
+contrast: 1.08
+brightness: -0.05
+saturation: 1.71
+gamma: 0.92
+gamma_r: 0.97
+gamma_g: 0.93
+gamma_b: 0.94
+vignette: 17
+temp: 2110
