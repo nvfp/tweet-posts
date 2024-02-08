@@ -1,0 +1,31 @@
+tweet_id: 1755667847068385554
+masto_id: 111897399330490432
+subre_id: Not uploaded, but here's the text: Today is awesome!  #MachineLearning #Nature
+
+newton_power: 4
+newton_const: -1
+
+n_iter: 123
+ct: 242
+hue_offset: 334
+saturation: -0.61
+
+num_attempts: 247
+dur: 600
+std: 8.04
+size: 751766 (734.15 KiB)
+
+xmin: -0.5682547002238283
+xmax: -0.5614287616572754
+ymin: -0.7335515678907849
+ymax: -0.7297119774470989
+
+contrast: 1.1
+brightness: 0.23
+saturation: 1.07
+gamma: 0.97
+gamma_r: 0.99
+gamma_g: 0.9
+gamma_b: 1.09
+vignette: 33
+temp: 2803
