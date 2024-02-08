@@ -1,0 +1,28 @@
+tweet_id: 1755542459180810390
+masto_id: 111895440202518443
+subre_id: Not uploaded, but here's the text: Let's make it a memorable Thursday!  #DeepLearning #Art
+
+n_iter: 274
+ct: 1
+hue_offset: 41
+saturation: 0.82
+
+num_attempts: 871
+dur: 600
+std: 50.54
+size: 984594 (961.52 KiB)
+
+xmin: 0.06429572864034805
+xmax: 0.0735980542217434
+ymin: 0.7767540724092838
+ymax: 0.7819866305488188
+
+contrast: 1.12
+brightness: 0.12
+saturation: 0.71
+gamma: 0.82
+gamma_r: 0.89
+gamma_g: 0.93
+gamma_b: 0.94
+vignette: 31
+temp: 7500
