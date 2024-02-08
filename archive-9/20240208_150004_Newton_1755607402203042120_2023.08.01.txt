@@ -1,0 +1,31 @@
+tweet_id: 1755607402203042120
+masto_id: 111896455017883535
+subre_id: Not uploaded, but here's the text: Happy Thursday! Enjoy the beauty of Newton.  #Mathematics #DigitalArt
+
+newton_power: 5
+newton_const: -4
+
+n_iter: 166
+ct: 174
+hue_offset: 158
+saturation: 0.56
+
+num_attempts: 206
+dur: 602
+std: 13.58
+size: 899913 (878.82 KiB)
+
+xmin: -1.4699301572279482
+xmax: -1.2630336055038103
+ymin: -0.03988143647126918
+ymax: 0.0764978738735584
+
+contrast: 1.59
+brightness: 0.13
+saturation: 0.44
+gamma: 0.92
+gamma_r: 0.93
+gamma_g: 1.04
+gamma_b: 0.96
+vignette: -27
+temp: 3741
