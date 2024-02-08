@@ -1,0 +1,28 @@
+tweet_id: 1755654885373342164
+masto_id: 111897196825620770
+subre_id: Not uploaded, but here's the text: Wow, guess what? it's Burning Ship!  #GenerativeArt #DigitalArt
+
+n_iter: 417
+ct: 212
+hue_offset: 100
+saturation: -0.83
+
+num_attempts: 5
+dur: 2
+std: 26.15
+size: 698933 (682.55 KiB)
+
+xmin: -1.4172456182496018
+xmax: 0.8327543817503982
+ymin: -2.0567825356408265
+ymax: -0.7911575356408265
+
+contrast: 0.8
+brightness: -0.03
+saturation: 0.3
+gamma: 0.96
+gamma_r: 0.94
+gamma_g: 0.93
+gamma_b: 0.99
+vignette: -31
+temp: 2303
