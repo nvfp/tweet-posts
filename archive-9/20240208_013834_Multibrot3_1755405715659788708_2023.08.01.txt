@@ -1,0 +1,28 @@
+tweet_id: 1755405715659788708
+masto_id: 111893303431145415
+subre_id: Not uploaded, but here's the text: Happy Thursday!  #Mathematics #DigitalArt
+
+n_iter: 431
+ct: 255
+hue_offset: 310
+saturation: -0.8
+
+num_attempts: 485
+dur: 604
+std: 64.86
+size: 1638897 (1.56 MiB)
+
+xmin: -0.5565580744350804
+xmax: -0.544758664405582
+ymin: 0.3253820235218585
+ymax: 0.33201919166345145
+
+contrast: 0.93
+brightness: 0.09
+saturation: 0.84
+gamma: 0.89
+gamma_r: 0.86
+gamma_g: 1.14
+gamma_b: 0.82
+vignette: -45
+temp: 5034
