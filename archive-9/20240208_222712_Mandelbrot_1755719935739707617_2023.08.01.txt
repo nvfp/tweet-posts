@@ -1,0 +1,28 @@
+tweet_id: 1755719935739707617
+masto_id: 111898213237877978
+subre_id: Not uploaded, but here's the text: Thursday vibes!  #DeepLearning #MachineLearning
+
+n_iter: 294
+ct: 109
+hue_offset: 116
+saturation: 0.23
+
+num_attempts: 112
+dur: 29
+std: 30.46
+size: 723278 (706.33 KiB)
+
+xmin: -0.7086799949503333
+xmax: -0.7079941238940919
+ymin: 0.27165396957317056
+ymax: 0.27203977204230634
+
+contrast: 1.46
+brightness: 0.13
+saturation: 1.64
+gamma: 0.98
+gamma_r: 1.08
+gamma_g: 0.92
+gamma_b: 0.97
+vignette: 8
+temp: 7091
