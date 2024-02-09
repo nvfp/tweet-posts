@@ -1,0 +1,31 @@
+tweet_id: 1756030192668041511
+masto_id: 111903060961971133
+subre_id: Not uploaded, but here's the text: Wishing you a rad Friday!  #MachineLearning #VisualArt
+
+newton_power: 4
+newton_const: -4
+
+n_iter: 218
+ct: 85
+hue_offset: 206
+saturation: 0.86
+
+num_attempts: 248
+dur: 602
+std: 8.65
+size: 900048 (878.95 KiB)
+
+xmin: 0.12255536214099383
+xmax: 0.14353438312001482
+ymin: 0.443526372762141
+ymax: 0.45532707206284034
+
+contrast: 1.48
+brightness: -0.01
+saturation: 0.27
+gamma: 1.05
+gamma_r: 0.94
+gamma_g: 1.06
+gamma_b: 1.08
+vignette: -19
+temp: 7166
