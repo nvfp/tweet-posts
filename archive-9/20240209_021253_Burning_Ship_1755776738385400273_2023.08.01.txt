@@ -1,0 +1,28 @@
+tweet_id: 1755776738385400273
+masto_id: 111899100695977347
+subre_id: Not uploaded, but here's the text: Burning Ship vibes to brighten your Friday.  #Nature #DeepLearning
+
+n_iter: 414
+ct: 105
+hue_offset: 195
+saturation: 0.31
+
+num_attempts: 13
+dur: 5
+std: 28.59
+size: 736435 (719.17 KiB)
+
+xmin: -1.8502637892678138
+xmax: -0.35026378926781376
+ymin: -0.7212541244512318
+ymax: 0.12249587554876817
+
+contrast: 0.87
+brightness: -0.08
+saturation: 1.19
+gamma: 1.01
+gamma_r: 1.08
+gamma_g: 0.9
+gamma_b: 0.94
+vignette: 25
+temp: 7718
