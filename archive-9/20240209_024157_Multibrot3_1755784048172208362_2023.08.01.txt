@@ -1,0 +1,28 @@
+tweet_id: 1755784048172208362
+masto_id: 111899214934451089
+subre_id: Not uploaded, but here's the text: Smile, it's Friday!  #Art #AI
+
+n_iter: 306
+ct: 1
+hue_offset: 68
+saturation: 0.34
+
+num_attempts: 774
+dur: 603
+std: 48.58
+size: 1580529 (1.51 MiB)
+
+xmin: 0.2742644217849608
+xmax: 0.27972890265927775
+ymin: 0.7259167934348669
+ymax: 0.7289905639266702
+
+contrast: 1.02
+brightness: 0.15
+saturation: 1.63
+gamma: 1.0
+gamma_r: 1.06
+gamma_g: 0.8
+gamma_b: 1.03
+vignette: -36
+temp: 2691
