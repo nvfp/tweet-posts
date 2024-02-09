@@ -1,0 +1,28 @@
+tweet_id: 1755836193420288028
+masto_id: 111900029557898605
+subre_id: Not uploaded, but here's the text: Hello Friday! This Burning Ship is yours!  #DeepLearning #DigitalArt
+
+n_iter: 299
+ct: 211
+hue_offset: 50
+saturation: -0.92
+
+num_attempts: 1
+dur: 0
+std: 45.9
+size: 1515452 (1.45 MiB)
+
+xmin: -0.7827902399283357
+xmax: -0.7065190534876578
+ymin: -0.7479187606735225
+ymax: -0.7050162183006411
+
+contrast: 1.58
+brightness: -0.01
+saturation: 1.63
+gamma: 1.03
+gamma_r: 1.09
+gamma_g: 1.07
+gamma_b: 0.99
+vignette: -1
+temp: 3961
