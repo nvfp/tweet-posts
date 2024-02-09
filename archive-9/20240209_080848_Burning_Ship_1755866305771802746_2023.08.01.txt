@@ -1,0 +1,28 @@
+tweet_id: 1755866305771802746
+masto_id: 111900500189939734
+subre_id: Not uploaded, but here's the text: Smile!  #MachineLearning #Fractals
+
+n_iter: 201
+ct: 243
+hue_offset: 179
+saturation: -0.91
+
+num_attempts: 7
+dur: 0
+std: 20.59
+size: 1130208 (1.08 MiB)
+
+xmin: -0.7027989182426437
+xmax: -0.625212711346092
+ymin: -1.0259145571296113
+ymax: -0.9822723157503009
+
+contrast: 1.58
+brightness: 0.12
+saturation: 1.38
+gamma: 0.97
+gamma_r: 1.02
+gamma_g: 1.0
+gamma_b: 0.99
+vignette: -5
+temp: 3467
