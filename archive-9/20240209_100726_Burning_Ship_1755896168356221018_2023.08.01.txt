@@ -1,0 +1,28 @@
+tweet_id: 1755896168356221018
+masto_id: 111900966682369799
+subre_id: Not uploaded, but here's the text: This Friday is made even better by this Burning Ship!  #DeepLearning #AI
+
+n_iter: 230
+ct: 66
+hue_offset: 350
+saturation: 0.82
+
+num_attempts: 27
+dur: 7
+std: 33.42
+size: 771609 (753.52 KiB)
+
+xmin: -0.9671970101566458
+xmax: -0.06719701015664581
+ymin: -0.9932652321045099
+ymax: -0.4870152321045099
+
+contrast: 1.76
+brightness: -0.05
+saturation: 1.15
+gamma: 1.06
+gamma_r: 0.96
+gamma_g: 0.97
+gamma_b: 0.99
+vignette: -3
+temp: 3642
