@@ -1,0 +1,28 @@
+tweet_id: 1755904899358032113
+masto_id: 111901103171356634
+subre_id: Not uploaded, but here's the text: Enjoy your Friday!  #MachineLearning #DeepLearning
+
+n_iter: 594
+ct: 255
+hue_offset: 275
+saturation: -0.07
+
+num_attempts: 427
+dur: 601
+std: 83.38
+size: 752007 (734.38 KiB)
+
+xmin: -0.5206084673309277
+xmax: -0.5132283935301897
+ymin: 0.44081316127973214
+ymax: 0.4449644527926473
+
+contrast: 1.58
+brightness: 0.22
+saturation: 0.58
+gamma: 0.87
+gamma_r: 1.04
+gamma_g: 1.09
+gamma_b: 0.96
+vignette: 11
+temp: 5434
