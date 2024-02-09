@@ -1,0 +1,31 @@
+tweet_id: 1755769482004275417
+masto_id: 111898987410744065
+subre_id: Not uploaded, but here's the text: Let's rock this Friday!  #GenerativeArt #DeepLearning
+
+newton_power: 3
+newton_const: -5
+
+n_iter: 156
+ct: 2
+hue_offset: 248
+saturation: -0.62
+
+num_attempts: 555
+dur: 600
+std: 3.69
+size: 908560 (887.27 KiB)
+
+xmin: -0.2822053057812832
+xmax: 2.7177946942187168
+ymin: -0.4106572041831664
+ymax: 1.2768427958168336
+
+contrast: 0.72
+brightness: 0.1
+saturation: 1.38
+gamma: 1.08
+gamma_r: 0.96
+gamma_g: 0.97
+gamma_b: 1.09
+vignette: -31
+temp: 7751
