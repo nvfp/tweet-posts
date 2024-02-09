@@ -1,0 +1,28 @@
+tweet_id: 1755767986063913038
+masto_id: 111898963871056149
+subre_id: Not uploaded, but here's the text: Hope you're having a great Friday!  #Nature #Mathematics
+
+n_iter: 620
+ct: 1
+hue_offset: 341
+saturation: -0.9
+
+num_attempts: 375
+dur: 601
+std: 100.13
+size: 1745371 (1.66 MiB)
+
+xmin: 0.4232704178790594
+xmax: 0.4287573863289908
+ymin: 0.5886885574355585
+ymax: 0.5917749771886449
+
+contrast: 1.06
+brightness: 0.14
+saturation: 1.55
+gamma: 1.03
+gamma_r: 0.96
+gamma_g: 1.1
+gamma_b: 1.09
+vignette: -24
+temp: 6462
