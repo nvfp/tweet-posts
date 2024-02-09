@@ -1,0 +1,31 @@
+tweet_id: 1756090620957884519
+masto_id: 111904005188983003
+subre_id: Not uploaded, but here's the text: Enjoying the Friday with this Newton.  #VisualArt #Fractals
+
+newton_power: 4
+newton_const: -9
+
+n_iter: 159
+ct: 79
+hue_offset: 305
+saturation: 0.34
+
+num_attempts: 246
+dur: 601
+std: 8.4
+size: 746536 (729.04 KiB)
+
+xmin: 1.0461594870658155
+xmax: 1.0531934847211497
+ymin: -0.6879419491460981
+ymax: -0.6839853254649726
+
+contrast: 1.25
+brightness: -0.04
+saturation: 1.31
+gamma: 1.07
+gamma_r: 1.05
+gamma_g: 1.0
+gamma_b: 0.97
+vignette: 6
+temp: 6398
