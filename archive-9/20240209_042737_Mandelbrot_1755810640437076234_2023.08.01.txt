@@ -1,0 +1,28 @@
+tweet_id: 1755810640437076234
+masto_id: 111899630478062068
+subre_id: Not uploaded, but here's the text: Feeling the Mandelbrot Set vibes today!  #AI #VisualArt
+
+n_iter: 338
+ct: 192
+hue_offset: 264
+saturation: 0.82
+
+num_attempts: 11
+dur: 3
+std: 38.33
+size: 792740 (774.16 KiB)
+
+xmin: -0.6797996621224769
+xmax: -0.6791772877643004
+ymin: -0.31035653504075034
+ymax: -0.3100064494642761
+
+contrast: 1.49
+brightness: -0.08
+saturation: 0.88
+gamma: 1.0
+gamma_r: 1.08
+gamma_g: 0.92
+gamma_b: 1.0
+vignette: -31
+temp: 7999
