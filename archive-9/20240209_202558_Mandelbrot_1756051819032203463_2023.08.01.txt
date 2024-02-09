@@ -1,0 +1,28 @@
+tweet_id: 1756051819032203463
+masto_id: 111903398834824521
+subre_id: Not uploaded, but here's the text: Warm wishes for your Friday, and let's have a look at this Mandelbrot Set.  #Mathematics #MachineLearning
+
+n_iter: 430
+ct: 149
+hue_offset: 142
+saturation: 0.39
+
+num_attempts: 333
+dur: 125
+std: 65.41
+size: 1597751 (1.52 MiB)
+
+xmin: -0.5913572706942243
+xmax: -0.5907888466498872
+ymin: -0.4357780256389986
+ymax: -0.435458287114059
+
+contrast: 1.35
+brightness: 0.23
+saturation: 0.95
+gamma: 1.09
+gamma_r: 0.96
+gamma_g: 1.0
+gamma_b: 0.95
+vignette: -30
+temp: 6981
