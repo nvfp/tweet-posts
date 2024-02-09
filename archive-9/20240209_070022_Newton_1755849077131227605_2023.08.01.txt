@@ -1,0 +1,31 @@
+tweet_id: 1755849077131227605
+masto_id: 111900231072502456
+subre_id: Not uploaded, but here's the text: Cheers to a fantastic Friday!  #MachineLearning #Nature
+
+newton_power: 7
+newton_const: 3
+
+n_iter: 109
+ct: 56
+hue_offset: 68
+saturation: -0.07
+
+num_attempts: 159
+dur: 602
+std: 22.53
+size: 876003 (855.47 KiB)
+
+xmin: 0.6753160878533784
+xmax: 0.6915323040695946
+ymin: 0.9421146673944745
+ymax: 0.9512362890160961
+
+contrast: 1.53
+brightness: -0.03
+saturation: 0.68
+gamma: 1.03
+gamma_r: 0.9
+gamma_g: 1.04
+gamma_b: 1.01
+vignette: 8
+temp: 5049
