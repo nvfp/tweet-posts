@@ -1,0 +1,31 @@
+tweet_id: 1755788655216468277
+masto_id: 111899286872878357
+subre_id: Not uploaded, but here's the text: You are lovely!  #Nature #DeepLearning
+
+newton_power: 6
+newton_const: -3
+
+n_iter: 171
+ct: 73
+hue_offset: 172
+saturation: 0.99
+
+num_attempts: 178
+dur: 606
+std: 17.15
+size: 852608 (832.62 KiB)
+
+xmin: -2.2588264249341865
+xmax: -2.2495528546096115
+ymin: 1.3970555408191103
+ymax: 1.4022719241266837
+
+contrast: 1.78
+brightness: 0.06
+saturation: 0.52
+gamma: 1.0
+gamma_r: 1.07
+gamma_g: 1.05
+gamma_b: 1.03
+vignette: 6
+temp: 4954
