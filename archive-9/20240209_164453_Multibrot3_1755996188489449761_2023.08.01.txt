@@ -1,0 +1,28 @@
+tweet_id: 1755996188489449761
+masto_id: 111902529503042041
+subre_id: Not uploaded, but here's the text: Let's rock this Friday!  #Mathematics #DeepLearning
+
+n_iter: 607
+ct: 1
+hue_offset: 70
+saturation: -0.67
+
+num_attempts: 449
+dur: 605
+std: 56.44
+size: 752614 (734.97 KiB)
+
+xmin: -0.38582827585655965
+xmax: -0.3686608938823107
+ymin: 0.6899972666025405
+ymax: 0.6996539189630555
+
+contrast: 1.67
+brightness: 0.05
+saturation: 1.68
+gamma: 1.06
+gamma_r: 0.88
+gamma_g: 1.17
+gamma_b: 1.06
+vignette: 29
+temp: 7068
