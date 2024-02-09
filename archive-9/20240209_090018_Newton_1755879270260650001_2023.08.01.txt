@@ -1,0 +1,31 @@
+tweet_id: 1755879270260650001
+masto_id: 111900702704991228
+subre_id: Not uploaded, but here's the text: Happy Friday!  #Art #GenerativeArt
+
+newton_power: 4
+newton_const: 9
+
+n_iter: 122
+ct: 29
+hue_offset: 315
+saturation: -0.28
+
+num_attempts: 269
+dur: 601
+std: 7.62
+size: 302337 (295.25 KiB)
+
+xmin: 0.18674513254618974
+xmax: 0.19826144732546036
+ymin: -0.004896481489968352
+ymax: 0.0015814455733713798
+
+contrast: 1.03
+brightness: 0.0
+saturation: 1.53
+gamma: 0.99
+gamma_r: 1.06
+gamma_g: 1.09
+gamma_b: 0.97
+vignette: 1
+temp: 2090
