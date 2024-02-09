@@ -1,0 +1,28 @@
+tweet_id: 1755901564097839268
+masto_id: 111901051310620187
+subre_id: Not uploaded, but here's the text: Have an extraordinary Friday!  #DeepLearning #VisualArt
+
+n_iter: 717
+ct: 210
+hue_offset: 294
+saturation: -0.18
+
+num_attempts: 19
+dur: 6
+std: 26.22
+size: 1377308 (1.31 MiB)
+
+xmin: -0.3701713755138525
+xmax: -0.369666197438581
+ymin: 0.6614129523124905
+ymax: 0.6616971149798307
+
+contrast: 1.64
+brightness: -0.07
+saturation: 0.81
+gamma: 0.9
+gamma_r: 1.0
+gamma_g: 1.09
+gamma_b: 1.09
+vignette: -41
+temp: 6896
