@@ -1,0 +1,28 @@
+tweet_id: 1755874695159611795
+masto_id: 111900631175994208
+subre_id: Not uploaded, but here's the text: Enjoying the Friday with this Multibrot.  #Art #DeepLearning
+
+n_iter: 430
+ct: 255
+hue_offset: 151
+saturation: 0.78
+
+num_attempts: 490
+dur: 605
+std: 65.29
+size: 729882 (712.78 KiB)
+
+xmin: -0.47679609398695866
+xmax: -0.4692489241756379
+ymin: -0.5635769149257949
+ymax: -0.5593316319069269
+
+contrast: 1.56
+brightness: -0.02
+saturation: 0.33
+gamma: 0.95
+gamma_r: 0.85
+gamma_g: 1.04
+gamma_b: 1.19
+vignette: 13
+temp: 6925
