@@ -1,0 +1,28 @@
+tweet_id: 1756082633048567816
+masto_id: 111903880392587227
+subre_id: Not uploaded, but here's the text: Warm wishes for your Friday, and let's have a look at this Mandelbrot Set.  #AI #Fractals
+
+n_iter: 600
+ct: 169
+hue_offset: 198
+saturation: 0.61
+
+num_attempts: 7
+dur: 2
+std: 57.15
+size: 920066 (898.5 KiB)
+
+xmin: -0.7512210104462407
+xmax: -0.7491822744625506
+ymin: 0.07504147951048523
+ymax: 0.07618826850131091
+
+contrast: 0.86
+brightness: -0.09
+saturation: 1.43
+gamma: 0.96
+gamma_r: 1.01
+gamma_g: 0.98
+gamma_b: 0.91
+vignette: -47
+temp: 7532
