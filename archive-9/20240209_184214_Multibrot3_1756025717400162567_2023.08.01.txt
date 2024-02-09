@@ -1,0 +1,28 @@
+tweet_id: 1756025717400162567
+masto_id: 111902990950756600
+subre_id: Not uploaded, but here's the text: Wishing you a rad Friday!  #Nature #DeepLearning
+
+n_iter: 460
+ct: 1
+hue_offset: 117
+saturation: 0.38
+
+num_attempts: 491
+dur: 606
+std: 83.54
+size: 1402009 (1.34 MiB)
+
+xmin: 0.19081822210114163
+xmax: 0.19487090700489038
+ymin: -0.8865062239946787
+ymax: -0.8842265887363201
+
+contrast: 0.99
+brightness: -0.07
+saturation: 0.77
+gamma: 0.84
+gamma_r: 1.08
+gamma_g: 0.82
+gamma_b: 1.05
+vignette: 27
+temp: 5740
