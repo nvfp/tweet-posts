@@ -1,0 +1,31 @@
+tweet_id: 1755969799392203209
+masto_id: 111902117304033165
+subre_id: Not uploaded, but here's the text: Shine bright like the sun on this Friday!  #DeepLearning #GenerativeArt
+
+newton_power: 5
+newton_const: -1
+
+n_iter: 185
+ct: 38
+hue_offset: 120
+saturation: 0.79
+
+num_attempts: 219
+dur: 600
+std: 12.06
+size: 1125594 (1.07 MiB)
+
+xmin: 0.7994462707013037
+xmax: 0.8111421771340522
+ymin: -0.6353750337023776
+ymax: -0.6287960863339566
+
+contrast: 0.93
+brightness: 0.08
+saturation: 1.04
+gamma: 1.06
+gamma_r: 1.07
+gamma_g: 0.98
+gamma_b: 1.03
+vignette: -27
+temp: 2225
