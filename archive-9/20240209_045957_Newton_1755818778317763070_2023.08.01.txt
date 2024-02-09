@@ -1,0 +1,31 @@
+tweet_id: 1755818778317763070
+masto_id: 111899757626902790
+subre_id: Not uploaded, but here's the text: Smile on this lovely day!  #Mathematics #DeepLearning
+
+newton_power: 4
+newton_const: -2
+
+n_iter: 176
+ct: 146
+hue_offset: 169
+saturation: 0.98
+
+num_attempts: 251
+dur: 601
+std: 7.8
+size: 831780 (812.29 KiB)
+
+xmin: -0.6975968660287424
+xmax: -0.6440254374573138
+ymin: 0.26759488147638466
+ymax: 0.2977288100478132
+
+contrast: 0.97
+brightness: -0.04
+saturation: 0.5
+gamma: 1.08
+gamma_r: 1.08
+gamma_g: 0.96
+gamma_b: 1.04
+vignette: -22
+temp: 4825
