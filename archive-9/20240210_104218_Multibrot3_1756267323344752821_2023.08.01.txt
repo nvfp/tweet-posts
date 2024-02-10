@@ -1,0 +1,28 @@
+tweet_id: 1756267323344752821
+masto_id: 111906766086896869
+subre_id: Not uploaded, but here's the text: Look what we have here! it's Multibrot!  #GenerativeArt #MachineLearning
+
+n_iter: 637
+ct: 255
+hue_offset: 293
+saturation: 0.49
+
+num_attempts: 353
+dur: 605
+std: 89.42
+size: 1033455 (1009.23 KiB)
+
+xmin: -0.410768835007429
+xmax: -0.3985737130562095
+ymin: 0.5976131899119546
+ymax: 0.6044729460095155
+
+contrast: 1.15
+brightness: 0.14
+saturation: 1.2
+gamma: 1.17
+gamma_r: 1.15
+gamma_g: 1.14
+gamma_b: 0.98
+vignette: 25
+temp: 4385
