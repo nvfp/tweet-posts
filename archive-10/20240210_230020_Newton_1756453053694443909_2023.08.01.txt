@@ -1,0 +1,31 @@
+tweet_id: 1756453053694443909
+masto_id: 111909668148691841
+subre_id: Not uploaded, but here's the text: Surprise! Newton!  #Nature #Art
+
+newton_power: 5
+newton_const: 3
+
+n_iter: 68
+ct: 87
+hue_offset: 51
+saturation: -0.28
+
+num_attempts: 204
+dur: 602
+std: 11.21
+size: 639059 (624.08 KiB)
+
+xmin: 0.3298928081026662
+xmax: 0.3387948852540015
+ymin: 1.197293178366523
+ymax: 1.2023005967641491
+
+contrast: 1.72
+brightness: -0.01
+saturation: 1.02
+gamma: 0.94
+gamma_r: 1.02
+gamma_g: 1.09
+gamma_b: 1.08
+vignette: -3
+temp: 4959
