@@ -1,0 +1,28 @@
+tweet_id: 1756418352774259137
+masto_id: 111909125937058118
+subre_id: Not uploaded, but here's the text: Today is awesome!  #AI #GenerativeArt
+
+n_iter: 673
+ct: 255
+hue_offset: 332
+saturation: 0.82
+
+num_attempts: 406
+dur: 608
+std: 97.2
+size: 1178344 (1.12 MiB)
+
+xmin: -0.20757915437349994
+xmax: -0.20195327532989937
+ymin: 0.9928188420513036
+ymax: 0.9959833990133289
+
+contrast: 0.88
+brightness: 0.19
+saturation: 1.13
+gamma: 1.18
+gamma_r: 0.84
+gamma_g: 1.19
+gamma_b: 1.09
+vignette: -37
+temp: 5377
