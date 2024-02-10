@@ -1,0 +1,28 @@
+tweet_id: 1756354654059847954
+masto_id: 111908130617414750
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Saturday! You got this!  #DeepLearning #Mathematics
+
+n_iter: 391
+ct: 92
+hue_offset: 85
+saturation: -0.11
+
+num_attempts: 97
+dur: 29
+std: 64.59
+size: 2034999 (1.94 MiB)
+
+xmin: -0.43466121765799137
+xmax: -0.4335078151205058
+ymin: -0.571195188230348
+ymax: -0.5705463993030123
+
+contrast: 1.21
+brightness: 0.19
+saturation: 1.58
+gamma: 1.08
+gamma_r: 0.91
+gamma_g: 0.98
+gamma_b: 1.05
+vignette: -31
+temp: 3147
