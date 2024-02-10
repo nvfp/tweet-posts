@@ -1,0 +1,28 @@
+tweet_id: 1756444482046918656
+masto_id: 111909534239275371
+subre_id: Not uploaded, but here's the text: This Saturday is made even better by this Mandelbrot Set!  #DeepLearning #Nature
+
+n_iter: 441
+ct: 200
+hue_offset: 75
+saturation: -0.6
+
+num_attempts: 84
+dur: 33
+std: 29.69
+size: 1050391 (1.0 MiB)
+
+xmin: -0.22509790032386823
+xmax: -0.2226241835644372
+ymin: -0.7011411571471067
+ymax: -0.6997496914699267
+
+contrast: 1.64
+brightness: -0.09
+saturation: 0.32
+gamma: 1.05
+gamma_r: 1.04
+gamma_g: 1.04
+gamma_b: 1.0
+vignette: 24
+temp: 4165
