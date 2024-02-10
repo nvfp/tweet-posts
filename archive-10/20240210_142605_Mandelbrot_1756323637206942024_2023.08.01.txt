@@ -1,0 +1,28 @@
+tweet_id: 1756323637206942024
+masto_id: 111907646031018783
+subre_id: Not uploaded, but here's the text: Enjoying the Saturday with this Mandelbrot Set.  #GenerativeArt #VisualArt
+
+n_iter: 163
+ct: 134
+hue_offset: 251
+saturation: -1.0
+
+num_attempts: 181
+dur: 38
+std: 17.45
+size: 725986 (708.97 KiB)
+
+xmin: 0.3518015001549304
+xmax: 0.3538371235645996
+ymin: -0.37761901304922585
+ymax: -0.3764739748812869
+
+contrast: 1.33
+brightness: -0.06
+saturation: 1.43
+gamma: 1.05
+gamma_r: 0.96
+gamma_g: 0.95
+gamma_b: 1.05
+vignette: -10
+temp: 6946
