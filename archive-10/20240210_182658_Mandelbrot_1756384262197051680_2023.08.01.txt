@@ -1,0 +1,28 @@
+tweet_id: 1756384262197051680
+masto_id: 111908593218998282
+subre_id: Not uploaded, but here's the text: Another Saturday, another Mandelbrot Set!  #MachineLearning #Art
+
+n_iter: 977
+ct: 7
+hue_offset: 312
+saturation: -0.48
+
+num_attempts: 58
+dur: 41
+std: 130.14
+size: 1489697 (1.42 MiB)
+
+xmin: -0.7153253744866555
+xmax: -0.7147324305198604
+ymin: -0.2257120997865204
+ymax: -0.22537856880519813
+
+contrast: 1.08
+brightness: 0.19
+saturation: 0.4
+gamma: 1.1
+gamma_r: 0.91
+gamma_g: 0.93
+gamma_b: 1.01
+vignette: -46
+temp: 6036
