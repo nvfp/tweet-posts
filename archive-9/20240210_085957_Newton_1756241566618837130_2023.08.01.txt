@@ -1,0 +1,31 @@
+tweet_id: 1756241566618837130
+masto_id: 111906363629273923
+subre_id: Not uploaded, but here's the text: Today is awesome!  #VisualArt #Nature
+
+newton_power: 7
+newton_const: 2
+
+n_iter: 97
+ct: 193
+hue_offset: 204
+saturation: 0.51
+
+num_attempts: 160
+dur: 602
+std: 21.36
+size: 1036345 (1012.06 KiB)
+
+xmin: -2.291920146876376
+xmax: -2.2819533694677383
+ymin: 0.888956800618578
+ymax: 0.8945631129109367
+
+contrast: 1.33
+brightness: -0.09
+saturation: 0.48
+gamma: 1.07
+gamma_r: 0.91
+gamma_g: 1.05
+gamma_b: 1.06
+vignette: 23
+temp: 7184
