@@ -1,0 +1,28 @@
+tweet_id: 1756168388194516996
+masto_id: 111905220251887584
+subre_id: Not uploaded, but here's the text: Warm wishes for your Saturday, and let's have a look at this Burning Ship.  #DeepLearning #VisualArt
+
+n_iter: 323
+ct: 232
+hue_offset: 22
+saturation: -0.63
+
+num_attempts: 30
+dur: 11
+std: 27.18
+size: 736129 (718.88 KiB)
+
+xmin: -0.6123685592846335
+xmax: 0.5126314407153665
+ymin: -1.595505076793212
+ymax: -0.962692576793212
+
+contrast: 1.24
+brightness: 0.05
+saturation: 0.48
+gamma: 1.01
+gamma_r: 0.95
+gamma_g: 1.0
+gamma_b: 1.05
+vignette: -48
+temp: 2685
