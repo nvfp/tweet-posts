@@ -1,0 +1,31 @@
+tweet_id: 1756422750099382471
+masto_id: 111909194604670474
+subre_id: Not uploaded, but here's the text: Chin up, lovely humans!  #DeepLearning #MachineLearning
+
+newton_power: 6
+newton_const: 8
+
+n_iter: 125
+ct: 16
+hue_offset: 54
+saturation: 0.57
+
+num_attempts: 186
+dur: 600
+std: 19.24
+size: 980661 (957.68 KiB)
+
+xmin: -1.375549087559927
+xmax: -1.3678862523108848
+ymin: 0.1901514898949772
+ymax: 0.19446183472256343
+
+contrast: 1.75
+brightness: 0.19
+saturation: 0.69
+gamma: 0.98
+gamma_r: 0.94
+gamma_g: 0.91
+gamma_b: 1.08
+vignette: 10
+temp: 2247
