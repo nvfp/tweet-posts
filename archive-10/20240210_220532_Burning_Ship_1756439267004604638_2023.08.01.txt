@@ -1,0 +1,28 @@
+tweet_id: 1756439267004604638
+masto_id: 111909452667473995
+subre_id: Not uploaded, but here's the text: Hello Saturday! This Burning Ship is yours!  #Nature #Fractals
+
+n_iter: 223
+ct: 195
+hue_offset: 183
+saturation: 0.87
+
+num_attempts: 7
+dur: 2
+std: 38.83
+size: 1448039 (1.38 MiB)
+
+xmin: -0.8158786453999234
+xmax: -0.6942570237783018
+ymin: -0.9091135895733446
+ymax: -0.8407014274111825
+
+contrast: 1.23
+brightness: 0.1
+saturation: 1.16
+gamma: 1.0
+gamma_r: 1.08
+gamma_g: 0.95
+gamma_b: 0.93
+vignette: -10
+temp: 6802
