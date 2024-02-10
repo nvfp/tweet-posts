@@ -1,0 +1,31 @@
+tweet_id: 1756332180580475164
+masto_id: 111907779444074076
+subre_id: Not uploaded, but here's the text: Surprise! Newton!  #DigitalArt #GenerativeArt
+
+newton_power: 7
+newton_const: -1
+
+n_iter: 178
+ct: 156
+hue_offset: 104
+saturation: -0.86
+
+num_attempts: 142
+dur: 600
+std: 26.6
+size: 1375015 (1.31 MiB)
+
+xmin: 2.7318836747982687
+xmax: 2.7385651892748832
+ymin: 1.4387212481114324
+ymax: 1.4424796000045281
+
+contrast: 1.2
+brightness: 0.15
+saturation: 0.8
+gamma: 0.99
+gamma_r: 1.06
+gamma_g: 0.97
+gamma_b: 0.95
+vignette: -20
+temp: 3043
