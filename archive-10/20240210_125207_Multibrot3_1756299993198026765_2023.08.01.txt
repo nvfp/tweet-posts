@@ -1,0 +1,28 @@
+tweet_id: 1756299993198026765
+masto_id: 111907276558678779
+subre_id: Not uploaded, but here's the text: you are fantastic!  #Nature #MachineLearning
+
+n_iter: 302
+ct: 255
+hue_offset: 325
+saturation: -0.64
+
+num_attempts: 764
+dur: 602
+std: 55.73
+size: 612845 (598.48 KiB)
+
+xmin: 0.15934405864391943
+xmax: 0.16357238845364458
+ymin: 0.8442696110860544
+ymax: 0.8466480466040248
+
+contrast: 0.94
+brightness: 0.09
+saturation: 0.37
+gamma: 0.89
+gamma_r: 0.93
+gamma_g: 1.2
+gamma_b: 1.15
+vignette: 4
+temp: 3263
