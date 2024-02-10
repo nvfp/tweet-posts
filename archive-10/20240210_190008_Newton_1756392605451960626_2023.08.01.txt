@@ -1,0 +1,31 @@
+tweet_id: 1756392605451960626
+masto_id: 111908723642129685
+subre_id: Not uploaded, but here's the text: Wow, take a look! There's Newton!  #DigitalArt #Nature
+
+newton_power: 7
+newton_const: 2
+
+n_iter: 139
+ct: 226
+hue_offset: 352
+saturation: 0.24
+
+num_attempts: 152
+dur: 600
+std: 20.28
+size: 1107822 (1.06 MiB)
+
+xmin: -0.021459842281359442
+xmax: -0.007241832802686457
+ymin: 0.6652822019178393
+ymax: 0.6732798322495929
+
+contrast: 0.9
+brightness: -0.01
+saturation: 1.72
+gamma: 1.02
+gamma_r: 1.08
+gamma_g: 1.02
+gamma_b: 1.06
+vignette: -48
+temp: 6929
