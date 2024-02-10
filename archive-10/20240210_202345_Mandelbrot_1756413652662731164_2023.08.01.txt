@@ -1,0 +1,28 @@
+tweet_id: 1756413652662731164
+masto_id: 111909052425367108
+subre_id: Not uploaded, but here's the text: Sending you this fractal on this Saturday!  #DigitalArt #AI
+
+n_iter: 922
+ct: 72
+hue_offset: 122
+saturation: 0.03
+
+num_attempts: 58
+dur: 46
+std: 138.06
+size: 599958 (585.9 KiB)
+
+xmin: 0.005480326874065078
+xmax: 0.006284670328720216
+ymin: 0.6341341897444213
+ymax: 0.6345866329376648
+
+contrast: 1.37
+brightness: 0.03
+saturation: 0.39
+gamma: 1.09
+gamma_r: 1.06
+gamma_g: 1.09
+gamma_b: 1.08
+vignette: 29
+temp: 7504
