@@ -1,0 +1,28 @@
+tweet_id: 1756126016865513696
+masto_id: 111904558334852127
+subre_id: Not uploaded, but here's the text: Warm wishes for your Saturday, and let's have a look at this Mandelbrot Set.  #Fractals #AI
+
+n_iter: 1011
+ct: 237
+hue_offset: 138
+saturation: 0.69
+
+num_attempts: 21
+dur: 27
+std: 189.87
+size: 1457994 (1.39 MiB)
+
+xmin: 0.37411987852737116
+xmax: 0.37524886526177703
+ymin: -0.19331467150764503
+ymax: -0.19267961646954174
+
+contrast: 1.02
+brightness: 0.17
+saturation: 1.09
+gamma: 1.04
+gamma_r: 0.91
+gamma_g: 1.03
+gamma_b: 0.94
+vignette: 30
+temp: 2948
