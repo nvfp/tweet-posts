@@ -1,0 +1,28 @@
+tweet_id: 1756258265069994287
+masto_id: 111906624470278875
+subre_id: Not uploaded, but here's the text: Enjoy your Saturday!  #DeepLearning #VisualArt
+
+n_iter: 188
+ct: 66
+hue_offset: 275
+saturation: -0.23
+
+num_attempts: 1
+dur: 0
+std: 27.99
+size: 1768733 (1.69 MiB)
+
+xmin: -1.3717678746011752
+xmax: -1.3046036954966975
+ymin: -0.3817878574093423
+ymax: -0.34400800666307363
+
+contrast: 1.19
+brightness: 0.21
+saturation: 0.45
+gamma: 0.97
+gamma_r: 1.09
+gamma_g: 0.92
+gamma_b: 1.06
+vignette: 11
+temp: 2531
