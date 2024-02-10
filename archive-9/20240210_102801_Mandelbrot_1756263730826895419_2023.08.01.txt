@@ -1,0 +1,28 @@
+tweet_id: 1756263730826895419
+masto_id: 111906709948212600
+subre_id: Not uploaded, but here's the text: you are fantastic!  #Mathematics #VisualArt
+
+n_iter: 802
+ct: 8
+hue_offset: 173
+saturation: 0.22
+
+num_attempts: 47
+dur: 23
+std: 25.12
+size: 1011540 (987.83 KiB)
+
+xmin: 0.008454461413739178
+xmax: 0.008854621477764788
+ymin: -0.6650077099057086
+ymax: -0.6647826198696941
+
+contrast: 1.24
+brightness: -0.01
+saturation: 1.7
+gamma: 1.03
+gamma_r: 0.97
+gamma_g: 1.01
+gamma_b: 0.9
+vignette: 22
+temp: 6579
