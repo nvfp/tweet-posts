@@ -1,0 +1,28 @@
+tweet_id: 1756173400274501796
+masto_id: 111905298468419771
+subre_id: Not uploaded, but here's the text: A great Saturday and a beautiful Mandelbrot Set.  #DeepLearning #Fractals
+
+n_iter: 687
+ct: 224
+hue_offset: 202
+saturation: 0.3
+
+num_attempts: 20
+dur: 13
+std: 77.78
+size: 250802 (244.92 KiB)
+
+xmin: 0.0621019305891819
+xmax: 0.06290097173980115
+ymin: -0.6177802326639819
+ymax: -0.6173307720167586
+
+contrast: 0.94
+brightness: 0.01
+saturation: 1.67
+gamma: 1.03
+gamma_r: 0.96
+gamma_g: 0.94
+gamma_b: 1.05
+vignette: 2
+temp: 5008
