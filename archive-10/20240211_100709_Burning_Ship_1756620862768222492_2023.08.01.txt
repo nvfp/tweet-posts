@@ -1,0 +1,28 @@
+tweet_id: 1756620862768222492
+masto_id: 111912290137197525
+subre_id: Not uploaded, but here's the text: Happy Sunday! Enjoy the beauty of Burning Ship.  #Art #Nature
+
+n_iter: 457
+ct: 213
+hue_offset: 46
+saturation: 0.07
+
+num_attempts: 12
+dur: 4
+std: 44.89
+size: 1099442 (1.05 MiB)
+
+xmin: -0.6869079717133371
+xmax: -0.5846352444406098
+ymin: -0.9095201166333071
+ymax: -0.8519917075423981
+
+contrast: 1.78
+brightness: 0.17
+saturation: 1.08
+gamma: 0.96
+gamma_r: 0.92
+gamma_g: 1.05
+gamma_b: 1.01
+vignette: 13
+temp: 2132
