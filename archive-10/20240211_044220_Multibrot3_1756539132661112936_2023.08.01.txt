@@ -1,0 +1,28 @@
+tweet_id: 1756539132661112936
+masto_id: 111911012978654605
+subre_id: Not uploaded, but here's the text: A great Sunday and a beautiful Multibrot.  #MachineLearning #Mathematics
+
+n_iter: 376
+ct: 255
+hue_offset: 292
+saturation: -0.96
+
+num_attempts: 607
+dur: 604
+std: 56.91
+size: 470785 (459.75 KiB)
+
+xmin: 0.19157329630010134
+xmax: 0.19658582762842214
+ymin: 0.7509253592436997
+ymax: 0.7537449081158802
+
+contrast: 1.67
+brightness: 0.04
+saturation: 0.73
+gamma: 1.17
+gamma_r: 0.86
+gamma_g: 0.82
+gamma_b: 0.98
+vignette: -46
+temp: 3650
