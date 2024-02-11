@@ -1,0 +1,28 @@
+tweet_id: 1756742027675414730
+masto_id: 111914183282270929
+subre_id: Not uploaded, but here's the text: Look closely, it's Burning Ship!  #DigitalArt #Nature
+
+n_iter: 408
+ct: 28
+hue_offset: 84
+saturation: -0.31
+
+num_attempts: 13
+dur: 1
+std: 47.59
+size: 1946588 (1.86 MiB)
+
+xmin: -0.3327640733220485
+xmax: -0.2564928868813705
+ymin: -1.045132824188878
+ymax: -1.0022302818159967
+
+contrast: 1.03
+brightness: 0.04
+saturation: 1.69
+gamma: 1.09
+gamma_r: 1.09
+gamma_g: 0.94
+gamma_b: 0.97
+vignette: 16
+temp: 2104
