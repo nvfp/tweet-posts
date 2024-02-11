@@ -1,0 +1,28 @@
+tweet_id: 1756807045502652729
+masto_id: 111915199212410394
+subre_id: Not uploaded, but here's the text: Let's rock this Sunday!  #AI #VisualArt
+
+n_iter: 209
+ct: 118
+hue_offset: 183
+saturation: -0.91
+
+num_attempts: 214
+dur: 50
+std: 31.64
+size: 1403202 (1.34 MiB)
+
+xmin: 0.3768722674327001
+xmax: 0.37781189627930567
+ymin: -0.28352198459136335
+ymax: -0.2829934433651477
+
+contrast: 0.91
+brightness: -0.01
+saturation: 1.3
+gamma: 0.98
+gamma_r: 0.97
+gamma_g: 0.9
+gamma_b: 1.01
+vignette: -17
+temp: 5426
