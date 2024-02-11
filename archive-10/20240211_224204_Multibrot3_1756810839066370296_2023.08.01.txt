@@ -1,0 +1,28 @@
+tweet_id: 1756810839066370296
+masto_id: 111915258613346076
+subre_id: Not uploaded, but here's the text: Sending you this fractal on this Sunday!  #VisualArt #Art
+
+n_iter: 475
+ct: 1
+hue_offset: 205
+saturation: 0.84
+
+num_attempts: 424
+dur: 604
+std: 71.55
+size: 855645 (835.59 KiB)
+
+xmin: 0.2395092032295021
+xmax: 0.24408063180093065
+ymin: 0.719598457418424
+ymax: 0.7221698859898525
+
+contrast: 0.71
+brightness: 0.08
+saturation: 0.92
+gamma: 1.02
+gamma_r: 0.85
+gamma_g: 1.12
+gamma_b: 0.92
+vignette: -11
+temp: 3207
