@@ -1,0 +1,31 @@
+tweet_id: 1756573735274852497
+masto_id: 111911553722142862
+subre_id: Not uploaded, but here's the text: Let the magic of Sunday fill your heart!  #GenerativeArt #AI
+
+newton_power: 5
+newton_const: 7
+
+n_iter: 104
+ct: 57
+hue_offset: 150
+saturation: 0.16
+
+num_attempts: 206
+dur: 601
+std: 10.99
+size: 1261248 (1.2 MiB)
+
+xmin: 0.10150898092783356
+xmax: 0.109372676864924
+ymin: 0.6221409069860049
+ymax: 0.6265642359506183
+
+contrast: 0.93
+brightness: 0.08
+saturation: 1.14
+gamma: 1.05
+gamma_r: 0.94
+gamma_g: 0.91
+gamma_b: 0.94
+vignette: -28
+temp: 5375
