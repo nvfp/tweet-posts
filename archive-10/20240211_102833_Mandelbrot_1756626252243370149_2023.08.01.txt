@@ -1,0 +1,28 @@
+tweet_id: 1756626252243370149
+masto_id: 111912374316084865
+subre_id: Not uploaded, but here's the text: Hope you're having a great Sunday!  #Mathematics #MachineLearning
+
+n_iter: 708
+ct: 220
+hue_offset: 322
+saturation: 0.65
+
+num_attempts: 6
+dur: 1
+std: 101.05
+size: 1656280 (1.58 MiB)
+
+xmin: -0.6461763090178061
+xmax: -0.6455681289965198
+ymin: -0.4242205128133454
+ymax: -0.42387841155137185
+
+contrast: 0.92
+brightness: 0.2
+saturation: 0.78
+gamma: 0.97
+gamma_r: 1.06
+gamma_g: 0.94
+gamma_b: 0.99
+vignette: -30
+temp: 2157
