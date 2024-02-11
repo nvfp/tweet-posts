@@ -1,0 +1,28 @@
+tweet_id: 1756776349904330839
+masto_id: 111914719766875981
+subre_id: Not uploaded, but here's the text: Ever heard of this Mandelbrot Set?  #DigitalArt #MachineLearning
+
+n_iter: 457
+ct: 241
+hue_offset: 201
+saturation: -0.72
+
+num_attempts: 114
+dur: 31
+std: 28.89
+size: 1325311 (1.26 MiB)
+
+xmin: -1.0095566473343005
+xmax: -1.0090521700988357
+ymin: 0.31233275581037456
+ymax: 0.3126165242553235
+
+contrast: 1.68
+brightness: 0.14
+saturation: 1.65
+gamma: 1.07
+gamma_r: 1.07
+gamma_g: 1.05
+gamma_b: 1.05
+vignette: -42
+temp: 6297
