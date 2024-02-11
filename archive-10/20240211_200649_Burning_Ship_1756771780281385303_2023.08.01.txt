@@ -1,0 +1,28 @@
+tweet_id: 1756771780281385303
+masto_id: 111914648135599781
+subre_id: Not uploaded, but here's the text: Hope you're having a great Sunday!  #GenerativeArt #DigitalArt
+
+n_iter: 346
+ct: 148
+hue_offset: 72
+saturation: 0.12
+
+num_attempts: 21
+dur: 5
+std: 21.69
+size: 299941 (292.91 KiB)
+
+xmin: -0.8266917190879974
+xmax: -0.765047883471559
+ymin: -0.6326810149893849
+ymax: -0.5980063574551383
+
+contrast: 1.39
+brightness: 0.08
+saturation: 1.61
+gamma: 1.06
+gamma_r: 1.09
+gamma_g: 0.96
+gamma_b: 1.06
+vignette: 5
+temp: 3916
