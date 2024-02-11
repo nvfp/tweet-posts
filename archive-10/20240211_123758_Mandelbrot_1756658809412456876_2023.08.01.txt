@@ -1,0 +1,28 @@
+tweet_id: 1756658809412456876
+masto_id: 111912883186229478
+subre_id: Not uploaded, but here's the text: Have an extraordinary Sunday!  #DigitalArt #Fractals
+
+n_iter: 682
+ct: 209
+hue_offset: 267
+saturation: 0.8
+
+num_attempts: 54
+dur: 31
+std: 17.71
+size: 639320 (624.34 KiB)
+
+xmin: -1.9118122135317868
+xmax: 0.08818778646821324
+ymin: -1.0518067055688276
+ymax: 0.0731932944311724
+
+contrast: 0.79
+brightness: -0.05
+saturation: 0.35
+gamma: 1.0
+gamma_r: 1.02
+gamma_g: 1.03
+gamma_b: 1.02
+vignette: 30
+temp: 5389
