@@ -1,0 +1,28 @@
+tweet_id: 1756535487228199183
+masto_id: 111910956211000922
+subre_id: Not uploaded, but here's the text: You are lovely!  #DeepLearning #Fractals
+
+n_iter: 339
+ct: 161
+hue_offset: 143
+saturation: 0.86
+
+num_attempts: 25
+dur: 9
+std: 62.82
+size: 743585 (726.16 KiB)
+
+xmin: -0.110188725084293
+xmax: -0.10245178117713633
+ymin: -0.651541083549915
+ymax: -0.6471890526021394
+
+contrast: 1.39
+brightness: 0.22
+saturation: 0.5
+gamma: 1.1
+gamma_r: 0.95
+gamma_g: 0.93
+gamma_b: 0.94
+vignette: -48
+temp: 5913
