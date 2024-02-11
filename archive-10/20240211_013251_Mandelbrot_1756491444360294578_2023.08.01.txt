@@ -1,0 +1,28 @@
+tweet_id: 1756491444360294578
+masto_id: 111910267886619356
+subre_id: Not uploaded, but here's the text: Wow, take a look! There's Mandelbrot Set!  #AI #VisualArt
+
+n_iter: 579
+ct: 203
+hue_offset: 55
+saturation: 0.67
+
+num_attempts: 103
+dur: 35
+std: 126.95
+size: 637306 (622.37 KiB)
+
+xmin: -0.21381509311941693
+xmax: -0.21341015284810694
+ymin: -0.7770171672311832
+ymax: -0.7767893883285714
+
+contrast: 1.61
+brightness: 0.22
+saturation: 0.66
+gamma: 0.94
+gamma_r: 0.98
+gamma_g: 0.9
+gamma_b: 0.92
+vignette: -16
+temp: 6034
