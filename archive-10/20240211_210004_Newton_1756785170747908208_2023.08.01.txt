@@ -1,0 +1,31 @@
+tweet_id: 1756785170747908208
+masto_id: 111914857555654574
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Sunday! You got this!  #AI #VisualArt
+
+newton_power: 4
+newton_const: -4
+
+n_iter: 223
+ct: 38
+hue_offset: 171
+saturation: -0.09
+
+num_attempts: 254
+dur: 600
+std: 6.97
+size: 1144889 (1.09 MiB)
+
+xmin: 0.7775470512984617
+xmax: 0.7835893473709692
+ymin: 1.0061997101552747
+ymax: 1.0095985016960602
+
+contrast: 1.49
+brightness: 0.12
+saturation: 0.67
+gamma: 0.96
+gamma_r: 0.9
+gamma_g: 1.06
+gamma_b: 0.98
+vignette: -35
+temp: 3962
