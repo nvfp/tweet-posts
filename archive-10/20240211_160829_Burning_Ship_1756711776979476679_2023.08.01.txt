@@ -1,0 +1,28 @@
+tweet_id: 1756711776979476679
+masto_id: 111913710976840690
+subre_id: Not uploaded, but here's the text: Wishing you the best!  #Art #VisualArt
+
+n_iter: 378
+ct: 75
+hue_offset: 297
+saturation: -0.97
+
+num_attempts: 16
+dur: 4
+std: 20.54
+size: 656130 (640.75 KiB)
+
+xmin: 0.20984275443206224
+xmax: 0.28127132586063364
+ymin: -0.35492966963015826
+ymax: -0.31475109820158687
+
+contrast: 0.78
+brightness: 0.08
+saturation: 0.88
+gamma: 0.98
+gamma_r: 1.01
+gamma_g: 0.99
+gamma_b: 1.1
+vignette: -33
+temp: 4786
