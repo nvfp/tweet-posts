@@ -1,0 +1,28 @@
+tweet_id: 1756750429927383097
+masto_id: 111914314623080560
+subre_id: Not uploaded, but here's the text: A great Sunday and a beautiful Multibrot.  #VisualArt #AI
+
+n_iter: 256
+ct: 255
+hue_offset: 300
+saturation: 0.62
+
+num_attempts: 851
+dur: 602
+std: 45.38
+size: 864603 (844.34 KiB)
+
+xmin: 0.20137637057567392
+xmax: 0.20934449806571376
+ymin: 0.9814914308194362
+ymax: 0.9859735025325836
+
+contrast: 1.14
+brightness: -0.09
+saturation: 0.34
+gamma: 0.93
+gamma_r: 0.85
+gamma_g: 0.8
+gamma_b: 1.14
+vignette: 32
+temp: 3258
