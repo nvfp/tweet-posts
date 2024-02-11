@@ -1,0 +1,28 @@
+tweet_id: 1756801781563085278
+masto_id: 111915116946475123
+subre_id: Not uploaded, but here's the text: Sunday is shining brightly, just like this Burning Ship.  #AI #MachineLearning
+
+n_iter: 428
+ct: 110
+hue_offset: 327
+saturation: -0.09
+
+num_attempts: 19
+dur: 10
+std: 36.32
+size: 1281090 (1.22 MiB)
+
+xmin: -1.1175267776688387
+xmax: -1.0021421622842233
+ymin: -0.6255706157449603
+ymax: -0.5606667695911142
+
+contrast: 1.43
+brightness: -0.04
+saturation: 1.58
+gamma: 1.0
+gamma_r: 1.05
+gamma_g: 1.0
+gamma_b: 1.01
+vignette: -3
+temp: 7491
