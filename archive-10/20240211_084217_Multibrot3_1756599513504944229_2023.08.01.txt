@@ -1,0 +1,28 @@
+tweet_id: 1756599513504944229
+masto_id: 111911956502873434
+subre_id: Not uploaded, but here's the text: How was your day?  #DeepLearning #Mathematics
+
+n_iter: 303
+ct: 1
+hue_offset: 215
+saturation: -0.86
+
+num_attempts: 810
+dur: 600
+std: 53.15
+size: 1220344 (1.16 MiB)
+
+xmin: 0.18729231455255801
+xmax: 0.19515086072151674
+ymin: 0.8836936355739131
+ymax: 0.8881140677939524
+
+contrast: 1.14
+brightness: -0.0
+saturation: 1.21
+gamma: 1.03
+gamma_r: 0.93
+gamma_g: 1.1
+gamma_b: 0.98
+vignette: 28
+temp: 3142
