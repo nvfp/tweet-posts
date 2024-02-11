@@ -1,0 +1,31 @@
+tweet_id: 1756665050851615137
+masto_id: 111912980598556675
+subre_id: Not uploaded, but here's the text: Sunday vibes!  #DeepLearning #AI
+
+newton_power: 7
+newton_const: -1
+
+n_iter: 218
+ct: 112
+hue_offset: 48
+saturation: 0.96
+
+num_attempts: 142
+dur: 601
+std: 24.31
+size: 1187359 (1.13 MiB)
+
+xmin: -0.1951392902843394
+xmax: -0.186942568972864
+ymin: 0.39202130922711786
+ymax: 0.3966319649648228
+
+contrast: 1.48
+brightness: 0.03
+saturation: 0.48
+gamma: 0.93
+gamma_r: 0.92
+gamma_g: 0.99
+gamma_b: 1.07
+vignette: -38
+temp: 7338
