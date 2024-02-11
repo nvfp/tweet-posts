@@ -1,0 +1,28 @@
+tweet_id: 1756561090119618811
+masto_id: 111911356185921105
+subre_id: Not uploaded, but here's the text: Look closely, it's Burning Ship!  #MachineLearning #DeepLearning
+
+n_iter: 383
+ct: 77
+hue_offset: 6
+saturation: 0.81
+
+num_attempts: 44
+dur: 20
+std: 45.4
+size: 672471 (656.71 KiB)
+
+xmin: -0.410800138735278
+xmax: 0.039199861264722025
+ymin: -0.9802611592124226
+ymax: -0.7271361592124226
+
+contrast: 0.74
+brightness: -0.03
+saturation: 1.64
+gamma: 1.03
+gamma_r: 1.1
+gamma_g: 1.09
+gamma_b: 1.0
+vignette: 7
+temp: 2992
