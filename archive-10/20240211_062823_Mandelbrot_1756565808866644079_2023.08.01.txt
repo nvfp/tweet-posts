@@ -1,0 +1,28 @@
+tweet_id: 1756565808866644079
+masto_id: 111911429967705389
+subre_id: Not uploaded, but here's the text: Keep shining on Sunday!  #AI #Fractals
+
+n_iter: 553
+ct: 113
+hue_offset: 271
+saturation: 0.07
+
+num_attempts: 9
+dur: 2
+std: 17.62
+size: 907545 (886.27 KiB)
+
+xmin: 0.0659346527254927
+xmax: 0.07181700566666918
+ymin: -0.655067880591301
+ymax: -0.6517590570618893
+
+contrast: 1.75
+brightness: 0.05
+saturation: 1.02
+gamma: 0.95
+gamma_r: 0.98
+gamma_g: 1.02
+gamma_b: 1.05
+vignette: -30
+temp: 4008
