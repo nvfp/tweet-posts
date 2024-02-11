@@ -1,0 +1,31 @@
+tweet_id: 1756495632909406704
+masto_id: 111910333375285216
+subre_id: Not uploaded, but here's the text: Hey there, it's Sunday!  #VisualArt #Nature
+
+newton_power: 5
+newton_const: 3
+
+n_iter: 112
+ct: 82
+hue_offset: 98
+saturation: 0.19
+
+num_attempts: 199
+dur: 601
+std: 12.53
+size: 556103 (543.07 KiB)
+
+xmin: -2.7045740778912006
+xmax: -2.676272191098748
+ymin: 1.63835958756838
+ymax: 1.6542793988891349
+
+contrast: 1.73
+brightness: 0.04
+saturation: 0.29
+gamma: 0.92
+gamma_r: 1.05
+gamma_g: 0.95
+gamma_b: 0.97
+vignette: 5
+temp: 7147
