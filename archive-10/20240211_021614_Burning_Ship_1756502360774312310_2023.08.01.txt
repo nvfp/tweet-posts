@@ -1,0 +1,28 @@
+tweet_id: 1756502360774312310
+masto_id: 111910438471773653
+subre_id: Not uploaded, but here's the text: Feeling good today!  #AI #Fractals
+
+n_iter: 433
+ct: 2
+hue_offset: 296
+saturation: 0.97
+
+num_attempts: 1
+dur: 0
+std: 56.95
+size: 2143342 (2.04 MiB)
+
+xmin: -1.310871027332521
+xmax: -1.2474907456423803
+ymin: -0.3801813158367735
+ymax: -0.34452990738606926
+
+contrast: 1.06
+brightness: 0.13
+saturation: 1.72
+gamma: 0.95
+gamma_r: 0.96
+gamma_g: 0.93
+gamma_b: 1.09
+vignette: 20
+temp: 7055
