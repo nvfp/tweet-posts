@@ -1,0 +1,28 @@
+tweet_id: 1756651974093856874
+masto_id: 111912776250840357
+subre_id: Not uploaded, but here's the text: Hope you have an amazing Sunday!  #DeepLearning #Nature
+
+n_iter: 187
+ct: 198
+hue_offset: 105
+saturation: -0.18
+
+num_attempts: 29
+dur: 7
+std: 22.47
+size: 642806 (627.74 KiB)
+
+xmin: 0.035935472093356235
+xmax: 0.41093547209335624
+ymin: -1.1736403422169208
+ymax: -0.9627028422169208
+
+contrast: 1.37
+brightness: 0.17
+saturation: 0.35
+gamma: 1.03
+gamma_r: 0.97
+gamma_g: 0.98
+gamma_b: 0.92
+vignette: -27
+temp: 6378
