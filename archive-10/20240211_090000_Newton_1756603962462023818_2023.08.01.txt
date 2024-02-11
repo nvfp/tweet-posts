@@ -1,0 +1,31 @@
+tweet_id: 1756603962462023818
+masto_id: 111912026135618068
+subre_id: Not uploaded, but here's the text: Happy Sunday!  #DigitalArt #Fractals
+
+newton_power: 3
+newton_const: -2
+
+n_iter: 133
+ct: 211
+hue_offset: 1
+saturation: 0.21
+
+num_attempts: 546
+dur: 601
+std: 4.54
+size: 586128 (572.39 KiB)
+
+xmin: -0.4039113774980825
+xmax: 0.057627084040379084
+ymin: -0.13774586440152525
+ymax: 0.12186952021385938
+
+contrast: 1.23
+brightness: 0.05
+saturation: 0.43
+gamma: 1.1
+gamma_r: 0.93
+gamma_g: 0.97
+gamma_b: 0.93
+vignette: 18
+temp: 7765
