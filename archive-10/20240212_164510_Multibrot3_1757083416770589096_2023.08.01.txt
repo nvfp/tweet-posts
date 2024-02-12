@@ -1,0 +1,28 @@
+tweet_id: 1757083416770589096
+masto_id: 111919517551139063
+subre_id: Not uploaded, but here's the text: Monday vibes!  #DigitalArt #MachineLearning
+
+n_iter: 564
+ct: 1
+hue_offset: 229
+saturation: -1.0
+
+num_attempts: 437
+dur: 602
+std: 37.87
+size: 999736 (976.3 KiB)
+
+xmin: 0.2665954670172366
+xmax: 0.2773193276070489
+ymin: 1.2441249486059154
+ymax: 1.2501571201876849
+
+contrast: 1.25
+brightness: 0.15
+saturation: 0.46
+gamma: 1.05
+gamma_r: 0.94
+gamma_g: 0.91
+gamma_b: 1.04
+vignette: -20
+temp: 6065
