@@ -1,0 +1,28 @@
+tweet_id: 1757173316492964274
+masto_id: 111920922186902704
+subre_id: Not uploaded, but here's the text: Keep smiling!  #GenerativeArt #Nature
+
+n_iter: 355
+ct: 1
+hue_offset: 77
+saturation: -0.36
+
+num_attempts: 701
+dur: 603
+std: 61.76
+size: 841617 (821.89 KiB)
+
+xmin: -0.19477770015436136
+xmax: -0.18846855188937714
+ymin: 1.0398102389019623
+ymax: 1.043359134801016
+
+contrast: 1.45
+brightness: -0.06
+saturation: 1.04
+gamma: 0.97
+gamma_r: 0.85
+gamma_g: 0.9
+gamma_b: 0.87
+vignette: 8
+temp: 2165
