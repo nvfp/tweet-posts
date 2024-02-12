@@ -1,0 +1,28 @@
+tweet_id: 1756868450893598870
+masto_id: 111916158697551461
+subre_id: Not uploaded, but here's the text: Ever heard of this Mandelbrot Set?  #AI #DeepLearning
+
+n_iter: 690
+ct: 124
+hue_offset: 30
+saturation: 0.2
+
+num_attempts: 137
+dur: 82
+std: 28.84
+size: 1288839 (1.23 MiB)
+
+xmin: 0.18266790640541597
+xmax: 0.18447459113892997
+ymin: 0.5946689599147592
+ymax: 0.5956852200773608
+
+contrast: 1.16
+brightness: 0.05
+saturation: 0.62
+gamma: 1.07
+gamma_r: 0.98
+gamma_g: 1.08
+gamma_b: 1.09
+vignette: 16
+temp: 7700
