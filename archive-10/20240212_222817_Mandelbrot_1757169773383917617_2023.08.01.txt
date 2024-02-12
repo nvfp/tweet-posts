@@ -1,0 +1,28 @@
+tweet_id: 1757169773383917617
+masto_id: 111920866730026002
+subre_id: Not uploaded, but here's the text: Hey there, it's Monday!  #Nature #VisualArt
+
+n_iter: 825
+ct: 140
+hue_offset: 86
+saturation: 0.55
+
+num_attempts: 59
+dur: 35
+std: 107.42
+size: 193342 (188.81 KiB)
+
+xmin: 0.3880190308934761
+xmax: 0.3884302996576135
+ymin: -0.20196568095038758
+ymax: -0.2017343422705603
+
+contrast: 1.51
+brightness: -0.0
+saturation: 0.9
+gamma: 0.94
+gamma_r: 0.99
+gamma_g: 1.04
+gamma_b: 0.98
+vignette: 7
+temp: 2381
