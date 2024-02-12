@@ -1,0 +1,28 @@
+tweet_id: 1756992577176297939
+masto_id: 111918098056317122
+subre_id: Not uploaded, but here's the text: Guess what? It's Multibrot!  #DeepLearning #VisualArt
+
+n_iter: 309
+ct: 1
+hue_offset: 312
+saturation: -0.52
+
+num_attempts: 836
+dur: 600
+std: 56.66
+size: 475877 (464.72 KiB)
+
+xmin: 0.12002465478376312
+xmax: 0.12484974525420944
+ymin: -0.7636597058995858
+ymax: -0.7609455925099597
+
+contrast: 1.71
+brightness: 0.19
+saturation: 1.63
+gamma: 0.96
+gamma_r: 1.09
+gamma_g: 0.94
+gamma_b: 0.82
+vignette: 22
+temp: 2202
