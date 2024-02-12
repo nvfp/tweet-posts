@@ -1,0 +1,31 @@
+tweet_id: 1756857015689691328
+masto_id: 111915980018996321
+subre_id: Not uploaded, but here's the text: Hope your Monday is awesome!  #DigitalArt #Mathematics
+
+newton_power: 4
+newton_const: -5
+
+n_iter: 94
+ct: 83
+hue_offset: 193
+saturation: -0.38
+
+num_attempts: 244
+dur: 600
+std: 7.56
+size: 980953 (957.96 KiB)
+
+xmin: -1.7916317514263438
+xmax: -1.7852555558896808
+ymin: 1.8436331365431755
+ymax: 1.8472197465325486
+
+contrast: 1.62
+brightness: -0.08
+saturation: 1.72
+gamma: 0.93
+gamma_r: 1.05
+gamma_g: 1.05
+gamma_b: 0.98
+vignette: -24
+temp: 7989
