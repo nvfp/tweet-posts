@@ -1,0 +1,31 @@
+tweet_id: 1757177884681351494
+masto_id: 111920993682912725
+subre_id: Not uploaded, but here's the text: Good Monday! This Newton is for you!  #DeepLearning #DigitalArt
+
+newton_power: 5
+newton_const: -7
+
+n_iter: 143
+ct: 205
+hue_offset: 40
+saturation: -0.07
+
+num_attempts: 207
+dur: 602
+std: 14.21
+size: 794101 (775.49 KiB)
+
+xmin: 1.6348813907837165
+xmax: 1.727189083091409
+ymin: 1.2357553709629387
+ymax: 1.2876784478860157
+
+contrast: 1.24
+brightness: 0.02
+saturation: 1.56
+gamma: 1.0
+gamma_r: 1.05
+gamma_g: 1.05
+gamma_b: 0.91
+vignette: -40
+temp: 5082
