@@ -1,0 +1,28 @@
+tweet_id: 1756958560901325052
+masto_id: 111917566817124659
+subre_id: Not uploaded, but here's the text: You rock, and so does this Monday!  #AI #DigitalArt
+
+n_iter: 848
+ct: 92
+hue_offset: 35
+saturation: -0.7
+
+num_attempts: 78
+dur: 56
+std: 60.79
+size: 1589954 (1.52 MiB)
+
+xmin: -0.7439660066524705
+xmax: -0.7434228235997817
+ymin: -0.16597399289022263
+ymax: -0.1656684524230852
+
+contrast: 1.72
+brightness: 0.17
+saturation: 1.05
+gamma: 0.98
+gamma_r: 1.08
+gamma_g: 1.04
+gamma_b: 0.96
+vignette: -21
+temp: 6380
