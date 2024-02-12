@@ -1,0 +1,28 @@
+tweet_id: 1757134281665622248
+masto_id: 111920312369469741
+subre_id: Not uploaded, but here's the text: Have an extraordinary Monday!  #MachineLearning #GenerativeArt
+
+n_iter: 374
+ct: 191
+hue_offset: 356
+saturation: 0.14
+
+num_attempts: 19
+dur: 4
+std: 68.18
+size: 1143330 (1.09 MiB)
+
+xmin: 0.617657746936517
+xmax: 0.6902383920978074
+ymin: -1.1476789269591499
+ymax: -1.106852314055924
+
+contrast: 0.96
+brightness: -0.01
+saturation: 1.5
+gamma: 1.06
+gamma_r: 1.09
+gamma_g: 1.1
+gamma_b: 1.06
+vignette: 15
+temp: 5457
