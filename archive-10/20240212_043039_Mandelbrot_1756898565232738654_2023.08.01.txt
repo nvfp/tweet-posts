@@ -1,0 +1,28 @@
+tweet_id: 1756898565232738654
+masto_id: 111916629326880583
+subre_id: Not uploaded, but here's the text: Let this Mandelbrot Set brighten up your Monday!  #Fractals #AI
+
+n_iter: 994
+ct: 25
+hue_offset: 62
+saturation: 0.46
+
+num_attempts: 154
+dur: 104
+std: 35.21
+size: 973395 (950.58 KiB)
+
+xmin: -0.6065543342664794
+xmax: -0.5771425695605971
+ymin: 0.466465474163102
+ymax: 0.48300959181016084
+
+contrast: 1.32
+brightness: 0.03
+saturation: 1.1
+gamma: 0.9
+gamma_r: 1.05
+gamma_g: 0.91
+gamma_b: 0.94
+vignette: 25
+temp: 2878
