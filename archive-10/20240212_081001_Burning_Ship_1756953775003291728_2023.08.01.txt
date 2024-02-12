@@ -1,0 +1,28 @@
+tweet_id: 1756953775003291728
+masto_id: 111917491816708144
+subre_id: Not uploaded, but here's the text: Surprise! Burning Ship!  #AI #Art
+
+n_iter: 475
+ct: 38
+hue_offset: 32
+saturation: -0.25
+
+num_attempts: 37
+dur: 16
+std: 56.48
+size: 815232 (796.12 KiB)
+
+xmin: -1.3654312272996554
+xmax: -0.9154312272996554
+ymin: -0.517850510740026
+ymax: -0.264725510740026
+
+contrast: 1.49
+brightness: -0.07
+saturation: 0.95
+gamma: 0.91
+gamma_r: 1.02
+gamma_g: 0.92
+gamma_b: 0.97
+vignette: -24
+temp: 6272
