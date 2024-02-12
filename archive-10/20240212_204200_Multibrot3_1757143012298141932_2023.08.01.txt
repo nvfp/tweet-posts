@@ -1,0 +1,28 @@
+tweet_id: 1757143012298141932
+masto_id: 111920448843604922
+subre_id: Not uploaded, but here's the text: Let's make it a memorable Monday!  #Nature #Fractals
+
+n_iter: 698
+ct: 255
+hue_offset: 224
+saturation: 0.8
+
+num_attempts: 364
+dur: 600
+std: 72.98
+size: 1423794 (1.36 MiB)
+
+xmin: 0.3169392069221888
+xmax: 0.3306378370591751
+ymin: 0.702763219795469
+ymax: 0.7104686992475238
+
+contrast: 1.05
+brightness: 0.1
+saturation: 0.54
+gamma: 1.2
+gamma_r: 0.95
+gamma_g: 0.85
+gamma_b: 1.2
+vignette: 29
+temp: 4034
