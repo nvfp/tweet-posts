@@ -1,0 +1,28 @@
+tweet_id: 1756928278969905347
+masto_id: 111917093555829430
+subre_id: Not uploaded, but here's the text: Monday vibes!  #GenerativeArt #DigitalArt
+
+n_iter: 821
+ct: 128
+hue_offset: 22
+saturation: 0.96
+
+num_attempts: 15
+dur: 12
+std: 21.24
+size: 891412 (870.52 KiB)
+
+xmin: -0.17237960255471174
+xmax: -0.16235453989807014
+ymin: -1.0306452107633008
+ymax: -1.0250061130189398
+
+contrast: 0.89
+brightness: -0.1
+saturation: 0.84
+gamma: 1.06
+gamma_r: 0.95
+gamma_g: 0.94
+gamma_b: 0.97
+vignette: 27
+temp: 6749
