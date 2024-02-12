@@ -1,0 +1,28 @@
+tweet_id: 1757048823828852806
+masto_id: 111918977003324968
+subre_id: Not uploaded, but here's the text: Chin up, buttercup!  #VisualArt #DigitalArt
+
+n_iter: 523
+ct: 65
+hue_offset: 173
+saturation: -0.8
+
+num_attempts: 121
+dur: 51
+std: 85.51
+size: 1525693 (1.46 MiB)
+
+xmin: -0.8373481126323048
+xmax: -0.8297723550565472
+ymin: 0.19410722138855174
+ymax: 0.1983685850249154
+
+contrast: 1.18
+brightness: 0.08
+saturation: 0.92
+gamma: 0.95
+gamma_r: 0.97
+gamma_g: 0.93
+gamma_b: 1.06
+vignette: -44
+temp: 2596
