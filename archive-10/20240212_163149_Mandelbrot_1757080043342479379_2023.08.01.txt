@@ -1,0 +1,28 @@
+tweet_id: 1757080043342479379
+masto_id: 111919465093404380
+subre_id: Not uploaded, but here's the text: Enjoy your Monday!  #DeepLearning #DigitalArt
+
+n_iter: 641
+ct: 136
+hue_offset: 167
+saturation: 0.25
+
+num_attempts: 92
+dur: 36
+std: 16.85
+size: 733891 (716.69 KiB)
+
+xmin: -0.6518489114407164
+xmax: -0.08042034001214504
+ymin: -1.0234527455865627
+ymax: -0.7020241741579913
+
+contrast: 0.99
+brightness: 0.01
+saturation: 1.29
+gamma: 1.0
+gamma_r: 1.05
+gamma_g: 1.03
+gamma_b: 1.03
+vignette: 19
+temp: 6322
