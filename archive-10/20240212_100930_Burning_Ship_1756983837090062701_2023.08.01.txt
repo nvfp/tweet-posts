@@ -1,0 +1,28 @@
+tweet_id: 1756983837090062701
+masto_id: 111917961728208032
+subre_id: Not uploaded, but here's the text: Have an awesome Monday!  #DigitalArt #Nature
+
+n_iter: 326
+ct: 211
+hue_offset: 15
+saturation: 0.59
+
+num_attempts: 9
+dur: 4
+std: 21.33
+size: 616473 (602.02 KiB)
+
+xmin: 0.4562085798073361
+xmax: 0.5299790716106147
+ymin: -0.7840417437718943
+ymax: -0.74254584213255
+
+contrast: 0.79
+brightness: -0.05
+saturation: 0.7
+gamma: 1.07
+gamma_r: 0.98
+gamma_g: 1.04
+gamma_b: 1.0
+vignette: 18
+temp: 4100
