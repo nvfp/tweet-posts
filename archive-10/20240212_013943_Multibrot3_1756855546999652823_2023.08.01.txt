@@ -1,0 +1,28 @@
+tweet_id: 1756855546999652823
+masto_id: 111915957198008554
+subre_id: Not uploaded, but here's the text: Hope you're having a great Monday!  #MachineLearning #GenerativeArt
+
+n_iter: 460
+ct: 1
+hue_offset: 20
+saturation: -0.41
+
+num_attempts: 507
+dur: 602
+std: 78.84
+size: 1420947 (1.36 MiB)
+
+xmin: 0.22129195685910696
+xmax: 0.22842208163629057
+ymin: -0.7275554536769812
+ymax: -0.7235447584898154
+
+contrast: 0.92
+brightness: 0.13
+saturation: 0.54
+gamma: 0.84
+gamma_r: 0.94
+gamma_g: 1.06
+gamma_b: 0.91
+vignette: -42
+temp: 6819
