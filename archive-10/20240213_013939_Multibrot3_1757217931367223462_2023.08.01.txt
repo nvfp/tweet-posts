@@ -1,0 +1,28 @@
+tweet_id: 1757217931367223462
+masto_id: 111921619222589948
+subre_id: Not uploaded, but here's the text: A great Tuesday and a beautiful Multibrot.  #DigitalArt #MachineLearning
+
+n_iter: 625
+ct: 1
+hue_offset: 327
+saturation: 0.59
+
+num_attempts: 413
+dur: 601
+std: 88.97
+size: 598561 (584.53 KiB)
+
+xmin: -0.1225974802337122
+xmax: -0.11676657644362473
+ymin: -1.118381007371593
+ymax: -1.1151011239896687
+
+contrast: 1.51
+brightness: 0.19
+saturation: 0.63
+gamma: 0.88
+gamma_r: 0.89
+gamma_g: 1.04
+gamma_b: 1.11
+vignette: 3
+temp: 4025
