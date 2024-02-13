@@ -1,0 +1,31 @@
+tweet_id: 1757268343491633488
+masto_id: 111922407060234439
+subre_id: Not uploaded, but here's the text: Having a blast on Tuesday?  #Art #GenerativeArt
+
+newton_power: 6
+newton_const: 0
+
+n_iter: 177
+ct: 53
+hue_offset: 237
+saturation: 0.12
+
+num_attempts: 154
+dur: 603
+std: 2.55
+size: 555104 (542.09 KiB)
+
+xmin: -1.4506313899697694
+xmax: 0.5493686100302306
+ymin: 0.1289734960541593
+ymax: 1.2539734960541593
+
+contrast: 1.12
+brightness: -0.09
+saturation: 0.67
+gamma: 1.06
+gamma_r: 1.0
+gamma_g: 0.96
+gamma_b: 1.06
+vignette: -20
+temp: 4750
