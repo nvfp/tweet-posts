@@ -1,0 +1,28 @@
+tweet_id: 1757230220309114928
+masto_id: 111921811301694971
+subre_id: Not uploaded, but here's the text: Wishing you a joyful day!  #DeepLearning #VisualArt
+
+n_iter: 548
+ct: 89
+hue_offset: 218
+saturation: 0.18
+
+num_attempts: 37
+dur: 12
+std: 96.96
+size: 1381620 (1.32 MiB)
+
+xmin: -0.3902673319288805
+xmax: -0.3880112687591118
+ymin: -0.589303825416879
+ymax: -0.588034789883884
+
+contrast: 0.99
+brightness: 0.09
+saturation: 1.24
+gamma: 1.06
+gamma_r: 0.9
+gamma_g: 0.93
+gamma_b: 0.95
+vignette: 8
+temp: 4656
