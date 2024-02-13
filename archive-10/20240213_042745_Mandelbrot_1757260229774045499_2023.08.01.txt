@@ -1,0 +1,28 @@
+tweet_id: 1757260229774045499
+masto_id: 111922280235831210
+subre_id: Not uploaded, but here's the text: Happy Tuesday! Enjoy the beauty of Mandelbrot Set.  #Nature #AI
+
+n_iter: 594
+ct: 30
+hue_offset: 291
+saturation: -0.47
+
+num_attempts: 102
+dur: 43
+std: 105.19
+size: 1870620 (1.78 MiB)
+
+xmin: 0.3894554770999905
+xmax: 0.3906555971119917
+ymin: 0.31271683016441454
+ymax: 0.3133918976711652
+
+contrast: 1.79
+brightness: -0.06
+saturation: 1.16
+gamma: 1.06
+gamma_r: 0.91
+gamma_g: 1.07
+gamma_b: 1.07
+vignette: 17
+temp: 2390
