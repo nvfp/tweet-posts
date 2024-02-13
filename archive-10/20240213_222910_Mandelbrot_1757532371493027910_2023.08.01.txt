@@ -1,0 +1,28 @@
+tweet_id: 1757532371493027910
+masto_id: 111926532500267982
+subre_id: Not uploaded, but here's the text: Chin up, lovely humans!  #Nature #Art
+
+n_iter: 721
+ct: 115
+hue_offset: 25
+saturation: 0.79
+
+num_attempts: 7
+dur: 5
+std: 23.47
+size: 1140894 (1.09 MiB)
+
+xmin: -0.3689985416755568
+xmax: -0.368232698290529
+ymin: -0.6640173556994333
+ymax: -0.6635865687953552
+
+contrast: 0.94
+brightness: 0.13
+saturation: 1.24
+gamma: 1.04
+gamma_r: 0.99
+gamma_g: 1.06
+gamma_b: 0.97
+vignette: -25
+temp: 2176
