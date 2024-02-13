@@ -1,0 +1,28 @@
+tweet_id: 1757436680888279089
+masto_id: 111925037223399573
+subre_id: Not uploaded, but here's the text: Hello Tuesday! This Burning Ship is yours!  #Fractals #DeepLearning
+
+n_iter: 129
+ct: 93
+hue_offset: 166
+saturation: 0.72
+
+num_attempts: 17
+dur: 4
+std: 20.24
+size: 1120159 (1.07 MiB)
+
+xmin: -1.511133336547395
+xmax: -1.3986333365473949
+ymin: -0.19553166356567497
+ymax: -0.13225041356567496
+
+contrast: 1.37
+brightness: 0.04
+saturation: 0.68
+gamma: 1.05
+gamma_r: 0.95
+gamma_g: 0.96
+gamma_b: 0.97
+vignette: 12
+temp: 4885
