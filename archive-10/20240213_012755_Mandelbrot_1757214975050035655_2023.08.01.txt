@@ -1,0 +1,28 @@
+tweet_id: 1757214975050035655
+masto_id: 111921573113599162
+subre_id: Not uploaded, but here's the text: Smile on this lovely day!  #GenerativeArt #VisualArt
+
+n_iter: 248
+ct: 195
+hue_offset: 16
+saturation: -0.28
+
+num_attempts: 54
+dur: 15
+std: 37.62
+size: 1092072 (1.04 MiB)
+
+xmin: 0.3787060409148473
+xmax: 0.38093197302391796
+ymin: -0.2913494900791057
+ymax: -0.29009740326775346
+
+contrast: 0.88
+brightness: 0.16
+saturation: 0.33
+gamma: 1.1
+gamma_r: 0.91
+gamma_g: 1.01
+gamma_b: 1.03
+vignette: -8
+temp: 3922
