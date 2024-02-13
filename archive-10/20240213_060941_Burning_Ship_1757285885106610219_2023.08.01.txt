@@ -1,0 +1,28 @@
+tweet_id: 1757285885106610219
+masto_id: 111922681030975403
+subre_id: Not uploaded, but here's the text: Guess what? It's Burning Ship!  #GenerativeArt #Mathematics
+
+n_iter: 203
+ct: 176
+hue_offset: 61
+saturation: 0.97
+
+num_attempts: 2
+dur: 0
+std: 23.25
+size: 506533 (494.66 KiB)
+
+xmin: -1.6569214662411462
+xmax: -0.15692146624114622
+ymin: -0.9995654825053824
+ymax: -0.15581548250538235
+
+contrast: 1.15
+brightness: 0.1
+saturation: 1.05
+gamma: 1.05
+gamma_r: 1.05
+gamma_g: 1.05
+gamma_b: 1.02
+vignette: 2
+temp: 6686
