@@ -1,0 +1,31 @@
+tweet_id: 1757390236655456739
+masto_id: 111924311630034563
+subre_id: Not uploaded, but here's the text: This Tuesday is made even better by this Newton!  #Fractals #GenerativeArt
+
+newton_power: 6
+newton_const: 0
+
+n_iter: 211
+ct: 152
+hue_offset: 282
+saturation: -0.1
+
+num_attempts: 153
+dur: 600
+std: 3.43
+size: 250211 (244.35 KiB)
+
+xmin: -0.8859429369395304
+xmax: 2.1140570630604696
+ymin: -0.2605446252829735
+ymax: 1.4269553747170265
+
+contrast: 1.32
+brightness: 0.01
+saturation: 0.43
+gamma: 1.07
+gamma_r: 1.03
+gamma_g: 0.98
+gamma_b: 1.01
+vignette: -6
+temp: 5856
