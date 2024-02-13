@@ -1,0 +1,28 @@
+tweet_id: 1757446453491118267
+masto_id: 111925189957726000
+subre_id: Not uploaded, but here's the text: Feeling the Multibrot vibes today!  #VisualArt #MachineLearning
+
+n_iter: 531
+ct: 255
+hue_offset: 2
+saturation: -0.13
+
+num_attempts: 459
+dur: 603
+std: 90.4
+size: 942595 (920.5 KiB)
+
+xmin: -0.28046150809986714
+xmax: -0.27515646831206875
+ymin: -0.7052716145261981
+ymax: -0.7022875296455615
+
+contrast: 1.23
+brightness: 0.19
+saturation: 1.69
+gamma: 0.91
+gamma_r: 0.9
+gamma_g: 0.84
+gamma_b: 0.84
+vignette: 7
+temp: 7195
