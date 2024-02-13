@@ -1,0 +1,28 @@
+tweet_id: 1757527092286369842
+masto_id: 111926449912344517
+subre_id: Not uploaded, but here's the text: Having a blast on Tuesday?  #VisualArt #DeepLearning
+
+n_iter: 246
+ct: 10
+hue_offset: 95
+saturation: -0.15
+
+num_attempts: 10
+dur: 4
+std: 20.6
+size: 307024 (299.83 KiB)
+
+xmin: -1.5705101830399735
+xmax: -1.4767601830399735
+ymin: -0.15352449301111548
+ymax: -0.10079011801111548
+
+contrast: 1.14
+brightness: 0.13
+saturation: 0.61
+gamma: 1.06
+gamma_r: 0.95
+gamma_g: 1.04
+gamma_b: 1.09
+vignette: -1
+temp: 7400
