@@ -1,0 +1,31 @@
+tweet_id: 1757238136210350372
+masto_id: 111921935098856017
+subre_id: Not uploaded, but here's the text: Enjoy your Tuesday!  #Nature #Mathematics
+
+newton_power: 4
+newton_const: -3
+
+n_iter: 191
+ct: 61
+hue_offset: 59
+saturation: -0.87
+
+num_attempts: 252
+dur: 600
+std: 8.0
+size: 877618 (857.05 KiB)
+
+xmin: 1.606426587975056
+xmax: 1.6853739563961088
+ymin: 1.2514906757419317
+ymax: 1.2958985704787738
+
+contrast: 1.06
+brightness: 0.15
+saturation: 0.76
+gamma: 1.09
+gamma_r: 1.01
+gamma_g: 0.93
+gamma_b: 0.97
+vignette: -7
+temp: 6187
