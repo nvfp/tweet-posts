@@ -1,0 +1,28 @@
+tweet_id: 1757384069271138435
+masto_id: 111924215229734337
+subre_id: Not uploaded, but here's the text: Chin up, lovely humans!  #MachineLearning #VisualArt
+
+n_iter: 292
+ct: 98
+hue_offset: 281
+saturation: -0.11
+
+num_attempts: 51
+dur: 14
+std: 62.86
+size: 1192653 (1.14 MiB)
+
+xmin: 0.29540170588978176
+xmax: 0.29723656827510286
+ymin: 0.57296857844115
+ymax: 0.5740006885328931
+
+contrast: 0.8
+brightness: 0.12
+saturation: 0.29
+gamma: 0.93
+gamma_r: 1.07
+gamma_g: 1.03
+gamma_b: 0.92
+vignette: 27
+temp: 3811
