@@ -1,0 +1,28 @@
+tweet_id: 1757472464907776015
+masto_id: 111925596406468183
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Tuesday! You got this!  #MachineLearning #Art
+
+n_iter: 335
+ct: 247
+hue_offset: 17
+saturation: -0.97
+
+num_attempts: 136
+dur: 34
+std: 20.05
+size: 476620 (465.45 KiB)
+
+xmin: -0.7425611597123689
+xmax: -0.7415404911744766
+ymin: 0.19279619167667894
+ymax: 0.19337031772924337
+
+contrast: 1.07
+brightness: -0.09
+saturation: 0.86
+gamma: 1.09
+gamma_r: 1.04
+gamma_g: 0.99
+gamma_b: 0.92
+vignette: -4
+temp: 5533
