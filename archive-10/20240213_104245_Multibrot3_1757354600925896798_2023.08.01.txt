@@ -1,0 +1,28 @@
+tweet_id: 1757354600925896798
+masto_id: 111923754771131773
+subre_id: Not uploaded, but here's the text: Surprise! Multibrot!  #MachineLearning #VisualArt
+
+n_iter: 464
+ct: 1
+hue_offset: 347
+saturation: 0.62
+
+num_attempts: 524
+dur: 603
+std: 71.73
+size: 1177939 (1.12 MiB)
+
+xmin: 0.45388740950440676
+xmax: 0.4588501886607343
+ymin: -0.03851136680512113
+ymax: -0.035719803529686886
+
+contrast: 1.12
+brightness: -0.01
+saturation: 1.05
+gamma: 1.0
+gamma_r: 1.07
+gamma_g: 1.13
+gamma_b: 0.94
+vignette: -12
+temp: 2685
