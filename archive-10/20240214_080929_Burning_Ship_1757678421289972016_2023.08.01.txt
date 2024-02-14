@@ -1,0 +1,28 @@
+tweet_id: 1757678421289972016
+masto_id: 111928814453619977
+subre_id: Not uploaded, but here's the text: Wishing you the best!  #GenerativeArt #Fractals
+
+n_iter: 239
+ct: 85
+hue_offset: 51
+saturation: -0.99
+
+num_attempts: 17
+dur: 4
+std: 32.26
+size: 2361593 (2.25 MiB)
+
+xmin: -0.5975663069662125
+xmax: -0.46899487839478393
+ymin: -0.9748821741468772
+ymax: -0.9025607455754486
+
+contrast: 1.06
+brightness: 0.13
+saturation: 1.54
+gamma: 0.93
+gamma_r: 1.05
+gamma_g: 1.08
+gamma_b: 1.02
+vignette: -20
+temp: 7097
