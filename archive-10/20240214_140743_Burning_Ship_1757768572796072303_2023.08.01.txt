@@ -1,0 +1,28 @@
+tweet_id: 1757768572796072303
+masto_id: 111930223057356234
+subre_id: Not uploaded, but here's the text: Wishing you the best!  #DeepLearning #AI
+
+n_iter: 176
+ct: 217
+hue_offset: 331
+saturation: 0.78
+
+num_attempts: 101
+dur: 25
+std: 28.6
+size: 1778367 (1.7 MiB)
+
+xmin: -0.980381130538748
+xmax: -0.8678811305387479
+ymin: -0.710558570156087
+ymax: -0.6472773201560871
+
+contrast: 0.76
+brightness: 0.13
+saturation: 0.93
+gamma: 0.95
+gamma_r: 1.01
+gamma_g: 0.98
+gamma_b: 1.02
+vignette: -43
+temp: 5489
