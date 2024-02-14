@@ -1,0 +1,28 @@
+tweet_id: 1757804543797023206
+masto_id: 111930785148077200
+subre_id: Not uploaded, but here's the text: Have a great day!  #Mathematics #GenerativeArt
+
+n_iter: 540
+ct: 218
+hue_offset: 184
+saturation: 0.38
+
+num_attempts: 73
+dur: 30
+std: 81.77
+size: 993359 (970.08 KiB)
+
+xmin: -0.5051543752940875
+xmax: -0.5047101282927547
+ymin: -0.52223566516192
+ymax: -0.5219857762236704
+
+contrast: 0.73
+brightness: 0.23
+saturation: 0.79
+gamma: 1.05
+gamma_r: 1.04
+gamma_g: 1.08
+gamma_b: 1.07
+vignette: 10
+temp: 2466
