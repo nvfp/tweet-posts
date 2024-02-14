@@ -1,0 +1,31 @@
+tweet_id: 1757842104871477738
+masto_id: 111931372008005040
+subre_id: Not uploaded, but here's the text: Happy Wednesday! Enjoy the beauty of Newton.  #GenerativeArt #Mathematics
+
+newton_power: 6
+newton_const: 10
+
+n_iter: 244
+ct: 157
+hue_offset: 75
+saturation: -0.71
+
+num_attempts: 187
+dur: 600
+std: 17.9
+size: 940185 (918.15 KiB)
+
+xmin: -1.4442194828930965
+xmax: -1.4350591775495851
+ymin: 1.9203711012793798
+ymax: 1.925523773035105
+
+contrast: 1.75
+brightness: -0.04
+saturation: 0.38
+gamma: 1.09
+gamma_r: 0.97
+gamma_g: 1.09
+gamma_b: 0.95
+vignette: 6
+temp: 7833
