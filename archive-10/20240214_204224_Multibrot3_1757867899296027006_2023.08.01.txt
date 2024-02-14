@@ -1,0 +1,28 @@
+tweet_id: 1757867899296027006
+masto_id: 111931774987300808
+subre_id: Not uploaded, but here's the text: Wishing you a fantastic day!  #MachineLearning #Fractals
+
+n_iter: 287
+ct: 1
+hue_offset: 49
+saturation: -0.66
+
+num_attempts: 858
+dur: 602
+std: 54.17
+size: 812393 (793.35 KiB)
+
+xmin: -0.615777200646584
+xmax: -0.6116105339799174
+ymin: -0.5138005825257271
+ymax: -0.5114568325257272
+
+contrast: 1.62
+brightness: -0.01
+saturation: 1.69
+gamma: 0.91
+gamma_r: 0.82
+gamma_g: 1.05
+gamma_b: 1.0
+vignette: -48
+temp: 7032
