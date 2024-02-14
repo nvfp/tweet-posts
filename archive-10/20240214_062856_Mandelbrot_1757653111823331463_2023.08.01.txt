@@ -1,0 +1,28 @@
+tweet_id: 1757653111823331463
+masto_id: 111928419025366229
+subre_id: Not uploaded, but here's the text: Wow, guess what? it's Mandelbrot Set!  #AI #DigitalArt
+
+n_iter: 963
+ct: 122
+hue_offset: 72
+saturation: 0.27
+
+num_attempts: 23
+dur: 8
+std: 29.41
+size: 1124752 (1.07 MiB)
+
+xmin: -0.3166857946272348
+xmax: -0.31604260440372617
+ymin: 0.6478371287666043
+ymax: 0.6481989232673279
+
+contrast: 1.31
+brightness: 0.01
+saturation: 0.25
+gamma: 0.93
+gamma_r: 0.98
+gamma_g: 0.93
+gamma_b: 0.97
+vignette: -32
+temp: 6346
