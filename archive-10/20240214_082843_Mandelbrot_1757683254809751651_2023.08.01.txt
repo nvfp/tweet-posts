@@ -1,0 +1,28 @@
+tweet_id: 1757683254809751651
+masto_id: 111928890063094315
+subre_id: Not uploaded, but here's the text: This Wednesday is made even better by this Mandelbrot Set!  #DeepLearning #Art
+
+n_iter: 325
+ct: 126
+hue_offset: 329
+saturation: 0.46
+
+num_attempts: 184
+dur: 52
+std: 20.57
+size: 789339 (770.84 KiB)
+
+xmin: 0.37701218551232474
+xmax: 0.3788683340042041
+ymin: -0.2785761467591068
+ymax: -0.2775320632324247
+
+contrast: 1.25
+brightness: 0.09
+saturation: 1.29
+gamma: 1.08
+gamma_r: 0.99
+gamma_g: 0.97
+gamma_b: 1.07
+vignette: -21
+temp: 5033
