@@ -1,0 +1,31 @@
+tweet_id: 1757752670633230359
+masto_id: 111929974895093577
+subre_id: Not uploaded, but here's the text: Hello Wednesday! This Newton is yours!  #MachineLearning #Art
+
+newton_power: 3
+newton_const: 9
+
+n_iter: 153
+ct: 225
+hue_offset: 180
+saturation: 0.62
+
+num_attempts: 517
+dur: 600
+std: 4.5
+size: 585683 (571.96 KiB)
+
+xmin: -0.05143680254305405
+xmax: -0.04345807913879873
+ymin: 0.7937408643852515
+ymax: 0.7982288963001452
+
+contrast: 1.23
+brightness: 0.14
+saturation: 0.36
+gamma: 1.07
+gamma_r: 1.09
+gamma_g: 0.95
+gamma_b: 1.03
+vignette: -17
+temp: 6635
