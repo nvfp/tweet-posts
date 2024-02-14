@@ -1,0 +1,28 @@
+tweet_id: 1757617807699612111
+masto_id: 111927867370502437
+subre_id: Not uploaded, but here's the text: Let's rock this Wednesday!  #DigitalArt #Fractals
+
+n_iter: 405
+ct: 184
+hue_offset: 337
+saturation: 0.3
+
+num_attempts: 4
+dur: 1
+std: 68.06
+size: 1315778 (1.25 MiB)
+
+xmin: -0.6369323755874969
+xmax: -0.5244323755874969
+ymin: -0.7878726591517062
+ymax: -0.7245914091517063
+
+contrast: 1.38
+brightness: -0.03
+saturation: 0.38
+gamma: 1.0
+gamma_r: 0.96
+gamma_g: 1.06
+gamma_b: 1.06
+vignette: -3
+temp: 7418
