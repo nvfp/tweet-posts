@@ -1,0 +1,31 @@
+tweet_id: 1757600573531066593
+masto_id: 111927598164930354
+subre_id: Not uploaded, but here's the text: You rock, and so does this Wednesday!  #Fractals #MachineLearning
+
+newton_power: 5
+newton_const: 4
+
+n_iter: 236
+ct: 175
+hue_offset: 306
+saturation: 0.15
+
+num_attempts: 216
+dur: 600
+std: 13.32
+size: 1054472 (1.01 MiB)
+
+xmin: 0.4414055236270844
+xmax: 0.4940371025744528
+ymin: 1.3862597225916602
+ymax: 1.4158649857495549
+
+contrast: 1.01
+brightness: 0.07
+saturation: 1.64
+gamma: 1.0
+gamma_r: 0.91
+gamma_g: 0.97
+gamma_b: 0.99
+vignette: -22
+temp: 4338
