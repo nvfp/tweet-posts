@@ -1,0 +1,31 @@
+tweet_id: 1757691126281113899
+masto_id: 111929013040085909
+subre_id: Not uploaded, but here's the text: Good Wednesday! This Newton is for you!  #DigitalArt #Art
+
+newton_power: 4
+newton_const: -4
+
+n_iter: 158
+ct: 70
+hue_offset: 49
+saturation: -0.28
+
+num_attempts: 259
+dur: 602
+std: 6.99
+size: 831830 (812.33 KiB)
+
+xmin: 1.440226414511514
+xmax: 1.451215425500525
+ymin: 1.7516651910796388
+ymax: 1.7578465097609575
+
+contrast: 1.18
+brightness: 0.21
+saturation: 1.53
+gamma: 1.05
+gamma_r: 1.05
+gamma_g: 1.05
+gamma_b: 1.09
+vignette: -12
+temp: 7501
