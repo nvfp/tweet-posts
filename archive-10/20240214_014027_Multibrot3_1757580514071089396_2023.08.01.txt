@@ -1,0 +1,28 @@
+tweet_id: 1757580514071089396
+masto_id: 111927284698288367
+subre_id: Not uploaded, but here's the text: you are awesome.  #Mathematics #Fractals
+
+n_iter: 429
+ct: 255
+hue_offset: 280
+saturation: -0.67
+
+num_attempts: 501
+dur: 605
+std: 69.85
+size: 1191998 (1.14 MiB)
+
+xmin: 0.2299872195306305
+xmax: 0.2387784283218393
+ymin: -0.7292177407861514
+ymax: -0.7242726858410965
+
+contrast: 1.41
+brightness: 0.16
+saturation: 0.83
+gamma: 1.02
+gamma_r: 0.97
+gamma_g: 0.85
+gamma_b: 0.86
+vignette: -9
+temp: 6818
