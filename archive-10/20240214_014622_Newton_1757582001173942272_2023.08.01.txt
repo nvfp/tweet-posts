@@ -1,0 +1,31 @@
+tweet_id: 1757582001173942272
+masto_id: 111927307936717330
+subre_id: Not uploaded, but here's the text: Let's rock this Wednesday!  #MachineLearning #GenerativeArt
+
+newton_power: 6
+newton_const: -2
+
+n_iter: 100
+ct: 134
+hue_offset: 106
+saturation: -0.92
+
+num_attempts: 176
+dur: 601
+std: 14.26
+size: 1125332 (1.07 MiB)
+
+xmin: 2.6492711627218606
+xmax: 2.982604496055194
+ymin: -1.7433069050938648
+ymax: -1.5558069050938648
+
+contrast: 0.97
+brightness: -0.1
+saturation: 0.65
+gamma: 0.97
+gamma_r: 0.98
+gamma_g: 1.05
+gamma_b: 0.95
+vignette: 14
+temp: 5065
