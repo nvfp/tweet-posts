@@ -1,0 +1,28 @@
+tweet_id: 1757717004591448256
+masto_id: 111929417325656456
+subre_id: Not uploaded, but here's the text: Look closely, it's Multibrot!  #Art #VisualArt
+
+n_iter: 689
+ct: 1
+hue_offset: 169
+saturation: 0.96
+
+num_attempts: 379
+dur: 607
+std: 87.31
+size: 635103 (620.22 KiB)
+
+xmin: 0.43641969899292876
+xmax: 0.44297707604210906
+ymin: -0.02723963407939145
+ymax: -0.023551109489227517
+
+contrast: 1.79
+brightness: 0.04
+saturation: 0.88
+gamma: 0.93
+gamma_r: 1.19
+gamma_g: 0.86
+gamma_b: 1.0
+vignette: 16
+temp: 3387
