@@ -1,0 +1,31 @@
+tweet_id: 1757902567965901039
+masto_id: 111932316887244584
+subre_id: Not uploaded, but here's the text: Smile!  #MachineLearning #AI
+
+newton_power: 5
+newton_const: 5
+
+n_iter: 88
+ct: 251
+hue_offset: 340
+saturation: 0.74
+
+num_attempts: 203
+dur: 602
+std: 10.13
+size: 948062 (925.84 KiB)
+
+xmin: 1.9380305647670388
+xmax: 1.9511596676116778
+ymin: 0.15059291726038282
+ymax: 0.15797803761049223
+
+contrast: 1.43
+brightness: 0.1
+saturation: 0.54
+gamma: 0.94
+gamma_r: 1.04
+gamma_g: 0.97
+gamma_b: 1.07
+vignette: 22
+temp: 7693
