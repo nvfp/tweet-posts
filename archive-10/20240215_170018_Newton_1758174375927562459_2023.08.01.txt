@@ -1,0 +1,31 @@
+tweet_id: 1758174375927562459
+masto_id: 111936563819705515
+subre_id: Not uploaded, but here's the text: Happy Thursday!  #GenerativeArt #Mathematics
+
+newton_power: 6
+newton_const: -5
+
+n_iter: 67
+ct: 110
+hue_offset: 21
+saturation: -0.64
+
+num_attempts: 173
+dur: 601
+std: 23.68
+size: 906614 (885.37 KiB)
+
+xmin: -0.04274725737510865
+xmax: -0.03412656771993623
+ymin: -0.1798715891590168
+ymax: -0.17502245122798232
+
+contrast: 1.31
+brightness: -0.09
+saturation: 0.46
+gamma: 1.03
+gamma_r: 0.95
+gamma_g: 0.94
+gamma_b: 0.93
+vignette: 26
+temp: 5876
