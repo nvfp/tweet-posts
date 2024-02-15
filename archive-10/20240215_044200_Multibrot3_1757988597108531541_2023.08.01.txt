@@ -1,0 +1,28 @@
+tweet_id: 1757988597108531541
+masto_id: 111933660874640344
+subre_id: Not uploaded, but here's the text: Hope your Thursday is awesome!  #VisualArt #MachineLearning
+
+n_iter: 349
+ct: 1
+hue_offset: 264
+saturation: -0.69
+
+num_attempts: 693
+dur: 605
+std: 52.68
+size: 1039259 (1014.9 KiB)
+
+xmin: 0.049942128124395246
+xmax: 0.06310002286123735
+ymin: -1.1326626882008788
+ymax: -1.1252613724114051
+
+contrast: 1.59
+brightness: -0.06
+saturation: 0.38
+gamma: 1.16
+gamma_r: 0.88
+gamma_g: 1.07
+gamma_b: 0.83
+vignette: 25
+temp: 5277
