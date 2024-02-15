@@ -1,0 +1,28 @@
+tweet_id: 1758101761997345070
+masto_id: 111935429102633681
+subre_id: Not uploaded, but here's the text: Let's make it a memorable Thursday!  #MachineLearning #AI
+
+n_iter: 319
+ct: 55
+hue_offset: 263
+saturation: 0.53
+
+num_attempts: 12
+dur: 5
+std: 33.22
+size: 2221207 (2.12 MiB)
+
+xmin: -0.8843302819898038
+xmax: -0.8105597901865251
+ymin: -0.791286235968967
+ymax: -0.7497903343296227
+
+contrast: 0.79
+brightness: 0.1
+saturation: 1.3
+gamma: 0.97
+gamma_r: 1.09
+gamma_g: 0.94
+gamma_b: 1.07
+vignette: -24
+temp: 2240
