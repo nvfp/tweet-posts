@@ -1,0 +1,28 @@
+tweet_id: 1758079401864901065
+masto_id: 111935079675816905
+subre_id: Not uploaded, but here's the text: Cheers to a fantastic Thursday!  #MachineLearning #DeepLearning
+
+n_iter: 622
+ct: 1
+hue_offset: 113
+saturation: -0.86
+
+num_attempts: 359
+dur: 604
+std: 85.29
+size: 474404 (463.29 KiB)
+
+xmin: -0.23469752108116682
+xmax: -0.2276799772215177
+ymin: 0.7191878131431149
+ymax: 0.7231351815641675
+
+contrast: 1.14
+brightness: -0.08
+saturation: 0.6
+gamma: 0.98
+gamma_r: 1.12
+gamma_g: 1.09
+gamma_b: 1.14
+vignette: 4
+temp: 2189
