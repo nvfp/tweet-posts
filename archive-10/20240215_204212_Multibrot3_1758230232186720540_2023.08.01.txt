@@ -1,0 +1,28 @@
+tweet_id: 1758230232186720540
+masto_id: 111937436507992857
+subre_id: Not uploaded, but here's the text: Another Thursday, another Multibrot!  #Art #DeepLearning
+
+n_iter: 649
+ct: 255
+hue_offset: 350
+saturation: -0.27
+
+num_attempts: 370
+dur: 600
+std: 87.88
+size: 678009 (662.12 KiB)
+
+xmin: -0.4968318938417664
+xmax: -0.490029172753331
+ymin: -0.5952712228801004
+ymax: -0.5914446922678555
+
+contrast: 1.19
+brightness: 0.11
+saturation: 1.28
+gamma: 0.95
+gamma_r: 1.12
+gamma_g: 0.87
+gamma_b: 1.14
+vignette: 5
+temp: 7215
