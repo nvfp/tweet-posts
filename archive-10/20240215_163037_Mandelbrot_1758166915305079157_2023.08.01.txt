@@ -1,0 +1,28 @@
+tweet_id: 1758166915305079157
+masto_id: 111936447258517338
+subre_id: Not uploaded, but here's the text: Thursday vibes!  #DeepLearning #Art
+
+n_iter: 647
+ct: 243
+hue_offset: 286
+saturation: 0.16
+
+num_attempts: 136
+dur: 53
+std: 39.37
+size: 870297 (849.9 KiB)
+
+xmin: 0.009997586193549513
+xmax: 0.010416741595414754
+ymin: -0.6522294654153766
+ymax: -0.6519936905018274
+
+contrast: 1.45
+brightness: -0.02
+saturation: 1.62
+gamma: 0.94
+gamma_r: 1.06
+gamma_g: 1.04
+gamma_b: 0.96
+vignette: -14
+temp: 6408
