@@ -1,0 +1,28 @@
+tweet_id: 1757951405598425180
+masto_id: 111933079739050861
+subre_id: Not uploaded, but here's the text: Another Thursday, another Burning Ship!  #GenerativeArt #MachineLearning
+
+n_iter: 395
+ct: 136
+hue_offset: 180
+saturation: 0.72
+
+num_attempts: 5
+dur: 2
+std: 46.72
+size: 480118 (468.87 KiB)
+
+xmin: -0.9899375674862876
+xmax: -0.23993756748628758
+ymin: -0.8253486711581897
+ymax: -0.40347367115818966
+
+contrast: 1.23
+brightness: 0.0
+saturation: 1.32
+gamma: 0.99
+gamma_r: 1.02
+gamma_g: 0.92
+gamma_b: 1.04
+vignette: 0
+temp: 4725
