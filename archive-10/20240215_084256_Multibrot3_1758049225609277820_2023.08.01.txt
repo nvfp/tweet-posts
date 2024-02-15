@@ -1,0 +1,28 @@
+tweet_id: 1758049225609277820
+masto_id: 111934608268122124
+subre_id: Not uploaded, but here's the text: Enjoy your Thursday!  #MachineLearning #Art
+
+n_iter: 443
+ct: 255
+hue_offset: 70
+saturation: -0.57
+
+num_attempts: 580
+dur: 605
+std: 60.71
+size: 999360 (975.94 KiB)
+
+xmin: 0.5203740830081678
+xmax: 0.5305263672721272
+ymin: -0.42934647174004725
+ymax: -0.4236358118415701
+
+contrast: 1.12
+brightness: -0.07
+saturation: 1.56
+gamma: 1.09
+gamma_r: 1.16
+gamma_g: 0.99
+gamma_b: 0.87
+vignette: 12
+temp: 2592
