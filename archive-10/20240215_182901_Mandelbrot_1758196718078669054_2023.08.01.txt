@@ -1,0 +1,28 @@
+tweet_id: 1758196718078669054
+masto_id: 111936912845604400
+subre_id: Not uploaded, but here's the text: Mandelbrot Set vibes to brighten your Thursday.  #DeepLearning #DigitalArt
+
+n_iter: 307
+ct: 225
+hue_offset: 120
+saturation: 0.84
+
+num_attempts: 78
+dur: 22
+std: 46.19
+size: 1335564 (1.27 MiB)
+
+xmin: -0.7311635048623759
+xmax: -0.7261509735340551
+ymin: 0.23321315489208883
+ymax: 0.23603270376426927
+
+contrast: 1.37
+brightness: 0.1
+saturation: 0.92
+gamma: 0.92
+gamma_r: 1.03
+gamma_g: 0.92
+gamma_b: 1.03
+vignette: 6
+temp: 4052
