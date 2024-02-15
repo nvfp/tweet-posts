@@ -1,0 +1,28 @@
+tweet_id: 1758015856334799248
+masto_id: 111934086909092540
+subre_id: Not uploaded, but here's the text: Smile, it's Thursday!  #Fractals #DeepLearning
+
+n_iter: 1006
+ct: 149
+hue_offset: 181
+saturation: 0.24
+
+num_attempts: 128
+dur: 80
+std: 15.38
+size: 409038 (399.45 KiB)
+
+xmin: -2.75
+xmax: 1.25
+ymin: -1.1239570286494152
+ymax: 1.1260429713505848
+
+contrast: 1.58
+brightness: 0.15
+saturation: 1.17
+gamma: 0.94
+gamma_r: 0.97
+gamma_g: 0.92
+gamma_b: 0.96
+vignette: 8
+temp: 2564
