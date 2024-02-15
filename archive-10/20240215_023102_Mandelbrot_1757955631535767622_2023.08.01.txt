@@ -1,0 +1,28 @@
+tweet_id: 1757955631535767622
+masto_id: 111933145908044566
+subre_id: Not uploaded, but here's the text: Cheers to a fantastic Thursday!  #Art #Fractals
+
+n_iter: 923
+ct: 133
+hue_offset: 130
+saturation: 0.86
+
+num_attempts: 100
+dur: 77
+std: 42.6
+size: 869354 (848.98 KiB)
+
+xmin: -1.143881347937218
+xmax: -1.1432602299247958
+ymin: -0.2689083085688204
+ymax: -0.2685589296868328
+
+contrast: 1.74
+brightness: -0.05
+saturation: 1.32
+gamma: 0.94
+gamma_r: 0.96
+gamma_g: 0.95
+gamma_b: 0.93
+vignette: 8
+temp: 5551
