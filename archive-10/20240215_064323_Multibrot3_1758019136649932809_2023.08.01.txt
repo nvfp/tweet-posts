@@ -1,0 +1,28 @@
+tweet_id: 1758019136649932809
+masto_id: 111934138175505062
+subre_id: Not uploaded, but here's the text: Beautiful Thursday with this Multibrot!  #GenerativeArt #DeepLearning
+
+n_iter: 617
+ct: 255
+hue_offset: 357
+saturation: -0.76
+
+num_attempts: 426
+dur: 603
+std: 76.01
+size: 1136162 (1.08 MiB)
+
+xmin: 0.19411044914669473
+xmax: 0.20498001436408603
+ymin: 0.9162126209376922
+ymax: 0.9223267513724748
+
+contrast: 0.88
+brightness: 0.11
+saturation: 1.08
+gamma: 1.05
+gamma_r: 0.95
+gamma_g: 1.17
+gamma_b: 1.02
+vignette: -21
+temp: 4400
