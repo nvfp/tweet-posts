@@ -1,0 +1,28 @@
+tweet_id: 1758225463657316764
+masto_id: 111937362031496679
+subre_id: Not uploaded, but here's the text: Wishing you a fantastic day!  #Fractals #DeepLearning
+
+n_iter: 850
+ct: 207
+hue_offset: 330
+saturation: 0.4
+
+num_attempts: 52
+dur: 27
+std: 24.19
+size: 684488 (668.45 KiB)
+
+xmin: 0.010549675155467675
+xmax: 0.010977986537842661
+ymin: 0.6644321744998047
+ymax: 0.6646730996523906
+
+contrast: 1.63
+brightness: -0.09
+saturation: 1.4
+gamma: 0.96
+gamma_r: 1.02
+gamma_g: 0.99
+gamma_b: 1.08
+vignette: -2
+temp: 6868
