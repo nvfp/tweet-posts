@@ -1,0 +1,28 @@
+tweet_id: 1758221115535622564
+masto_id: 111937294168690512
+subre_id: Not uploaded, but here's the text: Sending you this fractal on this Thursday!  #AI #Mathematics
+
+n_iter: 491
+ct: 1
+hue_offset: 23
+saturation: -0.84
+
+num_attempts: 6
+dur: 1
+std: 28.84
+size: 1134195 (1.08 MiB)
+
+xmin: 0.30374794163735475
+xmax: 1.4287479416373547
+ymin: -1.5003496455547285
+ymax: -0.8675371455547285
+
+contrast: 1.14
+brightness: 0.11
+saturation: 1.54
+gamma: 1.05
+gamma_r: 1.07
+gamma_g: 1.05
+gamma_b: 0.95
+vignette: -36
+temp: 6225
