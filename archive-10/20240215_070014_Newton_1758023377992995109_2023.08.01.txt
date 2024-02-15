@@ -1,0 +1,31 @@
+tweet_id: 1758023377992995109
+masto_id: 111934204445828444
+subre_id: Not uploaded, but here's the text: How was your day?  #VisualArt #DeepLearning
+
+newton_power: 7
+newton_const: -10
+
+n_iter: 153
+ct: 202
+hue_offset: 349
+saturation: 0.42
+
+num_attempts: 131
+dur: 601
+std: 68.52
+size: 618191 (603.7 KiB)
+
+xmin: -1.0751300913796566
+xmax: -1.0685727143304764
+ymin: 0.0001198510907940431
+ymax: 0.0038083756809579776
+
+contrast: 1.1
+brightness: 0.19
+saturation: 1.21
+gamma: 0.96
+gamma_r: 0.91
+gamma_g: 1.05
+gamma_b: 0.99
+vignette: 33
+temp: 4792
