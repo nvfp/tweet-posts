@@ -1,0 +1,31 @@
+tweet_id: 1758234749452038263
+masto_id: 111937507249117650
+subre_id: Not uploaded, but here's the text: Enjoying the Thursday with this Newton.  #Nature #Mathematics
+
+newton_power: 4
+newton_const: 7
+
+n_iter: 250
+ct: 155
+hue_offset: 208
+saturation: -0.89
+
+num_attempts: 252
+dur: 602
+std: 8.47
+size: 1223387 (1.17 MiB)
+
+xmin: 0.5660409055366187
+xmax: 0.5950264127829955
+ymin: 0.3116229480111077
+ymax: 0.32792729583719465
+
+contrast: 1.67
+brightness: 0.13
+saturation: 0.78
+gamma: 0.95
+gamma_r: 1.01
+gamma_g: 1.08
+gamma_b: 1.0
+vignette: -43
+temp: 6147
