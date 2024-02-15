@@ -1,0 +1,28 @@
+tweet_id: 1758112248114130955
+masto_id: 111935593040507979
+subre_id: Not uploaded, but here's the text: Warm wishes for your Thursday, and let's have a look at this Multibrot.  #Art #VisualArt
+
+n_iter: 630
+ct: 255
+hue_offset: 38
+saturation: 0.2
+
+num_attempts: 380
+dur: 606
+std: 90.83
+size: 1004660 (981.11 KiB)
+
+xmin: 0.5482938157996475
+xmax: 0.5523260738641637
+ymin: 0.2063846350072922
+ymax: 0.20865278016858252
+
+contrast: 1.15
+brightness: 0.05
+saturation: 1.41
+gamma: 1.09
+gamma_r: 1.01
+gamma_g: 0.84
+gamma_b: 1.02
+vignette: 26
+temp: 7540
