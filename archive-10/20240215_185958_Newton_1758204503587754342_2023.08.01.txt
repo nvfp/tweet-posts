@@ -1,0 +1,31 @@
+tweet_id: 1758204503587754342
+masto_id: 111937034534053957
+subre_id: Not uploaded, but here's the text: Look what we have here! it's Newton!  #MachineLearning #AI
+
+newton_power: 4
+newton_const: -5
+
+n_iter: 148
+ct: 138
+hue_offset: 15
+saturation: 0.3
+
+num_attempts: 249
+dur: 601
+std: 7.28
+size: 926260 (904.55 KiB)
+
+xmin: -0.9846601317182708
+xmax: -0.9291045761627152
+ymin: 1.311285295685408
+ymax: 1.342535295685408
+
+contrast: 1.05
+brightness: 0.11
+saturation: 0.59
+gamma: 1.07
+gamma_r: 1.04
+gamma_g: 1.03
+gamma_b: 0.95
+vignette: -37
+temp: 5215
