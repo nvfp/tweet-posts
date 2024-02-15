@@ -1,0 +1,31 @@
+tweet_id: 1758115032930652476
+masto_id: 111935636631943364
+subre_id: Not uploaded, but here's the text: you are awesome.  #DeepLearning #Nature
+
+newton_power: 5
+newton_const: -5
+
+n_iter: 132
+ct: 240
+hue_offset: 221
+saturation: 0.57
+
+num_attempts: 208
+dur: 601
+std: 14.08
+size: 716068 (699.29 KiB)
+
+xmin: 2.237325924387073
+xmax: 2.5706592577204064
+ymin: -1.9459389944437082
+ymax: -1.7584389944437082
+
+contrast: 1.35
+brightness: 0.18
+saturation: 0.55
+gamma: 0.95
+gamma_r: 1.08
+gamma_g: 0.94
+gamma_b: 0.94
+vignette: 8
+temp: 2976
