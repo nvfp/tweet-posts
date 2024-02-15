@@ -1,0 +1,28 @@
+tweet_id: 1758130569429254325
+masto_id: 111935879260602796
+subre_id: Not uploaded, but here's the text: Look closely, it's Burning Ship!  #GenerativeArt #MachineLearning
+
+n_iter: 468
+ct: 98
+hue_offset: 220
+saturation: -0.81
+
+num_attempts: 1
+dur: 0
+std: 56.68
+size: 1649121 (1.57 MiB)
+
+xmin: -1.4464401101456046
+xmax: -1.3646219283274228
+ymin: -0.30800268333435143
+ymax: -0.26197995606162416
+
+contrast: 1.68
+brightness: 0.08
+saturation: 1.71
+gamma: 0.93
+gamma_r: 1.02
+gamma_g: 1.05
+gamma_b: 1.01
+vignette: 4
+temp: 4926
