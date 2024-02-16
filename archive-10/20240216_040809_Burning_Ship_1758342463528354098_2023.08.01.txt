@@ -1,0 +1,28 @@
+tweet_id: 1758342463528354098
+masto_id: 111939190085563109
+subre_id: Not uploaded, but here's the text: Have an awesome day!  #Nature #VisualArt
+
+n_iter: 200
+ct: 144
+hue_offset: 326
+saturation: 0.55
+
+num_attempts: 69
+dur: 10
+std: 25.12
+size: 1875672 (1.79 MiB)
+
+xmin: -0.8354233244851073
+xmax: -0.7520899911517739
+ymin: -0.9891742309707092
+ymax: -0.9422992309707092
+
+contrast: 0.88
+brightness: 0.21
+saturation: 1.06
+gamma: 0.96
+gamma_r: 1.07
+gamma_g: 0.91
+gamma_b: 1.06
+vignette: -26
+temp: 2427
