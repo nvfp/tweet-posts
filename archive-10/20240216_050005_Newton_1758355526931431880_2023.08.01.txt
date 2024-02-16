@@ -1,0 +1,31 @@
+tweet_id: 1758355526931431880
+masto_id: 111939394305898752
+subre_id: Not uploaded, but here's the text: How's your day?  #Mathematics #MachineLearning
+
+newton_power: 6
+newton_const: -3
+
+n_iter: 116
+ct: 149
+hue_offset: 22
+saturation: -0.85
+
+num_attempts: 182
+dur: 608
+std: 15.72
+size: 1447412 (1.38 MiB)
+
+xmin: 0.28099727292594556
+xmax: 0.28945989633920366
+ymin: -0.7538423468360615
+ymax: -0.7490821211661038
+
+contrast: 0.99
+brightness: 0.16
+saturation: 1.01
+gamma: 0.96
+gamma_r: 0.99
+gamma_g: 1.03
+gamma_b: 1.02
+vignette: -40
+temp: 5865
