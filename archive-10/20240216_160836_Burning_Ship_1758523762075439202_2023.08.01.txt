@@ -1,0 +1,28 @@
+tweet_id: 1758523762075439202
+masto_id: 111942022985090507
+subre_id: Not uploaded, but here's the text: Shine bright like the sun on this Friday!  #DeepLearning #VisualArt
+
+n_iter: 387
+ct: 149
+hue_offset: 145
+saturation: -0.44
+
+num_attempts: 2
+dur: 1
+std: 39.97
+size: 806857 (787.95 KiB)
+
+xmin: -1.3851702733354614
+xmax: 0.11482972666453861
+ymin: -1.1110079397581702
+ymax: -0.26725793975817025
+
+contrast: 1.64
+brightness: 0.2
+saturation: 0.65
+gamma: 1.06
+gamma_r: 1.05
+gamma_g: 0.91
+gamma_b: 1.07
+vignette: -25
+temp: 2552
