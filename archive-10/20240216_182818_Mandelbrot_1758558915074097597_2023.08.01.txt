@@ -1,0 +1,28 @@
+tweet_id: 1758558915074097597
+masto_id: 111942572305523632
+subre_id: Not uploaded, but here's the text: You rock, and so does this Friday!  #DeepLearning #MachineLearning
+
+n_iter: 907
+ct: 59
+hue_offset: 147
+saturation: -0.35
+
+num_attempts: 26
+dur: 11
+std: 47.48
+size: 967149 (944.48 KiB)
+
+xmin: 0.38597563001987734
+xmax: 0.3864739481960328
+ymin: 0.19947592906246236
+ymax: 0.19975623303654982
+
+contrast: 0.87
+brightness: -0.03
+saturation: 1.67
+gamma: 1.05
+gamma_r: 0.96
+gamma_g: 1.0
+gamma_b: 1.01
+vignette: 22
+temp: 2540
