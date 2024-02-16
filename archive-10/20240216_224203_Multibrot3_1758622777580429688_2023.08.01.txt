@@ -1,0 +1,28 @@
+tweet_id: 1758622777580429688
+masto_id: 111943570135003775
+subre_id: Not uploaded, but here's the text: Smile on this lovely day!  #MachineLearning #DeepLearning
+
+n_iter: 570
+ct: 1
+hue_offset: 51
+saturation: 0.38
+
+num_attempts: 343
+dur: 607
+std: 81.18
+size: 1258003 (1.2 MiB)
+
+xmin: 0.09656925347251466
+xmax: 0.10066761412825237
+ymin: 1.1284826226374194
+ymax: 1.130787950506272
+
+contrast: 0.92
+brightness: 0.21
+saturation: 1.71
+gamma: 1.0
+gamma_r: 1.04
+gamma_g: 1.05
+gamma_b: 1.05
+vignette: -33
+temp: 4327
