@@ -1,0 +1,28 @@
+tweet_id: 1758619123372953968
+masto_id: FAIL
+subre_id: Not uploaded, but here's the text: A great Friday and a beautiful Mandelbrot Set.  #VisualArt #AI
+
+n_iter: 908
+ct: 40
+hue_offset: 292
+saturation: 0.84
+
+num_attempts: 55
+dur: 32
+std: 83.91
+size: 1710333 (1.63 MiB)
+
+xmin: -0.2847095433878799
+xmax: -0.28072547964286
+ymin: 0.6425303105517759
+ymax: 0.6447713464083497
+
+contrast: 1.71
+brightness: 0.13
+saturation: 1.29
+gamma: 1.03
+gamma_r: 1.07
+gamma_g: 1.03
+gamma_b: 0.94
+vignette: 21
+temp: 7711
