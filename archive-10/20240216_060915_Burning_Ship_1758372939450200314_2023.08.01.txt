@@ -1,0 +1,28 @@
+tweet_id: 1758372939450200314
+masto_id: 111939666261238767
+subre_id: Not uploaded, but here's the text: Having a blast on Friday?  #Fractals #DeepLearning
+
+n_iter: 136
+ct: 51
+hue_offset: 30
+saturation: -0.08
+
+num_attempts: 37
+dur: 7
+std: 21.29
+size: 1922908 (1.83 MiB)
+
+xmin: -1.4006361944281682
+xmax: -1.3381361944281682
+ymin: -0.3526644854132981
+ymax: -0.3175082354132981
+
+contrast: 1.63
+brightness: 0.07
+saturation: 1.44
+gamma: 0.98
+gamma_r: 0.96
+gamma_g: 1.03
+gamma_b: 1.01
+vignette: 19
+temp: 7955
