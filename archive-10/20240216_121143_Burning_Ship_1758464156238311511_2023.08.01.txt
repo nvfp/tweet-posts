@@ -1,0 +1,28 @@
+tweet_id: 1758464156238311511
+masto_id: 111941091572947231
+subre_id: Not uploaded, but here's the text: Friday vibes!  #Art #AI
+
+n_iter: 331
+ct: 101
+hue_offset: 190
+saturation: -0.04
+
+num_attempts: 10
+dur: 4
+std: 52.94
+size: 2429973 (2.32 MiB)
+
+xmin: -0.7906890873420975
+xmax: -0.742301990567904
+ymin: -0.7108279305235847
+ymax: -0.6836101885881009
+
+contrast: 1.44
+brightness: 0.18
+saturation: 1.66
+gamma: 1.08
+gamma_r: 1.09
+gamma_g: 1.03
+gamma_b: 1.04
+vignette: -48
+temp: 6943
