@@ -1,0 +1,28 @@
+tweet_id: 1758347248688414949
+masto_id: 111939264946172935
+subre_id: Not uploaded, but here's the text: Guess what? It's Mandelbrot Set!  #Nature #AI
+
+n_iter: 180
+ct: 254
+hue_offset: 203
+saturation: -0.26
+
+num_attempts: 18
+dur: 4
+std: 25.39
+size: 834749 (815.18 KiB)
+
+xmin: -0.7195041754284839
+xmax: -0.7186531115986966
+ymin: 0.30091904293818383
+ymax: 0.30139776634243914
+
+contrast: 0.88
+brightness: 0.15
+saturation: 0.48
+gamma: 1.08
+gamma_r: 0.98
+gamma_g: 0.98
+gamma_b: 0.92
+vignette: 33
+temp: 3378
