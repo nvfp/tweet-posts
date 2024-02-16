@@ -1,0 +1,28 @@
+tweet_id: 1758304974411280857
+masto_id: 111938604279494409
+subre_id: Not uploaded, but here's the text: A great Friday and a beautiful Multibrot.  #DeepLearning #DigitalArt
+
+n_iter: 392
+ct: 1
+hue_offset: 197
+saturation: -0.6
+
+num_attempts: 584
+dur: 605
+std: 59.55
+size: 557230 (544.17 KiB)
+
+xmin: -0.24512160336777322
+xmax: -0.23866999046454743
+ymin: 0.7184282335542909
+ymax: 0.7220572658123554
+
+contrast: 1.45
+brightness: 0.08
+saturation: 1.25
+gamma: 0.83
+gamma_r: 1.19
+gamma_g: 1.18
+gamma_b: 0.89
+vignette: -45
+temp: 3981
