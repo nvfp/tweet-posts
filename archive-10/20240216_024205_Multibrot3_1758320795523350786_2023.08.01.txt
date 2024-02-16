@@ -1,0 +1,28 @@
+tweet_id: 1758320795523350786
+masto_id: 111938851593948589
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Friday!  #Nature #DeepLearning
+
+n_iter: 593
+ct: 1
+hue_offset: 252
+saturation: 0.57
+
+num_attempts: 408
+dur: 608
+std: 51.18
+size: 1149515 (1.1 MiB)
+
+xmin: -0.5512699264384977
+xmax: -0.5392217336674133
+ymin: 0.632309583285493
+ymax: 0.6390866917192279
+
+contrast: 1.65
+brightness: 0.1
+saturation: 1.35
+gamma: 1.04
+gamma_r: 1.07
+gamma_g: 0.96
+gamma_b: 1.2
+vignette: -43
+temp: 5413
