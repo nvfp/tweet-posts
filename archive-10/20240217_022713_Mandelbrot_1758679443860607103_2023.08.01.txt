@@ -1,0 +1,28 @@
+tweet_id: 1758679443860607103
+masto_id: 111944455504802669
+subre_id: Not uploaded, but here's the text: Saturday is shining brightly, just like this Mandelbrot Set.  #Fractals #DigitalArt
+
+n_iter: 587
+ct: 178
+hue_offset: 166
+saturation: -0.61
+
+num_attempts: 15
+dur: 8
+std: 110.73
+size: 1497959 (1.43 MiB)
+
+xmin: -0.20683342890956924
+xmax: -0.20451458832985908
+ymin: -0.6874770442585987
+ymax: -0.6861726964325118
+
+contrast: 1.5
+brightness: 0.17
+saturation: 0.89
+gamma: 0.92
+gamma_r: 1.07
+gamma_g: 1.06
+gamma_b: 0.99
+vignette: -5
+temp: 2840
