@@ -1,0 +1,31 @@
+tweet_id: 1758929299883896878
+masto_id: 111948359554734347
+subre_id: Not uploaded, but here's the text: Let's make it a memorable Saturday!  #MachineLearning #GenerativeArt
+
+newton_power: 6
+newton_const: 3
+
+n_iter: 65
+ct: 206
+hue_offset: 285
+saturation: -0.82
+
+num_attempts: 198
+dur: 603
+std: 12.64
+size: 1189614 (1.13 MiB)
+
+xmin: -0.9929459054631113
+xmax: -0.9652961358778579
+ymin: 1.5638767420296809
+ymax: 1.579429737421386
+
+contrast: 1.43
+brightness: -0.02
+saturation: 1.36
+gamma: 1.02
+gamma_r: 1.01
+gamma_g: 0.96
+gamma_b: 1.03
+vignette: 15
+temp: 5609
