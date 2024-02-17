@@ -1,0 +1,31 @@
+tweet_id: 1758808487679639983
+masto_id: 111946471865314546
+subre_id: Not uploaded, but here's the text: Hey there, it's Saturday!  #GenerativeArt #Nature
+
+newton_power: 7
+newton_const: -8
+
+n_iter: 218
+ct: 225
+hue_offset: 14
+saturation: 0.67
+
+num_attempts: 168
+dur: 606
+std: 25.02
+size: 748691 (731.14 KiB)
+
+xmin: -1.5269186439255429
+xmax: -1.451918643925543
+ymin: 1.7880155785766525
+ymax: 1.8302030785766525
+
+contrast: 1.29
+brightness: -0.04
+saturation: 0.36
+gamma: 0.95
+gamma_r: 1.05
+gamma_g: 0.91
+gamma_b: 0.96
+vignette: 7
+temp: 3790
