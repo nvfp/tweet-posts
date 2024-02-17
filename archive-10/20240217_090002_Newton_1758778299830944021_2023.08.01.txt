@@ -1,0 +1,31 @@
+tweet_id: 1758778299830944021
+masto_id: 111946000138100292
+subre_id: Not uploaded, but here's the text: Warm wishes for your Saturday, and let's have a look at this Newton.  #MachineLearning #Nature
+
+newton_power: 7
+newton_const: -9
+
+n_iter: 209
+ct: 94
+hue_offset: 10
+saturation: -0.84
+
+num_attempts: 139
+dur: 600
+std: 25.95
+size: 1261474 (1.2 MiB)
+
+xmin: 1.8175875716505185
+xmax: 1.8663680594553966
+ymin: 0.853283837778835
+ymax: 0.8807228621690789
+
+contrast: 1.22
+brightness: 0.02
+saturation: 0.57
+gamma: 1.01
+gamma_r: 0.97
+gamma_g: 0.94
+gamma_b: 0.91
+vignette: 11
+temp: 4822
