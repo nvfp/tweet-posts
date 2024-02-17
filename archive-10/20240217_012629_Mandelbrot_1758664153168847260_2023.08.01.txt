@@ -1,0 +1,28 @@
+tweet_id: 1758664153168847260
+masto_id: 111944216671043870
+subre_id: Not uploaded, but here's the text: you are awesome.  #AI #MachineLearning
+
+n_iter: 814
+ct: 12
+hue_offset: 255
+saturation: 0.3
+
+num_attempts: 28
+dur: 14
+std: 33.66
+size: 921938 (900.33 KiB)
+
+xmin: -1.5968784457472576
+xmax: -1.1968784457472577
+ymin: -0.07981256914636359
+ymax: 0.14518743085363642
+
+contrast: 0.73
+brightness: -0.09
+saturation: 1.18
+gamma: 0.95
+gamma_r: 1.09
+gamma_g: 0.94
+gamma_b: 0.95
+vignette: -26
+temp: 4234
