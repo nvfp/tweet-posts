@@ -1,0 +1,28 @@
+tweet_id: 1758921033543798808
+masto_id: 111948230288463888
+subre_id: Not uploaded, but here's the text: Hope your Saturday is awesome!  #Fractals #AI
+
+n_iter: 856
+ct: 137
+hue_offset: 346
+saturation: 0.63
+
+num_attempts: 103
+dur: 61
+std: 134.75
+size: 2368862 (2.26 MiB)
+
+xmin: 0.06140247047564529
+xmax: 0.06229274423482624
+ymin: -0.6210963037775342
+ymax: -0.620595524787995
+
+contrast: 1.14
+brightness: 0.2
+saturation: 1.26
+gamma: 1.09
+gamma_r: 0.93
+gamma_g: 1.07
+gamma_b: 1.01
+vignette: -33
+temp: 4219
