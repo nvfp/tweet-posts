@@ -1,0 +1,28 @@
+tweet_id: 1758864423039418614
+masto_id: 111947345713833687
+subre_id: Not uploaded, but here's the text: Have an extraordinary Saturday!  #GenerativeArt #VisualArt
+
+n_iter: 507
+ct: 255
+hue_offset: 335
+saturation: 0.31
+
+num_attempts: 489
+dur: 603
+std: 78.0
+size: 811516 (792.5 KiB)
+
+xmin: 0.0706301063222563
+xmax: 0.07695922024630694
+ymin: 1.125256763159157
+ymax: 1.1288168897414355
+
+contrast: 1.66
+brightness: -0.01
+saturation: 1.21
+gamma: 1.06
+gamma_r: 1.09
+gamma_g: 1.02
+gamma_b: 0.97
+vignette: -18
+temp: 6421
