@@ -1,0 +1,28 @@
+tweet_id: 1758855286079607072
+masto_id: 111947202983296020
+subre_id: Not uploaded, but here's the text: Hello Saturday! This Burning Ship is yours!  #DigitalArt #AI
+
+n_iter: 136
+ct: 233
+hue_offset: 270
+saturation: -0.16
+
+num_attempts: 13
+dur: 2
+std: 20.99
+size: 1647716 (1.57 MiB)
+
+xmin: -0.5469488247542049
+xmax: -0.49803578127594406
+ymin: -1.0007316154166428
+ymax: -0.9732180284601211
+
+contrast: 0.91
+brightness: 0.02
+saturation: 0.71
+gamma: 1.0
+gamma_r: 0.97
+gamma_g: 1.02
+gamma_b: 0.96
+vignette: -30
+temp: 3106
