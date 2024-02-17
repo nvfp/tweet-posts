@@ -1,0 +1,28 @@
+tweet_id: 1758924780122575194
+masto_id: 111948288917816399
+subre_id: Not uploaded, but here's the text: Hey wait, look! it's Multibrot!  #AI #DeepLearning
+
+n_iter: 353
+ct: 1
+hue_offset: 310
+saturation: -0.72
+
+num_attempts: 662
+dur: 604
+std: 51.24
+size: 1168681 (1.11 MiB)
+
+xmin: 0.41543692386390285
+xmax: 0.41988631207302407
+ymin: -0.009781871396569386
+ymax: -0.007279090528938685
+
+contrast: 1.45
+brightness: -0.09
+saturation: 1.07
+gamma: 1.18
+gamma_r: 1.19
+gamma_g: 1.02
+gamma_b: 1.0
+vignette: -29
+temp: 7041
