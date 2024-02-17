@@ -1,0 +1,28 @@
+tweet_id: 1758886131456995407
+masto_id: 111947684957335375
+subre_id: Not uploaded, but here's the text: Smile, it's Saturday!  #GenerativeArt #MachineLearning
+
+n_iter: 154
+ct: 114
+hue_offset: 128
+saturation: 0.95
+
+num_attempts: 45
+dur: 8
+std: 23.59
+size: 1057752 (1.01 MiB)
+
+xmin: 0.5071420419980472
+xmax: 0.6321420419980472
+ymin: -1.157143580459008
+ymax: -1.086831080459008
+
+contrast: 1.78
+brightness: 0.0
+saturation: 0.46
+gamma: 0.94
+gamma_r: 0.92
+gamma_g: 1.02
+gamma_b: 0.97
+vignette: -31
+temp: 5255
