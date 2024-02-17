@@ -1,0 +1,31 @@
+tweet_id: 1758868886550609925
+masto_id: 111947415633740847
+subre_id: Not uploaded, but here's the text: Hope your Saturday is awesome!  #DigitalArt #AI
+
+newton_power: 6
+newton_const: 7
+
+n_iter: 73
+ct: 242
+hue_offset: 82
+saturation: -0.47
+
+num_attempts: 179
+dur: 600
+std: 27.21
+size: 741318 (723.94 KiB)
+
+xmin: 1.0607644904509659
+xmax: 1.081743511429987
+ymin: -0.024660012483639804
+ymax: -0.012859313182940502
+
+contrast: 1.72
+brightness: -0.01
+saturation: 1.23
+gamma: 0.92
+gamma_r: 0.93
+gamma_g: 1.05
+gamma_b: 0.96
+vignette: -33
+temp: 6125
