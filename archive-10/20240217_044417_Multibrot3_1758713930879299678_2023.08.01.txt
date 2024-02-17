@@ -1,0 +1,28 @@
+tweet_id: 1758713930879299678
+masto_id: 111944994476840933
+subre_id: Not uploaded, but here's the text: Look closely, it's Multibrot!  #MachineLearning #VisualArt
+
+n_iter: 501
+ct: 255
+hue_offset: 30
+saturation: -0.52
+
+num_attempts: 414
+dur: 602
+std: 72.04
+size: 1032384 (1008.19 KiB)
+
+xmin: 0.07184693185309143
+xmax: 0.0785135985197581
+ymin: -1.128595493480772
+ymax: -1.1248454934807721
+
+contrast: 0.7
+brightness: -0.02
+saturation: 1.07
+gamma: 0.84
+gamma_r: 1.16
+gamma_g: 0.85
+gamma_b: 1.13
+vignette: -30
+temp: 3458
