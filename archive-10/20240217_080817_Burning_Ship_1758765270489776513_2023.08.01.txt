@@ -1,0 +1,28 @@
+tweet_id: 1758765270489776513
+masto_id: 111945796638831399
+subre_id: Not uploaded, but here's the text: Let's rock this Saturday!  #DigitalArt #Fractals
+
+n_iter: 445
+ct: 133
+hue_offset: 298
+saturation: 0.91
+
+num_attempts: 9
+dur: 3
+std: 28.52
+size: 723412 (706.46 KiB)
+
+xmin: -0.651031328375451
+xmax: 0.09896867162454903
+ymin: -1.4356827323686325
+ymax: -1.0138077323686325
+
+contrast: 1.08
+brightness: -0.05
+saturation: 1.6
+gamma: 0.92
+gamma_r: 0.95
+gamma_g: 0.92
+gamma_b: 0.96
+vignette: -17
+temp: 4824
