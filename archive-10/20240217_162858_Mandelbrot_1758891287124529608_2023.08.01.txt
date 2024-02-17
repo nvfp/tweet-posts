@@ -1,0 +1,28 @@
+tweet_id: 1758891287124529608
+masto_id: 111947765417227537
+subre_id: Not uploaded, but here's the text: Having a blast on Saturday?  #AI #Fractals
+
+n_iter: 564
+ct: 78
+hue_offset: 342
+saturation: 0.22
+
+num_attempts: 76
+dur: 27
+std: 23.95
+size: 110159 (107.58 KiB)
+
+xmin: -0.924376018224669
+xmax: -0.7577093515580023
+ymin: 0.042863237160753576
+ymax: 0.13661323716075358
+
+contrast: 1.76
+brightness: 0.07
+saturation: 1.25
+gamma: 1.01
+gamma_r: 1.04
+gamma_g: 1.01
+gamma_b: 1.09
+vignette: -22
+temp: 2966
