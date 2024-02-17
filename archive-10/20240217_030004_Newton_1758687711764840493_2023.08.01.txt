@@ -1,0 +1,31 @@
+tweet_id: 1758687711764840493
+masto_id: 111944584663957966
+subre_id: Not uploaded, but here's the text: Hope you're having a great Saturday!  #GenerativeArt #Nature
+
+newton_power: 6
+newton_const: 10
+
+n_iter: 103
+ct: 60
+hue_offset: 290
+saturation: 0.38
+
+num_attempts: 185
+dur: 600
+std: 19.88
+size: 1040383 (1016.0 KiB)
+
+xmin: 0.1499191202611847
+xmax: 0.1571480359238353
+ymin: -0.0035151449728541007
+ymax: 0.0005511200873868629
+
+contrast: 0.82
+brightness: -0.02
+saturation: 0.29
+gamma: 0.98
+gamma_r: 1.01
+gamma_g: 1.01
+gamma_b: 1.08
+vignette: -11
+temp: 6450
