@@ -1,0 +1,28 @@
+tweet_id: 1759067200067981661
+masto_id: 111950514159037173
+subre_id: Not uploaded, but here's the text: Let this Burning Ship inspire your Sunday.  #GenerativeArt #Mathematics
+
+n_iter: 250
+ct: 102
+hue_offset: 119
+saturation: -0.32
+
+num_attempts: 6
+dur: 2
+std: 40.11
+size: 1708893 (1.63 MiB)
+
+xmin: -0.29356534385904043
+xmax: -0.23192150824260208
+ymin: -0.9701393443867754
+ymax: -0.9354646868525288
+
+contrast: 0.82
+brightness: 0.04
+saturation: 1.72
+gamma: 1.04
+gamma_r: 1.05
+gamma_g: 0.96
+gamma_b: 1.08
+vignette: 3
+temp: 4556
