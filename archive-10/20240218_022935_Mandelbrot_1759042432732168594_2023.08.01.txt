@@ -1,0 +1,28 @@
+tweet_id: 1759042432732168594
+masto_id: 111950127108653417
+subre_id: Not uploaded, but here's the text: Feeling the Mandelbrot Set vibes today!  #DeepLearning #Nature
+
+n_iter: 706
+ct: 27
+hue_offset: 18
+saturation: -0.75
+
+num_attempts: 9
+dur: 5
+std: 53.75
+size: 220989 (215.81 KiB)
+
+xmin: 0.30422542096007454
+xmax: 0.3236428966882299
+ymin: 0.548268970587501
+ymax: 0.5591913006845884
+
+contrast: 1.2
+brightness: 0.01
+saturation: 0.49
+gamma: 0.91
+gamma_r: 0.98
+gamma_g: 1.06
+gamma_b: 0.98
+vignette: 12
+temp: 5820
