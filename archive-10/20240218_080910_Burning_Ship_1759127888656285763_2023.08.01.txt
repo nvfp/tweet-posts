@@ -1,0 +1,28 @@
+tweet_id: 1759127888656285763
+masto_id: FAIL
+subre_id: Not uploaded, but here's the text: Having a blast on Sunday?  #DeepLearning #Art
+
+n_iter: 389
+ct: 82
+hue_offset: 269
+saturation: -0.93
+
+num_attempts: 23
+dur: 11
+std: 25.6
+size: 755591 (737.88 KiB)
+
+xmin: -2.038163700804189
+xmax: -1.138163700804189
+ymin: -0.3572727814773555
+ymax: 0.14897721852264445
+
+contrast: 1.1
+brightness: 0.22
+saturation: 1.12
+gamma: 1.06
+gamma_r: 1.09
+gamma_g: 1.09
+gamma_b: 0.99
+vignette: -13
+temp: 6848
