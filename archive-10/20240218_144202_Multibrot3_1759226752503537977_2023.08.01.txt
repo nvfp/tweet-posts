@@ -1,0 +1,28 @@
+tweet_id: 1759226752503537977
+masto_id: 111953007245000016
+subre_id: Not uploaded, but here's the text: you are fantastic!  #DigitalArt #DeepLearning
+
+n_iter: 701
+ct: 255
+hue_offset: 82
+saturation: 0.35
+
+num_attempts: 367
+dur: 605
+std: 109.65
+size: 1375978 (1.31 MiB)
+
+xmin: 0.3052911853055442
+xmax: 0.3099315565352426
+ymin: -0.6860528749790019
+ymax: -0.6834426661622965
+
+contrast: 1.05
+brightness: -0.08
+saturation: 0.34
+gamma: 1.14
+gamma_r: 1.03
+gamma_g: 1.19
+gamma_b: 1.16
+vignette: -21
+temp: 3621
