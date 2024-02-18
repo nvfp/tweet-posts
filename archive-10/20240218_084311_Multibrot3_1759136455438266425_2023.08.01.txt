@@ -1,0 +1,28 @@
+tweet_id: 1759136455438266425
+masto_id: FAIL
+subre_id: Not uploaded, but here's the text: You are lovely!  #GenerativeArt #Nature
+
+n_iter: 436
+ct: 1
+hue_offset: 21
+saturation: 0.02
+
+num_attempts: 533
+dur: 600
+std: 70.46
+size: 1482357 (1.41 MiB)
+
+xmin: -0.2209912725801395
+xmax: -0.21639357143071422
+ymin: -0.7377418271128752
+ymax: -0.7351556202163234
+
+contrast: 1.28
+brightness: 0.18
+saturation: 1.32
+gamma: 0.93
+gamma_r: 1.04
+gamma_g: 1.18
+gamma_b: 0.89
+vignette: 23
+temp: 7358
