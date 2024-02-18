@@ -1,0 +1,28 @@
+tweet_id: 1759097680834298242
+masto_id: 111950990554917718
+subre_id: Not uploaded, but here's the text: Good Sunday! This Burning Ship is for you!  #AI #Nature
+
+n_iter: 492
+ct: 77
+hue_offset: 329
+saturation: -0.28
+
+num_attempts: 11
+dur: 6
+std: 20.94
+size: 617604 (603.13 KiB)
+
+xmin: -1.7253100709470788
+xmax: -1.082452928089936
+ymin: -0.7487778356703545
+ymax: -0.3871706928132116
+
+contrast: 0.85
+brightness: 0.01
+saturation: 0.62
+gamma: 1.04
+gamma_r: 1.08
+gamma_g: 0.96
+gamma_b: 0.94
+vignette: -18
+temp: 5101
