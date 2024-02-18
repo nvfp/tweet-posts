@@ -1,0 +1,28 @@
+tweet_id: 1759312792232808448
+masto_id: 111954351569113652
+subre_id: Not uploaded, but here's the text: Hope your Sunday is awesome!  #Art #VisualArt
+
+n_iter: 586
+ct: 175
+hue_offset: 280
+saturation: 0.72
+
+num_attempts: 85
+dur: 27
+std: 89.01
+size: 1532314 (1.46 MiB)
+
+xmin: -0.1812077899637825
+xmax: -0.17874321818312938
+ymin: -0.8243843409141813
+ymax: -0.822998019287564
+
+contrast: 1.56
+brightness: 0.06
+saturation: 0.72
+gamma: 1.0
+gamma_r: 1.01
+gamma_g: 1.01
+gamma_b: 0.97
+vignette: 16
+temp: 5538
