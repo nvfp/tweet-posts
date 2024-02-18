@@ -1,0 +1,28 @@
+tweet_id: 1759162912826855495
+masto_id: 111952009778830332
+subre_id: Not uploaded, but here's the text: Brighten your Sunday!  #GenerativeArt #MachineLearning
+
+n_iter: 131
+ct: 162
+hue_offset: 177
+saturation: 0.12
+
+num_attempts: 78
+dur: 14
+std: 17.6
+size: 545116 (532.34 KiB)
+
+xmin: -0.9891374420280974
+xmax: -0.984737001984093
+ymin: -0.286782229163248
+ymax: -0.28430698163849555
+
+contrast: 0.71
+brightness: -0.1
+saturation: 1.15
+gamma: 0.95
+gamma_r: 0.9
+gamma_g: 0.94
+gamma_b: 0.96
+vignette: 4
+temp: 4018
