@@ -1,0 +1,31 @@
+tweet_id: 1759201795966902614
+masto_id: 111952617300907688
+subre_id: Not uploaded, but here's the text: Hello Sunday! This Newton is yours!  #AI #GenerativeArt
+
+newton_power: 4
+newton_const: 4
+
+n_iter: 70
+ct: 59
+hue_offset: 50
+saturation: -0.62
+
+num_attempts: 258
+dur: 600
+std: 7.2
+size: 846717 (826.87 KiB)
+
+xmin: 0.318257178734322
+xmax: 0.3438982043753477
+ymin: 1.0640735878299963
+ymax: 1.0784966647530732
+
+contrast: 0.82
+brightness: 0.15
+saturation: 0.62
+gamma: 0.99
+gamma_r: 0.95
+gamma_g: 1.1
+gamma_b: 0.9
+vignette: -6
+temp: 4732
