@@ -1,0 +1,28 @@
+tweet_id: 1759102386730143785
+masto_id: FAIL
+subre_id: Not uploaded, but here's the text: Hey there, it's Sunday!  #AI #GenerativeArt
+
+n_iter: 256
+ct: 196
+hue_offset: 192
+saturation: -0.73
+
+num_attempts: 89
+dur: 19
+std: 28.19
+size: 508026 (496.12 KiB)
+
+xmin: 0.33672171451227184
+xmax: 0.33768883250066645
+ymin: 0.38650986606502946
+ymax: 0.38705386993350144
+
+contrast: 1.63
+brightness: 0.2
+saturation: 1.42
+gamma: 1.09
+gamma_r: 1.07
+gamma_g: 1.09
+gamma_b: 0.96
+vignette: 21
+temp: 4459
