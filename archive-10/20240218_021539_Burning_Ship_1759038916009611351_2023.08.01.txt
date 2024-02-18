@@ -1,0 +1,28 @@
+tweet_id: 1759038916009611351
+masto_id: 111950072337231404
+subre_id: Not uploaded, but here's the text: Enjoying the Sunday with this Burning Ship.  #Nature #MachineLearning
+
+n_iter: 360
+ct: 104
+hue_offset: 73
+saturation: 0.3
+
+num_attempts: 7
+dur: 3
+std: 25.1
+size: 771171 (753.1 KiB)
+
+xmin: 0.3661732202474921
+xmax: 0.41354164130012366
+ymin: 0.12412339068327949
+ymax: 0.15076812752538477
+
+contrast: 0.74
+brightness: 0.19
+saturation: 0.53
+gamma: 1.0
+gamma_r: 1.01
+gamma_g: 1.07
+gamma_b: 1.01
+vignette: -23
+temp: 5076
