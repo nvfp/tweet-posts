@@ -1,0 +1,28 @@
+tweet_id: 1759278547389047176
+masto_id: 111953816503791281
+subre_id: Not uploaded, but here's the text: Keep shining on Sunday!  #VisualArt #DeepLearning
+
+n_iter: 383
+ct: 66
+hue_offset: 34
+saturation: -0.47
+
+num_attempts: 19
+dur: 9
+std: 33.72
+size: 1612811 (1.54 MiB)
+
+xmin: -0.38854229286282127
+xmax: -0.3421505402855017
+ymin: -1.0567612379348297
+ymax: -1.0306658771100874
+
+contrast: 1.71
+brightness: 0.16
+saturation: 0.82
+gamma: 0.93
+gamma_r: 0.97
+gamma_g: 1.07
+gamma_b: 0.98
+vignette: 11
+temp: 6683
