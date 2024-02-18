@@ -1,0 +1,31 @@
+tweet_id: 1759291643683914204
+masto_id: 111954021204877881
+subre_id: Not uploaded, but here's the text: you are cool  #GenerativeArt #MachineLearning
+
+newton_power: 4
+newton_const: -4
+
+n_iter: 117
+ct: 131
+hue_offset: 126
+saturation: 0.08
+
+num_attempts: 272
+dur: 601
+std: 7.31
+size: 913090 (891.69 KiB)
+
+xmin: -0.24829019672683428
+xmax: -0.23053871743689344
+ymin: -0.25320583239189376
+ymax: -0.24322062529130203
+
+contrast: 0.83
+brightness: 0.09
+saturation: 1.54
+gamma: 1.04
+gamma_r: 1.05
+gamma_g: 1.02
+gamma_b: 1.1
+vignette: -19
+temp: 6534
