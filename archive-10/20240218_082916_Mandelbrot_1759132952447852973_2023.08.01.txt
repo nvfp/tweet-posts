@@ -1,0 +1,28 @@
+tweet_id: 1759132952447852973
+masto_id: 111951541470029815
+subre_id: Not uploaded, but here's the text: Happy Sunday! Enjoy the beauty of Mandelbrot Set.  #Nature #Mathematics
+
+n_iter: 923
+ct: 77
+hue_offset: 97
+saturation: -0.32
+
+num_attempts: 183
+dur: 130
+std: 74.74
+size: 182631 (178.35 KiB)
+
+xmin: -1.0800604132335039
+xmax: -1.0752699940718273
+ymin: 0.23531266905954373
+ymax: 0.23800727983798683
+
+contrast: 1.28
+brightness: -0.09
+saturation: 0.66
+gamma: 1.0
+gamma_r: 1.08
+gamma_g: 1.06
+gamma_b: 0.99
+vignette: -25
+temp: 6121
