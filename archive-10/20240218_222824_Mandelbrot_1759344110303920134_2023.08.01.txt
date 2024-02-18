@@ -1,0 +1,28 @@
+tweet_id: 1759344110303920134
+masto_id: 111954841042740704
+subre_id: Not uploaded, but here's the text: Good Sunday! This Mandelbrot Set is for you!  #Nature #DigitalArt
+
+n_iter: 604
+ct: 15
+hue_offset: 13
+saturation: 0.65
+
+num_attempts: 4
+dur: 0
+std: 17.57
+size: 1161064 (1.11 MiB)
+
+xmin: -1.1083894814225062
+xmax: -1.106567987797734
+ymin: -0.2645936391468301
+ymax: -0.2635690489828957
+
+contrast: 0.93
+brightness: 0.01
+saturation: 1.22
+gamma: 1.07
+gamma_r: 1.0
+gamma_g: 0.92
+gamma_b: 0.91
+vignette: -46
+temp: 2802
