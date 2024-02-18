@@ -1,0 +1,28 @@
+tweet_id: 1759199026279293128
+masto_id: 111952574032383203
+subre_id: Not uploaded, but here's the text: Ever heard of this Multibrot?  #Fractals #GenerativeArt
+
+n_iter: 376
+ct: 1
+hue_offset: 26
+saturation: -0.1
+
+num_attempts: 630
+dur: 600
+std: 39.84
+size: 742806 (725.4 KiB)
+
+xmin: 0.15043509885169604
+xmax: 0.18713234655811806
+ymin: -0.7505154446625754
+ymax: -0.7298732428277129
+
+contrast: 0.83
+brightness: 0.14
+saturation: 1.17
+gamma: 0.87
+gamma_r: 1.18
+gamma_g: 0.86
+gamma_b: 1.15
+vignette: -13
+temp: 5889
