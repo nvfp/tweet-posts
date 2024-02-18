@@ -1,0 +1,28 @@
+tweet_id: 1759253742736540001
+masto_id: 111953428942028851
+subre_id: Not uploaded, but here's the text: Hope you have an amazing Sunday!  #DigitalArt #Mathematics
+
+n_iter: 735
+ct: 92
+hue_offset: 142
+saturation: -0.3
+
+num_attempts: 7
+dur: 5
+std: 29.03
+size: 1440326 (1.37 MiB)
+
+xmin: -1.307312591951098
+xmax: -1.3053848811077244
+ymin: -0.06960360631058138
+ymax: -0.0685192689611838
+
+contrast: 0.76
+brightness: -0.04
+saturation: 1.24
+gamma: 1.04
+gamma_r: 0.91
+gamma_g: 0.96
+gamma_b: 0.99
+vignette: 12
+temp: 7105
