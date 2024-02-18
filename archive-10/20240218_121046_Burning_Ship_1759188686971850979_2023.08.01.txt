@@ -1,0 +1,28 @@
+tweet_id: 1759188686971850979
+masto_id: 111952412413389838
+subre_id: Not uploaded, but here's the text: Let's make it a memorable Sunday!  #DeepLearning #DigitalArt
+
+n_iter: 473
+ct: 114
+hue_offset: 126
+saturation: 0.59
+
+num_attempts: 4
+dur: 3
+std: 36.54
+size: 457036 (446.32 KiB)
+
+xmin: -1.4180422568070419
+xmax: -0.6680422568070419
+ymin: -0.4156944762564114
+ymax: 0.006180523743588573
+
+contrast: 1.26
+brightness: 0.14
+saturation: 1.44
+gamma: 1.03
+gamma_r: 0.95
+gamma_g: 0.95
+gamma_b: 0.93
+vignette: 25
+temp: 4549
