@@ -1,0 +1,28 @@
+tweet_id: 1759013457687364003
+masto_id: 111949674493323449
+subre_id: Not uploaded, but here's the text: Shine bright like the sun on this Sunday!  #MachineLearning #Mathematics
+
+n_iter: 159
+ct: 111
+hue_offset: 275
+saturation: 0.8
+
+num_attempts: 2
+dur: 0
+std: 24.68
+size: 1554975 (1.48 MiB)
+
+xmin: -0.5168771393582565
+xmax: -0.4122259765675588
+ymin: -1.0578904726078169
+ymax: -0.9990241935380494
+
+contrast: 1.23
+brightness: 0.05
+saturation: 1.09
+gamma: 0.91
+gamma_r: 0.92
+gamma_g: 1.08
+gamma_b: 0.98
+vignette: -32
+temp: 5994
