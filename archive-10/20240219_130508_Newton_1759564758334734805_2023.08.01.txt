@@ -1,0 +1,31 @@
+tweet_id: 1759564758334734805
+masto_id: 111958288535410106
+subre_id: Not uploaded, but here's the text: Sending you this fractal on this Monday!  #Art #DigitalArt
+
+newton_power: 3
+newton_const: 10
+
+n_iter: 209
+ct: 32
+hue_offset: 349
+saturation: -0.1
+
+num_attempts: 512
+dur: 600
+std: 4.12
+size: 674717 (658.9 KiB)
+
+xmin: 1.2408732608175068
+xmax: 1.2912934288847338
+ymin: 0.22993375590515486
+ymax: 0.25829510044297
+
+contrast: 1.56
+brightness: -0.09
+saturation: 0.8
+gamma: 0.95
+gamma_r: 0.94
+gamma_g: 1.09
+gamma_b: 1.02
+vignette: -12
+temp: 3506
