@@ -1,0 +1,28 @@
+tweet_id: 1759434710772556204
+masto_id: FAIL
+subre_id: Not uploaded, but here's the text: Hope you're having a great Monday!  #AI #GenerativeArt
+
+n_iter: 358
+ct: 226
+hue_offset: 108
+saturation: 0.07
+
+num_attempts: 98
+dur: 28
+std: 53.5
+size: 1374632 (1.31 MiB)
+
+xmin: -0.6186112099017658
+xmax: -0.617138997903238
+ymin: -0.4544990551385727
+ymax: -0.45367093588940083
+
+contrast: 1.22
+brightness: 0.19
+saturation: 0.31
+gamma: 0.97
+gamma_r: 0.94
+gamma_g: 1.04
+gamma_b: 1.04
+vignette: -47
+temp: 3569
