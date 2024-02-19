@@ -1,0 +1,28 @@
+tweet_id: 1759375540987756952
+masto_id: 111955332010559341
+subre_id: Not uploaded, but here's the text: Wishing you the best!  #GenerativeArt #Nature
+
+n_iter: 414
+ct: 50
+hue_offset: 311
+saturation: 0.48
+
+num_attempts: 5
+dur: 1
+std: 71.25
+size: 1638907 (1.56 MiB)
+
+xmin: -1.1921667723571674
+xmax: -1.1442944319316355
+ymin: -0.401943101179852
+ymax: -0.3750149096904903
+
+contrast: 1.69
+brightness: 0.14
+saturation: 0.78
+gamma: 1.0
+gamma_r: 0.91
+gamma_g: 1.07
+gamma_b: 1.03
+vignette: 9
+temp: 4435
