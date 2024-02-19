@@ -1,0 +1,28 @@
+tweet_id: 1759465425371373736
+masto_id: FAIL
+subre_id: Not uploaded, but here's the text: Wishing you a rad Monday!  #Mathematics #Art
+
+n_iter: 931
+ct: 16
+hue_offset: 136
+saturation: 0.85
+
+num_attempts: 62
+dur: 48
+std: 27.27
+size: 1243395 (1.19 MiB)
+
+xmin: -0.4789964860212925
+xmax: -0.4651075971324036
+ymin: -0.6115856206553841
+ymax: -0.6037731206553841
+
+contrast: 1.38
+brightness: -0.06
+saturation: 0.53
+gamma: 0.98
+gamma_r: 0.95
+gamma_g: 0.97
+gamma_b: 1.09
+vignette: -46
+temp: 5009
