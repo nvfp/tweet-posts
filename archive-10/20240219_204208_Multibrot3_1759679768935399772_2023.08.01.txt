@@ -1,0 +1,28 @@
+tweet_id: 1759679768935399772
+masto_id: 111960085501808978
+subre_id: Not uploaded, but here's the text: Today is awesome!  #DeepLearning #Mathematics
+
+n_iter: 416
+ct: 1
+hue_offset: 342
+saturation: -0.44
+
+num_attempts: 605
+dur: 605
+std: 59.92
+size: 1228744 (1.17 MiB)
+
+xmin: -0.4250229040888558
+xmax: -0.4110368901028418
+ymin: -0.6086417994024431
+ymax: -0.6007746665353102
+
+contrast: 1.68
+brightness: 0.04
+saturation: 0.61
+gamma: 1.16
+gamma_r: 0.83
+gamma_g: 0.93
+gamma_b: 0.86
+vignette: 18
+temp: 7987
