@@ -1,0 +1,28 @@
+tweet_id: 1759389692825362710
+masto_id: 111955553227976554
+subre_id: Not uploaded, but here's the text: Surprise! It's a Mandelbrot Set!  #Art #Fractals
+
+n_iter: 594
+ct: 46
+hue_offset: 133
+saturation: -0.3
+
+num_attempts: 100
+dur: 26
+std: 22.18
+size: 768319 (750.31 KiB)
+
+xmin: -0.4150862918996139
+xmax: -0.41448954417471456
+ymin: -0.6062016850593546
+ymax: -0.6058660144640987
+
+contrast: 1.2
+brightness: 0.21
+saturation: 1.6
+gamma: 1.02
+gamma_r: 0.92
+gamma_g: 0.92
+gamma_b: 0.96
+vignette: 12
+temp: 6820
