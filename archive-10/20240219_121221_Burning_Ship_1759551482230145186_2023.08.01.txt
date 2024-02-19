@@ -1,0 +1,28 @@
+tweet_id: 1759551482230145186
+masto_id: 111958080974871201
+subre_id: Not uploaded, but here's the text: you are fantastic!  #Fractals #DeepLearning
+
+n_iter: 149
+ct: 36
+hue_offset: 212
+saturation: 0.27
+
+num_attempts: 5
+dur: 0
+std: 20.55
+size: 2138890 (2.04 MiB)
+
+xmin: -0.6642473302499576
+xmax: -0.5571044731071005
+ymin: -1.0151851061622748
+ymax: -0.9549172490194177
+
+contrast: 0.82
+brightness: 0.02
+saturation: 1.61
+gamma: 0.96
+gamma_r: 0.9
+gamma_g: 1.09
+gamma_b: 1.03
+vignette: -32
+temp: 3097
