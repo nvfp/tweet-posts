@@ -1,0 +1,28 @@
+tweet_id: 1759620646646984726
+masto_id: 111959161722284203
+subre_id: Not uploaded, but here's the text: Look closely, it's Multibrot!  #DigitalArt #DeepLearning
+
+n_iter: 474
+ct: 1
+hue_offset: 240
+saturation: -0.55
+
+num_attempts: 524
+dur: 603
+std: 51.45
+size: 684630 (668.58 KiB)
+
+xmin: -0.5444586411394552
+xmax: -0.5122005766233262
+ymin: -0.4090960583219849
+ymax: -0.39095089703166236
+
+contrast: 1.69
+brightness: 0.04
+saturation: 1.54
+gamma: 0.89
+gamma_r: 0.91
+gamma_g: 1.0
+gamma_b: 1.03
+vignette: 21
+temp: 5798
