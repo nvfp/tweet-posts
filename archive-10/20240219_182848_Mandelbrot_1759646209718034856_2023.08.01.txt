@@ -1,0 +1,28 @@
+tweet_id: 1759646209718034856
+masto_id: 111959561228239574
+subre_id: Not uploaded, but here's the text: Happy Monday! Enjoy the beauty of Mandelbrot Set.  #VisualArt #AI
+
+n_iter: 356
+ct: 99
+hue_offset: 91
+saturation: 0.57
+
+num_attempts: 105
+dur: 34
+std: 40.57
+size: 1061934 (1.01 MiB)
+
+xmin: 0.3399248952605487
+xmax: 0.40444102429280676
+ymin: -0.2624130726261319
+ymax: -0.22612275004548674
+
+contrast: 0.81
+brightness: 0.0
+saturation: 1.06
+gamma: 0.98
+gamma_r: 0.91
+gamma_g: 1.03
+gamma_b: 0.99
+vignette: -34
+temp: 6550
