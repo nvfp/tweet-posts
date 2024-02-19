@@ -1,0 +1,31 @@
+tweet_id: 1759593747073880561
+masto_id: FAIL
+subre_id: Not uploaded, but here's the text: You rock, and so does this Monday!  #MachineLearning #Mathematics
+
+newton_power: 7
+newton_const: -5
+
+n_iter: 158
+ct: 72
+hue_offset: 5
+saturation: 0.22
+
+num_attempts: 153
+dur: 607
+std: 24.55
+size: 1261433 (1.2 MiB)
+
+xmin: -1.8084776377806464
+xmax: -1.8024047632867193
+ymin: 1.9366938256628732
+ymax: 1.9401098175657072
+
+contrast: 1.28
+brightness: 0.01
+saturation: 1.01
+gamma: 1.08
+gamma_r: 0.97
+gamma_g: 0.9
+gamma_b: 0.98
+vignette: 16
+temp: 7349
