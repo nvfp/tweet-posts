@@ -1,0 +1,28 @@
+tweet_id: 1759520198795870522
+masto_id: 111957592292786945
+subre_id: Not uploaded, but here's the text: Wishing you the best!  #Mathematics #Fractals
+
+n_iter: 212
+ct: 128
+hue_offset: 22
+saturation: 0.7
+
+num_attempts: 8
+dur: 3
+std: 27.25
+size: 1611638 (1.54 MiB)
+
+xmin: -0.2625799843397778
+xmax: -0.21666161699283903
+ymin: -0.9452429547751748
+ymax: -0.9194138731425218
+
+contrast: 1.51
+brightness: 0.14
+saturation: 1.12
+gamma: 0.92
+gamma_r: 0.93
+gamma_g: 0.94
+gamma_b: 0.97
+vignette: 26
+temp: 6242
