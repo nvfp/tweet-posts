@@ -1,0 +1,28 @@
+tweet_id: 1759611090764255565
+masto_id: 111959012414552772
+subre_id: Not uploaded, but here's the text: This Monday is made even better by this Burning Ship!  #DigitalArt #Fractals
+
+n_iter: 449
+ct: 33
+hue_offset: 78
+saturation: -0.42
+
+num_attempts: 1
+dur: 0
+std: 22.24
+size: 464382 (453.5 KiB)
+
+xmin: -2.114026309989484
+xmax: -0.6140263099894838
+ymin: -0.5123335727413636
+ymax: 0.3314164272586364
+
+contrast: 1.52
+brightness: -0.07
+saturation: 1.67
+gamma: 1.03
+gamma_r: 0.96
+gamma_g: 1.07
+gamma_b: 0.91
+vignette: 32
+temp: 3174
