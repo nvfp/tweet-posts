@@ -1,0 +1,28 @@
+tweet_id: 1759562207451357273
+masto_id: 111958248548865121
+subre_id: Not uploaded, but here's the text: Let's make it a memorable Monday!  #MachineLearning #GenerativeArt
+
+n_iter: 328
+ct: 255
+hue_offset: 249
+saturation: 0.51
+
+num_attempts: 713
+dur: 601
+std: 57.51
+size: 895527 (874.54 KiB)
+
+xmin: 0.536120694984247
+xmax: 0.5412953392274552
+ymin: -0.3544396184383607
+ymax: -0.35152888105155605
+
+contrast: 1.67
+brightness: -0.03
+saturation: 1.32
+gamma: 0.88
+gamma_r: 0.84
+gamma_g: 1.13
+gamma_b: 1.03
+vignette: -16
+temp: 3306
