@@ -1,0 +1,28 @@
+tweet_id: 1759675238877741554
+masto_id: 111960014781446720
+subre_id: Not uploaded, but here's the text: Look closely, it's Mandelbrot Set!  #VisualArt #MachineLearning
+
+n_iter: 965
+ct: 102
+hue_offset: 18
+saturation: -0.46
+
+num_attempts: 33
+dur: 31
+std: 17.64
+size: 1144072 (1.09 MiB)
+
+xmin: 0.2766431967968499
+xmax: 0.27705761867832523
+ymin: -0.604449762644283
+ymax: -0.6042166503359531
+
+contrast: 1.56
+brightness: -0.08
+saturation: 1.71
+gamma: 1.01
+gamma_r: 1.02
+gamma_g: 1.04
+gamma_b: 0.91
+vignette: -23
+temp: 5978
