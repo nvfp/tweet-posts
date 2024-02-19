@@ -1,0 +1,28 @@
+tweet_id: 1759706453839843649
+masto_id: 111960502500194974
+subre_id: Not uploaded, but here's the text: Keep shining on Monday!  #DigitalArt #Fractals
+
+n_iter: 1007
+ct: 76
+hue_offset: 49
+saturation: -0.06
+
+num_attempts: 13
+dur: 11
+std: 44.76
+size: 1153074 (1.1 MiB)
+
+xmin: -0.9543223107812366
+xmax: -0.9518516498794454
+ymin: -0.26185170144977055
+ymax: -0.260461954692513
+
+contrast: 1.01
+brightness: 0.09
+saturation: 1.0
+gamma: 1.01
+gamma_r: 1.0
+gamma_g: 0.91
+gamma_b: 0.91
+vignette: 4
+temp: 3621
