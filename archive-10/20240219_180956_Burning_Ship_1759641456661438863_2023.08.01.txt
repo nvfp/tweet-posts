@@ -1,0 +1,28 @@
+tweet_id: 1759641456661438863
+masto_id: 111959486940411954
+subre_id: Not uploaded, but here's the text: Monday is shining brightly, just like this Burning Ship.  #GenerativeArt #Nature
+
+n_iter: 273
+ct: 104
+hue_offset: 76
+saturation: 0.69
+
+num_attempts: 71
+dur: 21
+std: 28.3
+size: 513406 (501.37 KiB)
+
+xmin: -0.4620811148469537
+xmax: -0.3802629330287719
+ymin: 0.05882055083294624
+ymax: 0.10484327810567351
+
+contrast: 1.77
+brightness: 0.16
+saturation: 1.56
+gamma: 0.95
+gamma_r: 0.92
+gamma_g: 1.07
+gamma_b: 1.04
+vignette: -16
+temp: 4703
