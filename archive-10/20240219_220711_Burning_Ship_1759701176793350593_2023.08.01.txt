@@ -1,0 +1,28 @@
+tweet_id: 1759701176793350593
+masto_id: 111960419974490279
+subre_id: Not uploaded, but here's the text: Hey wait, look! it's Burning Ship!  #GenerativeArt #Fractals
+
+n_iter: 212
+ct: 30
+hue_offset: 126
+saturation: -0.2
+
+num_attempts: 22
+dur: 4
+std: 32.32
+size: 1970318 (1.88 MiB)
+
+xmin: -0.6285145527967453
+xmax: -0.3285145527967453
+ymin: -1.0717604881492087
+ymax: -0.9030104881492087
+
+contrast: 1.48
+brightness: 0.05
+saturation: 1.31
+gamma: 0.99
+gamma_r: 0.94
+gamma_g: 1.04
+gamma_b: 0.93
+vignette: 17
+temp: 6617
