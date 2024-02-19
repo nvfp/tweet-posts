@@ -1,0 +1,28 @@
+tweet_id: 1759649526703325632
+masto_id: 111959612969970411
+subre_id: Not uploaded, but here's the text: Smile, it's Monday!  #DeepLearning #DigitalArt
+
+n_iter: 596
+ct: 255
+hue_offset: 26
+saturation: -0.8
+
+num_attempts: 491
+dur: 601
+std: 94.14
+size: 1300423 (1.24 MiB)
+
+xmin: 0.16070197423888155
+xmax: 0.16539680991963274
+ymin: 0.8451320606956374
+ymax: 0.8477729057660599
+
+contrast: 1.46
+brightness: 0.03
+saturation: 0.33
+gamma: 1.04
+gamma_r: 1.1
+gamma_g: 0.85
+gamma_b: 1.09
+vignette: -29
+temp: 5424
