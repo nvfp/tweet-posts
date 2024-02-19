@@ -1,0 +1,31 @@
+tweet_id: 1759623921576607764
+masto_id: 111959212956637781
+subre_id: Not uploaded, but here's the text: You are lovely!  #AI #DeepLearning
+
+newton_power: 7
+newton_const: -4
+
+n_iter: 116
+ct: 23
+hue_offset: 41
+saturation: -0.8
+
+num_attempts: 153
+dur: 601
+std: 20.26
+size: 1489848 (1.42 MiB)
+
+xmin: 2.7768380542991675
+xmax: 2.8226395810167246
+ymin: 1.6514616800626651
+ymax: 1.677225038841291
+
+contrast: 1.32
+brightness: 0.02
+saturation: 0.51
+gamma: 0.95
+gamma_r: 0.94
+gamma_g: 0.92
+gamma_b: 1.05
+vignette: -18
+temp: 6454
