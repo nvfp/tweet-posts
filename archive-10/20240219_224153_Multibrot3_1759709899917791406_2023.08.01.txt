@@ -1,0 +1,28 @@
+tweet_id: 1759709899917791406
+masto_id: 111960556422235977
+subre_id: Not uploaded, but here's the text: A great Monday and a beautiful Multibrot.  #AI #VisualArt
+
+n_iter: 383
+ct: 255
+hue_offset: 338
+saturation: -0.08
+
+num_attempts: 539
+dur: 605
+std: 62.83
+size: 860205 (840.04 KiB)
+
+xmin: -0.541520474194874
+xmax: -0.5360559933205571
+ymin: 0.355102959571572
+ymax: 0.3581767300633753
+
+contrast: 0.78
+brightness: -0.08
+saturation: 1.49
+gamma: 1.07
+gamma_r: 1.09
+gamma_g: 1.15
+gamma_b: 0.85
+vignette: 6
+temp: 7992
