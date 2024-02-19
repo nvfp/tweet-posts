@@ -1,0 +1,28 @@
+tweet_id: 1759460355716026419
+masto_id: 111956657198824894
+subre_id: Not uploaded, but here's the text: Chin up, buttercup!  #AI #Fractals
+
+n_iter: 165
+ct: 112
+hue_offset: 217
+saturation: 0.1
+
+num_attempts: 9
+dur: 1
+std: 26.35
+size: 1414419 (1.35 MiB)
+
+xmin: -0.44580579668788545
+xmax: -0.34115463389718775
+ymin: -1.0112975211132433
+ymax: -0.9524312420434758
+
+contrast: 0.75
+brightness: 0.03
+saturation: 1.24
+gamma: 0.9
+gamma_r: 1.08
+gamma_g: 0.98
+gamma_b: 0.92
+vignette: -3
+temp: 3757
