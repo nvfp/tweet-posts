@@ -1,0 +1,28 @@
+tweet_id: 1759528985480859946
+masto_id: 111957729534348017
+subre_id: Not uploaded, but here's the text: Shine bright like the sun on this Monday!  #DigitalArt #Art
+
+n_iter: 580
+ct: 255
+hue_offset: 244
+saturation: -0.81
+
+num_attempts: 486
+dur: 606
+std: 98.7
+size: 939041 (917.03 KiB)
+
+xmin: -0.3913216742289205
+xmax: -0.38373154140159604
+ymin: 0.6197389972895886
+ymax: 0.6240084470049586
+
+contrast: 1.73
+brightness: -0.01
+saturation: 0.34
+gamma: 1.1
+gamma_r: 0.82
+gamma_g: 0.86
+gamma_b: 1.06
+vignette: -4
+temp: 6034
