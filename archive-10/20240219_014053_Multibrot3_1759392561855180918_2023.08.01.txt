@@ -1,0 +1,28 @@
+tweet_id: 1759392561855180918
+masto_id: 111955597950511119
+subre_id: Not uploaded, but here's the text: Multibrot vibes to brighten your Monday.  #Mathematics #MachineLearning
+
+n_iter: 381
+ct: 255
+hue_offset: 242
+saturation: -0.85
+
+num_attempts: 541
+dur: 601
+std: 61.17
+size: 1077882 (1.03 MiB)
+
+xmin: 0.20412027364862206
+xmax: 0.21117494736996245
+ymin: 0.9662221550507994
+ymax: 0.9701904090190534
+
+contrast: 1.29
+brightness: 0.05
+saturation: 0.48
+gamma: 0.91
+gamma_r: 1.08
+gamma_g: 1.17
+gamma_b: 1.11
+vignette: 22
+temp: 5484
