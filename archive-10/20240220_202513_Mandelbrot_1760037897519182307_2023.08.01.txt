@@ -1,0 +1,28 @@
+tweet_id: 1760037897519182307
+masto_id: 111965681308671006
+subre_id: Not uploaded, but here's the text: Hope you have an amazing Tuesday!  #GenerativeArt #Nature
+
+n_iter: 510
+ct: 115
+hue_offset: 130
+saturation: -0.6
+
+num_attempts: 24
+dur: 13
+std: 74.38
+size: 1501019 (1.43 MiB)
+
+xmin: -0.3674145633529551
+xmax: -0.34302431945051604
+ymin: -0.6442015763224784
+ymax: -0.6304820641273565
+
+contrast: 0.82
+brightness: -0.05
+saturation: 1.51
+gamma: 1.07
+gamma_r: 1.08
+gamma_g: 1.08
+gamma_b: 0.98
+vignette: -18
+temp: 5812
