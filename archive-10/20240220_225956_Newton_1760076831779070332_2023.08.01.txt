@@ -1,0 +1,31 @@
+tweet_id: 1760076831779070332
+masto_id: 111966289662241874
+subre_id: Not uploaded, but here's the text: Tuesday is shining brightly, just like this Newton.  #Mathematics #VisualArt
+
+newton_power: 3
+newton_const: -3
+
+n_iter: 128
+ct: 42
+hue_offset: 286
+saturation: 0.17
+
+num_attempts: 523
+dur: 601
+std: 4.32
+size: 943014 (920.91 KiB)
+
+xmin: 0.540315852953666
+xmax: 0.5814117433646249
+ymin: -0.4101828475632756
+ymax: -0.3870664092071112
+
+contrast: 1.65
+brightness: 0.13
+saturation: 0.67
+gamma: 0.96
+gamma_r: 1.03
+gamma_g: 1.07
+gamma_b: 0.95
+vignette: -30
+temp: 5766
