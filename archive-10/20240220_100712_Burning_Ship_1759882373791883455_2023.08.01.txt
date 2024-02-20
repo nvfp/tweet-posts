@@ -1,0 +1,28 @@
+tweet_id: 1759882373791883455
+masto_id: 111963251194353916
+subre_id: Not uploaded, but here's the text: Cheers to a fantastic Tuesday!  #AI #GenerativeArt
+
+n_iter: 171
+ct: 56
+hue_offset: 315
+saturation: -0.28
+
+num_attempts: 22
+dur: 5
+std: 28.95
+size: 1881832 (1.79 MiB)
+
+xmin: -0.8638802932645164
+xmax: -0.8103088646930878
+ymin: -0.6938531958831817
+ymax: -0.6637192673117531
+
+contrast: 1.18
+brightness: 0.06
+saturation: 0.35
+gamma: 1.08
+gamma_r: 1.08
+gamma_g: 0.9
+gamma_b: 0.93
+vignette: -12
+temp: 3236
