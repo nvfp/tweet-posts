@@ -1,0 +1,28 @@
+tweet_id: 1759951492859977924
+masto_id: 111964331173621268
+subre_id: Not uploaded, but here's the text: Guess what? It's Multibrot!  #Nature #Fractals
+
+n_iter: 367
+ct: 255
+hue_offset: 345
+saturation: 0.98
+
+num_attempts: 623
+dur: 604
+std: 64.64
+size: 947128 (924.93 KiB)
+
+xmin: 0.3666630523880001
+xmax: 0.37846246241749865
+ymin: 0.6363374425073762
+ymax: 0.6429746106489691
+
+contrast: 1.6
+brightness: -0.02
+saturation: 0.88
+gamma: 0.81
+gamma_r: 0.9
+gamma_g: 1.05
+gamma_b: 1.1
+vignette: 4
+temp: 4432
