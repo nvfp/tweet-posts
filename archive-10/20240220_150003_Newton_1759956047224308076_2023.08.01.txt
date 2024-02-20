@@ -1,0 +1,31 @@
+tweet_id: 1759956047224308076
+masto_id: 111964402678394520
+subre_id: Not uploaded, but here's the text: Let this Newton inspire your Tuesday.  #Mathematics #VisualArt
+
+newton_power: 5
+newton_const: -6
+
+n_iter: 92
+ct: 173
+hue_offset: 184
+saturation: -0.88
+
+num_attempts: 209
+dur: 604
+std: 12.39
+size: 1140787 (1.09 MiB)
+
+xmin: -0.37135819097113476
+xmax: -0.3547376923561763
+ymin: 1.8141031463091082
+ymax: 1.8234521767800222
+
+contrast: 0.99
+brightness: 0.14
+saturation: 0.89
+gamma: 1.08
+gamma_r: 0.91
+gamma_g: 0.97
+gamma_b: 1.03
+vignette: -34
+temp: 3284
