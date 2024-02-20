@@ -1,0 +1,28 @@
+tweet_id: 1759913777687138716
+masto_id: 111963741925628262
+subre_id: Not uploaded, but here's the text: Let this Burning Ship brighten up your Tuesday!  #MachineLearning #AI
+
+n_iter: 306
+ct: 240
+hue_offset: 15
+saturation: -0.34
+
+num_attempts: 22
+dur: 6
+std: 43.69
+size: 2293343 (2.19 MiB)
+
+xmin: -0.5726610334511162
+xmax: -0.5126610334511161
+ymin: -0.8808947589358636
+ymax: -0.8471447589358636
+
+contrast: 1.54
+brightness: -0.07
+saturation: 0.84
+gamma: 1.09
+gamma_r: 0.93
+gamma_g: 0.97
+gamma_b: 1.1
+vignette: -31
+temp: 5855
