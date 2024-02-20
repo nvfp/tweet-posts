@@ -1,0 +1,28 @@
+tweet_id: 1759797975142859184
+masto_id: 111961932466177222
+subre_id: Not uploaded, but here's the text: Wow, guess what? it's Mandelbrot Set!  #DeepLearning #Nature
+
+n_iter: 1012
+ct: 26
+hue_offset: 161
+saturation: -0.2
+
+num_attempts: 86
+dur: 59
+std: 182.3
+size: 2160579 (2.06 MiB)
+
+xmin: -0.3014359348325888
+xmax: -0.30085496170259607
+ymin: 0.6261497200550656
+ymax: 0.6264765174406866
+
+contrast: 1.23
+brightness: -0.07
+saturation: 0.86
+gamma: 0.93
+gamma_r: 1.08
+gamma_g: 1.09
+gamma_b: 1.06
+vignette: -11
+temp: 4919
