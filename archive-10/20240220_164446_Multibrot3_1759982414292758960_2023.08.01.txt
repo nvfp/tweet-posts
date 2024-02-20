@@ -1,0 +1,28 @@
+tweet_id: 1759982414292758960
+masto_id: 111964814451245130
+subre_id: Not uploaded, but here's the text: Have an extraordinary Tuesday!  #Mathematics #DeepLearning
+
+n_iter: 665
+ct: 1
+hue_offset: 283
+saturation: -0.24
+
+num_attempts: 379
+dur: 602
+std: 84.32
+size: 1333513 (1.27 MiB)
+
+xmin: -0.5515346671842147
+xmax: -0.5438423594919071
+ymin: -0.23441689956566747
+ymax: -0.23008997648874438
+
+contrast: 1.34
+brightness: 0.1
+saturation: 0.98
+gamma: 1.18
+gamma_r: 0.94
+gamma_g: 1.19
+gamma_b: 1.01
+vignette: -31
+temp: 5054
