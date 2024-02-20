@@ -1,0 +1,28 @@
+tweet_id: 1759801301553000776
+masto_id: 111961984534316745
+subre_id: Not uploaded, but here's the text: Another Tuesday, another Multibrot!  #DeepLearning #MachineLearning
+
+n_iter: 643
+ct: 1
+hue_offset: 82
+saturation: -0.78
+
+num_attempts: 365
+dur: 605
+std: 48.36
+size: 1146405 (1.09 MiB)
+
+xmin: -0.6286573307393977
+xmax: -0.6192896492405686
+ymin: -0.47837561445607646
+ymax: -0.4731062936129851
+
+contrast: 0.77
+brightness: 0.14
+saturation: 0.27
+gamma: 1.13
+gamma_r: 1.09
+gamma_g: 0.8
+gamma_b: 0.95
+vignette: -30
+temp: 5770
