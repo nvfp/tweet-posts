@@ -1,0 +1,28 @@
+tweet_id: 1759973371822092366
+masto_id: 111964673048891959
+subre_id: Not uploaded, but here's the text: Chin up, buttercup!  #AI #VisualArt
+
+n_iter: 173
+ct: 44
+hue_offset: 321
+saturation: 0.03
+
+num_attempts: 51
+dur: 8
+std: 25.9
+size: 1071018 (1.02 MiB)
+
+xmin: -0.9833086045873862
+xmax: -0.8967701430489247
+ymin: -0.607613300030178
+ymax: -0.5589354154147934
+
+contrast: 1.44
+brightness: -0.04
+saturation: 0.9
+gamma: 0.96
+gamma_r: 1.04
+gamma_g: 1.0
+gamma_b: 0.91
+vignette: 32
+temp: 4438
