@@ -1,0 +1,28 @@
+tweet_id: 1760072348349395023
+masto_id: 111966219505922941
+subre_id: Not uploaded, but here's the text: This Tuesday is made even better by this Multibrot!  #DigitalArt #Nature
+
+n_iter: 561
+ct: 255
+hue_offset: 96
+saturation: -0.33
+
+num_attempts: 547
+dur: 605
+std: 55.87
+size: 685745 (669.67 KiB)
+
+xmin: -0.612123720613309
+xmax: -0.6016798563835439
+ymin: -0.282968501113797
+ymax: -0.2770938274845542
+
+contrast: 1.78
+brightness: -0.09
+saturation: 1.44
+gamma: 1.04
+gamma_r: 1.01
+gamma_g: 1.05
+gamma_b: 1.08
+vignette: -30
+temp: 2852
