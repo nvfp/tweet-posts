@@ -1,0 +1,28 @@
+tweet_id: 1759830843210526929
+masto_id: 111962446031380230
+subre_id: Not uploaded, but here's the text: Have an awesome Tuesday!  #VisualArt #DeepLearning
+
+n_iter: 533
+ct: 1
+hue_offset: 268
+saturation: 0.23
+
+num_attempts: 435
+dur: 600
+std: 91.53
+size: 937433 (915.46 KiB)
+
+xmin: 0.438869431215934
+xmax: 0.4451096808259184
+ymin: 0.5595748272207568
+ymax: 0.5630849676263731
+
+contrast: 1.49
+brightness: 0.1
+saturation: 1.36
+gamma: 1.0
+gamma_r: 0.92
+gamma_g: 1.01
+gamma_b: 0.97
+vignette: 13
+temp: 3613
