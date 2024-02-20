@@ -1,0 +1,28 @@
+tweet_id: 1759737494399004739
+masto_id: 111960987460041579
+subre_id: Not uploaded, but here's the text: Have an awesome day!  #VisualArt #GenerativeArt
+
+n_iter: 465
+ct: 98
+hue_offset: 49
+saturation: -0.16
+
+num_attempts: 7
+dur: 1
+std: 34.47
+size: 565451 (552.2 KiB)
+
+xmin: -0.0020343979961872094
+xmax: 0.8979656020038128
+ymin: -1.1632963031104868
+ymax: -0.6570463031104868
+
+contrast: 1.41
+brightness: 0.15
+saturation: 0.44
+gamma: 1.0
+gamma_r: 0.97
+gamma_g: 1.09
+gamma_b: 1.08
+vignette: 26
+temp: 3418
