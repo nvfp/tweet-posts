@@ -1,0 +1,31 @@
+tweet_id: 1759986307248378085
+masto_id: 111964875496851832
+subre_id: Not uploaded, but here's the text: Hey there, it's Tuesday!  #GenerativeArt #MachineLearning
+
+newton_power: 4
+newton_const: 2
+
+n_iter: 152
+ct: 92
+hue_offset: 355
+saturation: 0.51
+
+num_attempts: 257
+dur: 603
+std: 7.01
+size: 883032 (862.34 KiB)
+
+xmin: 2.718631438037158
+xmax: 2.7288009295625817
+ymin: -0.08485766350236457
+ymax: -0.07913732451931371
+
+contrast: 1.55
+brightness: -0.1
+saturation: 1.65
+gamma: 0.96
+gamma_r: 1.01
+gamma_g: 0.93
+gamma_b: 1.0
+vignette: -23
+temp: 7946
