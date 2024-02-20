@@ -1,0 +1,31 @@
+tweet_id: 1760016558196437156
+masto_id: 111965347889581923
+subre_id: Not uploaded, but here's the text: Hey there, it's Tuesday!  #DigitalArt #AI
+
+newton_power: 6
+newton_const: -6
+
+n_iter: 251
+ct: 13
+hue_offset: 197
+saturation: 0.42
+
+num_attempts: 179
+dur: 610
+std: 18.65
+size: 1063877 (1.01 MiB)
+
+xmin: -1.653014338952241
+xmax: -1.641841154594699
+ymin: 0.7034274996727321
+ymax: 0.7097124158738495
+
+contrast: 1.67
+brightness: 0.2
+saturation: 1.15
+gamma: 0.95
+gamma_r: 1.1
+gamma_g: 1.08
+gamma_b: 0.97
+vignette: 9
+temp: 6183
