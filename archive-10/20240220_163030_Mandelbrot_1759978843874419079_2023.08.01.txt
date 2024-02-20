@@ -1,0 +1,28 @@
+tweet_id: 1759978843874419079
+masto_id: FAIL
+subre_id: Not uploaded, but here's the text: Happy Tuesday! Enjoy the beauty of Mandelbrot Set.  #Art #VisualArt
+
+n_iter: 475
+ct: 90
+hue_offset: 35
+saturation: 0.36
+
+num_attempts: 50
+dur: 14
+std: 34.53
+size: 52621 (51.39 KiB)
+
+xmin: -0.3490641761049864
+xmax: -0.34852062399192757
+ymin: -0.6285988683099913
+ymax: -0.6282931202463957
+
+contrast: 1.02
+brightness: 0.13
+saturation: 1.17
+gamma: 0.93
+gamma_r: 0.96
+gamma_g: 1.08
+gamma_b: 1.01
+vignette: 1
+temp: 3859
