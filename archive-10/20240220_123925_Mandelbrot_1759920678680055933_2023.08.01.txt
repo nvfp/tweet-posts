@@ -1,0 +1,28 @@
+tweet_id: 1759920678680055933
+masto_id: 111963849739542758
+subre_id: Not uploaded, but here's the text: Have a great day!  #MachineLearning #VisualArt
+
+n_iter: 538
+ct: 38
+hue_offset: 85
+saturation: 0.57
+
+num_attempts: 10
+dur: 4
+std: 88.44
+size: 1633695 (1.56 MiB)
+
+xmin: 0.18675622770619382
+xmax: 0.1883492185464965
+ymin: -0.5606287223590168
+ymax: -0.5597326650113466
+
+contrast: 1.28
+brightness: 0.21
+saturation: 0.85
+gamma: 1.04
+gamma_r: 1.02
+gamma_g: 1.09
+gamma_b: 0.97
+vignette: 20
+temp: 4718
