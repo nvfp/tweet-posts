@@ -1,0 +1,28 @@
+tweet_id: 1760009090510524672
+masto_id: 111965231109563257
+subre_id: Not uploaded, but here's the text: Chin up, lovely humans!  #Fractals #Art
+
+n_iter: 999
+ct: 159
+hue_offset: 332
+saturation: 0.09
+
+num_attempts: 99
+dur: 74
+std: 146.87
+size: 1189648 (1.13 MiB)
+
+xmin: 0.35064869676473753
+xmax: 0.351432549400442
+ymin: 0.09273972698934019
+ymax: 0.09318064409692396
+
+contrast: 1.59
+brightness: 0.15
+saturation: 0.56
+gamma: 1.0
+gamma_r: 1.02
+gamma_g: 0.93
+gamma_b: 1.03
+vignette: 12
+temp: 6032
