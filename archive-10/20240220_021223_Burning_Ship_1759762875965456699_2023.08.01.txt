@@ -1,0 +1,28 @@
+tweet_id: 1759762875965456699
+masto_id: 111961384120104481
+subre_id: Not uploaded, but here's the text: Warm wishes for your Tuesday, and let's have a look at this Burning Ship.  #Art #Nature
+
+n_iter: 209
+ct: 242
+hue_offset: 312
+saturation: -0.67
+
+num_attempts: 3
+dur: 1
+std: 22.87
+size: 813718 (794.65 KiB)
+
+xmin: -0.5063631240093454
+xmax: 0.13649401884779755
+ymin: -1.3655335511610152
+ymax: -1.0039264083038724
+
+contrast: 1.43
+brightness: 0.21
+saturation: 0.97
+gamma: 1.03
+gamma_r: 0.93
+gamma_g: 1.03
+gamma_b: 0.96
+vignette: 13
+temp: 5014
