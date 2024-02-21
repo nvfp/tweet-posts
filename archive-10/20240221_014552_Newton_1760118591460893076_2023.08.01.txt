@@ -1,0 +1,31 @@
+tweet_id: 1760118591460893076
+masto_id: 111966942142213549
+subre_id: Not uploaded, but here's the text: Brighten your Wednesday!  #VisualArt #AI
+
+newton_power: 6
+newton_const: -6
+
+n_iter: 221
+ct: 13
+hue_offset: 128
+saturation: 0.7
+
+num_attempts: 159
+dur: 600
+std: 16.59
+size: 1184303 (1.13 MiB)
+
+xmin: -1.9993280714335366
+xmax: -1.9902371623426276
+ymin: 1.2107255409736868
+ymax: 1.2158391773373232
+
+contrast: 1.71
+brightness: 0.18
+saturation: 0.96
+gamma: 0.91
+gamma_r: 1.05
+gamma_g: 1.08
+gamma_b: 0.9
+vignette: -10
+temp: 3810
