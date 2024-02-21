@@ -1,0 +1,28 @@
+tweet_id: 1760283327175553035
+masto_id: 111969516193008075
+subre_id: Not uploaded, but here's the text: Wishing you a rad Wednesday!  #Mathematics #Nature
+
+n_iter: 574
+ct: 15
+hue_offset: 332
+saturation: -0.18
+
+num_attempts: 1
+dur: 0
+std: 19.05
+size: 1173307 (1.12 MiB)
+
+xmin: -0.6859011912948021
+xmax: -0.6851630477258779
+ymin: -0.4498934268141216
+ymax: -0.44947822105660173
+
+contrast: 1.67
+brightness: -0.09
+saturation: 1.69
+gamma: 1.0
+gamma_r: 1.04
+gamma_g: 1.0
+gamma_b: 0.98
+vignette: -44
+temp: 3187
