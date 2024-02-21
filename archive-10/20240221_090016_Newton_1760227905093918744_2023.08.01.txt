@@ -1,0 +1,31 @@
+tweet_id: 1760227905093918744
+masto_id: 111968650269299609
+subre_id: Not uploaded, but here's the text: Keep shining on Wednesday!  #GenerativeArt #Mathematics
+
+newton_power: 4
+newton_const: 5
+
+n_iter: 247
+ct: 183
+hue_offset: 251
+saturation: 0.97
+
+num_attempts: 260
+dur: 605
+std: 8.07
+size: 852475 (832.5 KiB)
+
+xmin: -0.3785678776574586
+xmax: -0.3528168046960852
+ymin: 1.0613914351994524
+ymax: 1.075876413740225
+
+contrast: 1.01
+brightness: -0.04
+saturation: 1.15
+gamma: 1.07
+gamma_r: 0.93
+gamma_g: 1.08
+gamma_b: 1.07
+vignette: -40
+temp: 7871
