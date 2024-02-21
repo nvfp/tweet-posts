@@ -1,0 +1,28 @@
+tweet_id: 1760310618509230371
+masto_id: 111969942564994580
+subre_id: Not uploaded, but here's the text: you are fantastic!  #AI #Fractals
+
+n_iter: 336
+ct: 121
+hue_offset: 253
+saturation: -0.45
+
+num_attempts: 468
+dur: 129
+std: 37.81
+size: 1246073 (1.19 MiB)
+
+xmin: -1.290308685937372
+xmax: -1.289851699761204
+ymin: -0.06298057398835866
+ymax: -0.06272351926426406
+
+contrast: 1.54
+brightness: 0.19
+saturation: 0.37
+gamma: 1.02
+gamma_r: 1.02
+gamma_g: 0.99
+gamma_b: 0.9
+vignette: 25
+temp: 5711
