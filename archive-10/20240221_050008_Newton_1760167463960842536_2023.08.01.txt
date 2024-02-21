@@ -1,0 +1,31 @@
+tweet_id: 1760167463960842536
+masto_id: 111967705935233351
+subre_id: Not uploaded, but here's the text: Wow, guess what? it's Newton!  #DigitalArt #MachineLearning
+
+newton_power: 7
+newton_const: 0
+
+n_iter: 201
+ct: 137
+hue_offset: 119
+saturation: 0.88
+
+num_attempts: 149
+dur: 601
+std: 4.27
+size: 656672 (641.28 KiB)
+
+xmin: -1.9439296847829288
+xmax: 0.056070315217071176
+ymin: -0.5747974428592231
+ymax: 0.5502025571407769
+
+contrast: 0.8
+brightness: -0.09
+saturation: 0.59
+gamma: 1.07
+gamma_r: 0.98
+gamma_g: 1.04
+gamma_b: 0.93
+vignette: -43
+temp: 5619
