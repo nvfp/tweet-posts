@@ -1,0 +1,31 @@
+tweet_id: 1760258027632947587
+masto_id: 111969120851569791
+subre_id: Not uploaded, but here's the text: Shine bright like the sun on this Wednesday!  #GenerativeArt #Mathematics
+
+newton_power: 5
+newton_const: -6
+
+n_iter: 126
+ct: 114
+hue_offset: 183
+saturation: 0.96
+
+num_attempts: 211
+dur: 600
+std: 11.36
+size: 1043148 (1018.7 KiB)
+
+xmin: 2.410553382378235
+xmax: 2.7634945588488233
+ymin: 1.7147692146752673
+ymax: 1.9132986264399732
+
+contrast: 0.72
+brightness: 0.16
+saturation: 0.52
+gamma: 0.95
+gamma_r: 1.01
+gamma_g: 1.08
+gamma_b: 1.04
+vignette: 17
+temp: 4716
