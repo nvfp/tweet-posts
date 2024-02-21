@@ -1,0 +1,28 @@
+tweet_id: 1760314039777853800
+masto_id: 111969996080431612
+subre_id: Not uploaded, but here's the text: Another Wednesday, another Multibrot!  #Mathematics #DigitalArt
+
+n_iter: 401
+ct: 1
+hue_offset: 100
+saturation: 0.84
+
+num_attempts: 601
+dur: 605
+std: 70.98
+size: 953433 (931.09 KiB)
+
+xmin: 0.10655434738962644
+xmax: 0.11109980193508098
+ymin: 0.761512116434838
+ymax: 0.7640689346166561
+
+contrast: 1.72
+brightness: 0.08
+saturation: 0.33
+gamma: 1.07
+gamma_r: 1.19
+gamma_g: 0.86
+gamma_b: 1.14
+vignette: -22
+temp: 6031
