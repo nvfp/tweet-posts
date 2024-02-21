@@ -1,0 +1,28 @@
+tweet_id: 1760395721625444696
+masto_id: 111971272431457782
+subre_id: Not uploaded, but here's the text: Wednesday vibes!  #GenerativeArt #DigitalArt
+
+n_iter: 330
+ct: 178
+hue_offset: 108
+saturation: -0.58
+
+num_attempts: 9
+dur: 3
+std: 22.12
+size: 724233 (707.26 KiB)
+
+xmin: -2.076963522035925
+xmax: 0.17303647796407517
+ymin: -1.9197504648508747
+ymax: -0.6541254648508747
+
+contrast: 1.04
+brightness: -0.07
+saturation: 1.63
+gamma: 0.96
+gamma_r: 1.0
+gamma_g: 0.98
+gamma_b: 0.97
+vignette: -19
+temp: 6513
