@@ -1,0 +1,31 @@
+tweet_id: 1760137243237486667
+masto_id: 111967233563126777
+subre_id: Not uploaded, but here's the text: Let this Newton brighten up your Wednesday!  #AI #Art
+
+newton_power: 7
+newton_const: -5
+
+n_iter: 199
+ct: 22
+hue_offset: 279
+saturation: 0.97
+
+num_attempts: 157
+dur: 600
+std: 22.31
+size: 1186934 (1.13 MiB)
+
+xmin: 1.300485583643928
+xmax: 1.3320645310123491
+ymin: 0.7832903196571408
+ymax: 0.8010534775518776
+
+contrast: 0.95
+brightness: 0.01
+saturation: 1.33
+gamma: 0.95
+gamma_r: 0.92
+gamma_g: 1.05
+gamma_b: 1.08
+vignette: 12
+temp: 7431
