@@ -1,0 +1,28 @@
+tweet_id: 1760223529528590782
+masto_id: 111968581835642630
+subre_id: Not uploaded, but here's the text: Hope you're having a great Wednesday!  #VisualArt #DeepLearning
+
+n_iter: 355
+ct: 255
+hue_offset: 67
+saturation: -0.85
+
+num_attempts: 735
+dur: 602
+std: 63.19
+size: 1459951 (1.39 MiB)
+
+xmin: 0.30920477913145117
+xmax: 0.3158492974038764
+ymin: 0.6790011854828388
+ymax: 0.6827387270110781
+
+contrast: 0.99
+brightness: 0.11
+saturation: 1.67
+gamma: 1.15
+gamma_r: 1.18
+gamma_g: 0.96
+gamma_b: 1.18
+vignette: -29
+temp: 7390
