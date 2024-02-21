@@ -1,0 +1,28 @@
+tweet_id: 1760253827561771390
+masto_id: 111969055270754673
+subre_id: Not uploaded, but here's the text: Guess what? It's Multibrot!  #DigitalArt #Fractals
+
+n_iter: 580
+ct: 255
+hue_offset: 34
+saturation: -0.11
+
+num_attempts: 351
+dur: 602
+std: 72.03
+size: 1119186 (1.07 MiB)
+
+xmin: -0.5442112906575671
+xmax: -0.5282112906575671
+ymin: -0.39598124769115994
+ymax: -0.38698124769115994
+
+contrast: 1.37
+brightness: 0.11
+saturation: 0.94
+gamma: 0.92
+gamma_r: 0.94
+gamma_g: 0.97
+gamma_b: 1.18
+vignette: -24
+temp: 3868
