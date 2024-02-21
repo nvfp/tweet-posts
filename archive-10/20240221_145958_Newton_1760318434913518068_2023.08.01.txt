@@ -1,0 +1,31 @@
+tweet_id: 1760318434913518068
+masto_id: 111970064691656053
+subre_id: Not uploaded, but here's the text: Surprise! It's a Newton!  #GenerativeArt #Fractals
+
+newton_power: 5
+newton_const: -5
+
+n_iter: 101
+ct: 242
+hue_offset: 217
+saturation: 0.22
+
+num_attempts: 214
+dur: 605
+std: 13.1
+size: 876381 (855.84 KiB)
+
+xmin: -0.183087308603755
+xmax: -0.1731205311951171
+ymin: 0.33825523437584826
+ymax: 0.34386154666820706
+
+contrast: 1.67
+brightness: -0.06
+saturation: 1.66
+gamma: 1.02
+gamma_r: 1.09
+gamma_g: 1.0
+gamma_b: 1.04
+vignette: 8
+temp: 7631
