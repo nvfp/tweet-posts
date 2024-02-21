@@ -1,0 +1,28 @@
+tweet_id: 1760341247707824559
+masto_id: 111970421114602184
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Wednesday!  #MachineLearning #DigitalArt
+
+n_iter: 131
+ct: 76
+hue_offset: 56
+saturation: -0.71
+
+num_attempts: 117
+dur: 21
+std: 15.82
+size: 410618 (400.99 KiB)
+
+xmin: -0.28932197214747957
+xmax: -0.28668692603417256
+ymin: 0.6686735086391453
+ymax: 0.6701557220778805
+
+contrast: 1.38
+brightness: 0.03
+saturation: 0.46
+gamma: 0.96
+gamma_r: 0.98
+gamma_g: 0.97
+gamma_b: 1.08
+vignette: -1
+temp: 2168
