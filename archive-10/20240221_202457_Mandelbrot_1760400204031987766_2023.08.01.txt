@@ -1,0 +1,28 @@
+tweet_id: 1760400204031987766
+masto_id: 111971342521343795
+subre_id: Not uploaded, but here's the text: Happy Wednesday! Enjoy the beauty of Mandelbrot Set.  #Fractals #DigitalArt
+
+n_iter: 418
+ct: 74
+hue_offset: 191
+saturation: -0.53
+
+num_attempts: 71
+dur: 22
+std: 74.69
+size: 704243 (687.74 KiB)
+
+xmin: -1.1152070566904633
+xmax: -1.1146375806084587
+ymin: -0.2547310822586466
+ymax: -0.25441075196251905
+
+contrast: 0.86
+brightness: 0.14
+saturation: 1.33
+gamma: 1.02
+gamma_r: 1.03
+gamma_g: 0.94
+gamma_b: 0.99
+vignette: -20
+temp: 3857
