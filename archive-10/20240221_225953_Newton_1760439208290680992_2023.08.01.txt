@@ -1,0 +1,31 @@
+tweet_id: 1760439208290680992
+masto_id: 111971951791468703
+subre_id: Not uploaded, but here's the text: Shine bright like the sun on this Wednesday!  #GenerativeArt #Fractals
+
+newton_power: 6
+newton_const: 5
+
+n_iter: 166
+ct: 238
+hue_offset: 26
+saturation: -0.3
+
+num_attempts: 174
+dur: 601
+std: 18.7
+size: 608418 (594.16 KiB)
+
+xmin: 0.4853752484283924
+xmax: 0.5414500147835326
+ymin: -0.8899918697174065
+ymax: -0.8584498136426402
+
+contrast: 1.4
+brightness: -0.03
+saturation: 0.42
+gamma: 1.01
+gamma_r: 0.95
+gamma_g: 0.93
+gamma_b: 0.98
+vignette: 4
+temp: 2266
