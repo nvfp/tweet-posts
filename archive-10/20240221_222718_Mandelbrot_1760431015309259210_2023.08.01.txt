@@ -1,0 +1,28 @@
+tweet_id: 1760431015309259210
+masto_id: 111971823697150119
+subre_id: Not uploaded, but here's the text: Have an extraordinary Wednesday!  #AI #Mathematics
+
+n_iter: 145
+ct: 69
+hue_offset: 86
+saturation: -0.21
+
+num_attempts: 46
+dur: 9
+std: 26.93
+size: 768812 (750.79 KiB)
+
+xmin: 0.19615035302494688
+xmax: 0.24809840497299884
+ymin: 0.5272768457083374
+ymax: 0.5564976249291167
+
+contrast: 1.02
+brightness: -0.08
+saturation: 0.61
+gamma: 1.04
+gamma_r: 1.09
+gamma_g: 0.98
+gamma_b: 1.08
+vignette: -36
+temp: 2884
