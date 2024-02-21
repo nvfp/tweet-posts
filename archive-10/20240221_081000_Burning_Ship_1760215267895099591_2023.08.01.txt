@@ -1,0 +1,28 @@
+tweet_id: 1760215267895099591
+masto_id: 111968452637329333
+subre_id: Not uploaded, but here's the text: Look what we have here! it's Burning Ship!  #Nature #Mathematics
+
+n_iter: 166
+ct: 88
+hue_offset: 23
+saturation: 0.6
+
+num_attempts: 20
+dur: 5
+std: 24.21
+size: 2297505 (2.19 MiB)
+
+xmin: -0.6243320406691784
+xmax: -0.5769636196165467
+ymin: -0.9202068624029685
+ymax: -0.8935621255608632
+
+contrast: 1.15
+brightness: 0.05
+saturation: 1.5
+gamma: 0.97
+gamma_r: 0.93
+gamma_g: 1.08
+gamma_b: 1.01
+vignette: -19
+temp: 5745
