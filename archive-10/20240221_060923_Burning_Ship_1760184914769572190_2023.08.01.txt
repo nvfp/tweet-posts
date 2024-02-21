@@ -1,0 +1,28 @@
+tweet_id: 1760184914769572190
+masto_id: 111967978371137390
+subre_id: Not uploaded, but here's the text: Another Wednesday, another Burning Ship!  #Mathematics #DeepLearning
+
+n_iter: 210
+ct: 194
+hue_offset: 30
+saturation: -0.1
+
+num_attempts: 16
+dur: 3
+std: 34.56
+size: 1923959 (1.83 MiB)
+
+xmin: -1.2883133311068633
+xmax: -1.1904872441503416
+ymin: -0.40193057609628347
+ymax: -0.34690340218324
+
+contrast: 0.73
+brightness: 0.07
+saturation: 1.0
+gamma: 0.95
+gamma_r: 1.09
+gamma_g: 0.93
+gamma_b: 0.96
+vignette: -25
+temp: 7926
