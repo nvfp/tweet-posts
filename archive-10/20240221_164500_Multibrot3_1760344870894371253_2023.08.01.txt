@@ -1,0 +1,28 @@
+tweet_id: 1760344870894371253
+masto_id: 111970477673725493
+subre_id: Not uploaded, but here's the text: Let's rock this Wednesday!  #Nature #Art
+
+n_iter: 609
+ct: 255
+hue_offset: 294
+saturation: -0.35
+
+num_attempts: 359
+dur: 606
+std: 91.04
+size: 711657 (694.98 KiB)
+
+xmin: 0.5258773741353142
+xmax: 0.5303920468215445
+ymin: 0.6132488889895624
+ymax: 0.6157883923755669
+
+contrast: 1.77
+brightness: -0.02
+saturation: 1.64
+gamma: 0.85
+gamma_r: 0.94
+gamma_g: 0.94
+gamma_b: 0.85
+vignette: 22
+temp: 2355
