@@ -1,0 +1,31 @@
+tweet_id: 1760197701562765370
+masto_id: 111968178720182316
+subre_id: Not uploaded, but here's the text: Smile on this lovely day!  #GenerativeArt #AI
+
+newton_power: 5
+newton_const: -3
+
+n_iter: 99
+ct: 180
+hue_offset: 306
+saturation: -0.72
+
+num_attempts: 214
+dur: 601
+std: 12.48
+size: 553899 (540.92 KiB)
+
+xmin: 0.7618416388880478
+xmax: 0.7951749722213811
+ymin: 0.5532579590787043
+ymax: 0.5720079590787044
+
+contrast: 1.36
+brightness: 0.2
+saturation: 0.28
+gamma: 1.05
+gamma_r: 1.04
+gamma_g: 1.01
+gamma_b: 1.02
+vignette: -15
+temp: 3534
