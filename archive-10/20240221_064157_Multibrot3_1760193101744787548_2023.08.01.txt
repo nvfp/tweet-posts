@@ -1,0 +1,28 @@
+tweet_id: 1760193101744787548
+masto_id: 111968106334565101
+subre_id: Not uploaded, but here's the text: This Wednesday is made even better by this Multibrot!  #DeepLearning #Fractals
+
+n_iter: 359
+ct: 1
+hue_offset: 183
+saturation: 0.9
+
+num_attempts: 721
+dur: 600
+std: 64.38
+size: 1438940 (1.37 MiB)
+
+xmin: 0.379865741597468
+xmax: 0.38921153598999136
+ymin: 0.6219264435295844
+ymax: 0.6271834528753788
+
+contrast: 0.72
+brightness: 0.17
+saturation: 1.26
+gamma: 0.93
+gamma_r: 0.87
+gamma_g: 1.03
+gamma_b: 1.01
+vignette: -29
+temp: 7220
