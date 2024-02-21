@@ -1,0 +1,28 @@
+tweet_id: 1760374443283476537
+masto_id: 111970939816285916
+subre_id: Not uploaded, but here's the text: Wishing you a rad Wednesday!  #VisualArt #AI
+
+n_iter: 623
+ct: 1
+hue_offset: 312
+saturation: -0.33
+
+num_attempts: 361
+dur: 608
+std: 102.96
+size: 1392090 (1.33 MiB)
+
+xmin: -0.19317739251811816
+xmax: -0.18873294807367372
+ymin: -1.043030060998744
+ymax: -1.040530060998744
+
+contrast: 1.6
+brightness: 0.21
+saturation: 1.36
+gamma: 1.1
+gamma_r: 0.99
+gamma_g: 1.18
+gamma_b: 0.89
+vignette: 21
+temp: 4011
