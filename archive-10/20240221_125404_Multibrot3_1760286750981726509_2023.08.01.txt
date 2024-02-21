@@ -1,0 +1,28 @@
+tweet_id: 1760286750981726509
+masto_id: 111969569640916767
+subre_id: Not uploaded, but here's the text: Hey there, it's Wednesday!  #Fractals #GenerativeArt
+
+n_iter: 643
+ct: 255
+hue_offset: 129
+saturation: 0.64
+
+num_attempts: 421
+dur: 607
+std: 72.09
+size: 1170226 (1.12 MiB)
+
+xmin: 0.4151742500657072
+xmax: 0.431567692688658
+ymin: -0.6001919954668571
+ymax: -0.5909706839914473
+
+contrast: 1.58
+brightness: 0.15
+saturation: 0.27
+gamma: 1.14
+gamma_r: 0.9
+gamma_g: 1.03
+gamma_b: 0.93
+vignette: -18
+temp: 4208
