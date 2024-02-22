@@ -1,0 +1,31 @@
+tweet_id: 1760680850918875217
+masto_id: 111975727540187044
+subre_id: Not uploaded, but here's the text: you're awesome!  #VisualArt #DigitalArt
+
+newton_power: 7
+newton_const: 10
+
+n_iter: 213
+ct: 244
+hue_offset: 212
+saturation: 0.47
+
+num_attempts: 159
+dur: 600
+std: 18.92
+size: 1176509 (1.12 MiB)
+
+xmin: -0.283462975408709
+xmax: -0.27673651800960586
+ymin: -0.11096581385615001
+ymax: -0.10718218156915449
+
+contrast: 0.73
+brightness: 0.07
+saturation: 1.25
+gamma: 0.95
+gamma_r: 0.94
+gamma_g: 1.05
+gamma_b: 1.04
+vignette: -30
+temp: 4493
