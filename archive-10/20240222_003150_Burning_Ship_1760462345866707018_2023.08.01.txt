@@ -1,0 +1,28 @@
+tweet_id: 1760462345866707018
+masto_id: 111972313388981996
+subre_id: Not uploaded, but here's the text: Shine bright like the sun on this Thursday!  #VisualArt #Art
+
+n_iter: 503
+ct: 251
+hue_offset: 311
+saturation: 0.92
+
+num_attempts: 1
+dur: 0
+std: 21.47
+size: 973161 (950.35 KiB)
+
+xmin: -0.43920967086046225
+xmax: -0.18920967086046225
+ymin: -1.1902467666935586
+ymax: -1.0496217666935586
+
+contrast: 0.73
+brightness: 0.05
+saturation: 1.07
+gamma: 0.98
+gamma_r: 0.92
+gamma_g: 0.91
+gamma_b: 0.92
+vignette: 30
+temp: 3966
