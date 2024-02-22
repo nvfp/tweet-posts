@@ -1,0 +1,28 @@
+tweet_id: 1760491566357987827
+masto_id: 111972769815520112
+subre_id: Not uploaded, but here's the text: Smile, it's Thursday!  #AI #Fractals
+
+n_iter: 447
+ct: 12
+hue_offset: 265
+saturation: -0.15
+
+num_attempts: 21
+dur: 6
+std: 37.07
+size: 1630653 (1.56 MiB)
+
+xmin: 0.045631831014461444
+xmax: 0.05689943664826426
+ymin: -0.660854292145843
+ymax: -0.6545162639768289
+
+contrast: 1.34
+brightness: -0.08
+saturation: 0.52
+gamma: 1.01
+gamma_r: 0.99
+gamma_g: 0.99
+gamma_b: 1.1
+vignette: -40
+temp: 7591
