@@ -1,0 +1,31 @@
+tweet_id: 1760801602879820167
+masto_id: 111977614224245843
+subre_id: Not uploaded, but here's the text: Wow, take a look! There's Newton!  #VisualArt #DigitalArt
+
+newton_power: 5
+newton_const: 8
+
+n_iter: 71
+ct: 238
+hue_offset: 177
+saturation: 0.35
+
+num_attempts: 200
+dur: 600
+std: 24.77
+size: 402151 (392.73 KiB)
+
+xmin: -1.3687152054582326
+xmax: -1.355232059390817
+ymin: -0.992833101783043
+ymax: -0.9852488321201216
+
+contrast: 0.83
+brightness: -0.05
+saturation: 1.68
+gamma: 0.9
+gamma_r: 0.93
+gamma_g: 1.06
+gamma_b: 0.98
+vignette: -30
+temp: 7569
