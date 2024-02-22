@@ -1,0 +1,31 @@
+tweet_id: 1760771494584390008
+masto_id: 111977143780204928
+subre_id: Not uploaded, but here's the text: Ever heard of this Newton?  #GenerativeArt #Nature
+
+newton_power: 6
+newton_const: -1
+
+n_iter: 120
+ct: 59
+hue_offset: 38
+saturation: -0.12
+
+num_attempts: 168
+dur: 600
+std: 15.6
+size: 1025789 (1001.75 KiB)
+
+xmin: 2.5005939566635327
+xmax: 2.51970223691831
+ymin: -1.6849209878377547
+ymax: -1.6741725801944425
+
+contrast: 1.64
+brightness: 0.07
+saturation: 1.41
+gamma: 1.02
+gamma_r: 0.93
+gamma_g: 0.97
+gamma_b: 0.91
+vignette: 15
+temp: 2336
