@@ -1,0 +1,28 @@
+tweet_id: 1760728431938134208
+masto_id: 111976470951890853
+subre_id: Not uploaded, but here's the text: Good Thursday! This Burning Ship is for you!  #DigitalArt #DeepLearning
+
+n_iter: 204
+ct: 153
+hue_offset: 283
+saturation: -0.1
+
+num_attempts: 43
+dur: 8
+std: 20.89
+size: 680980 (665.02 KiB)
+
+xmin: -1.2732956888231097
+xmax: 0.22670431117689027
+ymin: -1.593848528205343
+ymax: -0.750098528205343
+
+contrast: 1.64
+brightness: 0.18
+saturation: 1.53
+gamma: 1.07
+gamma_r: 1.07
+gamma_g: 1.06
+gamma_b: 0.97
+vignette: 22
+temp: 6081
