@@ -1,0 +1,28 @@
+tweet_id: 1760547279726112865
+masto_id: 111973640340990981
+subre_id: Not uploaded, but here's the text: Wishing you a wonderful Thursday!  #GenerativeArt #Art
+
+n_iter: 492
+ct: 244
+hue_offset: 241
+saturation: -0.5
+
+num_attempts: 11
+dur: 7
+std: 22.45
+size: 1481825 (1.41 MiB)
+
+xmin: -0.6678484318874991
+xmax: -0.5915772454468211
+ymin: -1.0409529388323988
+ymax: -0.9980503964595174
+
+contrast: 1.72
+brightness: 0.15
+saturation: 0.28
+gamma: 0.91
+gamma_r: 0.94
+gamma_g: 1.03
+gamma_b: 0.98
+vignette: 23
+temp: 3415
