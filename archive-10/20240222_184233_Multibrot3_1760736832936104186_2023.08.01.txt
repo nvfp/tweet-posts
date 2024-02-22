@@ -1,0 +1,28 @@
+tweet_id: 1760736832936104186
+masto_id: 111976602201819584
+subre_id: Not uploaded, but here's the text: Wishing you the best!  #Art #MachineLearning
+
+n_iter: 660
+ct: 255
+hue_offset: 63
+saturation: -0.03
+
+num_attempts: 347
+dur: 605
+std: 86.19
+size: 774226 (756.08 KiB)
+
+xmin: -0.18792740839586108
+xmax: -0.17805086518598454
+ymin: 0.743866932029702
+ymax: 0.7494224875852575
+
+contrast: 1.49
+brightness: 0.23
+saturation: 1.06
+gamma: 0.84
+gamma_r: 0.82
+gamma_g: 0.98
+gamma_b: 1.04
+vignette: 22
+temp: 2191
