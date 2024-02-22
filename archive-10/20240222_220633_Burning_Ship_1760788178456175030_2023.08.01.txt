@@ -1,0 +1,28 @@
+tweet_id: 1760788178456175030
+masto_id: 111977404376948966
+subre_id: Not uploaded, but here's the text: A great Thursday and a beautiful Burning Ship.  #AI #DigitalArt
+
+n_iter: 444
+ct: 82
+hue_offset: 247
+saturation: 0.33
+
+num_attempts: 4
+dur: 4
+std: 69.76
+size: 2566843 (2.45 MiB)
+
+xmin: -0.26766576888492155
+xmax: -0.17943047476727447
+ymin: -0.9898172407596599
+ymax: -0.9401848878184834
+
+contrast: 1.01
+brightness: 0.03
+saturation: 0.88
+gamma: 1.02
+gamma_r: 1.05
+gamma_g: 0.99
+gamma_b: 0.95
+vignette: -32
+temp: 7285
