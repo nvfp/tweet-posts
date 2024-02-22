@@ -1,0 +1,28 @@
+tweet_id: 1760638478826786985
+masto_id: 111975065432057502
+subre_id: Not uploaded, but here's the text: Surprise! Burning Ship!  #DigitalArt #Fractals
+
+n_iter: 489
+ct: 99
+hue_offset: 125
+saturation: 0.56
+
+num_attempts: 2
+dur: 2
+std: 47.89
+size: 1119185 (1.07 MiB)
+
+xmin: -0.06820644268427811
+xmax: 0.3067935573157219
+ymin: -1.285737359950193
+ymax: -1.074799859950193
+
+contrast: 0.78
+brightness: 0.11
+saturation: 0.58
+gamma: 0.91
+gamma_r: 0.94
+gamma_g: 1.1
+gamma_b: 1.09
+vignette: -24
+temp: 4180
