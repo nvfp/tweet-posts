@@ -1,0 +1,28 @@
+tweet_id: 1760645910273360145
+masto_id: 111975181546369791
+subre_id: Not uploaded, but here's the text: Smile, it's Thursday!  #Nature #VisualArt
+
+n_iter: 475
+ct: 82
+hue_offset: 108
+saturation: -0.05
+
+num_attempts: 164
+dur: 57
+std: 16.0
+size: 463678 (452.81 KiB)
+
+xmin: -0.7599472710216761
+xmax: -0.759093300056689
+ymin: 0.07536690295092585
+ymax: 0.07584726161873115
+
+contrast: 1.15
+brightness: 0.17
+saturation: 0.61
+gamma: 1.03
+gamma_r: 0.99
+gamma_g: 0.99
+gamma_b: 1.01
+vignette: -24
+temp: 2479
