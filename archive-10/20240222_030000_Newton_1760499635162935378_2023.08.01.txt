@@ -1,0 +1,31 @@
+tweet_id: 1760499635162935378
+masto_id: 111972895979734021
+subre_id: Not uploaded, but here's the text: Let the magic of Thursday fill your heart!  #DigitalArt #GenerativeArt
+
+newton_power: 3
+newton_const: 2
+
+n_iter: 187
+ct: 35
+hue_offset: 178
+saturation: -0.79
+
+num_attempts: 522
+dur: 601
+std: 3.98
+size: 879172 (858.57 KiB)
+
+xmin: -0.3929347846423883
+xmax: 0.2070652153576117
+ymin: -0.17033384027738685
+ymax: 0.16716615972261312
+
+contrast: 1.13
+brightness: 0.17
+saturation: 0.93
+gamma: 0.96
+gamma_r: 0.91
+gamma_g: 0.93
+gamma_b: 0.92
+vignette: -22
+temp: 3022
