@@ -1,0 +1,28 @@
+tweet_id: 1760698073389355424
+masto_id: 111975996602310232
+subre_id: Not uploaded, but here's the text: A great Thursday and a beautiful Burning Ship.  #Mathematics #DigitalArt
+
+n_iter: 215
+ct: 229
+hue_offset: 79
+saturation: 0.87
+
+num_attempts: 20
+dur: 8
+std: 29.64
+size: 836547 (816.94 KiB)
+
+xmin: 0.2812508591147478
+xmax: 0.690341768205657
+ymin: -1.2002344541918721
+ymax: -0.9701208178282358
+
+contrast: 0.84
+brightness: 0.08
+saturation: 0.37
+gamma: 0.93
+gamma_r: 1.05
+gamma_g: 0.96
+gamma_b: 1.05
+vignette: -16
+temp: 2896
