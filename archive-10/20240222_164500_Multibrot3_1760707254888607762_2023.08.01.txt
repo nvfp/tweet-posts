@@ -1,0 +1,28 @@
+tweet_id: 1760707254888607762
+masto_id: 111976139948462857
+subre_id: Not uploaded, but here's the text: Feeling the Multibrot vibes today!  #DeepLearning #DigitalArt
+
+n_iter: 637
+ct: 255
+hue_offset: 10
+saturation: 0.8
+
+num_attempts: 430
+dur: 604
+std: 76.25
+size: 423424 (413.5 KiB)
+
+xmin: 0.19169015676135936
+xmax: 0.20036694634921187
+ymin: 0.7489723897938365
+ymax: 0.7538530839370036
+
+contrast: 1.56
+brightness: 0.18
+saturation: 0.35
+gamma: 1.17
+gamma_r: 1.03
+gamma_g: 1.07
+gamma_b: 0.96
+vignette: 7
+temp: 3164
