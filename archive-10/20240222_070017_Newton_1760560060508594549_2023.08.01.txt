@@ -1,0 +1,31 @@
+tweet_id: 1760560060508594549
+masto_id: 111973840795658918
+subre_id: Not uploaded, but here's the text: Brighten your Thursday!  #GenerativeArt #DeepLearning
+
+newton_power: 5
+newton_const: -9
+
+n_iter: 171
+ct: 67
+hue_offset: 145
+saturation: 0.42
+
+num_attempts: 204
+dur: 601
+std: 14.05
+size: 806519 (787.62 KiB)
+
+xmin: -0.20742499694610483
+xmax: 0.042575003053895166
+ymin: -0.06275699795046386
+ymax: 0.07786800204953614
+
+contrast: 0.86
+brightness: 0.05
+saturation: 1.5
+gamma: 1.02
+gamma_r: 1.06
+gamma_g: 0.92
+gamma_b: 1.01
+vignette: 16
+temp: 2488
