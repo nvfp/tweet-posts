@@ -1,0 +1,28 @@
+tweet_id: FAIL
+masto_id: 111973297883222777
+subre_id: Not uploaded, but here's the text: Today is awesome!  #Nature #Mathematics
+
+n_iter: 318
+ct: 1
+hue_offset: 80
+saturation: 0.98
+
+num_attempts: 700
+dur: 602
+std: 58.69
+size: 1258844 (1.2 MiB)
+
+xmin: -0.3065076457443279
+xmax: -0.2977549105145686
+ymin: 0.6890935713520654
+ymax: 0.694016984918805
+
+contrast: 1.31
+brightness: -0.1
+saturation: 0.75
+gamma: 1.11
+gamma_r: 1.07
+gamma_g: 1.08
+gamma_b: 1.01
+vignette: 3
+temp: 5009
