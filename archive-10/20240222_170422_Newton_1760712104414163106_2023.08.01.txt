@@ -1,0 +1,31 @@
+tweet_id: 1760712104414163106
+masto_id: 111976216031210815
+subre_id: Not uploaded, but here's the text: Warm wishes for your Thursday, and let's have a look at this Newton.  #GenerativeArt #VisualArt
+
+newton_power: 3
+newton_const: 0
+
+n_iter: 175
+ct: 157
+hue_offset: 121
+saturation: 0.52
+
+num_attempts: 430
+dur: 850
+std: 1.61
+size: 710442 (693.79 KiB)
+
+xmin: -0.426189360249412
+xmax: 1.073810639750588
+ymin: -0.6960422305635532
+ymax: 0.1477077694364468
+
+contrast: 1.1
+brightness: 0.16
+saturation: 0.44
+gamma: 0.99
+gamma_r: 0.92
+gamma_g: 1.03
+gamma_b: 0.9
+vignette: -45
+temp: 3581
