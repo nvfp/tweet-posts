@@ -1,0 +1,28 @@
+tweet_id: 1761007986745454707
+masto_id: 111980838961697801
+subre_id: Not uploaded, but here's the text: Friday vibes!  #Fractals #Mathematics
+
+n_iter: 900
+ct: 244
+hue_offset: 335
+saturation: -0.95
+
+num_attempts: 94
+dur: 56
+std: 41.29
+size: 1267755 (1.21 MiB)
+
+xmin: -0.03706571310329032
+xmax: -0.03655295832826148
+ymin: 0.683510565707188
+ymax: 0.6837989902681417
+
+contrast: 1.09
+brightness: -0.02
+saturation: 1.5
+gamma: 1.06
+gamma_r: 1.01
+gamma_g: 0.93
+gamma_b: 1.09
+vignette: -19
+temp: 6222
