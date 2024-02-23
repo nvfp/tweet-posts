@@ -1,0 +1,31 @@
+tweet_id: 1760982848998195512
+masto_id: 111980446225911133
+subre_id: Not uploaded, but here's the text: Wow, take a look! There's Newton!  #Mathematics #DeepLearning
+
+newton_power: 6
+newton_const: -5
+
+n_iter: 234
+ct: 218
+hue_offset: 56
+saturation: 0.54
+
+num_attempts: 160
+dur: 602
+std: 19.11
+size: 1201299 (1.15 MiB)
+
+xmin: -0.0017481443555014131
+xmax: 0.007539781341093014
+ymin: 0.4124745736904374
+ymax: 0.41769903189477176
+
+contrast: 1.35
+brightness: 0.04
+saturation: 1.65
+gamma: 0.92
+gamma_r: 1.1
+gamma_g: 0.97
+gamma_b: 1.0
+vignette: 13
+temp: 6109
