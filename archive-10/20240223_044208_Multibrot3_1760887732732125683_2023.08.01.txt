@@ -1,0 +1,28 @@
+tweet_id: 1760887732732125683
+masto_id: 111978959884619771
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Friday! You got this!  #VisualArt #DigitalArt
+
+n_iter: 345
+ct: 255
+hue_offset: 261
+saturation: 0.28
+
+num_attempts: 601
+dur: 602
+std: 64.84
+size: 832026 (812.53 KiB)
+
+xmin: -0.5500965287815995
+xmax: -0.543176113556686
+ymin: 0.22576030173306116
+ymax: 0.229653035297075
+
+contrast: 0.78
+brightness: 0.03
+saturation: 1.41
+gamma: 0.83
+gamma_r: 0.83
+gamma_g: 1.01
+gamma_b: 1.1
+vignette: 2
+temp: 2214
