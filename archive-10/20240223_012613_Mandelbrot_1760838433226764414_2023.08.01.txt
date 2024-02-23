@@ -1,0 +1,28 @@
+tweet_id: 1760838433226764414
+masto_id: 111978189536617603
+subre_id: Not uploaded, but here's the text: Enjoy your Friday!  #VisualArt #DeepLearning
+
+n_iter: 504
+ct: 81
+hue_offset: 231
+saturation: -0.24
+
+num_attempts: 46
+dur: 19
+std: 38.69
+size: 29130 (28.45 KiB)
+
+xmin: -0.8757701111932081
+xmax: -0.8734185532860946
+ymin: 0.21485258846033117
+ymax: 0.2161753397830825
+
+contrast: 1.61
+brightness: 0.0
+saturation: 1.48
+gamma: 1.02
+gamma_r: 0.93
+gamma_g: 0.97
+gamma_b: 0.92
+vignette: -2
+temp: 4668
