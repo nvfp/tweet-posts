@@ -1,0 +1,28 @@
+tweet_id: 1761155606663086333
+masto_id: 111983145534257930
+subre_id: Not uploaded, but here's the text: Cheers to a fantastic Friday!  #Art #AI
+
+n_iter: 512
+ct: 242
+hue_offset: 339
+saturation: 0.48
+
+num_attempts: 19
+dur: 5
+std: 18.77
+size: 777806 (759.58 KiB)
+
+xmin: -0.707818753078699
+xmax: -0.7073974787237753
+ymin: -0.3297800378373248
+ymax: -0.32954307101268027
+
+contrast: 0.95
+brightness: 0.19
+saturation: 0.4
+gamma: 0.95
+gamma_r: 0.97
+gamma_g: 1.0
+gamma_b: 1.04
+vignette: 17
+temp: 5489
