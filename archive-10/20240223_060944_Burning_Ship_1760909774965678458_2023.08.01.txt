@@ -1,0 +1,28 @@
+tweet_id: 1760909774965678458
+masto_id: 111979304324011859
+subre_id: Not uploaded, but here's the text: Enjoy your Friday!  #Fractals #MachineLearning
+
+n_iter: 240
+ct: 167
+hue_offset: 124
+saturation: 0.56
+
+num_attempts: 17
+dur: 6
+std: 38.84
+size: 1765811 (1.68 MiB)
+
+xmin: -0.740556600630996
+xmax: -0.633413743488139
+ymin: -0.783876494417773
+ymax: -0.7236086372749159
+
+contrast: 1.08
+brightness: -0.03
+saturation: 1.72
+gamma: 1.03
+gamma_r: 0.94
+gamma_g: 0.95
+gamma_b: 0.92
+vignette: -5
+temp: 5974
