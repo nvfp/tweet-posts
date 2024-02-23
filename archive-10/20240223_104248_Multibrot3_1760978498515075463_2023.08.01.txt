@@ -1,0 +1,28 @@
+tweet_id: 1760978498515075463
+masto_id: 111980378092815890
+subre_id: Not uploaded, but here's the text: Have an extraordinary Friday!  #VisualArt #Art
+
+n_iter: 636
+ct: 255
+hue_offset: 116
+saturation: 0.85
+
+num_attempts: 526
+dur: 601
+std: 106.28
+size: 1319743 (1.26 MiB)
+
+xmin: -0.3714073025719318
+xmax: -0.3650480020949842
+ymin: -0.64349299244419
+ymax: -0.639915885925907
+
+contrast: 1.24
+brightness: -0.01
+saturation: 1.24
+gamma: 1.07
+gamma_r: 1.19
+gamma_g: 1.2
+gamma_b: 0.86
+vignette: 9
+temp: 7309
