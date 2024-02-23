@@ -1,0 +1,28 @@
+tweet_id: 1761034834925732264
+masto_id: 111981259315868122
+subre_id: Not uploaded, but here's the text: Friday is shining brightly, just like this Mandelbrot Set.  #Art #GenerativeArt
+
+n_iter: 565
+ct: 54
+hue_offset: 274
+saturation: -0.35
+
+num_attempts: 24
+dur: 8
+std: 99.67
+size: 1838523 (1.75 MiB)
+
+xmin: 0.1763777255672263
+xmax: 0.17685070652974255
+ymin: 0.5644063215843704
+ymax: 0.5646723733757858
+
+contrast: 0.93
+brightness: 0.05
+saturation: 1.63
+gamma: 1.05
+gamma_r: 1.09
+gamma_g: 0.94
+gamma_b: 0.98
+vignette: 6
+temp: 5193
