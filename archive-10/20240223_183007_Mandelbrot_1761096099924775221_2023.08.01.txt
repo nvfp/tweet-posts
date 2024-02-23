@@ -1,0 +1,28 @@
+tweet_id: 1761096099924775221
+masto_id: 111982215653707901
+subre_id: Not uploaded, but here's the text: Hello Friday! This Mandelbrot Set is yours!  #MachineLearning #Mathematics
+
+n_iter: 684
+ct: 107
+hue_offset: 359
+saturation: 0.08
+
+num_attempts: 145
+dur: 73
+std: 46.02
+size: 370845 (362.15 KiB)
+
+xmin: 0.3630127218118284
+xmax: 0.3636022575524327
+ymin: 0.11400382387058383
+ymax: 0.11433543772467374
+
+contrast: 1.26
+brightness: 0.05
+saturation: 0.59
+gamma: 1.09
+gamma_r: 0.91
+gamma_g: 0.95
+gamma_b: 0.9
+vignette: 2
+temp: 5294
