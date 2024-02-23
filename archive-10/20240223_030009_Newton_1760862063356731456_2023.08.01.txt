@@ -1,0 +1,31 @@
+tweet_id: 1760862063356731456
+masto_id: 111978558874691565
+subre_id: Not uploaded, but here's the text: Having a blast on Friday?  #Mathematics #VisualArt
+
+newton_power: 5
+newton_const: 5
+
+n_iter: 244
+ct: 36
+hue_offset: 58
+saturation: -0.44
+
+num_attempts: 216
+dur: 604
+std: 14.94
+size: 1088474 (1.04 MiB)
+
+xmin: 0.8882077324349198
+xmax: 1.064678320670214
+ymin: -0.009513595759601534
+ymax: 0.08975111012275142
+
+contrast: 0.76
+brightness: -0.0
+saturation: 1.04
+gamma: 1.03
+gamma_r: 0.91
+gamma_g: 1.01
+gamma_b: 0.98
+vignette: -8
+temp: 6866
