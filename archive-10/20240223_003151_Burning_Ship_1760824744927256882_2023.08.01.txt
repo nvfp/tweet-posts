@@ -1,0 +1,28 @@
+tweet_id: 1760824744927256882
+masto_id: 111977975699628957
+subre_id: Not uploaded, but here's the text: Smile!  #MachineLearning #Nature
+
+n_iter: 407
+ct: 137
+hue_offset: 37
+saturation: 0.27
+
+num_attempts: 31
+dur: 10
+std: 22.77
+size: 187934 (183.53 KiB)
+
+xmin: -2.208622534766779
+xmax: -1.083622534766779
+ymin: -0.8567525011817603
+ymax: -0.22394000118176027
+
+contrast: 1.15
+brightness: 0.02
+saturation: 0.81
+gamma: 0.93
+gamma_r: 0.91
+gamma_g: 0.93
+gamma_b: 1.01
+vignette: -1
+temp: 6936
