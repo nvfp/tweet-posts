@@ -1,0 +1,28 @@
+tweet_id: 1761090833078428088
+masto_id: 111982133545702225
+subre_id: Not uploaded, but here's the text: you are cool  #AI #VisualArt
+
+n_iter: 497
+ct: 51
+hue_offset: 338
+saturation: 0.59
+
+num_attempts: 15
+dur: 6
+std: 23.33
+size: 782514 (764.17 KiB)
+
+xmin: -0.2599548282978965
+xmax: -0.1349548282978965
+ymin: 0.15817269260981037
+ymax: 0.22848519260981037
+
+contrast: 0.78
+brightness: 0.07
+saturation: 0.71
+gamma: 1.08
+gamma_r: 1.01
+gamma_g: 0.91
+gamma_b: 0.95
+vignette: -38
+temp: 2306
