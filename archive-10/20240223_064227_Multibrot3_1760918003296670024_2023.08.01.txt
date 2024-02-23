@@ -1,0 +1,28 @@
+tweet_id: 1760918003296670024
+masto_id: 111979432980596173
+subre_id: Not uploaded, but here's the text: Let this Multibrot inspire your Friday.  #Art #MachineLearning
+
+n_iter: 626
+ct: 1
+hue_offset: 160
+saturation: -0.93
+
+num_attempts: 432
+dur: 605
+std: 96.04
+size: 1098058 (1.05 MiB)
+
+xmin: -0.415681799361471
+xmax: -0.4109368408798577
+ymin: -0.6064020491710644
+ymax: -0.603733010025157
+
+contrast: 1.05
+brightness: 0.18
+saturation: 0.44
+gamma: 1.05
+gamma_r: 1.03
+gamma_g: 1.14
+gamma_b: 0.87
+vignette: 32
+temp: 5254
