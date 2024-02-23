@@ -1,0 +1,28 @@
+tweet_id: 1761060388878385355
+masto_id: FAIL
+subre_id: Not uploaded, but here's the text: Feeling the Burning Ship vibes today!  #Fractals #MachineLearning
+
+n_iter: 201
+ct: 105
+hue_offset: 280
+saturation: -0.68
+
+num_attempts: 32
+dur: 10
+std: 21.55
+size: 960792 (938.27 KiB)
+
+xmin: -0.10424503940571173
+xmax: 0.10030041513974283
+ymin: -1.0441999080138447
+ymax: -0.9291430898320264
+
+contrast: 0.83
+brightness: 0.13
+saturation: 1.14
+gamma: 1.09
+gamma_r: 0.96
+gamma_g: 0.97
+gamma_b: 1.04
+vignette: 33
+temp: 3308
