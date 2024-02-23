@@ -1,0 +1,28 @@
+tweet_id: 1760940002664427819
+masto_id: 111979776734377626
+subre_id: Not uploaded, but here's the text: Brighten your Friday!  #DigitalArt #Fractals
+
+n_iter: 229
+ct: 64
+hue_offset: 230
+saturation: 0.95
+
+num_attempts: 17
+dur: 4
+std: 20.06
+size: 812809 (793.76 KiB)
+
+xmin: -1.6498508523933524
+xmax: -1.5520247654368307
+ymin: -0.041266024802756984
+ymax: 0.013761149110286496
+
+contrast: 1.56
+brightness: 0.1
+saturation: 1.6
+gamma: 1.07
+gamma_r: 0.92
+gamma_g: 1.08
+gamma_b: 1.05
+vignette: 19
+temp: 7296
