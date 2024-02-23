@@ -1,0 +1,28 @@
+tweet_id: 1761001028437057652
+masto_id: 111980730289901332
+subre_id: Not uploaded, but here's the text: Friday vibes!  #VisualArt #DeepLearning
+
+n_iter: 503
+ct: 196
+hue_offset: 92
+saturation: 0.28
+
+num_attempts: 9
+dur: 9
+std: 28.32
+size: 637139 (622.21 KiB)
+
+xmin: 0.21074005348075842
+xmax: 0.2699505797965479
+ymin: -0.08566328507839582
+ymax: -0.05235736402576425
+
+contrast: 1.2
+brightness: 0.1
+saturation: 0.59
+gamma: 1.07
+gamma_r: 0.95
+gamma_g: 1.03
+gamma_b: 0.97
+vignette: 20
+temp: 6982
