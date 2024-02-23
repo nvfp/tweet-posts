@@ -1,0 +1,31 @@
+tweet_id: 1761133787440689507
+masto_id: 111982804593575025
+subre_id: Not uploaded, but here's the text: Let's make it a memorable Friday!  #DeepLearning #Mathematics
+
+newton_power: 6
+newton_const: 5
+
+n_iter: 253
+ct: 180
+hue_offset: 313
+saturation: -0.35
+
+num_attempts: 199
+dur: 600
+std: 21.56
+size: 1166469 (1.11 MiB)
+
+xmin: -2.3118843903440327
+xmax: -2.3003901374704694
+ymin: -0.18114749146537013
+ymax: -0.17468197422399082
+
+contrast: 0.97
+brightness: -0.05
+saturation: 1.42
+gamma: 1.05
+gamma_r: 0.91
+gamma_g: 1.06
+gamma_b: 0.98
+vignette: -18
+temp: 5560
