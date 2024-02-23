@@ -1,0 +1,31 @@
+tweet_id: 1761164018805285151
+masto_id: 111983277076901897
+subre_id: Not uploaded, but here's the text: Keep shining on Friday!  #Nature #MachineLearning
+
+newton_power: 3
+newton_const: 10
+
+n_iter: 248
+ct: 204
+hue_offset: 308
+saturation: -0.71
+
+num_attempts: 496
+dur: 601
+std: 4.06
+size: 746162 (728.67 KiB)
+
+xmin: -0.12103164347242545
+xmax: -0.11434268026172312
+ymin: -0.9628705052342947
+ymax: -0.9591079634282746
+
+contrast: 0.7
+brightness: 0.05
+saturation: 1.28
+gamma: 1.05
+gamma_r: 0.93
+gamma_g: 1.04
+gamma_b: 1.05
+vignette: -41
+temp: 2545
