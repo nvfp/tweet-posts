@@ -1,0 +1,28 @@
+tweet_id: 1761011246764302715
+masto_id: FAIL
+subre_id: Not uploaded, but here's the text: Wishing you a joyful day!  #VisualArt #Nature
+
+n_iter: 663
+ct: 1
+hue_offset: 302
+saturation: 0.24
+
+num_attempts: 338
+dur: 606
+std: 51.67
+size: 962153 (939.6 KiB)
+
+xmin: 0.18780297355245423
+xmax: 0.2225855822481064
+ymin: -1.0521631507777383
+ymax: -1.032597933386434
+
+contrast: 1.66
+brightness: 0.13
+saturation: 0.52
+gamma: 1.1
+gamma_r: 0.89
+gamma_g: 0.85
+gamma_b: 1.12
+vignette: -30
+temp: 6596
