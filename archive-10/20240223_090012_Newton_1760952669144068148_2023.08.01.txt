@@ -1,0 +1,31 @@
+tweet_id: 1760952669144068148
+masto_id: 111979974675361084
+subre_id: Not uploaded, but here's the text: Let this Newton brighten up your Friday!  #Mathematics #Art
+
+newton_power: 4
+newton_const: 2
+
+n_iter: 231
+ct: 23
+hue_offset: 350
+saturation: 0.28
+
+num_attempts: 280
+dur: 600
+std: 8.1
+size: 1233719 (1.18 MiB)
+
+xmin: -1.9542174370870782
+xmax: -1.9263104603428922
+ymin: -0.29637512848949
+ymax: -0.28067745407088535
+
+contrast: 1.37
+brightness: -0.01
+saturation: 0.36
+gamma: 1.0
+gamma_r: 1.1
+gamma_g: 1.04
+gamma_b: 0.93
+vignette: -42
+temp: 5393
