@@ -1,0 +1,28 @@
+tweet_id: 1761159470103883798
+masto_id: 111983206084874109
+subre_id: Not uploaded, but here's the text: you're awesome!  #Art #AI
+
+n_iter: 272
+ct: 1
+hue_offset: 29
+saturation: -0.1
+
+num_attempts: 919
+dur: 601
+std: 50.17
+size: 1067251 (1.02 MiB)
+
+xmin: -0.5162443576880886
+xmax: -0.5099052134725577
+ymin: -0.11850020744867562
+ymax: -0.11493443882743949
+
+contrast: 0.72
+brightness: 0.02
+saturation: 0.85
+gamma: 1.09
+gamma_r: 1.0
+gamma_g: 1.09
+gamma_b: 1.19
+vignette: -24
+temp: 3218
