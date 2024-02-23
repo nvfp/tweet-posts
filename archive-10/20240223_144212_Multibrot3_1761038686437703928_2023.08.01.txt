@@ -1,0 +1,28 @@
+tweet_id: 1761038686437703928
+masto_id: FAIL
+subre_id: Not uploaded, but here's the text: Happy Friday!  #GenerativeArt #DeepLearning
+
+n_iter: 334
+ct: 255
+hue_offset: 39
+saturation: -0.38
+
+num_attempts: 755
+dur: 600
+std: 60.15
+size: 1292862 (1.23 MiB)
+
+xmin: -0.544777480316269
+xmax: -0.5361006907284166
+ymin: -0.3489986375161287
+ymax: -0.34411794337296164
+
+contrast: 0.98
+brightness: 0.15
+saturation: 0.69
+gamma: 1.03
+gamma_r: 1.13
+gamma_g: 1.08
+gamma_b: 0.9
+vignette: -29
+temp: 4540
