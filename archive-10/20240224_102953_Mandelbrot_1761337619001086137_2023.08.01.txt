@@ -1,0 +1,28 @@
+tweet_id: 1761337619001086137
+masto_id: 111985989583154292
+subre_id: Not uploaded, but here's the text: Hello Saturday! This Mandelbrot Set is yours!  #VisualArt #DeepLearning
+
+n_iter: 155
+ct: 50
+hue_offset: 208
+saturation: -0.83
+
+num_attempts: 22
+dur: 4
+std: 20.98
+size: 1151831 (1.1 MiB)
+
+xmin: -1.2284376955317708
+xmax: -1.2278390723650543
+ymin: 0.1718057386116989
+ymax: 0.17214246414297696
+
+contrast: 0.98
+brightness: 0.21
+saturation: 1.68
+gamma: 0.93
+gamma_r: 0.95
+gamma_g: 1.04
+gamma_b: 0.95
+vignette: -10
+temp: 3276
