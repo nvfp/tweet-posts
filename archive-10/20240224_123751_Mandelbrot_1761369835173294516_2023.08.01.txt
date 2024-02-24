@@ -1,0 +1,28 @@
+tweet_id: 1761369835173294516
+masto_id: 111986492789560657
+subre_id: Not uploaded, but here's the text: Ever heard of this Mandelbrot Set?  #VisualArt #Fractals
+
+n_iter: 514
+ct: 135
+hue_offset: 138
+saturation: 0.62
+
+num_attempts: 170
+dur: 67
+std: 16.5
+size: 378500 (369.63 KiB)
+
+xmin: -1.1937068465624583
+xmax: -1.1629376157932274
+ymin: 0.30110898844181966
+ymax: 0.31841668074951196
+
+contrast: 0.79
+brightness: -0.04
+saturation: 0.53
+gamma: 1.09
+gamma_r: 0.95
+gamma_g: 1.07
+gamma_b: 1.0
+vignette: 2
+temp: 6877
