@@ -1,0 +1,28 @@
+tweet_id: 1761521869646332066
+masto_id: 111988868371901460
+subre_id: Not uploaded, but here's the text: Hello Saturday! This Multibrot is yours!  #Nature #GenerativeArt
+
+n_iter: 417
+ct: 255
+hue_offset: 267
+saturation: -0.91
+
+num_attempts: 486
+dur: 601
+std: 67.76
+size: 1340338 (1.28 MiB)
+
+xmin: 0.20081762792091729
+xmax: 0.20672604741870163
+ymin: 0.9171155059534213
+ymax: 0.9204389919209249
+
+contrast: 0.98
+brightness: -0.05
+saturation: 1.72
+gamma: 1.18
+gamma_r: 0.84
+gamma_g: 1.16
+gamma_b: 0.97
+vignette: 19
+temp: 7513
