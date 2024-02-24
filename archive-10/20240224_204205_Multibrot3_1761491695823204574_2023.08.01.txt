@@ -1,0 +1,28 @@
+tweet_id: 1761491695823204574
+masto_id: 111988396855987973
+subre_id: Not uploaded, but here's the text: Enjoying the Saturday with this Multibrot.  #Fractals #MachineLearning
+
+n_iter: 563
+ct: 255
+hue_offset: 65
+saturation: 0.12
+
+num_attempts: 463
+dur: 608
+std: 63.56
+size: 389009 (379.89 KiB)
+
+xmin: 0.5104732985276885
+xmax: 0.5338651113931856
+ymin: 0.40765440072727466
+ymax: 0.42081229546411675
+
+contrast: 1.49
+brightness: 0.21
+saturation: 0.95
+gamma: 1.03
+gamma_r: 1.17
+gamma_g: 1.07
+gamma_b: 1.13
+vignette: -4
+temp: 2899
