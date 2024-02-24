@@ -1,0 +1,28 @@
+tweet_id: 1761453037376217435
+masto_id: 111987792797418877
+subre_id: Not uploaded, but here's the text: Smile!  #AI #GenerativeArt
+
+n_iter: 301
+ct: 61
+hue_offset: 343
+saturation: -0.62
+
+num_attempts: 5
+dur: 2
+std: 26.5
+size: 577601 (564.06 KiB)
+
+xmin: 0.24067082661404848
+xmax: 0.3109833266140485
+ymin: -0.3954206701456229
+ymax: -0.3558698888956229
+
+contrast: 0.98
+brightness: -0.01
+saturation: 1.11
+gamma: 1.05
+gamma_r: 1.04
+gamma_g: 0.95
+gamma_b: 1.0
+vignette: -46
+temp: 6230
