@@ -1,0 +1,31 @@
+tweet_id: 1761526429421035704
+masto_id: 111988939525192264
+subre_id: Not uploaded, but here's the text: Have an awesome Saturday!  #DigitalArt #Nature
+
+newton_power: 6
+newton_const: -9
+
+n_iter: 69
+ct: 232
+hue_offset: 182
+saturation: 0.78
+
+num_attempts: 176
+dur: 600
+std: 33.36
+size: 142277 (138.94 KiB)
+
+xmin: 0.014030107275894821
+xmax: 0.023375901668418186
+ymin: 0.1014973734409561
+ymax: 0.10675438278675049
+
+contrast: 1.4
+brightness: 0.01
+saturation: 1.59
+gamma: 0.99
+gamma_r: 1.0
+gamma_g: 1.06
+gamma_b: 1.0
+vignette: -3
+temp: 7271
