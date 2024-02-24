@@ -1,0 +1,28 @@
+tweet_id: 1761486979022106957
+masto_id: 111988323177859523
+subre_id: Not uploaded, but here's the text: Surprise! Mandelbrot Set!  #VisualArt #GenerativeArt
+
+n_iter: 404
+ct: 30
+hue_offset: 191
+saturation: 0.38
+
+num_attempts: 76
+dur: 22
+std: 29.7
+size: 1417206 (1.35 MiB)
+
+xmin: -0.6611729398973534
+xmax: -0.6597907698904425
+ymin: -0.4136001268297579
+ymax: -0.41282265620087055
+
+contrast: 1.44
+brightness: 0.1
+saturation: 1.39
+gamma: 1.02
+gamma_r: 0.97
+gamma_g: 0.95
+gamma_b: 1.0
+vignette: 29
+temp: 4701
