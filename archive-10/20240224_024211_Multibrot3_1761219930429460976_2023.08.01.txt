@@ -1,0 +1,28 @@
+tweet_id: 1761219930429460976
+masto_id: 111984150565124625
+subre_id: Not uploaded, but here's the text: Ever heard of this Multibrot?  #GenerativeArt #VisualArt
+
+n_iter: 313
+ct: 255
+hue_offset: 336
+saturation: -0.66
+
+num_attempts: 704
+dur: 602
+std: 54.11
+size: 1373595 (1.31 MiB)
+
+xmin: -0.5501226244521804
+xmax: -0.5403426733519359
+ymin: -0.32385566657919407
+ymax: -0.31835444408530655
+
+contrast: 1.38
+brightness: 0.17
+saturation: 1.02
+gamma: 1.14
+gamma_r: 1.0
+gamma_g: 1.17
+gamma_b: 0.88
+vignette: -44
+temp: 3617
