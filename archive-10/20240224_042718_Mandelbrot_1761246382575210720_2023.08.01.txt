@@ -1,0 +1,28 @@
+tweet_id: 1761246382575210720
+masto_id: 111984563846104119
+subre_id: Not uploaded, but here's the text: Hey there, it's Saturday!  #VisualArt #DeepLearning
+
+n_iter: 435
+ct: 148
+hue_offset: 147
+saturation: 0.45
+
+num_attempts: 24
+dur: 7
+std: 68.08
+size: 1564400 (1.49 MiB)
+
+xmin: -0.39381118609996735
+xmax: -0.3929217042231606
+ymin: -0.5982341957486748
+ymax: -0.597733862192971
+
+contrast: 1.74
+brightness: 0.01
+saturation: 0.95
+gamma: 1.0
+gamma_r: 0.95
+gamma_g: 0.99
+gamma_b: 0.97
+vignette: 25
+temp: 4442
