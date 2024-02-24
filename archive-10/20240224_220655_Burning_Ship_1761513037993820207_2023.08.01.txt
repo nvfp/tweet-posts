@@ -1,0 +1,28 @@
+tweet_id: 1761513037993820207
+masto_id: 111988730410758647
+subre_id: Not uploaded, but here's the text: Cheers to a fantastic Saturday!  #AI #Mathematics
+
+n_iter: 442
+ct: 113
+hue_offset: 359
+saturation: -0.48
+
+num_attempts: 66
+dur: 21
+std: 30.92
+size: 891190 (870.3 KiB)
+
+xmin: -0.3324722604222816
+xmax: 1.1675277395777184
+ymin: -1.527820848222699
+ymax: -0.6840708482226989
+
+contrast: 1.28
+brightness: -0.07
+saturation: 0.96
+gamma: 1.05
+gamma_r: 1.09
+gamma_g: 1.07
+gamma_b: 0.93
+vignette: 26
+temp: 7472
