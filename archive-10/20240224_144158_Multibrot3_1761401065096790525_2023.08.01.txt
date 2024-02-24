@@ -1,0 +1,28 @@
+tweet_id: 1761401065096790525
+masto_id: 111986980800370591
+subre_id: Not uploaded, but here's the text: Shine bright like the sun on this Saturday!  #Mathematics #DeepLearning
+
+n_iter: 437
+ct: 255
+hue_offset: 230
+saturation: -0.12
+
+num_attempts: 442
+dur: 600
+std: 68.05
+size: 821793 (802.53 KiB)
+
+xmin: 0.06669199404606507
+xmax: 0.07644809160704068
+ymin: -0.7828174861879332
+ymax: -0.7773296813098844
+
+contrast: 1.77
+brightness: -0.04
+saturation: 1.21
+gamma: 1.03
+gamma_r: 0.96
+gamma_g: 1.12
+gamma_b: 0.98
+vignette: 17
+temp: 7527
