@@ -1,0 +1,28 @@
+tweet_id: 1761457989385625696
+masto_id: 111987870187072009
+subre_id: Not uploaded, but here's the text: Keep shining on Saturday!  #Art #DigitalArt
+
+n_iter: 900
+ct: 88
+hue_offset: 333
+saturation: -0.57
+
+num_attempts: 79
+dur: 35
+std: 124.13
+size: 1979964 (1.89 MiB)
+
+xmin: 0.40260147424788517
+xmax: 0.4035254751718861
+ymin: -0.32818405169813225
+ymax: -0.32766430117838174
+
+contrast: 1.32
+brightness: 0.03
+saturation: 0.26
+gamma: 0.91
+gamma_r: 0.92
+gamma_g: 0.94
+gamma_b: 0.98
+vignette: -26
+temp: 6445
