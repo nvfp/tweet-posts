@@ -1,0 +1,28 @@
+tweet_id: 1761396733052174367
+masto_id: 111986913128052633
+subre_id: Not uploaded, but here's the text: Having a blast on Saturday?  #Art #Nature
+
+n_iter: 136
+ct: 249
+hue_offset: 48
+saturation: 0.31
+
+num_attempts: 26
+dur: 4
+std: 18.72
+size: 1401949 (1.34 MiB)
+
+xmin: -0.7053129577219948
+xmax: -0.7048678703736027
+ymin: -0.36134967698666765
+ymax: -0.36109931535319706
+
+contrast: 1.14
+brightness: 0.19
+saturation: 1.4
+gamma: 1.08
+gamma_r: 1.03
+gamma_g: 1.04
+gamma_b: 0.97
+vignette: -43
+temp: 6162
