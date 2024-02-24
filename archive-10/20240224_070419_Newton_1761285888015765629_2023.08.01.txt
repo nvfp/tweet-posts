@@ -1,0 +1,31 @@
+tweet_id: 1761285888015765629
+masto_id: 111985181272623579
+subre_id: Not uploaded, but here's the text: Let this Newton brighten up your Saturday!  #GenerativeArt #VisualArt
+
+newton_power: 7
+newton_const: 0
+
+n_iter: 105
+ct: 246
+hue_offset: 281
+saturation: 0.61
+
+num_attempts: 205
+dur: 851
+std: 1.43
+size: 644059 (628.96 KiB)
+
+xmin: -1.874558517172459
+xmax: -0.6745585171724591
+ymin: -1.1005802758795133
+ymax: -0.4255802758795134
+
+contrast: 1.37
+brightness: 0.22
+saturation: 1.64
+gamma: 0.94
+gamma_r: 1.09
+gamma_g: 0.99
+gamma_b: 0.96
+vignette: -30
+temp: 6005
