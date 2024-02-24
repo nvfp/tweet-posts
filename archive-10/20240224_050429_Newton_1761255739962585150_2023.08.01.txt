@@ -1,0 +1,31 @@
+tweet_id: 1761255739962585150
+masto_id: 111984710082603667
+subre_id: Not uploaded, but here's the text: Look closely, it's Newton!  #AI #Nature
+
+newton_power: 5
+newton_const: 0
+
+n_iter: 213
+ct: 159
+hue_offset: 298
+saturation: 0.3
+
+num_attempts: 223
+dur: 852
+std: 0.95
+size: 605793 (591.59 KiB)
+
+xmin: -0.4746128046427791
+xmax: 0.07084174081176631
+ymin: 0.2994133178869096
+ymax: 0.6062314997050914
+
+contrast: 1.72
+brightness: 0.17
+saturation: 0.6
+gamma: 1.05
+gamma_r: 1.06
+gamma_g: 1.02
+gamma_b: 1.01
+vignette: -25
+temp: 4973
