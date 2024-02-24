@@ -1,0 +1,28 @@
+tweet_id: 1761362917067309166
+masto_id: 111986384636297385
+subre_id: Not uploaded, but here's the text: A great Saturday and a beautiful Burning Ship.  #VisualArt #Fractals
+
+n_iter: 281
+ct: 14
+hue_offset: 230
+saturation: -0.43
+
+num_attempts: 14
+dur: 4
+std: 29.66
+size: 590960 (577.11 KiB)
+
+xmin: -1.3272871875254628
+xmax: -0.20228718752546282
+ymin: -0.8348775723697044
+ymax: -0.2020650723697044
+
+contrast: 1.72
+brightness: 0.04
+saturation: 0.74
+gamma: 0.98
+gamma_r: 0.96
+gamma_g: 1.08
+gamma_b: 0.91
+vignette: 22
+temp: 3161
