@@ -1,0 +1,28 @@
+tweet_id: 1761373241203916833
+masto_id: 111986546011141624
+subre_id: Not uploaded, but here's the text: Smile, it's Saturday!  #MachineLearning #DigitalArt
+
+n_iter: 339
+ct: 255
+hue_offset: 104
+saturation: 0.27
+
+num_attempts: 649
+dur: 604
+std: 61.22
+size: 735492 (718.25 KiB)
+
+xmin: -0.1365753381290189
+xmax: -0.1299746780630123
+ymin: -0.8183977390637828
+ymax: -0.814684867776654
+
+contrast: 1.55
+brightness: -0.04
+saturation: 0.31
+gamma: 0.81
+gamma_r: 0.98
+gamma_g: 0.96
+gamma_b: 1.11
+vignette: 21
+temp: 5006
