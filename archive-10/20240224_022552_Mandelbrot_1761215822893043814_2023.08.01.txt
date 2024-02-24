@@ -1,0 +1,28 @@
+tweet_id: 1761215822893043814
+masto_id: 111984086380431243
+subre_id: Not uploaded, but here's the text: Let's rock this Saturday!  #Art #MachineLearning
+
+n_iter: 426
+ct: 60
+hue_offset: 306
+saturation: 0.92
+
+num_attempts: 41
+dur: 12
+std: 20.17
+size: 924912 (903.23 KiB)
+
+xmin: 0.42214768592462715
+xmax: 0.4232895643145786
+ymin: 0.3420387514505516
+ymax: 0.34268105804489934
+
+contrast: 1.78
+brightness: 0.21
+saturation: 0.75
+gamma: 1.01
+gamma_r: 1.09
+gamma_g: 1.02
+gamma_b: 0.99
+vignette: -4
+temp: 5547
