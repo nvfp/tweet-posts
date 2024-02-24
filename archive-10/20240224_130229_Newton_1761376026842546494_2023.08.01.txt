@@ -1,0 +1,31 @@
+tweet_id: 1761376026842546494
+masto_id: 111986589678872903
+subre_id: Not uploaded, but here's the text: How's your day?  #VisualArt #AI
+
+newton_power: 7
+newton_const: -6
+
+n_iter: 228
+ct: 106
+hue_offset: 132
+saturation: 0.4
+
+num_attempts: 150
+dur: 603
+std: 22.41
+size: 634604 (619.73 KiB)
+
+xmin: 2.2467916327558024
+xmax: 2.2611456997414483
+ymin: -0.9938826558163667
+ymax: -0.9858084931369409
+
+contrast: 1.73
+brightness: 0.15
+saturation: 1.05
+gamma: 1.05
+gamma_r: 1.06
+gamma_g: 0.95
+gamma_b: 1.0
+vignette: 2
+temp: 6200
