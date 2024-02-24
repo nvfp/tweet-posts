@@ -1,0 +1,28 @@
+tweet_id: 1761199084268867838
+masto_id: 111983824971498554
+subre_id: Not uploaded, but here's the text: Ever heard of this Mandelbrot Set?  #Fractals #Mathematics
+
+n_iter: 692
+ct: 153
+hue_offset: 206
+saturation: 0.42
+
+num_attempts: 43
+dur: 20
+std: 49.5
+size: 1165675 (1.11 MiB)
+
+xmin: 0.022428934508712306
+xmax: 0.023798328551848217
+ymin: 0.8125995448080603
+ymax: 0.8133698289573242
+
+contrast: 1.0
+brightness: 0.14
+saturation: 0.88
+gamma: 1.02
+gamma_r: 1.09
+gamma_g: 0.97
+gamma_b: 1.09
+vignette: -20
+temp: 6967
