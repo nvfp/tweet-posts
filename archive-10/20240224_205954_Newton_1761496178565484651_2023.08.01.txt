@@ -1,0 +1,31 @@
+tweet_id: 1761496178565484651
+masto_id: 111988466910364687
+subre_id: Not uploaded, but here's the text: Enjoying the Saturday with this Newton.  #GenerativeArt #Mathematics
+
+newton_power: 7
+newton_const: 3
+
+n_iter: 114
+ct: 84
+hue_offset: 84
+saturation: 0.96
+
+num_attempts: 148
+dur: 600
+std: 21.56
+size: 875257 (854.74 KiB)
+
+xmin: 0.07594662576231626
+xmax: 0.08542529874809825
+ymin: 0.533542486816446
+ymax: 0.5388742403709483
+
+contrast: 1.63
+brightness: 0.09
+saturation: 0.69
+gamma: 1.02
+gamma_r: 1.0
+gamma_g: 1.08
+gamma_b: 0.93
+vignette: 3
+temp: 4124
