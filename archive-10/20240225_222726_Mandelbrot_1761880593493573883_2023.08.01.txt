@@ -1,0 +1,28 @@
+tweet_id: 1761880593493573883
+masto_id: 111994473403660435
+subre_id: Not uploaded, but here's the text: You rock, and so does this Sunday!  #DeepLearning #AI
+
+n_iter: 246
+ct: 216
+hue_offset: 92
+saturation: -0.19
+
+num_attempts: 105
+dur: 26
+std: 44.94
+size: 890972 (870.09 KiB)
+
+xmin: -1.093845943582918
+xmax: -1.0930840388210132
+ymin: -0.23932879014916086
+ymax: -0.23890021872058945
+
+contrast: 1.57
+brightness: -0.03
+saturation: 1.18
+gamma: 0.95
+gamma_r: 0.95
+gamma_g: 0.97
+gamma_b: 0.91
+vignette: 26
+temp: 5451
