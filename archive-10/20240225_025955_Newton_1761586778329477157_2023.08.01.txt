@@ -1,0 +1,31 @@
+tweet_id: 1761586778329477157
+masto_id: 111989882565159951
+subre_id: Not uploaded, but here's the text: Brighten your Sunday!  #DeepLearning #Art
+
+newton_power: 6
+newton_const: -7
+
+n_iter: 156
+ct: 212
+hue_offset: 189
+saturation: 0.42
+
+num_attempts: 167
+dur: 600
+std: 18.21
+size: 570523 (557.15 KiB)
+
+xmin: -1.7427208532017724
+xmax: -1.7365796044811992
+ymin: -0.7748674310175427
+ymax: -0.7714129786122204
+
+contrast: 1.79
+brightness: -0.06
+saturation: 1.09
+gamma: 0.95
+gamma_r: 1.1
+gamma_g: 0.99
+gamma_b: 0.91
+vignette: -2
+temp: 4912
