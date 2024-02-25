@@ -1,0 +1,28 @@
+tweet_id: 1761672919002865747
+masto_id: 111991228463978479
+subre_id: Not uploaded, but here's the text: you are cool  #Nature #DeepLearning
+
+n_iter: 698
+ct: 255
+hue_offset: 115
+saturation: -0.42
+
+num_attempts: 362
+dur: 602
+std: 66.03
+size: 569558 (556.21 KiB)
+
+xmin: 0.5305106509287048
+xmax: 0.5517872466733856
+ymin: -0.18711278970319856
+ymax: -0.17514470459681558
+
+contrast: 1.59
+brightness: -0.01
+saturation: 0.96
+gamma: 0.84
+gamma_r: 0.83
+gamma_g: 1.02
+gamma_b: 1.09
+vignette: 6
+temp: 2491
