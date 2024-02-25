@@ -1,0 +1,31 @@
+tweet_id: 1761829455155089612
+masto_id: 111993674327388438
+subre_id: Not uploaded, but here's the text: Hey there, it's Sunday!  #DigitalArt #GenerativeArt
+
+newton_power: 4
+newton_const: 0
+
+n_iter: 244
+ct: 87
+hue_offset: 339
+saturation: -0.39
+
+num_attempts: 235
+dur: 852
+std: 1.93
+size: 283088 (276.45 KiB)
+
+xmin: -3.0
+xmax: 3.0
+ymin: -1.3783428522984447
+ymax: 1.9966571477015553
+
+contrast: 0.91
+brightness: 0.02
+saturation: 1.47
+gamma: 1.07
+gamma_r: 1.04
+gamma_g: 0.96
+gamma_b: 1.06
+vignette: 3
+temp: 6562
