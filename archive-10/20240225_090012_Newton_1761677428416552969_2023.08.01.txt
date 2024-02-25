@@ -1,0 +1,31 @@
+tweet_id: 1761677428416552969
+masto_id: 111991299258122863
+subre_id: Not uploaded, but here's the text: Sunday is shining brightly, just like this Newton.  #Fractals #Mathematics
+
+newton_power: 7
+newton_const: -1
+
+n_iter: 255
+ct: 188
+hue_offset: 157
+saturation: -0.66
+
+num_attempts: 165
+dur: 602
+std: 24.14
+size: 1237875 (1.18 MiB)
+
+xmin: -0.4392559511101535
+xmax: -0.43310841012654694
+ymin: -0.4932084257287319
+ymax: -0.4897504339254532
+
+contrast: 1.06
+brightness: -0.1
+saturation: 1.52
+gamma: 0.94
+gamma_r: 1.07
+gamma_g: 0.94
+gamma_b: 0.91
+vignette: -31
+temp: 5953
