@@ -1,0 +1,31 @@
+tweet_id: 1761858652128879063
+masto_id: 111994131272851235
+subre_id: Not uploaded, but here's the text: Smile, it's Sunday!  #DeepLearning #VisualArt
+
+newton_power: 3
+newton_const: 10
+
+n_iter: 149
+ct: 234
+hue_offset: 250
+saturation: -0.38
+
+num_attempts: 501
+dur: 601
+std: 3.91
+size: 564820 (551.58 KiB)
+
+xmin: -0.3984918740742103
+xmax: -0.33466208684016774
+ymin: -0.2515948442065401
+ymax: -0.21569058888739118
+
+contrast: 0.9
+brightness: 0.14
+saturation: 1.0
+gamma: 1.0
+gamma_r: 0.97
+gamma_g: 1.08
+gamma_b: 1.07
+vignette: -8
+temp: 4682
