@@ -1,0 +1,28 @@
+tweet_id: 1761612483976946081
+masto_id: 111990284217836857
+subre_id: Not uploaded, but here's the text: Smile, it's Sunday!  #MachineLearning #Art
+
+n_iter: 468
+ct: 1
+hue_offset: 310
+saturation: 0.78
+
+num_attempts: 491
+dur: 604
+std: 68.18
+size: 1436348 (1.37 MiB)
+
+xmin: -0.27816852988960306
+xmax: -0.2734235714079898
+ymin: 0.7338283264421008
+ymax: 0.7364973655880083
+
+contrast: 0.75
+brightness: 0.03
+saturation: 0.74
+gamma: 0.87
+gamma_r: 1.17
+gamma_g: 0.82
+gamma_b: 0.98
+vignette: 28
+temp: 2622
