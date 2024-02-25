@@ -1,0 +1,28 @@
+tweet_id: 1761699276638363876
+masto_id: 111991640375238607
+subre_id: Not uploaded, but here's the text: Feeling good today!  #Nature #Art
+
+n_iter: 452
+ct: 236
+hue_offset: 77
+saturation: -0.42
+
+num_attempts: 6
+dur: 0
+std: 15.13
+size: 821414 (802.16 KiB)
+
+xmin: -1.3231599555443985
+xmax: -1.3227445437674745
+ymin: 0.07841024091707371
+ymax: 0.07864391004159339
+
+contrast: 1.03
+brightness: -0.05
+saturation: 1.07
+gamma: 1.0
+gamma_r: 1.08
+gamma_g: 1.08
+gamma_b: 0.95
+vignette: -12
+temp: 3108
