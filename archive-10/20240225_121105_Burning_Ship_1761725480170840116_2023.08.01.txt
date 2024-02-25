@@ -1,0 +1,28 @@
+tweet_id: 1761725480170840116
+masto_id: 111992049845722722
+subre_id: Not uploaded, but here's the text: Burning Ship vibes to brighten your Sunday.  #Fractals #DeepLearning
+
+n_iter: 468
+ct: 60
+hue_offset: 91
+saturation: 0.62
+
+num_attempts: 18
+dur: 4
+std: 24.61
+size: 937264 (915.3 KiB)
+
+xmin: -0.47084361643218475
+xmax: 1.7791563835678152
+ymin: -1.2208562189683545
+ymax: 0.0447687810316455
+
+contrast: 0.88
+brightness: 0.16
+saturation: 1.7
+gamma: 0.91
+gamma_r: 1.02
+gamma_g: 0.95
+gamma_b: 0.94
+vignette: -46
+temp: 4973
