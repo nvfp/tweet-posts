@@ -1,0 +1,28 @@
+tweet_id: 1761845149397594459
+masto_id: 111993919587778624
+subre_id: Not uploaded, but here's the text: you are fantastic!  #Mathematics #GenerativeArt
+
+n_iter: 141
+ct: 4
+hue_offset: 344
+saturation: -0.37
+
+num_attempts: 8
+dur: 2
+std: 22.27
+size: 2355598 (2.25 MiB)
+
+xmin: -1.1137293754880555
+xmax: -1.028823715110697
+ymin: -0.5735268797292046
+ymax: -0.5257674457669405
+
+contrast: 1.42
+brightness: 0.1
+saturation: 0.32
+gamma: 1.09
+gamma_r: 0.99
+gamma_g: 0.91
+gamma_b: 1.04
+vignette: -35
+temp: 6358
