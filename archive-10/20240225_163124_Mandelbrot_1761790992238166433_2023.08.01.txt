@@ -1,0 +1,28 @@
+tweet_id: 1761790992238166433
+masto_id: 111993073461762283
+subre_id: Not uploaded, but here's the text: How's your day?  #Art #Nature
+
+n_iter: 889
+ct: 105
+hue_offset: 38
+saturation: 0.76
+
+num_attempts: 100
+dur: 57
+std: 29.48
+size: 616839 (602.38 KiB)
+
+xmin: 0.37409526896420875
+xmax: 0.37471686958580935
+ymin: 0.20212173007934342
+ymax: 0.20247138042899376
+
+contrast: 0.71
+brightness: 0.09
+saturation: 0.34
+gamma: 0.97
+gamma_r: 0.92
+gamma_g: 0.97
+gamma_b: 1.1
+vignette: 27
+temp: 5085
