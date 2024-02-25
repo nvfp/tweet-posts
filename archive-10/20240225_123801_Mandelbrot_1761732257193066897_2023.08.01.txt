@@ -1,0 +1,28 @@
+tweet_id: 1761732257193066897
+masto_id: 111992155761369316
+subre_id: Not uploaded, but here's the text: Shine bright like the sun on this Sunday!  #GenerativeArt #DeepLearning
+
+n_iter: 947
+ct: 150
+hue_offset: 324
+saturation: 0.74
+
+num_attempts: 60
+dur: 40
+std: 19.41
+size: 528056 (515.68 KiB)
+
+xmin: 0.34882528996343076
+xmax: 0.35611126446252
+ymin: -0.08341195322452188
+ymax: -0.07931359256878417
+
+contrast: 1.27
+brightness: -0.09
+saturation: 0.9
+gamma: 0.91
+gamma_r: 1.06
+gamma_g: 1.03
+gamma_b: 1.1
+vignette: -29
+temp: 5872
