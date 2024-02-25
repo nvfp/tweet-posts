@@ -1,0 +1,31 @@
+tweet_id: 1761617043625787610
+masto_id: 111990355690380584
+subre_id: Not uploaded, but here's the text: Cheers to a fantastic Sunday!  #VisualArt #Fractals
+
+newton_power: 4
+newton_const: -1
+
+n_iter: 118
+ct: 163
+hue_offset: 272
+saturation: -0.95
+
+num_attempts: 246
+dur: 601
+std: 7.73
+size: 1165462 (1.11 MiB)
+
+xmin: 0.6998501684664449
+xmax: 0.9398501684664449
+ymin: 0.7219085468274669
+ymax: 0.8569085468274669
+
+contrast: 1.66
+brightness: 0.23
+saturation: 0.76
+gamma: 0.95
+gamma_r: 1.05
+gamma_g: 1.08
+gamma_b: 1.09
+vignette: -32
+temp: 6505
