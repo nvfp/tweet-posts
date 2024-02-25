@@ -1,0 +1,31 @@
+tweet_id: 1761648286589395332
+masto_id: 111990843716636879
+subre_id: Not uploaded, but here's the text: Let's rock this Sunday!  #Mathematics #DeepLearning
+
+newton_power: 5
+newton_const: 0
+
+n_iter: 136
+ct: 15
+hue_offset: 156
+saturation: -0.09
+
+num_attempts: 223
+dur: 850
+std: 1.07
+size: 478531 (467.32 KiB)
+
+xmin: -0.13550373339051847
+xmax: -0.05955436630191087
+ymin: -0.03533514084265055
+ymax: 0.007386378144691223
+
+contrast: 0.7
+brightness: 0.13
+saturation: 0.63
+gamma: 1.02
+gamma_r: 1.06
+gamma_g: 1.05
+gamma_b: 0.9
+vignette: 28
+temp: 2231
