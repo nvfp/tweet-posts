@@ -1,0 +1,31 @@
+tweet_id: 1761768081997902093
+masto_id: 111992715465818995
+subre_id: Not uploaded, but here's the text: Cheers to an incredible Sunday!  #MachineLearning #Fractals
+
+newton_power: 7
+newton_const: 7
+
+n_iter: 165
+ct: 40
+hue_offset: 5
+saturation: 0.56
+
+num_attempts: 151
+dur: 601
+std: 23.8
+size: 1520197 (1.45 MiB)
+
+xmin: 0.6855723354592138
+xmax: 0.6993654389074897
+ymin: -0.41461311247450583
+ymax: -0.40685449178485067
+
+contrast: 0.94
+brightness: 0.13
+saturation: 0.4
+gamma: 0.95
+gamma_r: 0.94
+gamma_g: 1.0
+gamma_b: 0.93
+vignette: -46
+temp: 4240
