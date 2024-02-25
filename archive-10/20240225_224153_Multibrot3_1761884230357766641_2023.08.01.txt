@@ -1,0 +1,28 @@
+tweet_id: 1761884230357766641
+masto_id: 111994530250420433
+subre_id: Not uploaded, but here's the text: Multibrot vibes to brighten your Sunday.  #Mathematics #Art
+
+n_iter: 476
+ct: 255
+hue_offset: 314
+saturation: -0.79
+
+num_attempts: 467
+dur: 600
+std: 78.57
+size: 1577084 (1.5 MiB)
+
+xmin: -0.45760201580818194
+xmax: -0.45286267931529095
+ymin: 0.551463528257111
+ymax: 0.5541294050343621
+
+contrast: 1.37
+brightness: 0.01
+saturation: 1.27
+gamma: 1.02
+gamma_r: 1.01
+gamma_g: 1.02
+gamma_b: 0.97
+vignette: -39
+temp: 4485
