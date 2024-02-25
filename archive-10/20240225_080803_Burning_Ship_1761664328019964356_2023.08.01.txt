@@ -1,0 +1,28 @@
+tweet_id: 1761664328019964356
+masto_id: 111991094194914177
+subre_id: Not uploaded, but here's the text: Good Sunday! This Burning Ship is for you!  #DigitalArt #Art
+
+n_iter: 431
+ct: 31
+hue_offset: 231
+saturation: -0.24
+
+num_attempts: 10
+dur: 5
+std: 55.67
+size: 739570 (722.24 KiB)
+
+xmin: -0.5245515224557475
+xmax: -0.29955152245574757
+ymin: -0.8670621469602013
+ymax: -0.7404996469602013
+
+contrast: 1.3
+brightness: -0.05
+saturation: 1.03
+gamma: 1.06
+gamma_r: 1.02
+gamma_g: 1.0
+gamma_b: 1.05
+vignette: 14
+temp: 2579
