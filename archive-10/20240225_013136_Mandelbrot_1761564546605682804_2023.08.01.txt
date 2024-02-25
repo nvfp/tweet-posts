@@ -1,0 +1,28 @@
+tweet_id: 1761564546605682804
+masto_id: 111989535304218660
+subre_id: Not uploaded, but here's the text: Keep shining on Sunday!  #Fractals #Nature
+
+n_iter: 135
+ct: 137
+hue_offset: 17
+saturation: 0.25
+
+num_attempts: 107
+dur: 21
+std: 31.71
+size: 732100 (714.94 KiB)
+
+xmin: -0.36577335892193696
+xmax: -0.3513329257089406
+ymin: 0.628867578521491
+ymax: 0.6369903222038015
+
+contrast: 1.15
+brightness: 0.22
+saturation: 0.92
+gamma: 1.04
+gamma_r: 0.96
+gamma_g: 1.02
+gamma_b: 1.08
+vignette: -23
+temp: 2430
