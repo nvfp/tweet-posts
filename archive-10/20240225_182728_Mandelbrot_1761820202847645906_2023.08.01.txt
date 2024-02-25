@@ -1,0 +1,28 @@
+tweet_id: 1761820202847645906
+masto_id: 111993529859083065
+subre_id: Not uploaded, but here's the text: Chin up, buttercup!  #VisualArt #GenerativeArt
+
+n_iter: 307
+ct: 140
+hue_offset: 265
+saturation: -0.5
+
+num_attempts: 163
+dur: 43
+std: 31.27
+size: 859412 (839.27 KiB)
+
+xmin: -1.2570190228675373
+xmax: -1.254951839405005
+ymin: 0.03395390980784807
+ymax: 0.035116700505522486
+
+contrast: 1.37
+brightness: 0.0
+saturation: 1.13
+gamma: 1.08
+gamma_r: 0.91
+gamma_g: 0.97
+gamma_b: 1.09
+vignette: 18
+temp: 2515
