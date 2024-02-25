@@ -1,0 +1,28 @@
+tweet_id: 1761694180126957684
+masto_id: 111991560600978375
+subre_id: Not uploaded, but here's the text: Let the magic of Sunday fill your heart!  #MachineLearning #DigitalArt
+
+n_iter: 319
+ct: 198
+hue_offset: 262
+saturation: -0.89
+
+num_attempts: 2
+dur: 1
+std: 44.11
+size: 697086 (680.75 KiB)
+
+xmin: -0.8850639532318043
+xmax: -0.4759730441408952
+ymin: -0.751280003448163
+ymax: -0.5211663670845267
+
+contrast: 1.43
+brightness: 0.06
+saturation: 0.25
+gamma: 1.09
+gamma_r: 1.09
+gamma_g: 1.1
+gamma_b: 0.96
+vignette: -22
+temp: 4370
