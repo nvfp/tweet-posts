@@ -1,0 +1,28 @@
+tweet_id: 1761754110427382137
+masto_id: 111992497115918075
+subre_id: Not uploaded, but here's the text: How was your day?  #GenerativeArt #Mathematics
+
+n_iter: 141
+ct: 142
+hue_offset: 173
+saturation: 0.26
+
+num_attempts: 14
+dur: 2
+std: 30.86
+size: 1149148 (1.1 MiB)
+
+xmin: -0.8005746851571247
+xmax: -0.7313439159263555
+ymin: -0.8946634093703036
+ymax: -0.855721101677996
+
+contrast: 0.75
+brightness: -0.01
+saturation: 0.94
+gamma: 0.91
+gamma_r: 1.05
+gamma_g: 1.0
+gamma_b: 0.98
+vignette: -34
+temp: 4012
