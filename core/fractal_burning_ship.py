@@ -1,5 +1,11 @@
 import random, time, numpy as np, numba as nb
 from .shared import IMG_RES
+from .post_online import post_online
+from .write_md import write_metadata_file
+from .get_ppm import get_ppm
+from .render_img import render_with_stats
+
+FRACTAL_NAME = 'Burning Ship'  # will be used in post's description
 
 @nb.jit(nb.int32(nb.complex128, nb.int32))
 def _get_esc_iter(c_frag, n_iter_frag):
@@ -72,7 +78,7 @@ def find_fractal():
     nIter, xmin, xmax, ymin, ymax = None, None, None, None, None
     
     # while (std < 20) or (time.time()-t < 3600):  # this based on std , but let's just use based on hours
-    while (time.time()-t < 3600):
+    while (time.time()-t < 20):
         k += 1
         
         _nIter = random.randint(250, 1000)
@@ -98,7 +104,7 @@ def run_burning_ship():
 
     the_raw = find_fractal()
 
-    ppm_data = get_ppm(raw, 1280, 720, ct, hue_offset, saturation)
+    ppm_data = get_ppm(the_raw, IMG_RES[0], IMG_RES[1], ct, hue_offset, saturation)
 
     ## Random FFmpeg filters
     edit_contrast   = round( random.uniform(0.7, 1.8)  , 2 )
@@ -112,54 +118,28 @@ def run_burning_ship():
     edit_temp       = random.randint(2000, 8000)
 
     # Export
-    file_size = save_img(
-        IMAGE_PTH,
-        ppm_data,
+    # file_size = save_img(
+    #     IMAGE_PTH,
+    #     ppm_data,
 
-        edit_contrast,
-        edit_brightness,
-        edit_saturation,
-        edit_gamma,
-        edit_gamma_r,
-        edit_gamma_g,
-        edit_gamma_b,
-        edit_vignette,
-        edit_temp
-    )
+    #     edit_contrast,
+    #     edit_brightness,
+    #     edit_saturation,
+    #     edit_gamma,
+    #     edit_gamma_r,
+    #     edit_gamma_g,
+    #     edit_gamma_b,
+    #     edit_vignette,
+    #     edit_temp
+    # )
+
+    render_with_stats()
 
     ## Posting
-    text = get_text('Burning Ship')
-    tweet_id = tweet(text, IMAGE_PTH)
-    masto_id = post_mastodon(text, IMAGE_PTH)
-    subre_id = post_to_subreddit(text, IMAGE_PTH)  # post's permalink
+    out = post_online(FRACTAL_NAME)
 
-    md_pack = {
+
+    # write_metadata_file(FRACTAL_NAME,)
+    # md_pack = {
         
-    }
-
-    ## Metadata
-    if os.path.exists(ARCHIVE_TEMP_DIR): raise AssertionError(f'Already exists: {repr(ARCHIVE_TEMP_DIR)}.')
-    os.mkdir(ARCHIVE_TEMP_DIR)
-    write_metadata(
-        os.path.join(ARCHIVE_TEMP_DIR, f'{datetime.now().strftime("%Y%m%d_%H%M%S")}_Burning_Ship_{tweet_id}_{__version__}.txt'),
-        tweet_id, masto_id, subre_id,
-
-        n_iter,
-        ct,
-        hue_offset,
-        saturation,
-
-        num_attempts, int(dur), round(std, 2), file_size,
-
-        xmin, xmax, ymin, ymax,
-
-        edit_contrast,
-        edit_brightness,
-        edit_saturation,
-        edit_gamma,
-        edit_gamma_r,
-        edit_gamma_g,
-        edit_gamma_b,
-        edit_vignette,
-        edit_temp,
-    )
+    # }

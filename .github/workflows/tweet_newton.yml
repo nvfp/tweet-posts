@@ -1,12 +1,12 @@
-name: Multibrot_3
+name: Newton
 
 on:
-  schedule:
-    - cron: '30 */2 * * *'
+  # schedule:
+  #   - cron: '45 */2 * * *'
   workflow_dispatch:
 
 env:
-  FRACTAL_NAME: Multibrot3
+  FRACTAL_NAME: Newton
   VENV_CACHE_DIR_NAME: THE_VENV_CACHE  # note, if you update this don't forget to update it too in the other place in the project that using this value.
 
 jobs:

@@ -159,8 +159,10 @@ def get_post_desc(fractal_name):
     return f"{msg} {tags}"
 
 def post_online(fractal_name):
-    out = {}  # to return the needed items
+    out = {}
+    
     post_desc = get_post_desc(fractal_name)
+    out['post_desc'] = post_desc
     
     post_id_twitter = post_twitter(post_desc)
     out['pid_twitter'] = post_id_twitter

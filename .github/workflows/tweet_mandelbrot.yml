@@ -1,8 +1,8 @@
 name: Mandelbrot set
 
 on:
-  schedule:
-    - cron: '15 */2 * * *'
+  # schedule:
+  #   - cron: '15 */2 * * *'
   workflow_dispatch:
 
 env:  # Note: changing these values will require changes in other parts of the code, so it's better to avoid it if possible.
