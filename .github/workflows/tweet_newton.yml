@@ -1,8 +1,8 @@
 name: Newton
 
 on:
-  # schedule:
-  #   - cron: '45 */2 * * *'
+  schedule:
+    - cron: '45 */2 * * *'
   workflow_dispatch:
   # pull_request:
   #   types:
