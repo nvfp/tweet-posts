@@ -1,6 +1,0 @@
-__pycache__/
-
-
-# The VENV cache directory stored in GitHub Actions.
-# (this one should mirror the one in utils/constants.py and make-venv-cache.yml)
-THE_VENV_CACHE/
