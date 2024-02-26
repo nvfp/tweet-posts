@@ -63,10 +63,10 @@ def render_with_stats(
         out = []
         Y_ANCHOR = 230
         Y_GAP = 51
-        out.append(f"drawtext=text='xmin={data_pack['xmin']}':x=130:y={IMG_RES[1]+Y_ANCHOR}:fontcolor=0xffffff:fontsize=71")
-        out.append(f"drawtext=text='xmax={data_pack['xmax']}':x=130:y='{IMG_RES[1]+Y_ANCHOR+Y_GAP}+th':fontcolor=0xffffff:fontsize=71")
-        out.append(f"drawtext=text='ymin={data_pack['ymin']}':x=130:y={IMG_RES[1]+Y_ANCHOR+Y_GAP*2}+th*2:fontcolor=0xffffff:fontsize=71")
-        out.append(f"drawtext=text='ymax={data_pack['ymax']}':x=130:y='{IMG_RES[1]+Y_ANCHOR+Y_GAP*3}+th*3':fontcolor=0xffffff:fontsize=71")
+        out.append(f"drawtext=text='x-min={data_pack['xmin']}':x=130:y={IMG_RES[1]+Y_ANCHOR}:fontcolor=0xffffff:fontsize=71")
+        out.append(f"drawtext=text='x-max={data_pack['xmax']}':x=130:y='{IMG_RES[1]+Y_ANCHOR+Y_GAP}+th':fontcolor=0xffffff:fontsize=71")
+        out.append(f"drawtext=text='y-min={data_pack['ymin']}':x=130:y={IMG_RES[1]+Y_ANCHOR+Y_GAP*2}+th*2:fontcolor=0xffffff:fontsize=71")
+        out.append(f"drawtext=text='y-max={data_pack['ymax']}':x=130:y='{IMG_RES[1]+Y_ANCHOR+Y_GAP*3}+th*3':fontcolor=0xffffff:fontsize=71")
         return out
     filter_complex = f"{filter_complex},{','.join(get_text_filters())}"
     
