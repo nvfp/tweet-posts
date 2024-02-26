@@ -133,7 +133,18 @@ def run_burning_ship():
     #     edit_temp
     # )
 
-    render_with_stats()
+    render_with_stats(
+        ppm_data,
+        edit_contrast,
+        edit_brightness,
+        edit_saturation,
+        edit_gamma,
+        edit_gamma_r,
+        edit_gamma_g,
+        edit_gamma_b,
+        edit_vignette,
+        edit_temp,
+    )
 
     ## Posting
     out = post_online(FRACTAL_NAME)
