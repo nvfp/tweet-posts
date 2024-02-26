@@ -1,0 +1,31 @@
+tweet_id: 1762069993796038758
+masto_id: 111997432849583651
+subre_id: Not uploaded, but here's the text: Happy Monday!  #DeepLearning #MachineLearning
+
+newton_power: 7
+newton_const: -10
+
+n_iter: 242
+ct: 200
+hue_offset: 258
+saturation: -0.45
+
+num_attempts: 170
+dur: 608
+std: 26.72
+size: 1225961 (1.17 MiB)
+
+xmin: 0.4239696724188642
+xmax: 0.4816619801111719
+ymin: 1.013621234842816
+ymax: 1.046073157919739
+
+contrast: 1.37
+brightness: -0.07
+saturation: 1.53
+gamma: 0.96
+gamma_r: 0.98
+gamma_g: 1.03
+gamma_b: 1.08
+vignette: 16
+temp: 3141
