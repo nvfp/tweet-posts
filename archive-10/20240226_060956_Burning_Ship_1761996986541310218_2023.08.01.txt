@@ -1,0 +1,28 @@
+tweet_id: 1761996986541310218
+masto_id: 111996292032771484
+subre_id: Not uploaded, but here's the text: Have an extraordinary Monday!  #DigitalArt #DeepLearning
+
+n_iter: 369
+ct: 221
+hue_offset: 290
+saturation: -0.84
+
+num_attempts: 8
+dur: 1
+std: 54.24
+size: 1825455 (1.74 MiB)
+
+xmin: -0.4042110294996131
+xmax: -0.1395051471466719
+ymin: -1.1012942451673204
+ymax: -0.952397186343791
+
+contrast: 1.24
+brightness: -0.08
+saturation: 1.73
+gamma: 1.06
+gamma_r: 0.94
+gamma_g: 0.91
+gamma_b: 0.9
+vignette: -28
+temp: 4522
