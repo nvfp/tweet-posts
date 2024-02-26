@@ -17,7 +17,7 @@ jobs:
           key: key-${{ env.VENV_CACHE_DIR_NAME }}
 
       - if: steps.restore-cache.outputs.cache-hit != 'true'  # VENV cache not found, create a new VENV cache.
-        run: |
+        run: |  # note, please review this script again, as it may be outdated. It was last updated after migrating here on feb 26, 2024.
           #!/bin/bash
           set -e  # Exit the script immediately if any command exits with a non-zero status
 

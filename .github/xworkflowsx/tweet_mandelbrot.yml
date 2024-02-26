@@ -1,14 +1,13 @@
-name: tweet_mandelbrot (Hourly fractals)
+name: Mandelbrot set
 
 on:
   schedule:
     - cron: '15 */2 * * *'
   workflow_dispatch:
 
-env:
+env:  # Note: changing these values will require changes in other parts of the code, so it's better to avoid it if possible.
   FRACTAL_NAME: Mandelbrot Set
-  # This one should mirror the one in utils/constants.py and .gitignore
-  VENV_CACHE_DIR_NAME: THE_VENV_CACHE
+  VENV_CACHE_DIR_NAME: THE_VENV_CACHE  # note, if you update this don't forget to update it too in the other place in the project that using this value.
 
 jobs:
   run:
@@ -16,39 +15,33 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Checkout main branch
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       
-      - name: Try to restore the VENV cache
-        id: restore-cache
+      - id: restore-cache
         uses: actions/cache/restore@v3
         with:
           path: ${{ env.VENV_CACHE_DIR_NAME }}
           key: key-${{ env.VENV_CACHE_DIR_NAME }}
       
-      - name: VENV cache not found
-        if: steps.restore-cache.outputs.cache-hit != 'true'
+      - if: steps.restore-cache.outputs.cache-hit != 'true'
         run: exit 1
 
-      - name: Tweet!
-        env:
-          TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY_2 }}
-          TWITTER_API_SECRET_KEY: ${{ secrets.TWITTER_API_SECRET_KEY_2 }}
-          TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN_2 }}
-          TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET_2 }}
-          MASTODON_ACCESS_TOKEN: ${{ secrets.MASTODON_ACCESS_TOKEN }}
-        run: |
+      - run: |  # render and post
           source $GITHUB_WORKSPACE/$VENV_CACHE_DIR_NAME/bin/activate
-          python tweet_mandelbrot
+          python . "$FRACTAL_NAME"
+        env:
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_TOKEN_SECRET: ${{ secrets.X_ACCESS_TOKEN_SECRET }}
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_KEY_SECRET: ${{ secrets.X_API_KEY_SECRET }}
+          MASTODON_ACCESS_TOKEN: ${{ secrets.MASTODON_ACCESS_TOKEN }}
 
-      - name: Checkout metadata branch
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
-          ref: fractal-metadata
+          ref: fractal_metadata_20240226
 
-      - name: Archiving
-        run: |
-          python archive_manager.py
+      - run: |
+          python save_the_md_file.py
 
           git config user.name "$FRACTAL_NAME"
           git config user.email "${{ vars.GIT_EMAIL }}"
@@ -58,9 +51,7 @@ jobs:
           echo "INFO: Attempt the first git push"
           git push
 
-          # Just in case there are multiple workflows pushing at nearly the same time
-          if [ $? -ne 0 ]; then
-            # Repush if the first pull failed
+          if [ $? -ne 0 ]; then  # Rerun if the first pull fails, just in case there are multiple workflows pushing at nearly the same time.
             echo "INFO: Attempt the second git push"
             git pull
             git push

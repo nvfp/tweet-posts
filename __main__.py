@@ -6,7 +6,8 @@ def get_fractal_name():
     return args[1]
 
 def main():
-    pass
+    name = get_fractal_name()
+    if name == 
 
 if __name__ == '__main__':
     main()

@@ -1,40 +1,35 @@
-import os, requests, tweepy, random
+import os, requests, tweepy, random, json
 from datetime import datetime
 from .shared import RENDERED_IMG_PTH
 
 def post_twitter(post_desc):
-    print('INFO: Sending tweet.')
-
     access_token = os.environ['X_ACCESS_TOKEN']
     access_token_secret = os.environ['X_ACCESS_TOKEN_SECRET']
     consumer_key = os.environ['X_API_KEY']
     consumer_secret = os.environ['X_API_KEY_SECRET']
 
-    auth = tweepy.OAuth1UserHandler(consumer_key, consumer_secret)
+    auth = tweepy.OAuth1UserHandler(consumer_key, consumer_secret)  # the v1.X version of API for image uploading, because API ver 2 somehow doesnt support image-uploading.
     auth.set_access_token(access_token, access_token_secret,)
     client_v1 = tweepy.API(auth)
 
-    client_v2 = tweepy.Client(
+    client_v2 = tweepy.Client(  # the API version 2 for the texts, im not sure, but as far as i know, the free plan only supports version 2 for tweeting text.
         access_token=access_token, access_token_secret=access_token_secret,
         consumer_key=consumer_key, consumer_secret=consumer_secret
     )
-
     try:
-        media = client_v1.media_upload(filename=RENDERED_IMG_PTH)
+        media = client_v1.media_upload(filename=RENDERED_IMG_PTH)  # post the image first
         media_id = media.media_id
 
-        posted = client_v2.create_tweet(text=post_desc, media_ids=[media_id])
+        posted = client_v2.create_tweet(text=post_desc, media_ids=[media_id])  # the the text (post description)
 
-        tweet_id = posted.data['id']  # Get the id of the tweet
-        print(f'INFO: Sent with tweet_id {repr(tweet_id)}.')
-
+        tweet_id = posted.data['id']
+        print(f"tweet_id: {tweet_id}")
         return tweet_id
     except Exception as err:
         print(f'ERROR: {err}')
-        return 'FAIL'
+        return f"Err: {err}"
 
 def post_masto(post_desc):
-    print('INFO: Sending to Mastodon.')
     access_token = os.environ['MASTODON_ACCESS_TOKEN']
 
     ## Image
@@ -46,7 +41,7 @@ def post_masto(post_desc):
         )
         if response.status_code != 200:
             print(f'WARNING: image response: {response}')
-            return 'FAIL'
+            return f"Err: {response}"
     media_id = response.json()['id']
 
     ## Text
@@ -56,10 +51,10 @@ def post_masto(post_desc):
         headers={'Authorization': f'Bearer {access_token}'},
         data=payload
     )
+    # print(json.dumps(response.json(), indent=4))
     if response.status_code != 200:
         print(f'WARNING: text response: {response}')
-        return 'FAIL'
-    # printer(json.dumps(response.json(), indent=4))
+        return f"Err: {response}"
     post_id = response.json()['id']
     print(f'INFO: Sent. post_id: {repr(post_id)}')
     return post_id
@@ -164,4 +159,13 @@ def get_post_desc(fractal_name):
     return f"{msg} {tags}"
 
 def post_online(fractal_name):
+    out = {}  # to return the needed items
     post_desc = get_post_desc(fractal_name)
+    
+    post_id_twitter = post_twitter(post_desc)
+    out['pid_twitter'] = post_id_twitter
+    
+    post_id_masto = post_masto(post_desc)
+    out['pid_masto'] = post_id_masto
+    
+    return out
