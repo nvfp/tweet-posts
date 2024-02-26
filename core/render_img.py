@@ -63,7 +63,9 @@ def render_with_stats(
     edit_gamma_g,
     edit_gamma_b,
     edit_vignette,
-    edit_temp
+    edit_temp,
+
+    data_pack,
 ):
     def render_fractal_img():
         filter = (
@@ -105,7 +107,7 @@ def render_with_stats(
         # return file_size  # metadata purposes
     render_fractal_img()
     
-    filter_complex = f"color=s={IMG_RES[0]}x{IMG_RES[1]+200}:c=0x000000[bg];[bg][0]overlay=x=0:y=0"
+    filter_complex = f"color=s={IMG_RES[0]}x{IMG_RES[1]+700}:c=0x3b3b3b[bg];[bg][0]overlay=x=0:y=0"
     
     # def draw_texts(filter_complex):
     #     filter_complex += 
@@ -113,7 +115,7 @@ def render_with_stats(
     # filter_complex = draw_texts(filter_complex)
     def get_text_filters():
         out = []
-        out.append(f"drawtext=text='coord\: x=0':y={IMG_RES[1]+70}:fontcolor=0xffffff")
+        out.append(f"drawtext=text='coord\: x=300':y={IMG_RES[1]+70}:fontcolor=0xffffff:fontsize=51")
         return out
     filter_complex = f"{filter_complex},{','.join(get_text_filters())}"
     

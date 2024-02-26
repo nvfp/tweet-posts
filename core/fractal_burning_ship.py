@@ -57,7 +57,7 @@ def get_random_range():
     # total_height = y_bound_max - y_bound_min
 
     ## The captured one
-    frame_width = total_width/random.randint(1, 1000)
+    frame_width = total_width/random.randint(1, 10)
     frame_height = frame_width*(IMG_RES[1] / IMG_RES[0])  # based on aspect ratio
 
     xmin = random.uniform(x_bound_min, x_bound_max-frame_width)
@@ -114,7 +114,7 @@ def run_burning_ship():
     edit_gamma_r    = round( random.uniform(0.9, 1.1)  , 2 )
     edit_gamma_g    = round( random.uniform(0.9, 1.1)  , 2 )
     edit_gamma_b    = round( random.uniform(0.9, 1.1)  , 2 )
-    edit_vignette   = random.randint(-48, 33)
+    edit_vignette   = random.randint(-51, -13)
     edit_temp       = random.randint(2000, 8000)
 
     # Export
