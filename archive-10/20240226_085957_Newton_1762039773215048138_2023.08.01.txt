@@ -1,0 +1,31 @@
+tweet_id: 1762039773215048138
+masto_id: 111996960586901442
+subre_id: Not uploaded, but here's the text: Beautiful Monday with this Newton!  #GenerativeArt #Fractals
+
+newton_power: 7
+newton_const: 1
+
+n_iter: 194
+ct: 53
+hue_offset: 149
+saturation: -0.53
+
+num_attempts: 150
+dur: 601
+std: 16.84
+size: 1336213 (1.27 MiB)
+
+xmin: -2.8484946428812257
+xmax: -2.746799727626988
+ymin: -1.3891819094509579
+ymax: -1.3319785196204494
+
+contrast: 1.05
+brightness: 0.07
+saturation: 0.66
+gamma: 1.02
+gamma_r: 0.97
+gamma_g: 0.91
+gamma_b: 1.01
+vignette: 19
+temp: 6170
