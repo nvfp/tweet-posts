@@ -1,0 +1,28 @@
+tweet_id: 1761942242720096628
+masto_id: 111995436615102835
+subre_id: Not uploaded, but here's the text: Look what we have here! it's Mandelbrot Set!  #MachineLearning #Nature
+
+n_iter: 151
+ct: 206
+hue_offset: 307
+saturation: -0.35
+
+num_attempts: 150
+dur: 27
+std: 22.03
+size: 443063 (432.68 KiB)
+
+xmin: -0.230766233392512
+xmax: -0.2299080484536577
+ymin: 0.7198156301370735
+ymax: 0.720298359165179
+
+contrast: 1.78
+brightness: 0.07
+saturation: 1.71
+gamma: 0.94
+gamma_r: 0.94
+gamma_g: 1.03
+gamma_b: 1.04
+vignette: 0
+temp: 5230
