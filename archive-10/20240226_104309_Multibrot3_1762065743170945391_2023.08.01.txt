@@ -1,0 +1,28 @@
+tweet_id: 1762065743170945391
+masto_id: 111997366395608732
+subre_id: Not uploaded, but here's the text: Hello Monday! This Multibrot is yours!  #DigitalArt #MachineLearning
+
+n_iter: 290
+ct: 255
+hue_offset: 283
+saturation: 0.96
+
+num_attempts: 942
+dur: 602
+std: 49.95
+size: 911902 (890.53 KiB)
+
+xmin: 0.3473556897025847
+xmax: 0.35427610492749817
+ymin: -0.6527434258230094
+ymax: -0.6488506922589955
+
+contrast: 1.07
+brightness: 0.05
+saturation: 0.83
+gamma: 0.9
+gamma_r: 0.84
+gamma_g: 1.06
+gamma_b: 0.81
+vignette: 15
+temp: 3605
