@@ -1,0 +1,28 @@
+tweet_id: 1761945547236110762
+masto_id: 111995488232450625
+subre_id: Not uploaded, but here's the text: Surprise! It's a Multibrot!  #Art #GenerativeArt
+
+n_iter: 374
+ct: 255
+hue_offset: 271
+saturation: -0.01
+
+num_attempts: 664
+dur: 605
+std: 61.59
+size: 876826 (856.28 KiB)
+
+xmin: 0.42949408018848656
+xmax: 0.43809623072612097
+ymin: -0.5730976056682513
+ymax: -0.5682588959908319
+
+contrast: 1.5
+brightness: 0.14
+saturation: 0.57
+gamma: 0.87
+gamma_r: 0.93
+gamma_g: 0.81
+gamma_b: 0.87
+vignette: -32
+temp: 6466
