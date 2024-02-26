@@ -56,20 +56,17 @@ def render_with_stats(
         # return file_size  # metadata purposes
     render_fractal_img()
     
-    # def get_bg_dimension():
-    #     PAD = 33
-    #     w = IMG_RES[0] + 2*PAD
-    #     h = IMG_RES
     PAD = 33
     filter_complex = f"color=s={IMG_RES[0]+2*PAD}x{IMG_RES[1]+1100}:c=0x3b3b3b[bg];[bg][0]overlay=x={PAD}:y={PAD}"
     
-    # def draw_texts(filter_complex):
-    #     filter_complex += 
-    #     return filter_complex
-    # filter_complex = draw_texts(filter_complex)
     def get_text_filters():
         out = []
-        out.append(f"drawtext=text='xmin={data_pack['xmin']}':y={IMG_RES[1]+70}:fontcolor=0xffffff:fontsize=71")
+        Y_ANCHOR = 230
+        Y_GAP = 51
+        out.append(f"drawtext=text='xmin={data_pack['xmin']}':x=130:y={IMG_RES[1]+Y_ANCHOR}:fontcolor=0xffffff:fontsize=71")
+        out.append(f"drawtext=text='xmax={data_pack['xmax']}':x=130:y='{IMG_RES[1]+Y_ANCHOR+Y_GAP}+th':fontcolor=0xffffff:fontsize=71")
+        out.append(f"drawtext=text='ymin={data_pack['ymin']}':x=130:y={IMG_RES[1]+Y_ANCHOR+Y_GAP*2}+th*2:fontcolor=0xffffff:fontsize=71")
+        out.append(f"drawtext=text='ymax={data_pack['ymax']}':x=130:y='{IMG_RES[1]+Y_ANCHOR+Y_GAP*3}+th*3':fontcolor=0xffffff:fontsize=71")
         return out
     filter_complex = f"{filter_complex},{','.join(get_text_filters())}"
     
