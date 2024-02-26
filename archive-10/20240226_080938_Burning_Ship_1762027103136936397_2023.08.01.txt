@@ -1,0 +1,28 @@
+tweet_id: 1762027103136936397
+masto_id: 111996762743485693
+subre_id: Not uploaded, but here's the text: Hope you're having a great Monday!  #DigitalArt #VisualArt
+
+n_iter: 385
+ct: 122
+hue_offset: 2
+saturation: -0.54
+
+num_attempts: 1
+dur: 1
+std: 56.62
+size: 1176232 (1.12 MiB)
+
+xmin: -1.0851531994095664
+xmax: -0.9051531994095665
+ymin: -0.5338406437325163
+ymax: -0.43259064373251627
+
+contrast: 1.29
+brightness: 0.18
+saturation: 0.8
+gamma: 0.94
+gamma_r: 0.97
+gamma_g: 1.02
+gamma_b: 1.08
+vignette: 28
+temp: 5904
