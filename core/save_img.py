@@ -1,14 +1,8 @@
-import os
-import subprocess as sp
-
-from mykit.kit.text import byteFmt
-from mykit.kit.utils import printer
-
-from utils.constants import FFMPEG
-
+import os, subprocess as sp
+from .shared import FFMPEG, RENDERED_IMG_PTH
 
 def save_img(
-    file_path, ppm_data,
+    ppm_data,
 
     edit_contrast,
     edit_brightness,
@@ -20,16 +14,11 @@ def save_img(
     edit_vignette,
     edit_temp
 ):
-    printer(f'DEBUG: Attempting to save the image to {repr(file_path)}.')
-
-    ## Check
     if os.path.exists(file_path):
         raise FileExistsError(f'File already exists: {repr(file_path)}.')
 
-    if edit_vignette > 0:
-        vig_mode = 'backward'
-    else:
-        vig_mode = 'forward'
+    if edit_vignette > 0: vig_mode = 'backward'
+    else: vig_mode = 'forward'
 
     filter = (
         'eq='
@@ -49,30 +38,22 @@ def save_img(
         f'temperature={edit_temp}'
     )
 
-    pipe = sp.Popen(
-        [
-            FFMPEG,
-            '-v', 'error',
-            '-f', 'image2pipe',
-            '-vcodec', 'ppm',
-            '-pix_fmt', 'rgb24',
-            '-i', '-',
-            '-vf', filter,
-            '-q:v', '1',
-            file_path
-        ],
-        stdin=sp.PIPE
-    )
-
+    cmd = [
+        FFMPEG,
+        '-v', 'error',
+        '-f', 'image2pipe',
+        '-vcodec', 'ppm',
+        '-pix_fmt', 'rgb24',
+        '-i', '-',
+        '-vf', filter,
+        '-q:v', '1',
+        file_path
+    ]
+    pipe = sp.Popen(cmd, stdin=sp.PIPE)
     pipe.stdin.write(ppm_data)
-
     pipe.stdin.close()
     pipe.wait()
     pipe.terminate()
 
-    printer(f'INFO: Image created at {repr(file_path)}.')
-
     file_size = os.path.getsize(file_path)
-    printer(f'INFO: Image file size: {file_size} ({byteFmt(file_size)}).')
-
     return file_size  # metadata purposes
