@@ -69,7 +69,7 @@ def render_with_stats(
     # filter_complex = draw_texts(filter_complex)
     def get_text_filters():
         out = []
-        out.append(f"drawtext=text='Info':y={IMG_RES[1]+70}:fontcolor=0xffffff:fontsize=71")
+        out.append(f"drawtext=text='xmin={data_pack['xmin']}':y={IMG_RES[1]+70}:fontcolor=0xffffff:fontsize=71")
         return out
     filter_complex = f"{filter_complex},{','.join(get_text_filters())}"
     

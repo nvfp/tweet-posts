@@ -71,6 +71,8 @@ def get_random_range():
 def find_fractal():
 
     # n_iter = random.randint(128, 512)
+
+    data_pack = {}
     
     k = 0
     t = time.time()
@@ -94,7 +96,14 @@ def find_fractal():
 
     # dur = time.time() - dur_t0
     the_raw = get_raw_grayscale_image(IMG_RES[0], IMG_RES[1], True, 3, nIter, xmin, xmax, ymin, ymax)
-    return the_raw
+
+    data_pack['xmin'] = xmin
+    data_pack['xmax'] = xmax
+    data_pack['ymin'] = ymin
+    data_pack['ymax'] = ymax
+    data_pack['nIter'] = nIter
+
+    return the_raw, data_pack
 
 def run_burning_ship():
 
@@ -104,7 +113,10 @@ def run_burning_ship():
     hue_offset = random.randint(0, 359)
     saturation = round( random.uniform(-1, 1), 2 )
 
-    the_raw = find_fractal()
+    the_raw, find_fractal_data_pack = find_fractal()
+    for k,v in find_fractal_data_pack.items():
+        if k in data_pack: raise AssertionError(f"Duplicated: {k}")
+        data_pack[k] = v
 
     ppm_data = get_ppm(the_raw, IMG_RES[0], IMG_RES[1], ct, hue_offset, saturation)
 
