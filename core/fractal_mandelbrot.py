@@ -5,19 +5,19 @@ from .write_md import write_metadata_file
 from .get_ppm import get_ppm
 from .render_img import render_with_stats
 
-FRACTAL_NAME = 'Newton'  # will be used in post's description
+FRACTAL_NAME = 'Mandelbrot Set'  # will be used in post's description
 
-NEWTON_POWER = random.randint(3, 11)
-NEWTON_CONST = random.randint(-10, 10)
 @nb.jit(nb.int32(nb.complex128, nb.int32))
 def _get_esc_iter(c_frag, n_iter_frag):
-    z = c_frag
+    nreal = 0
+    real = 0
+    imag = 0
     for n in range(n_iter_frag):
-        f_value = np.power(z, NEWTON_POWER) + NEWTON_CONST
-        f_prime_value = NEWTON_POWER*np.power(z, NEWTON_POWER-1)
-        if abs(f_value) < 1e-6:
-            return n
-        z = z - f_value / f_prime_value
+        nreal = real*real - imag*imag + c_frag.real
+        imag = 2*real*imag + c_frag.imag
+        real = nreal
+        if real*real + imag*imag > 255*255:
+            return n + 4 - np.log2(np.log2(real*real + imag*imag))
     return 0
 @nb.guvectorize([(nb.complex128[:], nb.int32[:], nb.int32[:])], '(n),()->(n)', target='parallel')
 def _get_iter_mtrx(c_mtrx, n_iter, iter_mtrx):
@@ -48,16 +48,16 @@ def get_raw_grayscale_image(
 def get_random_range():
 
     ## The region where the fractal is visible
-    x_bound_min = -3
-    x_bound_max = 3
-    y_bound_min = -2
-    y_bound_max = 2
+    x_bound_min = -2.75
+    x_bound_max = 1.25
+    y_bound_min = -1.124
+    y_bound_max = 1.13  # to compensate the aspect ratio ((x_bound_max-x_bound_min)*9/16)
 
     total_width = x_bound_max - x_bound_min
     # total_height = y_bound_max - y_bound_min
 
     ## The captured one
-    frame_width = total_width/random.randint(1, 100)
+    frame_width = total_width/random.randint(1, 10_000)
     frame_height = frame_width*(IMG_RES[1] / IMG_RES[0])  # based on aspect ratio
 
     xmin = random.uniform(x_bound_min, x_bound_max-frame_width)
@@ -80,10 +80,10 @@ def find_fractal():
     nIter, xmin, xmax, ymin, ymax = None, None, None, None, None
     
     # while (std < 20) or (time.time()-t < 3600):  # this based on std , but let's just use based on hours
-    while std < 7:
+    while std < 15:
         k += 1
         
-        _nIter = random.randint(250, 1000)
+        _nIter = random.randint(750, 2500)
         _xmin, _xmax, _ymin, _ymax = get_random_range()
         
         raw = get_raw_grayscale_image(round(IMG_RES[0]/2), round(IMG_RES[1]/2), False, 2, _nIter, _xmin, _xmax, _ymin, _ymax)  # during search, dont use antialiasing, and use lower resolution for faster search.
@@ -105,7 +105,7 @@ def find_fractal():
 
     return the_raw, data_pack
 
-def run_newton():
+def run_mandelbrot():
 
     data_pack = {}
     
