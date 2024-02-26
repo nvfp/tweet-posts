@@ -2,10 +2,10 @@ import os, requests, tweepy, random
 from datetime import datetime
 from .shared import RENDERED_IMG_PTH
 
-def post_twitter(post_desc, image_pth):  # post_desc: the caption; image_pth: the full path to the image
+def post_twitter(post_desc):
     print('INFO: Sending tweet.')
 
-    access_token = os.environ['X_ACCESS_TOKEN_SECRET']
+    access_token = os.environ['X_ACCESS_TOKEN']
     access_token_secret = os.environ['X_ACCESS_TOKEN_SECRET']
     consumer_key = os.environ['X_API_KEY']
     consumer_secret = os.environ['X_API_KEY_SECRET']
@@ -20,7 +20,7 @@ def post_twitter(post_desc, image_pth):  # post_desc: the caption; image_pth: th
     )
 
     try:
-        media = client_v1.media_upload(filename=image_pth)
+        media = client_v1.media_upload(filename=RENDERED_IMG_PTH)
         media_id = media.media_id
 
         posted = client_v2.create_tweet(text=post_desc, media_ids=[media_id])
@@ -33,12 +33,12 @@ def post_twitter(post_desc, image_pth):  # post_desc: the caption; image_pth: th
         print(f'ERROR: {err}')
         return 'FAIL'
 
-def post_masto(post_desc, image_pth):
+def post_masto(post_desc):
     print('INFO: Sending to Mastodon.')
     access_token = os.environ['MASTODON_ACCESS_TOKEN']
 
     ## Image
-    with open(image_pth, 'rb') as file:
+    with open(RENDERED_IMG_PTH, 'rb') as file:
         response = requests.post(
             'https://mastodon.social/api/v2/media',
             headers={'Authorization': f'Bearer {access_token}'},
