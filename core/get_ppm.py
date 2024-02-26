@@ -1,12 +1,7 @@
-import numba as nb
-import numpy as np
-
-from mykit.kit.utils import printer
-
+import numba as nb, numpy as np
 
 @nb.njit
 def _hsv_to_rgb(h, s, v):
-
     h_frac = h / 60
     h_modu = np.floor(h_frac) % 6
 
@@ -44,9 +39,7 @@ def _convert(arr, hue_offset, saturation):
 
     return img_arr
 
-
 def get_ppm(raw, w, h, ct, hue_offset, saturation):
-    printer('DEBUG: Generating the ppm data.')
     raw = _convert(raw, hue_offset, saturation)
     ppm = f'P6 {w} {h} {ct} '.encode()
     ppm += raw.astype(np.uint8).tobytes()
