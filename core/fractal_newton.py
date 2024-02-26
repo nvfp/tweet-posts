@@ -105,7 +105,7 @@ def find_fractal():
 
     return the_raw, data_pack
 
-def run_burning_ship():
+def run_newton():
 
     data_pack = {}
     
