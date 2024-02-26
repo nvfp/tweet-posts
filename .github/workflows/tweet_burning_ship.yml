@@ -29,6 +29,9 @@ jobs:
       - if: steps.restore-cache.outputs.cache-hit != 'true'
         run: exit 1  # force-exit if VENV cache not found
 
+      - run: find /usr/share/fonts/ -type f
+      - run: ls -R /usr/share/fonts/
+
       - run: |  # render and post
           source $GITHUB_WORKSPACE/$VENV_CACHE_DIR_NAME/bin/activate
           python . "$FRACTAL_NAME"
