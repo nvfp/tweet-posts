@@ -1,0 +1,31 @@
+tweet_id: 1762009665347469383
+masto_id: 111996490314409847
+subre_id: Not uploaded, but here's the text: Let's rock this Monday!  #DeepLearning #Fractals
+
+newton_power: 6
+newton_const: -8
+
+n_iter: 134
+ct: 64
+hue_offset: 94
+saturation: -0.89
+
+num_attempts: 171
+dur: 604
+std: 17.71
+size: 1279317 (1.22 MiB)
+
+xmin: -0.7844401141424147
+xmax: -0.7638215574413837
+ymin: -0.28649431596055774
+ymax: -0.27489637781622783
+
+contrast: 1.58
+brightness: 0.01
+saturation: 0.52
+gamma: 1.03
+gamma_r: 0.96
+gamma_g: 1.01
+gamma_b: 0.91
+vignette: -15
+temp: 6019
