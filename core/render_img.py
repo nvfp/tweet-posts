@@ -126,3 +126,4 @@ def render_with_stats(
         RENDERED_IMG_PTH
     ]
     sp.call(cmd)
+
