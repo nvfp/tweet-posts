@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 env:  # Note: changing these values will require changes in other parts of the code, so it's better to avoid it if possible.
-  FRACTAL_NAME: Mandelbrot Set
+  FRACTAL_NAME: MandelbrotSet
   VENV_CACHE_DIR_NAME: THE_VENV_CACHE  # note, if you update this don't forget to update it too in the other place in the project that using this value.
 
 jobs:

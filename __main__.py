@@ -1,4 +1,9 @@
-import sys
+import sys, os
+sys.path.append(os.path.dirname(__file__))  # make the folders importable
+from core.fractal_burning_ship import run_burning_ship
+# from core.fractal_mandelbrot import run_mandelbrot
+# from core.fractal_multibrot3 import run_multibrot3
+# from core.fractal_newton import run_newton
 
 def get_fractal_name():
     args = sys.argv
@@ -7,7 +12,9 @@ def get_fractal_name():
 
 def main():
     name = get_fractal_name()
-    if name == 
+    if name == 'BurningShip': run_burning_ship()
+    # elif name == 'MandelbrotSet': run_burning_ship()
+    else: raise AssertionError(f"Invalid: {name}")
 
 if __name__ == '__main__':
     main()

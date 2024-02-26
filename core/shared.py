@@ -13,3 +13,5 @@ if os.path.exists(METADATA_TMP_DIR):
 else:
     print(f"INFO: Creating the md temp dir: {METADATA_TMP_DIR}")
     os.mkdir(METADATA_TMP_DIR)
+
+IMG_RES = [1920, 1080]  # the output rendered resolution
