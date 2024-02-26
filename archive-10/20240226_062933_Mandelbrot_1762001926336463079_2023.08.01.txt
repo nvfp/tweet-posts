@@ -1,0 +1,28 @@
+tweet_id: 1762001926336463079
+masto_id: 111996369179993229
+subre_id: Not uploaded, but here's the text: Beautiful Monday with this Mandelbrot Set!  #MachineLearning #DeepLearning
+
+n_iter: 986
+ct: 2
+hue_offset: 323
+saturation: -0.23
+
+num_attempts: 10
+dur: 5
+std: 99.46
+size: 1897393 (1.81 MiB)
+
+xmin: 0.10160538904012295
+xmax: 0.10270762105996313
+ymin: -0.6198346697452065
+ymax: -0.6192146642340464
+
+contrast: 0.84
+brightness: -0.08
+saturation: 0.31
+gamma: 1.06
+gamma_r: 1.04
+gamma_g: 0.96
+gamma_b: 0.93
+vignette: 24
+temp: 7634
