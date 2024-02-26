@@ -97,6 +97,8 @@ def find_fractal():
     return the_raw
 
 def run_burning_ship():
+
+    data_pack = {}
     
     ct = random.randint(1, 255)  # PPM color threshold
     hue_offset = random.randint(0, 359)
@@ -144,6 +146,7 @@ def run_burning_ship():
         edit_gamma_b,
         edit_vignette,
         edit_temp,
+        data_pack,
     )
 
     ## Posting
