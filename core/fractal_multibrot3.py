@@ -101,7 +101,7 @@ def find_fractal():
 
     return the_raw, data_pack
 
-def run_multibrot():
+def run_multibrot3():
 
     data_pack = {}
     
