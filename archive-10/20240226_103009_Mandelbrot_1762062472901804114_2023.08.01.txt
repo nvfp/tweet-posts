@@ -1,0 +1,28 @@
+tweet_id: 1762062472901804114
+masto_id: 111997315244436635
+subre_id: Not uploaded, but here's the text: Monday is shining brightly, just like this Mandelbrot Set.  #DeepLearning #Fractals
+
+n_iter: 491
+ct: 221
+hue_offset: 88
+saturation: 0.96
+
+num_attempts: 71
+dur: 27
+std: 119.36
+size: 977074 (954.17 KiB)
+
+xmin: -0.8361997002779078
+xmax: -0.8356810953252305
+ymin: 0.2011272986284971
+ymax: 0.20141901391437808
+
+contrast: 1.04
+brightness: -0.04
+saturation: 1.42
+gamma: 0.95
+gamma_r: 1.01
+gamma_g: 1.02
+gamma_b: 0.95
+vignette: -13
+temp: 7692
