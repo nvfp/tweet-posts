@@ -1,5 +1,6 @@
-import os, subprocess as sp
+import os, subprocess as sp, random
 from .shared import FFMPEG, RENDERED_IMG_PTH, RENDERED_IMG_PTH2, IMG_RES
+from .utils import hsl_to_hex, get_ffmpeg_drawtext_filter
 
 def render_with_stats(
     ppm_data,
@@ -57,16 +58,25 @@ def render_with_stats(
     render_fractal_img()
     
     PAD = 33
-    filter_complex = f"color=s={IMG_RES[0]+2*PAD}x{IMG_RES[1]+1100}:c=0x3b3b3b[bg];[bg][0]overlay=x={PAD}:y={PAD}"
+    filter_complex = f"color=s={IMG_RES[0]+2*PAD}x{IMG_RES[1]+1100}:c={hsl_to_hex(random.randint(0,359),0.71,0.07).replace('#','0x')}[bg];[bg][0]overlay=x={PAD}:y={PAD}"
     
     def get_text_filters():
         out = []
         Y_ANCHOR = 230
         Y_GAP = 51
-        out.append(f"drawtext=text='x-min={data_pack['xmin']}':x=130:y={IMG_RES[1]+Y_ANCHOR}:fontcolor=0xffffff:fontsize=71")
-        out.append(f"drawtext=text='x-max={data_pack['xmax']}':x=130:y='{IMG_RES[1]+Y_ANCHOR+Y_GAP}+th':fontcolor=0xffffff:fontsize=71")
-        out.append(f"drawtext=text='y-min={data_pack['ymin']}':x=130:y={IMG_RES[1]+Y_ANCHOR+Y_GAP*2}+th*2:fontcolor=0xffffff:fontsize=71")
-        out.append(f"drawtext=text='y-max={data_pack['ymax']}':x=130:y='{IMG_RES[1]+Y_ANCHOR+Y_GAP*3}+th*3':fontcolor=0xffffff:fontsize=71")
+        # out.append(f"drawtext=text='x-min={data_pack['xmin']}':x=130:y={IMG_RES[1]+Y_ANCHOR}:fontcolor=0xffffff:fontsize=71")
+        # out.append(f"drawtext=text='x-max={data_pack['xmax']}':x=130:y='{IMG_RES[1]+Y_ANCHOR+Y_GAP}+th':fontcolor=0xffffff:fontsize=71")
+        # out.append(f"drawtext=text='y-min={data_pack['ymin']}':x=130:y={IMG_RES[1]+Y_ANCHOR+Y_GAP*2}+th*2:fontcolor=0xffffff:fontsize=71")
+        # out.append(f"drawtext=text='y-max={data_pack['ymax']}':x=130:y='{IMG_RES[1]+Y_ANCHOR+Y_GAP*3}+th*3':fontcolor=0xffffff:fontsize=71")
+
+        font = '/usr/share/fonts/truetype/liberation/LiberationSansNarrow-Regular.ttf'
+
+        y = IMG_RES[1] + 171
+        out.append(get_ffmpeg_drawtext_filter(f"Find me at", '(w-tw)*0.5', y, hsl_to_hex(random.randint(0,359),0.85,0.55), 101, font))
+        y += 33  # the gap
+        color = '0xa7a7a7'
+        size = 73
+        out.append(get_ffmpeg_drawtext_filter(f"X-min\: {data_pack['xmin']}", 0, f"{y}+th", color, size, font))
         return out
     filter_complex = f"{filter_complex},{','.join(get_text_filters())}"
     
