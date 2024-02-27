@@ -57,7 +57,7 @@ def render_with_stats(
         # return file_size  # metadata purposes
     render_fractal_img()
     
-    PAD = 33
+    XPAD = 51
     BORDER_THICK = 13
     Y_OFF = 311
     filter_complex = (
@@ -65,10 +65,10 @@ def render_with_stats(
         # f"color=s={IMG_RES[0]+2*BORDER_THICK}x{IMG_RES[1]+2*BORDER_THICK}:c={hsl_to_hex(random.randint(0,359),0.71,0.87)}[border];"
         # f"[bg][border]overlay=x={PAD}:y={PAD+297}"
         # f"[bg][0]overlay=x={PAD+BORDER_THICK}:y={PAD+297+BORDER_THICK}"
-        f"color=s={IMG_RES[0]+2*PAD+2*BORDER_THICK}x{IMG_RES[1]+1700}:c={hsl_to_hex(random.randint(0,359),0.71,0.13)}[bg];"
+        f"color=s={IMG_RES[0]+2*XPAD+2*BORDER_THICK}x{IMG_RES[1]+1700}:c={hsl_to_hex(random.randint(0,359),0.71,0.13)}[bg];"
         f"color=s={IMG_RES[0]+2*BORDER_THICK}x{IMG_RES[1]+2*BORDER_THICK}:c={hsl_to_hex(random.randint(0,359),0.71,0.87)}[border];"
-        f"[bg][border]overlay=x={PAD}:y={PAD+Y_OFF}"
-        f"[bg][0]overlay=x={PAD+BORDER_THICK}:y={PAD+Y_OFF+BORDER_THICK}"
+        f"[bg][border]overlay=x={XPAD}:y={Y_OFF}[bg];"
+        f"[bg][0]overlay=x={XPAD+BORDER_THICK}:y={Y_OFF+BORDER_THICK}"
     )
     
     def get_text_filters():
