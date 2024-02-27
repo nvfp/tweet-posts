@@ -73,10 +73,13 @@ def render_with_stats(
 
         y = IMG_RES[1] + 171
         out.append(get_ffmpeg_drawtext_filter(f"Find me at", '(w-tw)*0.5', y, hsl_to_hex(random.randint(0,359),0.85,0.55), 101, font))
-        y += 33  # the gap
+        gap = 33
+        y += gap  # the gap
         color = '0xa7a7a7'
         size = 73
         out.append(get_ffmpeg_drawtext_filter(f"X-min\: {data_pack['xmin']}", 0, f"{y}+th", color, size, font))
+        y += gap  # the gap
+        out.append(get_ffmpeg_drawtext_filter(f"Y-min\: {data_pack['ymin']}", 0, f"{y}+th*2", color, size, font))
         return out
     filter_complex = f"{filter_complex},{','.join(get_text_filters())}"
     
