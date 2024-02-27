@@ -74,16 +74,16 @@ def render_with_stats(
         font3 = '/usr/share/fonts/truetype/liberation/LiberationMono-Regular.ttf'
 
         y = IMG_RES[1] + 171
-        out.append(get_ffmpeg_drawtext_filter(f"Find me at", '(w-tw)*0.5', y, hsl_to_hex(random.randint(0,359),0.55,0.85), 151, font2))
+        out.append(get_ffmpeg_drawtext_filter(f"Find me at", '(w-tw)*0.5', y, hsl_to_hex(random.randint(0,359),0.59,0.71), 151, font2))
         
-        y += 101
-        color = '0xa7a7a7'
+        y += 211
+        color = '0xc1c1c1'
         size = 93
         xpad = 131
         out.append(get_ffmpeg_drawtext_filter(f"X-min\: {data_pack['xmin']}", xpad, f"{y+51*0}+th*0", color, size, font3))
         out.append(get_ffmpeg_drawtext_filter(f"X-max\: {data_pack['xmax']}", xpad, f"{y+51*1}+th*1", color, size, font3))
-        out.append(get_ffmpeg_drawtext_filter(f"Y-min\: {data_pack['ymin']}", xpad, f"{y+51*2+13}+th*2", color, size, font3))
-        out.append(get_ffmpeg_drawtext_filter(f"Y-max\: {data_pack['ymax']}", xpad, f"{y+51*3+13}+th*3", color, size, font3))
+        out.append(get_ffmpeg_drawtext_filter(f"Y-min\: {data_pack['ymin']}", xpad, f"{y+51*2+17}+th*2", color, size, font3))
+        out.append(get_ffmpeg_drawtext_filter(f"Y-max\: {data_pack['ymax']}", xpad, f"{y+51*3+17}+th*3", color, size, font3))
         return out
     filter_complex = f"{filter_complex},{','.join(get_text_filters())}"
     
