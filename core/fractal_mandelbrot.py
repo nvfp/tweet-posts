@@ -83,7 +83,7 @@ def find_fractal():
     while std < 15:
         k += 1
         
-        _nIter = random.randint(750, 2500)
+        _nIter = random.randint(1250, 3500)
         _xmin, _xmax, _ymin, _ymax = get_random_range()
         
         raw = get_raw_grayscale_image(round(IMG_RES[0]/2), round(IMG_RES[1]/2), False, 2, _nIter, _xmin, _xmax, _ymin, _ymax)  # during search, dont use antialiasing, and use lower resolution for faster search.
@@ -107,7 +107,7 @@ def find_fractal():
 
 def run_mandelbrot():
 
-    data_pack = {}
+    data_pack = {'fractal_name': FRACTAL_NAME}
     
     ct = random.randint(1, 255)  # PPM color threshold
     hue_offset = random.randint(0, 359)

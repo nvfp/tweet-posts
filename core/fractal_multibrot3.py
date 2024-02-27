@@ -79,7 +79,7 @@ def find_fractal():
     while std < 9:
         k += 1
         
-        _nIter = random.randint(550, 1700)
+        _nIter = random.randint(770, 2300)
         _xmin, _xmax, _ymin, _ymax = get_random_range()
         
         raw = get_raw_grayscale_image(round(IMG_RES[0]/2), round(IMG_RES[1]/2), False, 2, _nIter, _xmin, _xmax, _ymin, _ymax)  # during search, dont use antialiasing, and use lower resolution for faster search.
@@ -103,7 +103,7 @@ def find_fractal():
 
 def run_multibrot3():
 
-    data_pack = {}
+    data_pack = {'fractal_name': FRACTAL_NAME}
     
     ct = random.choice([1, 255])  # High resolution color
     hue_offset = random.randint(0, 359)
