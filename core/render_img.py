@@ -58,7 +58,7 @@ def render_with_stats(
     render_fractal_img()
     
     PAD = 33
-    filter_complex = f"color=s={IMG_RES[0]+2*PAD}x{IMG_RES[1]+1700}:c={hsl_to_hex(random.randint(0,359),0.71,0.07)}[bg];[bg][0]overlay=x={PAD}:y={PAD+310}"
+    filter_complex = f"color=s={IMG_RES[0]+2*PAD}x{IMG_RES[1]+1700}:c={hsl_to_hex(random.randint(0,359),0.71,0.07)}[bg];[bg][0]overlay=x={PAD}:y={PAD+297}"
     
     def get_text_filters():
         out = []
@@ -75,7 +75,7 @@ def render_with_stats(
 
         out.append(get_ffmpeg_drawtext_filter(data_pack['fractal_name'], '(w-tw)*0.5', 51, hsl_to_hex(random.randint(0,359),0.5,0.91), 201, font2))
 
-        y = IMG_RES[1] + 171
+        y = IMG_RES[1] + 251
         out.append(get_ffmpeg_drawtext_filter(f"Find me at", '(w-tw)*0.5', y, hsl_to_hex(random.randint(0,359),0.59,0.71), 151, font2))
         
         y += 211
@@ -86,6 +86,10 @@ def render_with_stats(
         out.append(get_ffmpeg_drawtext_filter(f"X-max\: {data_pack['xmax']}", xpad, f"{y+51*1}+th*1", color, size, font3))
         out.append(get_ffmpeg_drawtext_filter(f"Y-min\: {data_pack['ymin']}", xpad, f"{y+51*2+17}+th*2", color, size, font3))
         out.append(get_ffmpeg_drawtext_filter(f"Y-max\: {data_pack['ymax']}", xpad, f"{y+51*3+17}+th*3", color, size, font3))
+        
+        size = 51
+        y += 171
+        out.append(get_ffmpeg_drawtext_filter(f"Number of iterations: {data_pack['nIter']:,}", xpad, f"{y}+th*0", color, size, font3))
         return out
     filter_complex = f"{filter_complex},{','.join(get_text_filters())}"
     

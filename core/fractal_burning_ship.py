@@ -72,7 +72,7 @@ def find_fractal():
 
     # n_iter = random.randint(128, 512)
 
-    data_pack = {'fractal_name': FRACTAL_NAME}
+    data_pack = {}
     
     k = 0
     t = time.time()
@@ -107,7 +107,7 @@ def find_fractal():
 
 def run_burning_ship():
 
-    data_pack = {}
+    data_pack = {'fractal_name': FRACTAL_NAME}
     
     ct = random.randint(1, 255)  # PPM color threshold
     hue_offset = random.randint(0, 359)
