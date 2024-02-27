@@ -58,7 +58,7 @@ def render_with_stats(
     render_fractal_img()
     
     PAD = 33
-    filter_complex = f"color=s={IMG_RES[0]+2*PAD}x{IMG_RES[1]+1100}:c={hsl_to_hex(random.randint(0,359),0.71,0.07)}[bg];[bg][0]overlay=x={PAD}:y={PAD}"
+    filter_complex = f"color=s={IMG_RES[0]+2*PAD}x{IMG_RES[1]+1700}:c={hsl_to_hex(random.randint(0,359),0.71,0.07)}[bg];[bg][0]overlay=x={PAD}:y={PAD+310}"
     
     def get_text_filters():
         out = []
@@ -72,6 +72,8 @@ def render_with_stats(
         font = '/usr/share/fonts/truetype/liberation/LiberationSansNarrow-Regular.ttf'
         font2 = '/usr/share/fonts/truetype/lato/Lato-Black.ttf'
         font3 = '/usr/share/fonts/truetype/liberation/LiberationMono-Regular.ttf'
+
+        out.append(get_ffmpeg_drawtext_filter(data_pack['fractal_name'], '(w-tw)*0.5', 51, hsl_to_hex(random.randint(0,359),0.5,0.91), 201, font2))
 
         y = IMG_RES[1] + 171
         out.append(get_ffmpeg_drawtext_filter(f"Find me at", '(w-tw)*0.5', y, hsl_to_hex(random.randint(0,359),0.59,0.71), 151, font2))

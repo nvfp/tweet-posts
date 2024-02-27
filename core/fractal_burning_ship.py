@@ -72,7 +72,7 @@ def find_fractal():
 
     # n_iter = random.randint(128, 512)
 
-    data_pack = {}
+    data_pack = {'fractal_name': FRACTAL_NAME}
     
     k = 0
     t = time.time()
