@@ -28,7 +28,7 @@ def hsl_to_hex(h, s, l):
         r = int(hue_to_rgb(p, q, h + 1/3) * 255)
         g = int(hue_to_rgb(p, q, h) * 255)
         b = int(hue_to_rgb(p, q, h - 1/3) * 255)
-    return '#{:02x}{:02x}{:02x}'.format(r, g, b)
+    return '0x{:02x}{:02x}{:02x}'.format(r, g, b)
 
 def get_ffmpeg_drawtext_filter(text, x, y, fcolor, fsize, font):
     text = text.replace("'", '`')

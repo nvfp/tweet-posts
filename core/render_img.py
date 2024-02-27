@@ -58,7 +58,7 @@ def render_with_stats(
     render_fractal_img()
     
     PAD = 33
-    filter_complex = f"color=s={IMG_RES[0]+2*PAD}x{IMG_RES[1]+1100}:c={hsl_to_hex(random.randint(0,359),0.71,0.07).replace('#','0x')}[bg];[bg][0]overlay=x={PAD}:y={PAD}"
+    filter_complex = f"color=s={IMG_RES[0]+2*PAD}x{IMG_RES[1]+1100}:c={hsl_to_hex(random.randint(0,359),0.71,0.07)}[bg];[bg][0]overlay=x={PAD}:y={PAD}"
     
     def get_text_filters():
         out = []
@@ -70,16 +70,22 @@ def render_with_stats(
         # out.append(f"drawtext=text='y-max={data_pack['ymax']}':x=130:y='{IMG_RES[1]+Y_ANCHOR+Y_GAP*3}+th*3':fontcolor=0xffffff:fontsize=71")
 
         font = '/usr/share/fonts/truetype/liberation/LiberationSansNarrow-Regular.ttf'
+        font2 = '/usr/share/fonts/truetype/lato/Lato-Black.ttf'
+        font3 = '/usr/share/fonts/truetype/liberation/LiberationMono-Regular.ttf'
 
         y = IMG_RES[1] + 171
-        out.append(get_ffmpeg_drawtext_filter(f"Find me at", '(w-tw)*0.5', y, hsl_to_hex(random.randint(0,359),0.85,0.55), 101, font))
-        gap = 33
+        out.append(get_ffmpeg_drawtext_filter(f"Find me at", '(w-tw)*0.5', y, hsl_to_hex(random.randint(0,359),0.55,0.85), 101, font2))
+        
+        gap = 73
         y += gap  # the gap
         color = '0xa7a7a7'
         size = 73
-        out.append(get_ffmpeg_drawtext_filter(f"X-min\: {data_pack['xmin']}", 0, f"{y}+th", color, size, font))
+        xpad = 131
+        out.append(get_ffmpeg_drawtext_filter(f"X-min\: {data_pack['xmin']}", xpad, f"{y}+th", color, size, font3))
+        out.append(get_ffmpeg_drawtext_filter(f"X-max\: {data_pack['xmax']}", f"(w-tw)-{xpad}", f"{y}+th", color, size, font3))
         y += gap  # the gap
-        out.append(get_ffmpeg_drawtext_filter(f"Y-min\: {data_pack['ymin']}", 0, f"{y}+th*2", color, size, font))
+        out.append(get_ffmpeg_drawtext_filter(f"Y-min\: {data_pack['ymin']}", xpad, f"{y}+th*2", color, size, font3))
+        out.append(get_ffmpeg_drawtext_filter(f"Y-max\: {data_pack['ymax']}", f"(w-tw)-{xpad}", f"{y}+th*2", color, size, font3))
         return out
     filter_complex = f"{filter_complex},{','.join(get_text_filters())}"
     
