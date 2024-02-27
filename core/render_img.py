@@ -86,7 +86,7 @@ def render_with_stats(
 
         out.append(get_ffmpeg_drawtext_filter(data_pack['fractal_name'], '(w-tw)*0.5', 51, hsl_to_hex(random.randint(0,359),0.5,0.91), 201, font2))
 
-        y = IMG_RES[1] + 251
+        y = IMG_RES[1] + 331
         out.append(get_ffmpeg_drawtext_filter(f"Find me at", '(w-tw)*0.5', y, hsl_to_hex(random.randint(0,359),0.59,0.71), 151, font2))
         
         y += 211
