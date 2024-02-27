@@ -58,7 +58,18 @@ def render_with_stats(
     render_fractal_img()
     
     PAD = 33
-    filter_complex = f"color=s={IMG_RES[0]+2*PAD}x{IMG_RES[1]+1700}:c={hsl_to_hex(random.randint(0,359),0.71,0.07)}[bg];[bg][0]overlay=x={PAD}:y={PAD+297}"
+    BORDER_THICK = 13
+    Y_OFF = 311
+    filter_complex = (
+        # f"color=s={IMG_RES[0]+2*PAD}x{IMG_RES[1]+1700}:c={hsl_to_hex(random.randint(0,359),0.71,0.13)}[bg];"
+        # f"color=s={IMG_RES[0]+2*BORDER_THICK}x{IMG_RES[1]+2*BORDER_THICK}:c={hsl_to_hex(random.randint(0,359),0.71,0.87)}[border];"
+        # f"[bg][border]overlay=x={PAD}:y={PAD+297}"
+        # f"[bg][0]overlay=x={PAD+BORDER_THICK}:y={PAD+297+BORDER_THICK}"
+        f"color=s={IMG_RES[0]+2*PAD+2*BORDER_THICK}x{IMG_RES[1]+1700}:c={hsl_to_hex(random.randint(0,359),0.71,0.13)}[bg];"
+        f"color=s={IMG_RES[0]+2*BORDER_THICK}x{IMG_RES[1]+2*BORDER_THICK}:c={hsl_to_hex(random.randint(0,359),0.71,0.87)}[border];"
+        f"[bg][border]overlay=x={PAD}:y={PAD+Y_OFF}"
+        f"[bg][0]overlay=x={PAD+BORDER_THICK}:y={PAD+Y_OFF+BORDER_THICK}"
+    )
     
     def get_text_filters():
         out = []
@@ -89,7 +100,7 @@ def render_with_stats(
         
         size = 51
         y += 171
-        out.append(get_ffmpeg_drawtext_filter(f"Number of iterations: {data_pack['nIter']:,}", xpad, f"{y}+th*0", color, size, font3))
+        out.append(get_ffmpeg_drawtext_filter(f"Number of iterations\: {data_pack['nIter']:,}", xpad, f"{y}+th*0", color, size, font3))
         return out
     filter_complex = f"{filter_complex},{','.join(get_text_filters())}"
     
