@@ -65,7 +65,7 @@ def render_with_stats(
         # f"color=s={IMG_RES[0]+2*BORDER_THICK}x{IMG_RES[1]+2*BORDER_THICK}:c={hsl_to_hex(random.randint(0,359),0.71,0.87)}[border];"
         # f"[bg][border]overlay=x={PAD}:y={PAD+297}"
         # f"[bg][0]overlay=x={PAD+BORDER_THICK}:y={PAD+297+BORDER_THICK}"
-        f"color=s={IMG_RES[0]+2*XPAD+2*BORDER_THICK}x{IMG_RES[1]+1700}:c={hsl_to_hex(random.randint(0,359),0.71,0.13)}[bg];"
+        f"color=s={IMG_RES[0]+2*XPAD+2*BORDER_THICK}x{IMG_RES[1]+1700}:c={hsl_to_hex(random.randint(0,359),0.71,0.11)}[bg];"
         f"color=s={IMG_RES[0]+2*BORDER_THICK}x{IMG_RES[1]+2*BORDER_THICK}:c={hsl_to_hex(random.randint(0,359),0.71,0.87)}[border];"
         f"[bg][border]overlay=x={XPAD}:y={Y_OFF}[bg];"
         f"[bg][0]overlay=x={XPAD+BORDER_THICK}:y={Y_OFF+BORDER_THICK}"
@@ -87,10 +87,10 @@ def render_with_stats(
         out.append(get_ffmpeg_drawtext_filter(data_pack['fractal_name'], '(w-tw)*0.5', 51, hsl_to_hex(random.randint(0,359),0.5,0.91), 201, font2))
 
         y = IMG_RES[1] + 371
-        out.append(get_ffmpeg_drawtext_filter(f"Find me at", '(w-tw)*0.5', y, hsl_to_hex(random.randint(0,359),0.59,0.71), 151, font2))
+        out.append(get_ffmpeg_drawtext_filter(f"Find me at", '(w-tw)*0.5', y, hsl_to_hex(random.randint(0,359),0.71,0.77), 151, font2))
         
         y += 211
-        color = '0xc1c1c1'
+        color = '0xc7c7c7'
         size = 93
         xpad = 131
         out.append(get_ffmpeg_drawtext_filter(f"X-min\: {data_pack['xmin']}", xpad, f"{y+51*0}+th*0", color, size, font3))
@@ -98,10 +98,11 @@ def render_with_stats(
         out.append(get_ffmpeg_drawtext_filter(f"Y-min\: {data_pack['ymin']}", xpad, f"{y+51*2+17}+th*2", color, size, font3))
         out.append(get_ffmpeg_drawtext_filter(f"Y-max\: {data_pack['ymax']}", xpad, f"{y+51*3+17}+th*3", color, size, font3))
         
-        size = 51
-        y += 771
-        color = '0xa1a1a1'
+        size = 57
+        y += 671
+        color = '0xb3b3b3'
         out.append(get_ffmpeg_drawtext_filter(f"Number of iterations\: {data_pack['nIter']:,}", xpad, f"{y}+th*0", color, size, font3))
+        out.append(get_ffmpeg_drawtext_filter(f"Size\: {round(os.path.getsize(RENDERED_IMG_PTH2)/1000_000,2)} mB", xpad, f"{y+51}+th*1", color, size, font3))
         return out
     filter_complex = f"{filter_complex},{','.join(get_text_filters())}"
     
