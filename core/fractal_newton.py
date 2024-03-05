@@ -80,7 +80,7 @@ def find_fractal():
     nIter, xmin, xmax, ymin, ymax = None, None, None, None, None
     
     # while (std < 20) or (time.time()-t < 3600):  # this based on std , but let's just use based on hours
-    while std < 7:
+    while std < 3:
         k += 1
         
         _nIter = random.randint(250, 1000)
