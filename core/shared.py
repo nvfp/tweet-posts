@@ -4,7 +4,7 @@ ROOT_DIR = os.path.dirname(os.path.dirname(__file__))  # project root folder
 
 FFMPEG = os.path.join(ROOT_DIR, 'THE_VENV_CACHE', 'FFMPEG_BIN', 'ffmpeg')  # Make sure the venv cache folder name matches the one in the workflows.
 
-RENDERED_IMG_PTH = os.path.join(ROOT_DIR, '__the_rendered_img.png')  # Knowing that each fractal workflow runs in a different VM, so they shouldn't overlap (overwriting one another).
+RENDERED_IMG_PTH = os.path.join(ROOT_DIR, '__the_rendered_img.jpg')  # Knowing that each fractal workflow runs in a different VM, so they shouldn't overlap (overwriting one another).
 if os.path.exists(RENDERED_IMG_PTH): raise AssertionError(f"UNEXPECTED: Already exists: {repr(RENDERED_IMG_PTH)}.")
 
 RENDERED_IMG_PTH2 = os.path.join(ROOT_DIR, '__the_rendered_img2.png')
