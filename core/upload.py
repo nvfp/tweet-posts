@@ -22,32 +22,21 @@ def uploadTwitter(imgPath, postDesc):
 def uploadMastodon(imgPath, postDesc):
     access_token = os.environ['MASTODON_ACCESS_TOKEN']
 
-    ## Image
-    with open(imgPath, 'rb') as file:
+    with open(imgPath, 'rb') as file:  # uploading the image first
         response = requests.post(
             'https://mastodon.social/api/v2/media',
             headers={'Authorization': f'Bearer {access_token}'},
             files={'file': file}
         )
         if response.status_code != 200:raise AssertionError(f"image response: {response}")
-            # print(f'WARNING: image response: {response}')
-            # return f"Err: {response}"
-    # media_id = response.json()['id']
 
-    ## Text
-    payload = {'status': postDesc, 'media_ids[]': response.json()['id']}
+    payload = {'status': postDesc, 'media_ids[]': response.json()['id']}  # now, upload the post's description
     response = requests.post(
         'https://mastodon.social/api/v1/statuses',
         headers={'Authorization': f'Bearer {access_token}'},
         data=payload
     )
-    # print(json.dumps(response.json(), indent=4))
     if response.status_code != 200:raise AssertionError(f"text response: {response}")
-        # print(f'WARNING: text response: {response}')
-        # return f"Err: {response}"
-    # post_id = response.json()['id']
-    # print(f'INFO: Sent. post_id: {repr(post_id)}')
-    # return post_id
 
 def upload():
     pth = RENDERED_IMG_PTH
