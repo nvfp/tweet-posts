@@ -53,7 +53,7 @@ def getRandomRange(resW, resH):
     # total_height = y_bound_max - y_bound_min
 
     ## The captured one
-    frame_width = total_width/random.randint(1, 10)
+    frame_width = total_width/random.randint(1, 17)
     frame_height = frame_width*(resH/resW)  # based on aspect ratio
 
     xmin = random.uniform(x_bound_min, x_bound_max-frame_width)
@@ -69,7 +69,7 @@ def findFractal(resW,resH):
     std = -1  # standard deviation
     nIter, xmin,xmax, ymin,ymax = 0,0,0,0,0
     while std < 7:  # just based on std, not time because too high std might give images that are too noisy
-        nIter = random.randint(250, 1000)
+        nIter = random.randint(250, 2000)
         xmin,xmax, ymin,ymax = getRandomRange(resW,resH)
 
         sample = get_raw_grayscale_image(round(resW/2),round(resH/2), False, 2, nIter, xmin,xmax, ymin,ymax)  # during search, dont use antialiasing, and use lower resolution for faster search.
@@ -79,7 +79,7 @@ def findFractal(resW,resH):
 
 def runBurningShip():
 
-    IMG_RES = [2000, 2000]
+    IMG_RES = [2000, 3000]
     OUTPUT_PTH = './_the_rendered_image.jpg'
 
     the_raw = findFractal(IMG_RES[0], IMG_RES[1])
