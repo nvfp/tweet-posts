@@ -16,10 +16,8 @@ def uploadTwitter(imgPath, postDesc):
         consumer_key=consumer_key, consumer_secret=consumer_secret
     )
     try:
-        media = client_v1.media_upload(filename=imgPath)  # post the image first
-        media_id = media.media_id
-
-        posted = client_v2.create_tweet(text=postDesc, media_ids=[media_id])  # the the text (post description)
+        media = client_v1.media_upload(filename=imgPath)  # post the image first then the desc
+        posted = client_v2.create_tweet(text=postDesc, media_ids=[media.media_id])  # Upload the post's description
 
         # tweet_id = posted.data['id']
         # print(f"tweet_id: {tweet_id}")
@@ -59,7 +57,6 @@ def uploadMastodon(imgPath, postDesc):
     # return post_id
 
 def upload():
-    # pth='./the_rendered_image.jpg'
     pth = RENDERED_IMG_PTH
     desc=f"Happy {datetime.datetime.now().strftime('%A')}!"
     uploadTwitter(pth, desc)
