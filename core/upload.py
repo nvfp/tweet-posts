@@ -1,5 +1,4 @@
 import os, requests, tweepy, random, json, datetime
-from .shared import RENDERED_IMG_PTH
 
 def uploadTwitter(imgPath, postDesc):
     access_token = os.environ['X_ACCESS_TOKEN']
@@ -42,8 +41,7 @@ def uploadMastodon(imgPath, postDesc):
 
     print('uploaded to mastodon.')
 
-def upload():
-    pth = RENDERED_IMG_PTH
+def upload(imagePath):
     desc=f"Happy {datetime.datetime.now().strftime('%A')}!"
-    uploadTwitter(pth, desc)
-    uploadMastodon(pth, desc)
+    uploadTwitter(imagePath, desc)
+    uploadMastodon(imagePath, desc)

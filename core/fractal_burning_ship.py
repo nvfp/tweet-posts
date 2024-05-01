@@ -90,51 +90,42 @@ def find_fractal():
 
     # dur = time.time() - dur_t0
     the_raw = get_raw_grayscale_image(IMG_RES[0], IMG_RES[1], True, 3, nIter, xmin, xmax, ymin, ymax)
+    return the_raw
 
-    data_pack['xmin'] = xmin
-    data_pack['xmax'] = xmax
-    data_pack['ymin'] = ymin
-    data_pack['ymax'] = ymax
-    data_pack['nIter'] = nIter
+def runBurningShip():
 
-    return the_raw, data_pack
-
-def run_burning_ship():
-
-    ct = random.randint(1, 255)  # PPM color threshold
-    hue_offset = random.randint(0, 359)
-    saturation = round( random.uniform(-1, 1), 2 )
+    IMG_RES = [2000, 2000]
 
     the_raw, find_fractal_data_pack = find_fractal()
-    for k,v in find_fractal_data_pack.items():
-        if k in data_pack: raise AssertionError(f"Duplicated: {k}")
-        data_pack[k] = v
 
-    ppm_data = get_ppm(the_raw, IMG_RES[0], IMG_RES[1], ct, hue_offset, saturation)
-
-    ## Random FFmpeg filters
-    edit_contrast   = round( random.uniform(0.7, 1.8)  , 2 )
-    edit_brightness = round( random.uniform(-0.1, 0.23), 2 )
-    edit_saturation = round( random.uniform(0.25, 1.75), 2 )
-    edit_gamma      = round( random.uniform(0.9, 1.1)  , 2 )
-    edit_gamma_r    = round( random.uniform(0.9, 1.1)  , 2 )
-    edit_gamma_g    = round( random.uniform(0.9, 1.1)  , 2 )
-    edit_gamma_b    = round( random.uniform(0.9, 1.1)  , 2 )
-    edit_vignette   = random.randint(-51, -13)
-    edit_temp       = random.randint(2000, 8000)
-
-    render_with_stats(
-        ppm_data,
-        edit_contrast,
-        edit_brightness,
-        edit_saturation,
-        edit_gamma,
-        edit_gamma_r,
-        edit_gamma_g,
-        edit_gamma_b,
-        edit_vignette,
-        edit_temp,
-        data_pack,
+    # IMG_RES = [1280, 1280]
+    # IMG_RES = [1080, 1080]
+    # IMG_RES = [2000, 2000]
+    # ct = random.randint(1, 255)  # PPM color threshold
+    # hue_offset = random.randint(0, 359)
+    # saturation = round( random.uniform(-1, 1), 2 )
+    # ppm_data = get_ppm(the_raw, IMG_RES[0], IMG_RES[1], ct, hue_offset, saturation)
+    ppm_data = get_ppm(raw=the_raw, w=IMG_RES[0],h=IMG_RES[1], 
+        ct=random.randint(1, 255)  # PPM color threshold,
+        hue_offset=random.randint(0, 359),
+        saturation=round( random.uniform(-1, 1), 2 ),
     )
 
-    upload()
+
+    # outputPth='./_the_rendered_image.jpg'
+    OUTPUT_PTH = './_the_rendered_image.jpg'
+    saveImg(
+        edit_contrast=round( random.uniform(0.7, 1.8)  , 2 ),
+        edit_brightness=round( random.uniform(-0.1, 0.23), 2 ),
+        edit_saturation=round( random.uniform(0.25, 1.75), 2 ),
+        edit_gamma=round( random.uniform(0.9, 1.1)  , 2 ),
+        edit_gamma_r=round( random.uniform(0.9, 1.1)  , 2 ),
+        edit_gamma_g=round( random.uniform(0.9, 1.1)  , 2 ),
+        edit_gamma_b=round( random.uniform(0.9, 1.1)  , 2 ),
+        edit_vignette=random.randint(-51, -13),
+        edit_temp=random.randint(2000, 8000),
+        
+        ppm_data=ppmData,
+        outputPth=OUTPUT_PTH,
+    )
+    upload(outputPth)

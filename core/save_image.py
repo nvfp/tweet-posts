@@ -1,5 +1,4 @@
 import subprocess as sp, os
-from .shared import RENDERED_IMG_PTH
 
 def saveImg(
     edit_contrast,
@@ -38,11 +37,11 @@ def saveImg(
         '-i', '-',
         '-vf', vFilter,
         '-q:v', '1',
-        RENDERED_IMG_PTH
+        outputPath
     ], stdin=sp.PIPE)
     pipe.stdin.write(ppm_data)
     pipe.stdin.close()
     pipe.wait()
     pipe.terminate()
 
-    print(f"Image saved at {repr(RENDERED_IMG_PTH)} ({round(os.path.getsize(RENDERED_IMG_PTH)/1000,1)} kB).")
+    print(f"Image saved at {repr(outputPath)} ({round(os.path.getsize(outputPath)/1000,1)} kB).")

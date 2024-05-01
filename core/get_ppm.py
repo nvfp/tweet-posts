@@ -1,7 +1,7 @@
 import numba as nb, numpy as np
 
 @nb.njit
-def _hsv_to_rgb(h, s, v):
+def hsv_to_rgb(h, s, v):
     h_frac = h / 60
     h_modu = np.floor(h_frac) % 6
 
@@ -17,9 +17,8 @@ def _hsv_to_rgb(h, s, v):
     if h_modu == 4: return int(t * 255), int(p * 255), int(v * 255)
     if h_modu == 5: return int(v * 255), int(p * 255), int(q * 255)
 
-
 @nb.njit
-def _convert(arr, hue_offset, saturation):
+def convert(arr, hue_offset, saturation):
 
     img_arr = np.zeros(3 * arr.size)
 
@@ -31,7 +30,7 @@ def _convert(arr, hue_offset, saturation):
         s = saturation
         v = np.sqrt(rat)  # The darker pixels will remain dark
 
-        r, g, b = _hsv_to_rgb(h, s, v)
+        r, g, b = hsv_to_rgb(h, s, v)
 
         img_arr[idx*3    ] = r
         img_arr[idx*3 + 1] = g
@@ -40,7 +39,7 @@ def _convert(arr, hue_offset, saturation):
     return img_arr
 
 def get_ppm(raw, w, h, ct, hue_offset, saturation):
-    raw = _convert(raw, hue_offset, saturation)
+    raw = convert(raw, hue_offset, saturation)
     ppm = f'P6 {w} {h} {ct} '.encode()
     ppm += raw.astype(np.uint8).tobytes()
     return ppm
