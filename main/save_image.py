@@ -11,8 +11,8 @@ def saveImg(
     edit_vignette,
     edit_temp,
 
-    ppm_data,
-    outputPath,
+    ppmData,
+    outputPth,
 ):
     vFilter = (
         'eq='
@@ -37,11 +37,11 @@ def saveImg(
         '-i', '-',
         '-vf', vFilter,
         '-q:v', '1',
-        outputPath
+        outputPth
     ], stdin=sp.PIPE)
-    pipe.stdin.write(ppm_data)
+    pipe.stdin.write(ppmData)
     pipe.stdin.close()
     pipe.wait()
     pipe.terminate()
 
-    print(f"Image saved at {repr(outputPath)} ({round(os.path.getsize(outputPath)/1000,1)} kB).")
+    print(f"Image saved at {repr(outputPth)} ({round(os.path.getsize(outputPth)/1000,1)} kB).")

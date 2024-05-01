@@ -1,6 +1,6 @@
 import os, requests, tweepy, datetime
 
-def uploadTwitter(imgPath, postDesc):
+def uploadTwitter(imgPth, postDesc):
     access_token = os.environ['X_ACCESS_TOKEN']
     access_token_secret = os.environ['X_ACCESS_TOKEN_SECRET']
     consumer_key = os.environ['X_API_KEY']
@@ -15,15 +15,15 @@ def uploadTwitter(imgPath, postDesc):
         consumer_key=consumer_key, consumer_secret=consumer_secret
     )
 
-    media = client_v1.media_upload(filename=imgPath)  # post the image first then the desc
+    media = client_v1.media_upload(filename=imgPth)  # post the image first then the desc
     client_v2.create_tweet(text=postDesc, media_ids=[media.media_id])  # Upload the post's description
 
     print('uploaded to twitter.')
 
-def uploadMastodon(imgPath, postDesc):
+def uploadMastodon(imgPth, postDesc):
     access_token = os.environ['MASTODON_ACCESS_TOKEN']
 
-    with open(imgPath, 'rb') as file:  # uploading the image first
+    with open(imgPth, 'rb') as file:  # uploading the image first
         response = requests.post(
             'https://mastodon.social/api/v2/media',
             headers={'Authorization': f'Bearer {access_token}'},
@@ -41,7 +41,7 @@ def uploadMastodon(imgPath, postDesc):
 
     print('uploaded to mastodon.')
 
-def upload(imagePath):
+def upload(imgPth):
     desc=f"Happy {datetime.datetime.now().strftime('%A')}!"
-    uploadTwitter(imagePath, desc)
-    uploadMastodon(imagePath, desc)
+    uploadTwitter(imgPth, desc)
+    uploadMastodon(imgPth, desc)
