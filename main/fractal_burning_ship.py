@@ -1,4 +1,4 @@
-import random, time, numpy as np, numba as nb
+import random, numpy as np, numba as nb
 from .get_ppm import get_ppm
 from .save_image import saveImg
 from .upload import upload
@@ -67,23 +67,15 @@ def getRandomRange(resW, resH):
 def findFractal(resW,resH):
 
     std = -1  # standard deviation
-    nIter, xmin, xmax, ymin, ymax = None, None, None, None, None
-    
+    nIter, xmin,xmax, ymin,ymax = 0,0,0,0,0
     while std < 7:  # just based on std, not time because too high std might give images that are too noisy
-        
-        _nIter = random.randint(250, 1000)
-        _xmin,_xmax, _ymin,_ymax = getRandomRange(resW,resH)
-        
-        raw = get_raw_grayscale_image(round(resW/2),round(resH/2), False, 2, _nIter, _xmin,_xmax, _ymin,_ymax)  # during search, dont use antialiasing, and use lower resolution for faster search.
-        _std = np.std(raw)
-        
-        if _std > std:
-            std = _std    
-            nIter = _nIter
-            xmin, xmax, ymin, ymax = _xmin, _xmax, _ymin, _ymax
+        nIter = random.randint(250, 1000)
+        xmin,xmax, ymin,ymax = getRandomRange(resW,resH)
 
-    the_raw = get_raw_grayscale_image(resW,resH, True, 3, nIter, xmin, xmax, ymin, ymax)
-    return the_raw
+        sample = get_raw_grayscale_image(round(resW/2),round(resH/2), False, 2, nIter, xmin,xmax, ymin,ymax)  # during search, dont use antialiasing, and use lower resolution for faster search.
+        std = np.std(sample)
+
+    return get_raw_grayscale_image(resW,resH, True, 5, nIter, xmin, xmax, ymin, ymax)  # Return the full quality
 
 def runBurningShip():
 
@@ -94,20 +86,20 @@ def runBurningShip():
     ppmData = get_ppm(
         raw=the_raw,
         w=IMG_RES[0],h=IMG_RES[1], 
-        ct=random.randint(1, 255),  # PPM color threshold
+        ct=random.choice([1, 255]),  # PPM color threshold
         hue_offset=random.randint(0, 359),
-        saturation=round( random.uniform(-1, 1), 2 ),
+        saturation=random.uniform(0.5, 1.5)*random.choice([-1,1]),
     )
     saveImg(
-        edit_contrast=round( random.uniform(0.7, 1.8)  , 2 ),
-        edit_brightness=round( random.uniform(-0.1, 0.23), 2 ),
-        edit_saturation=round( random.uniform(0.25, 1.75), 2 ),
-        edit_gamma=round( random.uniform(0.9, 1.1)  , 2 ),
-        edit_gamma_r=round( random.uniform(0.9, 1.1)  , 2 ),
-        edit_gamma_g=round( random.uniform(0.9, 1.1)  , 2 ),
-        edit_gamma_b=round( random.uniform(0.9, 1.1)  , 2 ),
-        edit_vignette=random.randint(-51, -13),
-        edit_temp=random.randint(2000, 8000),
+        edit_contrast   = random.uniform(0.7, 1.8),
+        edit_brightness = random.uniform(-0.1, 0.23),
+        edit_saturation = random.uniform(0.25, 1.75),
+        edit_gamma      = random.uniform(0.9, 1.1),
+        edit_gamma_r    = random.uniform(0.9, 1.1),
+        edit_gamma_g    = random.uniform(0.9, 1.1),
+        edit_gamma_b    = random.uniform(0.9, 1.1),
+        edit_vignette   = random.randint(-51, -13),
+        edit_temp       = random.randint(2000, 8000),
         
         ppm_data=ppmData,
         outputPth=OUTPUT_PTH,
