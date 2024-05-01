@@ -1,6 +1,4 @@
 import os, subprocess as sp, random
-from .shared import FFMPEG, RENDERED_IMG_PTH, RENDERED_IMG_PTH2, IMG_RES
-from .utils import hsl_to_hex, get_ffmpeg_drawtext_filter
 
 def render_with_stats(
     ppm_data,
@@ -15,7 +13,8 @@ def render_with_stats(
     edit_vignette,
     edit_temp,
 
-    data_pack,
+    # data_pack,
+    imgW,imgH,
 ):
     def render_fractal_img():
         filter = (
@@ -36,7 +35,8 @@ def render_with_stats(
             f'temperature={edit_temp}'
         )
         cmd = [
-            FFMPEG,
+            # FFMPEG,
+            'ffmpeg',
             '-v', 'error',
             '-f', 'image2pipe',
             '-vcodec', 'ppm',

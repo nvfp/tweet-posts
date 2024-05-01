@@ -1,4 +1,5 @@
 import os, requests, tweepy, random, json, datetime
+from .shared import RENDERED_IMG_PTH
 
 def uploadTwitter(imgPath, postDesc):
     access_token = os.environ['X_ACCESS_TOKEN']
@@ -20,9 +21,9 @@ def uploadTwitter(imgPath, postDesc):
 
         posted = client_v2.create_tweet(text=postDesc, media_ids=[media_id])  # the the text (post description)
 
-        tweet_id = posted.data['id']
-        print(f"tweet_id: {tweet_id}")
-        return tweet_id
+        # tweet_id = posted.data['id']
+        # print(f"tweet_id: {tweet_id}")
+        # return tweet_id
     except Exception as err:
         print(f'ERROR: {err}')
         return f"Err: {err}"
@@ -53,12 +54,13 @@ def uploadMastodon(imgPath, postDesc):
     if response.status_code != 200:
         print(f'WARNING: text response: {response}')
         return f"Err: {response}"
-    post_id = response.json()['id']
-    print(f'INFO: Sent. post_id: {repr(post_id)}')
-    return post_id
+    # post_id = response.json()['id']
+    # print(f'INFO: Sent. post_id: {repr(post_id)}')
+    # return post_id
 
 def upload():
-    pth='./the_rendered_image.jpg'
+    # pth='./the_rendered_image.jpg'
+    pth = RENDERED_IMG_PTH
     desc=f"Happy {datetime.datetime.now().strftime('%A')}!"
     uploadTwitter(pth, desc)
     uploadMastodon(pth, desc)
