@@ -8,5 +8,5 @@
 #     random.choice([runMandelbrot, runMultibrot3, runNewton, runBurningShip])()
 
 
-from main.fractal_multibrot3 import runMultibrot3
-runMultibrot3()
+from main.fractal_newton import runNewton
+runNewton()
