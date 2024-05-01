@@ -1,11 +1,7 @@
-import random, time, numpy as np, numba as nb
-from .shared import IMG_RES
-from .post_online import post_online
-from .write_md import write_metadata_file
+import random, numpy as np, numba as nb
 from .get_ppm import get_ppm
-from .render_img import render_with_stats
-
-FRACTAL_NAME = 'Mandelbrot Set'  # will be used in post's description
+from .save_image import saveImg
+from .upload import upload
 
 @nb.jit(nb.int32(nb.complex128, nb.int32))
 def _get_esc_iter(c_frag, n_iter_frag):
@@ -45,7 +41,7 @@ def get_raw_grayscale_image(
     if antialiasing_is_on: raw = raw.reshape(h, antialiasing_supsample, w, antialiasing_supsample).mean(3).mean(1)
     return raw
 
-def get_random_range():
+def getRandomRange(resW, resH):
 
     ## The region where the fractal is visible
     x_bound_min = -2.75
@@ -58,7 +54,7 @@ def get_random_range():
 
     ## The captured one
     frame_width = total_width/random.randint(1, 10_000)
-    frame_height = frame_width*(IMG_RES[1] / IMG_RES[0])  # based on aspect ratio
+    frame_height = frame_width*(resH/resW)  # based on aspect ratio
 
     xmin = random.uniform(x_bound_min, x_bound_max-frame_width)
     xmax = xmin + frame_width
@@ -68,104 +64,44 @@ def get_random_range():
 
     return xmin, xmax, ymin, ymax
 
-def find_fractal():
+def findFractal(resW,resH):
 
-    # n_iter = random.randint(128, 512)
-
-    data_pack = {}
-    
-    k = 0
-    t = time.time()
     std = -1  # standard deviation
-    nIter, xmin, xmax, ymin, ymax = None, None, None, None, None
-    
-    # while (std < 20) or (time.time()-t < 3600):  # this based on std , but let's just use based on hours
-    while std < 15:
-        k += 1
+    nIter, xmin,xmax, ymin,ymax = 0,0,0,0,0
+    while std < 11:
+        nIter = random.randint(256, 4096)
+        xmin,xmax, ymin,ymax = getRandomRange(resW,resH)
         
-        _nIter = random.randint(1250, 3500)
-        _xmin, _xmax, _ymin, _ymax = get_random_range()
+        sample = get_raw_grayscale_image(round(resW/2),round(resH/2), False, 2, nIter, xmin,xmax, ymin,ymax)  # during search, dont use antialiasing, and use lower resolution for faster search.
+        std = np.std(sample)
         
-        raw = get_raw_grayscale_image(round(IMG_RES[0]/2), round(IMG_RES[1]/2), False, 2, _nIter, _xmin, _xmax, _ymin, _ymax)  # during search, dont use antialiasing, and use lower resolution for faster search.
-        _std = np.std(raw)
-        
-        if _std > std:
-            std = _std    
-            nIter = _nIter
-            xmin, xmax, ymin, ymax = _xmin, _xmax, _ymin, _ymax
+    return get_raw_grayscale_image(resW,resH, True, 5, nIter, xmin, xmax, ymin, ymax)  # Return the full quality
 
-    # dur = time.time() - dur_t0
-    the_raw = get_raw_grayscale_image(IMG_RES[0], IMG_RES[1], True, 3, nIter, xmin, xmax, ymin, ymax)
+def runMandelbrot():
 
-    data_pack['xmin'] = xmin
-    data_pack['xmax'] = xmax
-    data_pack['ymin'] = ymin
-    data_pack['ymax'] = ymax
-    data_pack['nIter'] = nIter
+    IMG_RES = [2000, 3000]
+    OUTPUT_PTH = './_the_rendered_image.jpg'
 
-    return the_raw, data_pack
-
-def run_mandelbrot():
-
-    data_pack = {'fractal_name': FRACTAL_NAME}
-    
-    ct = random.randint(1, 255)  # PPM color threshold
-    hue_offset = random.randint(0, 359)
-    saturation = round( random.uniform(-1, 1), 2 )
-
-    the_raw, find_fractal_data_pack = find_fractal()
-    for k,v in find_fractal_data_pack.items():
-        if k in data_pack: raise AssertionError(f"Duplicated: {k}")
-        data_pack[k] = v
-
-    ppm_data = get_ppm(the_raw, IMG_RES[0], IMG_RES[1], ct, hue_offset, saturation)
-
-    ## Random FFmpeg filters
-    edit_contrast   = round( random.uniform(0.7, 1.8)  , 2 )
-    edit_brightness = round( random.uniform(-0.1, 0.23), 2 )
-    edit_saturation = round( random.uniform(0.25, 1.75), 2 )
-    edit_gamma      = round( random.uniform(0.9, 1.1)  , 2 )
-    edit_gamma_r    = round( random.uniform(0.9, 1.1)  , 2 )
-    edit_gamma_g    = round( random.uniform(0.9, 1.1)  , 2 )
-    edit_gamma_b    = round( random.uniform(0.9, 1.1)  , 2 )
-    edit_vignette   = random.randint(-51, -13)
-    edit_temp       = random.randint(2000, 8000)
-
-    # Export
-    # file_size = save_img(
-    #     IMAGE_PTH,
-    #     ppm_data,
-
-    #     edit_contrast,
-    #     edit_brightness,
-    #     edit_saturation,
-    #     edit_gamma,
-    #     edit_gamma_r,
-    #     edit_gamma_g,
-    #     edit_gamma_b,
-    #     edit_vignette,
-    #     edit_temp
-    # )
-
-    render_with_stats(
-        ppm_data,
-        edit_contrast,
-        edit_brightness,
-        edit_saturation,
-        edit_gamma,
-        edit_gamma_r,
-        edit_gamma_g,
-        edit_gamma_b,
-        edit_vignette,
-        edit_temp,
-        data_pack,
+    the_raw = findFractal(IMG_RES[0], IMG_RES[1])
+    ppmData = get_ppm(
+        raw=the_raw,
+        w=IMG_RES[0],h=IMG_RES[1], 
+        ct=random.choice([1, 255]),  # PPM color threshold
+        hue_offset=random.randint(0, 359),
+        saturation=random.uniform(0.5, 1.5)*random.choice([-1,1]),
     )
-
-    ## Posting
-    out = post_online(FRACTAL_NAME)
-
-
-    # write_metadata_file(FRACTAL_NAME,)
-    # md_pack = {
+    saveImg(
+        edit_contrast   = random.uniform(0.7, 1.8),
+        edit_brightness = random.uniform(-0.1, 0.23),
+        edit_saturation = random.uniform(0.25, 1.75),
+        edit_gamma      = random.uniform(0.9, 1.1),
+        edit_gamma_r    = random.uniform(0.9, 1.1),
+        edit_gamma_g    = random.uniform(0.9, 1.1),
+        edit_gamma_b    = random.uniform(0.9, 1.1),
+        edit_vignette   = random.randint(-51, -13),
+        edit_temp       = random.randint(2000, 8000),
         
-    # }
+        ppmData=ppmData,
+        outputPth=OUTPUT_PTH,
+    )
+    upload(OUTPUT_PTH)
