@@ -90,7 +90,7 @@ def runBurningShip():
     IMG_RES = [2000, 2000]
     OUTPUT_PTH = './_the_rendered_image.jpg'
 
-    the_raw = find_fractal()
+    the_raw = findFractal(IMG_RES[0], IMG_RES[1])
     ppmData = get_ppm(
         raw=the_raw,
         w=IMG_RES[0],h=IMG_RES[1], 

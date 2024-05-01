@@ -1,4 +1,4 @@
-import os, requests, tweepy, random, json, datetime
+import os, requests, tweepy, datetime
 
 def uploadTwitter(imgPath, postDesc):
     access_token = os.environ['X_ACCESS_TOKEN']
