@@ -41,7 +41,7 @@ def get_raw_grayscale_image(
     if antialiasing_is_on: raw = raw.reshape(h, antialiasing_supsample, w, antialiasing_supsample).mean(3).mean(1)
     return raw
 
-def get_random_range():
+def getRandomRange(resW, resH):
 
     ## The region where the fractal is visible
     x_bound_min = -2.5
@@ -54,7 +54,7 @@ def get_random_range():
 
     ## The captured one
     frame_width = total_width/random.randint(1, 10)
-    frame_height = frame_width*(IMG_RES[1] / IMG_RES[0])  # based on aspect ratio
+    frame_height = frame_width*(resH/resW)  # based on aspect ratio
 
     xmin = random.uniform(x_bound_min, x_bound_max-frame_width)
     xmax = xmin + frame_width
@@ -64,23 +64,17 @@ def get_random_range():
 
     return xmin, xmax, ymin, ymax
 
-def find_fractal():
+def findFractal(resW,resH):
 
-    # n_iter = random.randint(128, 512)
-
-    k = 0
-    t = time.time()
     std = -1  # standard deviation
     nIter, xmin, xmax, ymin, ymax = None, None, None, None, None
     
-    # while (std < 20) or (time.time()-t < 3600):  # this based on std , but let's just use based on hours
-    while (time.time()-t < 20):
-        k += 1
+    while std < 7:  # just based on std, not time because too high std might give images that are too noisy
         
         _nIter = random.randint(250, 1000)
-        _xmin, _xmax, _ymin, _ymax = get_random_range()
+        _xmin,_xmax, _ymin,_ymax = getRandomRange(resW,resH)
         
-        raw = get_raw_grayscale_image(round(IMG_RES[0]/2), round(IMG_RES[1]/2), False, 2, _nIter, _xmin, _xmax, _ymin, _ymax)  # during search, dont use antialiasing, and use lower resolution for faster search.
+        raw = get_raw_grayscale_image(round(resW/2),round(resH/2), False, 2, _nIter, _xmin,_xmax, _ymin,_ymax)  # during search, dont use antialiasing, and use lower resolution for faster search.
         _std = np.std(raw)
         
         if _std > std:
@@ -88,32 +82,22 @@ def find_fractal():
             nIter = _nIter
             xmin, xmax, ymin, ymax = _xmin, _xmax, _ymin, _ymax
 
-    # dur = time.time() - dur_t0
-    the_raw = get_raw_grayscale_image(IMG_RES[0], IMG_RES[1], True, 3, nIter, xmin, xmax, ymin, ymax)
+    the_raw = get_raw_grayscale_image(resW,resH, True, 3, nIter, xmin, xmax, ymin, ymax)
     return the_raw
 
 def runBurningShip():
 
     IMG_RES = [2000, 2000]
+    OUTPUT_PTH = './_the_rendered_image.jpg'
 
-    the_raw, find_fractal_data_pack = find_fractal()
-
-    # IMG_RES = [1280, 1280]
-    # IMG_RES = [1080, 1080]
-    # IMG_RES = [2000, 2000]
-    # ct = random.randint(1, 255)  # PPM color threshold
-    # hue_offset = random.randint(0, 359)
-    # saturation = round( random.uniform(-1, 1), 2 )
-    # ppm_data = get_ppm(the_raw, IMG_RES[0], IMG_RES[1], ct, hue_offset, saturation)
-    ppm_data = get_ppm(raw=the_raw, w=IMG_RES[0],h=IMG_RES[1], 
-        ct=random.randint(1, 255)  # PPM color threshold,
+    the_raw = find_fractal()
+    ppmData = get_ppm(
+        raw=the_raw,
+        w=IMG_RES[0],h=IMG_RES[1], 
+        ct=random.randint(1, 255),  # PPM color threshold
         hue_offset=random.randint(0, 359),
         saturation=round( random.uniform(-1, 1), 2 ),
     )
-
-
-    # outputPth='./_the_rendered_image.jpg'
-    OUTPUT_PTH = './_the_rendered_image.jpg'
     saveImg(
         edit_contrast=round( random.uniform(0.7, 1.8)  , 2 ),
         edit_brightness=round( random.uniform(-0.1, 0.23), 2 ),
@@ -128,4 +112,4 @@ def runBurningShip():
         ppm_data=ppmData,
         outputPth=OUTPUT_PTH,
     )
-    upload(outputPth)
+    upload(OUTPUT_PTH)
