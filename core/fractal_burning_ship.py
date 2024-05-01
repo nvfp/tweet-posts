@@ -1,5 +1,5 @@
 import random, time, numpy as np, numba as nb
-from .post_online import post_online
+from .upload import upload
 from .get_ppm import get_ppm
 from .render_img import render_with_stats
 

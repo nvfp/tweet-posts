@@ -19,6 +19,8 @@ def uploadTwitter(imgPath, postDesc):
     media = client_v1.media_upload(filename=imgPath)  # post the image first then the desc
     client_v2.create_tweet(text=postDesc, media_ids=[media.media_id])  # Upload the post's description
 
+    print('uploaded to twitter.')
+
 def uploadMastodon(imgPath, postDesc):
     access_token = os.environ['MASTODON_ACCESS_TOKEN']
 
@@ -37,6 +39,8 @@ def uploadMastodon(imgPath, postDesc):
         data=payload
     )
     if response.status_code != 200:raise AssertionError(f"text response: {response}")
+
+    print('uploaded to mastodon.')
 
 def upload():
     pth = RENDERED_IMG_PTH
