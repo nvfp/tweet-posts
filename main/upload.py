@@ -18,7 +18,7 @@ def uploadTwitter(imgPth, postDesc):
     media = client_v1.media_upload(filename=imgPth)  # post the image first then the desc
     client_v2.create_tweet(text=postDesc, media_ids=[media.media_id])  # Upload the post's description
 
-    print('uploaded to twitter.')
+    print('uploaded to twitter')
 
 def uploadMastodon(imgPth, postDesc):
     access_token = os.environ['MASTODON_ACCESS_TOKEN']
@@ -29,7 +29,7 @@ def uploadMastodon(imgPth, postDesc):
             headers={'Authorization': f'Bearer {access_token}'},
             files={'file': file}
         )
-        if response.status_code != 200:raise AssertionError(f"image response: {response}")
+        if response.status_code != 200:raise AssertionError
 
     payload = {'status': postDesc, 'media_ids[]': response.json()['id']}  # now, upload the post's description
     response = requests.post(
@@ -37,9 +37,9 @@ def uploadMastodon(imgPth, postDesc):
         headers={'Authorization': f'Bearer {access_token}'},
         data=payload
     )
-    if response.status_code != 200:raise AssertionError(f"text response: {response}")
+    if response.status_code != 200:raise AssertionError
 
-    print('uploaded to mastodon.')
+    print('uploaded to mastodon')
 
 def upload(imgPth):
     desc=f"Happy {datetime.datetime.now().strftime('%A')}!"

@@ -40,6 +40,5 @@ def convert(arr, hue_offset, saturation):
 
 def get_ppm(raw, w, h, ct, hue_offset, saturation):
     raw = convert(raw, hue_offset, saturation)
-    ppm = f'P6 {w} {h} {ct} '.encode()
-    ppm += raw.astype(np.uint8).tobytes()
+    ppm = f"P6 {w} {h} {ct} ".encode() + raw.astype(np.uint8).tobytes()  # ppm-HEADER + image-data
     return ppm
