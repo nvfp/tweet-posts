@@ -68,7 +68,7 @@ def findFractal(resW,resH):
 
     std = -1  # standard deviation
     nIter, xmin,xmax, ymin,ymax = 0,0,0,0,0
-    while std < 11:
+    while std < 17:
         nIter = random.randint(256, 4096)
         xmin,xmax, ymin,ymax = getRandomRange(resW,resH)
         

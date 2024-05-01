@@ -44,4 +44,4 @@ def saveImg(
     pipe.wait()
     pipe.terminate()
 
-    print(f"Image saved at {repr(outputPth)} ({round(os.path.getsize(outputPth)/1000,1)} kB).")
+    print(f"Image saved ({round(os.path.getsize(outputPth)/1000,1)} kB)")
