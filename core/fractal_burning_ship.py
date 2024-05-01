@@ -1,7 +1,7 @@
 import random, time, numpy as np, numba as nb
-from .upload import upload
 from .get_ppm import get_ppm
-from .render_img import render_with_stats
+from .save_image import saveImg
+from .upload import upload
 
 @nb.jit(nb.int32(nb.complex128, nb.int32))
 def _get_esc_iter(c_frag, n_iter_frag):
@@ -68,8 +68,6 @@ def find_fractal():
 
     # n_iter = random.randint(128, 512)
 
-    data_pack = {}
-    
     k = 0
     t = time.time()
     std = -1  # standard deviation
@@ -139,5 +137,4 @@ def run_burning_ship():
         data_pack,
     )
 
-    ## Posting
-    out = post_online(FRACTAL_NAME)
+    upload()

@@ -13,6 +13,7 @@ def saveImg(
     edit_temp,
 
     ppm_data,
+    outputPath,
 ):
     vFilter = (
         'eq='
