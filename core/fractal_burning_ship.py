@@ -1,11 +1,7 @@
 import random, time, numpy as np, numba as nb
-from .shared import IMG_RES
 from .post_online import post_online
-from .write_md import write_metadata_file
 from .get_ppm import get_ppm
 from .render_img import render_with_stats
-
-FRACTAL_NAME = 'Burning Ship'  # will be used in post's description
 
 @nb.jit(nb.int32(nb.complex128, nb.int32))
 def _get_esc_iter(c_frag, n_iter_frag):
@@ -107,8 +103,6 @@ def find_fractal():
 
 def run_burning_ship():
 
-    data_pack = {'fractal_name': FRACTAL_NAME}
-    
     ct = random.randint(1, 255)  # PPM color threshold
     hue_offset = random.randint(0, 359)
     saturation = round( random.uniform(-1, 1), 2 )
@@ -131,22 +125,6 @@ def run_burning_ship():
     edit_vignette   = random.randint(-51, -13)
     edit_temp       = random.randint(2000, 8000)
 
-    # Export
-    # file_size = save_img(
-    #     IMAGE_PTH,
-    #     ppm_data,
-
-    #     edit_contrast,
-    #     edit_brightness,
-    #     edit_saturation,
-    #     edit_gamma,
-    #     edit_gamma_r,
-    #     edit_gamma_g,
-    #     edit_gamma_b,
-    #     edit_vignette,
-    #     edit_temp
-    # )
-
     render_with_stats(
         ppm_data,
         edit_contrast,
@@ -163,9 +141,3 @@ def run_burning_ship():
 
     ## Posting
     out = post_online(FRACTAL_NAME)
-
-
-    # write_metadata_file(FRACTAL_NAME,)
-    # md_pack = {
-        
-    # }
