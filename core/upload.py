@@ -58,10 +58,6 @@ def uploadMastodon(imgPath, postDesc):
     return post_id
 
 def upload():
-    # day=datetime.datetime.now().strftime('%A')
-    # # desc=f"{random.choice(['Happy', ])} {day}"
-    # # desc=f"Happy {day}!  {' '.join(random.sample(['#AI','#Art','#ModernArt']))}"
-    # desc=f"Happy {day}!"
     pth='./the_rendered_image.jpg'
     desc=f"Happy {datetime.datetime.now().strftime('%A')}!"
     uploadTwitter(pth, desc)
