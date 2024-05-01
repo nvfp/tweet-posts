@@ -15,16 +15,9 @@ def uploadTwitter(imgPath, postDesc):
         access_token=access_token, access_token_secret=access_token_secret,
         consumer_key=consumer_key, consumer_secret=consumer_secret
     )
-    try:
-        media = client_v1.media_upload(filename=imgPath)  # post the image first then the desc
-        posted = client_v2.create_tweet(text=postDesc, media_ids=[media.media_id])  # Upload the post's description
 
-        # tweet_id = posted.data['id']
-        # print(f"tweet_id: {tweet_id}")
-        # return tweet_id
-    except Exception as err:
-        print(f'ERROR: {err}')
-        return f"Err: {err}"
+    media = client_v1.media_upload(filename=imgPath)  # post the image first then the desc
+    client_v2.create_tweet(text=postDesc, media_ids=[media.media_id])  # Upload the post's description
 
 def uploadMastodon(imgPath, postDesc):
     access_token = os.environ['MASTODON_ACCESS_TOKEN']
@@ -36,22 +29,22 @@ def uploadMastodon(imgPath, postDesc):
             headers={'Authorization': f'Bearer {access_token}'},
             files={'file': file}
         )
-        if response.status_code != 200:
-            print(f'WARNING: image response: {response}')
-            return f"Err: {response}"
-    media_id = response.json()['id']
+        if response.status_code != 200:raise AssertionError(f"image response: {response}")
+            # print(f'WARNING: image response: {response}')
+            # return f"Err: {response}"
+    # media_id = response.json()['id']
 
     ## Text
-    payload = {'status': postDesc, 'media_ids[]': media_id}
+    payload = {'status': postDesc, 'media_ids[]': response.json()['id']}
     response = requests.post(
         'https://mastodon.social/api/v1/statuses',
         headers={'Authorization': f'Bearer {access_token}'},
         data=payload
     )
     # print(json.dumps(response.json(), indent=4))
-    if response.status_code != 200:
-        print(f'WARNING: text response: {response}')
-        return f"Err: {response}"
+    if response.status_code != 200:raise AssertionError(f"text response: {response}")
+        # print(f'WARNING: text response: {response}')
+        # return f"Err: {response}"
     # post_id = response.json()['id']
     # print(f'INFO: Sent. post_id: {repr(post_id)}')
     # return post_id
