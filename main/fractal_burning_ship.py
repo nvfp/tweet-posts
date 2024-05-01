@@ -101,7 +101,7 @@ def runBurningShip():
         edit_vignette   = random.randint(-51, -13),
         edit_temp       = random.randint(2000, 8000),
         
-        ppm_data=ppmData,
+        ppmData=ppmData,
         outputPth=OUTPUT_PTH,
     )
     upload(OUTPUT_PTH)
