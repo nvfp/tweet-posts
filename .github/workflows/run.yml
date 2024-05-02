@@ -9,7 +9,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4      
       - run: |
-          sudo apt update -qq > /dev/null 2>&1 && sudo apt install -qq ffmpeg > /dev/null 2>&1
+          # sudo apt update -qq > /dev/null 2>&1 && sudo apt install -qq ffmpeg > /dev/null 2>&1
           pip install -q numba==0.55.2 numpy==1.22.4 tweepy==4.14.0
           python .
         env:
