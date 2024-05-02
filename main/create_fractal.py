@@ -72,7 +72,6 @@ def get_raw_grayscale_image(
     raw = compute_array(w, h, xmin, xmax, ymin, ymax, antialiasing_is_on, antialiasing_supsample, n_iter, _get_iter_mtrx)
     if antialiasing_is_on: raw = raw.reshape(h, antialiasing_supsample, w, antialiasing_supsample).mean(3).mean(1)
     return raw
-# def getRandomRange(resW,resH, regMinX,regMaxX):# [xRegMin/max: is the region where the fractal is visible]
 def getRandomRange(resW,resH, xRegMin,xRegMax, yRegMin,yRegMax):# [xRegMin/max: is the region where the fractal is visible]
     
     total_width  = xRegMax-xRegMin
@@ -92,22 +91,22 @@ def findFractal(resW,resH, std_min, nIter_min,nIter_max, _get_iter_mtrx, xRegMin
 
     std = -1  # standard deviation
     nIter, xmin,xmax, ymin,ymax = 0,0,0,0,0
-    # while std < desiredStd:
     while std < std_min:
         nIter = random.randint(nIter_min,nIter_max)
         xmin,xmax, ymin,ymax = getRandomRange(resW,resH, xRegMin,xRegMax, yRegMin,yRegMax)
         
         sample = get_raw_grayscale_image(round(resW/2),round(resH/2), False, 2, nIter, xmin,xmax, ymin,ymax, _get_iter_mtrx)  # during search, dont use antialiasing, and use lower resolution for faster search.
-        std = np.std(sample)
+        raise AssertionError(repr(sample.shape))
+        std = np.std(sample[tly:dry+1, tlx:drx+1])
         
     return get_raw_grayscale_image(resW,resH, True, 5, nIter, xmin, xmax, ymin, ymax, _get_iter_mtrx)  # Return the full quality
 
-def createFractal():
+def createFractal(std_min, nIter_min,nIter_max, _get_iter_mtrx, xRegMin,xRegMax, yRegMin,yRegMax):
 
     IMG_RES = [2000, 3000]
     OUTPUT_PTH = './out.jpg'
 
-    the_raw = findFractal(IMG_RES[0], IMG_RES[1])
+    the_raw = findFractal(IMG_RES[0], IMG_RES[1], std_min, nIter_min,nIter_max, _get_iter_mtrx, xRegMin,xRegMax, yRegMin,yRegMax)
     ppmData = get_ppm(
         raw=the_raw,
         w=IMG_RES[0],h=IMG_RES[1], 

@@ -1,6 +1,6 @@
 import random, numpy as np, numba as nb
 from .get_ppm import get_ppm
-from .save_image import saveImg
+# from .save_image import saveImg
 from .upload import upload
 
 @nb.jit(nb.int32(nb.complex128, nb.int32))
@@ -74,6 +74,10 @@ def findFractal(resW,resH):
     return get_raw_grayscale_image(resW,resH, True, 5, nIter, xmin, xmax, ymin, ymax)  # Return the full quality
 
 def runMultibrot3():
+
+    from .create_fractal import createFractal
+    createFractal(3, 100,300, _get_iter_mtrx,-2,2, -1.5,1.5)
+    return
 
     IMG_RES = [2000, 3000]
     OUTPUT_PTH = './_the_rendered_image.jpg'
