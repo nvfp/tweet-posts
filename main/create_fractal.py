@@ -71,7 +71,7 @@ def get_raw_grayscale_image(
 ):
     raw = compute_array(w, h, xmin, xmax, ymin, ymax, antialiasing_is_on, antialiasing_supsample, n_iter, _get_iter_mtrx)
     if antialiasing_is_on: raw = raw.reshape(h, antialiasing_supsample, w, antialiasing_supsample).mean(3).mean(1)
-    return raw
+    return raw  # is 2d np array
 def getRandomRange(resW,resH, xRegMin,xRegMax, yRegMin,yRegMax):# [xRegMin/max: is the region where the fractal is visible]
     
     total_width  = xRegMax-xRegMin
@@ -96,7 +96,12 @@ def findFractal(resW,resH, std_min, nIter_min,nIter_max, _get_iter_mtrx, xRegMin
         xmin,xmax, ymin,ymax = getRandomRange(resW,resH, xRegMin,xRegMax, yRegMin,yRegMax)
         
         sample = get_raw_grayscale_image(round(resW/2),round(resH/2), False, 2, nIter, xmin,xmax, ymin,ymax, _get_iter_mtrx)  # during search, dont use antialiasing, and use lower resolution for faster search.
-        raise AssertionError(repr(sample.shape))
+        padRatio=0.2  # doing these, so the image concentrated in the middle
+        sampleH,sampleW=sample.shape
+        tlx=round(sampleW*padRatio)
+        drx=sampleW-tlx
+        tly=round(sampleH*padRatio)
+        dry=sampleH-tly
         std = np.std(sample[tly:dry+1, tlx:drx+1])
         
     return get_raw_grayscale_image(resW,resH, True, 5, nIter, xmin, xmax, ymin, ymax, _get_iter_mtrx)  # Return the full quality
