@@ -76,7 +76,7 @@ def findFractal(resW,resH):
 def runMultibrot3():
 
     from .create_fractal import createFractal
-    createFractal(9, 300,800, _get_iter_mtrx,-2,2, -1.5,1.5)
+    createFractal(5, 200,500, _get_iter_mtrx,-2,2, -1.5,1.5)
     return
 
     IMG_RES = [2000, 3000]
