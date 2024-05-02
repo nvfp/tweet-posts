@@ -1,4 +1,4 @@
-import numba as nb
+import numba as nb,numpy as np
 from .create_fractal import createFractal
 
 @nb.jit(nb.int32(nb.complex128, nb.int32))
