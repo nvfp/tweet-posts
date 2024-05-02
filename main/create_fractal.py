@@ -1,3 +1,4 @@
+"""todo: centerize the final fractal, do auto compute for fractal boundary"""
 import subprocess as sp,os,random,numpy as np
 from .get_ppm import get_ppm
 from .upload import upload
@@ -72,12 +73,12 @@ def get_raw_grayscale_image(
     raw = compute_array(w, h, xmin, xmax, ymin, ymax, antialiasing_is_on, antialiasing_supsample, n_iter, _get_iter_mtrx)
     if antialiasing_is_on: raw = raw.reshape(h, antialiasing_supsample, w, antialiasing_supsample).mean(3).mean(1)
     return raw  # is 2d np array
-def getRandomRange(resW,resH, xRegMin,xRegMax, yRegMin,yRegMax):# [xRegMin/max: is the region where the fractal is visible]
+def getRandomRange(resW,resH, xRegMin,xRegMax, yRegMin,yRegMax, scale_factor):# [xRegMin/max: is the region where the fractal is visible]
     
     total_width  = xRegMax-xRegMin
     total_height = yRegMax-yRegMin
     
-    frame_width = total_width/random.randint(1, 10_000)
+    frame_width = total_width/random.randint(1, scale_factor)#the captured one
     frame_height = frame_width*(resH/resW)  # based on aspect ratio
 
     xmin = random.uniform(xRegMin, xRegMax-frame_width)
@@ -87,13 +88,13 @@ def getRandomRange(resW,resH, xRegMin,xRegMax, yRegMin,yRegMax):# [xRegMin/max: 
     ymax = ymin + frame_height
 
     return xmin,xmax, ymin,ymax
-def findFractal(resW,resH, std_min, nIter_min,nIter_max, _get_iter_mtrx, xRegMin,xRegMax, yRegMin,yRegMax):
+def findFractal(resW,resH, std_min, nIter_min,nIter_max, _get_iter_mtrx, xRegMin,xRegMax, yRegMin,yRegMax, scale_factor):
 
     std = -1  # standard deviation
     nIter, xmin,xmax, ymin,ymax = 0,0,0,0,0
     while std < std_min:
         nIter = random.randint(nIter_min,nIter_max)
-        xmin,xmax, ymin,ymax = getRandomRange(resW,resH, xRegMin,xRegMax, yRegMin,yRegMax)
+        xmin,xmax, ymin,ymax = getRandomRange(resW,resH, xRegMin,xRegMax, yRegMin,yRegMax, scale_factor)
         
         sample = get_raw_grayscale_image(round(resW/2),round(resH/2), False, 2, nIter, xmin,xmax, ymin,ymax, _get_iter_mtrx)  # during search, dont use antialiasing, and use lower resolution for faster search.
         padRatio=0.2  # doing these, so the image concentrated in the middle
@@ -106,12 +107,12 @@ def findFractal(resW,resH, std_min, nIter_min,nIter_max, _get_iter_mtrx, xRegMin
         
     return get_raw_grayscale_image(resW,resH, True, 5, nIter, xmin, xmax, ymin, ymax, _get_iter_mtrx)  # Return the full quality
 
-def createFractal(std_min, nIter_min,nIter_max, _get_iter_mtrx, xRegMin,xRegMax, yRegMin,yRegMax):
+def createFractal(std_min, nIter_min,nIter_max, _get_iter_mtrx, xRegMin,xRegMax, yRegMin,yRegMax, scale_factor):
 
     IMG_RES = [2000, 3000]
     OUTPUT_PTH = './out.jpg'
 
-    the_raw = findFractal(IMG_RES[0], IMG_RES[1], std_min, nIter_min,nIter_max, _get_iter_mtrx, xRegMin,xRegMax, yRegMin,yRegMax)
+    the_raw = findFractal(IMG_RES[0], IMG_RES[1], std_min, nIter_min,nIter_max, _get_iter_mtrx, xRegMin,xRegMax, yRegMin,yRegMax, scale_factor)
     ppmData = get_ppm(
         raw=the_raw,
         w=IMG_RES[0],h=IMG_RES[1], 
