@@ -1,1 +1,1 @@
-Fractals image generator powered by Python, FFmpeg, and GitHub Action.
+Fractal images generation. Powered by Python, FFmpeg, and GitHub Actions.

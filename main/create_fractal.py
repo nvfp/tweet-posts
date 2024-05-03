@@ -97,7 +97,7 @@ def findFractal(resW,resH, std_min, nIter_min,nIter_max, _get_iter_mtrx, xRegMin
         xmin,xmax, ymin,ymax = getRandomRange(resW,resH, xRegMin,xRegMax, yRegMin,yRegMax, scale_factor)
         
         sample = get_raw_grayscale_image(round(resW/2),round(resH/2), False, 2, nIter, xmin,xmax, ymin,ymax, _get_iter_mtrx)  # during search, dont use antialiasing, and use lower resolution for faster search.
-        padRatio=0.2  # doing these, so the image concentrated in the middle
+        padRatio=0.27  # doing these, so the image concentrated in the middle
         sampleH,sampleW=sample.shape
         tlx=round(sampleW*padRatio)
         drx=sampleW-tlx
