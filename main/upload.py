@@ -42,7 +42,6 @@ def uploadMastodon(imgPth, postDesc):
     print('uploaded to mastodon')
 
 def upload(imgPth):
-    # desc=" ".join(random.sample(["#AI", "#crypto", "#climatechange", "#spaceexploration", "#blockchain"], 3)) + ' '
     desc=" ".join(random.sample(["#AI", "#crypto", "#climatechange", "#spaceexploration", "#blockchain"], 3))
     uploadTwitter(imgPth, desc)
     uploadMastodon(imgPth, desc)
