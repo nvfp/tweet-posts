@@ -16,4 +16,4 @@ def getIterMtrx_deg3(c_mtrx, n_iter, iter_mtrx):
         iter_mtrx[i] = getEscIter_deg3(c_mtrx[i], n_iter_frag)
 
 def runMultibrot3():
-    createFractal(13, 100,3000, getIterMtrx_deg3,-2,2, -1.5,1.5, 1000)
+    createFractal(15, 1000,3000, getIterMtrx_deg3,-2,2, -1.5,1.5, 1000)

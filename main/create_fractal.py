@@ -123,13 +123,13 @@ def createFractal(std_min, nIter_min,nIter_max, _get_iter_mtrx, xRegMin,xRegMax,
     )
     saveImg(
         edit_contrast   = random.uniform(1.3,1.7),
-        edit_brightness = random.uniform(-0.03, 0.03),
+        edit_brightness = random.uniform(-0.05, 0.01),
         edit_saturation = random.uniform(0.75, 1.25),
         edit_gamma      = random.uniform(0.9, 1.1),
         edit_gamma_r    = random.uniform(0.9, 1.1),
         edit_gamma_g    = random.uniform(0.9, 1.1),
         edit_gamma_b    = random.uniform(0.9, 1.1),
-        edit_vignette   = random.randint(-71,-39),
+        edit_vignette   = random.randint(-39,-27),
         edit_temp       = random.randint(1200,3100),
         
         ppmData=ppmData,
