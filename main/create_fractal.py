@@ -116,7 +116,8 @@ def createFractal(std_min, nIter_min,nIter_max, _get_iter_mtrx, xRegMin,xRegMax,
     ppmData = get_ppm(
         raw=the_raw,
         w=IMG_RES[0],h=IMG_RES[1], 
-        ct=255,  # PPM color threshold
+        # ct=random.choice([1, 255]),  # PPM color threshold
+        ct=1,  # PPM color threshold
         hue_offset=random.randint(0,359),
         saturation=random.uniform(0.9,1.1),
     )
@@ -128,8 +129,8 @@ def createFractal(std_min, nIter_min,nIter_max, _get_iter_mtrx, xRegMin,xRegMax,
         edit_gamma_r    = random.uniform(0.9, 1.1),
         edit_gamma_g    = random.uniform(0.9, 1.1),
         edit_gamma_b    = random.uniform(0.9, 1.1),
-        edit_vignette   = random.randint(-59,-39),
-        edit_temp       = random.randint(1900,3500),
+        edit_vignette   = random.randint(-71,-39),
+        edit_temp       = random.randint(1200,3100),
         
         ppmData=ppmData,
         outputPth=OUTPUT_PTH,

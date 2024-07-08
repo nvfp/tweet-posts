@@ -20,4 +20,4 @@ def _get_iter_mtrx(c_mtrx, n_iter, iter_mtrx):
         iter_mtrx[i] = _get_esc_iter(c_mtrx[i], n_iter_frag)
 
 def runNewton():
-    createFractal(5, 100,3000, _get_iter_mtrx,-3,3, -2,2, 100)
+    createFractal(3, 100,3000, _get_iter_mtrx,-3,3, -2,2, 100)
