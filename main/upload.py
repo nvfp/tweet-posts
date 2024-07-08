@@ -42,6 +42,6 @@ def uploadMastodon(imgPth, postDesc):
     print('uploaded to mastodon')
 
 def upload(imgPth):
-    desc=f"Happy {datetime.datetime.now().strftime('%A')}!"
+    desc='#nature #art '
     uploadTwitter(imgPth, desc)
     uploadMastodon(imgPth, desc)
