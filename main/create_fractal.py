@@ -97,7 +97,7 @@ def findFractal(resW,resH, std_min, nIter_min,nIter_max, _get_iter_mtrx, xRegMin
         xmin,xmax, ymin,ymax = getRandomRange(resW,resH, xRegMin,xRegMax, yRegMin,yRegMax, scale_factor)
         
         sample = get_raw_grayscale_image(round(resW/2),round(resH/2), False, 2, nIter, xmin,xmax, ymin,ymax, _get_iter_mtrx)  # during search, dont use antialiasing, and use lower resolution for faster search.
-        padRatio=0.27  # doing these, so the image concentrated in the middle
+        padRatio=0.33  # doing these, so the image concentrated in the middle
         sampleH,sampleW=sample.shape
         tlx=round(sampleW*padRatio)
         drx=sampleW-tlx
@@ -109,27 +109,27 @@ def findFractal(resW,resH, std_min, nIter_min,nIter_max, _get_iter_mtrx, xRegMin
 
 def createFractal(std_min, nIter_min,nIter_max, _get_iter_mtrx, xRegMin,xRegMax, yRegMin,yRegMax, scale_factor):
 
-    IMG_RES = [2000, 3000]
+    IMG_RES = [1500,1500]
     OUTPUT_PTH = './out.jpg'
 
     the_raw = findFractal(IMG_RES[0], IMG_RES[1], std_min, nIter_min,nIter_max, _get_iter_mtrx, xRegMin,xRegMax, yRegMin,yRegMax, scale_factor)
     ppmData = get_ppm(
         raw=the_raw,
         w=IMG_RES[0],h=IMG_RES[1], 
-        ct=random.choice([1, 255]),  # PPM color threshold
-        hue_offset=random.randint(0, 359),
-        saturation=random.uniform(0.5, 1.5)*random.choice([-1,1]),
+        ct=255,  # PPM color threshold
+        hue_offset=random.randint(0,359),
+        saturation=random.uniform(0.9,1.1),
     )
     saveImg(
-        edit_contrast   = random.uniform(0.7, 1.8),
-        edit_brightness = random.uniform(-0.1, 0.23),
-        edit_saturation = random.uniform(0.25, 1.75),
+        edit_contrast   = random.uniform(1.5,2.1),
+        edit_brightness = random.uniform(-0.13, 0.05),
+        edit_saturation = random.uniform(0.75, 1.25),
         edit_gamma      = random.uniform(0.9, 1.1),
         edit_gamma_r    = random.uniform(0.9, 1.1),
         edit_gamma_g    = random.uniform(0.9, 1.1),
         edit_gamma_b    = random.uniform(0.9, 1.1),
-        edit_vignette   = random.randint(-51, -13),
-        edit_temp       = random.randint(2000, 8000),
+        edit_vignette   = random.randint(-71, -31),
+        edit_temp       = random.randint(1000,3000),
         
         ppmData=ppmData,
         outputPth=OUTPUT_PTH,

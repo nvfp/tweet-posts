@@ -1,4 +1,4 @@
-import os, requests, tweepy, datetime
+import os,requests,tweepy,random
 
 def uploadTwitter(imgPth, postDesc):
     access_token = os.environ['X_ACCESS_TOKEN']
@@ -42,6 +42,7 @@ def uploadMastodon(imgPth, postDesc):
     print('uploaded to mastodon')
 
 def upload(imgPth):
-    desc='#nature #art '
+    # desc=" ".join(random.sample(["#AI", "#crypto", "#climatechange", "#spaceexploration", "#blockchain"], 3)) + ' '
+    desc=" ".join(random.sample(["#AI", "#crypto", "#climatechange", "#spaceexploration", "#blockchain"], 3))
     uploadTwitter(imgPth, desc)
     uploadMastodon(imgPth, desc)
